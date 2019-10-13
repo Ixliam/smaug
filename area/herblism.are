@@ -1,0 +1,2450 @@
+#AREA        The Battlefield & University~
+
+
+
+#AUTHOR      none~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#50000
+ancient being light~
+an ancient being of light~
+An ancient being of light is standing here.
+~
+~
+64 524288 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50001
+student young~
+a student~
+A student is here, headed to class.
+~
+~
+128 32 0 C
+75 0 -45 7d11+380 8d9+38
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50002
+ancient one~
+`^the `wAncient One`^~
+A figure in dark black robes is here.
+~
+~
+2 4096 -600 C
+90 0 -59 9d12+435 6d10+5
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50003
+female elf teacher~
+the elvish teacher~
+A female elf is here teaching the elvish language.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50004
+dwarf dwarven teacher male~
+the dwarven teacher~
+A male dwarf is here instructing students in the dwarven language.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50005
+teacher herbalism shopkeeper female~
+`#`gA human female herbology teacher`^~
+A human female teacher is standing here beside a large bookshelf
+~
+~
+64 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50007
+teacher human female~
+the human teacher~
+A female human is here teaching the common language.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50008
+faerie teacher female~
+the faerie teacher~
+A female faerie is here teaching the faerie language.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50009
+orc teacher male~
+a huge orc~
+A male orc is here, teaching a language class.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50010
+troll teacher male~
+a large troll~
+A large troll is here teaching class, believe it or not.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50012
+female goblin troll teacher~
+a female goblin~
+A goblin teacher is here instructing her class.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50013
+kobold male teacher~
+a kobold teacher~
+A kobold is here, teaching language class.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50015
+gnome teacher male~
+a male gnome~
+A gnome teacher is here instructing his class.
+~
+~
+64 4096 0 C
+92 0 -62 9d13+445 10d11+47
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50016
+gnoll teacher~
+an ugly gnoll~
+A gnoll is teaching class here.
+~
+~
+64 128 0 C
+92 0 -62 9d13+445 10d11+47
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50018
+knight solamnic teacher~
+a `cSolamnic Knight`^~
+A Solamnic Knight is here teaching class.
+~
+~
+64 4096 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50021
+unseen force~
+an unseen force~
+Unseen Force
+~
+~
+64 4096 -600 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50022
+unseen force~
+an unseen force~
+Unseen Force
+~
+~
+64 4096 -600 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50023
+unseen force~
+an unseen force~
+Unseen Force
+~
+~
+64 4096 -600 C
+90 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#50048
+unseen force~
+an unseen force~
+Unseen Force
+~
+~
+64 4096 -600 C
+90 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#50000
+herb arachnagelica leaf~
+an `#`Ca`wr`Wa`wc`Ch`Wn`wa`Wg`Ce`wl`Wi`wc`Ca leaf`^~
+A leaf with cobweb-like veins is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50001
+herb flower blackrose~
+a `#`rb`sl`ra`sc`rk`srose flower`^~
+A black flower lies here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50002
+fiend breath herb sprig~
+a sprig of `#`gf`Yi`Ge`yn`gd`Y'`Gs `yb`gr`Ge`Ya`gt`yh`^~
+A sprig of a greenish-yellow plant is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50003
+herb mandrake root~
+a `#`gm`Ga`gn`Gd`gr`Ga`gk`Ge `groot`^~
+A dark, fiberous looking plant root is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50004
+herb nightshade sinister petals~
+some `#`mn`si`mg`sh`mt`ss`mh`sa`md`se `mpetals`^~
+Some sinister looking flower petals are here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50005
+snakespike herb sprig~
+a `#`gsprig`^ of `gs`Sn`ga`sk`ge`ss`gp`si`gk`se`^~
+A sprig of a green plant with sharp thorns is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50006
+herb tarnas root~
+a `#`Starnas root`^~
+A blackened plant root lies here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50007
+herb vipers weed vipersweed~
+some `#`yv`si`wp`We`yr`ss`ww`We`ye`sd`^~
+A nasty-looking weed is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50008
+herb adders tongue leaf~
+an `#`Ga`gd`Gd`ge`Gr`g'`Gs `gt`Go`gn`Gg`gu`Ge`g leaf`^~
+A curvy leaf lies here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50009
+herb aloe plant~
+an `#`Ga`Wlo`Ge plant`^~
+A small green plant is here~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50010
+herb bluespine root~
+some `#`Bb`bl`Bu`be`Bs`bp`Bi`bn`Be`b root`^~
+A blue root of a plant is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50011
+herb djinn fern~
+a `#`gd`Yjin`gn `Yf`ge`Yr`gn`^~
+A leafy fern is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50012
+dragons tears herbs flower~
+a `#`Bdr`bag`Bon`b's `Wt`Ce`Wa`Cr`Ws `bf`Cl`Bo`Ww`be`cr`^~
+A beautiful teadrop shaped flower is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50013
+herb ettin breath sprig~
+a `#`Gsprig`^ of `get`Gti`gn's `Gb`gr`Ge`ga`Gt`gh`^~
+A small green sprig is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50014
+herb sunblossom flower~
+a `#`Ys`yu`Yn`yb`Yl`Yo`ys`Ys`Yo`ym`Y f`wl`yo`Yw`we`Yr`^~
+A bright yellow flower is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50015
+herb bloodkelp~
+some `#`rbl`Roo`rd`Rke`rlp`^~
+A bunch of bloodkelp lies here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50016
+herb drafroot root~
+some `#`Wd`wr`sa`wf`sr`Wo`wo`St`^~
+A smelly plant root is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50017
+flaxweed weed herb~
+some `#`Bf`cl`ba`Cx`cw`Be`Ce`bd`^~
+A fiberous weed is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50018
+rheum leaf herb~
+a `#`rrheum`^ leaf~
+A reddish leaf of some plant is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50019
+herb serpentweed weed snake~
+some `#`Ss`ger`Sp`gen`st`gwe`se`gd`^~
+A snake-like weed is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50020
+herb siren root~
+a `#`Rs`si`Rr`se`Rn`s r`Roo`st`^~
+A root looking like a woman screaming is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50021
+sharkswort herb bunch~
+a bunch of `#`ss`gha`srk`gsw`sor`gt`^~
+A bunch of a plant is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50022
+amber spores herb~
+some `#`yamber `ws`yp`wo`yr`we`ys`^~
+An amber colored mushroom is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50023
+herb autumn blossom flower~
+an `#`yautumn `Wb`yl`Wo`ys`Ws`yo`Wm`^ flower~
+A orange colored flower is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50024
+blacknettle cone spiny herb~
+a `#`wb`Slack`wn`Settle cone`^~
+A blackened cone from a tree is here.~
+~
+21 0 16
+0 0 0 0
+0 12 1
+#50025
+colewart spiny orange herb~
+a `ycolewart`^ plant~
+A small spiny orange plant is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50026
+giantweed sprig weed herb~
+a `#`gs`bp`gr`bi`gg`^ of `bgi`ga`bnt`gw`bee`gd`^~
+A large leaf from a big plant is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50027
+doilan buds herb~
+`#`Yd`yo`Yi`yl`Ya`yn `Ybuds`^~
+Buds from a yellow plant are here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50028
+lavender herb leaf leaves~
+a `#`ml`ba`mv`be`mn`bd`me`br`m l`bea`mf`^~
+A sweet smelling leaf is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50029
+miretar crown herb bulb~
+a `#`Sbulb`^ of `ym`sir`ye`sta`yr`s's`y c`sr`yo`sw`yn`^~
+A strange looking plant bulb is here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50030
+red morel fungus fungi herb mushroom~
+a `#`rr`Red `rm`Rorel`^~
+A red mushroom is growing here.~
+~
+21 0 16
+0 0 0 0
+0 2 1
+#50031
+comet tail herb plant bright~
+a `#`Yc`Womet's `Yt`Wa`Yi`Wl`Y p`Wlan`Yt`^~
+A bright glowing plant is here.~
+~
+21 1 16
+0 0 0 0
+0 10 1
+#50032
+featherfew herb leaf~
+a `#`Wf`Ce`ca`Cth`ce`Cr`Wf`Cew `cl`Ce`ca`Cf`^~
+A feathery looking leaf is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50033
+hawks bane stalk herb plant~
+a `#`Gs`gt`Ga`gl`Gk`^ of `Sh`Bawk's b`Sane`^~
+A stalk of some plant lies here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50034
+moonwort fungus fungi herb~
+some `#`Wm`wo`Wo`wn`Ww`wo`Wr`wt `sf`Wun`sg`Wi`^~
+A patch of glowing fungi is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50035
+rocs breath herb flower~
+a `#`yr`ro`yc`r'`ys `rbr`yea`rth `yf`rl`yo`rw`ye`rr`^~
+A pungent flower is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50036
+whitecandle herb oily plant~
+a `#`ww`White`wc`Wandle `wp`Wl`Ca`Wn`wt`^~
+An oily looking plant is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50037
+wight orchid herb~
+a `#`mw`Wi`wg`mh`Wt `mo`Wr`wc`Wh`mi`wd`^~
+An orchid with dark mist around it is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50038
+bark herb winterbark~
+some `#`Cw`sin`Ct`ser`Cb`sar`Ck`^~
+Some frosty-looking tree bark is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50039
+green lotus blossom herb~
+a `#`Gg`green `Gl`wo`gt`wu`Gs `Wb`gl`Wo`gs`Ws`go`Wm`^~
+A greenish blossom is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50040
+sprig hemlock herb~
+a `#`Cs`cp`Cr`ci`Cg`^ of `ch`Cem`cl`Cock`^~
+A greenish sprig of a plant is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50041
+plant herb milkwort~
+some `#`Wm`wi`Wl`wk`Ww`so`Wr`st`^~
+A milky looking plant is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50042
+mirthwillow herb branch~
+a `#`Cm`sirth`Cw`sillow `Cb`sr`Ca`Sn`Cc`sh`^~
+A droopy looking tree branch is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#50043
+red willow leaf herb~
+a `#`rr`Re`rd `Rw`si`rl`Rl`so`rw `sl`re`Ra`sf`^~
+A red leaf is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50044
+herb thistle~
+a `#`bt`Bh`si`Bs`bt`Sl`be`^~
+A dark thistle is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50045
+wolf moss herb hairy~
+some `#`S`cw`Solf `cm`Soss`^~
+Some hairy looking moss is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50046
+wormwood wood herb~
+a `#`yp`wiece`^ of `yw`wor`ymw`woo`yd`^~
+A worm-bored piece of wood is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50047
+aspblossom flower wicked~
+an `#`ras`sp`rbl`So`rss`so`rm `sfl`ro`swe`rr`^~
+A wicked looking flower is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50048
+drider leaf herb black gold~
+a `#`sd`yri`sd`yer `sl`ye`sa`yf`^~
+A black and gold leaf is here.~
+~
+21 1 16
+0 0 0 0
+0 23 1
+#50049
+lhugruth leaf herb~
+a `#`rl`yhu`rgr`yut`rh `sl`ye`ra`sf`^~
+A strange looking leaf is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50050
+ruthin stalk herb plant~
+a `#`Sst`ya`slk`^ of `yr`sut`yh`sin`^~
+A orange stalk of a plant is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50051
+spiderwort herb sprig~
+a `#`ws`Sp`wr`Si`wg`^ of `ss`Wp`wi`Sd`we`Wr`sw`Wo`wr`St`^~
+A spidery looking plant sprig is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50052
+stoneberry herb berry berries~
+a `#`rs`wt`sone`rb`we`Srry`^~
+A bunch of berries lies here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50053
+hyria blossom herb flower~
+a `#`mh`By`mr`Bi`ma `Bb`mlosso`Bm`^~
+A beautiful flower is here.~
+~
+21 0 16
+0 0 0 0
+0 10 1
+#50054
+moonwillow herb branch~
+a `#`Wm`boo`Wn`bw`Wi`bll`Wo`bw `Wbr`ban`Wch`^~
+A small branch of a tree is here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50055
+srotha root herb~
+a `#`ms`rr`mo`rt`mh`ra `sr`mo`ro`st`^~
+A spindly root lies here.~
+~
+21 0 16
+0 0 0 0
+0 23 1
+#50056
+black velvet robes~
+`mB`wlack `mV`welvet `mR`wobes`^~
+A fine set of black robes are here.~
+~
+9 16 8
+22 22 18 0
+0 1800 1
+#50057
+herb herbalism leather bound book~
+`#`wa `ggreen `yleather `wbound book`^~
+A large bound book with a picture of a leaf on the front is laying here.~
+~
+13 0 8
+1 6 0 0
+0 1000 1
+E
+50057 book ~
+`#`WHerbalism 101`+
+`+
+`+
+1. Healing and Purifying - Page_1`+
+`+
+`+
+2. Resisting the Elements - Page_2`+
+`+
+`+
+3. Nature's Gifts - Page_3`+
+`+
+`+
+4. Miscellaneous Salves - Page_4`+
+`+
+`+
+`^ 
+~
+E
+50057 page_4 ~
+`#`WHerbalism Chapter 4, Miscellaneous Salves`+
+`+
+`+
+Salve of the serpent (haste)`+
+(a comet's tail plant)`+
+(a moonwillow branch)`+
+`+
+`+
+`sMarble carapace (Stone skin)`+
+(a red willow leaf)`+
+(some wolf moss)`+
+(a hyria blossom)`+
+`+
+`+
+`YRedwood balm (barkskin)`+
+(a sprig of hemlock)`+
+(a piece of wormwood)`+
+`+
+`+
+`MBalm of liquid breathing (otterlungs)`+
+(a blackrose flower)`+
+(some bloodkelp)`+
+(a stoneberry)`+
+`+
+`+
+`BSalve of wicked power (strength of the land)`+
+(an arachnagelica leaf)`+
+(a stalk of ruthin)`+
+(a stoneberry)`+
+`+
+`+
+`CPoultice of twisted illusions (illusions grandeur)`+
+(an adder's tongue leaf)`+
+(a srotha root)`+
+`^ 
+~
+E
+50057 page_3 ~
+`+
+`#`WHerbalism Chapter 3, Nature's Gifts `+
+`+
+Phoenix sight (phoenix senses)`+
+(featherfew)`+
+(fiends breath)`+
+`+
+`+
+`RA poultice made of wings (wings of the eagle)`+
+(featherfew)`+
+(drafroot)`+
+`+
+`+
+`mA salve of ethereal shift (pass without trace)`+
+(an arachnagelica leaf)`+
+(some vipersweed)`+
+`+
+`+
+`wSixth sight (eyes of nature)`+
+(a lavender leaf)`+
+(a piece of wormwood)`+
+(a stalk of ruthin)`+
+`+
+`+
+`GEderi's anti-venom (snake essence)`+
+(an adder's tongue leaf)`+
+(a whitecandle plant)`+
+(an aspblossom flower)`+
+`+
+`+
+`yArien's shield preparation (Wind shield)`+
+(a sprig of ettin's breath)`+
+(a bulb of miretar's crown)`+
+(some moonwort fungi)`+
+`+
+`+
+`bArachnid hand lotion (spidergrip)`+
+(an arachnagelica leaf)`+
+(a dragon's tears flower)`+
+(a sprig of spiderwort)`+
+`+
+`+
+`cSplendid eagle lotion (eagle essence)`+
+(a colewart plant)`+
+(a comet's tail plant)`+
+(a whitecandle plant)`+
+(a green lotus blossom)`+
+(a thistle)`+
+`+
+`+
+`YVision enhancing face cream (wolf sense)`+
+(a mirthwillow branch)`+
+(some wolf moss)`+
+`^ 
+~
+E
+50057 page_2 ~
+`#`WHerbalism Chapter 2, Resisting the Elements`+
+`+
+`+
+Lotion of the snake handler (resist poison)`+
+(an adder's tongue leaf)`+
+`+
+`+
+`MPoultice of shimmering ointment (resist magic)`+
+(a blackrose flower)`+
+(doilan buds)`+
+`+
+`+
+`rCreamy anti-caustic ointment (resist acid)`+
+(a tarnas root)`+
+(a djinn fern)`+
+(a red morel)`+
+(a piece of wormwood)`+
+`+
+`+
+`gSalve of searing embers (resist fire)`+
+(a sprig of ettin's breath)`+
+(a sunblossom flower)`+
+`+
+`+
+`YSalve of bitter frost (resist cold)`+
+(some winterbark)`+
+(some milkwort)`+
+`+
+`+
+`sa salve of static grounding (resist lightning)`+
+(an autumn blossom flower)`+
+(a green lotus blossom)`+
+`^ 
+~
+E
+50057 page_1 ~
+.  `#`WHerbalism Chapter 1, Healing and Purifying `+
+`+
+Minor Healing Balm`+
+(flaxweed)`+
+(dolian buds)`+
+`+
+`+
+` `GSalve of continued vigor (healing surge)`+
+(a blacknettle cone)`+
+(a piece of wormwood)`+
+(an aspblossom flower)`+
+`+
+`+
+`BMajor healing balm (heavy bonding)`+
+(an aloe plant)`+
+(some drafroot)`+
+(some flaxweed)`+
+(doilan buds)`+
+`+
+`+
+`RHealing balm (bonding)`+
+(some drafroot)`+
+(some flaxweed)`+
+(doilan buds)`+
+`+
+`+
+`YSalve of purification (purify body)`+
+(some amber spores)`+
+(some wolf moss)`+
+`+
+`+
+`mDrunkard's cure (alcohol purge)`+
+(some flaxweed)`+
+(a featherfew leaf)`+
+(a sprig of hemlock)`+
+`+
+`+
+`sA mysterious green gel (poison antidote)`+
+(some serpentweed)`+
+(a colewart plant)`+
+(doilan buds)`+
+`+
+`+
+`yPoultice of magical breakdown (strip spells)`+
+(a stalk of hawk's bane)`+
+(a whitecandle plant)`+
+`^  
+~
+#50059
+token_has_warned_palanthas_weapons~
+token_has_warned_palanthas_weapons~
+Token_has_warned_palanthas_weapons~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#50060
+poltice blank do not erase~
+an herbal poltice~
+An herbal poltice is here.~
+~
+36 0 32
+0 0 0 0
+0 0 1
+#50063
+mahogany pedestal~
+a large mahogany pedestal~
+A large mahogany pedestal rests here.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+#50064
+book necessary sin~
+a book titled "necessary sin"~
+A book titled "necessary sin" sits open on the pedestal.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+50064 page_5 ~
+`#`C----------------------------------------------------------------------`^`1`1    Summary:`1 But At What Cost`1`1  Even with good intentions, Sin does not cease to be so. Each person must 
+accept their actions. I will always bear the Sins of my actions as all 
+children of Venalena do. Though she will never speak ill of me, each time I 
+look into her eyes, I will see that Sin which has now become part of me. And 
+I must live with it.`1 To be a faithful follower of your God requires the sacrifice of purity. 
+Neither absolute good nor absolute evil can exist for any person when 
+dedicated to their deity. To be faithful means to sacrifice of yourself for 
+the needs of your god unstintingly and that means the acceptance of Sin when 
+needed by your god. Still, one cannot worship without knowing their Sins and 
+that means accepting the cost.`1`1 Tsuyei the Dreamer`1`1 `#`C----------------------------------------------------------------------`^ 
+~
+E
+50064 page_4 ~
+. `#`C----------------------------------------------------------------------`^`1`1   The Answer:`1 Necessary Sin`1`1  Where before my questions had plagued me to the deepest areas of my 
+spiritual being, it was only now that I had placed my finger upon the great 
+question. Sin had a purpose but how does it accomplish it. How do we put 
+that purpose to use? Expectantly I waited for an answer. I waited knowing 
+that in my dreams I might find what in waking eluded me. I recieved it.. but 
+not in the form I expected.`1 Gone were the verdant fields. Now? I woke to the temple of Venalena as I 
+have never seen it and hope never to again. I woke to the screams of women 
+and the light of torches. Around me, almost as if they were unaware of my 
+presence, men did acts so filthy upon the assembled crowd of women and girls 
+that I shall not speak of it for fear of inspiring others to such 
+debauchery. Men and boys staked and spread naked upon the walls. Blood in 
+sacramental cups meant for water and wine alone. I woke to evil itself.`1 Horror gripped me. I am not ashamed to say that even as the horror of the 
+scene faded, fear crept on me like a stealthy hunter in its place. Here was 
+I, a young boy, surrounded by matters that would make stout men lose heart. 
+I was young and afraid and had met demons like the stories made real.`1 Somehow inspite of my innocence or perhaps because of it, I found the 
+strength to draw one of the blades of the pillagers. With a cry that now 
+seems feeble at best, I cast myself upon them with the fury of Seandac and 
+the bloodlust of Harpan guided by the sadness of Venalena. They turned to me 
+almost surprised to find me in such a position. Men fell at the end of my 
+blade and gore poured across me in a crimson flood and I was satisfied. As 
+the last few turned and struggled in vain against me, the glee of bringing 
+death drew me into the act. And then the impossible happened.`1 Water. Water like blood poured from the cracks and crevices of every wall 
+pooled around my feet. The sound of mourning echoed from places no woman 
+could be found. My goddess cried and as I heard the woeful sound, so did I. 
+I had sinned. Though my goddess would always love me, I had sinned horribly 
+in spite of her wishes. I had sinned and enjoyed it and I was wrong for 
+doing so. Still, How could I not? The thought screamed within me. How could 
+I not sin when so many innocents needed a protector. My final revelation had 
+come upon me.`1 The existence of Sin may show us wrong deeds, but Sin itself is a 
+misleading thing. To Sin is to go against the will of one's God but it 
+speaks nothing as to the needs of one's God. I had sinned and there was no 
+atonement great enough to erase that Sin but I had done an act that was 
+needful. Though my god's wishes were for no death to occur, my god's needs 
+were different. All around me the bodies of their victims moaned and 
+groaned. Sounds that I am to this day sure would not have come from them if 
+left in the pillager's hands. It is through my Sin that my devotion to my 
+goddess was most proved.`1`1  `#`C----------------------------------------------------------------------`^ 
+~
+E
+50064 page_3 ~
+`#`C----------------------------------------------------------------------`^`1`1   The Revelation:`1 A Weighted Bargain`1  Still, though I now understood what the Mother of Mothers meant when she 
+urged for eternal love, I did not grasp Sin. Let me correct myself now. I 
+understood what Sin was fine. I had committed almost every act of it 
+possible within my brief life. What I still struggled with was why it needed 
+to exist. Especially after my revelation on the nature of Eternal Love. If 
+Venalena loves all eternally, why then does Sin matter before her? I now 
+know I was not an inherently evil person; I did no acts of malice out of 
+desire to harm. I was simply confused. Why does my Goddess who loves eternal 
+need restrictions. It was in my second great Dreaming that the answer came.`1 I awoke in my dream to the same field of flowers and yet now everything 
+was different. Where before blossoms of every shade and color assailed my 
+eyes, now only crimson dared show their faces to me. Where my Goddess had 
+held me and shared so much with me wordlessly lay the body of a child. 
+Again, the details of this child elude me upon waking. It is not of mortal 
+knowing I can only assume. What I do remember clearly was the blood which 
+poured from his lips and stomach, bubbling and flowing like a river of 
+death.1 With tears on my face, I rushed to his side without pausing. Drawing 
+forth the cloak from my back I lay him upon it searching in vain for his 
+wounds and praying every prayer I had heard uttered. I prayed for his life. 
+I prayed to exchange mine for his. I prayed to gods who I knew revelled at 
+his death if only for the chance I might be proven wrong. As I prayed, a 
+hand touched mine tenderly.1 My Goddess' eyes rested on my brow, her face a 
+study in sadness itself. Her look showed the hopelessness I felt. The child 
+was dying. Though I know not how I knew, I knew that this death was not one 
+of my imagination's making. This death was occuring somewhere in the world. 
+And as the boy's eyes fell upon my Goddess and she caressed his brow, tears 
+like crystal falling to stain his cheeks, I knew what I had been searching 
+for.`1 This child did not deserve the death he was given. He did not deserve it 
+and in the eyes of my god, it was a Sin that he was given it. Who would be 
+punished? Venalena is not a god of punishment. Venalena does not hate nor 
+condemn. She is sweet and passive, like a summer breeze. Though her children 
+hurt her by committing these heinous acts, never would my Goddess strike out 
+at them. That is what makes her the mother.`1 Why does Sin exist? Because it teaches us what is wrong in the actions of 
+man. It teaches us how our own actions hurt the goddess whom we love so very 
+much. Though she loves us without ceasation, it is through sin alone that we 
+may see what of our actions hurt her. Now I was faced with but one question. 
+What does Sin accomplish?`1`1  `#`C----------------------------------------------------------------------`^ 
+~
+E
+50064 page_2 ~
+`#`C----------------------------------------------------------------------`^`1`1    The Dreaming:`1 To Love Eternal`1`1  Like so many others, it was not in searching that I began my journey for 
+the truth, but rather the moment that I stopped. While in my daylight hours 
+I was plagued with these riddles of sin unexplained and love beyond my 
+means, in my night hours I slept. And as I slept, I dreamt.`1 It was in dreams I believe Venalena came unto me. In fields of flowers 
+everblooming, the laughter of children upon the wind, I found a goddess with 
+love unending who would never and could never turn away from her child. She 
+showed me a life filled with darkness and hatred, selfishness and greed in 
+the place of need. She showed me my own life.`1 In my dream, I feared to look up into those large eyes whose color to this 
+moment I cannot describe. I feared it for the sadness and hatred I knew I 
+deserved to find and yet I did look up, though I still know not why. In them 
+I did find the sadness I feared but not a trace of the hatred. In them I saw 
+myself as a child, fearless and fickle and full of life and youth and love. `1 I realized that I viewed myself as just the sinner who stood before her 
+and I hated that sinner. She didn't see that though. Oh no, what my Goddess 
+saw was the child who she had always seen in me and to whom she had given 
+the breath of life. In those eyes, I saw someone worth loving; Me. 
+Regardless of what deeds I had committed, she would always see me like that 
+and love me for that child because to her, everything I did would be in 
+innocence.`1 I realized at that moment that love eternal is not simply to love in spite 
+of failures but rather accepting that they may have failed but it was in the 
+innocence of a mortal who knows not how their actions change the world. I 
+realized that to love eternal means to search for that spiritual child in 
+every man, woman and child I might meet. And with this realization, I awoke. 
+`1`1  `#`C----------------------------------------------------------------------`^`1`1 
+~
+E
+50064 page_1 ~
+`#`C----------------------------------------------------------------------`^`1`1  Preface:`1 A Study of Sin`1`1  What is sin? What is it truly? Some belief it to be evil but the evil 
+will tell you that they too have sins. So if it is not evil then what? This 
+is a question that the wisest of each generation have faced and never 
+reached a simpler answer than this : Sin is offense against one's own God.`1`1  Sin itself has long been known to be the greatest of offenses to our 
+goddess the Mother of mothers, Venalena. It is for that reason that such a 
+riddle came to me. If sin is the greatest of offenses, why then is it 
+allowed to exist? The gods are all-powerful so why then do they allow such 
+an offense to exist?`1 Many will argue that case. Unfortunately, upon deeper inspection of our 
+goddess, the flaw of this argument becomes immediately apparent. Tests are 
+not required by Venalena because she knows us to our core. What does this 
+mean? It means that there is no place within our soul that she did not see 
+as she granted us the precious gift of life. No shadow she herself did not 
+deem acceptable. No secret desire harbored that she would not know. So 
+testing is pointless. Since she is aware of our very deepest desires even 
+deeper than we can delve and wise enough to allow us life in spite of them, 
+she is aware of the potential for Sin.`1 So then we are faced with the question : What purpose does Sin serve to 
+our great goddess? It is in my dreams that I saw the answer to this 
+connundrum clearly. Sin exists because our goddess realizes that while her 
+beliefs are the purest, her needs know no such restriction.`1 Our goddess calls us to a variety of duties. She calls us to mother and 
+father those children she loved so dearly as to make real. She calls us to 
+support our brothers and sisters and unite with them under the common bond 
+of love. She calls us to open ourselves to her gift at every turn and do so 
+unstintingly. And she calls us to protect the gift she has given at every 
+opportunity. It was over the course of three dreams that I learned the 
+meaning of these callings and my need to share them.`1`1  I`1 `#`C----------------------------------------------------------------------`^ 
+~
+E
+50064 book necessary sin contents~
+`#`C----------------------------------------------------------------------`^
+ 
+`1`MTable of Contents`^`
+ 
+ 
+Preface: A Study of Sin......................PAGE_1
+ 
+The Dreaming: To Love Eternal................PAGE_2
+ 
+The Revelation: A Weighted Bargain...........PAGE_3
+ 
+The Answer: Necessary Sin....................PAGE_4
+ 
+Summary: But At What Cost....................PAGE_5
+ 
+ 
+`1`MTable of Contents`^
+ 
+ 
+ 
+  `C----------------------------------------------------------------------`^
+ 
+~
+#50065
+book truths seandac~
+a leatherbound book titled "truths of seandac"~
+A leatherbound book titled "Truths of Seandac" rests on the pedestal.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+50065 page_4 ~
+. The final lesson, is one that is hard to learn or understand. Simply put, 
+it is, do not expect aid, but rather, earn it. Seandac is not your father, 
+that is a mighty claim! Neither is any other god or goddess. You do not 
+deserve his divine intervention, unless you earn it. Do not expect to be 
+protected by any blade save your own. When you have forged your way with 
+your sword, and are held as a true knight of Seandac, then you can expect 
+him to furbish you with honour, and to love you as His child. This, above 
+all else, is the one true lesson that must be learned. The power Seandac 
+gives you is only a reflection of the power you've earned. The honour you've 
+attained in his temple is built upon the honour you've earned doing his 
+deeds. If you expect to be called a true knight of Seandac, then you must 
+show that you are powerful enough, without the need for his aid. You elevate 
+yourself, your belief raises you above the commoners and the peasants. It is 
+your blade and your shield that protect you in batt le, and it is your own 
+power that smites your enemies upon the battlefield. Seandac blesses your 
+cause, but it is your toil that sees it done. `1`1  That is not to say that you do not need Seandac. Rather, it is Seandac 
+that does not need the weak. Prove your strength, and he shall give you 
+power equal to that in your arm. Do not expect his aid, for he does not give 
+it willingly. It is important to realise that this war we fight against evil 
+is not Seandac's, it is ours to fight, but Seandac, in his almighty glory, 
+has decided to aid those worthy of aiding. He is your King, your Lord, your 
+Master, but he is not your sword, nor is he the one who guides your blade or 
+smites your enemy.`1`1  This places Seandac upon a different pedastal when compared to the other 
+gods. Unlike they, he does not ask you to fight wars which are rightfully 
+his. Nay, he asks you to fight your own battles, the ones that will guide 
+your life and the life of your mortal kin. Likewise, he will not aid you in 
+fighting that battle, nor shall he protect you when your plans have gone to 
+folly. `1`1  With that, I'd ask you, who would you rather worship? One who would hide 
+your faults, preventing you from learning from your own mistakes? Or one who 
+gives advice and tutelage, but does not directly interfere? `1`1 `#`rPAGE_4`^   
+~
+E
+50065 page_3 ~
+. Even the temple of Venalena, our long standing ally, is often at odds with 
+us. The children, cry the outraged priests and priestesses who have not seen 
+a day of armed combat. The children, they cry! Why must you orphan them, and 
+widow women of their men? Murderers and crows! All of you. And yet, we 
+smile, and bow, and offer apologies, though none are needed. What of their 
+children? What of our own? Do they not deserve the same worry offered by the 
+Venalenians to the children of the Harpanites? Must they be killed and 
+orphaned so the Harpanite scum can sire more to serve their fell goddess? `1`1  When will they realise that we too love life, but rather than celebrate 
+it, we would die protecting it? That question is often asked by the 
+Seandacians, but it is folly. This is the third lesson offered by the Lord 
+Seandac. Thankless or not, loved or hated, you have a duty, and duty comes 
+above all else. Friends would curse you, families would disown you, children 
+would forget you, but you must gladly accept that, for no better reason than 
+because you love them, and would see them live their lives in eternal 
+blessedness. For this you live, and for this you die.`1`1  The last two lessons are not for you, if you do not accept the first 
+three. The first of these are the true virtues. They are, Courage, Loyalty, 
+and Valour. Courage is the sword in your hand, it is the strength in your 
+arm. Courage is the realisation that there is evil in this world, and if you 
+do not fight it, then none shall. Courage is the understanding that you 
+probably will die painfully, but to relish the idea, if by your death, it 
+would protect all that you hold dear. `1`1  Loyalty is the shield that protects you. It is the realisation that 
+without loyalty, you are a mercenary, a warmonger, a scavenger, one who does 
+not seek the greater good, but merely seeks the thrill of combat. Loyalty is 
+to Seandac, offer him that and he shall protect you, and love you as a 
+child, as a soldier, and as a saint. `1`1  Finally, Valour. Valour is the life in your veins. Valour is the drink 
+that shall attain you true immortality. Valour is the force that strikes 
+fear into the heart of your enemies, it is the reason you have a name, it is 
+the reason why you left home and hearth, and it is the reason why you march 
+faithfully upon a constant battlefield. Earn it, love it, and never tarnish 
+it.`1`1 `#`rPAGE_3`^                                             `BCONTINUES ON PAGE_4`^ 
+~
+E
+50065 page_2 ~
+An Anacorite once asked me, hoping perhaps to further educate me in the 
+folly of my beliefs, on what he should do, and who he should pray to, if his 
+mother were dying. I told him that he should pray to Venalena, the goddess 
+of Life, in the hope that he would see his mother's life renewed, and her 
+strength restored. I lied that day, not even Venalena can give Life to the 
+dying, she does not have the power nor the will to make all those who are 
+mortal immortal. A truer answer would have been to Seandac. To grant his 
+mother the strength to resist death, the courage to fight against 
+unsurmountable odds, and the will to claw and gnash and bite and kick at 
+death. She'd not have lived, that is true, but she'd at least have tried. 
+Why should she simply accept? For peace? There is no peace, peace is what 
+you have when all your enemies have been defeated, and when you are allowed 
+to live your life unchallenged. At best, there is an unhappy truce, where 
+you turn your eyes elsewhere, while your enemies defile and desecrate all 
+that is dear to you. Even death is your enemy, to have peace with it is to 
+become its unhappy slave, subjugated and utterly destroyed.`1`1              Then what for? For mercy? Mercy is a farce. Does death spare 
+you its grasp? It will take you nonetheless. `1`1  And this is Seandac's second lesson. Give no quarter, for you yourself 
+shall have none. `1`1  I admit, the call to 'peace' is a heady one. Who wouldn't accept it? To 
+till your fields happily, to love your wife, to laugh and play with the 
+children, and to enjoy the sun and the wind. And yet, are those simple 
+pleasures freely given to you? Seandac knows you have earned them, if only 
+due to the fact that they shall not be yours forever. Death shall steal them 
+from you. Harpan's wisest would tell you that this is the price all must 
+pay. Venalena's clerics would encourage you to appreciate them. Anacor would 
+tell you to exploit them to your benefits, and Dorenne would tell you to 
+honour them. But only Seandac tells you to forget and fight for them. For if 
+none fought, then how could any enjoy them? `1`1  The temple of Seandac has been called by many a temple to warmongery. One 
+that appreciates and encourages the existence of men and women who relish 
+strife, and who drink willingly of the blood of others. Leeches, we've been 
+called, creatures who exist solely to bring pain. `1`1  But ask yourself, are we truly? The simple remain simple, untroubled and 
+undefiled because of our vigilance. We do not ask them for pay, nor do we, 
+like thieves, take from them what they do not wish to give. We fight for 
+them, we love them, as kinsmen, as brothers, as people who face the same sad 
+fate. They are our dearest allies, but also our worst enemies, though we 
+would never draw swords against them. `1`1  Even in the godly realm, Seandac's allies are oft opposed to him. They do 
+not love him as he loves them. Unconditional is his love, freely does he 
+give his aid, but they do not give in return. Seandacians die each day, 
+skewered upon the swords and the spears, crushed by the hammers and the 
+fists. Many do not earn a proper burial, but rather, are left to rot in the 
+fields, or used for Harpan's dark rituals, or spit upon and defiled by the 
+unhonourable Graalians. And for who? For our allies, who are not as skilled, 
+nor as fearless, as we are. `1`1 `#`rPAGE_2`^                                             `BCONTINUES ON PAGE_3`^ 
+~
+E
+50065 book page_1 truths seandac~
+Often, as I walk within the streets of Tulgard, or pass through the farmer's 
+fields in Calontir, or breath the stuffy air of the forests in the 
+wilderness, do I wonder at my own providence. `1`1  I was born a mortal. A malkatar that was not unique. I was strong enough, 
+but never the strongest. I had wits and wisdom to pass through life like any 
+other, but I was never the wisest, nor the most intelligent. Not to me will 
+the great inventions of our time be attributed, nor will books debating 
+philosophy and the secrets of the stars ever have my name grace their 
+covers. `1`1  No, that is not my fate, nor is it the fate of many mortals. At best, you 
+shall attain enough good fortune to live happily for a while, sireing 
+children that will hold your name in their hearts and minds, but then, you 
+shall die. It is no great sorrow, nor is it the curse of mortality, it is 
+the simplest of truths. `1`1  Death is no stranger to us, it is at times, nearer to us than our very 
+kindred. Sometimes, it comforts us, but we do not love it. It never enters 
+our homes and hearths by our will. If Harpan herself were to wear the finest 
+of livery, and appear to us in an image of beauty, only to ask those who 
+wish to die to come, who would answer her call? No one. We all fear to die, 
+and rightfully so.`1`1  But to simply accept it? Accept that we are weak? And upon acknowledging 
+that, we simply sit and wait for it? Nay! That is madness. A hare fears the 
+wolf, but does it simply sit down and tremble as the wolf approaches? Nay, 
+it runs, and at times, it fights, giving the wolf some challenge. If it did 
+not fight, then would the hare become? What would the wolf become? The wolf 
+is not Oram, he is not the supreme king of being and existence. It is not by 
+his will that the hare existed, nor is it by the hare's will that it should 
+die to him. `1`1  This lesson is the most basic of Seandac's teachings. It is the first 
+step in realising who we are, and what we are meant to do. Only the weak and 
+the fearful do not accept it, and rightfully so! In fact, I believe that 
+many would call it madness that springs from despair. Well, so be it, let us 
+call it a madness. The madness of courage. `1`1   `#`rPAGE_1`^                                             `BCONTINUES ON PAGE_2`^ 
+~
+#50066
+essay life death book~
+a book titled "a brief essay on life and death"~
+"A Brief Essay on Life and Death" rests on the pedestal~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+50066 book essay life death~
+. There are those who would scorn Harpan and name her cruel, even evil. But 
+the existence of a mortal is a double-sided coin, on the one side is life 
+and on the other death. Venalena bestows on us the precious gift of mortal 
+life. How little might we appreciate that gift if it were eternal, if no end 
+would come to us?`1`1   Is death a curse? No, I would say. Harpan draws the end of our lives on 
+her tapestry, calling us to what awaits us beyond, escorting us to our 
+proper place. It is for us to make of our lives something to be measured by, 
+so that what becomes of us after Harpan has called us is to our liking. Have 
+we cherished the gifts the gods have bestowed on us, or spurned them as 
+rubbish?`1`1 And what of killing, then? Does it serve Harpan? Again, I would say no. It 
+steals from her the decision of the end as much as it snuffs out Venalena's 
+gift. The way of things is to be in the hands of the gods from the first 
+breath of birth to the last exhalation of death, to experience their gifts 
+and perhaps their trials.`1`1   As one who wears a sword, I find myself faced always with a dilemma. As 
+others are blessed with talents of one form or another, I am no healer, no 
+preacher. Instead I must stand ready to draw that sword and defend the 
+innocent, defend those who cannot do so for themselves. To slash the life 
+from another must be my last resort, when there is no other way to stop the 
+destruction of the helpless. And then I weep, for Venalena feels the pain of 
+a life severed too soon, and no doubt Harpan sees the plan she had woven 
+disappear like smoke on the wind. The creation of both gone, by my hand.`1`1   What manner of forgiveness awaits? I do not know, but I can only hope 
+that the less I must ask forgiveness for, the more likely I am to receive 
+it. `1 
+~
+#50083
+none~
+none~
+None~
+~
+12 1 8
+5000 65536 150 150
+100 0 1
+#50097
+war battle token~
+war_battle_token~
+War_battle_token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#50098
+red team token~
+red_team_token~
+Red_Team_Token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#50099
+blue team token~
+blue_team_token~
+Blue_Team_Token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#0
+
+#ROOMS
+#50000
+Crystal Hall of Hero's~
+The WINNER's Circle.
+~
+1 33555464 0
+D1
+~
+~
+0 0 50019
+S
+#50001
+University Entrance~
+A large set of oak double doors lies to the north, leading into the 
+University.  Students of all races and ages can be seen entering this famous 
+place of learning.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 50002
+D2
+~
+~
+0 0 3040
+S
+#50002
+Long Hallway~
+A long hallway runs north and south.  Large classrooms lie through doors to 
+the east and west.  Several students can been seen going and in and out of 
+the classrooms.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 50005
+D1
+~
+~
+0 0 50015
+D2
+~
+~
+0 0 50001
+D3
+~
+~
+0 0 50016
+S
+#50003
+Herbology 101~
+  The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. On every desk sits 
+a large cast iron cauldron and a small wooden mortar. The mixed smell of 
+herbs is strong here. 
+~
+1 263176 0
+D3
+~
+~
+0 0 50014
+S
+#50004
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D1
+~
+~
+0 0 50014
+S
+#50005
+Long Hallway~
+A long hallway runs north and south.  Large classrooms lie through doors to 
+the east and west.  Several students can been seen going and in and out of 
+the classrooms.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 50006
+D1
+~
+~
+0 0 50013
+D2
+~
+~
+0 0 50002
+D3
+~
+~
+0 0 50012
+S
+#50006
+Long Hallway~
+A long hallway runs north and south.  Large classrooms lie through doors to 
+the east and west.  Several students can been seen going and in and out of 
+the classrooms.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 50011
+D1
+~
+~
+0 0 50009
+D2
+~
+~
+0 0 50005
+D3
+~
+~
+0 0 50010
+S
+#50007
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D1
+~
+~
+0 0 50011
+S
+#50008
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D3
+~
+~
+0 0 50011
+S
+#50009
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D3
+~
+~
+0 0 50006
+S
+#50010
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D1
+~
+~
+0 0 50006
+S
+#50011
+Long Hallway~
+A long hallway runs north and south.  Large classrooms lie through doors to 
+the east and west.  Several students can been seen going and in and out of 
+the classrooms.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 50014
+D1
+~
+~
+0 0 50008
+D2
+~
+~
+0 0 50006
+D3
+~
+~
+0 0 50007
+S
+#50012
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D1
+~
+~
+0 0 50005
+S
+#50013
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D3
+~
+~
+0 0 50005
+S
+#50014
+Long Hallway~
+A long hallway runs north and south.  Large classrooms lie through doors to 
+the east and west.  Several students can been seen going and in and out of 
+the classrooms.  The stairwell leading to the upper floors lies to the 
+north.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 50017
+D1
+~
+~
+0 0 50003
+D2
+~
+~
+0 0 50011
+D3
+~
+~
+0 0 50004
+S
+#50015
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D3
+~
+~
+0 0 50002
+S
+#50016
+An Empty Classroom~
+The classroom is filled with several desks and chairs, ready for future 
+students. At the front of the classroom a large chalkboard is on the wall, 
+and directly in front of it is a large desk and a podium. 
+~
+1 263176 0
+D1
+~
+~
+0 0 50002
+S
+#50017
+Training Center~
+This room is filled with books and a wide variety of weapons, armor, and 
+tools. It seems you could learn anything here, given the time! 
+~
+1 33817612 0
+D2
+~
+~
+0 0 50014
+D4
+~
+~
+0 0 11501
+S
+#50019
+Crystal Hall of Hero's~
+The LOSER's Circle!
+~
+1 33555464 0
+D1
+~
+~
+0 0 3015
+D3
+~
+~
+0 0 50000
+S
+#50020
+Battlefield Elimination Zone~
+You have either been defeated or left the battlefield.  Here you may rest 
+and wait for your fellow team members, recall, or use the gatestone to enter 
+the astral plane.  Be aware you will not be able to reenter the Battlefield 
+for several minutes.  
+~
+1 302777352 17
+S
+#50021
+`#`BBLUE TEAM`^ Planning Area~
+
+`wSay the word `BBLUE`w to be transported to your starting point.`^
+`#`w
+Remember the rules for the Battlefield.
+1. No stealing of weapons even if through disarms or entangles.
+2. Do not use your healing potions on the battlefield.
+3. No stealing or using battlefield results for PK reasons. This is for fun.
+   and also allow for large scale clan battles.
+4. You must either be killed or use the command WARLEAVE to leave the
+   battlefield
+5. Wait till everyone arrives before entering the battlefield. You may use OOC
+   to communicate this, or enter the field and remain at your starting
+   position and yell in the area when you are ready.
+6. Try to be fair and balance the team numbers against each other. In other
+   words, don't have 10 people go after 3 people. Unless of course that is
+   what you decide beforehand (i.e. remorts v/s normal morts).
+ 
+~
+1 977806344 0
+S
+#50022
+`#`RRED TEAM`^ Planning Area~
+
+`#Say the word `RRED`^ to be transported to your starting point.
+`#`w
+Remember the rules for the Battlefield.
+1. No stealing of weapons even if through disarms or entangles.
+2. Do not use your healing potions on the battlefield.
+3. No stealing or using battlefield results for PK reasons. This is for fun.
+   and also allow for large scale clan battles.
+4. You must either be killed or use the command WARLEAVE to leave the
+   battlefield
+5. Wait till everyone arrives before entering the battlefield. You may use OOC
+   to communicate this, or enter the field and remain at your starting
+   position and yell in the area when you are ready.
+6. Try to be fair and balance the team numbers against each other. In other
+   words, don't have 10 people go after 3 people. Unless of course that is
+   what you decide beforehand (i.e. remorts v/s normal morts).
+ 
+~
+1 977806344 0
+S
+#50023
+`#`RRED TEAM`W Home`^~
+This is the team base for the Red Team.  Healing energies fill the air 
+around you.  Large cliffs of sheer granite rise above you, protecting the 
+area from all but the north entrance.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50025
+S
+#50024
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50027
+D1
+~
+~
+0 0 50025
+S
+#50025
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D1
+~
+~
+0 0 50026
+D2
+~
+~
+0 0 50023
+D3
+~
+~
+0 0 50024
+S
+#50026
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50029
+D3
+~
+~
+0 0 50025
+S
+#50027
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50030
+D1
+~
+~
+0 0 50028
+D2
+~
+~
+0 0 50024
+S
+#50028
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50031
+D1
+~
+~
+0 0 50029
+D3
+~
+~
+0 0 50027
+S
+#50029
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50032
+D2
+~
+~
+0 0 50026
+D3
+~
+~
+0 0 50028
+S
+#50030
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50033
+D1
+~
+~
+0 0 50031
+D2
+~
+~
+0 0 50027
+S
+#50031
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50034
+D1
+~
+~
+0 0 50032
+D2
+~
+~
+0 0 50028
+D3
+~
+~
+0 0 50030
+S
+#50032
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50035
+D2
+~
+~
+0 0 50029
+D3
+~
+~
+0 0 50031
+S
+#50033
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50036
+D1
+~
+~
+0 0 50034
+D2
+~
+~
+0 0 50030
+D3
+~
+~
+0 0 50051
+S
+#50034
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D1
+~
+~
+0 0 50035
+D2
+~
+~
+0 0 50031
+D3
+~
+~
+0 0 50033
+S
+#50035
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50038
+D1
+~
+~
+0 0 50052
+D2
+~
+~
+0 0 50032
+D3
+~
+~
+0 0 50034
+S
+#50036
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50039
+D1
+~
+~
+0 0 50037
+D2
+~
+~
+0 0 50033
+D3
+~
+~
+0 0 50050
+S
+#50037
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50040
+D1
+~
+~
+0 0 50038
+D3
+~
+~
+0 0 50036
+S
+#50038
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50041
+D1
+~
+~
+0 0 50053
+D2
+~
+~
+0 0 50035
+D3
+~
+~
+0 0 50037
+S
+#50039
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50042
+D1
+~
+~
+0 0 50040
+D2
+~
+~
+0 0 50036
+D3
+~
+~
+0 0 50049
+S
+#50040
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50043
+D1
+~
+~
+0 0 50041
+D2
+~
+~
+0 0 50037
+D3
+~
+~
+0 0 50039
+S
+#50041
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50044
+D1
+~
+~
+0 0 50054
+D2
+~
+~
+0 0 50038
+D3
+~
+~
+0 0 50040
+S
+#50042
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50045
+D1
+~
+~
+0 0 50043
+D2
+~
+~
+0 0 50039
+S
+#50043
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D1
+~
+~
+0 0 50044
+D2
+~
+~
+0 0 50040
+D3
+~
+~
+0 0 50042
+S
+#50044
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50047
+D2
+~
+~
+0 0 50041
+D3
+~
+~
+0 0 50043
+S
+#50045
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D1
+~
+~
+0 0 50046
+D2
+~
+~
+0 0 50042
+S
+#50046
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50048
+D1
+~
+~
+0 0 50047
+D3
+~
+~
+0 0 50045
+S
+#50047
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D2
+~
+~
+0 0 50044
+D3
+~
+~
+0 0 50046
+S
+#50048
+`#`BBLUE TEAM`W Home`^~
+This is the team base for the Blue Team.  Healing energies fill the air 
+around you.  Large cliffs of sheer granite rise above you, protecting the 
+area from all but the south entrance.  
+~
+1 34086920 0
+D2
+~
+~
+0 0 50046
+S
+#50049
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D1
+~
+~
+0 0 50039
+D2
+~
+~
+0 0 50050
+S
+#50050
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50049
+D1
+~
+~
+0 0 50036
+D2
+~
+~
+0 0 50051
+S
+#50051
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50050
+D1
+~
+~
+0 0 50033
+S
+#50052
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50053
+D3
+~
+~
+0 0 50035
+S
+#50053
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D0
+~
+~
+0 0 50054
+D2
+~
+~
+0 0 50052
+D3
+~
+~
+0 0 50038
+S
+#50054
+The Battlefield~
+In the battlefield carnage is all around you.  Burning body parts lie 
+smoldering from the blasts of fire and lightning.  The clash of steel is 
+heard all around, along with the cries of the dying.  
+~
+1 34086920 0
+D2
+~
+~
+0 0 50053
+D3
+~
+~
+0 0 50041
+S
+#50060
+A Library Entrance~
+This area has been cordoned off for important documents and books that might 
+further learning. A smell like molding books floats in the air. 
+Occasionally, a breeze from one of the grated windows floats through the 
+room like a reminder of the world outside. 
+~
+1 0 0
+D2
+~
+~
+0 0 50061
+S
+#50061
+A Large Pedestal~
+Away from the library proper, this area is dominated by a single large 
+pedestal. Atop the heavy wooden pedestal rests an open book. Curiously, this 
+area is devoid of the odd smells of the rest. Light filters down from a 
+window high upon the wall and strikes the pedestal squarely. 
+~
+1 0 0
+D0
+~
+~
+0 0 50060
+D1
+~
+~
+0 0 50063
+D3
+~
+~
+0 0 50062
+S
+#50062
+A Large Pedestal~
+  Away from the library proper, this area is dominated by a single large 
+pedestal. Atop the heavy wooden pedestal rests an open book. Curiously, this 
+area is devoid of the odd smells of the rest. Light filters down from a 
+window high upon the wall and strikes the pedestal squarely.  
+~
+1 0 0
+D1
+~
+~
+0 0 50061
+S
+#50063
+A Large Pedestal~
+Away from the library proper, this area is dominated by a single large 
+pedestal. Atop the heavy wooden pedestal rests an open book. Curiously, this 
+area is devoid of the odd smells of the rest. Light filters down from a 
+window high upon the wall and strikes the pedestal squarely. 
+~
+1 0 0
+D3
+~
+~
+0 0 50061
+S
+#0
+
+#RESETS
+M 0 50001 20 50001 3
+M 0 50001 20 50002 2
+M 0 50005 1 50003 1
+G 0 50057 0
+M 0 50001 20 50006 2
+M 0 50001 20 50007 2
+M 0 50001 20 50008 2
+M 0 50001 20 50009 2
+M 0 50001 20 50010 2
+M 0 50001 20 50012 2
+M 0 50001 20 50013 2
+M 0 50001 20 50015 2
+M 0 50001 20 50016 2
+M 0 50000 1 50017 1
+M 0 50001 20 50017 2
+O 0 54305 0 50020
+M 0 50021 1 50021 1
+M 0 50022 1 50022 1
+M 0 50023 1 50023 1
+O 0 4941 0 50031
+O 0 52062 0 50037
+M 0 50048 1 50048 1
+O 0 50063 0 50061
+O 0 50064 0 50061
+O 0 50063 0 50062
+O 0 50065 0 50062
+O 0 50063 0 50063
+O 0 50066 0 50063
+S
+
+#SHOPS
+ 50003   19 0 0 0 0   100 100        1 2    ; female elf teacher
+ 50005   0 0 0 0 0   100 100        0 23    ; teacher herbalism shopkeeper female
+0
+
+
+
+
+
+#$

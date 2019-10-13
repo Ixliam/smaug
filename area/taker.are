@@ -1,0 +1,8299 @@
+#AREA        Taker's Place~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#19500
+green kobold leader planning~
+the kobold leader~
+A kobold leader is here, planning his tasks for today.
+~
+This kobold is four feet tall which is very large for his race.  His scaly 
+hide is dark green and his eyes glow with a red bright.  He is sitting on a 
+pile of rocks, thinking about his tasks for this day.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+10 0 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19501
+green kobold bodyguard taking~
+a kobold bodyguard~
+A kobold bodyguard is here, taking care of his master.
+~
+This kobold is three feet tall, smaller than his boss, but still large for 
+his race.  His scaly skin is light green and he smells like a sewer.  His 
+eyes are staring deep into nowhere.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+8 0 3 2d5+12 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19502
+green kobold guard taking~
+a kobold guard~
+A kobold guard is here, taking a look around the area.
+~
+This kobold is near three feet tall and his scaly skin is light green.  He 
+walks around, taking a look at the area, to enforce the law.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+8 0 3 2d5+12 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19503
+green kobold guard training fighting~
+a kobold guard~
+A kobold guard is here, training his fighting skills.
+~
+This kobold is near three feet tall and his scaly skin is light green.  He 
+smells of sweat.  He is training hard and fierce.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+5 0 5 2d5+4 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19504
+green pikeman guard kobold~
+a kobold pikeman~
+A kobold guard is here, making a blockade point.
+~
+This kobold is three feet tall and his scaly skin is light green.  He stands 
+tall blocking your way and pointing his weapon towards you threateningly.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+5 0 5 2d5+4 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19505
+brown kobold farmer gathering~
+a kobold farmer~
+A kobold farmer is here, gathering some mushrooms.
+~
+This kobold is two feet tall.  His scaly skin is dark brown.  He walks 
+around gathering mushrooms and putting them in a basket.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19506
+brown kobold cook baking~
+a kobold cook~
+A kobold cook is here, baking some mushrooms.
+~
+This kobold is two feet tall.  His scaly skin is a dark brown.  He smells 
+like a baked mushroom.  He is standing near the bonfire, baking mushrooms.  
+He seems very focused on the task at hand and is oblivious to the happenings 
+around him.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19507
+brown kobold female washing~
+a female kobold~
+A female kobold is here, washing some clothes.
+~
+This female kobold is two feet tall and her scaly skin is dark brown.  She 
+smells good for a kobold.  She is sitting near the lake washing some 
+clothes.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19508
+brown sewing kobold female~
+a female kobold~
+A female kobold is here, sewing some old clothes.
+~
+This female kobold is two feet tall has scaly skin which is dark brown.  She 
+smells like an old wardrobe.  She is sitting on the ground sewing a nice 
+dress for someone.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19509
+green kobold female taking~
+a female kobold~
+A female kobold is here, taking care of the younglings.
+~
+This female kobold is two feet tall and her scaly skin is dark green.  She 
+is sitting on the ground watching the children playing with some dolls.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19510
+brown kobold young kicking~
+a young kobold~
+A young kobold is here, kicking a dwarf head.
+~
+This young kobold is one foot tall and his scaly skin is light brown.  He is 
+playing some weird game with a dwarf head, oblivious of the world around 
+him, only caring to win the game.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19511
+kobold young green figthing~
+a young kobold~
+A young kobold is fighting against an imaginary oponent.
+~
+This young kobold is one foot tall and his scaly skin is light green.  He is 
+playing some weird game, figthing against an invisible enemy, shouting war 
+cries and curses.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19512
+brown kobold worker walking carrying~
+a kobold worker~
+A kobold is walking around carrying a basket.
+~
+This kobold is two feet tall and his scaly skin is dark brown.  He is 
+carrying a basket, stopping from time to time to rest.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19513
+brown carrying walking kobold worker~
+a kobold worker~
+A kobold is walking around carrying a barrel.
+~
+This kobold farmer is two feet tall.  His scaly skin is dark brown and he 
+smells like a sewer.  He is carrying a barrel, stopping from time to time to 
+rest.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19514
+black dark kobold shaman burned praying~
+a kobold shaman~
+A burnt cloaked kobold is praying something to someone.
+~
+This kobold shaman is two feet tall and his scaly skin is dark, almost 
+black.  He smells like baked flesh and is walking around praying, cursing 
+and shouting.  
+~
+0
+clanname none~
+0
+0
+129 512 -600 C
+8 0 3 2d5+8 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19515
+green kobold young female playing~
+a young female kobold~
+A young female kobold is here, playing with an old doll.
+~
+This young female kobold is one foot tall.  Her scaly skin is light green 
+and she smells like sweat.  She is playing with an old doll, speaking and 
+shouting at the poor doll.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19516
+brown kobold young female watching~
+a young female kobold~
+A young female kobold is here, watching the doll.
+~
+This young female kobold is one foot tall and her scaly skin is light brown. 
+ She stays here watching her green friend playing with a doll, every time 
+she tries get the doll, the green kobold shouts and bites her.  She appears 
+be very sad.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19517
+orc leader huge red haired planning~
+an orc leader~
+A huge red haired orc stays here, planning his next raid.
+~
+This orc is a big one, standing at seven feet tall.  His skin is dark brown 
+covered with coarse red hair.  He wears a strange set of armour, it appears 
+that each piece came from a different place.  By his side rests a huge axe.  
+
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+30 1 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19518
+orc bodyguard big red haired protecting~
+an orc bodyguard~
+A big red haired orc stays here, protecting his leader.
+~
+This orc stands six feet tall, his skin is dark brown covered with coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  His 
+eyes are always looking for something, his blade is in his hands, and he 
+appears to be ready to attack.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+25 1 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19519
+orc pikeman big red haired blocking~
+an orc pikeman~
+A big red haired orc stay here, blocking your way.
+~
+This orc stands six feet tall, his skin is dark brown covered with coarse 
+red hair.  He wears a set of leather and steel armour which appears to be 
+heavy and crudely made.  He holds his pike fiercly, pointing threatningly at 
+you.  His eyes glow with satisfaction, waiting for the battle to start.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19520
+orc bodyguard big red haired walks protecting~
+an orc bodyguard~
+A big red haired orc walks around, protecting the perimeter.
+~
+This orc stands six feet tall, his skin is dark brown covered with coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He 
+carries his blade very close to him.  As he walks, he checks the area for 
+intruders, his eyes glowing with anticipation of a battle.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+25 1 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19521
+enforcer law orc guard big red haired~
+an orc guard~
+A big red haired orc stays here, enforcing the law.
+~
+This orc stands six feet tall, his skin is dark brown covered with coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He 
+stands here shouting orders to the kobolds, and from time to time, executs 
+one for the sake of the law.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19522
+supervisor orc big red haired shouting~
+an orc supervisor~
+A big red haired orc stays here, supervising the kobolds.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  He holds some papers, keeping the record of mushrooms and water, that 
+the city needs.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+10 0 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19523
+orc guard city big red haired enforcing law~
+an orc guard~
+A big, red haired orc stands here, enforcing the law.
+~
+This orc stands six feet tall, his skin is dark brown covered with coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He 
+walks around keeping an eye on trespassers, from time to time he shouts some 
+strong words to the children.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19524
+dark orc shaman big cloaked muttering~
+an orc shaman~
+A big cloaked orc stays here muttering some strange words.
+~
+This orc stands six feet tall.  He is all cloaked with dark robes and only 
+his glowing red eyes can be seen.  He walks around the room, muttering some 
+stranges words.  From time to time some eletrical sparks come from nowhere 
+and hit him.  
+~
+0
+clanname none~
+0
+0
+65 4096 -400 C
+25 0 -4 4d5+110 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19526
+orc servant dark grey walks carrying~
+an orc servant~
+A small dark grey orc walks around carrying some food.
+~
+This orc stands five feet tall.  He has dark grey skin, covered by dark 
+coarse hair.  He looks frail and battered, his will has disappeared from his 
+eyes.  He is carrying some food for his master.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19527
+orc servant brown female walks carrying small dark~
+an orc servant~
+A small light brown female orc walks around carrying some bottles.
+~
+This orc stands five feet tall.  She has light brown skin, covered by dark 
+coarse hair.  She is carrying some black glass bottles.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19528
+orc cook small dark brown cooking~
+an orc cook~
+A small dark brown orc is here cooking some smelly food.
+~
+This orc stands five feet tall.  He has dark brown skin, covered by brown 
+coarse hair.  He looks strong and fierce, at least he cuts the meat fiercly. 
+ 
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19529
+orc mother red haired female taking~
+a female orc~
+A red haired female orc is here taking care of the children.
+~
+This orc stands six feet tall, her skin is dark brown covered bycoarse red 
+hair.  She is taking care of the younglings, from time to time shouting or 
+cursing them.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19530
+orc mother female red haired sewing~
+a female orc~
+A red haired female orc is here sewing some armour.
+~
+This orc stands six feet tall, her skin is dark brown covered by coarse red 
+hair.  She is sewing some wolf leather, to make more armour for the clan's 
+warriors.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19531
+orc young red haired playing child~
+a young orc~
+A red haired young orc is here playing with his brother.
+~
+This orc stands three feet tall, his skin is dark brown covered by coarse 
+red hair.  He is fighting, with his powerful wooden sword, against his 
+brother, growling, snarling and cursing him.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+2 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19532
+orc child girl female red haired young helping~
+a young female orc~
+A red haired young female orc is here helping her mother.
+~
+This orc stands three feet tall, her skin is dark brown covered by coarse 
+red hair.  She is cutting some leather strips for her mother.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19533
+orc smith big red haired hammering~
+the orc smithy~
+A big old red haired orc is here hammering some blades.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  He appears to be strong, every clash of his hammer makes the anvil 
+shake.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+15 0 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19534
+orc trainer big red haired figthing~
+an orc guard~
+A big red haired orc is here fighting against another orc.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  He fights, with his wooden sword, against another young warrior, 
+trying not to disappoint his teacher.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+11 0 -3 3d5+79 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19535
+orc weapon master big red haired teaching~
+an orc weaponmaster~
+A big red haired orc is here teaching another orc how to fight.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  He is teaching the young ones how to fight, some times his teachings 
+are very hard, he is always shouting, and poking them with a very sharp 
+pike, never letting the younglings take a break.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+25 1 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19536
+battered orc big old red haired sleeps~
+an old orc~
+A big and old red haired orc sleeps here.
+~
+This old orc stands six feet tall, his skin is dark brown covered by coarse 
+red hair.  It appears he has been forgotten here, he is snoring noisly with 
+his mouth open.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+25 -1 -6 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19537
+frail mad orc walks shouting~
+a mad orc~
+A frail looking orc walks around shouting to anyone who comes near.
+~
+This mad orc stands five feet tall, his skin is dark brown covered by coarse 
+red hair.  He walks around shouting about the end of the world, prophesying 
+that the shadows are coming to drain the life from this world, destroying 
+homes and enslaving minds.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+7 -1 -3 2d5+5 1d8+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19538
+gnoll furry humanoid hyena drinking~
+a gnoll~
+A gnoll is here drinking and feasting his good day.
+~
+You see a large furry humanoid with a hyena like head.  He appears not to be 
+carrying weapons.  He drinks a lot of wine, and sings loudly, for all the 
+tavern to hear.  When you pass near him, he spills some wine on you, and 
+laughs.  
+~
+0
+clanname none~
+0
+0
+65 0 -400 C
+12 0 1 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19539
+cloaked drow sits dark elf~
+a cloaked drow~
+A cloaked drow sits in the darkest corner of the tavern.
+~
+You see a heavily cloaked dark elf, his skin is totally black , his hair is 
+pure white.  He is drinking in the darkest corner of the tavern, he drinks 
+silently, one of his hands is under the table, you cannot see if he carries 
+any weapon.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+12 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19540
+human slave dirty battered female human playing woman~
+a female slave~
+A dirty and battered female human is here playing a flute.
+~
+This woman is badly shaken, she has several big open wounds.  Her blood 
+spills through the floor, but she is still playing the flute.  You cannot 
+see any of spark of life in her eyes.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 -5 9 1d1+1 1d2+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19541
+half-orc shopkeeper Tak-Goran~
+a half-orc shopkeeper~
+A half-orc is here selling his blades for any who can pay.
+~
+This half-orc is heavily armored, and keeps his blade always near him.  He 
+walks around his shop, showing his nice blades to his customers.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19542
+Tak-Bugtru Bugtru shopkeeper orc heavily~
+a big orc shopkeeper~
+A big and heavily armoured orc sits here, polishing a piece of armour.
+~
+This shopkeeper is big, strong and well armoured.  A huge axe lies near him, 
+and he is polishing a piece of armour.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19543
+drow cloaked shopkeeper Agrach~
+a drowish shopkeeper~
+A cloaked drow stands here, watching his trade goods.
+~
+This drow is all dressed in black, as the moonless night.  He walks around, 
+watching his trade goods.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19544
+Tak-Mur shopkeeper female orc big red haired~
+a female orc shopkeeper~
+A big red haired female orc is selling some basic gear.
+~
+A big red haired female orc is here, putting in order her trading goods, she 
+appears to like order.  She is big, bad and heavily armoured.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19545
+Ugh shopkeeper smelly kobold~
+a smelly kobold shopkeeper~
+A smelly kobold is here selling mushrooms, if you dare buy.
+~
+A smelly kobold is gathering some mushrooms from a small basket, and baking 
+them.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19546
+Yurtrus shopkeeper cloaked female drow~
+a drow shopkeeper~
+A cloaked female drow is hiding herself in the shadows of her shop.
+~
+This female drow hides herself in the darkest corner of her shop.  You can 
+see some steel gleam under her dark clothes.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19547
+elf slave wood female elf singing~
+an elf slave~
+A female wood elf is here singing a beautiful song.
+~
+This female elf has been hideously tortured.  Her hands are cut, several 
+tattoos have been branded in her chest, and her eyes were burned out.  She 
+now stands here singing a nice song, but devoid of emotion, the song is 
+hollow and souless.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+1 -5 9 1d1+1 1d2+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19548
+elf slave mage chained male~
+an elf slave~
+A chained elf in robes is here.
+~
+This elf is dressed in leather vests.  He is very slim and appears to be 
+frail and poorly fed.  His eyes are hollow, without any emotion, he is 
+oblivious to the world around him.  A big chain hangs on his neck.  
+~
+0
+clanname none~
+0
+0
+65 262144 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19549
+human slave thief dirty small~
+a human slave~
+A dirty small human is here.
+~
+This human wears some leather clothes.  He is small, and appears to be very 
+frail, he walks uncertainly.  From time to time, he leans against anything, 
+taking a rest before the next step.  A large chain hangs in his neck, making 
+his walk heavier and more difficult.  
+~
+0
+clanname none~
+0
+0
+65 262144 0 C
+4 -1 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19550
+draconian slave cleric tall chained~
+a draconian slave~
+A tall chained draconian is here.
+~
+This draconian stands at seven feet tall.  He carries some light armour, and 
+some poor quality weapons.  A large chain hangs around his neck and his 
+teeth have been removed.  He is still able to speak, but he cannot bite 
+anymore.  
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19551
+elven maiden slender beautiful elf female~
+an elven maiden~
+A slender, beautiful elven maiden is here.
+~
+This female elf is very beautiful, she stands at five feet tall.  Her skin 
+is white and pale, her hair is dark and her eyes are deep green, but her 
+beautiful eyes are blank, without any emotion.  
+~
+0
+clanname none~
+0
+0
+65 262144 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19552
+green slime drips wet sticky bright~
+a green slime~
+A green slime drips from the wall.
+~
+You see a green, bright, sticky and wet slime creature.  This creature moves 
+itself, by dripping from the ceiling or from the walls.  You can smell a 
+strong acrid smeel coming from it.  You can see some coins and a small axe 
+inside this thing.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19553
+fiery winged humanoid~
+a fiery humanoid~
+A fiery winged humanoid glares at you.
+~
+You see a big, flaming winged humanoid.  This creature stands at eight feet 
+tall, his eyes glowing with a strong red light, lava flows from his 
+nostrils, fire envelops his hands.  His mouth is full of sharp dagger-like 
+teeth.  
+~
+0
+clanname none~
+0
+0
+65 524288 -600 C
+30 1 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19554
+orc tanner big old red haired tanning~
+an orc tanner~
+A big old red haired orc is here tanning leather.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He appears to be strong, and very smelly, his body is all covered 
+with a thick viscous liquid.  He carries some pieces of leather to be 
+tanned.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+13 0 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19555
+big red haired male orc shopkeeper~
+a male orc shopkeeper~
+A big red haired male orc is feeding the steeds.
+~
+A big red haired male orc is here, feeding the steeds, making sure that his 
+animals will not wander through the city.  The orc wears some leather 
+clothes.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19556
+shopkeeper orc big red haired laughing drinking~
+a male orc innkeeper~
+A big red haired male orc is laughing and drinking a lot.
+~
+A big red haired male orc is walking along the room, serving, and sometimes, 
+drinking ale.  He laughs loud, and loves to sing some old battle songs.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19557
+large dire wolf big dark brown growling~
+a dire wolf~
+A big dark brown wolf is here, growling at anyone who comes near.
+~
+You see a big brown wolf, it is as big as a pony.  Its mouth is full with 
+dagger-like teeth.  Its fur is dark brown, and tough.  The wolf growls like 
+a fierce beast, and appears to be hungry, always hungry.  
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+25 2 -7 2d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19558
+large grey stallion~
+a grey stallion~
+A large dark grey stallion is here.
+~
+You see a large dark grey stallion walking around, looking for food.  It has 
+a long black mane and tail where you see some small plaits.  It appears to 
+be a good horse.  
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+25 0 -7 2d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19559
+orc guard big red haired drinking singing~
+an orc guard~
+A big red haired orc is here, drinking and singing happily.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  His armour appears to be heavy and crudely made.  He is sitting at a 
+table drinking some ale and talking a lot.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19560
+orc big red haired sleeping~
+an orc~
+A big red haired orc is here, sleeping on the bed.
+~
+This orc stands six feet tall, his skin is dark brown covered by coarse red 
+hair.  He is sleeping on a bed and snoring loudly.  His armour is scattered 
+around the room, and his weapons are near the bed, he can reach them quickly 
+with his hands.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19562
+dwarf slave warrior chained poorly armoured~
+a dwarf warrior~
+A chained poorly armoured dwarf stays here.
+~
+This dwarf wears some poor armour, his weapons are poor quality, his wrists 
+are chained.  The chain around his neck limits his movements.  His will 
+appears to be broken, his eyes are empty and he nevers speaks or makes any 
+sound.  
+~
+0
+clanname none~
+0
+0
+65 262144 0 C
+20 -1 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19566
+orc lieutenant big red haired protecting~
+an orc lieutenant~
+A big red haired orc stays here, reading some papers.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He is 
+reading some papers, but occasionally he looks around for something, his 
+weapon is in his hands, and he appears to be ready to attack.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+25 1 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19567
+orc pikeman big red haired blocking~
+an orc pikeman~
+A big red haired orc stays here, collecting money.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  His armour appears be heavy and crudely made, he holds his pike 
+fiercly, pointing threatningly at you.  His eyes glow with satisfaction, 
+waiting for the battle to start.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19568
+enforcer law orc guard big red haired~
+an orc guard~
+A big red haired orc sits here, protecting the passage.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He 
+sits here keeping one eye on trespassers.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19569
+orc slave dark grey unloading worker~
+an orc slave~
+A small dark grey orc is unloading some barrels from a wagon.
+~
+This orc stands at five feet tall.  He has dark grey skin, covered by dark 
+coarse hair.  He looks frail and battered, his will has disappeared from his 
+eyes.  
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19570
+supervisor orc big red haired shouting~
+an orc guard~
+A big red haired orc stays here, reading some papers.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He is holding some papers, keeping the record of trade goods 
+which arrive and leave the keep.  
+~
+0
+clanname none~
+0
+0
+129 512 -400 C
+10 0 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19571
+gnoll furry humanoid hyena shouting~
+a gnoll~
+A gnoll is here, shouting with the workers.
+~
+You see a large furry humanoid with a hyena like head, he wears some 
+leathers clothes, and appears not to be carrying weapons.  He is shouting 
+with the workers.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+12 0 1 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19572
+sleeping snoring orc guard big red haired~
+an orc guard~
+A big red haired orc sleeps here, snoring loudly.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He sleeps here snoring loudly, his weapon lay near his hands.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19573
+dressing orc guard big red haired~
+an orc guard~
+A big red haired orc is dressing his armour here.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair, he wears a set of leather armour, crudely made.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19574
+orc guard big red haired enforcing law~
+an orc guard~
+A big red haired orc stays here enforcing the law.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He wears a set of leather and steel armour, crudely made.  He 
+walks around keeping one eye on trespassers.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19575
+draft horse leading a wooden wagon~
+a draft horse leading a wooden wagon~
+A draft horse leading a wooden wagon stands here.
+~
+This large wooden wagon appears to be used to carry heavy loads, it is 
+pulled by a large and muscular brown draft horse wearing a harness, a bit 
+and a blinker.  The horse has a long reddish mane and tail.  
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+25 0 -7 2d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19577
+orc pikeman big red haired blocking~
+an orc pikeman~
+A big red haired orc stands here, looking around.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He holds his pike fiercly, pointing threatningly at you, his eyes 
+glow with satisfaction, waiting for the battle to start.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19579
+feylar slender beautiful female~
+a feylar slave~
+A slender, beautiful feylar slave is here.
+~
+This female feylar is very beautiful, she stands five feet tall, her skin is 
+covered in dusky golden fur with black stripes, her hair is dark and her 
+eyes are gold with vertically slit pupils, but her beautiful eyes are blank, 
+without any emotion.  
+~
+0
+clanname none~
+0
+0
+65 512 400 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19580
+big heavily cloaked male half-orc shopkeeper~
+a half-orc shopkeeper~
+A half-orc with a bulging coat walks among the streets, carrying a heavy bag.
+~
+A big heavily cloaked male half-orc walks silently and slowly among the 
+streets.  He uses a walking staff to help his slow walk.  In his left hand 
+he carries a leather bandolier.  You can see some herbs inside the bandolier 
+which he is trying to sell.  
+~
+0
+clanname none~
+0
+0
+129 4096 0 C
+120 9 -111 5d10+999 8d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19581
+large brown draft horse~
+a brown draft horse~
+A large brown draft horse stands here.
+~
+You see a large and muscular brown draft horse, it is wearing a harness, a 
+bit and a blinker, it appears to be used to carry large wagons.  It has a 
+long reddish mane and tail where you see some small plaits.  
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+25 0 -7 2d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19582
+green kobold watcher~
+a kobold watcher~
+A kobold is sitting at the tree, looking around.
+~
+This kobold is three feet tall, his scaly skin is light green, he smells 
+like a sewer, he is looking around constantly, searching for something.  He 
+carries his daggers very close to him.  
+~
+0
+clanname none~
+0
+0
+129 65536 400 C
+12 0 1 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19583
+orc guard big red haired playing~
+an orc guard~
+A big red haired orc stays here playing cards.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair, he wears a set of leather and steel armour, crudely made.  He is 
+playing cards and shouting a lot, his weapons are near his hands.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+18 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19584
+orc guard big red haired looking~
+an orc guard~
+A big red haired orc stays here looking around.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair, he wears a set of leather and steel armour, crudely made.  He 
+walks around keeping one eye on trespassers, he always carries his blade in 
+his hand, ready to finish any quarrel, or start one.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+18 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19585
+orc guard big red haired urinating~
+an orc guard~
+A big red haired orc is urinating between the bushes.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair, he wears a set of leather and steel armour, crudely made.  He is 
+urinating between the bushes.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+18 0 -4 4d5+90 3d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19586
+eagle~
+an eagle~
+An eagle flies over here.
+~
+You see a large brown eagle flying over this place.  
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#19587
+orc pikeman big red haired blocking~
+an orc pikeman~
+A big red haired orc stay here, looking around.
+~
+This orc stands at six feet tall, his skin is dark brown covered by coarse 
+red hair.  He holds his pike fiercly, pointing threatningly at you, his eyes 
+glow with satisfaction, waiting for the battle to start.  
+~
+0
+clanname none~
+0
+0
+65 512 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#19500
+mouldy cape~
+a `#`gmo`yuld`gy`^ leather cape~
+A `#`gmo`yuld`gy`^ leather cape has been left here.~
+~
+9 0 8
+60 60 1 0 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19500 mouldy cape.~
+This cape is very smelly.
+~
+#19501
+small wooden shield~
+a small wooden shield~
+A small wooden shield is lying here.~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19501 shield~
+This shield is beyond of the repair.
+~
+#19502
+orcish engraved leather torso armor~
+an engraved heavy leather vest~
+A heavy leather armour lies here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+2 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19502 vest~
+This armour is really heavy, it's engraved with a clans crest.
+
+       *********     A whip in a golden field    *********
+
+~
+#19503
+orcish leather leggings~
+some heavy leather leggings~
+Some leather leggings lay here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19503 leggings~
+These leggings are heavy and hard ones, they are coated with some
+strange oil.
+~
+#19504
+orcish leather boots~
+some heavy leather boots~
+Some heavy leather boots lay here.~
+~
+9 0 8
+5 5 3 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19504 boot~
+These boots are heavy and hard. It's made with a furry leather.
+~
+#19505
+orcish leather belt~
+a leather belt~
+A leather belt lies here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19505 belt~
+This belt is made with leather and reinforced with metal strips.
+~
+#19506
+orcish steel dull helm~
+a `#`Ssteel`^ helm~
+A `#`Ssteel`^ helm has been left here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19506 helm dull~
+This helm is poorly made, very heavy and uncomfortable.
+~
+#19507
+orcish steel vambraces~
+some `#`Ssteel`^ vambraces~
+Some `#`Ssteel`^ vambraces have been left here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19507 vambraces~
+These vambraces are heavy and poorly made.
+~
+#19508
+orcish engraved plate mail~
+a `#`Ssteel`^ platemail~
+A `#`Ssteel`^ platemail has been left here.~
+~
+9 0 8
+20 20 6 0 0 0 0
+5 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19508 plate~
+This armour is really heavy, it's engraved with a clans crest.
+
+        *********     A whip in a golden field    *********
+
+~
+#19509
+leather piece skin wolf ~
+a piece of wolf leather~
+A piece of furry leather lies here.~
+~
+9 0 8
+30 30 1 0 0 0 0
+1 240 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19509 piece skin wolf~
+You see a piece of tanned skin, it's very smelly.
+~
+#19510
+piece leather~
+a piece of `#`yleather`^~
+A piece of leather lies here.~
+~
+9 0 8
+20 20 0 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19510 piece leather~
+You see a piece of tanned skin, it's very smelly.
+~
+#19511
+drowish dark steel bracer~
+`#`wa `sdark steel `wbracer`^~
+A dark steel bracer lies here.~
+~
+9 2 8
+20 20 2 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19511 bracer dark~
+This bracer is engraved with some dark runes.
+~
+#19512
+old plate armor rusty~
+a old and rusty plate armour~
+A old and rusty plate armour lies here.~
+~
+9 0 8
+20 20 1 0 0 0 0
+4 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19512 plate old rusty armor~
+This plate is far beyond recovery, it is old, rusty and appears will
+crumble into dust any time soon.
+~
+#19513
+battered dwarven helm~
+a dwarven battered steel helm~
+A dwarven battered steel helm lies here.~
+~
+9 0 8
+20 20 4 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19513 helm battered dwarven~
+This helm is poorly made, very heavy and uncomfortable, and appears
+will crumble into dust very soon.
+~
+#19514
+black leather leggings~
+some `#`Sblack`^ leather leggings~
+Some `#`Sblack`^ leather leggings have been left here.~
+~
+9 1 8
+5 5 1 0 0 0 0
+1 240 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19514 black leggings~
+These leggings are made with a strange dark leather, light and strong.
+~
+#19515
+black leather belt~
+a `#`Sblack`^ leather belt~
+A `#`Sblack`^ leather belt has been left here.~
+~
+9 1 8
+5 5 1 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19515 black belt~
+This belt is made with a strange dark leather, light and strong.  
+~
+#19516
+black leather boots~
+some `#`Sblack`^ leather boots~
+Some `#`Sblack`^ leather boots have been left here.~
+~
+9 1 8
+5 5 1 0 0 0 0
+1 242 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19516 black boot~
+These leggings are made with a strange dark leather, light and strong.  
+These boots are made with a strange dark leather, light and strong.  
+~
+#19517
+black sleeves~
+some `#`Sblack`^ leather sleeves~
+Some `#`Sblack`^ leather sleeves have been left here.~
+~
+9 1 8
+5 5 1 0 0 0 0
+1 244 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19517 black sleeves~
+These sleeves are made with a strange dark leather, light and strong.
+~
+#19518
+black leather gloves~
+some `#`Sblack`^ leather gloves~
+Some `#`Sblack`^ leather gloves have been left here.~
+~
+9 1 8
+5 5 2 0 0 0 0
+1 249 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19518 black gloves~
+These gloves are made with a strange dark leather, light and strong.
+~
+#19519
+black leather hood~
+a `#`Sblack`^ leather hood~
+A `#`Sblack`^ leather hood has been left here.~
+~
+9 1 8
+10 10 1 0 0 0 0
+1 241 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19519 black hood~
+This hood has been made with a strange dark leather, light and strong.
+~
+#19520
+white clean pants~
+some `#`wwhite`^ pants~
+Some `#`wwhite`^ pants have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19520 pants white clean~
+These pants are really clean.
+~
+#19521
+dirty pants~
+`#`wsome `ydirty `spants`^~
+Some dirty pants lay here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19521 pants dirty~
+These pants are really dirty.
+~
+#19522
+old dress~
+an old dress~
+An old dress lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19522 dress old~
+This dress is really old.
+~
+#19523
+burned robe~
+a `#`rburned`^ robe~
+A `#`rburned`^ robe lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19523 burned~
+This robes are utterly burned.
+~
+#19524
+drowish dark robe~
+`#`Sa dark robe`^~
+A dark robe lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 625 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19524 dark robe~
+This robe are dark, very dark, and glows with a strange radiance.
+~
+#19525
+drowish dark pants~
+`#`wsome `Sdark `wpants`^~
+Some dark pants lay here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19525 dark pants~
+These pants are really dark, and very light.
+~
+#19526
+drowish dark shoes~
+`#`wsome `Sdark `wshoes`^~
+Some dark shoes lay here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19526 dark shoes~
+These shoes are really dark, and very light.
+~
+#19527
+orcish leather shirt~
+a leather shirt~
+A leather shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19527 shirt leather~
+This shirt makes you sweat a lot.
+~
+#19528
+orcish leather pants~
+some leather pants~
+Some leather pants lay here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19528 pants leather~
+These pants makes you sweat a lot.
+~
+#19529
+orcish leather shoes~
+some leather shoes~
+Some leather shoes lay here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 13 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19529 shoes~
+These shoes make you sweat a lot.
+~
+#19530
+orcish gloves~
+some leather gloves~
+Some leather gloves lay here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19530 gloves~
+These gloves make you sweat a lot.
+~
+#19531
+meat cleaver axe~
+a meat cleaver~
+A meat cleaver lies here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 141 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19531 cleaver meat~
+This cleaver is not made for war, just to slice meat.
+~
+#19532
+orcish platinum collar~
+a `#`Splatinum`^ collar~
+A `#`Splatinum`^ collar lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 505 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19532 platinum collar~
+This collar is a nice piece of elven artwork. There are some strange
+runes engraved on it.
+~
+#19533
+golden ring~
+a `#`Ygolden`^ ring~
+A `#`Ygolden`^ ring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19533 ring golden~
+This golden ring has been engraved with a clan crest
+
+********  a crowned whip in a golden field  ***********
+
+~
+#19534
+gold earring~
+a `#`Ygolden`^ earring~
+A `#`Ygolden`^ earring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19534 earring golden~
+This earring has been engraved with this phrase,
+                I belong to Takers clan
+
+~
+#19535
+green wood ring~
+a `#`ggreen`^ wooden ring~
+A `#`ggreen`^ wooden ring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 11 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19535 green wood ring~
+This ring is a worthless wood ring painted green.
+~
+#19536
+drowish iron dagger~
+a `#`Sblack iron`^ dagger~
+A `#`Sblack iron`^ dagger lies here.~
+~
+5 64 4
+2 7 16 0 0 0 0
+1 254 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19536 black iron dagger~
+This dagger has coated with a black oil, that makes it almost impossible to 
+see on the dark.  
+~
+#19537
+orcish bone collar~
+a `#`Wbone`^ collar~
+A `#`Wbone`^ collar has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 13 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19537 bone collar~
+This collar is made with some rats bones, very  small and frail.
+~
+#19538
+orcish tourmaline ring~
+a `#`Gtourmaline`^ ring~
+A `#`Gtourmaline`^ ring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 529 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19538 tourmaline ring~
+This golden ring is craved with a very large tourmaline, this gem
+pulse with a strange radiance.
+~
+#19539
+orcish topaz ring~
+a `#`ytopaz`^ ring~
+A `#`ytopaz`^ ring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 518 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19539 topaz ring~
+This silver ring is craved with several smalls topazs, they glow
+with a light yellow radiance.
+~
+#19540
+orcish ceremonial mask~
+an orcish ceremonial mask~
+An orcish ceremonial mask has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 498 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19540 ceremonial mask~
+This mask has been engraved with several runes, it appears to be
+a representation of some dark god or anything alike.
+~
+#19541
+elixir healing~
+an elixer of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+An elixir of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#19542
+drowish black vest~
+a `#`Sblack silk`^ vest~
+A `#`Sblack silk`^ vest lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 248 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19542 black vest~
+This black vest is made with some strange black silk, it's light
+and strong.
+~
+#19543
+orcish steel earring~
+a steel earring~
+A steel earring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19543 earring steel~
+This earring has been engraved with this phrase,
+                I belong to Takers clan
+~
+#19544
+stone axe~
+a `#`Sstone`^ axe~
+A `#`Sstone`^ axe lies here.~
+~
+5 0 4
+2 14 24 0 0 0 0
+1 163 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19544 stone axe~
+This axe is a simple stone tied in a wood stick.
+~
+#19545
+kobold wooden sword~
+a short wooden sword~
+A short wooden sword lies here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 101 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19545 wood sword~
+This sword is a piece of wood with a sharp point.
+~
+#19546
+kobold bamboo pike polearm~
+a bamboo pike~
+A bamboo pike lies here.~
+~
+5 0 4
+2 17 25 32 0 0 0
+1 104 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19546 pike bamboo~
+This weapon is a bamboo stick with a stone point on it.
+~
+#19547
+orcish dull claymore~
+a dull claymore~
+A dull claymore lies here.~
+~
+5 0 4
+2 27 34 40 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19547 claymore~
+This weapon is heavy, very heavy, and has a very sharp edge.
+~
+#19548
+orcish axe~
+a steel axe~
+A steel axe lies here.~
+~
+5 0 4
+2 7 16 8 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19548 axe~
+This axe is all made of metal, a dull and very heavy metal, and
+the edge is very sharp.
+~
+#19549
+orcish whip~
+a long leather whip~
+A long leather whip lies here.~
+~
+5 0 4
+2 7 16 8 0 0 0
+1 295 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19549 whip~
+This whip has been reinforced with some very sharp razor blades.
+~
+#19550
+rusty knife dagger~
+a rusty knife~
+A rusty knife lies here.~
+~
+5 0 4
+1 5 8 128 0 0 0
+1 55 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19550 knife rusty~
+This thing is not a weapon, it's unbalanced, the edge is not sharp,
+and appears will crumble into dust anytime, but there is a strange oil
+dripping from the knife.
+~
+#19551
+broken sword~
+a broken sword~
+A broken sword lies here.~
+~
+5 0 4
+1 27 34 128 0 0 0
+1 18 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19551 sword broken blade~
+This blade should be a long sword, but now is only a rusty broken
+blade, some strange dark dust is on the edge.
+~
+#19552
+piece of wood~
+a piece of wood~
+A piece of wood lies here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19552 club piece wood~
+This thing is a improvised club, it's a piece of wood with a nail
+craved on it.
+~
+#19553
+engraved great axe cut-throat~
+an engraved `rgreat axe`x~
+An engraved `rgreat axe`x lies here.~
+~
+5 0 4
+3 35 50 8 0 0 0
+1 643 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19553 axe engraved great~
+This axe is heavy, very heavy, you almost need your two hands to wield
+it, the edge is extremely sharp, and the axe has been engraved with,
+
+ *************  A Flamingsword cutting a steel helm ***************
+
+~
+#19554
+dull steel dagger~
+a dull steel dagger~
+A dull steel dagger lies here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 404 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19554 dagger steel dull~
+This is a simple dagger.
+~
+#19555
+kobold burned runed staff~
+a burned runed staff~
+A burned runed staff lies here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 42 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+19555 staff burned runed~
+This staff is covered with some runes, but most of them had been
+burned away.
+~
+#19556
+orcish dark jewelered staff~
+a dark jewelered staff~
+A dark jewelered staff lies here.~
+~
+4 16 4
+0 0 0 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+19556 staff dark jewel~
+This staff is made with a strange dark glass, it's engraved with
+several gemstones, all dark ones.
+~
+#19557
+black tome~
+a `#`Sblack`^ leather bound tome~
+A `#`Sblack`^ leather bound tome lies here.~
+~
+2 16 2
+0 -1 -1 -1 0 0 0
+1 1050 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19557 dark tome~
+This dark tome is made with a several strange pieces of leather, you
+cannot identify wich animals have those leather, opps, you look at your
+skin, it's the same texture of one of them...
+~
+#19558
+baked mushroom~
+a baked mushroom~
+A baked mushroom lies here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 19 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19558 baked mushroom~
+This mushroom is baked.
+~
+#19559
+orcish obsidan staff~
+a `#`Cglass-made`^ staff~
+A `#`Cglass-made`^ staff lies here.~
+~
+5 64 4
+2 27 34 36 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19559 obsidian staff~
+This staff is made of a dark glass, this glass is strangly light, and
+pulse emiting a dark radiance, it's very cold to touch.
+~
+#19560
+dwarf baked ~
+a whole baked dwarf~
+A baked dwarf lies here.~
+~
+15 0 8
+0 0 50 100 0 0 0
+10 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19560 dwarf baked~
+You see baked dwarf, with an apple on his mouth, lying on the table.
+~
+#19561
+mushroom~
+a mushroom~
+A mushroom lies here.~
+~
+19 0 16
+6 0 1 0 0 0 0
+1 17 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19561 mushroom~
+This is a smelly mushroom, it emits a faint green light.
+~
+#19562
+liver baked~
+a baked liver~
+A baked liver lies here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19562 liver baked~
+It's a baked liver, and smells good.
+~
+#19563
+heart baked~
+a baked heart~
+A baked heart lies here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19563 heart baked~
+It's a baked heart, of the size a dwarf or halfling heart.
+~
+#19564
+arm baked~
+a baked arm~
+A baked arm lies here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19564 arm baked~
+It's a baked arm, of the size a dwarf or halfling arm.
+~
+#19565
+leg baked~
+a baked leg~
+A baked leg lies here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19565 leg baked~
+It's a baked leg, of the size a dwarf or halfling leg.
+~
+#19566
+bottle glass~
+a black glass bottle~
+A black glass bottle lies here.~
+~
+17 0 16
+20 26 0 0 0 0 0
+1 46 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19566 glass wine~
+You see a black glass bottle.
+~
+#19567
+basket~
+a basket~
+A basket lies here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19567 basket straw~
+It's a basket made of moldy straw.
+~
+#19568
+small barrel~
+a small barrel~
+A small barrel lies here.~
+~
+17 0 16
+100 0 0 0 0 0 0
+2 88 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19568 barrel small~
+It's a small wooden barrel.
+~
+#19569
+orcish leather scabbard~
+a leather scabbard~
+A leather scabbard lies here.~
+~
+15 0 8
+0 0 5 100 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19569 scabbard leather~
+It's a leather scabbard.
+~
+#19570
+small belt pouch~
+a small belt pouch~
+A small belt pouch lies here~
+~
+15 0 8
+1 0 5 100 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19570 pouch~
+This pouch is a small one, very small.
+~
+#19571
+small stones~
+some small stones~
+Some small stones lie here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19571 stones~
+Some small round stones.
+~
+#19572
+old doll~
+an old doll~
+An old doll lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 4 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19572 doll~
+this doll is really ugly, it's made with bones, old cloth and some
+stones.
+~
+#19573
+dwarf head~
+a dwarf head~
+A dwarf head lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19573 head~
+You see a rotting dwarf head.
+~
+#19574
+shield metal orcish~
+a metal medium shield~
+A metal medium shield lies here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19574 shield~
+This shield is made of metal, very heavy, making difficult to keep
+the balance, but appears to be impervious to most all attacks.
+~
+#19575
+bone needle~
+a `#`Wbone`^ needle~
+A `#`Wbone`^ needle lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19575 bone needle~
+This needle appears to be the finger bone of some small being.
+~
+#19576
+small bone box~
+a small `#`Wbone`^ box~
+A small `#`Wbone`^ box lies here.~
+~
+15 0 8
+5 0 2 100 0 0 0
+1 26 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19576 bone box small~
+It's a very small bone box.
+~
+#19577
+dust black glowing~
+some `#`Sblack`^ dust~
+Some `#`Sblack`^ dust lies scattered here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 242 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19577 dust glowing black~
+This dust glowing with a black radiance.
+~
+#19578
+orcish pike polearm~
+a steel pike~
+A large steel pike lies here.~
+~
+5 0 4
+5 17 25 40 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19578 pike~
+This pike is all made of metal, a dull and very heavy metal, the point
+is very sharp.
+~
+#19579
+chicken roast~
+a roast chicken~
+A roast chicken is lying here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19579 roast chicken~
+This chicken smells really good.
+~
+#19580
+slice raw meat guard~
+a slice of raw meat from a guard~
+A slice of raw meat from a guard is lying here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 750 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19580 raw meat~
+It's a slice of meat, still bleeding.
+~
+#19581
+loaf bread~
+a loaf of bread~
+A loaf of bread lies here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 750 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19581 loaf bread~
+This bread is soft and light.
+~
+#19582
+mushroom~
+a magic mushroom~
+A delicious magic mushroom is lying here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19582 mushroom~
+This mushroom smells really good.
+~
+#19583
+piece paper~
+a piece of paper~
+A piece of paper lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19583 piece paper~
+On this paper has been written the control of how many mushrooms, and
+how much water has been collected.
+~
+#19584
+apron leather~
+a leather apron~
+A leather apron lies here.~
+~
+9 0 8
+5 5 1 1 0 0 0
+1 29 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19584 apron~
+This leather apron is very dirty, there are a lot of holes on it.
+~
+#19585
+burned tome~
+a `#`rburned leather`^ bound tome~
+A `#`rburned leather`^ bound tome lies here.~
+~
+2 16 2
+0 -1 -1 -1 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19585 burned tome~
+This tome is burned, almost all pages were burned, but some pages can
+be read, the book still emit a faint radiance.
+~
+#19586
+hammer steel~
+a steel hammer~
+A steel hammer lies here.~
+~
+5 0 4
+4 14 24 1 0 0 0
+2 303 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19586 H
+
+hammer flaming steel~
+This hammer is very hammer, it was not made to battle, but to hammering
+blades it's was altered by magic to emit heat, making the work easier.
+~
+#19587
+anvil steel~
+a dull steel anvil~
+A dull steel anvil lies here.~
+~
+12 1 8
+10000 4105 -25 -25 0 0 0
+20 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19587 anvil~
+This anvil glows with a red radiance, it's very heat.
+~
+#19588
+scroll green~
+a `#`ggreen`^ scroll~
+A `#`ggreen`^ scroll lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 150 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19588 green~
+This scroll is covered by a green moldy, but you can read it.
+~
+#19589
+dull key~
+a dull metal key~
+A dull metal key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19589 key~
+This large key is made of metal, it's very simple and crude.
+~
+#19590
+silver key~
+a silver metal key~
+A silver metal key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19590 key~
+This large key is made of silver, very well made.
+~
+#19591
+soap~
+a `#`Wwhite`^ soap~
+A `#`Wwhite`^ soap lies here.~
+~
+36 0 32
+50 50 389 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19591 soap~
+This soap is crudely made, but smells good.
+~
+#19593
+dwarven plate shining mail~
+a `#`ss`Sh`wi`Wn`wi`Sn`sg`^ platemail~
+A `#`ss`Sh`wi`Wn`wi`Sn`sg`^ platemail lies here.~
+~
+9 0 8
+30 30 8 0 0 0 0
+3 535 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19593 rune~
+Those are the runes for a dwarf's captain armour.
+~
+E
+19593 plate shinning mail~
+This plate was engraved with a hammer crushing a dragon's head, several
+dwarven runes cover the armour.
+~
+#19594
+carved dragon skull~
+a carved dragon skull~
+A carved dragon skull lies here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 622 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19594 runes~
+Those runes appears to be elven runes. It's a mark for dragon
+hunters.
+~
+E
+19594 helm skull~
+This skull was carved to be use as helm. It's covered with some
+strange runes.
+~
+#19595
+vambrace steel blood red~
+some `#`Rblood red`^ vambraces~
+Some `#`Rblood red`^ vambraces have been left here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 522 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19595 vambraces steel blood red~
+Those vambraces appear to be made by minotaurs, several minotaur
+marks are spread along them.
+~
+#19596
+greaves steel blood red~
+some `#`Rblood red`^ greaves~
+Some `#`Rblood red`^ greaves have been left here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 512 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19596 greaves vambrace steel blood red~
+Those vambraces appear to be made by minotaurs, several minotaur marks
+are spread along them.
+~
+#19597
+boot furry red~
+some furry boots~
+Some furry boots lie here.~
+~
+9 64 8
+30 30 4 0 0 0 0
+1 510 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19597 boot furry red~
+Those boots are made with some kind of furry leather, it appears to
+be feline leather.
+~
+#19598
+glowing stone collar~
+a `#`sstone`^ collar~
+A `#`Sstone`^ collar lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 188 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19598 stone collar~
+This collar is made by some strange glowing stone.
+~
+#19599
+orcish leather gauntlets~
+some leather gauntlets~
+Some leather gauntlets lay here.~
+~
+9 0 8
+20 20 3 0 0 0 0
+1 440 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19599 gauntlets~
+These gauntlets are made with leather and reinforced with metal
+strips, in the tips of the finger there are some metal claws.
+~
+#19600
+chest heavy wood~
+a heavy wooden chest~
+A big wooden chest lies here.~
+~
+15 0 8
+13 19601 100 200 0 0 0
+4 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19600 chest~
+You see a big wooden chest on the corner of the room.
+~
+#19601
+black key dull~
+a dull black key~
+A dull black key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19601 key~
+You see a black heavy dull key.
+~
+#19602
+crown golden elven~
+an elven `#`Ygolden`^ crown~
+An elven `#`Ygolden`^ crown lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19602 crown~
+You see a golden crown, it's all covered by elven runes, and glows with a
+mystic white radiance, some dried blood stains the crown.
+~
+#19603
+stone topaz yellow~
+a small topaz~
+A small topaz lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19603 topaz~
+You see a small yellow stone.
+~
+#19604
+stone moonstone black~
+a small black stone~
+A small black stone lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19604 black~
+You see a small blackstone.
+~
+#19605
+saddle bag~
+a saddlebag~
+A saddlebag lies here.~
+~
+15 0 8
+5 0 50 80 0 0 0
+1 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19605 saddle~
+You see a leather saddlebag, this thing was made to heavy horses use.
+~
+#19606
+steel vial potion acid blast~
+a steel vial~
+This steel vial glistens with condensation.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 680 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#19607
+barrel wooden~
+a barrel~
+A large wooden barrel lays near the wall.~
+~
+25 0 16
+-1 1 0 0 0 0 0
+60 10000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19607 barrel~
+You see a large wooden barrel laying near the wall.
+~
+#19608
+sack~
+a sack~
+A large sack lies here.~
+~
+15 0 8
+5 0 50 100 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19608 sack~
+the sack is covered by flour.
+~
+#19609
+flour~
+some flour~
+Some flour lies scattered on the ground.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19609 flour~
+You some flour in your hand.
+~
+#19610
+yellow key dull~
+a dull `#`yyellow`^ key~
+A dull `#`yyellow`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19610 key~
+You see a yellow heavy dull key.
+~
+#19611
+green key dull~
+a dull `#`ggreen`^ key~
+A dull `#`ggreen`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19611 key~
+You see a green heavy dull key.
+~
+#19612
+blue key dull~
+a dull `#`bblue`^ key~
+A dull `#`bblue`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19612 key~
+You see a blue heavy dull key.
+~
+#19613
+orcish flail huge~
+a huge flail~
+A huge flail lies here.~
+~
+5 0 4
+5 27 34 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19613 flail~
+This flail is huge, and very heavy, making difficult your swing, but when
+it hits, it hits heavy.
+~
+#19614
+torch~
+a small torch~
+A small torch lies here.~
+~
+1 0 1
+0 10 0 0 0 0 0
+1 5 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19614 torch~
+this is a piece of wood, wrapped in cloth and soaked with some bad
+smelling oil, it provides a poor ilumination, and burns with a terrible
+smell.
+~
+#19615
+piece paper~
+a piece of paper~
+A piece of paper lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19615 piece paper~
+*********************************************************************
+To the Takers
+From the High Priestess of Lloth
+
+We request three strong human slaves to work in the Temple of Lloth.
+Please send them as soon as possible, the takers will be well paid.
+
+
+		Narcelia Karelist - High Priestess of ArchLloth
+********************************************************************* 
+~
+#19616
+basket small~
+a small basket~
+A small basket lies here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19616 basket straw~
+It's a basket made of moldy straw.
+~
+#19617
+basket~
+a basket~
+A basket lies here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19617 basket straw~
+It's a basket made of moldy straw.
+~
+#19618
+basket straw~
+a straw basket~
+A straw basket lies here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19618 basket straw~
+It's a basket made of moldy straw.
+~
+#19619
+basket very small~
+a very small basket~
+A very small basket lies here.~
+~
+15 0 8
+0 0 20 100 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19619 basket straw~
+It's a basket made of moldy straw.
+~
+#19620
+orcish leather scabbard golden~
+a `#`Ygolden`^ leather embroidery scabbard~
+A `#`Ygolden`^ leather embroidery scabbard lies here.~
+~
+15 0 8
+0 0 10 99 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19620 scabbard leather~
+It's a leather scabbard.
+~
+#19621
+orcish leather scabbard silver~
+a `#`Ssilver`^ leather embroidery scabbard~
+A `#`Ssilver`^ leather embroidery scabbard lies here.~
+~
+15 0 8
+0 0 10 99 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19621 scabbard leather~
+It's a leather scabbard.
+~
+#19622
+orcish leather scabbard bronze~
+a `#`ybronze`^ leather embroidery scabbard~
+A `#`ybronze`^ leather embroidery scabbard lies here.~
+~
+15 0 8
+0 0 10 99 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19622 scabbard leather~
+It's a leather scabbard.
+~
+#19623
+mug dragon breath beer~
+a mug of dragon's breath beer~
+A mug of dragon's breath beer lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 1700 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19623 dragon breath beer~
+You see a mug of dragon's breath beer.
+~
+#19624
+healing leaf leaves mandragora~
+some leaves of `#`ymandragora`^~
+Some leaves of mandragora lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 700 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19624 leaves leaf mandragora~
+Some dried leaves of mandragora.
+~
+#19625
+mug crystalline water sanctuary~
+a mug of crystalline water~
+A mug of crystalline water lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 3800 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19625 water crystalline mineral~
+You see a mug filled with a strange cold mineral water.
+~
+#19626
+bottle medicine disease~
+a bottle of medicine~
+A bottle of medicine lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19626 bottle medicine~
+You see a bottle full of a strange foul smelly 
+green mass.
+~
+#19627
+bitter root roots red blindness~
+some bitter red roots~
+Some bitter red roots lie here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19627 root red bitter~
+You see some reddish roots, they appears to be real bitter.
+~
+#19628
+flask holy uncurse water~
+a flask of crystalline holy water~
+A flask of crystalline holy water lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 900 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+19628 holy water~
+A flask of crystalline holy water.
+~
+#19629
+tree~
+a small tree~
+A small tree stands here.~
+~
+12 0 8
+4000 9 105 105 0 0 0
+50 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#19630
+bonfire~
+a burning bonfire~
+A burning bonfire stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19630 bonfire ~
+You see a hot bonfire burning here.
+~
+#19631
+orcish engraved chain mail~
+an engraved heavy chain mail~
+A heavy leather armour lies here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+2 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19631 vest~
+This armour is really heavy, it's engraved with a clans crest.
+
+       *********     A whip in a golden field    *********
+
+~
+#19632
+orcish chain leggings~
+some heavy chain leggings~
+Some chain leggings lie here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19632 chain leggings~
+Those leggings are heavy and hard ones, giving good protection, but
+they are quite uncomfortable.
+~
+#19633
+orcish chain boots~
+some heavy chain boots~
+Some heavy chain boots lie here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19633 boot~
+Those boots are heavy and hard.
+~
+#19634
+orcish chain girth~
+a chain girth~
+A chain girth lies here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19634 girth chain~
+This girth is heavy, and quite uncomfortable.
+~
+#19635
+orcish chain hood~
+a chain hood~
+A chain hood lies here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19635 chain hood~
+This chain hood is poorly made, very heavy and uncomfortable.
+~
+#19636
+orcish chain sleeves~
+some chain sleeves~
+Some chain sleeves lie here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19636 chain sleeves~
+These chain sleeves are heavy and poorly made.
+~
+#19637
+orcish heavy gauntlets~
+some heavy gauntlets~
+Some heavy gauntlets lie here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19637 gloves~
+These gauntlets has been reinforced with heavy metal strips.
+~
+#19638
+hand axe orcish steel~
+a steel hand axe~
+A steel hand axe lies here.~
+~
+5 0 4
+2 17 25 8 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19638 axe~
+This axe is all made of metal, a dull and very heavy metal, and
+the edge is very sharp.
+~
+#19639
+orcish spectum polearm~
+a steel spetum~
+A large spetum pike lies here.~
+~
+5 0 4
+3 17 25 40 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19639 spetum~
+This weapon is a long staff with a double-edged spear blade on the end,
+on the base of which, there are two diagonally-set flukes.
+~
+#19640
+small key~
+a small steel key~
+A small steel key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+19640 small steel key~
+A small steel key with some runes.
+~
+#0
+
+
+#ROOMS
+#19500
+A Fetid Lake~
+~
+You are in a subterranean small lake, or large pool of stagnant water, the 
+water is dark and fetid, a bit vicious.  You can't see the lake's bottom, 
+but it should not be more than two feet deep.  You can see some very small 
+body parts floating in the lake.  
+~
+1 13 8
+D1
+You still see the fetid lake.
+~
+~
+0 0 19501
+D2
+You see a swamp full of mushrooms.
+~
+~
+0 0 19503
+S
+#19501
+A Fetid Lake~
+~
+In this part of the lake, you can see a channel draining water to the swamp 
+area.  The lake here is a bit deeper, three feet, and you can see several 
+bubbles reaching the water's surface, and the smell here is stronger.  
+~
+1 13 8
+D1
+You still see the lake, it appears to more deep there.
+~
+~
+0 0 19502
+D2
+You see a small channel.
+~
+~
+0 0 19504
+D3
+You see shallowest part of the lake.
+~
+~
+0 0 19500
+E
+bubbles~
+Those bubbles smell really bad.~
+S
+#19502
+A Fetid Lake~
+~
+This part of the lake is very deep, six feet deep.  Here you can see where 
+the water came from, the water drips from several cracks in the stone wall.  
+In the north wall you see a small hole, it appears very difficult to reach 
+it from here.  The smell here is less offensive, but still strong.  
+~
+1 13 8
+D2
+You see a bend in the lake.
+~
+~
+0 0 19505
+D3
+You see the middle of the lake.
+~
+~
+0 0 19501
+D4
+~
+~
+0 0 19605
+E
+cracks~
+These cracks are very deep and narrow, pure crystalline water dripps
+endless from there.
+~
+S
+#19503
+The Swamp Edge~
+~
+You are at the swamp's edge, the ground is very muddy, and smells very bad.  
+You can see several mushrooms growing here, growing over the bodies of small 
+humanoids.  This area is illuminated by the greenish florescent glow coming 
+from the mushrooms.  To west you can see the cavern's wall.  
+~
+1 8 8
+D0
+You see the shallowest part of the lake.
+~
+~
+0 0 19500
+D1
+You see a channel.
+~
+~
+0 0 19504
+D2
+You see a fully mushroom covered ground.
+~
+~
+0 0 19506
+R O 0 19561 0 19503
+R M 0 19502 4 19503
+  R E 0 19544 0 16
+  R E 0 19521 0 7
+  R E 0 19570 0 13
+R M 0 19505 2 19503
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19567 0 17
+E
+bodies~
+Those bodies are very small, the skin scraps on the bodies, indicates
+they are small brown skinned kobolds.
+~
+S
+#19504
+The Channel~
+~
+You stand in a small artificial channel, carved in the ground to let the 
+water from the lake flow into the mushroom farms.  The channel appears to be 
+in good order, and to be constantly repaired.  
+~
+1 9 8
+D0
+You see the middle of the lake.
+~
+~
+0 0 19501
+D1
+You see a fetid lake.
+~
+~
+0 0 19505
+D2
+You see the end of the channel.
+~
+~
+0 0 19507
+D3
+You see the swamp edge.
+~
+~
+0 0 19503
+S
+#19505
+The Bend of the Lake~
+~
+This part of the lake is very shallow, a foot deep.  There are several rocks 
+here, it appears the ceiling collapsed some time ago, burying the lake.  
+Some small torches are scattered through the rocks, and you can smell burned 
+flesh.  
+~
+1 12 8
+D0
+You see the deepest part of the lake.
+~
+~
+0 0 19502
+D1
+You see a stone altar with a bonfire burning strong and high.
+~
+~
+0 0 19521
+D3
+You see a channel.
+~
+~
+0 0 19504
+E
+torch~
+Those torchs are translucent, they emite no heat, only light.
+~
+S
+#19506
+A Mushroom Farm~
+~
+This part of the swamp is fully covered with mushrooms, several kinds, 
+colours, and smells.  They are perfectly ordered in rows, separated by 
+colour.  Several small channels bring water to them, and the whole area is 
+covered by rotting flesh.  This place is hot and stuffy.  To the west you 
+can see the cave's wall.  
+~
+1 8 8
+D0
+You see the swamp edge.
+~
+~
+0 0 19503
+D1
+You see a end of the channel.
+~
+~
+0 0 19507
+D2
+You see more mushroom farms.
+~
+~
+0 0 19509
+R O 0 19561 0 19506
+R M 0 19505 2 19506
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19567 0 17
+R M 0 19512 2 19506
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19567 0 17
+E
+flesh~
+Several rotting carcass are scatterd here, by the size, should be kobold
+carcass.
+~
+S
+#19507
+The end of the Channel~
+~
+The channel ends here, forming a very small pool.  Several small channels 
+let the water from the pool flow into the mushroom farms.  The water here is 
+less dark, but the strong smell persists.  To the south you can see some 
+rocky ground.  
+~
+1 9 8
+D0
+You see a channel.
+~
+~
+0 0 19504
+D1
+You see a small pool.
+~
+~
+0 0 19508
+D2
+You see an entrance to a tunnel.
+~
+~
+0 0 19510
+D3
+You see a mushroom farm.
+~
+~
+0 0 19506
+S
+#19508
+A Small Pool~
+~
+The water, in this part of the pool, is cleaner, the strong smell has nearly 
+disappeared.  You can see foam floating on the water, and some clothes at 
+the pool's edge.  To the north, south and east you can see the cave's walls. 
+ 
+~
+1 9 8
+D3
+You see the end of the channel.
+~
+~
+0 0 19507
+R M 0 19502 4 19508
+  R E 0 19544 0 16
+  R E 0 19521 0 7
+  R E 0 19570 0 13
+R O 0 19617 0 19508
+  R P 0 19521 99 19617
+  R P 0 19520 99 19617
+R M 0 19507 2 19508
+  R E 0 19522 0 5
+  R E 0 19537 0 3
+  R E 0 19535 0 1
+E
+clothes~
+Some small dirty clothes lay here.
+~
+E
+lather~
+It appears, someone had washed something or someone here.
+~
+S
+#19509
+A Mushroom Farm~
+~
+In this part of the swamp, the mushrooms have been cut, so some small 
+mushrooms are growing where the old ones were.  Several small channels let 
+the water flow to the area, and a small corpse lies here.  To the west and 
+south you can see the cave's walls.  This place is hot and stuffy.  
+~
+1 8 8
+D0
+You see a mushroom farm.
+~
+~
+0 0 19506
+D1
+You see an entrance to a tunnel.
+~
+~
+0 0 19510
+R O 0 19561 0 19509
+R M 0 19505 2 19509
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19567 0 17
+E
+corpse~
+This corpse should be here for a short time. This is a corpse of a
+old brown skinned kobold.
+~
+S
+#19510
+An Entrance to a Tunnel~
+~
+You stand before an entrance to a tunnel, several torches are hanging on the 
+wall, along with a small plaque.  The walls are coverd by mould, the place 
+is very humid and hot, and stuffy drops of water drip from the walls.  
+~
+1 12 8
+D0
+You see the end of a channel.
+~
+~
+0 0 19507
+D2
+You see a tunnel.
+~
+~
+0 0 19511
+D3
+You see a mushroom farm.
+~
+~
+0 0 19509
+E
+plaque~
+There is a clan crest engraved in the plaque,
+              ********* A whip in a golden field **********
+
+ and this phrase:
+
+ This place belongs to the Takers.
+
+~
+S
+#19511
+A Tunnel~
+~
+You are in a tunnel 10 yards long, and to the south you can see several 
+bonfires.  The air is fresher in that direction, but to the north you can 
+smell an unpleasant odour, the air appears to be more stuffy in that 
+direction.  There are several torches hanging on the wall, and several wet 
+small tracks can be seen on the ground.  
+~
+1 8 11
+D0
+The tunnel's entrance.
+~
+~
+0 0 19510
+D2
+A large cave.
+~
+~
+0 0 19513
+R M 0 19504 4 19511
+  R E 0 19546 0 16
+  R E 0 19521 0 7
+R M 0 19504 4 19511
+  R E 0 19546 0 16
+  R E 0 19521 0 7
+E
+tracks~
+This tracks are very small and wet, the one who made them, should not be
+more than 3 feet tall.
+~
+S
+#19512
+A Small Hut~
+~
+You are inside a small hut, made of straw, tanned leather, wood, and some 
+other things.  There are three mouldy straw beds on the ground, and some 
+pots near the wall.  The house is very clean, and decorated with some small 
+stones hanging on the ceiling.  
+~
+1 8 0
+D1
+You see a big bonfire burning.
+~
+~
+0 0 19513
+R M 0 19508 2 19512
+  R E 0 19522 0 5
+  R E 0 19535 0 1
+  R E 0 19537 0 3
+  R G 0 19575 0
+  R G 0 19520 0
+R M 0 19508 2 19512
+  R E 0 19522 0 5
+  R E 0 19535 0 1
+  R E 0 19537 0 3
+  R G 0 19575 0
+  R G 0 19520 0
+E
+bed~
+Those beds are made of straw.~
+E
+pots~
+Those are clay pots, now they are empty.
+~
+S
+#19513
+A Large Cave~
+~
+You stand inside a large cave, and cannot see the ceiling, because smoke 
+fills the air.  You can see several small huts scattered across the cave.  
+You smell baked flesh and baked mushrooms.  There are several bonfires 
+burning in the cave.  
+~
+1 8 1
+D0
+You see a tunnel.
+~
+~
+0 0 19511
+D1
+You see a small hut.
+~
+~
+0 0 19514
+D2
+You see the middle of the cave.
+~
+~
+0 0 19516
+D3
+You see a small hut.
+~
+~
+0 0 19512
+R M 0 19502 4 19513
+  R E 0 19544 0 16
+  R E 0 19521 0 7
+  R E 0 19570 0 13
+R M 0 19506 2 19513
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+R M 0 19512 4 19513
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19616 0 17
+    R P 0 19558 99 19616
+E
+fire~
+This large bonfire appears to be use to bake mushrooms.
+~
+S
+#19514
+The Training Hut~
+~
+You stand inside a large wood hut.  There are some battle drawings on the 
+ceiling, and several wooden and stone weapons hanging on the wall.  In the 
+corner you can see a small straw dummy, in the other corner lies a mirror.  
+In the center of the hut there is a small arena.  
+~
+1 8 0
+D3
+You see a large bonfire.
+~
+~
+0 0 19513
+R M 0 19503 3 19514
+  R E 0 19521 0 7
+  R E 0 19545 0 16
+R M 0 19503 3 19514
+  R E 0 19521 0 7
+  R E 0 19545 0 16
+R M 0 19503 3 19514
+  R E 0 19521 0 7
+  R E 0 19545 0 16
+E
+drawing~
+Those drawings show a battle, where the green kobolds fight against a
+huge winged demon, some black kobolds stands behind the demon, hurling
+spells against the green kobolds.
+~
+E
+weapons~
+Those weapons are poorly improvised weapons, made of wood and polish stone.
+~
+E
+dummy~
+This dummy is badly shake, there are several holes in it chest.
+~
+S
+#19515
+A Small Hut~
+~
+You are inside a small hut, made of straw, tanned leather, wood, and some 
+other things.  There are three mouldy straw beds on the ground, and some 
+pots near the wall.  The house is very clean, and decorated with some small 
+stones hanging on the ceiling.  
+~
+1 8 0
+D1
+You see a big bonfire burning.
+~
+~
+0 0 19516
+R M 0 19509 2 19515
+  R E 0 19522 0 5
+  R E 0 19537 0 3
+  R G 0 19571 0
+  R G 0 19572 0
+R M 0 19515 2 19515
+  R E 0 19522 0 5
+  R E 0 19572 0 17
+R M 0 19516 2 19515
+  R E 0 19522 0 5
+  R E 0 19571 0 17
+E
+bed~
+Those beds are made of straw.
+~
+E
+pots~
+Those are clay pots, now they are empty.
+~
+S
+#19516
+The Middle of the Cave~
+~
+You stand in the middle of the cave.  There are several bonfires here, and 
+you cannot see much about the cave, because of all the smoke.  You can smell 
+baked flesh and mushrooms.  The air here is hot and dry.  
+~
+1 8 1
+D0
+You see the northern edge of the cave.
+~
+~
+0 0 19513
+D1
+You see a big hut.
+~
+~
+0 0 19517
+D2
+You see the southern edge of the cave.
+~
+~
+0 0 19519
+D3
+You see a small hut.
+~
+~
+0 0 19515
+R M 0 19506 2 19516
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R G 0 19561 0
+  R G 0 19561 0
+R M 0 19512 4 19516
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19616 0 17
+    R P 0 19558 99 19616
+E
+fire~
+The bonfires are burning high and strong, backing mushrooms and meat.
+~
+E
+smoke~
+The smoke are very thick, black and hot, you almost cannot breath
+because it.
+~
+S
+#19517
+A Big Hut~
+~
+You stand inside the largest hut of the encampment.  The walls are made of 
+wood and straw, some of them are reinforced with metal.  There is a pile of 
+rocks in the center of the hut.  There are two straw beds on the ground, and 
+some wolf skins hanging on the wall.  On the ceiling, you can see a large 
+battle drawing.  
+~
+1 8 0
+D3
+You see a large bonfire
+~
+~
+0 0 19516
+R M 0 19500 1 19517
+  R E 0 19500 0 3
+  R E 0 19501 0 11
+  R E 0 19544 0 16
+  R E 0 19520 0 7
+  R E 0 19598 0 4
+  R G 0 19558 0
+R M 0 19501 2 19517
+  R E 0 19544 0 16
+  R E 0 19520 0 7
+  R E 0 19501 0 11
+  R E 0 19570 0 13
+R M 0 19501 2 19517
+  R E 0 19544 0 16
+  R E 0 19520 0 7
+  R E 0 19501 0 11
+  R E 0 19570 0 13
+E
+rock~
+Those rocks had been mounted to be used as a throne.
+~
+E
+draw~
+This drawing show an exuction, a black skined kobold will be beheaded
+by a green skined kobold, some red haired orcs stand behind the green
+kobold.
+~
+S
+#19518
+The Trash Room~
+~
+This is the corner of the cave, a very small and narrow place, with some 
+torches hanging on the wall.  The place appears to be a trashroom, with a 
+lot of trash scattered around, and some shovels lay scattered among the 
+garbage.  There is a large hole near the trash.  The smell here is very 
+strong.  
+~
+1 8 11
+D1
+You see the southern edge of the cave.
+~
+~
+0 0 19519
+D5
+The hole is very dark, you cannot see anything.
+~
+~
+0 0 19524
+R M 0 19513 4 19518
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+E
+hole~
+The hole is dark, you cannot see anything, but the hole's edge is dirty
+by some green slime.
+~
+E
+trash~
+Among the trash you can see some broken stones weapons, pieces of leather,
+corpses, wood and rotting food.
+~
+S
+#19519
+The Southern Edge of the Cave~
+~
+You stand in the southern edge of the cave.  The air here is cleaner, 
+because the bonfires are extinguished, but the cave's ceiling is still 
+covered by the smoke.  To the east you see an open area, and to the south 
+another cave.  
+~
+1 8 1
+D0
+You can see the middle of the cave.
+~
+~
+0 0 19516
+D1
+You can see an open area.
+~
+~
+0 0 19520
+D2
+~
+~
+0 0 19525
+D3
+You can see a lot of trash.
+~
+~
+0 0 19518
+R M 0 19513 4 19519
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+R M 0 19502 4 19519
+  R E 0 19544 0 16
+  R E 0 19521 0 7
+  R E 0 19570 0 13
+  R G 0 19561 0
+R M 0 19521 9 19519
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19502 0 5
+  R E 0 19548 0 16
+  R E 0 19554 0 19
+R M 0 19522 1 19519
+  R E 0 19614 0 0
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19502 0 5
+  R E 0 19548 0 16
+  R E 0 19583 0 17
+  R G 0 19588 0
+S
+#19520
+An Open Area~
+~
+You stand in an open area, where the smoke is thinner, and you can breath 
+better.  This place is nearly empty, there are only some stones scattered on 
+the ground.  From time to time you can feel a gust of wind come from 
+somewhere, probably from the ceiling.  
+~
+1 8 11
+D3
+You can see the southern edge of the cave.
+~
+~
+0 0 19519
+R M 0 19513 4 19520
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+R M 0 19511 4 19520
+  R E 0 19521 0 7
+  R E 0 19552 0 16
+  R E 0 19570 0 13
+    R P 0 19571 20 19570
+R M 0 19511 4 19520
+  R E 0 19521 0 7
+  R E 0 19552 0 16
+  R E 0 19570 0 13
+    R P 0 19535 20 19570
+R M 0 19502 4 19520
+  R E 0 19544 0 16
+  R E 0 19521 0 7
+  R G 0 19561 0
+R M 0 19510 4 19520
+  R E 0 19521 0 7
+  R G 0 19571 0
+R M 0 19510 4 19520
+  R E 0 19521 0 7
+E
+wind~
+You can feel the direction of wind, it's coming from a large crack on
+the cave's ceiling.
+~
+E
+gust~
+You can feel the direction of wind, it's coming from a large crack on
+the cave's ceiling.
+~
+S
+#19521
+The Stone Altar~
+~
+This place is a small semi-collapsed cave.  Several rocks are scattered in 
+the area.  There is a smell of burned flesh in the air.  In the center, 
+there is a small stone altar.  The altar appears to be made of collapsed 
+stones.  Some glowing balls of light are floating in the air.  
+~
+1 8 11
+D3
+You can see the shallowest part of the lake.
+~
+~
+0 0 19505
+D5
+You can see a destroyed laboratory.
+~
+trapdoor~
+1 0 19522
+R M 0 19514 4 19521
+  R E 0 19523 0 5
+  R E 0 19598 0 3
+  R E 0 19555 0 17
+E
+altar~
+This altar is a simple stone circle, with a large cubic stone on the
+middle.
+~
+E
+ball~
+Those balls are immaterial, the only thing that those balls do are
+emite light.
+~
+S
+#19522
+A Destroyed Laboratory~
+~
+You stand in a room carved in the rock, the room used to be a laboratory, 
+but it appears the whole room has been blasted away by a huge explosion.  
+Everything here is burned, broken in pieces, very small pieces.  Nothing 
+survived the explosion.  
+~
+1 13 0
+D4
+You see a small cave.
+~
+trapdoor~
+1 0 19521
+D5
+You see another room.
+~
+trapdoor~
+1 0 19523
+E
+pieces~
+Those pieces use to be some kind of furniture, now they are only blasted
+pieces of wood.
+~
+S
+#19523
+The Summoning Room~
+~
+This room is carved in the rock, the walls are rough, and emit a faint red 
+light.  The whole room smells like brimstone.  There is a large circle 
+carved in the ground, and some bones scattered on the floor.  
+~
+1 8 0
+D4
+You see a destroyed laboratory.
+~
+trapdoor~
+1 0 19522
+R M 0 19553 4 19523
+  R G 0 19585 0
+E
+bone~
+You can see some cracked bones lay scattered on the ground, small bones,
+like kobold or goblin bones.
+~
+E
+circle~
+The circle was carved in the stone, some reddish dust fill the
+circle's groove. You can see a fail in the circle, This one was not
+well made.
+~
+S
+#19524
+A Dark Hole~
+~
+You are in a hole carved into the ground.  The place is empty, except for a 
+green slime that drips from the walls and the ceiling.  The place has an 
+acrid smell, and is very stuffy.  
+~
+1 9 11
+D4
+You see some trash falling from above.
+~
+~
+0 0 19518
+R M 0 19552 4 19524
+  R G 0 19544 0
+S
+#19525
+A Check Point~
+~
+You are in the middle of a large tunnel, torches hang on the wall.  You can 
+see several small tracks on the ground.  You can feel a fresh gust of wind 
+coming from the south, and some noise too.  From the north you can smell 
+burned wood, and you can see several bonfires burning.  
+~
+1 12 1
+D0
+~
+~
+0 0 19519
+D2
+You see the southern end of the tunnel.
+~
+~
+0 0 19526
+S
+#19526
+The Guardpost ~
+~
+You are in the southern end of a tunnel.  There are several torches hanging 
+on the wall.  A guard post is here, blocking the passage.  Several heads 
+hang on the tunnel's ceiling.  
+~
+1 8 1
+D0
+You see the middle of the tunnel.
+~
+~
+0 0 19525
+D2
+You see a large cave, with several stone houses.
+~
+~
+0 0 19528
+R M 0 19512 5 19526
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19616 0 17
+    R P 0 19558 99 19616
+R M 0 19513 5 19526
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+R M 0 19577 2 19526
+  R E 0 19639 0 16
+  R E 0 19574 0 11
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+  R G 0 19566 0
+R M 0 19577 2 19526
+  R E 0 19639 0 16
+  R E 0 19574 0 11
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+  R G 0 19564 0
+E
+post~
+It's a single wood wall, supported by some stones.
+~
+E
+head~
+Those heads was savagely cutt off, some of them have no eyes or jaws,
+worms crawl on the heads, eating away their flesh.
+~
+E
+ceiling~
+You see several heads tied in the stalagmites, on the ceiling, there
+are elven, dwarven. humand and draconians heads.
+~
+S
+#19527
+Tak-Goran's Masterblades~
+~
+You are inside a large room.  Several weapon racks hang on the wall, full of 
+weapons.  Some barrels lie scattered along the room.  The stone walls are 
+decorated with battle portraits, and on the west wall, you can see a shining 
+armour, carefully mounted on a dummy.  
+~
+1 8 0
+D1
+You see a dirty street.
+~
+~
+0 0 19528
+R M 0 19541 1 19527
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19569 0 13
+  R G 0 19544 0
+  R G 0 19545 0
+  R G 0 19546 0
+  R G 0 19547 0
+  R G 0 19548 0
+  R G 0 19549 0
+  R G 0 19554 0
+  R G 0 19578 0
+E
+armour~
+You see a very well conserved silver scale armour.
+~
+E
+portraits~
+You see a scene of a battle:
+
+A heavily armored orc thrusting a huge lance in the silver's
+dragon head.
+~
+E
+racks~
+Those racks are full of weapons, carefully organized.
+~
+E
+barrels~
+The barrels are full of broken pieces of armour, waiting
+for the smith.
+~
+S
+#19528
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several shops 
+on this road.  To the west lies the weaponshop, and to the east the armour 
+shop.  There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+You see a tunnel.
+~
+~
+0 0 19526
+D1
+You see the armour shop.
+~
+~
+0 0 19529
+D2
+The road goes south.
+~
+~
+0 0 19531
+D3
+You see the weapon shop.
+~
+~
+0 0 19527
+R M 0 19523 8 19528
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, ofering a poor
+ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome, several
+stalagmites grow from the ceiling.
+~
+S
+#19529
+Tak-Bugtru's Impervious Plates~
+~
+You are in a large room.  The stone walls are covered with several kinds of 
+shields.  Armour and helms are mounted on straw dummies.  The place is 
+covered with some kind of armour.  Some dragon's eyes are mounted on candle 
+sticks.  
+~
+1 8 0
+D3
+You see a dirty street.
+~
+~
+0 0 19528
+R M 0 19542 1 19529
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19569 0 13
+  R G 0 19530 0
+  R G 0 19510 0
+  R G 0 19599 0
+  R G 0 19505 0
+  R G 0 19506 0
+  R G 0 19504 0
+  R G 0 19503 0
+E
+dummy~
+Those straws dummy serve as support for the armour, so you can see how
+the mounted armour like.
+~
+E
+eyes~
+Those dragon's eyes glow with a strong white light, offering a good
+ilumination for this place.
+~
+E
+dragon~
+Those dragon's eyes glow with a strong white light, offering a good
+ilumination for this place.
+~
+S
+#19531
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several shops 
+on this road.  To the west is the slave shop, and to the east the food shop. 
+ There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+The road goes north.
+~
+~
+0 0 19528
+D1
+You see the food shop.
+~
+~
+0 0 19532
+D2
+The road goes south.
+~
+~
+0 0 19534
+D3
+You see the slave shop.
+~
+~
+0 0 19583
+R M 0 19512 4 19531
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19616 0 17
+    R P 0 19558 99 19616
+R M 0 19513 4 19531
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, ofering a poor
+ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome, several
+stalagmites grow from the ceiling.
+~
+S
+#19532
+Ugh's Things For Your Belly~
+~
+You are in a small stone room. You see a small bonfire burning in the
+middle of the room, making this room a bit hot and smoky. Several baskets
+full of mushrooms lie scattered in the room, and some water barrels.
+~
+1 8 0
+D3
+You see a dirty street.
+~
+~
+0 0 19531
+R M 0 19545 1 19532
+  R E 0 19500 0 3
+  R E 0 19520 0 7
+  R G 0 19558 0
+  R G 0 19566 0
+  R G 0 19565 0
+  R G 0 19564 0
+  R G 0 19563 0
+  R G 0 19561 0
+  R G 0 19568 0
+S
+#19533
+Yurtrus' Good Things For You and Your Friends~
+~
+Yoy are in a dark stone room.  You can see a lot of coloured flasks, lying 
+on racks in the wall, and some baskets full of food.  You see a `#`Ysign`^ near 
+the food basket.  The place is strangely cold, and you can feel a gust of 
+wind coming from the north.  
+~
+1 8 0
+D1
+You see a dirty street.
+~
+~
+0 0 19534
+R M 0 19546 1 19533
+  R E 0 19511 0 15
+  R E 0 19511 0 14
+  R E 0 19542 0 5
+  R E 0 19519 0 6
+  R E 0 19554 0 16
+  R E 0 19514 0 7
+  R E 0 19515 0 13
+  R E 0 19516 0 8
+  R E 0 19518 0 9
+  R E 0 19517 0 10
+  R G 0 19579 0
+  R G 0 19580 0
+  R G 0 19581 0
+  R G 0 19606 0
+  R G 0 19541 0
+  R G 0 19582 0
+E
+food sign plaque~
+Near the food, you see a small sign:
+
+Our food has been treated with the best poisons available in the land,
+you can choose what kind of poison you prefer:
+
+Loaf - perfect against mages, the venom will dispel magics and waste
+       some energy life.
+Roast Chicken - Will make your target unable to pray recall for
+                the gods.
+Raw Meat - Usefull against warriors, it will make your enemy blinded
+           and weakened.
+Mushroom - It will make your enemy run away, full of fear in his
+           heart.
+Potion of Healing - Our potion of healing has been specially modified
+                    to cause more wounds than heal them.
+Steel vial - A perfect imitation of one of the best potions on the realm
+             but our steel vial will blast your foes away.
+~
+E
+basket~
+You can see loafs of bread, roast chicken and some slices of raw meat.
+~
+S
+#19534
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several shops 
+on this road.  To the west is the potion shop, and to the east the general 
+store.  There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+The road goes north.
+~
+~
+0 0 19531
+D1
+You see the general store.
+~
+~
+0 0 19535
+D2
+You see a large square.
+~
+~
+0 0 19537
+D3
+You see the potion shop.
+~
+~
+0 0 19533
+R M 0 19523 8 19534
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, ofering a poor
+ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19535
+Tak-Mur's General Store~
+~
+You are in a large and well illuminated room.  You can see a barrel or a 
+crate in every free space of this room, but everything here is in perfect 
+order.  Lots of candlesticks are scattered about the room.  
+~
+1 8 0
+D3
+You see a dirty street.
+~
+~
+0 0 19534
+R M 0 19544 1 19535
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+  R G 0 3083 0
+  R G 0 3082 0
+  R G 0 3027 0
+  R G 0 3026 0
+S
+#19536
+East-West Road~
+~
+You are on a dirty road that leads east to west.  You can see several stone 
+buildings on this road.  There are some oil lamps hanging on top of wooden 
+poles.  
+~
+1 8 1
+D1
+You see the central square.
+~
+~
+0 0 19537
+D3
+The road goes west.
+~
+~
+0 0 19569
+R M 0 19512 4 19536
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19616 0 17
+    R P 0 19558 99 19616
+R M 0 19523 8 19536
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+  R G 0 19566 0
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering poor
+illumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome, several
+stalagmites grow from the ceiling.
+~
+S
+#19537
+Central Square~
+~
+You stand in a large square in the center of the city.  You can see a big 
+gallow in the square's center.  The square is really dirty.  You can feel a 
+gust of wind coming from the east.  The place smells of death and decay.  
+There are roads going north, south, east and west.  
+~
+1 8 1
+D0
+You see some shops.
+~
+~
+0 0 19534
+D1
+You see a large stone building.
+~
+~
+0 0 19538
+D2
+You see some stone houses.
+~
+~
+0 0 19540
+D3
+You see a Inn.
+~
+~
+0 0 19536
+R M 0 19523 8 19537
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+  R G 0 19566 0
+R M 0 19537 1 19537
+  R E 0 19528 0 7
+  R G 0 19561 0
+R M 0 19580 1 19537
+  R G 0 19623 0
+  R G 0 19624 0
+  R G 0 19625 0
+  R G 0 19626 0
+  R G 0 19627 0
+  R G 0 19628 0
+  R E 0 19511 0 14
+  R E 0 19524 0 5
+  R E 0 19532 0 3
+  R E 0 19539 0 2
+  R E 0 19540 0 6
+  R E 0 19556 0 17
+  R E 0 19559 0 16
+  R E 0 19525 0 7
+  R E 0 19515 0 13
+  R E 0 19526 0 8
+  R E 0 19518 0 9
+  R E 0 19517 0 10
+R O 0 7570 0 19537
+E
+corpse~
+The corpse is from a drow, his hands was cutted off.
+~
+E
+gallows~
+You see a rotting corpse hanging on the gallows.
+~
+S
+#19538
+East-West Road~
+~
+You are on a dirty road that leads east-west.  There are some oil lamps 
+hanging on top of wooden poles.  This place is empty of buildings.  You can 
+see a small waterfall near the large building.  The air here is fresher and 
+moister.  
+~
+1 8 1
+D1
+You see a large porticullis.
+~
+~
+0 0 19548
+D3
+You see a large square.
+~
+~
+0 0 19537
+R M 0 19523 8 19538
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+waterfall~
+A small waterfall comes from a large crack on the cave's wall, and
+dissappear in a subterranean river. The waterfall renewes the cave's air
+and make the place less harsh.
+~
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering a poor
+ilumination for this place.
+~
+S
+#19539
+The Smith~
+~
+Four huge furnace fires burn along the west wall of this large room.  The 
+air is sooty and smoky.  The fires are heating various pieces of metal, 
+which are being forged into swordblades and spearheads.  Working in this 
+forge is a dirty dwarf, imprisoned by a ball and a chain attached to his 
+ankle, and a large orc, hammering away on an anvil.  
+~
+1 8 0
+D1
+You see a dirty street.
+~
+~
+0 0 19540
+R O 0 19587 0 19539
+R O 0 19551 0 19539
+R M 0 19533 2 19539
+  R E 0 19584 0 5
+  R E 0 19528 0 7
+  R E 0 19504 0 8
+  R E 0 19586 0 16
+  R E 0 19530 0 9
+E
+furnace~
+Those furnaces are made of stone, they are burning high and strong.
+~
+S
+#19540
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several 
+buildings on this road.  To the west is the smithy, and to the east a house. 
+ There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+You see tha large square.
+~
+~
+0 0 19537
+D1
+You see a house.
+~
+door~
+1 0 19541
+D2
+The road goes south.
+~
+~
+0 0 19543
+D3
+You see the smith.
+~
+~
+0 0 19539
+R M 0 19513 4 19540
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+R M 0 19523 8 19540
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+  R G 0 19554 0
+  R G 0 19566 0
+  R G 0 19562 0
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering a poor
+ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome, several
+stalagmites grow from the ceiling.
+~
+S
+#19541
+An Old House~
+~
+In this dirty, vile-smelling room, a smoky fire is dying in a large 
+fireplace, and a kettle holding some greenish-black stew simmers over the 
+coals.  Three large wooden benches, two chairs, and a table fill the room.  
+On the table is a large jug and three wine-stained goblets.  
+~
+1 8 0
+D3
+You see a dirty road.
+~
+door~
+1 0 19540
+R M 0 19536 2 19541
+  R E 0 19513 0 6
+  R E 0 19512 0 5
+  R E 0 19507 0 10
+  R E 0 19599 0 9
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19569 0 13
+  R G 0 19551 0
+  R E 0 19548 0 16
+S
+#19542
+A Small House~
+~
+In this room, you can see a lot of benches scattered along the room, several 
+pieces of leather hanging on the wall, and on the ground a basket with 
+knives, needles and leather strips.  In the corner is a small fireplace, 
+where some mushrooms are baking.  
+~
+1 8 0
+D1
+You see a dirty road.
+~
+door~
+1 0 19543
+D2
+You see a small garden.
+~
+~
+0 0 19545
+R O 0 19509 0 19542
+R O 0 19510 0 19542
+R M 0 19530 4 19542
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19575 0 17
+  R G 0 19509 0
+  R G 0 19510 0
+S
+#19543
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several houses 
+on this road.  To the west is a small house, and to the east another small 
+house.  There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+The road goes north.
+~
+~
+0 0 19540
+D1
+You see the tanner's house.
+~
+~
+0 0 19544
+D2
+The road goes south.
+~
+~
+0 0 19546
+D3
+You see a small house.
+~
+door~
+1 0 19542
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering
+a poor ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19544
+The Tanner's House~
+~
+This room smells really bad, a mixture of animal fat with an acrid smell, 
+the air is stuffy and hot.  In the center, there is a bonfire burning and 
+several pieces of leather hanging near the fire, dripping some liquid fat.  
+The smoke from the fire can only leave this room through the door, because 
+there are no windows here.  
+~
+1 8 0
+D3
+You see a dirt street.
+~
+~
+0 0 19543
+R O 0 19509 0 19544
+R O 0 19510 0 19544
+R M 0 19554 5 19544
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19554 0 16
+E
+leather~
+Those pieces of leather should be recently removed from the beast,
+they still smelling blood and fat.
+~
+S
+#19545
+A Small Garden~
+~
+In this part of the house, the ground is covered with earth, and some 
+garbage.  Scattered along the earth grow several coloured mushrooms.  Some 
+of them are very smelly, others make a sound when you come close to them.  
+In the center of the garden is a large pot, with several holes in the 
+bottom, letting the water flow to the garden.  From here you can see the 
+cave's ceiling high above.  
+~
+1 8 11
+D0
+You see a small house.
+~
+~
+0 0 19542
+R O 0 19509 0 19545
+R O 0 19510 0 19545
+R O 0 19561 0 19545
+R M 0 19532 4 19545
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+  R E 0 19528 0 7
+  R E 0 19554 0 16
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19546
+North-South Road~
+~
+You are on a dirty road, that leads north-south.  You can see several houses 
+on this road.  To the west is a small house, and to the east another small 
+house.  There are some oil lamps hanging on top of wooden poles.  
+~
+1 8 1
+D0
+The road goes north.
+~
+~
+0 0 19543
+D1
+You see a small house.
+~
+door~
+1 0 19547
+D2
+You see a guard post.
+~
+~
+0 0 19571
+R M 0 19523 8 19546
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19575 0 17
+  R G 0 19509 0
+  R G 0 19510 0
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering a
+poor ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19547
+A Small House~
+~
+In this room, you can see a lot of benches scattered along the room, and 
+several pieces of leather are hanging on the wall, and on the ground you can 
+see a basket with knives, needles and leather strips.  In the corner is a 
+small fireplace, where some mushrooms are baking.  
+~
+1 8 0
+D3
+You see a dirty road.
+~
+door~
+1 0 19546
+R M 0 19531 4 19547
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19545 0 16
+S
+#19548
+A Guard Post~
+~
+You stand before a large metal portcullis, blocking the way to the large 
+building to east.  A high stone wall circles the large building.  Near the 
+portcullis lies a large flat stone.  
+~
+1 8 1
+D1
+You see a small garden.
+~
+portcullis~
+33 19589 19563
+D3
+You see a dirty street.
+~
+~
+0 0 19538
+R M 0 19513 4 19548
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+R M 0 19519 10 19548
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19502 0 5
+  R E 0 19578 0 16
+  R E 0 19574 0 11
+  R E 0 19530 0 9
+  R G 0 19589 0
+R M 0 19519 2 19548
+  R E 0 19503 0 7
+  R E 0 19505 0 13
+  R E 0 19504 0 8
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19502 0 5
+  R E 0 19578 0 16
+  R E 0 19530 0 9
+S
+#19549
+A Bedroom~
+~
+You are in a large room.  A dozen beds, two large wardrobes, and a wooden 
+table fill the room.  The walls are covered with some warbanners, and a set 
+of weapons lies near the beds.  Some oil lamps illuminate the room.  
+~
+1 8 0
+D3
+You see the dinning room.
+~
+door~
+1 0 19553
+D9
+You see a large bathroom.
+~
+door~
+1 0 19573
+R M 0 19520 2 19549
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19621 0 13
+E
+warbanner~
+Those warbanners are captured warbanners, some of them are elven or
+dwarven ones.
+~
+S
+#19550
+The Entrance Hall~
+~
+This is an enormous room with some warbanners on the walls and furry skins 
+on the floor.  There are some statues in full plate in the corners, and some 
+decorated weapons and shields hang on the walls.  Some portraits are 
+scattered along the wall.  A large chandelier hangs from the ceiling.  
+~
+1 8 0
+D0
+You see a dinning room.
+~
+~
+0 0 19553
+D1
+You see a large Throne.
+~
+door~
+1 0 19556
+D2
+You see some shadows coming from this direction.
+~
+~
+0 0 19559
+D3
+You see a small garden.
+~
+gate~
+1 0 19563
+R M 0 19520 2 19550
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19554 0 19
+  R E 0 19621 0 13
+E
+weapon~
+Those weapons are not orcish weapons, some them appears to be made
+by human's hands, other made by elven smiths.
+~
+E
+portrait~
+Those portraits show scenes of a great battle, orcs against
+dwarven armys.
+~
+E
+warbanner~
+Those warbanners come from long forgotten realms, the most of the banners
+are from elven kingdoms and orcishs clans.
+~
+S
+#19551
+A Bedroom~
+~
+This room contains a dozen beds and wardrobes, a few chairs, and a couple of 
+tables.  This room is almost empty of decorations, the walls are dull and 
+black.  There are no light sources in this room, and it is colder than the 
+other rooms.  
+~
+1 9 0
+D1
+You see a bathroom.
+~
+door~
+1 0 19573
+D2
+You see the kitchen.
+~
+door~
+1 0 19554
+S
+#19552
+A Private Room~
+~
+A large bookshelf cover the west wall. A table, a small desk, some
+chairs, and a bed fill this room. The floor is covered with wolfskin,
+and on the north wall is a rack with some jars on it. Some of those jars
+glow with a strong blue radiance, illuminating the room.
+~
+1 8 0
+D1
+You can feel a strange coldness coming from there.
+~
+~
+0 0 19559
+D2
+You see a bathroom.
+~
+door~
+1 0 19572
+E
+jars~
+Those jars a filled with strange collored liquids, and some of them
+contains eyes and hearts.
+~
+E
+book~
+As you get one of the books, it crumbles into dust, and the dust
+dissapears into nothingness.
+~
+E
+bookshelf~
+The bookshelf are full of old tomes.
+~
+S
+#19553
+A Dining Room~
+~
+You see a large room with many tables and benches. There are some war
+banners on the walls, and some furry skins on the floor. The light comes
+from several candlesticks scattered on the tables. To the south there is
+a kitchen, to the west a great hall, and to the south a bedroom.
+~
+1 8 0
+D1
+You see a bedroom.
+~
+door~
+1 0 19549
+D2
+You see a large hall.
+~
+~
+0 0 19550
+D3
+You see a kitchen.
+~
+door~
+1 0 19554
+R O 0 19560 0 19553
+  R P 0 19562 99 19560
+  R P 0 19563 20 19560
+  R P 0 19564 20 19560
+  R P 0 19565 20 19560
+R M 0 19526 2 19553
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+  R E 0 19618 0 17
+    R P 0 19558 99 19618
+    R P 0 19562 20 19618
+R M 0 19527 2 19553
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+  R E 0 19566 0 17
+E
+warbanner~
+Those warbanners are captured warbanners, some of them are elven or
+dwarven ones.
+~
+S
+#19554
+The Kitchen~
+~
+You see a large kitchen.  A delicious aroma of cooking meat comes from a 
+cauldron, and in the fireplace you see some mushrooms baking.  In the corner 
+of the room is a large pile of what appears to be garbage.  A heavy chopping 
+table stands in the center of the room with a variety of knives and various 
+cooking utensils scattered about its surface.  Some oil lamps illuminate the 
+room.  
+~
+1 8 0
+D0
+You see a bedroom.
+~
+door~
+1 0 19551
+D1
+You see a dinning room.
+~
+door~
+1 0 19553
+D5
+You see a storeroom.
+~
+trapdoor~
+1 0 19557
+R M 0 19526 2 19554
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+  R E 0 19618 0 17
+    R P 0 19558 99 19618
+    R P 0 19562 20 19618
+    R P 0 19563 20 19618
+R M 0 19527 2 19554
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+  R E 0 19566 0 17
+R M 0 19528 2 19554
+  R E 0 19584 0 5
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19531 0 16
+  R E 0 19543 0 6
+  R G 0 19565 0
+S
+#19555
+A Large Bedroom~
+~
+There is a large bed, two wardrobes, a desk, a table, and several chairs.  
+There are ornate rugs on the floor, and a large mirror on the wall.  The 
+walls are covered with pieces of armour and animal skins.  A large 
+chandelier hangs on the ceiling.  
+~
+1 8 0
+D0
+You see a large throne.
+~
+door~
+33 19590 19556
+D2
+You see a bathroom.
+~
+door~
+1 0 19561
+D5
+You see a dark room.
+~
+trapdoor~
+1 0 19558
+E
+armour~
+Those pieces of armour appears to be human made. They are blood stained
+and badly damaged.
+~
+E
+skins~
+Those skins come from several animals, wolfs, bears, dragons and
+trolls.
+~
+E
+rugs~
+Those rugs show scenes of the florest live, some sprites and a faire
+dragon was drew in the rug.
+~
+S
+#19556
+The Throne Room~
+~
+A large obsidian throne dominates this room.  Several war banners hang on 
+the north and south walls.  A red rug leads from the Great Hall up to the 
+throne.  Four columns are built in the walls along both sides of the hall.  
+High above the entrance door is a large warbanner.  A large chandelier hangs 
+on the ceiling.  
+~
+1 8 0
+D2
+You see a bedroom.
+~
+door~
+33 19590 19555
+D3
+You see a large hall.
+~
+door~
+1 0 19550
+R M 0 19518 10 19556
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19554 0 19
+  R E 0 19621 0 13
+R M 0 19518 10 19556
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19547 0 16
+  R E 0 19554 0 19
+  R E 0 19621 0 13
+R M 0 19517 5 19556
+  R E 0 19597 0 8
+  R E 0 19596 0 7
+  R E 0 19595 0 10
+  R E 0 19594 0 6
+  R E 0 19593 0 5
+  R E 0 19599 0 9
+  R E 0 19553 0 16
+  R E 0 19554 0 19
+  R E 0 19533 0 1
+  R E 0 19509 0 3
+  R E 0 19620 0 13
+  R G 0 19590 0
+  R G 0 19601 0
+R M 0 19540 10 19556
+  R E 0 19543 0 6
+R M 0 19547 9 19556
+  R E 0 19543 0 6
+E
+columns~
+Those columns was build to appear with heavily armored orcish warriors.
+~
+E
+Throne~
+This throne was made of obsidian, several runes was been engraved on it.
+~
+E
+large~
+The large warbanner show:
+        *********** A whip in a golden field *****************
+
+~
+E
+warbanner~
+Those warbanners come from different places, there are dwarven, elven,
+human and orcish warbanners hanging on the walls.
+~
+S
+#19557
+A Store Room~
+~
+This room is lined with shelves, and two additional rows of shelves are in 
+the middle of the room.  Sacks and barrels are stacked along the left wall.  
+From the barrels comes a strong smell of alcohol.  
+~
+1 9 0
+D4
+You see the kitchen.
+~
+trapdoor~
+1 0 19554
+R O 0 19566 0 19557
+R O 0 19568 0 19557
+S
+#19558
+A Secret Room~
+~
+This room was carved in the rocky ground.  There aren't windows or any kind 
+of illumination.  The air is stuffy and cold, the entire place is a bit 
+cold.  The rocky walls are strangely dark.  From time to time you can hear 
+the wall humming, and you can feel your life slipping away.  
+~
+1 9 0
+D4
+You see a bedroom.
+~
+trapdoor~
+1 0 19555
+R O 0 19600 0 19558
+  R P 0 19602 5 19600
+S
+#19559
+The Taker's Temple~
+~
+Most of this room is taken up by a platform. Three steps lead up to the
+platform. A bronze brazier, stands in the middle, blazing with a dark 
+cold flame, spreading darkness in this room. On the walls are some
+portraits, and on the ceiling you can see a large black drawing.
+~
+1 9 0
+D0
+You see a large hall.
+~
+~
+0 0 19550
+D3
+You see a bedroom.
+~
+~
+0 0 19552
+R M 0 19524 4 19559
+  R E 0 19511 0 14
+  R E 0 19524 0 5
+  R E 0 19532 0 3
+  R E 0 19538 0 1
+  R E 0 19539 0 2
+  R E 0 19540 0 6
+  R E 0 19556 0 17
+  R E 0 19559 0 16
+  R E 0 19525 0 7
+  R E 0 19515 0 13
+  R E 0 19526 0 8
+  R E 0 19518 0 9
+  R E 0 19517 0 10
+  R G 0 19557 0
+E
+darkness~
+Where the darkness touchs, the life slips away, leaving only dust
+in the place.
+~
+E
+portrait~
+Those portraits show battles, where orcs are slaying dwarven armies.
+~
+E
+drawing~
+It's a drawing of a huge black claw.
+~
+S
+#19561
+A Bathroom~
+~
+This room appears to be a bathroom.  There is a small stove at the far end 
+and a decorated bath above the stove.  There is a large metal tub nearby.  
+Closer to the door is a dressing table with a mirror.  Over the table lies a 
+bottle of scented water.  
+~
+1 8 0
+D0
+You see a bedroom.
+~
+door~
+1 0 19555
+R O 0 19619 0 19561
+  R P 0 19591 10 19619
+S
+#19563
+A Small Garden~
+~
+You enter a small garden, where the ground is covered with earth, and some 
+garbage.  Scattered along the earth grow several coloured mushrooms.  Some 
+of them are very smelly, others make sounds when you come close to them.  In 
+the center of the garden is a large pot, with several holes in the bottom, 
+letting the water flow to the garden.  From here you can see the cave's 
+ceiling high above.  
+~
+1 12 11
+D1
+You see a large building.
+~
+gate~
+1 0 19550
+D3
+You see a portcullis.
+~
+portcullis~
+33 19589 19548
+R O 0 19561 0 19563
+R O 0 19561 0 19563
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19564
+The Dragon's Breath Inn~
+~
+You are in a large room. Along the north wall there is a counter and 
+a shelf filled with coloured bottles. There are five rounded wooden 
+tables scattered about the room. The light is provided by candlesticks 
+which are placed on the tables. On the counter lie some plates full of
+baked mushrooms and bread, and some large barrels lie near the counter. 
+You see a balcony over the north wall. There is a corridor to the west.
+~
+1 8 0
+D2
+~
+~
+0 0 19570
+D3
+You see a corridor.
+~
+~
+0 0 19576
+R M 0 19538 8 19564
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19504 0 8
+  R E 0 19530 0 9
+  R E 0 19554 0 16
+  R E 0 19569 0 13
+    R P 0 19554 0 19569
+  R G 0 19610 0
+R M 0 19539 2 19564
+  R E 0 19515 0 13
+  R E 0 19536 0 19
+  R E 0 19536 0 16
+  R E 0 19514 0 7
+  R E 0 19516 0 8
+  R E 0 19517 0 10
+  R E 0 19518 0 9
+  R E 0 19519 0 6
+  R E 0 19542 0 5
+  R E 0 19554 0 16
+  R E 0 19554 0 19
+  R G 0 19576 0
+    R P 0 19577 5 19576
+  R G 0 19612 0
+R M 0 19559 10 19564
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19548 0 16
+R M 0 19559 10 19564
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19548 0 16
+R M 0 19556 1 19564
+  R E 0 19528 0 7
+  R E 0 19554 0 16
+  R E 0 19504 0 8
+  R E 0 19584 0 5
+  R G 0 3065 0
+  R G 0 3064 0
+  R G 0 3063 0
+  R G 0 3045 0
+  R G 0 3044 0
+  R G 0 3043 0
+  R G 0 3042 0
+  R G 0 3041 0
+S
+#19565
+A Pantry~
+~
+You are in a large room lined with shelves, and two additional rows of 
+shelves are in the middle of the room.  Sacks and barrels are stacked along 
+the south wall.  
+~
+1 9 0
+D0
+you see a dirty street.
+~
+door~
+1 0 19568
+R O 0 19568 0 19565
+R O 0 19566 0 19565
+R O 0 19567 0 19565
+  R P 0 19561 99 19567
+S
+#19566
+A Barrack~
+~
+This room contains a number of beds and wardrobes, a few chairs, and a 
+couple of tables.  You see half eaten food and burnt candlesticks on the 
+tables.  On the walls there are some warbanners and shields.  There is a 
+large barrel in the middle of the room with some weapons in it.  
+~
+1 8 0
+D0
+You see a dirty street.
+~
+~
+0 0 19569
+S
+#19567
+A Training Room~
+~
+You are inside a large building, with some windows in the left wall, but 
+they are all barred to avoid escapes.  It is stuffy here and smells of 
+sweat.  The floor is covered with straw, bales of hay, and padded posts.  
+~
+1 8 0
+D0
+~
+~
+0 0 19570
+R M 0 19534 3 19567
+  R E 0 19545 0 16
+  R E 0 19528 0 7
+  R E 0 19504 0 8
+R M 0 19534 3 19567
+  R E 0 19545 0 16
+  R E 0 19528 0 7
+  R E 0 19504 0 8
+R M 0 19535 2 19567
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19599 0 9
+  R E 0 19578 0 16
+  R E 0 19554 0 19
+  R E 0 19622 0 13
+  R G 0 19566 0
+S
+#19568
+East-West Road~
+~
+You are on a dirty road that leads east to west.  You can see several houses 
+on this road.  To the south is a large pantry.  There are some oil lamps 
+hanging on top of wooden poles.  
+~
+1 8 1
+D0
+~
+~
+0 0 19585
+D1
+the street goes east.
+~
+~
+0 0 19569
+D2
+You see a large pantry.
+~
+door~
+1 0 19565
+D3
+You see a guardhouse.
+~
+~
+0 0 19570
+R M 0 19523 8 19568
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering a
+poor ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19569
+East-West Road~
+~
+You are on a dirty road that leads east to west.  You can see several houses 
+on this road.  To the south is a large barrack.  There are some oil lamps 
+hanging on top of wooden poles.  
+~
+1 8 1
+D1
+The street goes east.
+~
+~
+0 0 19536
+D2
+You see a large barrack.
+~
+~
+0 0 19566
+D3
+The street goes west.
+~
+~
+0 0 19568
+R M 0 19513 4 19569
+  R E 0 19521 0 7
+  R E 0 19550 0 16
+  R E 0 19568 0 17
+E
+poles~
+Those poles are a bit thick, they hold some oil lamps, offering a
+poor ilumination for this place.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19570
+A Guard Post~
+~
+You are in the entrance of a tunnel, that leads up.  There are several 
+torches hanging on the wall.  A guard post was placed here, blocking the 
+passage.  Several heads hang on the tunnel's ceiling.  
+~
+1 8 1
+D0
+~
+~
+0 0 19564
+D1
+You see a dirty street.
+~
+~
+0 0 19568
+D2
+~
+~
+0 0 19567
+D4
+You see the middle of the tunnel.
+~
+~
+0 0 19574
+R M 0 19577 10 19570
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19508 0 5
+  R E 0 19578 0 16
+R M 0 19577 10 19570
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19508 0 5
+  R E 0 19578 0 16
+  R E 0 19574 0 11
+E
+post~
+It's a single wood wall, supported by some stones.
+~
+E
+head~
+Those heads was savagely cutt off, some of them have no eyes or jaws,
+worms crawl on the heads, eating away their flesh.
+~
+E
+ceiling~
+You see several heads tied in the stalagmites, on the ceiling, there
+are elven, dwarven. humand and draconians heads.
+~
+S
+#19571
+A Guard Post~
+~
+You are in the entrance of the tunnel, that leads up.  There are several 
+torches hanging on the wall.  A guard post was placed here, blocking the 
+passage.  Several heads hang on the tunnel's ceiling.  
+~
+1 8 1
+D0
+You see a dirty street.
+~
+~
+0 0 19546
+D4
+You see the middle of the tunnel.
+~
+~
+0 0 19575
+R M 0 19577 1 19571
+  R E 0 19574 0 11
+  R E 0 19639 0 16
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+E
+post~
+It's a single wood wall, supported by some stones.
+~
+E
+head~
+Those heads was savagely cut off, some of them have no eyes or jaws,
+worms crawl on the heads, eating away their flesh.
+~
+E
+ceiling~
+You see several heads tied in the stalagmites, on the ceiling, there
+are elven, dwarven. humand and draconians heads.
+~
+S
+#19572
+A Bathroom~
+~
+This room appear to be a bathroom. There is a wooden tub on the floor,
+and a shovel in the middle of the room. Over the stove there is a bath
+full of warm water. The fire is burning below the stove and a scenty smell
+comes from it.
+~
+1 8 0
+D0
+You see a dark room.
+~
+door~
+1 0 19552
+R O 0 19619 0 19572
+  R P 0 19591 20 19619
+S
+#19573
+The Common Bathroom~
+~
+This long and narrow room appears to be a bathroom.  There are several 
+wooden tubs on the floor, and what looks like a stove in the middle of the 
+room.  There is a cauldron near the wall and some barrels of water.  The 
+floor is wet and an unpleasant smell comes from the tubs.  
+~
+1 9 0
+D3
+You see a dark room.
+~
+door~
+1 0 19551
+D7
+You see a bedroom.
+~
+door~
+1 0 19549
+S
+#19574
+The Large Passage~
+~
+You stand in a large passage leading up and down. There are some ladders
+and ropes here. The passage is large enough to pass several heavy cargo.
+You see some flour and wine stain on the walls. There is a plaque here.
+~
+1 4 11
+D4
+You see a small light shinning up.
+~
+~
+0 0 19592
+D5
+You see a barricade.
+~
+~
+0 0 19570
+E
+plaque~
+You are entering in the Taker's dominion, forget all hope.
+~
+S
+#19575
+The Middle of the Tunnel~
+~
+You are inside a rocky narrow tunnel.  Looking up you can see a small 
+entrance which is blockaded by some green bushes, looking between the bushes 
+you can see the sky above you.  From down below you hear noise and smell 
+smoke.  
+~
+1 4 11
+D4
+~
+~
+1 0 19608
+D5
+You see a barricade.
+~
+~
+0 0 19571
+E
+plaque~
+You are entering in the Taker's dominion, forget all hope.
+~
+S
+#19576
+The Corridor~
+~
+You see a plaque in the middle of the corridor and a stairway leading up.  
+Over the north wall you see a balcony and some doors.  The floor is covered 
+with some animal's skin and a mirror is on the south wall.  
+~
+1 8 0
+D1
+You can heard a lot of noise coming from there.
+~
+~
+0 0 19564
+D4
+You see a large balcony.
+~
+~
+0 0 19577
+E
+plaque~
+Unfortunatly all the rooms are occupied.
+~
+S
+#19577
+Western Balcony~
+~
+You are on a large balcony, there is a wooden stairway leading down.  You 
+can see a door on the north and another on the west.  From here you can see 
+all of the inn below to the south.  The floor is covered with some rugs.  
+~
+1 8 0
+D0
+You see a bedroom.
+~
+blue~
+33 19612 19579
+D1
+the balcony goes east
+~
+~
+0 0 19580
+D3
+You see a bedroom.
+~
+yellow~
+33 19610 19578
+D5
+You see a corridor downstairs.
+~
+~
+0 0 19576
+S
+#19578
+Yellow Bedroom~
+~
+You are in a large bedroom, with a large and comfortable bed and a window on 
+the north wall.  A chest and a couch lie in the middle of the room,in the 
+chest you see some furry skins.  There is a desk on the west wall with a 
+chair behind it.  Several rugs are scattered on the floor.  The walls are 
+painted yellow.  
+~
+1 9 0
+D1
+You see the balcony.
+~
+yellow~
+33 19610 19577
+S
+#19579
+Blue Bedroom~
+~
+You are in a bedroom, with a comfortable bed and a window on the north wall, 
+a couch and a chest lie in the middle of the room, in the chest you see some 
+furry skins.  There is desk on the west wall with a chair behind it.  
+Several rugs are scattered on the floor.  The walls are painted blue.  
+~
+1 9 0
+D2
+You see the balcony.
+~
+blue~
+33 19612 19577
+S
+#19580
+Eastern Balcony~
+~
+You are on a balcony, and from here you can see all of the inn below to the 
+south.  There are two doors in this room, one to the north and another to 
+the east.  The floor is covered with some rugs.  
+~
+1 8 0
+D0
+you see a bedroom.
+~
+green~
+33 19611 19581
+D1
+You see the bathroom.
+~
+door~
+1 0 19582
+D3
+The balcony goes west.
+~
+~
+0 0 19577
+S
+#19581
+Green Bedroom~
+~
+You are in a bedroom, with a small and comfortable bed and a window on the 
+north wall.  A small chest lies in the middle of the room, in the chest you 
+see some furry skins.  There is a desk on the west wall with a chair behind 
+it.  Several rugs are scattered on the floor.  The walls are painted green.  
+
+~
+1 8 0
+D2
+You see the balcony.
+~
+green~
+33 19611 19580
+R M 0 19560 5 19581
+  R E 0 19548 0 16
+  R G 0 19611 0
+S
+#19582
+Bathroom~
+~
+This narrow and long room appears to be a bathroom.  There are several 
+wooden tubs on the floor, and what looks like a stove in the middle of the 
+room.  There is a large bath above the stove and the fire is burning below 
+it.  The bath is filled with warm water.  The floor is wet, and there is a 
+soapy smell in the air.  
+~
+1 9 0
+D3
+You see the balcony.
+~
+door~
+1 0 19580
+S
+#19583
+Agrach's Helpful Servants~
+~
+You are in a poorly lit room, and can hear a low whisper coming from 
+somewhere.  There are several chains scattered along the walls.  A stench of 
+burned flesh fills the air.  
+~
+1 4104 0
+D1
+You see a dirty street.
+~
+~
+0 0 19531
+R M 0 19543 1 19583
+  R E 0 19515 0 13
+  R E 0 19514 0 7
+  R E 0 19516 0 8
+  R E 0 19517 0 10
+  R E 0 19518 0 9
+  R E 0 19519 0 6
+  R E 0 19542 0 5
+  R E 0 19554 0 16
+E
+chains~
+Those chains use to be used as handcuffs.
+~
+S
+#19584
+Pet Storage Room~
+~
+pet-slave storage room.~
+1 32780 1
+R M 0 19548 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+R M 0 19562 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+R M 0 19549 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+R M 0 19550 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+R M 0 19551 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+R M 0 19579 99 19584
+  R E 0 19528 0 7
+  R E 0 19527 0 5
+  R E 0 19529 0 8
+S
+#19585
+A Stable~
+~
+You see an open room surrounded by a wooden fence. The floor is covered 
+with straw and there is a large drinking fountain in the middle of the 
+room. There are some animals tethered here, and to the north there is a 
+plaque.
+~
+1 4104 0
+D2
+~
+~
+0 0 19568
+R M 0 19555 1 19585
+  R E 0 19528 0 7
+  R E 0 19554 0 16
+  R E 0 19504 0 8
+  R E 0 19530 0 9
+  R E 0 19584 0 5
+E
+plaque~
+By the order from the Taker's Leader every steed should be
+tethered here.
+~
+E
+ceiling~
+The cave's ceiling stands 20 yards high, forming a magnify dome,
+several stalagmites grow from the ceiling.
+~
+S
+#19586
+Pet Storage Room~
+~
+pet-stable storage room II.~
+1 32780 1
+R M 0 19557 99 19586
+R M 0 19558 99 19586
+S
+#19589
+Cramped Passageway~
+~
+This small passageway is quite damp and dark.  It leads downward,
+through a small hole in the ground, you can feel the smell of rotting
+corpse coming from the hole. The ground is very wet and it is covered
+by mold.  Is it lighter to the north or is that your imagination?
+~
+1 13 3
+D0
+~
+~
+0 0 19590
+D5
+~
+~
+0 0 19603
+S
+#19590
+In a Small Cave~
+~
+You are in a small, dark cave.  The entrance is through a tight opening
+north. To the south, the ground slopes downwards in a cramped passageway.
+You can feel the smell of rotting corpse, the ground is very wet and it
+is covered by mold.  
+~
+1 5 3
+D2
+~
+~
+0 0 19589
+S
+#19591
+Parking Place~
+~
+You are in a parking place, where the horses leading the wagons are 
+tethered.  The ground is covered with straw, and you see a large fountain 
+for the beasts of burden.  There are a lot of people working here, loading 
+and unloading the wooden wagons.  There are some barrels and sacks scattered 
+on the ground.  
+~
+1 0 0
+D1
+You see a small stable.
+~
+~
+1 0 19607
+D3
+You see the courty yard.
+~
+~
+0 0 19602
+R M 0 19569 2 19591
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+R M 0 19569 2 19591
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19543 0 6
+  R E 0 19529 0 8
+R M 0 19571 2 19591
+  R E 0 19614 0 0
+  R E 0 19527 0 5
+  R E 0 19528 0 7
+  R E 0 19504 0 8
+  R E 0 19530 0 9
+  R E 0 19510 0 3
+  R E 0 19554 0 16
+  R E 0 19569 0 13
+    R P 0 19554 99 19569
+R M 0 19575 1 19591
+R O 0 19607 0 19591
+R O 0 19608 0 19591
+  R P 0 19609 0 19608
+S
+#19592
+A Guard Post~
+~
+You are inside of the guard post, there is a big passage leading down.  
+There is a large table here and some chairs scattered around the table.  
+There are some war banners hanging on the walls and some weapons inside a 
+large chest.  On the table there are some burnt candles and half eaten food. 
+ 
+~
+1 8 0
+D3
+You see the courty yard.
+~
+~
+0 0 19593
+D5
+You see a passage leading down.
+~
+~
+0 0 19574
+R M 0 19568 10 19592
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19548 0 16
+R M 0 19568 10 19592
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+passage~
+You can see a huge passage iluminated with some torchs leading down.
+The passage is big enough to pass heavy cargo.
+~
+E
+warbanner~
+The large warbanner show:
+        *********** A whip in a golden field *****************
+
+~
+S
+#19593
+Courtyard~
+~
+You are in a small courtyard, there are a lot of people working here and 
+some soldiers walking around.  It appears to be a trading post, there is a 
+smell like dung and sweat.  There are some barrels and sacks scattered on 
+the ground.  To the north you can see a tower, and to the east you can see a 
+guard post.  
+~
+1 0 0
+D0
+You see a tower.
+~
+door~
+1 0 19596
+D1
+You see a guard post.
+~
+~
+0 0 19592
+D2
+The courty yard goes south.
+~
+~
+0 0 19602
+D3
+You see a bedroom.
+~
+door~
+1 0 19594
+R M 0 19574 4 19593
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+tower~
+You can see a two-storeyed tower.
+~
+S
+#19594
+Bedroom~
+~
+You are in a large bedroom, you see a dozen beds, some chests and wardrobes 
+scattered in the room.  A large table dominates the center of the room and 
+some chairs lie around the table.  On the south wall lies a fireplace, 
+burning high and strong, illuminating the room.  
+~
+1 8 0
+D0
+You see a bathroom.
+~
+door~
+1 0 19597
+D1
+You see the courty yard.
+~
+door~
+1 0 19593
+R M 0 19572 2 19594
+  R E 0 19503 0 7
+  R E 0 19505 0 13
+  R E 0 19502 0 5
+  R E 0 19548 0 16
+S
+#19595
+Kitchen~
+~
+You are in a small kitchen, in the north wall there is a small fireplace 
+where some food is cooking.  A small table lies in the center of the room 
+and there are some cooking utensils lying on it.  You can smell a good smell 
+of food.  
+~
+1 8 0
+D3
+You see a big hall.
+~
+~
+0 0 19596
+R M 0 19528 2 19595
+  R E 0 19584 0 5
+  R E 0 19528 0 7
+  R E 0 19529 0 8
+  R E 0 19531 0 16
+  R E 0 19543 0 6
+  R G 0 19565 0
+R O 0 19608 0 19595
+  R P 0 19609 10 19608
+S
+#19596
+Hall~
+~
+You are in a big hall inside the tower, you can see some marble stairs 
+leading up, a large wooden table dominates the center of the room.  Several 
+torches are hanging on the hall providing illumination, there are some war 
+banners hanging on the walls.  
+~
+1 8 0
+D1
+You see a small kitchen.
+~
+~
+0 0 19595
+D2
+You see the courty yard.
+~
+door~
+1 0 19593
+D4
+You see an office.
+~
+~
+0 0 19598
+D5
+You see a armorer
+~
+trapdoor~
+1 0 19600
+R M 0 19574 4 19596
+  R E 0 19502 0 5
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19530 0 9
+  R E 0 19507 0 10
+  R E 0 19510 0 3
+  R E 0 19548 0 16
+E
+warbanner~
+The large warbanner show:
+        *********** A whip in a golden field *****************
+
+~
+S
+#19597
+The Public Bathroom~
+~
+This narrow and long room appears to be a bathroom, there are several wooden 
+tubs on the floor, and what looks like a stove in the middle of the room.  
+There is a cauldron full of water above the stove, and a burning fire below 
+it.  The floor is wet, and there is an unpleasant smell coming from the 
+tubs.  
+~
+1 8 0
+D2
+You see a bedroom.
+~
+door~
+1 0 19594
+S
+#19598
+Office~
+~
+You are in a small office, there is a big table in the center of the room 
+and a comfortable chair behind it.  Some papers lie scattered on the table 
+and candles illuminate the room.  You can see some warbanners hanging on the 
+wall.  
+~
+1 8 0
+D4
+You see a bedroom.
+~
+~
+0 0 19599
+D5
+You see a big hall.
+~
+~
+0 0 19596
+R M 0 19566 5 19598
+  R E 0 19504 0 8
+  R E 0 19503 0 7
+  R E 0 19507 0 10
+  R E 0 19506 0 6
+  R E 0 19508 0 5
+  R E 0 19510 0 3
+  R E 0 19599 0 9
+  R E 0 19613 0 16
+  R E 0 19554 0 19
+  R E 0 19622 0 13
+    R P 0 19554 99 19622
+  R G 0 19601 0
+  R G 0 19615 0
+  R G 0 19640 0
+R O 0 19600 0 19598
+  R P 0 19603 5 19600
+  R P 0 19604 5 19600
+E
+warbanner~
+The large warbanner show:
+        *********** A whip in a golden field *****************
+
+~
+S
+#19599
+A Large Bedroom~
+~
+You are in a large bedroom, with a large and comfortable bed and a window on 
+the north wall.  A chest and a couch lie in the middle of the room, in the 
+chest you see some furry skins.  Several rugs are scattered on the floor.  
+~
+1 8 0
+D5
+You see the office.
+~
+~
+0 0 19598
+S
+#19600
+Armorer~
+~
+This room is like a storeroom.  Along the walls are weapon racks and a dozen 
+barrels are stacked against one wall.  This room is illuminated by some 
+torches hanging on the wall.  
+~
+1 8 0
+D4
+You see the hall.
+~
+trapdoor~
+1 0 19596
+R M 0 19573 5 19600
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19548 0 16
+S
+#19601
+Entrance to a Small Keep~
+~
+You are at the end of a narrow path, this path has been dug through the 
+mountain leading to the south.  You see the gate of a small keep to the 
+north, sounds of working people are coming from inside the keep.  There are 
+large blocks of grey stone scattered on the ground, the same stones which 
+were used to build the high walls of the keep.  You see a large plaque near 
+the gate.  
+~
+1 0 5
+D0
+You see a small keep.
+~
+gate~
+33 19640 19602
+D2
+~
+~
+0 0 3333
+R M 0 19519 10 19601
+  R E 0 19614 0 0
+  R E 0 19639 0 16
+  R E 0 19574 0 11
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+  R G 0 19566 0
+R M 0 19567 1 19601
+  R E 0 19639 0 16
+  R E 0 19614 0 0
+  R E 0 19574 0 11
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+E
+plaque~
+Taker's Trading Post.
+~
+E
+keep~
+This small keep appears to be a trading post.
+~
+S
+#19602
+Courtyard~
+~
+You are in a small courtyard, there are a lot of people working here
+and some soldiers walking around. It appears to be a trading post, there
+is a smell like dung and sweat. There are some barrels and sacks scattered
+on the ground.
+~
+1 0 0
+D0
+The courty yard goes north.
+~
+~
+0 0 19593
+D1
+You see an open place.
+~
+~
+0 0 19591
+D2
+You see the road outside the keep.
+~
+gate~
+33 19640 19601
+R M 0 19570 5 19602
+  R E 0 19503 0 7
+  R E 0 19504 0 8
+  R E 0 19505 0 13
+  R E 0 19506 0 6
+  R E 0 19507 0 10
+  R E 0 19502 0 5
+  R E 0 19548 0 16
+  R E 0 19615 0 17
+  R E 0 19614 0 0
+R M 0 19587 1 19602
+  R E 0 19639 0 16
+  R E 0 19574 0 11
+  R E 0 19631 0 5
+  R E 0 19632 0 7
+  R E 0 19633 0 8
+  R E 0 19634 0 13
+  R E 0 19635 0 6
+  R E 0 19636 0 10
+  R E 0 19637 0 9
+  R G 0 19640 0
+S
+#19603
+Narrow Passage~
+~
+You are falling down in this narrow and fetid passage, the stone wall
+is covered with a greenish moss, this moss makes you slip faster through 
+this passage which was digged by thousand years of dripping water from
+the ceiling.
+~
+1 13 11
+D5
+This passage goes down.
+~
+~
+0 0 19604
+S
+#19604
+Narrow Passage~
+~
+You are falling down in this narrow and fetid passage, the stone wall
+is covered with a greenish moss, this moss makes you slip faster through 
+this passage which was digged by thousand years of dripping water from
+the ceiling. You can see an smell a fetid lake just down, to where you
+are falling down.
+~
+1 13 11
+D5
+You see a fetid lake.
+~
+~
+0 0 19502
+S
+#19605
+Narrow Passage~
+~
+It is very difficult climb this narrow and fetid passage, the stone wall
+is covered with a greenish moss, and time from time some small stones
+fall hitting your head. It appears that this passage was digged by
+thousand years of dripping water from the ceiling. You see a fetide
+lake down and this passage goes up
+~
+1 13 11
+D4
+This passage goes up.
+~
+~
+0 0 19606
+S
+#19606
+Narrow Passage~
+~
+It is very difficult climb this narrow and fetid passage, the stone wall is 
+covered with a greenish moss, and time from time some small stones fall 
+hitting your head. It appears that this passage was dug by thousand years of 
+dripping water from the ceiling. You see a hole in the ceiling. 
+~
+1 13 11
+D4
+You see a hole.
+~
+~
+0 0 19589
+S
+#19607
+Stable~
+~
+You are inside a smelly stable, you see some small wooden stalls to the 
+east, the ground is covered with straw, and there is a small fountain full 
+of water.  This place is very dirty.  
+~
+1 0 0
+D3
+You see the entrance of the stable.
+~
+gate~
+1 0 19591
+R M 0 19581 2 19607
+  R E 0 19605 0 13
+S
+#19608
+Clearing on the Mountains~
+~
+You are in a small clearing on the mountain, there is a small blue lake and 
+some small trees and bushes.  You see some grey stones scattered on the 
+ground, surrounded by colourful flowers.  Sometimes you see a small creature 
+scuttle across your line of sight.  
+~
+1 0 5
+D0
+The trail goes north.
+~
+~
+0 0 19609
+D1
+A small trail goes east.
+~
+~
+0 0 19612
+D2
+A small trail goes south.
+~
+~
+0 0 19610
+D3
+A small trail goes west.
+~
+~
+0 0 19611
+D5
+~
+~
+1 0 19575
+R O 0 19630 0 19608
+R M 0 19583 4 19608
+  R E 0 19638 0 16
+  R E 0 19637 0 9
+  R E 0 19636 0 10
+  R E 0 19635 0 6
+  R E 0 19634 0 13
+  R E 0 19633 0 8
+  R E 0 19632 0 7
+  R E 0 19631 0 5
+R M 0 19583 4 19608
+  R E 0 19633 0 8
+  R E 0 19638 0 16
+  R E 0 19637 0 9
+  R E 0 19636 0 10
+  R E 0 19635 0 6
+  R E 0 19634 0 13
+  R E 0 19632 0 7
+  R E 0 19631 0 5
+  R G 0 19558 0
+R M 0 19584 2 19608
+  R E 0 19638 0 16
+  R E 0 19637 0 9
+  R E 0 19636 0 10
+  R E 0 19635 0 6
+  R E 0 19634 0 13
+  R E 0 19633 0 8
+  R E 0 19632 0 7
+  R E 0 19631 0 5
+  R G 0 19566 0
+S
+#19609
+Mountain's Trail~
+~
+You are on a narrow trail among the mountains, there are some small trees
+and bushes. You see some grey stones scattered on the ground, surrounded
+by some colorful flowers. Sometimes you feel a fresh breeze coming from 
+the south, the trail goes south.
+~
+1 0 5
+D0
+~
+~
+0 0 53073
+D2
+The trail goes south.
+~
+~
+0 0 19608
+R O 0 19629 0 19609
+R M 0 19582 1 19609
+  R E 0 19515 0 13
+  R E 0 19514 0 7
+  R E 0 19516 0 8
+  R E 0 19517 0 10
+  R E 0 19518 0 9
+  R E 0 19519 0 6
+  R E 0 19542 0 5
+  R G 0 19554 0
+S
+#19610
+Mountain Forest~
+~
+You are in a small forest in the mountains, there are some small trees and 
+bushes.  You see some grey stones scattered on the ground, surrounded by 
+colourful flowers.  Sometimes you feel a fresh breeze coming from the east.  
+Towards the south a large amount of flourishing green bushes cover the path. 
+ 
+~
+1 0 5
+D0
+A small trail goes north.
+~
+~
+0 0 19608
+D1
+A small trail goes east.
+~
+~
+0 0 19614
+D2
+~
+bush~
+1 0 19615
+D3
+A small trail goes west.
+~
+~
+0 0 19613
+S
+#19611
+Mountain Forest~
+~
+You are in a small forest in the mountains, there are some small trees and 
+bushes.  You see some grey stones scattered on the ground, surrounded by 
+colourful flowers.  Sometimes you catch a fleeting glimpse of a rabbit or a 
+squirrel that flees at your approach.  
+~
+1 0 5
+D0
+~
+~
+0 0 53073
+D1
+A small trail goes east.
+~
+~
+0 0 19608
+D2
+A small trail goes  south.
+~
+~
+0 0 19613
+D3
+~
+~
+0 0 53152
+R M 0 19586 1 19611
+S
+#19612
+Mountain Forest~
+~
+You are in a small forest in the mountains, there are some small trees and 
+bushes.  You see some grey stones scattered on the ground, surrounded by 
+colourful flowers.  Sometimes you feel a fresh breeze coming from the west.  
+
+~
+1 0 5
+D1
+~
+~
+0 0 53155
+D2
+A small trail goes south.
+~
+~
+0 0 19614
+D3
+A small trail goes west.
+~
+~
+0 0 19608
+S
+#19613
+Mountain Forest~
+~
+You are in a small forest on the mountains, there are some small tress and
+bushes. You see some grey stones scattered on the ground, surrounded by
+colorful flowers. Sometimes  you feel a fresh breeze coming from the east. 
+~
+1 0 5
+D0
+A small trail goes north.
+~
+~
+0 0 19611
+D1
+A small trail goes east.
+~
+~
+0 0 19610
+D3
+~
+~
+0 0 53233
+S
+#19614
+Mountain Forest~
+~
+You are in a small forest in the mountains, there are some small trees and 
+bushes.  You see some grey stones scattered on the ground, surrounded by 
+colourful flowers.  Sometimes you catch a fleeting glimpse of a rabbit.  
+~
+1 0 5
+D0
+A small trail goes north.
+~
+~
+0 0 19612
+D1
+~
+~
+0 0 53236
+D3
+A small trail goes west.
+~
+~
+0 0 19610
+S
+#19615
+Mountain Forest~
+~
+You are in a small forest in the mountains, there are some small trees and 
+bushes.  You see some grey stones scattered on the ground, surrounded by 
+colourful flowers.  Sometimes you feel a fresh breeze coming from the north. 
+ 
+~
+1 0 5
+D0
+A small trail goes north.
+~
+bush~
+1 0 19610
+R M 0 19585 1 19615
+  R E 0 19638 0 16
+  R E 0 19637 0 9
+  R E 0 19636 0 10
+  R E 0 19635 0 6
+  R E 0 19634 0 13
+  R E 0 19633 0 8
+  R E 0 19632 0 7
+  R E 0 19631 0 5
+S
+#0
+
+
+#SHOPS
+ 19541    5  0  0  0  0   120  50         0 23    ; a half-orc shopkeeper
+ 19542    9  0  0  0  0   120  50         0 23    ; a big orc shopkeeper
+ 19543    0  0  0  0  0   120  20         0 23    ; a drowish shopkeeper
+ 19544    1  8 11 12 15   120  30         0 23    ; a female orc shopkeeper
+ 19545   17 19 23  0  0   120  20         0 23    ; a smelly kobold shopkeeper
+ 19546    2  3  4 24 30   140  70         0 23    ; a drow shopkeeper
+ 19555    0  0  0  0  0   120  20         0 23    ; a male orc shopkeeper
+ 19556    0  0  0  0  0   140  10         0 23    ; a male orc innkeeper
+ 19580   10 26 30  2 13   120  50         0 23    ; a half-orc shopkeeper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

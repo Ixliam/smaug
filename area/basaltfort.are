@@ -1,0 +1,2202 @@
+#AREA        Basalt Fortress~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#71750
+duergar child~
+a duergar child~
+A young duergar is playing here.
+~
+A young duergar stands here, staring at you in awe.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+4 4 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71751
+duergar male~
+a male duergar~
+A stout duergar male looks over the children here.
+~
+An adult duergar male stands here, watching the children play.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+12 12 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71752
+duergar female~
+a female duergar~
+A stocky female duergar is here, attending the chores.
+~
+An adult female duergar is too busy doing the needed chores to pay you any 
+mind.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+11 11 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71753
+duergar guard~
+a duergar guard~
+A strong duergar is guarding this area.
+~
+This duergar is devoted to keeping the fortress free of intruders.  He looks 
+you over, then motions for you to be on your way.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+10 14 -1 3d5+60 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71754
+duergar cleric~
+a duergar cleric~
+A cleric of the duergar is here paying his penance to Reorx.
+~
+This duergar is paying penance to Reorx by punching each of the metal plates 
+in the floor.  He pays no attention to your presence as he makes his way 
+around the dias.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+13 15 -2 3d5+60 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71755
+duergar cook~
+the duergar cook~
+A large duergar is here preparing food.
+~
+This bloody duergar seems to have lived through many a fierce battle with 
+ease.  He sees you looking at him, and grins evily.  
+~
+0
+Clanname none~
+0
+0
+33 65536 0 C
+19 19 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71756
+duergar soldier~
+a duergar soldier~
+A soldier of the duergar army looks like he wants to fight you.
+~
+This strong soldier is practicing his skills of combat here.  When he sees 
+you looking at him, he stops and glares angrily at you.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+18 18 -3 3d5+82 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71757
+duergar officer~
+a duergar officer~
+A duergar officer glares at your intrusion.
+~
+This warrior shows more skill than the other soldiers do, practicing just a 
+bit more determined than they do.  As you look at him, he fakes a blow to 
+your knee and a jab to the thoat then grins.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+20 20 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71758
+duergar commander~
+the duergar commander~
+The commander of the duergar garrison is at attention here.
+~
+This duergar stands here, watching the progress of all his soldiers.  He 
+takes your continued existance here as a threat and moves to attack!  
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+20 22 -5 4d5+100 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71759
+ortan duergar nobleman~
+lord Ortan~
+Ortan is here, glaring at your intrusion into his chambers.
+~
+Ortan, Lord of the fortress, stands up at your arrival.  He looks at you, 
+smiles and nods in greeting.  He seems rather impressed at your ability to 
+make it into his private chambers unbound and consious.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+25 25 -6 4d5+105 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71792
+Ishan~
+ishan the dealer~
+The dealer for the bazaar, Ishan, stands here.
+~
+This young duergar has an eye for quality and is a master of cutting a deal. 
+ He looks you over and smiles.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71793
+Palo the smith~
+the blacksmith Palo~
+Palo the blacksmith hammers away on a hunk of copper here.
+~
+The smith is feverishly hammering away on a large plate of copper.  He works 
+as easily as he would a pile of clay.  He looks up and nods at you.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#71760
+bronze skirt~
+a bronze skirt~
+A skirt made of hammered bronze has been dropped here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71761
+basalt bracer~
+a basalt bracer~
+A bracer made of basalt has been discarded here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71762
+basalt boots~
+some basalt boots~
+A pair of sturdy basalt boots lie here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 36 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71763
+basalt vambraces~
+a set of basalt vambraces~
+Some thick basalt vambraces have been set here.~
+~
+9 64 8
+10 10 3 0 0 0 0
+1 172 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71764
+basalt door shield~
+a basalt door shield~
+A very large shield hewn from basalt is lying here.~
+~
+9 64 8
+10 10 7 0 0 0 0
+3 172 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71765
+copper buckler~
+a copper buckler~
+A small copper buckler has been dropped here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71766
+copper gauntlets~
+a pair of copper gauntlets~
+A fine set of copper gauntlets have been dropped here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 160 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71767
+basalt breastplate~
+a basalt breastplate~
+A heavy breastplate crafted from basalt is lying here.~
+~
+9 64 8
+10 10 5 0 0 0 0
+3 170 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71768
+copper helmet~
+a copper helmet~
+A gleaming copper helmet has been dropped here.~
+~
+9 64 8
+10 10 4 0 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71769
+copper ringmail~
+some copper ringmail~
+A pile of copper ringmail lies here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+2 195 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71770
+damascus steel girth~
+a damascus steel girth~
+A beautiful steel girth is lying here.~
+~
+9 0 8
+20 20 4 0 0 0 0
+1 230 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71771
+damascus steel anklet~
+a damascus steel anklet~
+An ornate steel anklet has been discarded here.~
+~
+9 0 8
+2 2 3 0 0 0 0
+1 195 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71772
+basalt morningstar~
+a basalt morningstar~
+A short black morningstar has been left here.~
+~
+5 64 4
+2 17 25 0 0 0 0
+2 78 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71773
+bronze mallet~
+a bronze mallet~
+A small bronze mallet is sitting here.~
+~
+5 256 4
+3 14 24 0 0 0 0
+2 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71774
+copper javelin~
+a copper javelin~
+A long javelin made of copper is resting here.~
+~
+5 256 4
+2 7 16 40 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71775
+brass cleaver~
+a brass chef's knife~
+A large brass chef's knife is lying here, ready to slice and dice.~
+~
+5 0 4
+3 17 25 0 0 0 0
+1 53 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71776
+damascus warhammer~
+a damascus warhammer~
+A massive warhammer has been dropped here.~
+~
+5 256 4
+2 17 25 0 0 0 0
+3 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71777
+damascus javelin~
+a damascus javelin~
+A sharp javelin has been left here.~
+~
+5 256 4
+4 27 34 32 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71778
+heat staff~
+the staff of heat~
+A basalt staff is here radiating heat.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#71779
+tourmaline choker~
+a tourmaline choker~
+A choker set with tourmaline gemstones is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71780
+jacinth teardrop gem~
+a jacinth teardrop~
+A bright yellow gem has been forgotten here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 540 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71781
+sacrificial lava pit~
+a sacrificial pit~
+A pit filled with lava bubbles rapidly here.~
+~
+29 64 16
+0 1 71728 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71782
+steel chest~
+a steel chest~
+A large steel chest with a small lock is here.~
+~
+15 32 8
+15 71783 170000 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71783
+steel duergar key~
+the noble's key~
+A steel key has been left lying here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71784
+basalt desk~
+the noble's desk~
+A huge basalt desk sits in the middle of this room.~
+~
+15 64 8
+13 71783 5000 0 0 0 0
+30 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71785
+duergar weapon rack~
+a weapon rack~
+The weapons rack for the soldiers stands here.~
+~
+15 32 8
+0 0 1000 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71786
+duergar armor rack~
+an armor rack~
+The armor rack used by the soldiers stands here.~
+~
+15 32 8
+0 0 1000 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71787
+lava geyser~
+a geyser of lava~
+A geyser of molten lava spouts up out of the ground here.~
+~
+12 64 8
+10000 2340 -200 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71788
+hot bath pool~
+a hot bath pool~
+The steaming-hot pool of the bath house looks inviting.~
+~
+12 64 8
+10000 2340 110 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71789
+dwarf statue~
+a statue of a proud Dwarf~
+A statue of a proud Dwarf stands atop the dias here.~
+~
+12 64 8
+10000 585 150 -50 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71790
+basalt key~
+a basalt key~
+A key made of basalt lies discarded here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71791
+lava sheet~
+a sheet of lava~
+A sheet of molten lava flows endlessly from a crack in the wall.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71795
+stone bunk~
+a stone bunk~
+A hard stone bunk offers little comfort.~
+~
+12 0 8
+5000 1168 25 25 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71796
+copper bunk~
+a copper bunk~
+A copper bunk for the officer is here.~
+~
+12 0 8
+5000 1168 110 110 0 0 0
+170 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71797
+obsidian monolith~
+an obsidian monolith~
+A huge obsidian monolith stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+30 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#71700
+Before the Basalt Fortress~
+~
+Large columns of flame rage all around you in this fiery inferno.  The
+path you are on seems to be rather safe from the lava flows that bubble up
+from the smoldering grounds.  The air here is thick with the scent of
+brimstone and sulfur, adding to the difficulty of breathing the hot air.  To
+your south stands a mighty fortress formed from the basalt that has cooled
+enough to be worked with tools.  The clang of weapons and shouts of fighting
+can be heard as well as the screeches of children playing.  To the north
+leads back into the mountains.
+~
+1 4 5
+D2
+~
+~
+1 0 71702
+S
+#71701
+Guard Post~
+~
+This is a small alcove in which the guard can stand watch.  There is an
+empty hook on the wall.  The only exit leads east into the checkpoint.  
+~
+1 8 0
+D1
+~
+~
+0 0 71702
+R M 0 71753 8 71701
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+S
+#71702
+Check Point inside the Gate~
+~
+This small room is used by the guards to watch all those who enter the
+fortress.  Lava flows through a thin fissure in the floor, bubbling as it
+gives off putrid gasses.  The short, arched portals to the east and west
+lead to guard posts.  The massive bronze doors to the north lead out of the
+fortress.  The copper door to the south leads further inside.  
+~
+1 8 0
+D0
+~
+~
+1 0 71700
+D1
+~
+~
+0 0 71703
+D2
+~
+~
+1 0 71709
+D3
+~
+~
+0 0 71701
+S
+#71703
+Guard Post~
+~
+This is an cramped room intended for a guard to keep watch of the
+checkpoint to the west.  There is some writing on the wall here.  
+~
+1 8 0
+D3
+~
+~
+0 0 71702
+R M 0 71753 8 71703
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+E
+writting~
+Scratched into the wall are lots of hashmarks and the words 'intruders
+killed'.  
+~
+S
+#71704
+Common Warrens~
+~
+At the west end of the warrens the homes of the duergar line the way.  They
+are not really separate homes, but rather one long building with three
+floors on each side of the street.  The construction here seems rather
+utilitarian but very well-kept by the duergar.  From here the warrens continue
+to the east.  To the south the street leads into the main hall of the
+commons.  
+~
+1 8 1
+D1
+~
+~
+0 0 71705
+R M 0 71751 5 71704
+R M 0 71752 5 71704
+R M 0 71750 10 71704
+R M 0 71750 10 71704
+S
+#71705
+Common Warrens~
+~
+This area is in the very center of the warrens.  All around here are duergar
+going about thier daily lives.  It seems that Lord Ortan provides well
+enough for his common folk as these warrens attest.  The warrens spread out
+to the east and to the west.  High above you there hangs a banner stretching
+across the street.  
+~
+1 8 1
+D1
+~
+~
+0 0 71706
+D3
+~
+~
+0 0 71704
+R M 0 71751 5 71705
+R M 0 71752 5 71705
+R M 0 71750 10 71705
+R M 0 71750 10 71705
+E
+banner~
+The large banner reads 'Hail Mighty Lord Ortan'.
+~
+S
+#71706
+Common Warrens~
+~
+Here at the east end of the warrens the homes are full of families of
+duergar.  The large buildings to either side of the street here are hewn from
+basalt, like most of the other constructs within the fortress.  The street
+through the warrens heads off the the west, and to the south the way leads
+to the Commons Hall.  
+~
+1 8 1
+D2
+~
+~
+0 0 71718
+D3
+~
+~
+0 0 71705
+R M 0 71750 10 71706
+R M 0 71750 10 71706
+R M 0 71751 5 71706
+R M 0 71752 5 71706
+S
+#71707
+Bend in the Hall~
+~
+Off to the east a large hallway leads a long way to what appears to be a
+guard station.  Nearby to the south you can spy an intersection.  There are
+windows carved into the north and east walls here as well.  
+~
+1 8 1
+D1
+~
+~
+0 0 71708
+D2
+~
+~
+0 0 71720
+E
+window~
+Outside of this window, lava bursts out of the ground in tall streams,
+setting the very rock around it aflame.  The form of a dragon can be seen
+flying high over the horizon.  
+~
+S
+#71708
+Basalt Hallway~
+~
+This hallway stretches off quite a ways to the east and west.  A sheet of
+lava flowing from a crack along the wall provides a reddish illumination to
+the hall.  
+~
+1 8 1
+D1
+~
+~
+0 0 71709
+D3
+~
+~
+0 0 71707
+R O 0 71791 0 71708
+S
+#71709
+Inner Guard Post~
+~
+This expansive room serves as the main guard post for the fortress. 
+Cutting through here from the east and west is a long, illuminated hallway. 
+There is a short copper door engraved with odd characters to the north.  The
+passage to the south is illuminated by a bright light, and the strong smell
+of sulfur issues from there as well.  
+~
+1 8 1
+D0
+~
+~
+1 0 71702
+D1
+~
+~
+0 0 71710
+D2
+~
+~
+0 0 71722
+D3
+~
+~
+0 0 71708
+R M 0 71753 8 71709
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+R M 0 71753 8 71709
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+E
+door~
+The short copper door is engraved with all sorts of characters and
+symbols of an unknown language.  
+~
+S
+#71710
+Basalt Hallway~
+~
+This hallway stretches off quite a ways to the east and west.  A sheet of
+lava flowing from a crack along the wall provides a reddish illumination to
+the hall.  
+~
+1 8 1
+D1
+~
+~
+0 0 71711
+D3
+~
+~
+0 0 71709
+R O 0 71791 0 71710
+S
+#71711
+Bend in the Hall~
+~
+The hallway takes a sharp bend here.  Small holes cut into the north and
+east walls serve as windows.  The floors, walls, and ceiling all are hewn
+from basalt, with no visible seams anywhere.  The hall heads off to the west
+a long way, and to the south to an intersection.  
+~
+1 8 1
+D2
+~
+~
+0 0 71724
+D3
+~
+~
+0 0 71710
+E
+window~
+Through this rough cut hole you see a vast plain of lava littered with
+massive boulders.  The sky looks as if it is on fire as well, with shades of
+reds and yellows instead of the normal blues and whites.  
+~
+S
+#71712
+Soldiers' Barracks~
+~
+This room serves as barracks for the duergar Soldiers.  The only comfort
+that it offers is that of a stone bunk to sleep in.  The only exit is
+through the door to the south.  
+~
+1 8 0
+D2
+~
+~
+1 0 71725
+R O 0 71795 0 71712
+R M 0 71756 8 71712
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71713
+Soldiers' Barracks~
+~
+This room serves as barracks for the duergar Soldiers.  The only comfort
+that it offers is that of a stone bunk to sleep in.  The only exit is
+through the door to the south.  
+~
+1 8 0
+D2
+~
+~
+1 0 71726
+R O 0 71795 0 71713
+R M 0 71756 8 71713
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71714
+Officer's Quarters~
+~
+This room is the private quarters of one of the duergar Army officers. 
+Spartan accommodations are all this room posesses.  The only obvious exit
+from here is to the south through the door.  
+~
+1 8 0
+D2
+~
+~
+1 0 71727
+R O 0 71796 0 71714
+R M 0 71757 2 71714
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71769 0 5
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+  R E 0 71766 0 9
+  R E 0 71772 0 16
+S
+#71715
+Commons Bath House~
+~
+This is the steaming bath house for all of the duergar who live here in the
+fortress.  The large pool in the floor streams off long ribbons of steam
+into the air, and it looks rather relaxing.  A set of wide steps leads down
+into the pool, and within there is a stone ledge ringing the sides on which
+you can sit.  The exit is east from here, but why leave?  
+~
+1 8 0
+D1
+~
+~
+0 0 71716
+R M 0 71750 10 71715
+R M 0 71750 10 71715
+R M 0 71751 5 71715
+R M 0 71752 5 71715
+R O 0 71788 0 71715
+S
+#71716
+Commons Hall West~
+~
+The west end of Commons Hall branches off at this point.  To the west
+there is a bath house for public use.  Northward leads into the duergar
+warrens, and the Commons Hall extends eastward.  There is a small picture
+painted on the south wall here.  
+~
+1 8 1
+D0
+~
+~
+0 0 71704
+D1
+~
+~
+0 0 71717
+D3
+~
+~
+0 0 71715
+E
+picture~
+This picture shows a few duergar fighters training in an open area 
+containing a rack of weapons and a rack of armor.  
+~
+E
+south~
+This picture shows a few duergar fighters training in an open area 
+containing a rack of weapons and a rack of armor.  
+~
+S
+#71717
+Commons Hall~
+~
+This area is the junction between the Commons Hall and the duergar Market. 
+The vast hall stretches off to the east and west, while the market lies a
+short distance to the south.  A gigantic mural adorns the north wall here.  
+~
+1 41943096 1
+D1
+~
+~
+0 0 71718
+D2
+~
+~
+0 0 71730
+D3
+~
+~
+0 0 71716
+E
+mural~
+This mural depicts a regal looking duergar standing in front of a large army 
+of duergar soldiers.  Written in gold lettering along the bottom is the 
+phrase 'Hail mighty Lord Ortan!  He shall valiantly lead us to glory across 
+Krynn'.  
+~
+E
+north~
+This mural depicts a regal looking duergar standing in front of a large army 
+of duergar soldiers.  Written in gold lettering along the bottom is the 
+phrase 'Hail mighty Lord Ortan!  He shall valiantly lead us to glory across 
+Krynn'.  
+~
+E
+wall~
+This mural depicts a regal looking duergar standing in front of a large army 
+of duergar soldiers.  Written in gold lettering along the bottom is the 
+phrase 'Hail mighty Lord Ortan!  He shall valiantly lead us to glory across 
+Krynn'.  
+~
+S
+#71718
+Commons Hall East~
+~
+This vast area is home to the common duergar that live within the fortress
+under the rule of Lord Ortan.  The shouts and laughter of the duergar can be
+heard as they carry on thier daily lives within these Commons.  There huge
+door set in the east wall granting exit from here.  To the north, a corridor
+leads into the warrens.  The hall continues to the west.  
+~
+1 8 1
+D0
+~
+~
+0 0 71706
+D1
+~
+~
+1 0 71719
+D3
+~
+~
+0 0 71717
+S
+#71719
+Guard Post~
+~
+This is the guard post at the entrance to the duergar Commons, where the
+duergar make thier homes.  A finely wrought brass door leads into the Commons
+to the west.  A tall archway heads out east into the main hall of the
+fortress.  The room is illuminated by the ceiling that glows a bright red
+far above you.  There are small alcoves cut into the north and south walls
+for the guards to stand watch over all who enter and leave this area.  
+~
+1 12 0
+D1
+~
+~
+0 0 71720
+D3
+~
+~
+1 0 71718
+R M 0 71753 8 71719
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+R M 0 71753 8 71719
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+E
+alcove~
+This looks roughly carved into the wall, just large enough for one of the
+duergar guards to stand inside of it.  
+~
+E
+door~
+This door is made from polished wrought brass with a lustre that could
+easily be mistaken for gold.  
+~
+E
+brass~
+This door is made from polished wrought brass with a lustre that could
+easily be mistaken for gold.  
+~
+E
+ceiling~
+The ceiling rises 30 feet above you here.  It shines with a bright red
+glow that illuminates this room bright as daylight.  
+~
+S
+#71720
+Entrance to the Commons~
+~
+Here, a tall archway leads west to a guard post.  The main hallway
+continues north and south from here as well.  In huge letters carved in the
+rock above the archway are the words 'duergar Commons'.  
+~
+1 12 1
+D0
+~
+~
+0 0 71707
+D2
+~
+~
+0 0 71732
+D3
+~
+~
+0 0 71719
+S
+#71721
+Before the Sacrificial Pit~
+~
+A trough cut into the floor here allows lava to flow into a wide pit. 
+The pit bubbles with fury and fervor, making the air waver under it's
+intense heat.  A small copper plaque is set in the floor before the pit. 
+The only exit heads east following the trough.  
+~
+1 8 1
+D1
+~
+~
+0 0 71722
+R O 0 71781 0 71721
+E
+plaque~
+The plaque reads 'Bodily sacrifice shall show the way'.  
+~
+S
+#71722
+At the Lava Geyser~
+~
+A large geyser of lava spouts ten feet into the air here, illuminating
+the area with a bright hellish light.  The lava collects in a trough and
+feeds into the room to the west.  Exits lead north south and west.  A tall
+iron door is set deep into the east wall.  The air is acrid with gasses
+here.  
+~
+1 8 1
+D0
+~
+~
+0 0 71709
+D1
+~
+~
+1 0 71723
+D3
+~
+~
+0 0 71721
+R O 0 71787 0 71722
+E
+trough~
+A two foot wide trough is carved into the floor.  It feeds lava from the
+base of the geyser into the room to the west.  
+~
+S
+#71723
+Shrine of Reorx~
+~
+This is a holy shrine dedicated to the dwarven god Reorx.  The very walls 
+themselves glow dull red with an inner heat.  Set into the floor are random 
+tiles of copper, brass, bronze, iron, steel, silver, gold, and platinum.  
+Placed atop a raised basalt dias at the east end of the shrine is a large 
+statue of Reorx.  
+~
+1 8 0
+D3
+~
+~
+1 0 71722
+R O 0 71789 0 71723
+R M 0 71754 1 71723
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+E
+platinum~
+The most brilliant tile made from platinum is set into the floor before
+the dias.  
+~
+E
+gold~
+A splendorous gold tile is set into the floor before the dias.
+~
+E
+silver~
+Light glints off of a silver tile set in the floor before the dias.
+~
+E
+steel~
+A gleaming steel tile is set into the floor before the altar.
+~
+E
+iron~
+A smooth tile wrought from iron is set into the floor before the dias.
+~
+E
+bronze~
+A glowing bronze tile is set into the floor before the dias.
+~
+E
+brass~
+A lustreous brass tile is set into the floor before the dias.  
+~
+E
+copper~
+A highly polished copper tile is set into the floor before the dias.
+~
+S
+#71724
+Entrance to the Barracks~
+~
+The large hallway comes to a three-way intersection here.  The main
+branch continues north and south, while a smaller, more ornate hallway heads
+off east.  Set into the east wall above the entrance to the ornate hallway
+is a large steel plate.  
+~
+1 8 1
+D0
+~
+~
+0 0 71711
+D1
+~
+~
+0 0 71725
+D2
+~
+~
+0 0 71736
+E
+steel~
+The plate reads 'Barracks Wing'.  
+~
+E
+plate~
+The plate reads 'Barracks Wing'.
+~
+S
+#71725
+Barracks Hall~
+~
+This hallway is more stately than the main hallway of the fortress.  The
+hall runs east and west, while there are plain stone doors to the north and
+south.  Carved into each door are the words 'Soldier Barracks'.  
+~
+1 12 1
+D0
+~
+~
+1 0 71712
+D1
+~
+~
+0 0 71726
+D2
+~
+~
+1 0 71737
+D3
+~
+~
+0 0 71724
+S
+#71726
+Barracks Hall~
+~
+You have come to the end of the corridor.  There is a nicely crafted
+obsidian door set in the east wall.  Plain basalt doors lead to rooms to the
+north and south.  The hallway continues off to the west.  A sign on the east
+wall catches your eye.  Carved into the doors to the north and south are the
+words 'Soldier Barracks'.  
+~
+1 12 1
+D0
+~
+~
+1 0 71713
+D1
+~
+~
+1 0 71727
+D2
+~
+~
+1 0 71738
+D3
+~
+~
+0 0 71725
+E
+sign~
+This small sign reads 'War Room and Officer Quarters'.
+~
+S
+#71727
+Commander's War Room~
+~
+This room is home to the Commander of the duergar Army.  There are various
+maps hanging on the walls here, showing most of the lands in detail.  The
+Commander uses this room for strategic planning and to brief the officers
+before battles.  Documents here show how to construct and operate seige
+engines to breach castle walls.  Doors lead north, south, east, and west
+from here.  
+~
+1 8 0
+D0
+~
+~
+1 0 71714
+D1
+~
+~
+33 71790 71728
+D2
+~
+~
+1 0 71739
+D3
+~
+~
+1 0 71726
+R M 0 71758 1 71727
+  R E 0 71760 0 7
+  R E 0 71764 0 11
+  R E 0 71763 0 10
+  R E 0 71768 0 6
+  R E 0 71762 0 8
+  R E 0 71767 0 5
+  R E 0 71766 0 9
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+  R E 0 71776 0 16
+E
+maps~
+These maps show in detail the terrain and settlements of most of the lands 
+of the world. Blackmoor, Azarad, and Tulgard catch your eye, for under these 
+maps are outlined plans for thier seige.  
+~
+E
+documents~
+You see intricate plans to build and operate a catapult, trebuchet, 
+ballista, and battering ram.  
+~
+S
+#71728
+Lord Ortan's Private Chambers~
+~
+You have made your way into the chambers of Ortan, Lord of this fortress.
+It is richly appointed throughout with many detailed reliefs and carved
+statues.  Most stunning of all is the large basalt desk in the center of the
+room.  The legs are wonderful figurines of duergar women with upstretched arms
+holding on high a tabletop resembling a huge anvil.  The only exit from here
+is a door in the west wall.  
+~
+1 24 0
+D3
+~
+~
+33 71790 71727
+R M 0 71759 1 71728
+  R E 0 71760 0 7
+  R E 0 71770 0 13
+  R G 0 71771 0
+  R G 0 71778 0
+  R G 0 71783 0
+  R E 0 71777 0 16
+R O 0 71784 0 71728
+  R P 0 71771 1 71784
+  R P 0 71779 1 71784
+E
+statues~
+There are many statues of copper, brass, and bronze about the room. Most are of duergar women in half-naked poses.
+~
+E
+reliefs~
+The reliefs set upon the walls are carved from fine quartz and hematite. 
+Each depicts a battle scene in which the duergar are obviously overpowering and
+slaughtering thier foes.  
+~
+S
+#71729
+Ishan's Bazaar~
+~
+Inside of the large canvas tent, Ishan the dealer has displayed his wares
+upon small tables draped with colorful spreads.  From the looks of it, he
+deals in the more arcane of items such as potions, scrolls and magical
+items.  All of the cloths and fabrics within this bazaar are indeed exotic,
+a drastic change from the rest of the scenery within this fortress.  The
+only exit is to the east.  
+~
+1 8 0
+D1
+~
+~
+0 0 71730
+R M 0 71792 1 71729
+E
+cloth~
+These cloths are woven from multi-colored threads in metalic hues.  
+~
+E
+fabrics~
+These lavish fabrics are made of spidersilk and hand-spun cotton.  All of
+them are dyed rich, vibrant colors.  
+~
+S
+#71730
+The duergar Market~
+~
+Before you is an immense monolith cleaved smooth from a massive slab of
+obsidian.  It serves as a kiosk, as there are notes and fliers fastened to
+it in many places.  This whole area is bustling with activity.  To the east
+a short building is adorned with a sign depicting an anvil.  Off to the
+west, a tent has been raised and many items lay upon tables within.  To the
+south come the smells of cooking, and heading north leads to the Commons
+Hall.  
+~
+1 8 1
+D0
+~
+~
+0 0 71717
+D1
+~
+~
+0 0 71731
+D2
+~
+~
+0 0 71741
+D3
+~
+~
+0 0 71729
+R O 0 71797 0 71730
+E
+kiosk~
+The many notes here are concerned with things such as lost and found
+items and announcements of special events.  One message catches your eye, it
+reads 'Attention Cook!  Lord Ortan wishes the return of his key.  He has
+urgent need of it.  ' 
+~
+E
+notes~
+The many notes here are concerned with things such as lost and found
+items and announcements of special events.  One message catches your eye, it
+reads 'Attention Cook!  Lord Ortan wishes the return of his key.  He has
+urgent need of it.  ' 
+~
+E
+fliers~
+The many notes here are concerned with things such as lost and found
+items and announcements of special events.  One message catches your eye, it
+reads 'Attention Cook!  Lord Ortan wishes the return of his key.  He has
+urgent need of it.  ' 
+~
+S
+#71731
+Commons Smithy~
+~
+Palo's smithy is housed here, the place in which he crafts his fine
+wares.  There is a small pool of lava in the corner used to heat up the
+metals before he hammers and shapes them into armors and weapons.  Next to
+the lava pool is a large anvil that is very worn from ages of use.  Hanging
+on the walls are different armor pieces crafted from copper, brass, and
+bronze.  There are many weapons hanging here as well, made of the same raw
+materials as the armor.  The only exit is the doorway to the west.  
+~
+1 8 0
+D3
+~
+~
+0 0 71730
+R M 0 71793 1 71731
+  R G 0 71760 0
+  R G 0 71765 0
+  R G 0 71773 0
+  R G 0 71774 0
+E
+lava~
+A small raised trough contains some molten lava.  It is used by Palo to
+heat the raw metals before he begins to hammer them.  
+~
+E
+pool~
+A small raised trough contains some molten lava.  It is used by Palo to
+heat the raw metals before he begins to hammer them.  
+~
+E
+anvil~
+The anvil looks heavily beaten and dented by countless hammerblows.  It
+looks very heavy.  
+~
+E
+armor~
+Everything that Palo crafts seems to be made of either brass, bronze, or
+copper.  
+~
+E
+weapons~
+Everything that Palo crafts seems to be made of either brass, bronze, or
+copper.  
+~
+S
+#71732
+Bend in the Hall~
+~
+From here the hallway heads north to an intersection and off to the east
+a long way.  The din of battle can be heard comming from the eastern
+hallway.  
+~
+1 8 1
+D0
+~
+~
+0 0 71720
+D1
+~
+~
+0 0 71733
+S
+#71733
+Basalt Hallway~
+~
+This hallway stretches off quite a ways to the east and west.  A sheet of
+lava flowing from a crack along the wall provides a reddish illumination to
+the hall.  
+~
+1 8 1
+D1
+~
+~
+0 0 71734
+D3
+~
+~
+0 0 71732
+R O 0 71791 0 71733
+S
+#71734
+Southern Guard Post~
+~
+This room serves as a small post for the duergar guards.  There is a long
+hallway that heads off to the east and west.  A bright reddish light blazes
+in the area to the north, and a constant hot breeze issues forth from there
+as well.  The portal to the south leads outside into what appears to be a
+large, walled-in area.  
+~
+1 8 1
+D0
+~
+~
+0 0 71722
+D1
+~
+~
+0 0 71735
+D2
+~
+~
+0 0 71744
+D3
+~
+~
+0 0 71733
+R M 0 71753 8 71734
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+R M 0 71753 8 71734
+  R E 0 71760 0 7
+  R E 0 71774 0 16
+S
+#71735
+Basalt Hallway~
+~
+This hallway stretches off quite a ways to the east and west.  A sheet of
+lava flowing from a crack along the wall provides a reddish illumination to
+the hall.  
+~
+1 8 1
+D1
+~
+~
+0 0 71736
+D3
+~
+~
+0 0 71734
+R O 0 71791 0 71735
+S
+#71736
+Bend in the Hall~
+~
+The hallway bends to the north and to the west here.  From the westward
+hall you hear the telltale clangs and shouts of fighting.  The hall leads to
+an intersection a short distance north.  
+~
+1 8 1
+D0
+~
+~
+0 0 71724
+D3
+~
+~
+0 0 71735
+S
+#71737
+Soldiers' Barracks~
+~
+This room serves as barracks for the duergar Soldiers.  The only comfort
+that it offers is that of a stone bunk to sleep in.  The only exit is
+through the door to the north.  
+~
+1 8 0
+D0
+~
+~
+1 0 71725
+R O 0 71795 0 71737
+R M 0 71756 8 71737
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71738
+Soldiers' Barracks~
+~
+This room serves as barracks for the duergar Soldiers.  The only comfort
+that it offers is that of a stone bunk to sleep in.  The only exit is
+through the door to the north.  
+~
+1 8 0
+D0
+~
+~
+1 0 71726
+R O 0 71795 0 71738
+R M 0 71756 8 71738
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71739
+Officer's Quarters~
+~
+This room is the private quarters of one of the duergar Army officers. 
+Spartan accommodations are all this room posesses.  The only obvious exit
+from here is to the north through the door.  
+~
+1 0 0
+D0
+~
+~
+1 0 71727
+R O 0 71796 0 71739
+R M 0 71757 2 71739
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71769 0 5
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+  R E 0 71766 0 9
+  R E 0 71772 0 16
+S
+#71740
+Mess Hall~
+~
+This is the west end of the mess hall.  There are many short tables set
+up here for use by the duergar.  The whole area is very organized and clean. 
+There is not much else of note here, save for some postings on the wall to
+the west.  The only exit is to the east.  
+~
+1 8 0
+D1
+~
+~
+0 0 71741
+R M 0 71756 8 71740
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+E
+postings~
+A help wanted ad catches your eye....  'Wanted, cleaner to work in the
+Dry Stores once weekly, very little pay.  Ask the cook for details'.  
+~
+E
+wall~
+A help wanted ad catches your eye....  'Wanted, cleaner to work in the
+Dry Stores once weekly, very little pay.  Ask the cook for details'.  
+~
+E
+west~
+A help wanted ad catches your eye....  'Wanted, cleaner to work in the
+Dry Stores once weekly, very little pay.  Ask the cook for details'.  
+~
+S
+#71741
+Mess Hall~
+~
+This area has many dinning tables set up for the duergar who come here to
+eat and socialize.  It is very tidy here, not one thing seems to be out of
+place or dirty.  The smell of roasted meats lingers in the air.  The mess
+hall continues to the west, and an exit heads east to the duergar Market.  To
+the east is a door.  
+~
+1 8 0
+D0
+~
+~
+0 0 71730
+D1
+~
+~
+1 0 71742
+D3
+~
+~
+0 0 71740
+R M 0 71750 10 71741
+R M 0 71750 10 71741
+R M 0 71751 5 71741
+R M 0 71752 5 71741
+E
+tables~
+These tables are all short, crafted to seat the duergar who dwell within the
+fortress.  
+~
+E
+door~
+On the door is inscribed 'Kitchen, cooks only!  ' 
+~
+S
+#71742
+The Kitchen~
+~
+You are inside of the kitchen.  It is large enough to cook for a hundred
+people at one time.  There are dozens of lava heated ovens along the wall to
+the north, as well as a large kettle suspended over a pit of fire.  Along
+the east wall are racks of spices and utensils, all kept orderly and labled.
+The only exit is through the door to the west.  
+~
+1 8 0
+D2
+~
+~
+33 71790 71746
+D3
+~
+~
+1 0 71741
+R M 0 71755 1 71742
+  R E 0 71775 0 16
+  R E 0 71760 0 7
+  R E 0 71762 0 8
+  R G 0 71790 0
+E
+ovens~
+These are empty at the moment, but all are still very hot and ready to
+cook food for the populace of the fortress.  
+~
+E
+kettle~
+The kettle is currently empty, but it is large enough to cook soup for an
+entire army of hungry soldiers.  
+~
+E
+racks~
+These racks are made of copper and contain all the necessary ingredients
+for the cook to make his meals with.  
+~
+E
+spices~
+You see salt, pepper, cinnamon, garlic, and a myriad of other spices used
+by the cook to season his foods.  
+~
+E
+utensils~
+The cook has fine cooking utensils organized upon the racks here.  There
+are pots and pans crafted of pure copper, as well as spoons, wisks, and
+tongs.  
+~
+S
+#71743
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+~
+1 8 2
+D1
+~
+~
+0 0 71744
+D2
+~
+~
+0 0 71747
+R M 0 71756 8 71743
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71744
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+A portal to the north leads back into the fortress proper.
+~
+1 12 2
+D0
+~
+~
+0 0 71734
+D1
+~
+~
+0 0 71745
+D2
+~
+~
+0 0 71748
+D3
+~
+~
+0 0 71743
+S
+#71745
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+~
+1 8 2
+D2
+~
+~
+0 0 71749
+D3
+~
+~
+0 0 71744
+R M 0 71756 8 71745
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71746
+Dry Stores~
+~
+This is a small, dark room used to keep root vegetables and jarred foods.
+There isn't much else of note in here.  
+~
+1 524313 0
+D0
+~
+~
+33 71790 71742
+R O 0 71782 0 71746
+  R P 0 71780 1 71782
+  R P 0 71771 1 71782
+S
+#71747
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+~
+1 8 2
+D0
+~
+~
+0 0 71743
+D1
+~
+~
+0 0 71748
+R O 0 71785 0 71747
+  R P 0 71773 11 71785
+  R P 0 71774 10 71785
+S
+#71748
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+~
+1 8 2
+D0
+~
+~
+0 0 71744
+D1
+~
+~
+0 0 71749
+D3
+~
+~
+0 0 71747
+R M 0 71756 8 71748
+  R E 0 71760 0 7
+  R E 0 71765 0 11
+  R E 0 71762 0 8
+  R E 0 71773 0 16
+  R E 0 71761 0 15
+  R E 0 71761 0 14
+S
+#71749
+Practice Yard~
+~
+This area is used by the duergar soldiers to practice thier fighting skills.
+It is enclosed by high basalt walls on all sides.  
+~
+1 8 2
+D0
+~
+~
+0 0 71745
+D3
+~
+~
+0 0 71748
+R O 0 71786 0 71749
+  R P 0 71765 13 71786
+  R P 0 71769 3 71786
+S
+#71756
+~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+ 71792   10  2  3  4  0   250  80         0 23    ; ishan the dealer
+ 71793    9  5  0  0  0   190  80         0 23    ; the blacksmith Palo
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

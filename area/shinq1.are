@@ -1,0 +1,128 @@
+#AREA        Player Shops~
+
+
+
+#AUTHOR      none~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#46011
+emu~
+a slender emu~
+(no default description)
+~
+~
+64 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#46012
+cyan bloodbane~
+cyan bloodbane~
+A large green dragon is here.
+~
+~
+64 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#46013
+supplier~
+the supplier~
+Aryn's supplier is here.
+~
+~
+64 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#46011
+ornate silver key~
+an `#`Sornate silver key`^~
+An `#`Sornate silver key`^ is here.~
+~
+31 128 16
+0 0 0 0
+0 0 1
+#46012
+a four-post bed large ~
+a four-post bed~
+A large four-post bed sits here, with `#`Wsilk`^ drapes.~
+~
+12 1 8
+1000 1170 200 200
+1 10 1
+#46013
+chest of drawers~
+a small chest of drawers~
+A small chest of drawers stands here.~
+~
+15 0 8
+15 46011 100 0
+1 0 1
+#46014
+fireplace~
+a `#`Rblazing`^ fireplace~
+A `#`Rblazing`^ fireplace is here, warming the room.~
+~
+12 1 8
+1000 18720 -80 -50
+99 0 1
+#46015
+aryn map shop sign~
+a map shop sign~
+A sign is hanging outside Aryn's Map & Parchment Shop.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+46015 sign~
+`#`Y**************************************`^
+`Y*     `RAryn's Maps & Parchments       `Y*`^
+`Y*                                    *`^
+`Y*     `cSupplying Tulgard with `Y        `Y*`^
+`Y*   `cthe finest maps in the world.    `Y*`^
+`#`Y**************************************`^
+~
+#0
+
+#ROOMS
+#0
+
+#RESETS
+S
+
+#SHOPS
+ 46013   0 0 0 0 0   100 100        0 23    ; supplier
+0
+
+
+
+
+
+#$

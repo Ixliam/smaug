@@ -1,0 +1,275 @@
+Sat Oct 12 12:37:32 2019 :: Copyover: Spawning new log file
+Sat Oct 12 12:37:32 2019 :: Saving player files and connection states....
+Sat Oct 12 12:37:32 2019 :: Saving modified area files...
+Sat Oct 12 12:37:32 2019 :: Executing copyover....
+Sat Oct 12 12:37:32 2019 :: Booting Database
+Sat Oct 12 12:37:32 2019 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sat Oct 12 12:37:32 2019 :: Loading commands
+Sat Oct 12 12:37:32 2019 :: Loading mud channels...
+Sat Oct 12 12:37:32 2019 :: Loading sysdata configuration...
+Sat Oct 12 12:37:32 2019 :: Loading socials
+Sat Oct 12 12:37:32 2019 :: Loading skill table
+Sat Oct 12 12:37:32 2019 :: Sorting skill table...
+Sat Oct 12 12:37:32 2019 :: Remapping slots to sns
+Sat Oct 12 12:37:32 2019 :: Loading classes
+Sat Oct 12 12:37:32 2019 :: Loading races
+Sat Oct 12 12:37:32 2019 :: Loading herb table
+Sat Oct 12 12:37:32 2019 :: Loading tongues
+Sat Oct 12 12:37:32 2019 :: Making Times Lost stafflist
+Sat Oct 12 12:37:32 2019 :: Loading MSSP Data...
+Sat Oct 12 12:37:32 2019 :: Building wizinfo
+Sat Oct 12 12:37:32 2019 :: Initializing random number generator
+Sat Oct 12 12:37:32 2019 :: Setting time and weather.
+Sat Oct 12 12:37:32 2019 :: Loading holiday chart...
+Sat Oct 12 12:37:32 2019 :: Assigning gsn's
+ASSIGN_GSN: Skill searing haze not found.
+ASSIGN_GSN: Skill combat heal not found.
+Sat Oct 12 12:37:32 2019 :: Reading in area files...
+(help.are)
+limbo.are     : Rooms:     2 - 99    Objs:     2 - 99    Mobs:     1 - 99
+staff.are     : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+call.are      : Rooms:   100 - 199   Objs:   100 - 199   Mobs:   100 - 199
+haon.are      : Rooms:  6000 - 6159  Objs:  6000 - 6155  Mobs:  6000 - 6117
+midennir.are  : Rooms:  3500 - 3590  Objs:  3500 - 3550  Mobs:  3500 - 3550
+astral.are    : Rooms:   800 - 899   Objs:   800 - 899   Mobs:   800 - 899
+srefuge.are   : Rooms:  1500 - 1600  Objs:  1500 - 1599  Mobs:  1500 - 1599
+chapel.are    : Rooms:  3405 - 3475  Objs:  3400 - 3430  Mobs:  3400 - 3416
+export.are    : Rooms:  9810 - 9899  Objs:  9810 - 9899  Mobs:  9800 - 9899
+plains.are    : Rooms:   300 - 345   Objs:   300 - 313   Mobs:   300 - 350
+gallery.are   : Rooms: 24800 - 24899 Objs: 24800 - 24899 Mobs: 24800 - 24899
+grave.are     : Rooms:  3600 - 3651  Objs:  3600 - 3613  Mobs:  3600 - 3605
+unholy.are    : Rooms:  2101 - 2173  Objs:  2101 - 2150  Mobs:  2101 - 2120
+pixie.are     : Rooms:  2070 - 2099  Objs:  2070 - 2077  Mobs:  2070 - 2073
+manor.are     : Rooms:  2400 - 2499  Objs:  2400 - 2499  Mobs:  2405 - 2484
+roads.are     : Rooms: 26000 - 26290 Objs: 26000 - 26010 Mobs: 26000 - 26007
+asgard.are    : Rooms: 12000 - 12200 Objs: 12000 - 12200 Mobs: 12000 - 12200
+warkeep.are   : Rooms: 15700 - 15742 Objs: 15700 - 15742 Mobs: 15700 - 15720
+abandoned.are : Rooms: 29000 - 29050 Objs: 29000 - 29050 Mobs: 29000 - 29050
+drakkel.are   : Rooms: 40000 - 40500 Objs: 40000 - 40100 Mobs: 40000 - 40100
+1stplane.are  : Rooms: 30000 - 30400 Objs: 30000 - 30400 Mobs: 30001 - 30400
+heaven.are    : Rooms: 31000 - 31200 Objs: 31000 - 31200 Mobs: 31000 - 31046
+manoake.are   : Rooms: 31300 - 31493 Objs: 31300 - 31493 Mobs: 31300 - 31450
+loramoor.are  : Rooms: 31600 - 31800 Objs: 31600 - 31800 Mobs: 31600 - 31800
+beach.are     : Rooms: 10000 - 10024 Objs: 10000 - 10050 Mobs: 10001 - 10006
+ship.are      : Rooms: 10100 - 10150 Objs: 10100 - 10150 Mobs: 10100 - 10150
+Vila.are      : Rooms: 10200 - 10255 Objs: 10200 - 10300 Mobs: 10201 - 10215
+abyss.are     : Rooms:  7500 - 8000  Objs:  7500 - 8000  Mobs:  7500 - 8000
+citadel.are   : Rooms:   950 - 1100  Objs:   950 - 1100  Mobs:   950 - 1100
+ocean.are     : Rooms: 10400 - 10700 Objs: 10400 - 10700 Mobs: 10400 - 10700
+paleon.are    : Rooms: 16000 - 16300 Objs: 16000 - 16300 Mobs: 16000 - 16300
+garden.are    : Rooms:  4000 - 4050  Objs:  4000 - 4050  Mobs:  4000 - 4050
+prison.are    : Rooms: 16500 - 16600 Objs: 16500 - 16600 Mobs: 16500 - 16600
+jarynth.are   : Rooms: 10800 - 10851 Objs: 10800 - 10819 Mobs: 10801 - 10819
+cierra.are    : Rooms: 16700 - 16900 Objs: 16700 - 16900 Mobs: 16700 - 16900
+regius.are    : Rooms: 18000 - 18200 Objs: 18000 - 18200 Mobs: 18000 - 18200
+isle.are      : Rooms:  3750 - 3950  Objs:  3750 - 3950  Mobs:  3750 - 3950
+caverns.are   : Rooms: 28000 - 28200 Objs: 28000 - 28200 Mobs: 28000 - 28200
+shoreline.are : Rooms:  4100 - 4183  Objs:  4100 - 4166  Mobs:  4104 - 4163
+stutorial.are : Rooms:  4500 - 4600  Objs:  4500 - 4600  Mobs:  4500 - 4600
+waterarena.are: Rooms:  4320 - 4340  Objs:  4320 - 4320  Mobs:  4320 - 4320
+tufkular.are  : Rooms: 28250 - 28300 Objs: 28250 - 28297 Mobs: 28250 - 28300
+undersewer.are: Rooms:  4900 - 4950  Objs:  4900 - 4950  Mobs:  4900 - 4950
+tutorial.are  : Rooms:  5100 - 5200  Objs:  5100 - 5200  Mobs:  5100 - 5200
+bowels.are    : Rooms:  5300 - 5350  Objs:  5300 - 5350  Mobs:  5300 - 5350
+atheneum.are  : Rooms:  4650 - 4700  Objs:  4650 - 4700  Mobs:  4650 - 4700
+desertarena.are: Rooms:  4400 - 4420  Objs:  4400 - 4412  Mobs:  4400 - 4410
+kirwood.are   : Rooms: 27000 - 27062 Objs: 27000 - 27056 Mobs: 27000 - 27027
+junglearena.are: Rooms:  5400 - 5420  Objs:  5400 - 5410  Mobs:  5400 - 5409
+arcticarena.are: Rooms: 14500 - 14520 Objs: 14500 - 14506 Mobs: 14500 - 14503
+Dis.are       : Rooms:  5500 - 5550  Objs:  5500 - 5550  Mobs:  5500 - 5550
+labarena.are  : Rooms:  4800 - 4850  Objs:  4800 - 4809  Mobs:  4800 - 4810
+durdun.are    : Rooms: 18300 - 18350 Objs: 18300 - 18350 Mobs: 18300 - 18350
+dakar.are     : Rooms: 11200 - 11400 Objs: 11200 - 11400 Mobs: 11200 - 11400
+etutorial.are : Rooms: 33200 - 33400 Objs: 33200 - 33400 Mobs: 33200 - 33400
+wild.are      : Rooms: 41000 - 44000 Objs: 41000 - 41050 Mobs: 41000 - 41100
+xwild.are     : Rooms: 60000 - 62999 Objs: 60000 - 60000 Mobs: 60000 - 60000
+santasws.are  : Rooms: 34000 - 34050 Objs: 34000 - 34050 Mobs: 34000 - 34050
+forbidden.are : Rooms: 34051 - 35600 Objs: 35500 - 35600 Mobs: 35500 - 35600
+dtutorial.are : Rooms: 19000 - 19100 Objs: 19000 - 19100 Mobs: 19000 - 19100
+estate.are    : Rooms: 19500 - 19549 Objs: 19500 - 19507 Mobs: 19500 - 19508
+spidswamp.are : Rooms:   601 - 700   Objs:   601 - 700   Mobs:   601 - 700
+icecastle.are : Rooms:   701 - 799   Objs:   701 - 799   Mobs:   701 - 799
+crysforest.are: Rooms:  1400 - 1449  Objs:  1400 - 1449  Mobs:  1400 - 1449
+lvalley.are   : Rooms:  1750 - 1800  Objs:  1750 - 1800  Mobs:  1750 - 1800
+ixious.are    : Rooms:  1850 - 1900  Objs:  1850 - 1900  Mobs:  1850 - 1900
+Szithlin.are  : Rooms:  2200 - 2299  Objs:  2200 - 2299  Mobs:  2200 - 2299
+gtower.are    : Rooms: 18600 - 18650 Objs: 18600 - 18637 Mobs: 18600 - 18620
+newunder.are  : Rooms:  2300 - 2399  Objs:  2300 - 2399  Mobs:  2300 - 2399
+foxden.are    : Rooms:  2500 - 2550  Objs:  2500 - 2550  Mobs:  2500 - 2550
+goldpen.are   : Rooms:  2551 - 2599  Objs:  2551 - 2556  Mobs:  2551 - 2557
+ruins.are     : Rooms:  2600 - 2650  Objs:  2600 - 2650  Mobs:  2600 - 2650
+merchant.are  : Rooms:  2750 - 2813  Objs:  2750 - 2800  Mobs:  2750 - 2800
+shatkul.are   : Rooms:  2900 - 2999  Objs:  2900 - 2999  Mobs:  2900 - 2999
+sos.are       : Rooms: 35601 - 35650 Objs: 35601 - 35650 Mobs: 35601 - 35650
+appgarden.are : Rooms: 11510 - 11540 Objs: 11510 - 11540 Mobs: 11510 - 11540
+soscata.are   : Rooms: 35651 - 35700 Objs: 35651 - 35700 Mobs: 35651 - 35700
+throngfort.are: Rooms:  1120 - 1150  Objs:  1120 - 1150  Mobs:  1120 - 1150
+allifort.are  : Rooms:  1160 - 1190  Objs:  1160 - 1190  Mobs:  1160 - 1190
+accura.are    : Rooms: 35701 - 35750 Objs: 35701 - 35750 Mobs: 35701 - 35750
+events.are    : Rooms:  1350 - 1350  Objs:  1350 - 1399  Mobs:  1350 - 1399
+halcyon.are   : Rooms:  6160 - 6200  Objs:  6160 - 6200  Mobs:  6160 - 6200
+terizak.are   : Rooms: 11541 - 11580 Objs: 11541 - 11547 Mobs: 11541 - 11580
+mausoleum.are : Rooms: 35751 - 35800 Objs: 35751 - 35800 Mobs: 35751 - 35800
+spivill.are   : Rooms: 13000 - 13039 Objs: 13000 - 13039 Mobs: 13000 - 13039
+ywild.are     : Rooms: 48000 - 53800 Objs:     0 - 0     Mobs:     0 - 0
+cliffs.are    : Rooms: 13101 - 13150 Objs: 13101 - 13150 Mobs: 13101 - 13150
+icecavern.are : Rooms:  6250 - 6300  Objs:  6250 - 6300  Mobs:  6250 - 6300
+oisland.are   : Rooms: 47101 - 47146 Objs: 47101 - 47150 Mobs: 47101 - 47150
+harpy.are     : Rooms: 13151 - 13189 Objs: 13151 - 13180 Mobs: 13151 - 13180
+rift.are      : Rooms:  6350 - 6400  Objs:  6350 - 6400  Mobs:  6350 - 6400
+invasion.are  : Rooms:  6500 - 6900  Objs:  6500 - 6900  Mobs:  6500 - 6900
+palace.are    : Rooms:  8100 - 8150  Objs:  8100 - 8150  Mobs:  8100 - 8150
+ttower.are    : Rooms: 10051 - 10089 Objs: 10051 - 10090 Mobs: 10051 - 10090
+pixadale.are  : Rooms: 35801 - 35850 Objs: 35801 - 35850 Mobs: 35801 - 35850
+volcano.are   : Rooms:  8300 - 8336  Objs:  8300 - 8315  Mobs:  8300 - 8310
+psewer.are    : Rooms:  8350 - 8400  Objs:  8350 - 8370  Mobs:  8350 - 8400
+dsewer.are    : Rooms:  8700 - 8750  Objs:  8700 - 8720  Mobs:  8700 - 8750
+dragonden.are : Rooms:  1950 - 1991  Objs:  1950 - 1967  Mobs:  1950 - 1960
+grovestone.are: Rooms: 32000 - 32100 Objs: 32000 - 32100 Mobs: 32000 - 32100
+torain.are    : Rooms: 11600 - 11700 Objs: 11600 - 11700 Mobs: 11600 - 11700
+parade.are    : Rooms: 45150 - 45250 Objs: 45150 - 45250 Mobs: 45150 - 45250
+theatre.are   : Rooms:   500 - 525   Objs:   500 - 525   Mobs:   500 - 525
+phouse.are    : Rooms: 54000 - 55000 Objs: 54000 - 55000 Mobs: 54000 - 55000
+dhouse.are    : Rooms: 57000 - 58000 Objs: 57000 - 58000 Mobs: 57000 - 58000
+hive.are      : Rooms: 25000 - 25050 Objs: 25000 - 25050 Mobs: 25000 - 25050
+riders.are    : Rooms: 25200 - 25250 Objs: 25200 - 25250 Mobs: 25200 - 25250
+ships.are     : Rooms: 56300 - 56500 Objs: 56300 - 56500 Mobs: 56300 - 56500
+tomb.are      : Rooms: 28350 - 28400 Objs: 28350 - 28400 Mobs: 28350 - 28400
+raid.are      : Rooms: 29100 - 29247 Objs: 29100 - 29200 Mobs: 29100 - 29200
+dlair.are     : Rooms: 65000 - 67000 Objs: 65000 - 67000 Mobs: 65000 - 67000
+vampden.are   : Rooms: 55300 - 55400 Objs: 55300 - 55400 Mobs: 55300 - 55400
+immortal.are  : Rooms:  2000 - 2004  Objs:  2000 - 2056  Mobs:  2000 - 2011
+adesert.are   : Rooms: 70100 - 70199 Objs: 70100 - 70128 Mobs: 70100 - 70186
+basaltfort.are: Rooms: 71700 - 71756 Objs: 71760 - 71797 Mobs: 71750 - 71793
+brigand.are   : Rooms: 21504 - 21529 Objs: 21500 - 21520 Mobs: 21500 - 21507
+Sat Oct 12 12:37:33 2019 :: Loading boards
+Sat Oct 12 12:37:33 2019 :: boards/Auction
+Sat Oct 12 12:37:33 2019 :: boards/Roleplay
+Sat Oct 12 12:37:33 2019 :: boards/General
+Sat Oct 12 12:37:33 2019 :: Loading buildlist
+Sat Oct 12 12:37:33 2019 :: staff/Ixliam
+Sat Oct 12 12:37:33 2019 :: staff/Delandria
+Sat Oct 12 12:37:33 2019 :: staff/Delly
+Sat Oct 12 12:37:33 2019 :: Fixing exits
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59899. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70128, exit west leads to bad vnum (59899)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting west exit in room 70128
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59819. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70166, exit north leads to bad vnum (59819)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70166
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59983. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70170, exit north leads to bad vnum (59983)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70170
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59985. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70171, exit north leads to bad vnum (59985)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70171
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59987. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70172, exit north leads to bad vnum (59987)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70172
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59980. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70173, exit north leads to bad vnum (59980)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70173
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59978. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70175, exit north leads to bad vnum (59978)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 70175
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59901. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70175, exit east leads to bad vnum (59901)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting east exit in room 70175
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 59981. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 70182, exit south leads to bad vnum (59981)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting south exit in room 70182
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 21503. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 21506, exit west leads to bad vnum (21503)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting west exit in room 21506
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: new_get_room_index: bad vnum 21503. Called from file db.c line 3155
+Sat Oct 12 12:37:33 2019 :: [*****] BOOT: Fix_exits: room 21509, exit north leads to bad vnum (21503)
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Deleting north exit in room 21509
+Sat Oct 12 12:37:33 2019 :: Initializing economy
+Sat Oct 12 12:37:33 2019 :: Resetting areas
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21510 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21508 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21508 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21516 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21516 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21516 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21516 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: Read_object: vnum 21516 bad type.
+Sat Oct 12 12:37:33 2019 :: [*****] BUG: ------------------------>  11 
+Sat Oct 12 12:37:33 2019 :: Loading storerooms
+Sat Oct 12 12:37:33 2019 :: Loading clans
+Sat Oct 12 12:37:33 2019 :: Loading clans...
+Sat Oct 12 12:37:33 2019 :: throng.cln
+Sat Oct 12 12:37:33 2019 :: alliance.cln
+Sat Oct 12 12:37:33 2019 :: halcyon.cln
+Sat Oct 12 12:37:33 2019 :: $
+Sat Oct 12 12:37:33 2019 ::  Done clans 
+Sat Oct 12 12:37:33 2019 :: Loading quests
+Sat Oct 12 12:37:33 2019 :: Loading currency...
+Sat Oct 12 12:37:33 2019 :: Loading banks
+Sat Oct 12 12:37:33 2019 :: Loading landmarks
+Sat Oct 12 12:37:33 2019 :: Loading councils
+Sat Oct 12 12:37:33 2019 :: Loading councils...
+Sat Oct 12 12:37:33 2019 :: rp.cln
+Sat Oct 12 12:37:33 2019 :: Events.cln
+Sat Oct 12 12:37:33 2019 :: monkey.cln
+Sat Oct 12 12:37:33 2019 :: abm.cln
+Sat Oct 12 12:37:33 2019 :: pr.cln
+Sat Oct 12 12:37:33 2019 :: $
+Sat Oct 12 12:37:33 2019 ::  Done councils 
+Sat Oct 12 12:37:33 2019 :: Loading deities
+Sat Oct 12 12:37:33 2019 :: Loading deities...
+Sat Oct 12 12:37:33 2019 :: Done deities
+Sat Oct 12 12:37:33 2019 :: Creating transfer data
+Sat Oct 12 12:37:33 2019 :: Loading transfer data
+Sat Oct 12 12:37:33 2019 :: Loading hometowns
+Sat Oct 12 12:37:33 2019 :: Loading htowns...
+Sat Oct 12 12:37:33 2019 :: paleon.city
+Sat Oct 12 12:37:33 2019 :: Valnaes.htown
+Sat Oct 12 12:37:33 2019 :: forbidden.htown
+Sat Oct 12 12:37:33 2019 :: $
+Sat Oct 12 12:37:33 2019 ::  Done htowns 
+Sat Oct 12 12:37:33 2019 :: Loading cities
+Sat Oct 12 12:37:33 2019 :: Loading cities...
+Sat Oct 12 12:37:33 2019 :: paleon.city
+Sat Oct 12 12:37:33 2019 :: dakar.city
+Sat Oct 12 12:37:33 2019 :: forbidden.city
+Sat Oct 12 12:37:33 2019 ::  Done cities 
+Sat Oct 12 12:37:33 2019 :: Loading bans
+Sat Oct 12 12:37:33 2019 :: Done.
+Sat Oct 12 12:37:33 2019 :: Loading reserved names
+Sat Oct 12 12:37:33 2019 :: Loading auth namelist
+Sat Oct 12 12:37:33 2019 :: Loading corpses
+Sat Oct 12 12:37:33 2019 :: Loading News
+Sat Oct 12 12:37:33 2019 :: Loading Hints...
+Sat Oct 12 12:37:33 2019 :: Loading Morphs
+Sat Oct 12 12:37:33 2019 :: Optimizing Morphs.
+Sat Oct 12 12:37:33 2019 :: Done.
+Sat Oct 12 12:37:33 2019 :: I3: Loading Intermud-3 network data...
+Sat Oct 12 12:37:33 2019 :: I3: Loading I3 command table...
+Sat Oct 12 12:37:33 2019 :: I3: Loading Intermud-3 network data...
+Sat Oct 12 12:37:33 2019 :: I3: Loading I3 router data...
+Sat Oct 12 12:37:33 2019 :: I3: Loading I3 help file...
+Sat Oct 12 12:37:33 2019 :: I3: Loading color table...
+Sat Oct 12 12:37:33 2019 :: I3: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Sat Oct 12 12:37:33 2019 :: Initializing Autoboot
+Sat Oct 12 12:37:33 2019 :: Initializing socket
+Sat Oct 12 12:37:33 2019 :: Times Lost ready at address wotlmud on port 3000.
+Sat Oct 12 12:37:33 2019 :: Initiating copyover recovery.
+Sat Oct 12 12:37:33 2019 :: Loading player data for Ixliam (26K)
+Sat Oct 12 12:37:33 2019 :: Copyover recovery complete.
+.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~[  Game Loop  ]~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.~`~.
+Sat Oct 12 12:38:22 2019 :: Log Ixliam: reset list
+Sat Oct 12 12:43:31 2019 :: Log Ixliam: MOB(21503): Changed number of attacks to 0
+Sat Oct 12 12:43:38 2019 :: Log Ixliam: MOB(21503): Changed level to 3
+Sat Oct 12 12:43:42 2019 :: Log Ixliam: MOB(21503): Changed level to 4
+Sat Oct 12 12:43:45 2019 :: Log Ixliam: MOB(21503): Changed level to 3
+Sat Oct 12 12:45:07 2019 :: Log Ixliam: foldarea brigand.are
+Sat Oct 12 12:45:07 2019 :: Saving brigand.are...
+Sat Oct 12 12:51:19 2019 :: Log Ixliam: copyover

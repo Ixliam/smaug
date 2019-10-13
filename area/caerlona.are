@@ -1,0 +1,2953 @@
+#AREA        Caerlona~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne rashka~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#64400
+elven guard gate caerlonian~
+a `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn g`cate `Wg`cuar`Wd`^~
+An elven `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn g`cate `Wg`cuar`Wd`^ stands here on watch.
+~
+A tall elven guard stands here on guard. The Caerlonian has a huge sword in 
+hand, but despite the fearsome looks.. the guard greets you with a welcoming 
+smile. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64401
+elven city guard~
+a `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn c`city `Wg`cuar`Wd`^~
+A male elven `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn c`city `Wg`cuar`Wd`^ stands here on watch.
+~
+The elf before you stands tall in his uniform. Shiny white steel plates 
+gleam in the light. He greets you with a smile... but don't you dare cause 
+trouble.. 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+100 0 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64402
+elven city guard~
+a `#`Wc`Xae`Mr`mlo`Mn`Xia`Wn c`mity `Wg`muar`Wd`^~
+A female elven `#`Wc`Xae`Mr`mlo`Mn`Xia`Wn c`mity `Wg`muar`Wd`^ stands here on watch.
+~
+The elf before you stands tall in her uniform. Shiny white steel plates 
+gleam in the light. She greets you with a smile... but don't you dare cause 
+trouble.. 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+100 0 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64403
+half-elf male caerlonian~
+a `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn`^ half-elf male~
+A `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn`^ half-elf male saunters around here.
+~
+This half-elven male smiles at you and continues on his way. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+95 0 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64404
+half-elf male caerlonian~
+a `#`Mc`mae`Wr`Xlo`Wn`mia`Mn`^ half-elf female~
+A `#`Mc`mae`Wr`Xlo`Wn`mia`Mn`^ half-elf female strolls along here.
+~
+This half-elven female grins at you, winks, then continues on her way. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+95 0 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64405
+wemic marshall caerlonian~
+the `#`WC`Xa`Wer`Xlo`Wni`Xa`Wn `WM`Xarshall`^~
+The `#`WC`Xa`Wer`Xlo`Wni`Xa`Wn `YW`ye`Ym`yi`Yc `WM`Xarshall`^ is here, alert for anything amiss.
+~
+A Huge wemic towers over you. He's got the body of a hulking lion. From 
+where the lion's head would be is a large, humanoid torso ripped with 
+muscles. On his hands are vicious claws. His lion-like head is covered in 
+dusky black mane. His eyes gleam with a golden hue. Think you can take on 
+this lion-taur..? 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+115 32 -85 12d15+560 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64406
+unicorn white winged stallion~
+a `#`WU`Xn`Wico`Xr`Wn S`Xta`Wll`Xio`Wn`^~
+A winged `#`WU`Xn`Wico`Xr`Wn S`Xta`Wll`Xio`Wn`^ is here pawing the ground with his silver hooves.
+~
+This is a Massively huge white unicorn stallion. His mane and tail are a 
+shimmering pearly white. His frost-white fur is as soft as velvet. He 
+prances about on silver hooves. Sprouting from his back are two, enormous 
+feathered wings. Crowned upon this Unicorn's head is the famed spiral horn. 
+The horn is neither silver nor gold.. but more resembles the silvery sheen 
+of color within a seashell. I'm sure he'd make a wonderful mount if you 
+could tame him. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+91 90 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64407
+lizellia famous cleric healer renouned~
+the Renouned Cleric, Lizellia~
+The renouned Cleric of the Light is here tending to those in need.
+~
+The woman before you is very serene. Her soft blue eyes seem to entrance you 
+into forgetting your pain. Her hands are gentle as they tend your wounds. 
+Her voice.. a melodious voice.. You forget what she says but it doesn't even 
+matter anymore. You're at peace. 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+100 0 -70 10d14+480 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64408
+inventor gnomish grinning male ziflic~
+the Gnomish Inventor, Ziflic~
+A male gnomish inventor with a wide grin sits here behind the counter.
+~
+This squat little gnome guy seems to always have a mischevious little grin. 
+His hands fiddle around making strange little devices. He grins as you 
+glance the wares. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64409
+husky elf male armorist zerle~
+the Armorist Zerle~
+A husky male elf armorist is here making repairs.
+~
+The elf here hammering away at a piece of white-steel is pretty husky and 
+gruff looking. He's got gentle blue eyes despite his stern, ruffled 
+appearance. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64410
+slender lean half-elf male weaponsmith kashar~
+the Weaponsmith Kashar~
+A slender, lean male half-elf weaponsmith is here forging a new blade.
+~
+This elf is rather muscular and lean. He's got a smiling face and long 
+golden hair. He gladly shows his wares. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64411
+beautiful elven woman anyia~
+the Manager Anyia~
+A beautiful elven woman manages the store here.
+~
+This stunningly beautiful elven woman stands here. She smiles at you as you 
+enter the shop and begins to setup the wares of her store. Wow.. are you 
+looking at her wares.. or elsewhere? 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64412
+lanky elven male archer yikil~
+the Archer Yikil~
+A lanky male elven archer stands here fletching an arrow.
+~
+This lanky, and extremely slender elf sits here busily fletching arrows. He 
+nods once as you enter and continues working. You could swear his eyes keep 
+following you. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64413
+stunning half-elf jeweler female rhiozia~
+the Jeweler Rhiozia~
+A stunning half-elf female jeweler stands here cleaning a diamond behind the counter.
+~
+This half-elven woman stands here behind the counter carefully inspecting 
+many diamonds and such. She smiles as you enter and holds up her display. 
+She's a very nice person. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64414
+courier elven tall dumaki~
+the Courier Dumaki~
+A tall elven courier is here smiling behind the counter.
+~
+This elven man stands neatly in his suit. He smiles and greets you as you 
+walk in and gets a pigeon ready for delivery. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64415
+elven cleric woman elderly kiama~
+the elderly cleric Kiama~
+An elderly elven woman stands here behind the counter.
+~
+This elderly woman sits here patiently behind the counter as she busily sews 
+togther some silk trousers. She looks up and smiles at you for a moment then 
+continues on. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64416
+golem wicked steel massive guard~
+a `#`Xg`Solem`^ of `#`rw`Sicked st`Xee`Sl`^~
+A massive, sharp `#`Xg`Solem`^ of `#`rw`Sicked st`Xee`Sl`^ stands here glaring at you.
+~
+This golem is rather small. It's stocky but quite fast. It's made entirely 
+out of sharpened spikes of steel and glares at you with it's unholy red 
+eyes. He's not a happy camper.. 
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+90 0 -59 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64417
+venomous death poisonous visage fearsome~
+a `#`gv`Ge`Yn`yo`rm`go`yu`Gs`^ death~
+The fearsome visage of poisonous death hovers here glaring at you.
+~
+Before you hovers an ominous spectre. Poison overwhelms your senses as 
+this.. thing.. glares at you. Dare you fight your fate? Dare you fight 
+against a disease-ridden or venomous demise? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+115 0 -85 12d15+555 12d14+69
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64418
+guardian famine hunger spectre foreboding fatal~
+the `#`SG`Xu`ya`Yrd`yi`Xa`Sn `WF`Xa`Wmi`Xn`We`^~
+A forboding spectre giving off an aura of fatal hunger hovers here glowering at you.
+~
+Before you hovers an ominous spectre. Hunger overwhelms your senses as 
+this.. thing.. glares at you. Dare you fight your fate? Dare you fight 
+against a death of unforgiving hunger? 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64419
+guardian thirst spectre wraith fatal dehydration~
+the `#`SG`Xu`ca`Crd`ci`Xa`Sn `WT`Xh`Wir`Xs`Wt`^~
+A wraith-like spectre giving off an aura of fatal thirst hovers here gleaming wickedly at You.
+~
+Before you hovers an ominous spectre. Dehydration overwhelms your senses as 
+this.. thing.. glares at you. Dare you fight your fate? Dare you fight 
+against a death of merciless thirst? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64420
+medusa serpent woman six armed~
+the `#`YQ`yu`Xe`ye`Yn `GM`ge`rdu`gs`Ga`^~
+A four-armed `#`GM`ge`rdu`gs`Ga`^ with a snake-like lower torso hisses here at you..  Don't look in her eyes!
+~
+This medusa.. is the Queen of them all. Her lower torso is that of a 
+serpent. Her face is hideous and scaled. Her hair is made entirely out of 
+small serpents. She has glowing yellow eyes.. No.. Stop..!! Don't look into 
+her eyes!! 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+85 0 -54 8d12+420 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64421
+half orc gromo barkeep~
+the Barkeep Gromo~
+A husky half-orc cleans the bar with a white towel.
+~
+Standing here behind the counter is a gruff looking half-orc. He grins 
+crookedly and serves you probably the biggest pint you've ever seen... 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64422
+elven waitress~
+an elven waitress~
+An elven waitress walks amongst the tables holding delicious mouthwatering platters.
+~
+She grins sheepishly at you and readily asks what you'd like to order. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64423
+horse white stallion~
+a `#`Wwhite s`Xta`Wll`Xio`Wn`^~
+A battle-hardened `#`Wwhite s`Xta`Wll`Xio`Wn`^ stamps his hoof angrily here.
+~
+A huge battle-hardened stallion stands here. He's a monstrous specimen of a 
+horse. Broad, strapping and fully ready to enter the fray. He makes one of 
+the best companions a Knight would ever need. He's by far.. NOT a cuddly 
+horse in any way. He doesn't take kindly to smooches or lovey dovey junk. 
+He's a warhorse.. and he waits impatiently for battle. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+90 90 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64424
+horse bay stallion~
+a `#`Sb`yay `Ss`yta`Sll`yio`Sn`^~
+A battle-hardened `#`Sb`yay `Ss`yta`Sll`yio`Sn`^ paws the ground with anticipation.
+~
+A huge battle-hardened stallion stands here. He's a monstrous specimen of a 
+horse. Broad, strapping and fully ready to enter the fray. He makes one of 
+the best companions a Knight would ever need. He's by far.. NOT a cuddly 
+horse in any way. He doesn't take kindly to smooches or lovey dovey junk. 
+He's a warhorse.. and he waits impatiently for battle. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+90 90 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64425
+golden chariot white stallions~
+a `#`YG`yo`Yld`ye`Yn `yC`Yh`yari`Yo`yt`^ drawn by four `#`WWhite S`Xta`Wll`Xio`Wns`^`^~
+A `#`YG`yo`Yld`ye`Yn `yC`Yh`yari`Yo`yt`^ drawn by four `#`WWhite S`Xta`Wll`Xio`Wns`^ stands here gleaming in the light.
+~
+A chariot flecked and emblazoned with gold stands here regally. It has large 
+wooden wheels reinforced with steel spokes. On either side of the chariot is 
+a golden sun with seven rays of fire. The front of the giant chariot depicts 
+a golden lion's head. The chariot is pulled by four battle-hardened 
+stallions. They are sturdy beasts of burden. They're ready to race head on 
+into battle.. They'll charge their foes down with a frenzy until they die. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+90 110 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64426
+silver chariot grey stallions~
+a `#`WS`Xi`Slv`Xe`Wr `SC`Xh`Sari`Xo`St`^ drawn by four `#`SG`Xr`We`Sy S`Xta`Wll`Xio`Sns`^`^~
+A `#`WS`Xi`Slv`Xe`Wr `SC`Xh`Sari`Xo`St`^ drawn by four `#`SG`Xr`We`Sy S`Xta`Wll`Xio`Sns`^ stands here gleaming in the light.
+~
+A chariot flecked and emblazoned with silver stands here regally. It has 
+large wooden wheels reinforced with steel spokes. On either side of the 
+chariot is a silver moon set over a silver desert. The front of the giant 
+chariot depicts a silver raven's head. The chariot is pulled by four 
+battle-hardened stallions. They are sturdy beasts of burden. They're ready 
+to race head on into battle.. They'll charge their foes down with a frenzy 
+until they die. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+90 110 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64427
+guildmaster elf paladin~
+the Guildmaster~
+A towering elf paladin stands here awaiting to train you.
+~
+This towering man stands here silently. He peers at you and slowly smiles. 
+Yes.. he's here to help you learn the skills necessary to survive. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64428
+barkeep tannick human man male~
+the Barkeep Tannick~
+A gruff lookin male human is here cleaning a glass with a towel.
+~
+This human leans back lazily behind the counter. He's got a smug grin on his 
+stubbled chin as he cleans a glass mug out with his towel. 
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64429
+brownie male boy ruzzie~
+the Musician Ruzzie~
+A small little fae creature stands here atop the counter.
+~
+This little fae hops and skips around showing off all his wares. Musical 
+instruments all about play melodiously along with his antics! 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64430
+soryalis maiden lady lances spectre~
+the `#`WM`Xa`ci`Cd`ce`Cn `WS`Co`cr`Cy`ca`Cl`ci`Cs`^~
+The `#`YS`yp`Yect`yr`Ye`^ of the `#`WL`Xady`^ of the `#`WL`Xance`Ws`^ is here, her dress billows softly in an unfelt breeze.
+~
+A beautiful spectre of a woman stands here. She wears nothing but a 
+semi-transparent gown that seems to waft against an unknown breeze. Her eyes 
+blaze an icy blue. Her lush, golden locks flow gently along with her 
+movements. She glances at you and you appear entranced.. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+115 0 -85 12d15+555 12d14+69
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64431
+dragon copper~
+a `#`yc`ro`ypp`re`yr`^ dragon~
+A large male `#`yc`ro`ypp`re`yr`^ dragon is here smoking a pipe.
+~
+Before you is a large male dragon.  His scales are copper.  His massive 
+wings are black and leathery.  When his eyes are open, you see that they are 
+coal black. The only thing to mar this image of dragon perfection, is a scar 
+that trails from his eye to his chin. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64432
+half-elven angelic woman zana~
+an angelic half-elven woman with `#`Ws`xil`Wv`xer`Wy`^ hair~
+An angelic half-elven woman with `#`Ws`xil`Wv`xer`Wy`^ hair stands here.
+~
+This angelic woman is somewhat tall, standing at approximately six feet in 
+height. She appears slender, with a toned and athletic frame. Her skin is 
+tanned to a warm golden bronze, yet appears soft and smooth. Her eyes are, 
+when open, a deep ocean blue, and almost seem to glitter with a defiant 
+inner light. Her wavy silver hair extends to her shoulders, the almost 
+metallic strands shimmering as they catch the light with every movement. A 
+few wisps of hair hides her ears, yet there is no mistaking the elfin 
+features of her finely boned face, from her high cheekbones and delicately 
+arched eyebrows, to her narrow jawline and soft, pink lips. Delicate wings 
+extend gracefully from her back, closely resembling the wings of a bird of 
+prey. The soft white feathers seem to give off a bright pearly sheen in the 
+light. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64433
+flaming fiery chariot black stallions~
+a `#`YF`yl`ra`Rm`ri`yn`Yg `XC`Sha`Xr`Sio`Xt`^ drawn by four `#`rF`Ri`Ye`Rr`ry`S-`rM`Ra`Yn`Re`rd `XS`Sta`Xll`Sion`Xs`^`^~
+A `#`YF`yl`ra`Rm`ri`yn`Yg `XC`Sha`Xr`Sio`Xt`^ drawn by four `#`rF`Ri`Ye`Rr`ry`S-`rM`Ra`Yn`Re`rd `XS`Sta`Xll`Sion`Xs`^ blazes here.
+~
+A black chariot blazing with fire and emblazoned with flecks of gold stands 
+here regally. It has large wooden wheels of red flames. On either side of 
+the chariot are golden wings etched in gold. The front of the giant chariot 
+depicts a golden sun. The chariot is pulled by four black ethereal stallions 
+with fiery mane and tails. Their eyes are as wild as the flames they spew in 
+breath. They're ready to race head on into battle.. They'll charge their 
+foes down with a blazing frenzy until they die. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+90 110 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64434
+banker elven woman~
+the Banker~
+An elven woman stands here behind the teller's window.
+~
+The elven banker sits here behind the teller. She smiles and asks what you 
+need exchanged. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64435
+shadowy cloaked figure bidlum~
+a `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn`^ half-elf male~
+A `#`Wc`Xae`Yr`ylo`Yn`Xia`Wn`^ half-elf male saunters around here.
+~
+`#`SWhen not in motion, Bright gossamer wings, shimmering with every color of 
+the  `rs`gp`be`yc`rt`gr`bu`ym`c,`S can be seen spannning outwards from the back of the being 
+before you. When his eyes are open, almond shaped `Cc`cr`Cy`cs`Ct`ca`Cl h`cu`Ce`cd`S  orbs are 
+visible beneath the crest of long lashes. Dark lips and barely visible 
+dimples somewhat soften his otherwise angular countenance. His skin is a 
+soft shade of `Rv`Ye`Rr`Ym`Ri`Yl`Rl`Yi`Ro`Yn`S;  only marred by the dark tattoos of thorn covered 
+`rr`go`rs`ge`r l`gi`rn`ge`rs`S running across his neck and biceps. Bright `Rf`Yi`Re`Yr`Ry `Yr`Re`Yd`S hair runs 
+wild over his head  in unruly waves, stopping just short enough to cover the 
+subtle lines where gills form on his neck. His frame is athletic in nature; 
+a barely perceptible tightly corded muscle resting just beneath his 
+otherwise slender and docile frame.`^ 
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+110 20 -79 11d14+525 11d14+64
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64436
+demon general succubi~
+a towering `#`Sblack-skinned`^ male demon~
+A towering `#`Sblack-skinned`^ male demon with two large `#`Shorns`^ is standing here.
+~
+A rather large, handsome demon towers here. He has a very dark tone of ashen grey skin.
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+116 0 -86 12d15+565 12d15+71
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64437
+graal~
+the Dark Knight, Graal~
+A powerfull-looking knight in black armor towers over you.
+~
+Towering above you is the Almighty Graal. His eyes appear to penetrate right 
+through you. He is covered in black armor.. Only his face shown with his 
+beard all snowy white. 
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+130 0 -100 13d16+630 13d18+85
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#64400
+amulet venalena~
+`CA`cmulet `wof `CV`cenalena`x~
+An amulet with the symbol of young woman nursing a child is here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64401
+caerlonian robes~
+a set of `#`ms`Mof`mt `Wc`Xa`yer`Ylo`yni`Xa`Wn`^ robes~
+A set of robes with caelonian patterns upon it lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64402
+soryalis lady lances holy~
+`#`YS`yo`Xr`Wya`Xl`yi`Ys`^, `#`WL`Xad`Wy`^ of the `#`WL`ca`Cnc`ce`Ws`^~
+The `#`WHoly L`ca`Cn`cc`We`^ of the `#`YL`yi`Wg`yh`Yt`^ hovers here bathed in `#`WWhite F`Xl`Wam`Xe`Ws`^.~
+~
+5 256 4
+24 127 169 1312 0 0 0
+1 90000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64402 soryalis lady lances holy ~
+This sacred lance is very elegant in it's appearance. It's creation is made 
+entirely from the soul of the Maiden Soryalis. It gives off a Very bright 
+glow, although the artifact itself isn't blinding. The lance is fully 
+consumed in holy white flames, complete with a blade of solid light. It has 
+an engraving upon the blade that flickers in visibility like a dancing 
+flame: `1 `1 `#`C`-`c*`WM`Xay the `WL`Xight guide my `WB`Xlade and the `WL`Xove of `WL`Xife guide my `WH`Xands`c*`C`-`^ `1 `1 
+~
+#64403
+hardakin gentle spear unholy~
+`#`MH`ma`Xr`Sda`Xk`mi`Mn`^, the `#`WG`Xentl`We L`mo`Mr`Wd`^~
+The `#`SUnHoly `WS`mp`Me`ma`Wr`^ of the `#`MN`mi`Sg`mh`Mt`^ hovers here bathed in `#`SBlack F`Xl`Sam`Xe`Ss`^.~
+~
+5 16 4
+24 127 169 1312 0 0 0
+1 90000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64403 hardakin gentle unholy spear ~
+The massive spear before you gleams wickedly in your hands. You can't seem 
+to let go..nor even turn your eyes away from it. The weapon itself is made 
+out of the vile Hardakin and is darker then even the black flames that 
+consume it. It is devoid of all things holy and pure. The Spear hungers for 
+nothing but death.. it's voice haunts you..calling your name seductively. It 
+drains away any thought from your mind save the need to kill. You can feel 
+it drawing upon your life force. It thirsts for the blood of the holy. 
+Nothing else can satisfy it's unquenchable hunger. `1 `1 A closer look upon the massive blade of the spear as you momentarily break 
+from it's trance and `#`SYour Name appears Engraved upon It in Blood`^, just 
+another soul waiting to be claimed through death by the Gentle Lord.. 
+~
+#64404
+unicorn spiral horn~
+a `#`YS`yp`Yir`ya`Yl `YH`yor`Yn`^~
+The long `#`YS`yp`Yir`ya`Yl `YH`yor`Yn`^ of a `#`WU`Xn`Wico`Xr`Wn`^ glows here with `#`WHoly`^ power~
+~
+8 256 8
+0 0 0 0 0 0 0
+2 100000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64405
+vial unicorn blood~
+a `#`WV`Xial`^ of `#`WU`Xn`Wico`Xr`Wn`S'`Ws `XB`Sl`Xoo`Sd`^~
+A vial containing a precious silver fluid is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64406
+potion marriage avoidal change sex~
+a `#`mp`Wo`Xti`Wo`mn`^ of `#`mm`Ma`Wr`Xri`Wa`Mg`me `Ma`mv`Xo`Wi`Xd`ma`Ml`^~
+A `#`mp`Wo`Xti`Wo`mn`^ of `#`mm`Ma`Wr`Xri`Wa`Mg`me `Ma`mv`Xo`Wi`Xd`ma`Ml`^ is here ready to save your bootie!!~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64407
+potion marriage avoidal part two teleport~
+a `#`Cp`Wo`Xti`Wo`cn`^ of `#`cm`Ca`Wr`Sri`Wa`Cg`ce `Ca`cv`Woid`ca`Cl `YP`yar`Yt Two`R!!`^~
+A `#`Cp`Wo`Xti`Wo`cn`^ of `#`cM`CA`Wr`SrI`Wa`CG`ce `CE`cs`WCa`cp`CE`R!!`^~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64408
+gnomish device sling~
+a strange `#`?g`?n`Wo`gm`?i`cs`?h `Xd`?e`rv`Si`?c`Se`^~
+A strange gnomish device used to fling stuff is here.~
+~
+5 256 4
+22 17 25 128 0 0 0
+1 2600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64409
+tomatoe rotten~
+a `#`Gs`gl`Gi`gm`Gy `Sr`Xo`Stt`Xe`Sn `Rt`ro`Rma`Rt`ro`Re`^~
+A `#`Gs`gl`Gi`gm`Gy `Sr`Xo`Stt`Xe`Sn `Rt`ro`Rma`Rt`ro`Re`^ is here... Eww Gross!!~
+~
+44 0 32
+13 6 -1 0 0 0 0
+1 102 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64410
+stealthy dartgun~
+a `#`Sstealthy`^ dartgun~
+A dartgun that looks pretty stealthy is here.~
+~
+5 256 4
+21 17 25 136 0 0 0
+1 2600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64411
+a sharp dart~
+a `#`Ssharp`^ dart~
+A sharp dart lies here.~
+~
+44 0 32
+13 6 -1 0 0 0 0
+1 102 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64412
+prayer beads rosary venalena~
+a `#`Wb`Xe`Wad`Xe`Wd `Cr`cosar`Cy`^ to `#`CV`cenalena`^~
+A set of prayer beads with a figurine to the `#`WHoly `CM`cother`^ lies here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64413
+seandac holy figurine crusader~
+a `#`Wholy `Cf`cigurin`Ce`^ of `#`WS`Xeanda`Wc`^~
+A sacred figurine of the `#`WHoly C`Xrusade`Wr`^~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64414
+trickster jivanor fan female male folding~
+a `#`Wf`Xoldin`Wg f`Xa`Wn`^ depicting the `#`?Tr`?ic`?ks`?ter `gJi`yva`Ynor`^~
+A `#`Wf`Xoldin`Wg f`Xa`Wn`^ depicting the male, female aspects of the `#`?Tr`?ic`?ks`?ter `gJi`yva`Ynor`^ on each side.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64415
+white leather steel saddle~
+a `#`Ww`Xhite-`Ws`Xteel`^ and `#`yleather `Ws`Xa`Wdd`Xle`^~
+A saddle made of white-steel and leather is here.~
+~
+9 64 8
+10 10 19 0 0 0 0
+1 2160 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64416
+jivys jivanors hair delight bottle~
+a `#`YBottle`^ of `#`CJivy's Hair Delight`R!!`^~
+A `#`YBottle`^ of `#`CJivy's Hair Delight`R!!`^ Oooo.. what's it do??~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64417
+quiver dracolich hide~
+a `#`Sd`Xr`Wa`Xc`So`Xl`Wi`Xc`Sh-hide `Wq`Xu`Siv`Xe`Wr`^~
+A quiver made out of the hide of a dracolich is here.~
+~
+45 64 32
+1 0 50 50 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64418
+cambion hide leg quiver~
+a `#`Rc`ra`Smbi`ro`Rn`S-`Rh`rid`Re `rleg q`Xu`Siv`Xe`rr`^~
+A leg quiver made out of the hide of a cambion is here.~
+~
+45 64 32
+1 0 25 25 0 0 0
+1 1215 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64419
+belt leather steel white~
+a `#`Wb`Xelt`^ of `#`Ww`Xhite-`Ws`Xteel`^ and `#`yleather`^~
+A belt made of white-steel and leather is here.~
+~
+9 1 8
+10 10 15 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64420
+white steel gauntlets~
+a pair of `#`Ww`Xhite-`Ws`Xteel `Wg`Xauntlet`Ws`^~
+A pair of gauntlets made from white steel are here.~
+~
+9 256 8
+10 10 18 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64421
+steel white plated boots~
+a pair of `#`Ww`Xhite-`Ws`Xteel`^ plated `#`Wb`Xoot`Ws`^~
+A pair of boots plated with white-steel are here.~
+~
+9 256 8
+5 5 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64422
+white steel greaves plated~
+a pair of `#`Ww`Xhite-`Ws`Xteel`^ plated `#`Wg`Xreave`Ws`^~
+A pair of greaves made from plates of white steel are here.~
+~
+9 256 8
+5 5 17 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64423
+shoulder guards white steel plated~
+a pair of `#`Ww`Xhite-`Ws`Xteel`^ plated `#`Ws`Xhoulde`Wr-g`Xuard`Ws`^~
+A pair of shoulder-guards made from plates of white-steel are here.~
+~
+9 256 8
+5 5 19 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64424
+brigandine white steel breastplate plated~
+a `#`Ww`Xhite-`Ws`Xteel`^ plated `#`Wb`Xrigandin`We`^ breastplate~
+A brigandine breastplate made from plates of white-steel is here.~
+~
+9 256 8
+10 10 27 0 0 0 0
+2 5300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64425
+crested helm white steel~
+a `#`Wc`Xreste`Wd w`Xhite-`Ws`Xteel `Wh`Xel`Wm`^~
+A white-steel helm with a large crest is here.~
+~
+9 256 8
+10 10 16 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64426
+blue flowing cloak~
+a long, `#`Bf`blowing `Bc`bloak`^~
+A flowing blue silk cloak trimmed in gold is crumpled here.~
+~
+9 256 8
+10 10 18 0 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64427
+silk belt cord gold trimmed~
+a beautiful `#`Yg`yo`Yl`yd`S-`Xt`Wr`Xi`Wmm`Xed `Bs`bi`Xl`bk`^ cord~
+A long silk cord tied at the waist is here.~
+~
+9 256 8
+10 10 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64428
+golden armband~
+a `#`Yg`yo`Yld`ye`Yn a`yrm`Yb`yan`Yd`^~
+A golden armband is here glimmering in the light.~
+~
+9 256 8
+10 10 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64429
+silk gloves gold trimmed~
+a pair of `#`Yg`yo`Yl`yd`S-`Xt`Wr`Xi`Wmm`Xed `Bs`bi`Xl`bk`^ gloves~
+A pair of gold-trimmed silk gloves are here.~
+~
+9 256 8
+10 10 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64430
+gold trimmed silk boots~
+a pair of `#`Yg`yo`Yl`yd`S-`Xt`Wr`Xi`Wmm`Xed `Bs`bi`Xl`bk`^ boots~
+A pair of gold-trimmed silk boots are here.~
+~
+9 256 8
+5 5 14 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64431
+leggings gold trimmed silk~
+some `#`Yg`yo`Yl`yd`S-`Xt`Wr`Xi`Wmm`Xed `Bs`bi`Xl`bk`^ leggings~
+A pair of gold-trimmed silk leggings are here.~
+~
+9 256 8
+5 5 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64432
+gold high crested helm~
+a `#`Yg`yo`Yl`yd `Yh`yig`Yh`S-`Yc`yr`Ye`yste`Yd`^ helm~
+A golden helm with a high crest is here.~
+~
+9 256 8
+10 10 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64433
+gold trimmed silk clerical robes~
+a `#`Yg`yo`Yl`yd`S-`Xt`Wr`Xi`Wmm`Xed `Bs`bi`Xl`bk`^ cleric robe~
+A silk clerical robe trimmed in gold is here.~
+~
+9 256 8
+10 10 27 0 0 0 0
+2 5240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64434
+white steel axe double-bladed hand~
+a huge, `#`Wd`Xouble`S-`Wb`Xladed`^ hand axe~
+A huge, `#`Wd`Xouble`S-`Wb`Xladed`^ hand axe~
+~
+5 256 4
+3 17 25 8208 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64435
+two-handed battleaxe massive~
+a massive, `#`Wt`Xwo`S-`Wh`Xanded`^ battleaxe~
+A two-handed Dwarven axe is here.~
+~
+5 0 4
+23 17 25 12320 0 0 0
+2 5340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64436
+white leather tipped brass bull whip~
+a `#`Yb`yr`Ya`yss`^ tipped `#`Wwhite l`Xeather `Wb`Xullwhip`^~
+A white leather bullwhip tipped with brass lies here.~
+~
+5 1 4
+23 17 25 10240 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64437
+silver elven longsword sword ~
+a `#`Ws`Xi`Slv`Xe`Wr`^ elven `#`Wl`Xongswor`Wd`^~
+An elven longsword with a silver blade is here.~
+~
+5 256 4
+19 7 16 10240 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64438
+morning white steel star~
+a `#`Ww`Xhite`S-`Ws`Xteel `Smorning `Ws`Xta`Wr`^~
+A white-steel spiked ball connected by an iron chain to a handle is here.~
+~
+5 256 4
+21 3 27 10368 0 0 0
+1 1335 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64439
+brass tipped flail~
+a `#`Wf`Xlai`Wl`^ tipped with `#`yb`Yr`ya`Ys`ys`^~
+A flail with many heads tipped with shards of brass is here.~
+~
+5 256 4
+18 135 170 8320 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64440
+white steel knife~
+a `#`Ww`Xhite`S-`Ws`Xteel `Wk`Xnif`We`^~
+A sharp knife made of white-steel is here.~
+~
+5 256 4
+20 14 24 136 0 0 0
+1 2670 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64441
+javelin white steel ~
+a `#`yjavelin`^ tipped with `#`Ww`Xhite`S-`Ws`Xteel`^~
+A javelin with a sharpened tip of white-steel is stuck here in the ground.~
+~
+5 256 4
+22 14 24 8336 0 0 0
+1 1335 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64442
+white steel pike~
+a large `#`Ww`Xhite`S-`Ws`Xteel `Wp`Xik`We`^~
+A large, sharp polearm made entirely of white-steel is here.~
+~
+5 256 4
+23 17 25 8232 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64443
+shiny brass anklet~
+a shiny `#`yb`Yr`ya`Ys`ys`^ anklet~
+An shiny anklet made from brass is here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 480 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64444
+earcuff brass lion emblazoned~
+a `#`Rl`rion `We`Xmbl`Waz`Xone`Wd `yb`Yr`ya`Ys`ys e`Ya`yr`Yc`yu`Yf`yf`^~
+A brass earcuff emblazoned with a rampant lion is here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 780 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64445
+archers brace leather~
+an `#`Ga`grcher's `yleather `Gb`grac`Ge`^~
+A brace of hard leather used to protect an archer's arm is here.~
+~
+9 256 8
+10 10 10 0 0 0 0
+1 510 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64446
+bracelet golden~
+a `#`Yg`yo`Yld`ye`Yn b`yr`Ya`yc`Ye`yl`Ye`yt`^~
+A delicate golden bracelet is here radiating magic.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64447
+necklace golden garnet pendant~
+a `#`Yg`yo`Yld`ye`Yn `Wn`Ye`yc`Ykl`ya`Yc`We`^ holding a `#`Rg`rarne`Rt `Yp`Re`rnda`Rn`Yt`^~
+A beautiful golden necklace holding a garnet pendant is here.~
+~
+9 256 8
+10 10 10 2 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64448
+ring golden whitefire fire white white-fire~
+a `#`Yg`yo`Yld`ye`Yn r`yin`Yg`^ of `#`WWhite`S-`WF`Xi`Wr`Xe`^~
+A ring glows here, a golden band engulfed with pure white flames.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64449
+white feathered brass arrow~
+a `#`Wwhite`S-`Wf`Xea`Wthe`Xre`Wd `yb`Yr`yass a`Yr`yro`Yw`^~
+A long brass arrow fletched with white feathers lies here.~
+~
+44 256 32
+20 3 -1 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64450
+blue feathered iron arrow~
+a `#`Bb`blu`Be`S-`Bf`bea`Bthe`bre`Bd `Siron a`Xr`Sro`Xw`^~
+A long iron arrow fletched with blue feathers lies here.~
+~
+44 256 32
+20 3 -1 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64451
+shield targe round combat~
+the `#`BT`barge`^ of `#`YC`yo`bmb`ya`Yt`^~
+A huge targe lies here on the ground.~
+~
+9 256 8
+60 60 23 0 0 0 0
+3 11200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64451 'shield targe round combat'~
+This huge round targe is made specifically for defense. It's size and shape 
+makes it ideal for agility and stealth. One section of it's round outer rim 
+is cut into a somewhat inverted crescent, giving the shield two sharp points 
+and a small space for sight while doing shield maneuvers. Emblazoned are 
+sharp bone-like studs, ideal for and protecting against bashing. 
+~
+#64452
+white oak shortbow bow~
+a `#`Wwhite oak s`Xhortbo`Ww`^~
+A sturdy shortbow made of white oak is here.~
+~
+5 256 4
+20 7 16 8576 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64453
+yew longbow bow~
+a large `#`Yy`yew `Yl`yongbow`^~
+A heavy longbow made of yew is here.~
+~
+5 256 4
+21 17 25 8336 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64454
+willow bow longbow~
+a `#`Yw`yi`Yll`yo`Yw `Wl`Xon`Wg `Sbow`^~
+A uniquely crafted willow longbow lies here.~
+~
+5 256 4
+17 14 24 8576 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64455
+scribbled note small~
+a scribbled note~
+The torn edge of a note thats been messily scribbled on is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 2340 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64456
+packet lyfern~
+a `#`yp`Xa`yck`Xe`yt`^ of `#`Gl`gyfer`Gn`^~
+A packet of crushed lyfern is here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64457
+pouch rashji~
+a small `#`yp`wo`yu`wc`yh`^ of `#`CR`ga`Cs`Gh`gj`Ci`^~
+A small `#`yp`wo`yu`wc`yh`^ of `#`CR`ga`Cs`Gh`gj`Ci`^ lies here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64458
+carved wooden stake~
+a `#`Sc`Xa`rr`Sv`Xe`rd `ywooden`^ stake~
+A `#`Sc`Xa`rr`Sv`Xe`rd `ywooden`^ stake lies here stuck in the ground.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64459
+lion brigandine plate brass~
+a `#`Rl`rion `We`Xmb`Wlaz`Xo`Wn`Xe`Wd `yb`Yr`yi`Yg`ya`Yn`yd`Yin`ye`^ plate~
+A set of brass brigandine plates hover here in one complete torso-piece.~
+~
+9 256 8
+60 60 23 0 0 0 0
+3 98800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64459 lion brigandine plate brass ~
+A red, rampant lion emblazes the center of these brass brigandine plates. 
+They piece together to form a sturdy, solid torso-piece. Each plate is 
+crafted with expert hands, kept together and reinforced by a layer of 
+mithril backing. Only the dwarves could have crafted such an artifact. It's 
+maker is yet still unknown. It's quality unmatched. 
+~
+#64460
+fly fishing pole~
+a `#`Wf`Xly `Wf`Xishin`Wg `Spole`^~
+A fly fishing pole lies here.~
+~
+43 0 32
+0 0 0 0 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64461
+crystalline flask holy blessed water holywater~
+a `#`Wc`Xr`cy`Cs`Mt`ma`Ml`Cl`ci`Xn`We f`Xlas`Wk`^ of `#`Wholy `Cw`ca`Ct`ce`Cr`^~
+A crystalline flask of holy water swirls here warding off vampires.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64462
+glass vial lycan bane silver~
+a `#`Wg`Xl`Wa`Xss `Wf`Xlas`Wk`^ of `#`Cl`Sycan-`Cb`Sane`^~
+A glass flask of ground wolvesbane and silver is here warding off lycans.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64463
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64464
+vial sanct sanctuary blessed~
+a `#`Wb`Xle`Wss`Xed `Wv`Xia`Wl`^ of `#`Ws`Xanctuary`^~
+A vial of sanctuary blessed by Lizellia is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64465
+vial dragonic reflexes haste power~
+a `#`Wv`Xia`Wl`^ of `#`Wd`Gr`ga`Ggo`gn`Gi`Wc r`Xe`Wfl`Xe`Wx`Xes`^~
+A vial containing dragon-like speed and strength is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64466
+vial venom resistance poison~
+a small `#`Wv`Xia`Wl`^ of `#`Sv`Ge`gn`Go`Sm `Wr`Xe`Wsis`Xta`Wn`Xce`^~
+A vial filled with a frothy greenish-yellow substance is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64467
+vial elemental protection~
+a `#`Wv`Xia`Wl`^ of `#`We`Yl`ye`Rm`re`Bn`bt`Ma`ml `Wp`Xro`Wtect`Xio`Wn`^~
+A vial that protects against elemental assaults glows here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64468
+parchment letter note~
+a `#`Wp`Xarchmen`Wt`^~
+A piece of parchment lies here.~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64469
+metal steel claw~
+a `#`Xm`Setal c`Xl`ra`Sw`^~
+A `#`Xm`Setal c`Xl`ra`Sw`^ that extends from one's arm gleams here.~
+~
+5 16 4
+19 116 152 10312 0 0 0
+1 8500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64470
+staff withering obsidian~
+the `#`Sobs`Xi`Sd`Xi`San S`gta`Sf`gf`^ of `#`gw`Gi`Yt`yh`re`yr`Yi`Gn`gg`^~
+The `#`Sobs`Xi`Sd`Xi`San S`gta`Sf`gf`^ of `#`gw`Gi`Yt`yh`re`yr`Yi`Gn`gg`^ hovers here decaying the ground about it.~
+~
+5 256 4
+22 108 151 4256 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64471
+touch death everlasting hunger ravenous aura famine~
+the `#`ST`Xo`Su`Xc`Sh`^ of `#`SE`Xv`ye`Yr`Xl`Sa`Xs`Yt`yi`Xn`Sg `WF`Xa`Wmi`Xn`We`^~
+`#`ST`Xo`Su`Xc`Sh`^ of `#`SE`Xv`ye`Yr`Xl`Sa`Xs`Yt`yi`Xn`Sg `WF`Xa`Wmi`Xn`We`^ hovers here bringing death by ravenous hunger.~
+~
+5 256 4
+13 127 169 144 0 0 0
+2 120040 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64472
+touch death unforgiving thirst dehydration ravenous unquenching aura~
+the `#`ST`Xo`Su`Xc`Sh`^ of `#`SU`Xn`cf`Co`Xr`Sg`Xi`Cv`ci`Xn`Sg `WT`Xh`Wir`Xs`Wt`^~
+The `#`ST`Xo`Su`Xc`Sh`^ of `#`SU`Xn`cf`Co`Xr`Sg`Xi`Cv`ci`Xn`Sg `WT`Xh`Wir`Xs`Wt`^ hovers here bringing death by ravenous, unquenching thirst.~
+~
+5 256 4
+13 127 169 144 0 0 0
+2 120040 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64473
+set brass backplates~
+a set of `#`yb`Yr`ya`Yss `yb`Ya`yc`Ykp`yla`Yte`ys`^~
+A set of backplates hover here in place as if someone were wearing it.~
+~
+9 256 8
+60 60 23 0 0 0 0
+1 2160 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64474
+runes master magus~
+`#`?R`?u`bn`?e`bs`^ of the `#`BM`baster `BM`ba`mgu`bs`^~
+There is a glove here enscribed with the runes concocted together by a master magus.~
+~
+5 256 4
+14 127 169 10 0 0 0
+2 23000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64475
+half1 broken left obsidian1 emblem1~
+a broken half of an `#`Sobs`Xi`Sd`Xi`San `re`Smblem`^~
+The left piece of an obsidian emblem lies here tainting the ground around it.~
+~
+46 16 32
+64475 64477 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64476
+half2 missing right obsidian2 emblem2~
+a missing half of an `#`Sobs`Xi`Sd`Xi`San `re`Smblem`^~
+The right piece of an obsidian emblem lies here tainting the ground around it.~
+~
+46 16 32
+64475 64477 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64477
+obsidian emblem~
+an `#`Sobs`Xi`Sd`Xi`San `re`Smblem`^~
+The obsidian emblem lies here tainting the ground around it.. it's gem is missing.~
+~
+46 16 32
+64477 64481 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64478
+torso red1 dragon1 gem1 garnet1 head upper~
+the `#`Rg`rarnet `Rh`read`^ and `#`Rt`rorso`^ of a `#`Rd`rragon`^~
+The elegant head and torso of a garnet intori dragon gleams here.. it's missing it's lower half.~
+~
+46 16 32
+64478 64480 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64479
+tail red2 dragon2 gem2 garnet2 lower body~
+the `#`Rg`rarnet `Rt`rail`^ and `#`Rb`rody`^ of a `#`Rd`rragon`^~
+The elegant tail and lower body of a garnet intori dragon gleams here.. it's missing it's upper half.~
+~
+46 256 32
+64478 64480 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64480
+garnet serpentine dragon~
+a `#`Rs`rer`Rp`ren`Rt`rine `Rg`rarnet `Rd`rragon`^~
+A dragon carved of garnet is circling and devouring itself with greed.. it is missing something.~
+~
+46 256 32
+64477 64481 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64481
+amulet garnet obsidian~
+a `#`Rd`rragon`^ inset an `#`Sobs`Xi`Sd`Xi`San am`Xu`Sl`Xe`St`^~
+A garnet dragon devouring itself is inset within an obsidian amulet.. it appears to be missing something.~
+~
+46 256 32
+64481 64485 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64482
+broken1 blade half1~
+a broken `#`Sb`Xl`Sack-st`Xee`Sl b`Xl`Sade`^~
+A broken black-steel blade is here... it's missing it's pommel.~
+~
+46 16 32
+64482 64484 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64483
+rusty pommel~
+a `#`rr`yu`rsty `Sblack p`Xo`Smm`Xe`Sl`^~
+A rusty pommel with a sharded blade lies here.~
+~
+46 256 32
+64482 64484 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64484
+sword rusty broadsword~
+a `#`rr`yu`rsty `Ss`Xp`Wik`Xe`Sd b`Xro`Sad`Xsw`So`Xr`Sd`^~
+A magnificent broadsword rusts here with lack of attention... it's missing something..~
+~
+46 256 32
+64481 64485 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64485
+black claymore thunder haze sword~
+a `#`SB`Xl`Sack C`Xla`Sym`Xo`Sre`^ named, '`#`rT`Sh`yu`Ynd`ye`Sr-`rH`Sa`yz`Se`^'~
+The mighty `#`rT`Sh`yu`Ynd`ye`Sr-`rH`Sa`yz`Se`^ humms here chaotically.~
+~
+5 256 4
+23 3 44 14336 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64485 black claymore thunder haze sword ~
+The mighty ethereal blade before you hums chaotically. The sword itself was 
+born from the cries and wails of both grief and despair caused by the 
+suffering of the innocents. The blade itself is erratic. It never sits in 
+one place as it hums quietly to itself. It flickers with the lesser 
+movements of your hand.. and wails it's screams, writhing about it's 
+somewhat translucent sword-form with dynamic movements. It's pommel is red 
+velvet laced with golden etchings. Upon it is a garnet amulet of a 
+serpentine dragon devouring itself in agony. `1 `1 The Blade whispers with the soft voice of a sobbing mother: `1 `rI `Sa`ym t`Yhe S`ywo`Srd t`rh`Sa`yt s`Yt`yo`Sps `rt`She `rT`Sy`yr`Yan`yt`Ss a`rn`Sd p`yr`Yot`yec`St`rs `St`yh`Se `rI`Sn`yn`Yoce`yn`St.`^ `1 `1 
+~
+#64486
+gold flecked oak pipe~
+a `#`Yg`yo`Yl`yd`S-`Yf`Sl`rec`Yk`re`Yd `So`rak`^ pipe~
+An oak pipe flecked with gold lies here.~
+~
+42 256 32
+200 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64486 gold flecked oak pipe ~
+The pipe glimmers as light dances of it beautifully. The pipe is carved into 
+the likeness of a coiling serpent. The gold is veined into the wood of the 
+pipe and smoothed down to perfection. The oak gleams with a regal shine. 
+~
+#64487
+golden sphinx figurine~
+a `#`Yg`yo`Yld`ye`Yn s`yph`Yi`yn`Yx f`yi`Yg`yur`Yi`yn`Ye`^~
+A figurine of a golden sphinx is here protecting the answer to a long forgotten riddle.~
+~
+18 256 16
+0 0 0 0 0 0 0
+1 56700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64488
+barstool stool bar~
+a barstool~
+Some barstools are here by the counter.~
+~
+12 0 8
+10000 1168 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64489
+orc sized pint beer~
+an `#`ro`Src-`rs`Sized `rp`Sint`^ of `#`Wb`yee`Wr`^~
+An orcish sized pint of beer froths here.~
+~
+17 0 16
+150 1 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64490
+orc sized pint dark ale~
+an `#`ro`Src-`rs`Sized `rp`Sint`^ of `#`yd`rark `ya`rle`^~
+An orcish sized pint of dark ale froths here.~
+~
+17 0 16
+150 4 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64491
+orc sized pint vodka~
+an `#`ro`Src-`rs`Sized `rp`Sint`^ of `#`Wv`Xodka`^~
+An orcish sized pint of vodka froths here.~
+~
+17 0 16
+150 23 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64492
+orc sized pint bloodwine~
+an `#`ro`Src-`rs`Sized `rp`Sint`^ of `#`Rb`rlood`Rw`rine`^~
+An orcish sized pint of bloodwine froths here.~
+~
+17 0 16
+150 37 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64493
+orc sized pint absinthe~
+an `#`ro`Src-`rs`Sized `rp`Sint`^ of `#`Wa`Xbs`Wi`Xnth`We`^~
+An orcish sized pint of absinthe froths here.~
+~
+17 0 16
+150 26 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64494
+orcish drinking flask~
+an `#`ro`Srcish `Wd`Xrinkin`Wg `rf`Slask`^~
+An orc-sized drinking flask is here hanging off a long strap.~
+~
+17 0 16
+300 7 0 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64495
+roast chicken whole~
+a `#`Ww`Xhol`We `yroast chicken`^~
+A whole roast chicken steams here on a platter.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64496
+roast mutton lamb~
+a platter of `#`Ws`Xteam`Wy `yroast mutton`^~
+A platter of steamy roast mutton is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64497
+buttered lobster~
+a `#`Yb`yu`Xtter`ye`Yd `rlobster`^~
+A platter of a steamy buttered lobster is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64498
+almond stuffed plums~
+some `#`yalmond `Ws`Xtuffe`Wd `mplums`^~
+A delicious bowl of almond stuffed plums are here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64499
+sweet dates~
+some `#`Ys`yw`Yee`yt dates`^~
+A delicious bowl of sweet dates is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64500
+porcelain cup tea~
+a `#`Wp`Xor`Wcel`Xai`Wn `Xcup`^ of `#`Gt`gea`^~
+A porcelain cup of green tea sits here.~
+~
+17 0 16
+10 47 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64501
+porcelain cup tea~
+a `#`Wp`Xor`Wcel`Xai`Wn `Xcup`^ of `#`rt`yea`^~
+A porcelain cup of spiced tea sits here.~
+~
+17 0 16
+10 46 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64502
+golden harp beautiful~
+a `#`Wb`Xea`Wuti`Xfu`Wl `Yg`yo`Yld`ye`Yn`^ harp~
+A `#`Wb`Xea`Wuti`Xfu`Wl `Yg`yo`Yld`ye`Yn`^ harp is lying here.~
+~
+16 256 16
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64503
+elegant oak violin~
+an `#`We`Xle`Wga`Xn`Wt `So`rak `Sv`riolin`^~
+An `#`We`Xle`Wga`Xn`Wt `So`rak `Sv`riolin`^ lies here.~
+~
+16 256 16
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64504
+carved guitar~
+a `#`Sc`yar`rve`yd g`yu`ri`ytar`^~
+A `#`Sc`yar`rve`yd g`yu`ri`ytar`^ is here leaning against something.~
+~
+16 256 16
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64505
+spicy hot wings special~
+a dozen `#`Rsp`ri`Rcy w`ring`Rs`^ coated in `#`rspecial sauce`^~
+A dozen `#`Rsp`ri`Rcy w`ring`Rs`^ coated in `#`rspecial sauce`^ makes your eyes water up with it's spice.~
+~
+19 0 16
+30 0 2 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64506
+lucky ukulele~
+a `#`Wl`Cu`cc`Ck`Wy u`Xk`cu`Cl`ce`Cl`We`^~
+A `#`Wl`Cu`cc`Ck`Wy u`Xk`cu`Cl`ce`Cl`We`^ sits here merrily.~
+~
+16 256 16
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64507
+tables table chair chairs~
+a chair at a table~
+There are many chairs by several different tables here.~
+~
+12 0 8
+50000 2336 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64508
+canopy bed feather~
+a `#`?c`?anopy `Wf`Xea`Wth`Xer`Wb`Xe`Wd`^~
+A `#`?c`?anopy `Wf`Xea`Wth`Xer`Wb`Xe`Wd`^ centers the room here.~
+~
+12 0 8
+10000 2194 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64509
+conference table black buisness~
+a `#`Sblack t`Xa`Sb`Xl`Se`^~
+A long `#`Sblack, conference t`Xa`Sb`Xl`Se`^ for buisness is here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64510
+cabinet~
+a `#`Sblack cabinet`^~
+A `#`Sblack cabinet`^ is here on the wall.~
+~
+15 0 8
+5 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64511
+stone marble base~
+the `#`Wm`Xar`Wbl`Xe `Wb`Xa`Wse`^~
+~
+~
+15 0 8
+5 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64512
+marble fountain~
+the `#`Wm`Xar`Wbl`Xe `Wf`Xou`Wn`Xt`Wai`Xn`^~
+A beautiful `#`Wm`Xar`Wbl`Xe `Wf`Xou`Wn`Xt`Wai`Xn`^ sits here.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64512 fountain marble base white ~
+A beautiful fountain sits here in the center of the gardens. It's huge. It 
+depicts a fair maiden sitting side-saddle upon a rearing unicorn stallion. 
+Her right hand is lowered toward the basin where others try to rise and 
+reach her. Her left hand wields the Spear of Legend. `1 `1 Engraved on the base are the words: `1 `1 `#`S`-*`WS`Xoryalis, `WL`Xady of the `WL`Xances`S*`-`^ 
+~
+#64513
+long wooden bench~
+a long wooden bench~
+A long wooden bench.~
+~
+12 0 8
+10000 9360 110 110 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64513 long wooden bench~
+This bench is crafted from oak wood and is finely made.  It is long enough to support four
+people confortably, and looks quite strong.
+~
+#64514
+half1 golden1 left cup1 chalice1~
+the left half of a `#`Yg`yo`Yld`ye`Yn c`yha`Yli`yc`Ye`^~
+The left half of a sacred chalice is here.~
+~
+46 256 32
+64514 64516 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64515
+half2 golden2 right cup2 chalice2~
+the right half of a `#`Yg`yo`Yld`ye`Yn c`yha`Yli`yc`Ye`^~
+The right half of a sacred chalice is here.~
+~
+46 256 32
+64514 64516 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64516
+golden chalice sacred~
+a `#`Yg`yo`Yld`ye`Yn c`yha`Yli`yc`Ye`^~
+The sacred chalice restored, is here.~
+~
+18 256 16
+0 0 0 0 0 0 0
+1 23350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64517
+glass mug brew tanns~
+a `#`Wg`Xlass`^ mug of `#`WT`Xann's `WB`Xrew`^~
+A glass mug of filled to the brim is here.~
+~
+17 0 16
+4 28 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64518
+glass mug rum~
+a `#`Wg`Xlass`^ mug of `#`yrum`^~
+A large glass mug filled to the brim with rum is here.~
+~
+17 0 16
+5 4 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64519
+tombstone~
+a well-kept `#`Xtombstone`^~
+A well-kept `#`Xtombstone`^ is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64519 tombstone stone ~
+A small tombstone is here. It appears to be very well kept up. Upon closer 
+inspection, it has a large enscription: `1 `1                        `#`SReube La'Bounty `1                        Died in the year 153 `1 `1     `^`#`rOmg..it's darker in here then I thought it would be..!`^ `1 `1 There are pretty flowers left on the grave. 
+~
+#0
+
+
+#ROOMS
+#64512
+The West Wing~
+~
+A soft whisper continues the story.. She spent time in agony and grief when 
+his downfall caused nothing but chaos. She swore to do nothing but defend 
+those who needed to be defended.. but in the end she was struck down not by 
+Hardakin.. but by the Sword.. the Haze. 
+~
+1 4 0
+R M 0 64431 1 64512
+  R E 0 64514 0 17
+S
+#64513
+The East Wing~
+~
+A soft voice finishes the story with a saddened tone.. Upon the demise of 
+herself and her beloved husband, the Haze broke.. before her last breath she 
+took the pommel to prevent any from assembling it again. Her spirit rests 
+now within her holy lance. A light to the world. 
+~
+1 4 0
+R M 0 64432 1 64513
+  R E 0 64515 0 17
+S
+#64514
+a hiking trail~
+~
+You find yourself on a hearty, well worn path. Many seem to come and go 
+wearing their fishing gear and such. Some walk by holding picnic baskets and 
+such. Others are simply doing brisk walking. The air is nice and fresh here. 
+
+~
+1 33554432 15
+D3
+~
+~
+0 0 64519
+S
+#64515
+a fishing spot~
+~
+The picnic ground is rather nice here. The lake is rather full of fish. The 
+setting makes this spot an ideal place for fishing. The water ebs and flows 
+gently as the wind blows. 
+~
+1 33554432 3
+D0
+~
+~
+0 0 64517
+D6
+~
+~
+0 0 64519
+S
+#64516
+a picnic area~
+~
+The picnic area is beautiful. The grass is very green. There are several 
+trees here as well that serve as the ideal place for playing hide and go 
+seek. Flowers grow all about the place. 
+~
+1 33554432 3
+D2
+~
+~
+0 0 64517
+D7
+~
+~
+0 0 64519
+S
+#64517
+a hiking trail~
+~
+You find yourself on a hearty, well worn path. Many seem to come and go 
+wearing their fishing gear and such. Some walk by holding picnic baskets and 
+such. Others are simply doing brisk walking. The air is nice and fresh here. 
+
+~
+1 33554432 15
+D0
+~
+~
+0 0 64516
+D1
+~
+~
+0 0 64519
+D2
+~
+~
+0 0 64515
+D3
+~
+~
+0 0 64518
+S
+#64518
+a picnic area~
+~
+The picnic area is beautiful. The grass is very green. There are several 
+trees here as well that serve as the ideal place for playing hide and go 
+seek. Flowers grow all about the place. 
+~
+1 0 3
+D1
+~
+~
+0 0 64517
+S
+#64519
+a hiking trail~
+~
+You find yourself on a hearty, well worn path. Many seem to come and go 
+wearing their fishing gear and such. Some walk by holding picnic baskets and 
+such. Others are simply doing brisk walking. The air is nice and fresh here. 
+
+~
+1 33554432 15
+D1
+~
+~
+0 0 64514
+D3
+~
+~
+0 0 64517
+D8
+~
+~
+0 0 64515
+D9
+~
+~
+0 0 64516
+S
+#0
+
+
+#SHOPS
+ 64408    0  0  0  0  0   100  75         0 23    ; the Gnomish Inventor, Ziflic
+ 64409    9  9 11  0  0   100  75         0 23    ; the Armorist Zerle
+ 64410    5  6  7  0  0   100  75         0 23    ; the Weaponsmith Kashar
+ 64411    0  0  0  0  0   100  75         0 23    ; the Manager Anyia
+ 64412    0  0  0  0  0   100  75         0 23    ; the Archer Yikil
+ 64413    8 30 32 33  0   100  75         0 23    ; the Jeweler Rhiozia
+ 64414    0  0  0  0  0   100  75         0 23    ; the Courier Dumaki
+ 64415    0  0  0  0  0   100  75         0 23    ; the elderly cleric Kiama
+ 64421    0  0  0  0  0   100  75         0 23    ; the Barkeep Gromo
+ 64422    0  0  0  0  0   100  75         0 23    ; an elven waitress
+ 64428    0  0  0  0  0   100  75         0 23    ; the Barkeep Tannick
+ 64429    0  0  0  0  0   100  75         0 23    ; the Musician Ruzzie
+ 64434    0  0  0  0  0   105 100         0 23    ; the Banker
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

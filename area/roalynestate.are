@@ -1,0 +1,545 @@
+#AREA        The Red Wanderer~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#25400
+gate guardian~
+a large guard~
+A large guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained. He is wearing the insignia 
+of his master on his tunic. 
+~
+0
+clanname none~
+0
+0
+65 128 600 C
+95 2 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#25400
+bunkbed~
+a bunkbed~
+A bunkbed rests here.~
+~
+12 0 8
+4000 4056 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25400 bunkbed bed~
+Twin bunkbeds are here aligned on either wall. They are made of feathers and 
+seem quite inviting with white, woolen blankets. 
+~
+#25401
+poker table~
+a poker table~
+A poker table rests here.~
+~
+12 0 8
+6000 72 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25401 poker table~
+A pokertable covered in pokerchips and an always seemingly unfinished game 
+is here. The table is low enough to sit comfortably on the floor if need be. 
+
+~
+#25402
+some candles~
+some candles~
+Some Candles~
+~
+1 0 1
+0 -1 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25402 candle ~
+Some white candles rest atop the poker table eminating a gentle glow. 
+~
+#25403
+large feather bed with black silk sheets~
+a large feather bed with black silk sheets~
+A large feather bed with black silk sheets rests here.~
+~
+12 0 8
+4000 3504 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25403 large feather bed black sheets~
+Before you is a large feather bed with black silk blankets. Resting atop the 
+thick sheets is a deep grey wolf-pelt. 
+~
+#25404
+carved wooden desk~
+a carved wooden desk~
+A carved wooden desk rests here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25404 carved wooden desk~
+A series of maps and star charts riddle a beautifully carved desk. On the 
+desk is a drawer filled with parchments, inkwells and a quill pen. The 
+intricate carvings of wolves are sister depictions of those upon the 
+armoire. 
+~
+#25405
+footchest~
+a footchest~
+A footchest sits here.~
+~
+15 0 8
+5 0 1000 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25405 footchest ~
+Located at the foot of the bed, this little footchest appears to hold 
+various garments and such. 
+~
+#25406
+armoire~
+an armoire~
+An armoire is sitting here.~
+~
+15 0 8
+5 0 1000 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25406 armoire ~
+Within the armoire are a series of collected weapons. Maces, Hammers,Swords 
+and even Whips don the interior. Upon the exterior is a small rack that 
+holds both polearms and spears. The intricated carvings of wolves are sister 
+carvings of those upon the desk. 
+~
+#25407
+barrel of water~
+a barrel of water~
+A barrel of water rests here.~
+~
+17 0 16
+-1 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25407 barrel of water~
+Here is a very Large barrel of water, used mainly for long sea courses. 
+Enchanted as it is, the barrel never appears to emtpy. 
+~
+#25408
+carved steering wheel~
+a carved steering wheel~
+A carved steering wheel sits here.~
+~
+48 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+25408 _TRAVEL~
+Waves lap against the ship as it sails across the water.~
+E
+25408 _TRAVEL~
+Waves lap against the ship as it sails across the ocean.~
+E
+25408 _TRAVEL~
+Waves lap against the ship as it glides through the ocean.~
+E
+25408 carved Steering Wheel~
+Standing here proudly is the wheel to steer the mighty ship. Weatherbeaten 
+and worn, it remains as strong as ever in an intricate wheel. Upon the wheel 
+are carven images of wolves and the moon phases. 
+~
+#25409
+treasury key~
+`#`WZana's `Ytreasury key`^~
+`#`WZana's `Ytreasury key`^~
+~
+31 128 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#25410
+rope ladder~
+a rope ladder~
+A large rope ladder leading off the ship is here.~
+~
+50 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#25411
+captain chair~
+the `#`yCaptain's `yChair`^~
+A large wooden chair with the words "`#`YCaptain`^" engraved on the back is here.~
+~
+12 0 8
+10000 1170 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#25400
+Bow of the Ship~
+~
+Here, upon the bow is the carved image of a snarling or howling wolf. 
+Somewhat carved in the style of a viking ship, the head acts as the head of 
+the ship staring forth into adventures. Blazing behind the head, donned upon 
+the masts are crimson sails that glow with the suns rays defiantly. Proudly. 
+Almost as if master of the seas itself. 
+~
+1 33554432 18
+D7
+~
+~
+0 0 25402
+D8
+~
+~
+0 0 25401
+R O 0 25410 0 25400
+R M 0 25400 3 25400
+S
+#25401
+Deck of the Ship~
+~
+Upon this deck stands a strong balistae armed with pronged harpoons. The 
+deck itself is swabbed clean, compliments of the crew. The ocean view along 
+with the nice sea breeze is almost addicting and intoxicating. 
+~
+1 33554432 18
+D1
+~
+~
+0 0 25402
+D2
+~
+~
+0 0 25403
+D6
+~
+~
+0 0 25400
+D7
+~
+~
+0 0 25404
+S
+#25402
+Deck of the Ship~
+~
+Upon this deck stands a strong balistae armed with pronged harpoons. The 
+deck itself is swabbed clean, compliments of the crew. The ocean view along 
+with the nice sea breeze is almost addicting and intoxicating. 
+~
+1 33554432 18
+D2
+~
+~
+0 0 25404
+D3
+~
+~
+0 0 25401
+D8
+~
+~
+0 0 25403
+D9
+~
+~
+0 0 25400
+S
+#25403
+Deck of the Ship~
+~
+Upon this deck stands a strong balistae armed with pronged harpoons. The 
+deck itself is swabbed clean, compliments of the crew. The ocean view along 
+with the nice sea breeze is almost addicting and intoxicating. 
+~
+1 33554432 18
+D0
+~
+~
+0 0 25401
+D1
+~
+~
+0 0 25404
+D5
+~
+~
+33 25409 25409
+D6
+~
+~
+0 0 25402
+D7
+~
+~
+0 0 25405
+S
+#25404
+Deck of the Ship~
+~
+Upon this deck stands a strong balistae armed with pronged harpoons. The 
+deck itself is swabbed clean, compliments of the crew. The ocean view along 
+with the nice sea breeze is almost addicting and intoxicating. There is also 
+a hatch that leads down below to the bottom of the ship centered here. It 
+seems to be used often. 
+~
+1 33554432 18
+D0
+~
+~
+0 0 25402
+D3
+~
+~
+0 0 25403
+D5
+~
+~
+0 0 25406
+D8
+~
+~
+0 0 25405
+D9
+~
+~
+0 0 25401
+S
+#25405
+Stern of the Ship~
+~
+As you stand upon the back deck of this sleek ship, a beautiful schene is 
+before and all around you. Ahead of you are deep crimson sails that burn 
+when the sun shines brightest. The steering wheel almost beckons you to test 
+the mobility of the ship. The sea air blows in your hair, peaceful when the 
+oceans are calm. Treacherous and wild when the oceans keep you to her mercy. 
+
+~
+1 33554432 18
+D6
+~
+~
+0 0 25404
+D9
+~
+~
+0 0 25403
+R O 0 25408 0 25405
+R O 0 25411 0 25405
+S
+#25406
+Lower Deck of the Ship~
+~
+Here you've entered the second deck, glancing around you see its mainly used 
+for storage. Barrels of rum, and water along with a barrel or two of food. 
+The ship appears well prepared for any sort of adventure upon which the 
+Captain dares take. 
+~
+1 33554440 18
+D3
+~
+~
+0 0 25407
+D4
+~
+~
+0 0 25404
+D8
+~
+~
+0 0 25408
+R O 0 25407 0 25406
+S
+#25407
+Lower Deck of the Ship~
+~
+Here be the crew's quarters. Not shabby or threadbare, the room has several 
+beds lined up. Spaced enough where ever crew member's got enough personal 
+space. A poker table with some candles tell stories of late night games and 
+gambles. The room is lit nicely with some torches upon either wall. 
+~
+1 33554440 18
+D1
+~
+~
+0 0 25406
+R O 0 25400 0 25407
+R O 0 25401 0 25407
+R O 0 25402 0 25407
+S
+#25408
+Lower Deck of the Ship~
+~
+Here you've entered the second deck, glancing around you see its mainly used 
+for storage. Barrels of rum, and water along with a barrel or two of food. 
+The ship appears well prepared for any sort of adventure upon which the 
+Captain dares take.
+~
+1 33554440 18
+D6
+~
+~
+0 0 25406
+S
+#25409
+Captain's Lodge~
+~
+Here is the Captain's lodge. Four torches light the room to a gentle glow, 
+two posted on either side of the door, and the other two directly across 
+from the entrance on either side of an enormous bed. The bed is decorated 
+with black silk blankets and a grey fur pelt. To the west of the entrance is 
+a large wooden desk. To the east is a beautifully carved armoire. At the 
+foot of the bed is a lovely foot chest. The room appears roomy with a 
+beautiful view of the ocean through windows on either side of the bed beside 
+the torches. 
+~
+1 34078728 18
+D4
+~
+door~
+33 25409 25403
+R O 0 25403 0 25409
+R O 0 25406 0 25409
+R O 0 25405 0 25409
+R O 0 25404 0 25409
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

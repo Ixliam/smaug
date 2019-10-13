@@ -1,897 +1,898 @@
-/*****************************************************
-**     _________       __                           **
-**     \_   ___ \_____|__| _____  ________  ___     **
-**      /    \  \/_  __ \ |/     \/  ___/_ \/   \   **
-**      \     \___|  | \/ |  | |  \___ \  / ) |  \  **
-**       \______  /__| |__|__|_|  /____ \__/__|  /  **
-**         ____\/____ _        \/ ___ \/      \/    **
-**         \______   \ |_____  __| _/___            **
-**          |    |  _/ |\__  \/ __ | __ \           **
-**          |    |   \ |_/ __ \  / | ___/_          **
-**          |_____  /__/____  /_  /___  /           **
-**               \/Antipode\/  \/    \/             **
-******************************************************
-**         Crimson Blade Codebase (CbC)             **
-**     (c) 2000-2002 John Bellone (Noplex)          **
-**           Coders: Noplex, Krowe                  **
-**        http://www.crimsonblade.org               **
-*****************************************************/
+/***************************************************************************
+ *                                                                         *
+ *   .oOOOo.    o                                        o                 *
+ *  .O     o   O                             o          O                  *
+ *  o          o                                        o                  *
+ *  o          O                                        O                  *
+ *  o          OoOo.  `OoOo.  .oOo.  'OoOo.  O   .oOo   o   .oOo.  .oOo    *
+ *  O          o   o   o      O   o   o   O  o   O      O   OooO'  `Ooo.   *
+ *  `o     .o  o   O   O      o   O   O   o  O   o      o   O          O   *
+ *   `OoooO'   O   o   o      `OoO'   o   O  o'  `OoO'  Oo  `OoO'  `OoO'   *
+ *                                                                         *
+ ***************************************************************************
+ * - Chronicles Copyright 2001-2003 by Brad Ensley (Orion Elder)           *
+ ***************************************************************************
+ * - SMAUG 1.4  Copyright 1994, 1995, 1996, 1998 by Derek Snider           *
+ * - Merc  2.1  Copyright 1992, 1993 by Michael Chastain, Michael Quan,    *
+ *   and Mitchell Tse.                                                     *
+ * - DikuMud    Copyright 1990, 1991 by Sebastian Hammer, Michael Seifert, *
+ *   Hans-Henrik Stærfeldt, Tom Madsen, and Katja Nyboe.                   *
+ ***************************************************************************
+ * - News module                                                           *
+ ***************************************************************************/
 
-/*
- * File: news.c
- * Name: Extended News (v2.81)
- * Author: John 'Noplex' Bellone (john.bellone@flipsidesoftware.com)
- * Terms:
- * If this file is to be re-disributed; you must send an email
- * to the author. All headers above the #include calls must be
- * kept intact.
- * Description:
- * This is the extended news module; it allows for news to be
- * posted in note-like format; and bringing you into a editbuffer
- * instead of one-line posts. It also allows support for online
- * HTML output for news to be automatically generated and included
- * via a PHP; SSL; or a TXT include.
- */
-
-#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
 #include <time.h>
-#include "mud.h"
-#include "news.h"
+#include "h/mud.h"
+#include "h/news.h"
 
-NEWS_TYPE *first_news_type;
-NEWS_TYPE *last_news_type;
+/*
+ * Global Variables
+ */
+NEWS_DATA              *first_news;
+NEWS_DATA              *last_news;
+bool                    USE_HTML_NEWS;
 
-/* locals */
-static char local_buf[MAX_INPUT_LENGTH];
-int top_news_type;
+/*
+ * Local Functions
+ */
+void load_news          args((void));
+void add_news           args((char *argument));
+void write_news         args((void));
+void generate_html_news args((void));
+void show_news          args((CHAR_DATA *ch, int show_type, int count));
+char                   *align_news args((char *argument));
+char                   *news_argument args((char *argument, char *arg_first));
+NEWS_DATA              *fread_news args((FILE * fpin));
+void clear_news         args((bool sMatch, int nCount));
+void format_posttime    args((NEWS_DATA * news));
 
-/* the lovely; and useful; command table */
-const char *news_command_table[NEWS_MAX_TYPES];
+// char                   *html_color args((char *color, char *text));
+char                   *html_format args((char *argument));
 
-/* olc editnews command */
-void do_editnews( CHAR_DATA* ch, const char* argument)
+void do_news(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
+  char                    arg1[MAX_NEWS_LENGTH], buf[MIL], arg2[MAX_NEWS_LENGTH];
 
-   if( IS_NPC( ch ) || !IS_IMMORTAL( ch ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
+  if(IS_NPC(ch))
+    return;
+
+  if(argument && argument[0] == '\0')
+  {
+    send_to_char("\r\nSyntax: news [<option>]\r\n", ch);
+    send_to_char("Option being: version, all, last [<#>], first [<#>], [#]\r\n", ch);
+    if(IS_IMMORTAL(ch))
+    {
+      send_to_char("\r\nSyntax: news [<field>]\r\n", ch);
+      send_to_char("Field being: add, load, edit, remove\r\n", ch);
+      send_to_char("  <date>, list\r\n", ch);
       return;
-   }
+    }
+    return;
+  }
 
-   set_char_color( AT_GREEN, ch );
-
-   switch ( ch->substate )
-   {
-      default:
-         break;
-
-      case SUB_NEWS_POST:
-      {
-         NEWS *news = NULL;
-
-         news = ( NEWS * ) ch->dest_buf;
-         STRFREE( news->post );
-         news->post = copy_buffer( ch );
-         stop_editing( ch );
-         ch->substate = ch->tempnum;
-         renumber_news(  );
-         save_news(  );
-         return;
-      }
-         break;
-
-      case SUB_NEWS_EDIT:
-      {
-         NEWS *news = NULL;
-
-         news = ( NEWS * ) ch->dest_buf;
-         STRFREE( news->post );
-         news->post = copy_buffer( ch );
-         stop_editing( ch );
-         ch->substate = ch->tempnum;
-         renumber_news(  );
-         save_news(  );
-         return;
-      }
-         break;
-   }
-
-   argument = one_argument( argument, arg );
-
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Syntax: editnews addtype <name>\r\n"
-                    "        editnews addnews <type> <subject>\r\n"
-                    "        editnews removetype <number>\r\n"
-                    "        editnews removenews <type> <number>\r\n"
-                    "        editnews edittype <field> <value>\r\n"
-                    "        editnews editnews <type> <number> <new subject [optional]>\r\n"
-                    " Fields being one of the following:\r\n" " name header cmd_name level\r\n", ch );
+  if(argument && argument[0] != '\0')
+  {
+    argument = one_argument(argument, arg1);
+    if(!str_cmp(arg1, "version"))
+    {
+      ch_printf_color(ch, "&cT&Che &cE&Clder &cC&Chronicles &cV&Cersion&c: &W%s&c.\r\n", NEWS_VERSION);
       return;
-   }
-
-   if( !str_cmp( arg, "save" ) )
-   {
-      renumber_news(  );
-      save_news(  );
-      send_to_char( "News saved.\r\n", ch );
+    }
+    else if(is_number(arg1))
+    {
+      show_news(ch, TYPE_SHOW_ONE, atoi(arg1));
       return;
-   }
-
-   if( !str_cmp( arg, "addtype" ) )
-   {
-      NEWS_TYPE *type = NULL;
-
-      if( argument[0] == '\0' )
-      {
-         send_to_char( "Syntax: editnews addtype <name>\r\n", ch );
-         return;
-      }
-
-      if( top_news_type >= NEWS_MAX_TYPES )
-      {
-         send_to_char( "There are too many news types.\r\n", ch );
-         return;
-      }
-
-      CREATE( type, NEWS_TYPE, 1 );
-      type->name = STRALLOC( argument );
-      type->cmd_name = STRALLOC( argument );
-      type->vnum = top_news_type++;
-      type->level = -1;
-
-      news_command_table[type->vnum] = STRALLOC( type->cmd_name );
-
-      LINK( type, first_news_type, last_news_type, next, prev );
-      ch_printf( ch, "Newstype '%s' created.\r\n", argument );
+    }
+    else if(!str_cmp(arg1, "all"))
+    {
+      show_news(ch, TYPE_ALL, -1);
+      send_to_char("\r\nFor more details see also 'help news'\r\n", ch);
       return;
-   }
+    }
+    else if(!str_cmp(arg1, "first"))
+    {
+      int                     show_count = -1;
 
-   if( !str_cmp( arg, "removetype" ) )
-   {
-      NEWS_TYPE *type = NULL;
-      NEWS *news = NULL, *news_next;
-
-      if( argument[0] == '\0' )
+      argument = one_argument(argument, arg2);
+      if(!arg2 || arg2[0] == '\0')
       {
-         send_to_char( "Syntax: editnews removetype <name>\r\n", ch );
-         return;
-      }
-
-      if( ( type = figure_type( argument ) ) == NULL )
-      {
-         send_to_char( "Invaild newstype.\r\n", ch );
-         return;
-      }
-
-      UNLINK( type, first_news_type, last_news_type, next, prev );
-      STRFREE( type->name );
-      STRFREE( type->header );
-      STRFREE( type->cmd_name );
-      STRFREE( news_command_table[type->vnum] );
-      STRFREE( news_command_table[type->level] );
-
-      for( news = type->first_news; news; news = news_next )
-      {
-         news_next = news->next;
-
-         UNLINK( news, type->first_news, type->last_news, next, prev );
-         STRFREE( news->name );
-         STRFREE( news->title );
-         STRFREE( news->date );
-         STRFREE( news->post );
-         DISPOSE( news );
-      }
-
-      DISPOSE( type );
-      --top_news_type;
-      renumber_news(  );
-      save_news(  );
-      ch_printf( ch, "Newstype '%s' removed.\r\n", argument );
-      return;
-   }
-
-   if( !str_cmp( arg, "edittype" ) )
-   {
-      char arg2[MAX_INPUT_LENGTH];
-      char arg3[MAX_INPUT_LENGTH];
-      NEWS_TYPE *type = NULL;
-
-      argument = one_argument( argument, arg2 );
-      argument = one_argument( argument, arg3 );
-      if( arg2[0] == '\0' || arg3[0] == '\0' )
-      {
-         send_to_char( "Syntax: editnews edittype <type> <field> <value>\r\n", ch );
-         send_to_char( "Fields being one of the following:\r\n" "name header cmd_name level\r\n", ch );
-         return;
-      }
-
-      if( ( type = figure_type( arg2 ) ) == NULL )
-      {
-         send_to_char( "Invalid newstype.\r\n", ch );
-         return;
-      }
-
-      if( !str_cmp( arg3, "cmd_name" ) )
-      {
-         type->cmd_name = STRALLOC( argument );
-         news_command_table[type->vnum] = STRALLOC( type->cmd_name );
-         send_to_char( "Cmd_name set.\r\n", ch );
-         save_news(  );
-         return;
-      }
-      else if( !str_cmp( arg3, "name" ) )
-      {
-         type->name = STRALLOC( argument );
-         send_to_char( "Name set.\r\n", ch );
-         save_news(  );
-         return;
-      }
-      else if( !str_cmp( arg3, "level" ) )
-      {
-         if( argument[0] == '\0' )
-         {
-            ch_printf( ch, "%d\r\n", type->level );
-            return;
-         }
-         else
-            type->level = atoi( argument );
-         send_to_char( "Level set.\r\n", ch );
-         save_news(  );
-         return;
+        show_count = -1;
       }
       else
       {
-         send_to_char( "Syntax: editnews edittype <type> <field> <value>\r\n", ch );
-         send_to_char( "Fields being one of the following:\r\n" "name header cmd_name level\r\n", ch );
-         return;
+        if(is_number(arg2))
+          show_count = atoi(arg2);
+        else
+          show_count = -1;
       }
-   }
+      show_news(ch, TYPE_LIST_FIRST, show_count);
+    }
+    else if(!str_cmp(arg1, "last"))
+    {
+      int                     show_count = -1;
 
-   if( !str_cmp( arg, "addnews" ) )
-   {
-      char arg2[MAX_INPUT_LENGTH];
-      NEWS_TYPE *type = NULL;
-      NEWS *news = NULL;
-
-      argument = one_argument( argument, arg2 );
-
-      if( arg2[0] == '\0' || argument[0] == '\0' )
+      argument = one_argument(argument, arg2);
+      if(!arg2 || arg2[0] == '\0')
       {
-         send_to_char( "Syntax: editnews addnews <type> <subject>\r\n", ch );
-         return;
+        show_count = 5;
       }
-
-      if( ( type = figure_type( arg2 ) ) == NULL )
-      {
-         send_to_char( "Invaild newstype. Use 'newstypes' to get a valid listing.\r\n", ch );
-         return;
-      }
-
-      CREATE( news, NEWS, 1 );
-      news->title = STRALLOC( argument );
-      news->name = STRALLOC( ch->name );
-      news->date = STRALLOC( stamp_time(  ) );
-      news->post = STRALLOC( "" );
-
-      /*
-       * pop character into a writing buffer 
-       */
-      if( ch->substate == SUB_REPEATCMD )
-         ch->tempnum = SUB_REPEATCMD;
-      else
-         ch->tempnum = SUB_NONE;
-
-      ch->substate = SUB_NEWS_POST;
-      ch->dest_buf = news;
-      start_editing( ch, news->post );
-      LINK( news, type->first_news, type->last_news, next, prev );
-      return;
-   }
-
-   if( !str_cmp( arg, "editnews" ) )
-   {
-      char arg2[MAX_INPUT_LENGTH];
-      char arg3[MAX_INPUT_LENGTH];
-      NEWS *news = NULL;
-      NEWS_TYPE *type = NULL;
-
-      argument = one_argument( argument, arg2 );
-      argument = one_argument( argument, arg3 );
-      if( arg2[0] == '\0' )
-      {
-         send_to_char( "Syntax: editnews editnews <type> <number> <new subject [optional]>\r\n", ch );
-         return;
-      }
-
-      /*
-       * changed for new -newstype- indexing - 5/5/02 
-       */
-      if( ( type = figure_type( arg2 ) ) == NULL )
-      {
-         send_to_char( "Invalid newstype. Use 'newstypes' to get a valid listing.\r\n", ch );
-         return;
-      }
-
-      if( ( news = grab_news( type, arg3 ) ) == NULL )
-      {
-         pager_printf_color( ch, "That's not a valid news number.\r\nUse '%s' to view the valid numbers.\r\n",
-                             type->cmd_name );
-         return;
-      }
-
-      /*
-       * a changed title 
-       */
-      if( argument[0] != '\0' )
-         news->title = STRALLOC( argument );
-
-      /*
-       * new date news was edited 
-       */
-      news->date = STRALLOC( stamp_time(  ) );
-      /*
-       * pop character into a writing buffer 
-       */
-      if( ch->substate == SUB_REPEATCMD )
-         ch->tempnum = SUB_REPEATCMD;
-      else
-         ch->tempnum = SUB_NONE;
-
-      ch->substate = SUB_NEWS_EDIT;
-      ch->dest_buf = news;
-      start_editing( ch, news->post );
-      return;
-   }
-
-   if( !str_cmp( arg, "removenews" ) )
-   {
-      char arg2[MAX_INPUT_LENGTH];
-      NEWS *news = NULL;
-      NEWS_TYPE *type = NULL;
-
-      argument = one_argument( argument, arg2 );
-      if( argument[0] == '\0' || arg2[0] == '\0' )
-      {
-         send_to_char( "Syntax: editnews remove <number>\r\n", ch );
-         return;
-      }
-
-      /*
-       * changed for new -newstype- indexing - 5/5/02 
-       */
-      if( ( type = figure_type( arg2 ) ) == NULL )
-      {
-         send_to_char( "Invalid newstype. Use 'newstypes' to get a valid listing.\r\n", ch );
-         return;
-      }
-
-      if( ( news = grab_news( type, argument ) ) == NULL )
-      {
-         send_to_char( "Type 'news' to gain a list of the news numbers.\r\n", ch );
-         return;
-      }
-
-      UNLINK( news, type->first_news, type->last_news, next, prev );
-      STRFREE( news->name );
-      STRFREE( news->title );
-      STRFREE( news->date );
-      STRFREE( news->post );
-      DISPOSE( news );
-      renumber_news(  );
-      save_news(  );
-      send_to_char( "News item removed.\r\n", ch );
-      return;
-   }
-}
-
-/* figure the type of a newstype by the vnum
- * or by the cmd_name off the news_cmd_table -Nopey */
-NEWS_TYPE *figure_type( const char *str )
-{
-   if( is_number( str ) )
-   {
-      NEWS_TYPE *type = NULL;
-      int number = atoi( str );
-
-      /*
-       * poll the list for the vnum 
-       */
-      for( type = first_news_type; type; type = type->next )
-         if( type->vnum == number )
-            return type;
-   }
-   else  /* a cmd name */
-   {
-      NEWS_TYPE *type = NULL;
-      int x;
-
-      /*
-       * poll the cmd_name array for word 
-       */
-      for( x = 0; x < top_news_type; ++x )
-         if( !str_cmp( str, news_command_table[x] ) )
-         {
-            for( type = first_news_type; type; type = type->next )
-               if( type->vnum == x )
-                  return type;
-         }
-   }
-   return NULL;
-}
-
-/* Snatch news up from the linked list */
-NEWS *grab_news( NEWS_TYPE * type, const char *str )
-{
-   NEWS *news = NULL;
-
-   for( news = type->first_news; news; news = news->next )
-   {
-      if( news->number == atoi( str ) )
-         return news;
-   }
-   return NULL;
-}
-
-/* display a full news to the character */
-/* updated for the new display type 5/1/02 */
-void display_news( CHAR_DATA * ch, NEWS * news, NEWS_TYPE * type )
-{
-   pager_printf_color( ch, "\r\n&g--------------------------------------\r\n" );
-   send_to_pager( type->header, ch );
-   pager_printf_color( ch, "&g--------------------------------------\r\n" );
-   send_to_pager( NEWS_HEADER_READ, ch );
-   pager_printf_color( ch, "&g(&W%2d&g)  &W%-12s &%-11s  &W%s&g\r\n", news->number, news->name, news->date, news->title );
-   pager_printf_color( ch, "\r\n" );
-   if( news->post[0] != '\0' )
-      send_to_pager( news->post, ch );
-   else
-      pager_printf_color( ch, "&gNo further information.\r\n" );
-   pager_printf_color( ch, "&g--------------------------------------\r\n" );
-   pager_printf_color( ch, "\r\n" );
-   return;
-}
-
-/* renumber the news */
-/* changed for new indexing - 5/5/02 */
-void renumber_news( void )
-{
-   NEWS_TYPE *type = NULL;
-   NEWS *news = NULL;
-   int x, y;
-
-   for( y = 0; y < top_news_type; ++y )
-      if( news_command_table[y] )
-         STRFREE( news_command_table[y] );
-
-   top_news_type = 0;
-
-   for( type = first_news_type; type; type = type->next )
-   {
-      type->vnum = top_news_type++;
-      news_command_table[type->vnum] = STRALLOC( type->cmd_name );
-
-      x = 0;
-      for( news = type->first_news; news; news = news->next )
-      {
-         ++x;
-         news->number = x;
-         news->type = type->vnum;
-      }
-   }
-   return;
-}
-
-/* save the linked list */
-/* changed for new indexing - 5/5/02 */
-void save_news( void )
-{
-   NEWS *news = NULL;
-   NEWS_TYPE *type = NULL;
-   FILE *fp = NULL;
-   char filename[256];
-
-   sprintf( filename, "%s%s", SYSTEM_DIR, NEWS_FILE );
-   if( ( fp = fopen( filename, "w" ) ) == NULL )
-   {
-      perror( "save_news(): cannot open file" );
-      return;
-   }
-
-   for( type = first_news_type; type; type = type->next )
-   {
-      fprintf( fp, "#NEWSTYPE\n" );
-      fprintf( fp, "Name          %s~\n", type->name );
-      fprintf( fp, "Cmd_Name      %s~\n", type->cmd_name );
-      fprintf( fp, "Header        %s~\n", type->header );
-      fprintf( fp, "Vnum          %d\n", type->vnum );
-      fprintf( fp, "Level	       %d\n", type->level );
-      fprintf( fp, "End\n" );
-      for( news = type->first_news; news; news = news->next )
-      {
-         fprintf( fp, "#NEWS\n" );
-         fprintf( fp, "Title    %s~\n", news->title );
-         fprintf( fp, "Name     %s~\n", news->name );
-         fprintf( fp, "Date     %s~\n", news->date );
-         fprintf( fp, "Type     %d\n", news->type );
-         fprintf( fp, "POST     %s~\n", news->post );
-         fprintf( fp, "End\n" );
-      }
-   }
-/*
- if(sysdata.news_html_path && sysdata.news_html_path[0] != '\0' && sysdata.max_html_news > 0)
-  write_html_news( );
- */
-   fclose( fp );
-   fp = NULL;
-   return;
-}
-
-/* load the linked list from disk */
-void load_news( void )
-{
-   FILE *fp = NULL;
-   char filename[256];
-
-   sprintf( filename, "%s%s", SYSTEM_DIR, NEWS_FILE );
-   if( ( fp = fopen( filename, "r" ) ) == NULL )
-   {
-      perror( "load_news(): cannot open file" );
-      return;
-   }
-
-   for( ;; )
-   {
-      NEWS_TYPE *type = NULL;
-      NEWS *news = NULL;
-      char *word;
-      char letter;
-
-      letter = fread_letter( fp );
-
-      if( letter == '*' )
-      {
-         fread_to_eol( fp );
-         continue;
-      }
-
-      if( letter != '#' )
-      {
-         bug( "load_news(): # not found" );
-         break;
-      }
-
-      word = fread_word( fp );
-
-      if( !str_cmp( word, "NEWS" ) )
-      {
-         CREATE( news, NEWS, 1 );
-         news->type = -1;
-
-         fread_news( news, fp );
-         link_news_to_type( news );
-         continue;
-      }
-      /*
-       * added for new indexing - 5/5/02 
-       */
-      else if( !str_cmp( word, "NEWSTYPE" ) )
-      {
-         CREATE( type, NEWS_TYPE, 1 );
-
-         fread_news_type( type, fp );
-         LINK( type, first_news_type, last_news_type, next, prev );
-         continue;
-      }
-      if( !str_cmp( word, "END" ) )
-         break;
       else
       {
-         bug( "load_news(): unknown section %s", word );
-         continue;
+        if(is_number(arg2))
+          show_count = atoi(arg2);
+        else
+          show_count = -1;
       }
-   }
-   fclose( fp );
-   fp = NULL;
-   renumber_news(  );
-   return;
-}
 
-/* added for new indexing - 5/5/02 - Nopey */
-/* adds the news to to the correct newstype */
-void link_news_to_type( NEWS * news )
-{
-   NEWS_TYPE *type = NULL;
-
-   sprintf( local_buf, "%d", news->type );
-   if( ( type = figure_type( local_buf ) ) == NULL )
-   {
-      bug( "link_news_to_type(): invaild news->type %d", news->type );
+      show_news(ch, TYPE_LIST_LAST, show_count);
+      send_to_char("\r\nFor more details see also 'help news'\r\n", ch);
       return;
-   }
-   LINK( news, type->first_news, type->last_news, next, prev );
-   return;
-}
-
-void fread_news( NEWS * news, FILE * fp )
-{
-   const char *word;
-   bool fMatch;
-
-   for( ;; )
-   {
-      word = feof( fp ) ? "End" : fread_word( fp );
-      fMatch = FALSE;
-
-      switch ( UPPER( word[0] ) )
+    }
+    else if(!IS_IMMORTAL(ch))
+    {
+      show_news(ch, TYPE_NORMAL, -1);
+      return;
+    }
+    else if(!str_cmp(arg1, "html"))
+    {
+      if(!argument || argument[0] == '\0')
       {
-         case '*':
-            fread_to_eol( fp );
-            break;
-
-         case 'D':
-            KEY( "Date", news->date, fread_string( fp ) );
-            break;
-
-         case 'E':
-            if( !str_cmp( word, "END" ) )
-            {
-               if( !news->name )
-                  news->name = STRALLOC( "Unknown" );
-
-               if( !news->date )
-               {
-                  news->date = STRALLOC( stamp_time(  ) );
-               }
-
-               if( !news->title )
-                  news->title = STRALLOC( "News Post" );
-
-               if( news->type <= -1 )
-                  news->type = 0;
-               return;
-            }
-            break;
-
-         case 'N':
-            KEY( "Name", news->name, fread_string( fp ) );
-            break;
-
-         case 'P':
-            if( !str_cmp( word, "POST" ) )
-            {
-               fMatch = TRUE;
-               news->post = fread_string( fp );
-               break;
-            }
-            break;
-
-         case 'T':
-            KEY( "Title", news->title, fread_string( fp ) );
-            KEY( "Type", news->type, fread_number( fp ) );
-            break;
+        ch_printf_color(ch, "&C&GHTML News Creation is &C&W%s&C&G.\r\n", USE_HTML_NEWS == TRUE ? "ON" : "OFF");
+        return;
       }
-
-      if( !fMatch )
-         bug( "fread_news(): no match: %s", word );
-   }
-}
-
-/* added for new index - 5/5/02 - Nopey */
-void fread_news_type( NEWS_TYPE * type, FILE * fp )
-{
-   const char *word;
-   bool fMatch;
-
-   for( ;; )
-   {
-      word = feof( fp ) ? "End" : fread_word( fp );
-      fMatch = FALSE;
-
-      switch ( UPPER( word[0] ) )
+      else if(!str_cmp(argument, "toggle") || !str_cmp(argument, "on") || !str_cmp(argument, "off"))
       {
-         case '*':
-            fread_to_eol( fp );
-            break;
+        if(!str_cmp(argument, "toggle"))
+          USE_HTML_NEWS = !USE_HTML_NEWS;
+        else if(!str_cmp(argument, "on"))
+          USE_HTML_NEWS = TRUE;
+        else
+          USE_HTML_NEWS = FALSE;
 
-         case 'C':
-            KEY( "Cmd_Name", type->cmd_name, fread_string( fp ) );
-            break;
-
-         case 'E':
-            if( !str_cmp( word, "END" ) )
-            {
-               if( !type->name )
-                  type->name = STRALLOC( "Unknown" );
-
-               return;
-            }
-            break;
-
-         case 'H':
-            KEY( "Header", type->header, fread_string( fp ) );
-            break;
-
-         case 'L':
-            KEY( "Level", type->level, fread_number( fp ) );
-            break;
-
-         case 'N':
-            KEY( "Name", type->name, fread_string( fp ) );
-            break;
-
-         case 'V':
-            KEY( "Vnum", type->vnum, fread_number( fp ) );
-            break;
+        do_news(ch, (char *)"html");
+        write_news();
+        if(USE_HTML_NEWS == TRUE)
+          generate_html_news();
+        return;
       }
+      else
+      {
+        do_news(ch, (char *)"html");
+        do_help(ch, (char *)"news");
+        return;
+      }
+    }
+    else if(!str_cmp(arg1, "add") && (argument && argument[0] != '\0'))
+    {
+      add_news(argument);
+      send_to_char_color("&C&GNews added.\r\n", ch);
+      /*
+       * Send the message about a note being posted to the mud 
+       */
+      snprintf(buf, MIL, "News last has been updated by %s!", ch->name);
+      announce(buf);
 
-      if( !fMatch )
-         bug( "fread_news_type(): no match: %s", word );
-   }
+    }
+    else if(!str_cmp(arg1, "load"))
+    {
+      clear_news(FALSE, 0);
+      load_news();
+      if(USE_HTML_NEWS == TRUE)
+        generate_html_news();
+      send_to_char_color("&C&GNews loaded.\r\n", ch);
+    }
+    else if(!str_cmp(arg1, "list"))
+    {
+      show_news(ch, TYPE_IMM_LIST, -1);
+    }
+    else if(!str_cmp(arg1, "remove") && (argument && argument[0] != '\0'))
+    {
+      bool                    clearAll = FALSE;
+
+      if(!str_cmp(argument, "all"))
+      {
+        clearAll = TRUE;
+      }
+      if(!clearAll && !is_number(argument))
+      {
+        send_to_char_color("Argument must be a number.\r\n", ch);
+        return;
+      }
+      if(clearAll != TRUE)
+        clear_news(TRUE, atoi(argument));
+      else
+        clear_news(FALSE, 0);
+      write_news();
+      if(USE_HTML_NEWS == TRUE)
+        generate_html_news();
+      send_to_char_color("&C&GNews removed.\r\n", ch);
+    }
+    else
+    {
+      do_help(ch, (char *)"news");
+      return;
+    }
+  }
+  else
+  {
+    show_news(ch, TYPE_NORMAL, -1);
+  }
 }
 
-/* stamp date in mm/dd/yy. return string */
-char *stamp_time( void )
+void load_news()
 {
-   static char buf[128];
-   struct tm *time;
+  FILE                   *fpin = FileOpen(NEWS_FILE, "r");
 
-   time = localtime( &current_time );
-   strftime( buf, sizeof( buf ), "%x", time );
-   return buf;
+  if(fpin == NULL)
+  {
+    bug("Cannot open news.dat for reading.");
+    perror(NEWS_FILE);
+    return;
+  }
+
+  for(;;)
+  {
+    char                    letter;
+    char                   *word;
+    NEWS_DATA              *news;
+
+    letter = fread_letter(fpin);
+
+    if(letter == '*')
+    {
+      fread_to_eol(fpin);
+      continue;
+    }
+
+    if(letter != '#')
+    {
+      bug("Load_news: # not found.");
+      break;
+    }
+
+    word = (feof(fpin) ? (char *)"End" : fread_word(fpin));
+
+    if(!str_cmp(word, "News"))
+    {
+      news = fread_news(fpin);
+
+      if(news != NULL)
+        LINK(news, first_news, last_news, next, prev);
+    }
+    else if(!str_cmp(word, "HTML"))
+    {
+      USE_HTML_NEWS = fread_number(fpin) == 1 ? TRUE : FALSE;
+    }
+    else if(!str_cmp(word, "End"))
+    {
+      FileClose(fpin);
+      break;
+    }
+    else
+    {
+      bug("Load_news: bad section encountered.");
+      break;
+    }
+  }
 }
 
-#ifdef NOHTMLISON
+void add_news(char *argument)
+{
+  NEWS_DATA              *news = NULL;
+
+  CREATE(news, NEWS_DATA, 1);
+  news->time_stamp = time(NULL);
+  news->data = align_news(argument);
+  format_posttime(news);
+  LINK(news, first_news, last_news, next, prev);
+
+  write_news();
+  if(USE_HTML_NEWS == TRUE)
+    generate_html_news();
+}
+
+void write_news()
+{
+  FILE                   *fpout;
+  NEWS_DATA              *news;
+
+  if((fpout = FileOpen(NEWS_FILE, "w")) == NULL)
+  {
+    bug("Cannot open news.dat for writing.");
+    perror(NEWS_FILE);
+    return;
+  }
+
+  fptof(fpout, "#HTML\n");
+  fprintf(fpout, "%d\n\n", USE_HTML_NEWS == TRUE ? 1 : 0);
+  for(news = first_news; news != NULL; news = news->next)
+  {
+    fptof(fpout, "#News\n");
+    fprintf(fpout, "TimeStamp %ld\n", news->time_stamp > 0 ? news->time_stamp : -1);
+    fprintf(fpout, "NewsData  %s~\n", strip_cr(news->data));
+    fptof(fpout, "End\n\n");
+  }
+  fptof(fpout, "#End\n");
+
+  FileClose(fpout);
+}
+
+void generate_html_news()
+{
+  FILE                   *fpout;
+  NEWS_DATA              *news;
+
+  if((fpout = FileOpen(HTML_NEWS_FILE, "w")) == NULL)
+  {
+    bug("Cannot open %s for writing.", HTML_NEWS_FILE);
+    perror(HTML_NEWS_FILE);
+    return;
+  }
+  fptof(fpout, "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n");
+  fptof(fpout, "\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n");
+  fptof(fpout, "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n");
+  fptof(fpout, "  <head>\n");
+  fprintf(fpout, "    <title>%s Game News</title>\n", sysdata.mud_name);
+
+  fptof(fpout,
+        "<meta name=\"description\" content=\"What is Times Lost? We are a unique multiplayer user dimension (MUD) which has been in existence for over 15 years. This text based environment lets you assume the role of a character you create and interact with other players and the inhabitants of a medieval fantasy world. Times Lost is based in a medieval fantasy world where simple magic is common and other higher magic must be sought out from teachers. There are heaps of exotic realms to explore, with many quests to be completed. Times Lost is similar to a role-playing game where you have absolute control over your characters actions, and you decide what course the character will take in the game.\"/>\n");
+  fptof(fpout, "<meta name=\"keywords\" content=\"dragon, harry potter, medieval, wow, eq, mmorpg, free, game, mud, smaug\" />\n");
+//  fptof(fpout, "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://6dragons.tk/style.css\" media=\"screen\"/>\n");
+  fptof(fpout, "<style type=\"text/css\">\n");
+  fptof(fpout, "/*<![CDATA[*/\n");
+  fptof(fpout, "div.c2 {text-align: center}\n");
+  fptof(fpout, "div.c1 {margin-left: 0%;text-align: left}\n");
+  fptof(fpout, "/*]]>*/\n");
+  fptof(fpout, "</style>\n");
+  fptof(fpout, "</head>\n");
+  fptof(fpout, "<body>\n");
+  fptof(fpout, "<div class=\"c2\" id=\"wrapper\">\n");
+  fptof(fpout, "<div id=\"container\">\n");
+  fptof(fpout, "<div class=\"header\"></div>\n");
+  fptof(fpout,
+        "<div class=\"navigation\"><table cellspacing=\"0\" cellpadding=\"0%\"><tr><th><a href=\"http://reddit.com/r/wotlmud\">Home</a></th> <th><a href=\"http://www.mudconnect.com/cgi-bin/telnet.cgi?mud=Whispers+of+Times+Lost&url=telnet://timeslost.duckdns.org:3000\">Play</a></th><th> <a href=\"https://www.reddit.com/r/wotlmud/wiki/story\">Story</a></th><th><th><a href=\"https://www.reddit.com/r/wotlmud/wiki/wild\">Wilderness</a></th></tr></table>\n");
+  fptof(fpout, "</div>\n");
+  fptof(fpout, "\n<div class=\"c1\" id=\"wrapper\">\n");
+  fptof(fpout, "\n<p>\n\n\n\n");
+
+  fptof(fpout, "        <table width=\"90%\" border=\"0\" align=\"CENTER\">\n");
+
+  for(news = first_news; news != NULL; news = news->next)
+  {
+    /*
+     * Day, Month, and Year in their raw form.
+     */
+    char                    day[MAX_NEWS_LENGTH];
+    char                    month[MAX_NEWS_LENGTH];
+    char                    year[MAX_NEWS_LENGTH];
+
+    /*
+     * Day, Month and Year after formatted for HTML.
+     */
+    char                    mon_buf[MAX_NEWS_LENGTH];
+    char                    day_buf[MAX_NEWS_LENGTH];
+    char                    year_buf[MAX_NEWS_LENGTH];
+
+    /*
+     * Date separator after formatted for HTML.
+     */
+    char                    sep_buf[MAX_NEWS_LENGTH];
+
+    /*
+     * Date and News after completely formatted and ready for HTML export.
+     */
+    char                    date_buf[MAX_NEWS_LENGTH];
+    char                    news_data_buf[MAX_NEWS_LENGTH];
+
+    sprintf(day, "%2.2d", news->day);
+    sprintf(month, "%2.2d", news->month);
+    sprintf(year, "%4.4d", news->year);
+    sprintf(mon_buf, "%s", month);
+    sprintf(day_buf, "%s", day);
+    sprintf(year_buf, "%s", year);
+    sprintf(sep_buf, "%s", "/");
+
+    sprintf(date_buf, "%s%s%s%s%s", mon_buf, sep_buf, day_buf, sep_buf, year_buf);
+    sprintf(news_data_buf, "%s", news->data);
+    fptof(fpout, "          <tr>\n");
+
+    fptof(fpout, "            <td width=\"20%\" valign=\"TOP\">\n");
+    fprintf(fpout, "%s\n", date_buf);
+    fptof(fpout, "            </td>\n");
+
+    fptof(fpout, "            <td width=\"80%\" valign=\"TOP\">\n");
+    fprintf(fpout, "%s\n", news_data_buf);
+
+    fptof(fpout, "            </td>\n");
+
+    fptof(fpout, "          </tr>\n\n");
+  }
+
+  fptof(fpout, "        </table>\n");
+
+  fptof(fpout, "<br>\n<br>\n");
+  fptof(fpout, "<br>\n<br>\n");
+  fptof(fpout, "</p>\n\n");
+  fptof(fpout, "          <small>\n");
+  fptof(fpout, "          </small>\n");
+
+  fptof(fpout, "\n\n\n\n");
+  fptof(fpout, "</div>\n");
+  fptof(fpout, "</div>\n");
+  fptof(fpout, "</div>\n");
+  fptof(fpout, "</div>\n");
+  fptof(fpout, "  </body>\n");
+  fptof(fpout, "</html>\n");
+
+  FileClose(fpout);
+}
+
+void show_news(CHAR_DATA *ch, int show_type, int count)
+{
+  NEWS_DATA              *news = NULL, *curr_news = NULL;
+  int                     nCount = 1;
+  char                    buf[MAX_NEWS_LENGTH * 2];
+  char                    bar[MAX_NEWS_LENGTH * 2];
+
+  if(IS_BLIND(ch))
+  {
+    send_to_char("6D News\r\n\r\n", ch);
+  }
+  else
+  {
+    sprintf(bar, "%s----------------------------=[ %sTimes Lost News %s]=-----------------------------\r\n", AT_6D, AT_TRANS, AT_6D);
+    send_to_pager_color(bar, ch);
+  }
+  switch (show_type)
+  {
+    case TYPE_SHOW_ONE:
+      for(news = first_news; news; news = news->next)
+      {
+        if(nCount++ != count)
+          continue;
+        sprintf(buf, "%s%2.2d%s/%s%2.2d%s/%s%4.4d  %s%s\r\n", AT_DATE, news->month, AT_SEPARATOR, AT_DATE, news->day, AT_SEPARATOR, AT_DATE, news->year, AT_NEWS, news->data);
+        send_to_pager_color(buf, ch);
+        break;
+      }
+      break;
+
+    case TYPE_IMM_LIST:
+      for(news = first_news, nCount = 1; news != NULL; news = news->next, nCount++)
+      {
+        sprintf(buf, "%s%10d%s]  %s%s\r\n", AT_DATE, nCount, AT_SEPARATOR, AT_NEWS, news->data);
+        send_to_pager_color(buf, ch);
+      }
+      break;
+
+    case TYPE_NORMAL:
+    case TYPE_ALL:
+    case TYPE_LIST_FIRST:
+      for(news = first_news, nCount = 1; news != NULL; news = news->next, nCount++)
+      {
+        bool                    fShow = FALSE;
+        bool                    fBreakOut = FALSE;
+
+        if(show_type == TYPE_ALL)
+          fShow = TRUE;
+        else if(show_type == TYPE_NORMAL && ((news->time_stamp > ch->pcdata->last_read_news) || !news->next))
+          fShow = TRUE;
+        else if(show_type == TYPE_LIST_FIRST)
+        {
+          if(count > 0)
+          {
+            if(nCount <= count)
+              fShow = TRUE;
+          }
+          else
+          {
+            news = first_news;
+            fShow = TRUE;
+            fBreakOut = TRUE;
+          }
+        }
+        if(news && fShow == TRUE)
+        {
+          sprintf(buf, "%s%2.2d%s/%s%2.2d%s/%s%4.4d  %s%s\r\n", AT_DATE, news->month, AT_SEPARATOR, AT_DATE, news->day, AT_SEPARATOR, AT_DATE, news->year, AT_NEWS, news->data);
+          send_to_pager_color(buf, ch);
+          if(news->time_stamp > ch->pcdata->last_read_news)
+          {
+            ch->pcdata->last_read_news = news->time_stamp;
+          }
+          if(fBreakOut == TRUE)
+            break;
+        }
+      }
+      break;
+
+    case TYPE_LIST_LAST:
+      if(count > 0)
+      {
+        for(news = last_news, nCount = 1; news != NULL && nCount <= count; news = news->prev, nCount++)
+        {
+          curr_news = news;
+        }
+      }
+      else
+        curr_news = last_news;
+
+      for(news = curr_news; news != NULL; news = news->next)
+      {
+        if(news)
+        {
+          sprintf(buf, "%s%2.2d%s/%s%2.2d%s/%s%4.4d  %s%s\r\n", AT_DATE, news->month, AT_SEPARATOR, AT_DATE, news->day, AT_SEPARATOR, AT_DATE, news->year, AT_NEWS, news->data);
+          send_to_pager_color(buf, ch);
+          if(news->time_stamp > ch->pcdata->last_read_news)
+          {
+            ch->pcdata->last_read_news = news->time_stamp;
+          }
+        }
+      }
+      break;
+
+    default:
+      break;
+  }
+}
+
+char                   *align_news(char *argument)
+{
+  char                    buf[MAX_NEWS_LENGTH];
+  char                    arg[MAX_NEWS_LENGTH];
+  char                   *return_buf;
+  int                     num = 0;
+  int                     count = 0;
+  int                     date_len = 10;
+  int                     spacer = 2;
+  int                     total = (date_len + spacer);
+
+  strcpy(buf, "");
+
+  if(argument == NULL || argument[0] == '\0')
+    return (char *)"";
+
+  for(;;)
+  {
+    int                     i = 0;
+    int                     length = 0;
+    int                     longlen = 0;
+
+    argument = news_argument(argument, arg);
+
+    // We use the length without the color spaces for wrapping
+    length = strlen_color(arg);
+
+    if((total + length) >= 79)
+    {
+      int                     index;
+
+      buf[num] = '\n';
+      num++;
+      buf[num] = '\r';
+      num++;
+      for(index = 0; index < (date_len + spacer); index++)
+      {
+        buf[num] = ' ';
+        num++;
+      }
+      total = (date_len + spacer);
+    }
+
+    // We use the length with the color spaces for substitution
+    longlen = strlen(arg);
+
+    for(i = 0; i < longlen; i++)
+    {
+      if(arg[count] == '&' || arg[count] == '^')
+      {
+        if(arg[count + 1] == '\0')
+        {
+          arg[count] = '\0';
+        }
+        else if((arg[count] == '&' && arg[count + 1] == '&') || (arg[count] == '^' && arg[count + 1] == '^'))
+        {
+          buf[num] = arg[count];
+          num++;
+          count++;
+          i++;
+          buf[num] = arg[count];
+          num++;
+          count++;
+          total++;
+        }
+        else
+        {
+          count += 2;
+          i++;
+        }
+      }
+      else
+      {
+        buf[num] = arg[count];
+        total++;
+        num++;
+        count++;
+      }
+    }
+
+    if(argument != NULL && argument[0] != '\0')
+    {
+      buf[num] = ' ';
+      num++;
+      total++;
+      count = 0;
+    }
+    else
+    {
+      buf[num] = '\0';
+      break;
+    }
+  }
+
+  return_buf = STRALLOC(buf);
+
+  return return_buf;
+}
+
+char                   *news_argument(char *argument, char *arg_first)
+{
+  char                    cEnd;
+  short                   count;
+
+  count = 0;
+
+  if(!argument || argument[0] == '\0')
+  {
+    arg_first[0] = '\0';
+    return argument;
+  }
+
+  while(isspace(*argument))
+    argument++;
+
+  cEnd = ' ';
+
+  while(*argument != '\0' || ++count >= 255)
+  {
+    if(*argument == cEnd)
+    {
+      argument++;
+      break;
+    }
+    *arg_first = *argument;
+    arg_first++;
+    argument++;
+  }
+  *arg_first = '\0';
+
+  while(isspace(*argument))
+    argument++;
+
+  return argument;
+}
+
+NEWS_DATA              *fread_news(FILE * fpin)
+{
+  const char             *word;
+  bool                    fMatch;
+  NEWS_DATA              *news = NULL;
+
+  CREATE(news, NEWS_DATA, 1);
+
+  for(;;)
+  {
+    word = feof(fpin) ? "End" : fread_word(fpin);
+    fMatch = FALSE;
+
+    switch (UPPER(word[0]))
+    {
+      case '*':
+        fMatch = TRUE;
+        fread_to_eol(fpin);
+        break;
+
+      case 'D':
+        if(!str_cmp(word, "Day"))
+        {
+          news->day = fread_number(fpin);
+          fMatch = TRUE;
+          break;
+        }
+
+      case 'E':
+        if(!str_cmp(word, "End"))
+          return news;
+
+      case 'M':
+        if(!str_cmp(word, "Month"))
+        {
+          news->month = fread_number(fpin);
+          fMatch = TRUE;
+          break;
+        }
+
+      case 'N':
+        if(!str_cmp(word, "NewsData"))
+        {
+          news->data = fread_string(fpin);
+          fMatch = TRUE;
+          break;
+        }
+
+      case 'T':
+        if(!str_cmp(word, "TimeStamp"))
+        {
+          news->time_stamp = fread_number(fpin);
+          if(news->time_stamp > 0)
+          {
+            format_posttime(news);
+          }
+          fMatch = TRUE;
+          break;
+        }
+
+      case 'Y':
+        if(!str_cmp(word, "Year"))
+        {
+          news->year = fread_number(fpin);
+          fMatch = TRUE;
+          break;
+        }
+    }
+
+    if(!fMatch)
+    {
+      bug("Load_news: no match: %s", word);
+      bug(word, 0);
+    }
+  }
+  return NULL;
+}
+
+void clear_news(bool sMatch, int nCount)
+{
+  int                     nCurrent = 1;
+  NEWS_DATA              *news;
+
+  if(sMatch == FALSE)
+  {
+    while((news = first_news) != NULL)
+    {
+      STRFREE(news->data);
+      UNLINK(news, first_news, last_news, next, prev);
+      DISPOSE(news);
+    }
+  }
+  else
+  {
+    for(news = first_news; news != NULL; news = news->next)
+    {
+      if(nCount == nCurrent)
+      {
+        STRFREE(news->data);
+        UNLINK(news, first_news, last_news, next, prev);
+        DISPOSE(news);
+        break;
+      }
+      else
+        nCurrent++;
+    }
+  }
+}
+
+void format_posttime(NEWS_DATA * news)
+{
+  if(news == NULL)
+    return;
+
+  if(news->time_stamp > 0)
+  {
+    int                     day, month, year;
+    struct tm              *time = localtime(&news->time_stamp);
+
+    day = time->tm_mday;
+    month = (time->tm_mon + 1);
+    year = (time->tm_year + 1900);
+
+    news->day = day;
+    news->month = month;
+    news->year = year;
+  }
+  else
+  {
+    int                     day, month, year;
+    time_t                  t = time(NULL);
+    struct tm              *time = localtime(&t);
+
+    day = time->tm_mday;
+    month = (time->tm_mon + 1);
+    year = time->tm_year;
+
+    news->day = day;
+    news->month = month;
+    news->year = year;
+    news->time_stamp = t;
+  }
+
+  return;
+}
+
+char                   *html_color(const char *color, const char *text)
+{
+  static char             buf[MAX_HTML_LENGTH];
+
+  if(!color || color[0] == '\0')
+  {
+    html_color("#2e1806", text);
+  }
+  else if(!text || text[0] == '\0')
+  {
+    html_color(color, " ");
+  }
+  else
+  {
+    sprintf(buf, "%s%s%c", color, text, '\0');
+  }
+
+  return buf;
+}
+
 /*
- * html the news up!  -Nopey
- */
-void write_html_news( void )
+char *html_format( char *argument )
 {
-   FILE *fp = NULL;
-   char filename[256];
+    int index = 0, bufcount = 0;
+    char bad_chars[] = { '<', '>' };
+    char rep_chars[][MAX_NEWS_LENGTH] = { "&#60;", "&#62;" };
+    static char buf[MAX_HTML_LENGTH];
 
-   sprintf( filename, "%s%s", sysdata.news_html_path, NEWS_INCLUDE_FILE );
-   if( ( fp = fopen( filename, "w" ) ) == NULL )
-   {
-      bug( "write_html_news(): cannot open %s for writing", filename );
-      return;
-   }
-   snarf_news( fp );
-   fclose( fp );
-   fp = NULL;
-   return;
+    if ( !argument || argument[0] == '\0' )
+    {
+	return "";
+    }
+
+    buf[0] = '\0';
+
+    while( *argument != '\0' )
+    {
+	bool cFound = FALSE;
+
+	for( index = 0; index < strlen( bad_chars ); index++ )
+	{
+	    if ( *argument == bad_chars[index] )
+	    {
+		cFound = TRUE;
+		break;
+	    }
+	}
+
+	if ( cFound )
+	{
+	    int temp;
+	    char new_char[MAX_HTML_LENGTH];
+
+	    sprintf( new_char, "%s", rep_chars[index] );
+
+	    for( temp = 0; temp < strlen( new_char ); temp++, bufcount++ )
+	    {
+		buf[bufcount] = new_char[temp];
+	    }
+	}
+	else
+	{
+	    buf[bufcount] = *argument;
+	    bufcount++;
+	}
+
+	argument++;
+    }
+
+    buf[bufcount] = '\0';
+    return buf;
 }
+*/
 
-/*
- * rip it apart! =\ -Nopey
- */
-void snarf_news( FILE * fp )
+char                   *html_format(char *argument)
 {
-   NEWS *news = NULL;
-   int x = 0;
-   char buf[1024];
-
-   for( news = last_news; x < sysdata.max_html_news; news = news->prev )
-   {
-      ++x;
-      fprintf( fp, "<div align='center'>" );
-      fprintf( fp, "\n<table width='399' border='1' height='56' bgcolor='#990000'>" );
-      sprintf( buf,
-               "\n<tr><td><font face='Arial, Helvetica, sans-serif' size='2'>%s</font></tr></td><tr><td><font size='1' face='Arial, Helvetica, sans-serif' color='#FFFFFF'>[</font><font color='#FFFFFF' size='2'>%s</font><font size='1' color='#FFFFFF'>]</font>",
-               news->title, news->name );
-      fprintf( fp, buf );
-      fprintf( fp, "\n<font size='1'><font face='Arial, Helvetica, sans-serif'>[<b><font size='2' color='#FFFFFF'>" );
-      sprintf( buf, "\n%s\r\n</font></b>]</font></font></td></tr><tr><td height='2' bgcolor='#000000'>", news->date );
-      fprintf( fp, buf );
-      sprintf( buf,
-               "\n<p><font face='Arial, Helvetica, sans-serif' size='2' color='#FFFFFF'>%s</font><p></td></tr></table></div>",
-               news->post );
-      fprintf( fp, buf );
-      fprintf( fp, "</div>" );
-   }
-   /*
-    * this must stay here -- line below 
-    */
-   fprintf( fp,
-            "\n<center><font size='2' face='Arial, Helvetica, sans-serif' color='#FFFFFF'>Extended News v2.5 written by: <a href='mailto:noplex@crimsonblade.org'>Noplex</a>; <a href='http://www.crimsonblade.org/snippets/' target='new'>Get your copy here!</a></font></center>\r\n" );
-   fprintf( fp, "<pre><center>Page last written: %s</center></pre>", ctime( &current_time ) );
-   return;
-}
-#endif
-
-/* news command hook; interp.c -Nopey */
-bool news_cmd_hook( CHAR_DATA * ch, char *cmd, char *argument )
-{
-   int x = 0;
-
-   for( x = 0; x < top_news_type; ++x )
-      if( !str_cmp( cmd, news_command_table[x] ) )
-      {
-         NEWS_TYPE *type = NULL;
-
-         sprintf( local_buf, "%d", x );
-         if( ( type = figure_type( local_buf ) ) == NULL )
-         {
-            bug( "news_cmd_hook(): cannot find type for cmd %s", cmd );
-            return FALSE;
-         }
-         if( get_trust( ch ) < type->level )
-            return FALSE;
-
-         display_news_type( ch, type, argument );
-         return TRUE;
-      }
-   return FALSE;
-}
-
-/*
- * display the news entry from the command hook -Nopey
- */
-void display_news_type( CHAR_DATA * ch, NEWS_TYPE * type, char *argument )
-{
-   if( !type->first_news )
-   {
-      send_to_char_color( "&gThere are currently no news items for this news type.\r\n", ch );
-      return;
-   }
-
-   if( argument[0] == '\0' || !str_cmp( argument, "all" ) )
-   {
-      bool all_news = FALSE;
-      NEWS *news = NULL;
-      int x = type->last_news->number, y = NEWS_VIEW;
-      int skipper = ( x - y );
-
-      if( !str_cmp( argument, "all" ) )
-         all_news = TRUE;
-
-      pager_printf_color( ch, "\r\n&g--------------------------------------\r\n" );
-      if( type->header )
-         send_to_pager( type->header, ch );
-      pager_printf_color( ch, "&g--------------------------------------\r\n" );
-      send_to_pager( NEWS_HEADER_ALL, ch );
-
-      for( news = type->first_news; news; news = news->next )
-      {
-         if( !all_news )
-         {
-            if( skipper > -1 )
-            {
-               skipper--;
-               continue;
-            }
-         }
-         pager_printf_color( ch, "&g(&W%2d&g)  &W%-12s &%-11s  &W%s&g\r\n", news->number, news->name, news->date,
-                             news->title );
-      }
-
-      if( !all_news )
-      {
-         if( type->last_news->number == 1 )
-            pager_printf_color( ch, "&g\r\nThere is one news item.\r\n" );
-         else if( type->last_news->number > NEWS_VIEW - 1 )
-            pager_printf_color( ch,
-                                "\r\n&gThere are &w%d&g total items, the oldest of which are not listed here.\r\nUse '&w%s all&g' to list them all.&g\r\n",
-                                type->last_news->number, type->cmd_name );
-         else
-            pager_printf_color( ch, "\r\n&gThere are &w%d&g total items.\r\n", type->last_news->number );
-         pager_printf_color( ch, "\r\n&gTo read individual items type '&w%s <number>&g'.\r\n", type->cmd_name );
-         return;
-      }
-      pager_printf_color( ch, "\r\n&gTo read individual items type '&w%s <number>&g'.\r\n", type->cmd_name );
-   }
-
-   {
-      NEWS *news = NULL;
-
-      if( ( news = grab_news( type, argument ) ) == NULL )
-      {
-         if( str_cmp( argument, "all" ) )
-            send_to_char_color( "&g\r\nThat's not a news post number.\r\nUse '&wnews&g' to view them.\r\n", ch );
-         return;
-      }
-      display_news( ch, news, type );
-      return;
-   }
+  return argument;
 }

@@ -1,0 +1,5396 @@
+#AREA        City of Felanor~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#6000
+wizard~
+the wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+0
+Clanname none~
+0
+0
+3 8 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6001
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6002
+grocer~
+the grocer~
+A grocer stands at the counter, with a slightly sleepy look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6003
+weaponsmith~
+johnathan the weaponsmith~
+Johnathan the Weaponsmith is standing here with a glint in his eye.
+~
+A young weaponsmith, who still has lots to learn.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 10 -6 4d5+105 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6004
+armorer armorer~
+the armorer~
+An armourer stands here.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 10 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6005
+thief~
+the thief~
+A thief, all dressed in black.
+~
+Well COUNT your money!
+~
+0
+Clanname none~
+0
+0
+129 65536 0 C
+8 1 3 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6006
+captain~
+the captain~
+A retired captain stands here, selling boats.
+~
+This captain has killed more sharks than you have eaten peas.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 10 -6 4d5+105 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6007
+sailor~
+the sailor~
+A sailor stands here, waiting to train you.
+~
+He looks like a strong, fit sailor.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 5 -6 4d5+105 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6008
+boy~
+the pet shop boy~
+A pet shop boy is here, humming gently.
+~
+He is young and close-cropped and looks quite happy.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6009
+jeweller~
+the jeweller~
+The jeweller is standing behind the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6010
+leather worker~
+the leather worker~
+The leather worker is sitting by the table, sewing a leather cap.
+~
+She looks as an honest, hard-working artisan who only just earns enough to
+keep herself going.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6012
+healer valen~
+valen the Healer~
+Valen the Healer, stands ready to heal you of your wounds.
+~
+Although retired from adventuring, the healer still lends a hand.
+Type 'heal' to see a listing of spells.
+~
+0
+Clanname none~
+0
+0
+3 128 600 C
+101 0 -71 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6020
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+36 0 -11 5d6+210 6d4+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6021
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look. You notice that he is surrounded by a white aura.
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+36 0 -12 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6022
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it:
+the way of the true thief.  She is dressed in poor clothing, having
+the appearance of a beggar.
+human~
+0
+Clanname none~
+0
+0
+3 512 600 C
+36 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6023
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. A short, strong dwarf with bulging muscles.  Several scars
+across his body prove that he was using arms before you were born.  He
+has a calm look on his face.
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+36 0 -12 5d6+220 3d10+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6024
+sorcerer~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+0
+Clanname none~
+0
+0
+3 512 400 C
+30 5 -9 5d5+140 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6025
+templar~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+0
+Clanname none~
+0
+0
+3 512 400 C
+30 5 -9 5d6+150 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6026
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+0
+Clanname none~
+0
+0
+3 65536 400 C
+30 8 -9 5d5+140 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6027
+knight~
+the knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+0
+Clanname none~
+0
+0
+3 32 400 C
+30 10 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6040
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+23 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6042
+waiter~
+the waiter~
+A man who in his young days was a famous sorcerer but now leads a quiet,
+peaceful life as a waiter.
+~
+~
+0
+Clanname none~
+0
+0
+3 8 200 C
+23 0 -5 4d5+95 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6043
+waiter~
+the waiter~
+A waiter who seems to have reached contact with God.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+23 0 -6 4d5+100 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+23 0 -5 4d5+95 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6045
+waiter~
+the waiter~
+A waiter who easily could kill you, and still carry quite a few firebreathers.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+23 0 -6 4d5+105 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6046
+filthy~
+filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
+but do not mess with him or else he'll get upset.
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+23 2 -5 4d5+95 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6060
+cityguard guard~
+the cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6062
+fido dog~
+the beastly fido~
+A beastly fido is here.
+~
+Fido is a small dog that has a foul smell and pieces of rotted meat hanging
+around its teeth.
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6063
+vagabond~
+the vagabond~
+A vagabond is here, looking for victims.
+~
+He looks pretty mean.
+~
+0
+Clanname none~
+0
+0
+5 0 0 C
+5 1 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6064
+drunk~
+the drunk~
+A singing, happy drunk wanders around, singing about Moria.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+2 -1 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6065
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6066
+cat~
+an alley cat~
+An alley cat hisses at you.
+~
+The alley cat is half starved and more than a little feral.
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+5 1 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6067
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6068
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6069
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the mayor.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+3 65536 600 C
+20 4 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6070
+shopkeeper old man~
+the ancient potion-brewer~
+An old man eyes you greedily.
+The old man says, 'Would you like to buy a nice love potion?'
+~
+He looks very dangerous.  I wouldn't try to rob him.
+~
+0
+Clanname none~
+0
+0
+3 32 600 C
+32 0 -10 5d6+150 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6071
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate alertly.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6072
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.  He is half asleep.
+~
+A big, strong, helpful, trustworthy guard.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6073
+slender banker~
+a slender banker~
+A slender banker stands here, waiting to assist you.
+~
+Just type BANK to see a list of all that you can do here.
+~
+0
+Clanname none~
+0
+0
+3 4096 600 C
+124 10 -94 12d16+600 13d16+79
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6074
+bank teller~
+a bank teller~
+`BA bank teller is waiting to serve you.`x
+~
+A tall dark haired man peers at you through round wire rimmed glasses.
+~
+0
+Clanname none~
+0
+0
+3 128 600 C
+110 10 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6090
+kitten cat pet~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+0
+Clanname none~
+0
+0
+3 512 200 C
+1 2 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6091
+puppy dog pet~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+0
+Clanname none~
+0
+0
+3 32 200 C
+3 2 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6092
+beagle dog pet~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+0
+Clanname none~
+0
+0
+3 32 200 C
+5 3 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6093
+rottweiler dog pet~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+0
+Clanname none~
+0
+0
+3 32 200 C
+7 3 3 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6094
+wolf pet~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+9 3 2 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6095
+eagle bird pet~
+the eagle~
+A loyal eagle circles overhead.
+~
+The eagle looks like a strong fierce fighter.
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+12 3 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6096
+lion pet~
+the lion~
+A large, faithful lion is here.
+~
+The great lion looks very fierce.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+15 2 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6097
+tiger pet~
+the tiger~
+A great, loyal tiger is here.
+~
+The large, striped tiger looks like a savage fighter.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+20 3 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6099
+joleb blacksmith~
+joleb the Blacksmith~
+Joleb the Blacksmith is here, ready to enhance your weapons.
+~
+A young weaponsmith, who still has lots to learn.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+100 50 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6100
+maid~
+the maid~
+The maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes. A good reason
+for coming here more often.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+23 2 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6120
+sexton~
+the sexton~
+A sexton is sitting here, drinking hot tea.
+~
+The sexton looks like he is relaxing after another grave-digging job.
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6121
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+0
+Clanname none~
+0
+0
+3 524288 600 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6122
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+0
+Clanname none~
+0
+0
+3 524288 600 C
+90 0 10 1d1+1 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6123
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+0
+Clanname none~
+0
+0
+129 524288 600 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6124
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6140
+captain~
+the Captain of the Cityguards~
+The Captain of the Cityguards is looking to send you on a quest.
+~
+A big, strong, angry captain.
+~
+0
+Clanname none~
+0
+0
+5 8 600 C
+101 100 -71 10d14+490 11d12+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6141
+cityguard guard~
+the cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+0
+Clanname none~
+0
+0
+33 0 600 C
+15 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6142
+secretary~
+the secretary~
+A secretary is sitting at the desk.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Mayor is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+12 2 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6143
+mayor~
+the mayor~
+The mayor is here.  He shakes your hand.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+0
+Clanname none~
+0
+0
+3 4096 400 C
+23 6 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6144
+crier~
+the town crier~
+The town crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6150
+esme waitress~
+esme~
+Esme the waitress hums to herself and wonders what you'd like to order.
+~
+Esme brushes a lock of dark hair away from her wire-rimmed glasess and
+smiles warmly at you.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6160
+melancholy~
+melancholy~
+Melancholy is here, sewing a new tent together for a customer.
+~
+Ragged brown hair frames a ghostly, pale face.  Puffy eyelids surround
+two sky blue, haunting eyes.  An old, brown robe is wrapped around her frail
+frame.  She looks up from her sewing and looks inquiringly at you, a smile
+crossing her face.  
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6161
+lister green tree snake~
+lister~
+A green tree snake is sitting here on a pile of books.
+~
+This is Melancholy's pet tree snake, Lister.  Something seems odd about his 
+jaw, almost as if he were smiling at you.  He's quite friendly, but don't
+get him drunk.
+~
+0
+Clanname none~
+0
+0
+3 8 0 C
+15 3 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6162
+otho money banker~
+otho the Banker~
+Otho the Banker is ready to help you.
+~
+Otho is grotesquely fat man dressed in rich clothes.  Apparently the money
+changing business pays quite well in this busy city, or possibly the rumors
+of his fencing services are true...
+~
+0
+Clanname none~
+0
+0
+3 32 400 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6163
+thief~
+the thief~
+A thief, all dressed in black.
+~
+Well COUNT your money!
+~
+0
+Clanname none~
+0
+0
+129 65536 0 C
+30 1 -9 5d5+130 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6180
+Zarthon Summoner~
+zarthon the Summoner~
+Zarthon the Summoner stands ready to transport you to distant realms.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 100 -69 10d13+475 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#6000
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+~
+17 0 16
+300 1 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6001
+bottle beer~
+a bottle of beer~
+A beer bottle has been left here.~
+~
+17 0 16
+16 1 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6002
+bottle ale~
+a bottle of ale~
+A dark bottle of ale has been left here.~
+~
+17 0 16
+16 3 0 0 0 0 0
+1 6 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6003
+bottle firebreather~
+a bottle of firebreather~
+A bottle of firebreather has been left here.~
+~
+17 0 16
+12 7 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6004
+bottle local~
+a bottle of local specialty~
+A dark bottle has been left here.~
+~
+17 0 16
+12 8 0 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6006
+stone~
+A Clan Stone~
+Somebody left their Clan Stone here.~
+~
+19 0 16
+45 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6009
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+~
+19 0 16
+40 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6010
+pit~
+the donation pit~
+A pit for sacrifices is in front of the altar.~
+~
+15 0 8
+0 0 1000 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6010 pit~
+This is where you can put money and items to help the poor and
+unfortunate people in this city.  
+~
+#6011
+bread~
+a bread~
+A loaf of bread is here. It doesn't look too stale.~
+~
+19 0 16
+12 0 0 0 0 0 0
+1 9 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6012
+cinnamon roll~
+a cinnamon roll~
+A piping hot cinnamon roll is here. It looks delicious!~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6013
+cookies~
+a batch of Sara's cookies~
+A plate of chocolate chip cookies is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6014
+danish blueberry~
+a blueberry danish~
+A scrumptious blueberry danish is here.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6020
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 157 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6021
+sword small~
+a small sword~
+A small sword lies here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6022
+sword long~
+a long sword~
+A long sword has been left here.~
+~
+5 0 4
+2 27 34 0 0 0 0
+1 610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6023
+club~
+a club~
+A stout wooden club is here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6024
+mace heavy~
+a mace~
+A heavy iron mace is here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 390 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6025
+axe hand~
+a hand axe~
+A small hand axe lies forgotten on the floor.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6026
+axe battle~
+a battle axe~
+A large steel axe rests on the ground.~
+~
+5 0 4
+2 14 24 32 0 0 0
+1 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6027
+spear~
+a spear~
+A long spear leans against the wall.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 84 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6028
+staff~
+a wooden staff~
+A stout wooden staff lies on the floor.~
+~
+5 0 4
+1 17 25 32 0 0 0
+1 580 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6029
+flail~
+a flail~
+A small iron flail is here.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 77 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6030
+torch~
+a torch~
+A large torch.~
+~
+1 0 1
+0 50 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6031
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+~
+1 0 1
+0 250 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6031 letters~
+They say, "Use 'hold lantern' to activate."
+~
+E
+6031 lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+equipped with a handle to make it handy and a hood to protect its flame.
+Some letters have been scratched on its bottom.
+~
+#6032
+bag~
+a bag~
+A small bag.~
+~
+15 0 8
+0 0 5 100 0 0 0
+1 9 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6033
+box~
+a box~
+A small box.~
+~
+15 0 8
+0 0 5 100 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6039
+scroll cancellation~
+a scroll of cancellation~
+A rolled vellum scroll is here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 1190 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6039 scroll~
+Use this scroll to remove magical curses.
+~
+#6040
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 890 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6040 scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#6041
+potion yellow detect invisible~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6041 potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#6042
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 2900 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6042 scroll~
+The scroll has written a formula of 'Word of Recall' upon it.
+~
+#6043
+ring protection~
+a ring of protection~
+An enchanted ring of protection sits on the floor.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 640 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6043 ring~
+It's a silver ring set with a gleaming moonstone.
+~
+#6044
+wand magic missile missiles~
+a wand of magic missiles~
+A wooden stick lies on the ground.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 320 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+6044 wand~
+It has a little note that says 'point this end at target'.
+~
+#6045
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 0 8
+4 4 0 2 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6046
+bronze breast plate~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 0 8
+5 7 0 5 0 0 0
+2 2100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6047
+bronze breast plate~
+a special bronze breast plate~
+A special bronze breast plate is lying on the ground.~
+~
+9 0 8
+5 7 0 5 0 0 0
+2 2100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6050
+raft~
+a raft~
+A raft has been left here.~
+~
+22 0 16
+0 0 0 0 0 0 0
+7 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6050 raft~
+The raft looks very primitive.
+~
+#6051
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 16
+0 0 0 0 0 0 0
+3 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6051 canoe~
+The canoe is fairly light.
+~
+#6052
+bracer strong leather~
+a leather bracer~
+A strong leather bracer is here.~
+~
+9 0 8
+5 5 0 0 0 0 0
+1 112 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6053
+belt leather~
+a leather belt~
+A soft leather belt is here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6054
+girdle leather~
+a leather girdle~
+A wide leather girdle is here.~
+~
+9 0 8
+5 5 0 1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6060
+jerkin leather~
+a leather jerkin~
+A leather jerkin is lying on the ground.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 270 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6061
+cap leather~
+a leather cap~
+A leather cap is lying on the ground.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6062
+pants leather~
+a pair of leather pants~
+A pair of leather pants is lying on the ground.~
+~
+9 0 8
+5 5 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6063
+boots leather~
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+9 0 8
+5 5 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6064
+gloves leather~
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6065
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 136 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6066
+jerkin hard leather~
+a hard leather jerkin~
+A hard leather jerkin is lying on the ground.~
+~
+9 0 8
+5 5 0 1 0 0 0
+1 430 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6067
+cap hard leather~
+a hard leather cap~
+A hard leather cap is lying on the ground.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6068
+pants hard leather~
+a pair of hard leather pants~
+A pair of hard leather pants is lying on the ground.~
+~
+9 0 8
+10 10 0 1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6069
+boots hard leather~
+a pair of hard leather boots~
+A pair of hard leather boots lies here.~
+~
+9 0 8
+5 5 0 1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6070
+gloves hard leather~
+a pair of hard leather gloves~
+A pair of hard leather gloves is lying on the ground.~
+~
+9 0 8
+10 10 0 1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6071
+sleeves hard leather~
+a pair of hard leather sleeves~
+A pair of hard leather sleeves is lying on the ground.~
+~
+9 0 8
+10 10 0 1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6072
+jerkin scale mail~
+a scale mail jerkin~
+A scale mail jerkin is lying on the ground.~
+~
+9 0 8
+5 5 0 2 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6073
+coif scale mail~
+a scale mail coif~
+A scale mail coif is lying on the ground.~
+~
+9 0 8
+10 10 0 1 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6074
+skirt scale mail~
+a long scale mail skirt~
+A long scale mail skirt is lying on the ground.~
+~
+9 0 8
+10 10 0 2 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6075
+boots reinforced~
+a pair of reinforced boots~
+A pair of reinforced boots lies here.~
+~
+9 0 8
+10 10 0 2 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6076
+gloves reinforced~
+a pair of reinforced gloves~
+A pair of reinforced gloves is lying on the ground.~
+~
+9 0 8
+5 5 0 2 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6077
+sleeves scale mail~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves is lying on the ground.~
+~
+9 0 8
+10 10 0 2 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6080
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6081
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6082
+potion divine protection sanctuary stone skin illusions grandeur~
+a potion of divine protection~
+A potion of divine protection is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6083
+potion cure light~
+a potion of cure light wounds~
+A potion of cure light wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6084
+potion cure serious~
+a potion of cure serious wounds~
+A potion of cure serious wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6085
+potion cure critical critic~
+a potion of cure critical wounds~
+A potion of cure critical wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6086
+potion antidote bottle~
+a bottle of antidote~
+A bottle of antidote is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6087
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 230 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6088
+vial holy water potion~
+a vial of holy water~
+A vial of holy water is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 720 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6089
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6090
+potion negation cancellation~
+a potion of negation~
+A potion of negation is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6091
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6092
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 290 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6097
+shield small metal~
+a small metal shield~
+A small metal shield is lying on the ground.~
+~
+9 0 8
+10 10 1 2 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6099
+Platinum coin~
+a `DPlatinum Coin`x~
+A `DPlatinum Coin`x is lying here~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 100000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6100
+tea cup~
+a cup of tea~
+A cup has been set here.~
+~
+17 0 16
+6 11 0 0 0 0 0
+1 8 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6100 cup~
+It is a small simple cup.
+~
+#6101
+coffee cup~
+a cup of coffee~
+A cup has been set here.~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 6 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6101 cup~
+It is a small simple cup.
+~
+#6102
+water cup~
+a cup of water~
+A cup has been set here.~
+~
+17 0 16
+10 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6102 cup~
+It is a large simple cup.
+~
+#6105
+bracer bronze~
+a bronze bracer~
+A bronze bracer is lying on the ground.~
+~
+9 0 8
+6 6 0 3 0 0 0
+1 760 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6106
+bracer iron~
+an iron bracer~
+An iron bracer is lying on the ground.~
+~
+9 0 8
+7 7 0 3 0 0 0
+1 1020 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6110
+shirt chain mail~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 0 8
+10 10 0 3 0 0 0
+1 1320 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6111
+coif chain mail~
+a chain mail coif~
+A chain mail coif is lying on the ground.~
+~
+9 0 8
+10 10 0 2 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6112
+skirt chain mail~
+a long chain mail skirt~
+A long chain mail skirt is lying on the ground.~
+~
+9 0 8
+5 5 0 3 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6113
+boots ironbound~
+a pair of iron-bound boots~
+A pair of iron-bound boots lies here.~
+~
+9 0 8
+10 10 0 3 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6114
+gauntlets chain mail~
+a pair of chain mail gauntlets~
+A pair of chain mail gauntlets is lying on the ground.~
+~
+9 0 8
+10 10 0 3 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6115
+sleeves chain mail~
+a pair of chain mail sleeves~
+A pair of chain mail sleeves is lying on the ground.~
+~
+9 0 8
+10 10 0 3 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6116
+shield large metal~
+a large metal shield~
+A large metal shield is lying on the ground.~
+~
+9 0 8
+10 10 2 4 0 0 0
+1 1190 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6117
+shield small wooden~
+a small wooden shield~
+A small wooden shield is lying on the ground.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 510 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6120
+key iron~
+a key~
+An iron key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6120 key iron~
+The iron key is not special.
+~
+#6121
+key rusty~
+a key~
+A rusty key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6121 key rusty~
+The key is a fairly large rusty key.  You notice some fresh dirt on it.
+~
+#6122
+key wooden~
+a key~
+A wooden key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6122 key wooden~
+The wooden key is not special.
+~
+#6123
+key brass~
+a key~
+A brass key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6123 key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#6124
+sword long~
+a long sword~
+A long sword has been left here.~
+~
+5 0 4
+2 27 34 8 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6124 sword long~
+This is the ceremonial sword of the Mayor of Felanor.
+A
+13 20
+A
+12 20
+~
+#6129
+hand cuffs~
+a pair of hand cuffs~
+A pair of hand cuffs has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6130
+desk drawer~
+the desk~
+A desk is set against the western wall.~
+~
+15 0 8
+15 6122 20 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6130 drawer~
+You notice a keyhole in the drawer.
+~
+E
+6130 desk~
+The desk looks very sparse, there is a drawer on the left side.
+~
+#6131
+safe~
+the safe~
+A safe is placed in a dark corner of the room.~
+~
+15 0 8
+15 6123 20 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6131 safe~
+The safe is very heavy.
+~
+#6132
+silver coins~
+the silver coins~
+A lot of silver is here.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6132 silver~
+Looks like at least a thousand coins.
+~
+#6133
+city key~
+the City Key~
+The very big City Key is lying here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+2 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6133 city key~
+It is probably the biggest key you have seen in your life. It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+#6134
+bench~
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6134 bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#6135
+fountain water~
+a fountain~
+A small white fountain gushes forth here.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6135 fountain~
+It is very nice.  Made from fine white marble.
+~
+#6136
+coins~
+a small pile of coins~
+A small pile of coins lies here.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6137
+key steel~
+a steel key~
+A large steel key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6137 key steel~
+A key of this size must fit a very strong lock.
+~
+#6138
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+~
+17 0 16
+64 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6139
+letter resignation~
+the receptionist's letter of resignation~
+The receptionist's letter of resignation is taped to the wall.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6139 letter resignation~
+The letter is written in a bold and feminine Carolinian hand.
+
+    To whom it may concern,
+
+        Merc Industries has installed a new no-rent save and quit
+        system.  Apparently one can now save and quit at any time
+        from anywhere inside a town or out.  My services here are
+        no longer required.
+
+    Diana the Receptionist
+~
+#6140
+notice liquidation bank~
+the bank's notice of liquidation~
+The bank's notice of liquidation is taped to the wall.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6140 notice liquidation bank~
+The letter is written in a reserved and dignified Spencer hand.
+
+    To whom it may concern,
+
+        Merc Industries has charmed your money.  Apparently one's
+        gold will remain close, even beyond death. We are closing
+        down our offices and ATM machines.  Our services here are
+        no longer required.
+
+    Felanor City Bank
+~
+#6149
+taxidermy scroll~
+scroll of taxidermy~
+A scroll of taxidermy is lying here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6150
+coffee cup cinnamon~
+a cup of cinnamon coffee~
+A piping hot cup of cinnamon coffee is here.~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 12 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6150 coffee~
+It's a nice flavorful blend, just right for late-night mudding sessions.
+~
+#6151
+soup bowl~
+a bowl of chicken noodle soup~
+A nice hot bowl of chicken noodle soup is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6151 soup~
+This looks like just the thing for a cold!
+~
+#6152
+bowl beef stew~
+a bowl of beef stew~
+A bowl of nice thick beef stew, with lots of vegetables, steams here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6152 stew bowl~
+This is Kate's special stew, guaranteed to keep hunger pangs away for many
+hours.  Care for a bite?
+~
+#6153
+biscuit~
+a biscuit~
+A yummy biscuit, covered with butter, is here.~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6153 biscuit~
+A nice, soft biscuit with just enough butter.  Better buy two.
+~
+#6154
+beer bottle killian irish red~
+a bottle of George Killian's Irish Red~
+A dark-tinted bottle of beer is here.~
+~
+17 0 16
+16 1 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6154 beer bottle~
+It's a fine beer for serious drinkers, complete with the famous horse head
+logo.  Worth every penny.
+~
+#6161
+key white~
+a white key~
+A white key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6162
+map Felanor~
+a map of the city of Felanor~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6162 map Felanor~
+.
+                        * * * Felanor * * *
+                         = = ========== = =
+ 
+                                     Rainbow Bridge (Asgard and Valhalla)
+                                    /
+          North            Temple Altar   Mud School <--- ** NEWBIES **
+            |   /Up        (Healer, Pit)      |           ** GO HERE **
+            | /                  |       /Entrance to
+     West---+---East             |     /  Mud School
+          / |                 Temple of       |
+    Down/   |                   Mota        Arena
+          South               (Recall)
+                                 |
+                                 |   /In the Air   /Defunct Reception
+                  Cleric         | /             /
+       Northern   Guild----Temple Square---Grunting---Bar    Northern
+       Felanor              (Fountain)    Boar Inn          Felanor
+     (Clan Road) Magic           |                          (Clan Road)
+           |     Shop   Bakery   |    Grocer    Weaponsmith     |
+           |       |      |      |       |           |          |
+To    <---West---Main-Street---Market----Main-Street-+--------East--->Cross
+Shire,    Gate     |      |    Square    |           |        Gate    Roads
+Forest of  |     Mage  Armoury   |     Jeweler    Warrior       |
+Haon-Dor   |     Guild           |                 Guild     Wall Road
+          Wall                   |                              |
+          Road  Leather  Map     |    Grebe's  Pet   Apothecary |
+           |     Shop    Shop    |    Tavern   Shop  (Potions)  |
+           |      |       |    Common   |       |       |       |
+          Wall---Poor-Alley----Square---Dark-Alley------+----Wall Road
+          Road    |       |      |      |       |       |       |
+           |   Temple   Grubby   |   Thieves  Levee   Warehouse |
+           |  Of Stupid  Inn     |    Guild   (Boats) (Sailor)  |
+           |                    Dump            |               |
+          Wall  Mob      Sewers/ |              |             Wall
+          Road--Factory          |              |             Road
+           |                   South         Felanor           |         To the
+         Bridge                Bridge         River---------> Bridge <--> Sands
+           |                     |                              |           of
+        Southern              Southern                       Southern     Sorrow
+        Felanor              Felanor                       Felanor
+~
+#6163
+map thera~
+a map of Thera~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6163 map thera~
+.
+                         * * * Northern Thera  * * *
+                          = = ================== = =
+ 
+                                                   Moria
+                             Olympus          New    |    Dwarven--Mines
+Mage            Elven Valley    |     Ofcol--Ofcol   +----Kingdom
+Tower                       \   |       |            |       |    \Catacombs
+  |    Dragon Tower          Plains-----+            |   Day-Care
+  |   /                         |       |            |             Void---Old
+Shadow                      Northern  Stones of      |   Nirvana\    |   Thalos
+Grove---Galaxy              Felanor   G'harne       |            \Holy
+  |                             |                    |     Smurf   Grove
+   \  Arachnos    Shire  Asgard | In the Air         |    Village    |
+     \   |          |         \ | /                  |       |       |    Check
+      Forest Of-----+-------Felanor---------------Cross---Eastern Road---Point
+      Haon Dor              / | | | \              Roads             |
+     /     |     Mob Factory  | | |  Machine            \        Gnome Village
+  Old    Troll               /  | |  Dreams               \
+ Marsh    Den           Sewer   |  \            Ruins of---Dwarf---Frigid Waste
+                                |    \Felanor   Thalos    Forest         |
+       Redferne's---Chain---Southern    River                |  \      Keep of
+       Residence            Felanor         \       Wyvern--+  Drow   Mahn-tor
+           |                  / | \          Sands of Tower  |  City
+         Clouds      Gang Land  | Graveyard  Sorrow          |
+        (Harpies)               |      \           \       Elemental
+                            Miden'nir   Church   Mega-City  Canyon
+                            (Goblins)  Catacombs    One
+ 
+This map shows just about all the major areas on ROM.  This map is NOT drawn
+to scale, some of the directions were changed to make everything fit.  This
+map shows the GENERAL location of an area with respect to the other areas.
+Type "areas" for a complete list with suggested levels and the authors.
+~
+#6164
+map southern Felanor~
+a map of southern Felanor~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6164 map southern Felanor~
+.
+                         * * * SOUTHERN Felanor * * *
+                          = = =================== = =
+ 
+ West                          South             Kate's                   East
+Bridge                         Bridge            Diner                   Bridge
+  |                              |                 |                       |
+Northwest                        |              Austral                Northeast
+Concourse---Promenade--------Promenade----------Square-----------------Concourse
+    |           |                |                 |                       |
+    |           |                |                 |          Fountain     |
+    |           |                |              Emerald           |        |
+Concourse     Park              Park-----Park     Ave----Penny--Penny--Concourse
+    |         Road            Entrance   Cafe      |     Lane   Lane       |
+    |           |                |              Emerald                    |
+    |           |                |                Ave                      |
+    |           |                |                 |                       |
+    |  Guard  Park     Park     The      Park   Emerald   Town             |
+    |   HQ----Road---Entrance---Park---Entrance---Ave-----Hall             |
+    |           |                                  |                       |
+    |         Park              Emerald---------Emerald--------------Gang  |
+    |         Road                Ave             Ave                |  |  |
+    |           |                  |                                 |  |  |
+    |         Park----------------Road----------Park            Elm--Land  |
+    |         Road             /Crossing        Road           Street      |
+    |                     Chain    |              |              |         |
+Concourse                /         |            Park----Elm-----Elm----Concourse
+    |       (Redferne's, Harpies)  |            Road   Street  Street      |
+    |                              |              |              |         |
+    |                Emerald--Emerald            Park        Graveyard     |
+    |                  Ave      Ave             Road    (Church Catacombs) |
+    |                   |                         |                        |
+    |                Emerald                    Park                       |
+    |                  Ave                      Road                       |
+    |                   |                         |                        |
+Concourse-----------Concourse------Inside-----Concourse----------------Concourse
+                                 South Gate
+                                     |
+                                 Miden'Nir
+                                 (Goblins)
+
+~
+#6165
+map dwarven kingdom dwarf~
+a map of the Dwarven Kingdom~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6165 map dwarven kingdom dwarf~
+.
+                         * * * The Dwarven Kingdom * * *
+                          = = ===================== = =
+ 
+                    Dwarven
+                    Hospital
+                       |                                              *Path to
+         North of---Path by---Path by---Barracks     Guard--Door to----Castle
+          Shops     Hospital  Barracks  Entrance     House  Kingdom  Strangelove
+Granite     |                              |                   |
+Head's---Path North                      First               Narrow
+Bakery    of Shop                       Barracks              Path
+            |                              |                   |
+         Hide and    Turn               Back of     Bend in--Narrow
+        Tooth Shop--in Road             Barracks     Path     Path
+                       |                    \         |
+                    Path to               Dwarven   Narrow
+                    Village              Catacombs   Path
+                       |                              |
+             Store  *Inside    Entrance     Top of   Dark   *Mine
+             Room---Entrance--To Mountain--Mountain--Path--Entrance
+                \                             |                 \
+               Wine                        Middle of          Dwarven
+              Cellar                       Mountain            Mines
+                  \                            |
+                Dwarven                    Base of
+               Catacombs    Moria          Mountain           North
+                              |               |           Up\   |
+                              |            Path to            \ |
+                            Plains--Hills--Dwarven      West----+----East
+                              |            Kingdom              | \
+                              |               |                 |   \Down
+              Felanor <----Cross          Dwarven            South
+                            Roads          Drop-off
+                                          (Day-Care)
+ 
+*key required
+~
+#6166
+map moria first~
+a map of the first level of Moria~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6166 map moria first~
+* * * MORIA - Map 1 * * *                                           To Mahn-Tor
+ = = =============== = =                                                 |
+Talk about a mess!                                                   Foothills
+                                                                         |
+This is as far as our courageous, noble, brave           Light Cave    Valley
+and apparently quite deceased cartographers                   |           |
+could get.  Perhaps more maps could be found             Smelly Tunnel  Cave
+in the depths of Moria itself.                                |           |
+                                                  Cave---Many Tunnels---Tunnel
+                                                    |         |           |
+         West End--Large Cave--East End           Cave      Tunnel      *Hole
+            |          |                            |         |        (Map 2)
+            |        Tunnel---------Tunnel--------Tunnel----Tunnel
+            |                                       |
+ *Hole----Damp----Damp  Tunnel--Tunnel--Tunnel    Tunnel
+(Map 3)  Tunnel  Tunnel   |               |         |
+                   |      |            (*Map 3)  The Cave
+                   |      |                         |
+                   |    Tunnel--Light--Maze      End of
+                   |            Cave    |        The Path
+                   |                  Light         |
+                   |                  Cave      The Hills--> Dwarven Kingdom
+                   |                    |           |
+                 Tunnel----Tunnel-----Light     The Plains
+                                      Cave          |
+                                                 The Lane
+                                                    |
+                                      Felanor <--Cross--> Eastern Road
+                                                  Roads
+                                                    |
+                                               Dwarf Forest
+~
+#6167
+map new thalos~
+a map of New Thalos ~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 2500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6167 map new thalos~
+.
+           * * * **************** New Thalos ***************** * * *
+                   "Not Thalos or Old Thalos but New Thalos"
+            = = =============================================== = =
+
+                                   Plains
+                                     |
+Northwest--West Casbah-------------North-----------------Casbah--------Northeast
+  Tower     |                       Gate                    |            Tower
+          Alley                      |                      |              |
+            |    Guard            Sultan's                  |  Library----Kali
+          Alley  House              Walk                    |             Row
+                   |                 |      Dancing         |              |
+     Sultan's----Grand----Palace--Sultan's--Daemon          |   Dance-----Kali
+      Palace    Entrance   Gate     Walk      Inn           |   Hall      Row
+                   |                 |                      |
+                 Guard               |         Bowyer--Guildsman's--Mason's
+                 House               |         Guild       Row      Guild
+ High                                |                      |
+Priest                               |         Weaver--Guildsman's--Craftsman
+Chamber  Altar                    Sultan's     Guild       Row        Guild
+  |        |                        Walk                    |
+Inside--Inside--Donation             |         Tanner--Guildsman's--Museum
+Temple  Temple    Room               |         Guild       Row      of the
+  |        |                         |                      |       Greater
+Cleric     |                         |                 Guildsman's---Gods
+Guild     /                          |                     Row
+        /                            |                      |
+     Temple             Ahkeem's  Sultan's  Vera's     Guildsman's         Mage
+     Gates                Stuff     Walk   Veggies         Row             Tower
+       |     Alley--Alley    |       |       |              |                |
+     Temple    |           Market--Market--Market           | Witch's  Magic |
+     Square  Alley   Bank--Square  Square  Square--Butchery |  Brew    Shop  |
+       |       |             |       |       |              |    |      |    |
+West--West---West---West---Market--Center--Market---East--East--East--East--East
+Gate  Main   Main   Main   Square  Square  Square   Main  Main  Main  Main  Gate
+  |    |       |             |       |       |              |    |
+  |  Repair  Alley  Store--Market--Market--Market--Abdul's  | Mercenary--Thieves
+  |   Shop     |           Square  Square  Sqaure   Armor   |   Guild     Guild
+  |          Alley--Alley    |       |       |             Alley
+Warrior's                  Bread   Medina  Igor's  Leather  |           Smuggler
+  Guild                    Stand     |    Weapons   Shop---Alley--Alley---Inn
+                                   Medina                        /
+      Warehouse    Shipwright        |     Forge  Stables      /    Cass's  Dump
+       |     |          |          Common    |       |        |       |      |
+       +-----West Ishtar Drive-----Square----+---East Ishtar Drive----+------+
+                        |            |
+                    Boat Ramp        |
+                        |          South
+===================Ishtar River====Bridge======================> To Dragon Sea
+                                     |
+                                   South
+                                   Gate
+~
+#6168
+map olympus~
+a map of Olympus~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6168 map olympus~
+.
+                               *****OLYMPUS*****
+                               =================
+ 
+                                   Bedroom
+                                      |
+                                   Northern
+                                     Hall
+                        Western       |         Eastern
+              Bedroom----Hall----Second Floor----Hall----Bedroom
+                                /     |
+                         Stairway  Southern
+                             |       Hall                    North
+                        Throne Room   |                        |  /Up
+                             |      Bedroom                    |/
+                             |                          West---+---East
+                  Kitchen    |     Stable                     /|
+                     |       |       |                  Down/  |
+        Guest     Western  Castle  Eastern   Guest           South
+       Quarters----Wing----Entry----Wing----Quarters
+                     |       |       |
+                  Storage   Z|    Storage
+                   Room     e|S    Room   Smithy
+                            u|t             |
+                            s+--Ares Street-+--Weapon
+                    Mystery  |              |   Shop
+                    Shop-----+           Armoury
+                             |
+                   Residence-+-Residence
+                             |
+                     Bakery--+
+                             |
+                       **Entrance**
+                            /
+                      Mountain
+~
+#6237
+pit~
+the donation pit~
+A pit for sacrifices is in front of the altar.~
+~
+15 0 8
+0 0 1000 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6238
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+~
+17 0 16
+64 0 0 0 0 0 0
+1 3 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6240
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 890 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6240 scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#6241
+potion yellow detect invisible~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6241 potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#6242
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 2900 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+6242 scroll~
+The scroll has written a formula of 'Word of Recall' upon it.
+~
+#6280
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6281
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6282
+potion divine protection sanctuary stone skin~
+a potion of divine protection~
+A potion of divine protection is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6283
+potion cure light~
+a potion of cure light wounds~
+A potion of cure light wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6284
+potion cure serious~
+a potion of cure serious wounds~
+A potion of cure serious wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6285
+potion cure critical critic~
+a potion of cure critical wounds~
+A potion of cure critical wounds is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 125 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6286
+potion antidote bottle~
+a bottle of antidote~
+A bottle of antidote is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6287
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 230 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6288
+vial holy water potion~
+a vial of holy water~
+A vial of holy water is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 720 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6289
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6290
+potion negation cancellation~
+a potion of negation~
+A potion of negation is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6291
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6292
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 290 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6349
+long sword~
+a glowing long sword~
+A glowing long sword is here.~
+~
+5 0 4
+4 35 50 0 0 0 0
+1 6100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6349 long sword~
+It looks exceptionally sharp and well-balanced. Maybe you should keep it.
+~
+#6350
+sword standard merc~
+a standard issue sword~
+You see a standard issue sword here.~
+~
+5 64 4
+3 14 24 0 0 0 0
+1 1280 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6350 sword~
+You see a sword of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6351
+dagger standard merc~
+a standard issue dagger~
+You see a standard issue dagger here.~
+~
+5 64 4
+2 7 16 0 0 0 0
+1 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6351 dagger~
+You see a dagger of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6352
+mace standard merc~
+a standard issue mace~
+You see a standard issue mace here.~
+~
+5 64 4
+2 4 7 0 0 0 0
+1 620 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6352 mace~
+You see a mace of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6353
+vest standard merc~
+`#`wa `sstandard `wissue `rv`se`rs`st`^~
+You see a standard issue vest here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6353 vest~
+You see a vest of great craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+#6354
+shield standard merc~
+a standard issue shield~
+You see a standard issue shield here.~
+~
+9 0 8
+10 10 2 2 0 0 0
+1 810 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6354 shield~
+You see a shield of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6355
+cloak standard merc~
+`#a `sstandard `wissue `rc`sl`ro`sa`rk`^~
+You see a standard issue cloak here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 510 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6355 cloak~
+You see a cloak of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6356
+helmet standard merc~
+`#`wa `sstandard `wissue `rh`se`rl`sm`re`st`^~
+You see a standard issue helmet here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6356 helmet~
+You see a helmet of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6357
+leggings standard merc~
+`#`wa pair of `sstandard `wissue `rl`se`rg`sg`ri`sn`rg`ss`^~
+You see a pair of standard issue leggings here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6357 leggings~
+You see leggings of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6358
+boots standard merc~
+`#`wa pair of `sstandard `wissue `rb`so`ro`st`rs`^~
+You see a pair of standard issue boots here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6358 boots~
+You see boots of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6359
+gloves standard merc~
+`#`wa pair of `sstandard `wissue `rg`sl`ro`sv`re`ss`^~
+You see a pair of standard issue gloves here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6359 gloves~
+You see gloves of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6360
+sleeves standard merc~
+`wa pair of `sstandard `wissue `rs`sl`re`se`rv`se`rs`^~
+You see a pair of standard issue sleeves here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6360 sleeves~
+You see sleeves of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6361
+cape standard merc~
+`#`wa `sstandard `wissue `rc`sa`rp`se`^~
+You see a standard issue cape here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 380 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6361 cape~
+You see a cape of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6362
+belt standard merc~
+`#`wa `sstandard `wissue `rb`se`rl`st`^~
+You see a standard issue belt here.~
+~
+9 0 8
+10 10 1 1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6362 belt standard merc~
+You see a bronze belt of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6363
+bracer standard merc~
+`#`wa `sstandard `wissue `rb`sr`ra`sc`re`sr`^~
+You see a standard issue bracer here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 390 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6363 bracer~
+You see a bracer of great craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#6364
+ring signet~
+`#`wa `scity guard `rs`si`rg`sn`re`st `wring`^~
+You see a ring with a strange symbol on the floor.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1280 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6365
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+~
+1 64 1
+0 500 0 0 0 0 0
+1 640 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6365 banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#6371
+ring diamond wedding~
+`#`wa `Wd`wi`sa`Wm`wo`sn`Wd `Wwedding `wring`^~
+A diamond wedding ring has been left here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 860 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6371 ring diamond wedding~
+A slender gold band set with a marquise-cut four carat blue-white solitaire.
+Inscribed on the inside of the band is: 'Your loving husband'.
+~
+#6372
+band gold wedding~
+`#`wa `Yg`yo`Yl`yd `wwedding `sband`^~
+A gold wedding band has been left here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 860 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6373
+pearl~
+a small `Wp`we`Wa`wr`Wl`^~
+A small but well-formed pearl lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6374
+garnet gem~
+a `#`rgarnet`^~
+A garnet catches your eye.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6375
+emerald gem~
+an `#`Ge`gm`Ge`gr`Ga`gl`Gd`^~
+A deep green emerald winks at you.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6376
+ruby gem~
+a `#`Rr`ru`Rb`ry`^~
+A beautiful, if small, ruby is here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6377
+diamond gem~
+a `#`Wd`wi`Wa`wm`Wo`wn`Wd`^~
+A diamond catches and reflects the lighting.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6378
+opal~
+an `#`Wo`mp`wa`Ml`^~
+A lustrous opal reminds you of far-off places.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#6144
+The end of Elm Street~
+~
+Elm street ends here, next to a dangerous-looking run down neighborhood.
+You can enter the slums to the east, or head towards the graveyard to the
+south.  It occurs to you that this isn't the happiest section of town.
+~
+1 262148 1
+S
+#6150
+Kate's Diner~
+~
+The smells of baking bread and simmering stew lead you dancing through the 
+doorway of the diner.  No greasy spoons to be seen here-- the booth walls 
+are covered in casual paisleys; the chairs are carved wood, rescued from 
+garage sales.  Most tables have chess or backgammon boards carved and 
+painted on their fingertip-smooth tops.  The refrain of some musical or 
+other from the 1800's blends with the dusty golden light and the wonderful 
+smells to put you completely at ease.  A huge picture window looks out over 
+the Felanor River, and a doorway leads north onto the dock and the South 
+Bank river landing, while the main entrance to the south returns you to 
+Austral Square. On most days you will find Kate here, testing a batch of 
+stew or brewing a special pot of cinnamon coffee, eerily just in time for 
+your arrival Pull up a chair, perhaps play a game, and take time out to 
+talk. 
+~
+1 263232 0
+D0
+A small boat landing lets boats land at the diner.
+~
+~
+0 -1 6203
+R M 0 6150 1 6150
+  R G 0 6154 0
+  R G 0 6152 0
+  R G 0 6153 0
+  R G 0 6151 0
+  R G 0 6150 0
+  R G 0 6100 0
+E
+window landing~
+You can see a rickety bridge to your northwest, leading back into
+Central Felanor.  A rustic dock connects the Diner with the Felanor
+River, and a boat or two floats lazily past.  Across the river you can see
+the Levee and the Guild of Thieves, but they seem very far away from all
+of this...
+~
+S
+#6160
+Melancholy's Campaign Supplies~
+~
+As you walk in, a sudden gust of wind enters the shop and sends several
+scraps of paper fly around the room.  You blink as the dust you've stirred
+up stings your eyes, and take a look around the shop.  This shop is
+cluttered with old pieces of parchment, stacks of books, and odd scraps of
+canvas.  A desk with slightly less clutter than the rest of the shop is in
+front of you.  A scroll case full of scrolls is behind the desk.  A bookcase
+is to the right of you, and to the left is a window overlooking the Common
+Square.  A small door, half hidden by a stack of tents, leads to a room in
+the back of the shop.  
+~
+1 262150 0
+D0
+A sign on the door says, "Unauthorized Personel Prohibited".
+~
+door~
+33 6161 6161
+R M 0 6160 1 6160
+E
+window~
+You peer out the window and see a cityguard beating up an old lady.
+~
+E
+bookcase~
+You see many cartographer journals and topographical studies.  You also see
+quite a few tomes written by someone named "Anson MacDonald".
+~
+S
+#6161
+Melancholy's Room~
+~
+A faint smell of incense teases your nose as you enter this room.  You 
+step onto a soft bearskin rug and look around.  A simple bed lies against
+the far wall.  At the foot of it is a sturdy, ironbound chest, most likely
+full of Melancholy's trappings from her adventuring days.  On a small table
+under a window to the east is a vase with a single white rose.  Other than
+that, the room is quite bare.  
+~
+1 262662 0
+D2
+A small door to the south leads out into the map shop.
+~
+door~
+33 6161 6160
+E
+chest~
+This chest is firmly locked, and the device by which it opens is beyond your
+reckoning.
+~
+S
+#6170
+Temple Of Stupid~
+~
+As you enter the abandoned warehouse your eyes blink violently to
+adjust to the almost total darkness.  You wonder where the windows are
+as you step into a mud puddle in the middle of the floor.  As your eyes
+adjust, you realize that there are mud puddles all around the room, and
+this is some weird version of windows.  In a flash of revelation, you
+realize that you've entered the Temple of Stupid.
+~
+1 262156 0
+E
+puddle puddles~
+The puddles on the floor are filthy and exude a foul stench.
+~
+S
+#6200
+Under the Bridge~
+~
+The arch under the bridge is covered by seaweed for one foot above the
+surface of the river.  The water gently flows through an opening in the lower
+part of the city wall.
+~
+1 262144 7
+D1
+~
+~
+0 -1 6201
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#6201
+On the River~
+~
+North of here you see the miserable buildings of the poor alley.  The
+river flows west towards the bridge.  The riverbanks are too steep to climb.
+~
+1 262144 7
+D1
+~
+~
+0 -1 6202
+D3
+~
+~
+0 -1 6200
+S
+#6202
+On the River~
+~
+North of here you see the dump.  The river flows from east to west.  The
+riverbanks are too steep to climb.  A bridge passes overhead, connecting the
+dump to the promenade.
+~
+1 262144 7
+D1
+~
+~
+0 -1 6203
+D3
+~
+~
+0 -1 6201
+S
+#6203
+On the River~
+~
+The levee is directly north of here, and a small boat landing for Kate's
+Diner is to the south.  The river flows in an east west direction.
+~
+1 262148 7
+D1
+~
+~
+0 -1 6204
+D2
+You see the landing in the back of Kate's Diner. 
+~
+~
+0 -1 6150
+D3
+~
+~
+0 -1 6202
+S
+#6204
+On the River~
+~
+You see the warehouse on the northern riverbank.  East of here the river
+passes under the eastern bridge and through the city wall. The banks of the 
+levee are west, in the direction of the current.
+~
+1 262144 7
+D1
+~
+~
+0 -1 6205
+D3
+~
+~
+0 -1 6203
+S
+#6205
+On the River~
+~
+The river enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall. Overhead
+you can see the stone buttresses of the eastern bridge.
+~
+1 262144 7
+D3
+~
+~
+0 -1 6204
+S
+#6250
+Wall Road~
+~
+Wall road extends north and south along the eastern walls of the city.
+The east gate is north of you, south is an intersection with a dark alley. You
+check to make sure you still have your wallet.
+~
+1 262144 1
+D2
+You see an intersection with a dark alley.
+~
+~
+0 -1 6251
+S
+#6251
+Wall Road~
+~
+You are walking along the eastern wall of the city, on a road extending 
+between the east gate and a bridge to the south.  A dark, dirty alley lies west 
+of here.  You step carefully around a pool of liquid...who knows what it could 
+be in a place this foul...
+~
+1 262144 1
+D0
+Wall road continues to the north, heading towards the gate.
+~
+~
+0 -1 6250
+D2
+Wall road continues to the south, towards a bridge over the Felanor river.
+~
+~
+0 -1 6252
+S
+#6252
+Wall Road~
+~
+The walls of Felanor tower above you to the east, keeping the city safe
+from its enemies...you hope.  An intersection with a dark alley lies north,
+and a bridge over the Felanor river is south.  Beyond the bridge wall road 
+turns in the concourse.
+~
+1 262144 1
+D0
+You see an intersection with a dark alley.
+~
+~
+0 -1 6251
+D2
+The eastern bridge crosses the river to the south.
+~
+~
+0 -1 6253
+S
+#6253
+On the Bridge~
+~
+You are crossing a strong stone bridge, which spans the Felanor river.
+Below you, the river flows into an opening in the city wall, sealed with
+strong metal bars.  North of you is wall road, south of here the concourse
+loops around the inside of the city walls.
+~
+1 262144 1
+D0
+Wall road continues to the north.
+~
+~
+0 -1 6252
+E
+opening bars river~
+Hmm...some of the bars have been ripped out of the wall.  Enough to pass a
+good sized raft or canoe, or perhaps even a barge.  You wonder what sort of
+beast had the strength to do this.
+~
+S
+#6254
+The South Bridge~
+~
+You are standing on a small, rickety bridge leading from the Felanor
+City Dump to the much more attractive promenade of the southern parts of 
+Felanor.  You can smell the stench of the dump to the north, the fresher
+air of the promenade seems preferable.  Below you are the swift-moving 
+currents of the Felanor river.
+~
+1 262148 1
+S
+#6255
+Inside the Southern Gate of Felanor~
+~
+Two strong stone towers surround a heavy wooden gate set into the city wall,
+to guard against the goblins that lurk in the southern forests.  You can exit
+the city to the south, if you dare, or walk down the concourse to the east
+or west.
+~
+1 262144 1
+D2
+You see the southern gate.
+~
+~
+0 6133 6256
+R M 0 6071 2 6255
+  R E 0 6365 0 0
+  R E 0 6364 0 1
+  R E 0 6350 0 16
+  R E 0 6353 0 5
+  R E 0 6361 0 12
+R M 0 6071 2 6255
+  R E 0 6365 0 0
+  R E 0 6364 0 1
+  R E 0 6350 0 16
+  R E 0 6353 0 5
+  R E 0 6362 0 13
+S
+#6256
+Outsite the Southern Gate of Felanor~
+~
+You are standing outside the strong wooden gate on the southern walls of 
+Felanor.  Guards eye you suspiciously from the two towers on either side of 
+the gate, as they stand watch to protect the city from invaders.  The vast 
+city of Felanor lies north.  
+~
+1 262144 3
+D0
+You see the southern gate.
+~
+~
+0 6133 6255
+S
+#6257
+Wall Road~
+~
+You are walking along wall road, just north of the west gate of Felanor.  
+The road continues along the western wall to the north, towards an intersection
+with a busy Clan street.
+~
+1 262144 1
+D0
+You see an intersection between wall road and a busy Clan street.
+~
+~
+0 -1 6258
+S
+#6258
+Wall Road~
+~
+Wall road intersects with a crowded Clan Road here, filled with shops and
+artisans.  The street stretches off to the east, towards the far wall of the
+city.  Wall road continues to the north and south.
+~
+1 262144 1
+D0
+Wall road continues to the north, towards the northwestern corner of the wall.
+~
+~
+0 -1 6259
+D1
+You see the shops and clan halls of Clan Road.
+~
+~
+0 -1 6301
+D2
+Wall road continues alongside the western wall, heading towards the west gate.
+~
+~
+0 -1 6257
+S
+#6259
+Wall Road~
+~
+You are walking along wall road, which extends along the inside of the western
+wall of Felanor.  To the south, you can see an intersection with a crowded
+Clan street.  The northwestern corner of the city wall lies ahead to the
+north.
+~
+1 262144 1
+D0
+You see the northwestern corner of the city wall.
+~
+~
+0 -1 6260
+D2
+To the south, wall road intersects with a crowded Clan street.
+~
+~
+0 -1 6258
+S
+#6260
+The Northwest Corner~
+~
+You are standing beneath the northwestern corner of the city wall, on a turn
+in wall road.  You can head south, towards the west gate, or east, to the 
+north gate.
+~
+1 262144 1
+D1
+Wall road continues along the northern wall of the city.
+~
+~
+0 -1 6261
+D2
+Wall road continues along the western wall of the city.
+~
+~
+0 -1 6259
+S
+#6261
+Wall Road~
+~
+The city walls tower over you as walk down wall road, between the northwestern
+corner of the wall to the west, and the northern gate of Felanor to the east.
+~
+1 262144 1
+D1
+Wall road continues to the east, towards the northern gate of Felanor.
+~
+~
+0 -1 6262
+D3
+You can see the northwest corner of the city wall to the west.
+~
+~
+0 -1 6260
+S
+#6262
+Inside the North Gate of Felanor~
+~
+Two small towers surround a strong wooden gate, connected by a small stone
+bridge set with murder holes.  This gate is not as heavily guarded as the 
+others, as the plains outside are safe to travel.  You can leave Felanor to
+the north, or continues along wall road to the west and east.  A teeming clan
+street is visible to the south, and beyond that the graceful spires of the
+Temple of Mota, but there is no way to reach them from here.
+~
+1 262144 1
+D0
+The northern plains are visible through the gate.
+~
+~
+0 6133 6268
+D1
+Wall road continues to the east, alongside the northern wall.
+~
+~
+0 -1 6263
+D3
+Wall road continues to the west, alongside the northern wall.
+~
+~
+0 -1 6261
+R M 0 6072 1 6262
+  R E 0 6365 0 0
+  R E 0 6364 0 1
+  R E 0 6350 0 16
+  R E 0 6353 0 5
+  R E 0 6354 0 11
+S
+#6263
+Wall Road~
+~
+You are walking along wall road, between the northern gate of the city and the
+northeastern corner of the city walls.  You can see bloodstains on the road...
+better be on guard for thieves.
+~
+1 262144 1
+D1
+You see the northeastern corner of the city walls.
+~
+~
+0 -1 6264
+D3
+The northern gate of the city lies east.
+~
+~
+0 -1 6262
+S
+#6264
+The Northeast Corner~
+~
+Wall road turns the corner here, as you pass by the northeastern edge of the
+city wall.  The north gate lies to your west, and the road south leads to the
+eastern gate of Felanor.
+~
+1 262144 1
+D2
+Wall road continues to the south, along the eastern wall of the city.
+~
+~
+0 -1 6265
+D3
+Wall road continues to the west, along the northern wall of the city.
+~
+~
+0 -1 6263
+S
+#6265
+Wall Road~
+~
+Just south of you is an intersection with a crowded clan street.  The 
+eastern wall of Felanor is beside you, and to the north you can see the 
+northeast corner of the city wall.
+~
+1 262144 1
+D0
+You can see the northeast corner of the city wall.
+~
+~
+0 -1 6264
+D2
+You see an intersection with a crowded street.
+~
+~
+0 -1 6266
+S
+#6266
+Wall Road~
+~
+Here, wall road meets up with a busy clan street heading off towards the 
+west, and the far wall of the city.  You can smell spices, perfume, freshly
+cured hide, and other strange scents, all mingle together in one heady aroma.
+Wall road continues to the north and south.
+~
+1 262144 1
+D0
+Wall road continues to the north, along the eastern wall of the city.
+~
+~
+0 -1 6265
+D2
+Wall road continues to the south, towards the east gate of Felanor.
+~
+~
+0 -1 6267
+D3
+You see a mass of people heading down Clan Road.
+~
+~
+0 -1 6316
+S
+#6267
+Wall Road~
+~
+You are near the center of wall road, just north of the east gate of the city.
+To the north, you can see an intersection with a crowded clan street.
+The guards at the gate eye you suspiciously from afar.
+~
+1 262144 1
+D0
+You see an intersection with a busy clan street.
+~
+~
+0 -1 6266
+S
+#6268
+Outside the North Gate of Felanor~
+~
+You stand outside the north gate of the walled city of Felanor.  A dusty 
+trail is visibile to the north, it stretches around the walls of the city.  
+Further north lies the vast wilderness.  
+~
+1 262144 2
+D2
+You see the north gate of Felanor.
+~
+~
+0 6133 6262
+S
+#6270
+On the Concourse~
+~
+The strong stone walls of Felanor rise up to the west, keeping evil at bay.
+The concourse heads towards a bridge to the north, and continues south 
+alongside a beautiful park.
+~
+1 262144 1
+D2
+The concourse heads south, passing by a beautiful park.
+~
+~
+0 -1 6271
+S
+#6271
+On the Concourse near the park~
+~
+You are walking down the Concoruse, along the western wall of Felanor.  To
+the north, the road passes by a beautiful park, to the south, you can see
+the southwest corner of the city wall.
+~
+1 262144 1
+D0
+The concourse heads north, passing by a beautiful park.
+~
+~
+0 -1 6270
+S
+#6272
+On the Concourse at Penny Lane~
+~
+You are on a road leading around the inner walls of Felanor.  To the north,
+the concourse heads towards a bridge into northern Felanor.  To the south, 
+you can see an intersection with Elm Street.  The quaint paved streets of
+Penny Lane lie west.
+~
+1 262144 1
+D2
+The concourse continues south, towards an intersection with Elm Street.
+~
+~
+0 -1 6273
+S
+#6273
+On the Concourse at Elm Street~
+~
+The air grows chill as you pass near the Elm Street graveyard.  The walls of
+Felanor are to the east, and the concourse continues to the north and south.
+To your west, you see Elm Street at the graveyard entrance.
+~
+1 262144 1
+D0
+The concourse continues to the north, towards an intersection with Penny Lane.
+~
+~
+0 -1 6272
+S
+#6301
+Clan Road~
+~
+You are standing on the western end of Clan Road.  The traffic here  
+is light.  This is a quieter section of Felanor.  You can hear the sound of
+haggling coming from the east.
+~
+1 262144 1
+D1
+Clan Road continues east.
+~
+~
+0 -1 6302
+D3
+Wall Road is to the west.
+~
+~
+0 -1 6258
+S
+#6302
+Clan Road~
+~
+You are walking along Clan Road.  To the south of you is the Bank of 
+Felanor.  Clan road continues on to the east and west.  
+~
+1 262144 1
+D1
+Clan Road continues east.
+~
+~
+0 -1 6303
+D2
+The money changer is to the south.
+~
+~
+0 -1 6334
+D3
+Clan Road continues west.
+~
+~
+0 -1 6301
+S
+#6303
+Clan Road~
+~
+The shops on this stretch of Clan road are long-closed and boarded up.
+Not much traffic passes through this part, as there is nothing to buy.  
+~
+1 262144 1
+D1
+Clan Road continues to the east.
+~
+~
+0 -1 6314
+D3
+Clan Road continues to the west.
+~
+~
+0 -1 6302
+S
+#6314
+Clan Road~
+~
+Noise and light abound on this part of Clan Road.  Clan road continues off
+to the east and west.
+~
+1 262144 1
+D1
+Clan Road continues to the east.
+~
+~
+0 -1 6315
+D3
+Clan Road continues to the west.
+~
+~
+0 -1 6303
+S
+#6315
+Clan Road~
+~
+Clan Road seems to widen here slightly, allowing more traffic to 
+travel through the area.  To the south is another entrance to the busy
+pub.  This door is also open wide and spilling forth the sounds of
+happy patrons.  Clan Road continues to the east and west.
+~
+1 262144 1
+D1
+Clan Road continues to the east.
+~
+~
+0 -1 6316
+D2
+A busy pub is to the south.
+~
+~
+0 -1 6356
+D3
+Clan Road continues to the west.
+~
+~
+0 -1 6314
+S
+#6316
+Clan Road~
+~
+You are at the eastern end of Clan Road.  To the east of you, the  
+tall wall around the city looms up before you and casts its shadow on
+you.  Clan Road continues to the west.  
+~
+1 262144 1
+D1
+Wall Road is east of here.
+~
+~
+0 -1 6266
+D3
+Clan Road continues to the west.
+~
+~
+0 -1 6315
+S
+#6334
+Bank of Felanor~
+~
+A few strategically placed lanterns keep this place well-lit in the 
+absence of any windows.  The room is surprisingly well appointed with  
+tapestries hanging on the walls.  You'd wager your life the moneylender's
+guards are behind them, as there are none here.  The moneylender himself
+works from behind a large desk, no doubt holding a fortune in gold and silver.
+A smallish sign hangs on the wall, lettered in common.
+~
+1 72 0
+D0
+Clan Road is to the north.
+~
+~
+0 -1 6302
+R M 0 6074 1 6334
+E
+tapestries walls~
+You think about peeking behind the tapestries, but think better of it.
+~
+E
+sign~
+Give me your coins, and I shall change them for you, taking but 1 in 20 for
+my fee.  --- Otho the Changer
+~
+S
+#6352
+Grebe's Tavern~
+~
+Dive.  That's all you can say about this place; its a
+dive.  You step carefully over the dead and/or drunk sailors
+on the floor toward the center of the room.  There's no
+decorations on the wall; they've all been ripped down in anger
+or for use as weapons at one time or another.  Looking around,
+you search vainly for a clean table to sit at, and then give up.
+~
+1 262156 0
+E
+wall walls~
+Bare, except for the holes.
+~
+E
+table tables~
+You find a table that's relatively vomit-free.
+~
+S
+#6355
+Andy's Pub~
+~
+The busy pub is filled with patrons.  People are laughing and singing.
+A minstrel plays his lute in another part of the pub, and a few people
+are even dancing.  Andy, the pubs owner, wanders around and checks to see
+that the needs of his customers are met.  The bar is to your south.  East
+of you is another section of the pub.  You know that there are rooms to
+be had somewhere around here...
+~
+1 262152 0
+D1
+You see another room in the pub.
+~
+~
+0 -1 6356
+D2
+The bar is to the south of you.
+~
+~
+0 -1 6357
+S
+#6356
+A Room in the Pub~
+~
+This part of the pub is filled with dancing and singing.  A wandering
+minstrel is on a chair in a corner with his lute.  A busty red headed
+woman is standing near him and singing a tale of comedic heroism. Drunk
+men sit laughing at their tables and busy bar maids weave through the
+crowd with full mugs and horns of ale and mead.  Another part of the pub
+is located to your west. The bar is to the south.  A set of steps occupy
+in a corner of the room.  They lead up to the inn section of this
+prosperous establishment.
+~
+1 262152 0
+D0
+Clan Road is to the north.
+~
+~
+0 -1 6315
+D2
+The bar is to your south.
+~
+~
+0 -1 6358
+D3
+Another room in the pub is to your west.
+~
+~
+0 -1 6355
+D4
+A set of stairs leads up to the reception area.
+~
+~
+0 -1 6359
+S
+#6357
+The Bar~
+~
+A long mahogany bar is set in the back of the pub.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly-looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids stand in a corner and throw the most
+inviting glances your way.
+A sign is on the wall.
+~
+1 262152 0
+D0
+The pub proper is to the north.
+~
+~
+0 -1 6355
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+S
+#6358
+The Bar~
+~
+A long mahogany bar is set in the back of the pub.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids stand in a corner and throw the most
+inviting glances your way.
+~
+1 262152 0
+D0
+The pub proper is to the north.
+~
+~
+0 -1 6356
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+S
+#6359
+The Inn~
+~
+You are standing upstairs from Andy's Pub at Andy's Inn.  A few chairs
+and a couple of end tables give the room a ``homey' atmosphere.  A large
+stone fireplace burns brightly against one wall and warms the room.  A
+large oak desk is nestled in one corner of the room.  A small man with
+wire-framed glasses sits behind the desk working dilligently on his books.
+He looks up as you enter the room.  He looks at you quizzically.  He is
+probably waiting for you to ask him for a room.
+~
+1 262152 0
+D5
+The stairs lead back down to the pub.
+~
+~
+0 -1 6356
+S
+#0
+
+
+#SHOPS
+ 6000    2  3  4 10  0   105  15         0 23    ; the wizard
+ 6001    0  0  0  0  0   110 100         0 23    ; the baker
+ 6002    1  8 13 15 19   150  40         0 23    ; the grocer
+ 6003    5 42  7  0  0   120  40         0 23    ; johnathan the weaponsmith
+ 6004    9  0  0  0  0   100  50         0 23    ; the armorer
+ 6006   22  0  0  0  0   120  90         6 22    ; the captain
+ 6008    0  0  0  0  0   105 100         0 23    ; the pet shop boy
+ 6009    8 30 32 33  0   110 100         0 23    ; the jeweller
+ 6010    9  0  0  0  0   110  50         0 23    ; the leather worker
+ 6040    0  0  0  0  0   110 100         0 23    ; the bartender
+ 6042    0  0  0  0  0   105 100         0 23    ; the waiter
+ 6043    0  0  0  0  0   110 100         0 23    ; the waiter
+ 6044    0  0  0  0  0   170 100         0 23    ; the waiter
+ 6045    0  0  0  0  0   150 100         0 23    ; the waiter
+ 6046    0  0  0  0  0   100  90         0 23    ; filthy
+ 6070   10  0  0  0  0   1000 100         0 23    ; the ancient potion-brewer
+ 6100    0  0  0  0  0   110  90         6 23    ; the maid
+ 6150    0  0  0  0  0   105 100         0 23    ; esme
+ 6160    0  0  0  0  0   105 100         0 23    ; melancholy
+ 6162    0  0  0  0  0   105 100         0 23    ; otho the Banker
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,4296 @@
+#AREA        Mines~
+
+
+
+#VERSION     11
+#AUTHOR      ixliam~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#65000
+huge black rock worm~
+a rock worm~
+A huge black worm is eating the stone here.
+~
+This huge worm is black in color and very grotesque.  It has a mouth of sorts 
+at one end, and is using it to devour some rocks here.
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+44 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65001
+cave spider~
+a cave spider~
+A large cave spider is hanging from the ceiling.
+~
+This large spider is the color of stone and dirt. Large fangs dripping with 
+poison extend from its head as it looks for its next meal. 
+~
+0
+clanname none~
+0
+0
+65 65536 0 C
+46 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65002
+gravorg~
+a gravorg~
+A large gravorg is here, hiding in the shadows.
+~
+A gravorg is a 10-foot-long, four-legged animal that vaguely resembles a 
+sloth. Its fur is a mixture of white, gray, and black hairs. This coloration 
+makes it look like a lump of stone. The gravorg is 10-foot-long with four 
+large legs, and vaguely resembles a sloth. Its fur is a mixture of white, 
+gray, and black hairs. This coloration makes it look like a lump of stone 
+when motionless. 
+~
+0
+clanname none~
+0
+0
+65 65536 0 C
+48 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65003
+huge black rock worm~
+a rock worm~
+A huge black worm is eating the stone here.
+~
+This huge worm is black in color and very grotesque.  It has a mouth of sorts 
+at one end, and is using it to devour some rocks here.
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+48 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65004
+huge black rock worm~
+a rock worm~
+A huge black worm is eating the stone here.
+~
+This huge worm is black in color and very grotesque.  It has a mouth of sorts 
+at one end, and is using it to devour some rocks here.
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+44 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65005
+undead beholder~
+an undead beholder~
+A rotting beholder is floating here.
+~
+This looks like a typical beholder, save that it is grey, rotting, and
+several eyestalks are missing.  A milky film covers the main eye, making it
+look quite sickly.  
+~
+0
+clanname none~
+0
+0
+65 4096 -600 C
+75 60 -44 7d11+375 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#65000
+dirt~
+a pile of dirt~
+A pile of dirt is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65001
+gold ore~
+some gold ore~
+A clump of gold ore is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+2 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65002
+copper ore~
+some copper ore~
+A clump of copper ore is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65003
+silver ore~
+some silver ore~
+A clump of silver ore is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65004
+iron ore~
+some iron ore~
+A clump of iron ore is here.~
+~
+40 0 32
+0 0 0 0 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65005
+mithril ore~
+some mithril ore~
+A clump of mithril ore is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65006
+adamantium ore~
+some adamantium ore~
+A clump of adamantium ore is here.~
+~
+56 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65007
+diamond~
+a rough diamond~
+A rough diamond lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65008
+garnet~
+a small garnet~
+A small garnet lies here~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65009
+rose quartz gem~
+a small rose quartz gem~
+A small rose quartz gem lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65010
+amethyst~
+an amethyst gemstone~
+An amethyst gemstone lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65011
+onyx gem~
+an onyx gem~
+An onyx gem lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65012
+bloodstone~
+a bloodstone~
+A bloodstone lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65013
+emerald~
+an emerald~
+A small emerald is here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65014
+ruby~
+a ruby~
+A small ruby lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65015
+sapphire~
+a sapphire~
+A small sapphire lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65016
+topaz~
+a topaz gemstone~
+A small topaz gemstone lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#65017
+dark glowing vampiric ore~
+some strange dark ore~
+A strange clump of ore lies here.~
+~
+56 16 32
+0 0 0 0 0 0 0
+2 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#65000
+Mine Entrance~
+~
+Large wooden beams extend into the dark entrance of the mine shaft. Long ago 
+abandoned, the mines offer the wary adventurer the chance for riches, or 
+death. Light trickles in from the outside, and the air is filled with dust 
+from dirt and rocks. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65001
+D4
+~
+~
+0 0 56438
+S
+#65001
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65002
+D2
+~
+~
+0 0 65000
+S
+#65002
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65005
+D1
+~
+~
+0 0 65004
+D2
+~
+~
+0 0 65001
+D3
+~
+~
+0 0 65003
+S
+#65003
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65002
+D2
+~
+~
+0 0 65097
+D5
+~
+~
+0 0 65006
+S
+#65004
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65117
+D2
+~
+~
+0 0 65089
+D3
+~
+~
+0 0 65002
+S
+#65005
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65009
+D1
+~
+~
+0 0 65076
+D2
+~
+~
+0 0 65002
+D3
+~
+~
+0 0 65142
+D5
+~
+~
+0 0 65061
+S
+#65006
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65007
+D2
+~
+~
+0 0 65012
+D3
+~
+~
+0 0 65008
+D4
+~
+~
+0 0 65003
+S
+#65007
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65015
+D2
+~
+~
+0 0 65006
+D3
+~
+~
+0 0 65065
+S
+#65008
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65026
+D1
+~
+~
+0 0 65006
+D2
+~
+~
+0 0 65027
+D3
+~
+~
+0 0 65025
+D5
+~
+~
+0 0 65028
+S
+#65009
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65010
+D2
+~
+~
+0 0 65005
+D3
+~
+~
+0 0 65062
+S
+#65010
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65139
+D1
+~
+~
+0 0 65090
+D2
+~
+~
+0 0 65009
+D5
+~
+~
+0 0 65011
+S
+#65011
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65099
+D4
+~
+~
+0 0 65010
+S
+#65012
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65006
+D2
+~
+~
+0 0 65013
+S
+#65013
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65012
+D2
+~
+~
+0 0 65014
+S
+#65014
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65013
+D3
+~
+~
+0 0 65091
+S
+#65015
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65016
+D3
+~
+~
+0 0 65007
+S
+#65016
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65017
+D2
+~
+~
+0 0 65015
+S
+#65017
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65018
+D2
+~
+~
+0 0 65016
+S
+#65018
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65019
+D2
+~
+~
+0 0 65017
+S
+#65019
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65020
+D2
+~
+~
+0 0 65018
+S
+#65020
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65019
+D3
+~
+~
+0 0 65021
+S
+#65021
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65078
+D1
+~
+~
+0 0 65020
+D3
+~
+~
+0 0 65022
+S
+#65022
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65023
+D1
+~
+~
+0 0 65021
+D5
+~
+~
+0 0 65066
+S
+#65023
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65024
+D2
+~
+~
+0 0 65022
+S
+#65024
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65023
+S
+#65025
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65030
+D1
+~
+~
+0 0 65008
+D2
+~
+~
+0 0 65031
+D3
+~
+~
+0 0 65029
+D5
+~
+~
+0 0 65032
+S
+#65026
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65035
+D2
+~
+~
+0 0 65008
+S
+#65027
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65008
+S
+#65028
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D4
+~
+~
+0 0 65008
+S
+#65029
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65034
+D1
+~
+~
+0 0 65025
+D2
+~
+~
+0 0 65075
+D3
+~
+~
+0 0 65033
+S
+#65030
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65074
+D2
+~
+~
+0 0 65025
+D3
+~
+~
+0 0 65102
+S
+#65031
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65025
+D1
+~
+~
+0 0 65073
+S
+#65032
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65084
+D3
+~
+~
+0 0 65071
+D4
+~
+~
+0 0 65025
+S
+#65033
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65029
+S
+#65034
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65082
+D2
+~
+~
+0 0 65029
+S
+#65035
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65036
+D3
+~
+~
+0 0 65026
+D5
+~
+~
+0 0 65068
+S
+#65036
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65037
+D3
+~
+~
+0 0 65035
+S
+#65037
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65038
+D3
+~
+~
+0 0 65036
+S
+#65038
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65037
+D3
+~
+~
+0 0 65039
+S
+#65039
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65038
+D5
+~
+~
+0 0 65040
+S
+#65040
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65041
+D4
+~
+~
+0 0 65039
+S
+#65041
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65042
+D1
+~
+~
+0 0 65040
+D2
+~
+~
+0 0 65044
+D3
+~
+~
+0 0 65043
+D5
+~
+~
+0 0 65045
+S
+#65042
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65041
+S
+#65043
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65048
+D1
+~
+~
+0 0 65041
+D2
+~
+~
+0 0 65046
+D3
+~
+~
+0 0 65047
+S
+#65044
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65041
+S
+#65045
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65069
+D4
+~
+~
+0 0 65041
+S
+#65046
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65043
+D1
+~
+~
+0 0 65049
+D2
+~
+~
+0 0 65052
+D3
+~
+~
+0 0 65050
+D5
+~
+~
+0 0 65051
+S
+#65047
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65043
+S
+#65048
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65043
+S
+#65049
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65046
+S
+#65050
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65046
+S
+#65051
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65056
+D1
+~
+~
+0 0 65055
+D2
+~
+~
+0 0 65054
+D3
+~
+~
+0 0 65057
+D4
+~
+~
+0 0 65046
+D5
+~
+~
+0 0 65053
+S
+#65052
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65046
+S
+#65053
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D4
+~
+~
+0 0 65051
+S
+#65054
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65051
+S
+#65055
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65060
+D2
+~
+~
+0 0 65058
+D3
+~
+~
+0 0 65051
+D5
+~
+~
+0 0 65059
+S
+#65056
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65051
+S
+#65057
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65051
+S
+#65058
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65055
+S
+#65059
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D4
+~
+~
+0 0 65055
+S
+#65060
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65055
+S
+#65061
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65108
+D2
+~
+~
+0 0 65081
+D4
+~
+~
+0 0 65005
+S
+#65062
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65009
+D2
+~
+~
+0 0 65063
+D3
+~
+~
+0 0 65116
+S
+#65063
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65062
+D1
+~
+~
+0 0 65098
+D3
+~
+~
+0 0 65174
+D5
+~
+~
+0 0 65064
+S
+#65064
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D4
+~
+~
+0 0 65063
+S
+#65065
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65007
+S
+#65066
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65067
+D4
+~
+~
+0 0 65022
+S
+#65067
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65066
+S
+#65068
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D4
+~
+~
+0 0 65035
+S
+#65069
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65070
+D3
+~
+~
+0 0 65045
+S
+#65070
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65069
+S
+#65071
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65072
+D1
+~
+~
+0 0 65032
+S
+#65072
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65086
+D2
+~
+~
+0 0 65071
+D3
+~
+~
+0 0 65085
+S
+#65073
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65031
+D5
+~
+~
+0 0 65087
+S
+#65074
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65030
+S
+#65075
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65029
+S
+#65076
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65077
+D3
+~
+~
+0 0 65005
+S
+#65077
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65076
+S
+#65078
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65079
+D1
+~
+~
+0 0 65080
+D2
+~
+~
+0 0 65021
+S
+#65079
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65078
+S
+#65080
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65078
+S
+#65081
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65061
+D2
+~
+~
+0 0 65141
+D5
+~
+~
+0 0 65103
+S
+#65082
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65083
+D3
+~
+~
+0 0 65034
+S
+#65083
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65082
+S
+#65084
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D3
+~
+~
+0 0 65032
+S
+#65085
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65072
+S
+#65086
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65072
+S
+#65087
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D2
+~
+~
+0 0 65088
+D4
+~
+~
+0 0 65073
+S
+#65088
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65087
+S
+#65089
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D0
+~
+~
+0 0 65004
+S
+#65090
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 67108873 11
+D1
+~
+~
+0 0 65126
+D3
+~
+~
+0 0 65010
+S
+#65091
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65014
+D3
+~
+~
+0 0 65092
+S
+#65092
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65091
+D2
+~
+~
+0 0 65093
+S
+#65093
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65092
+D2
+~
+~
+0 0 65094
+S
+#65094
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65093
+D1
+~
+~
+0 0 65095
+S
+#65095
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65096
+D3
+~
+~
+0 0 65094
+S
+#65096
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65095
+D3
+~
+~
+0 0 65119
+S
+#65097
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65003
+D1
+~
+~
+0 0 65187
+D2
+~
+~
+0 0 65176
+D3
+~
+~
+0 0 65118
+D5
+~
+~
+0 0 65177
+S
+#65098
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65105
+D3
+~
+~
+0 0 65063
+S
+#65099
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65011
+D2
+~
+~
+0 0 65100
+S
+#65100
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65099
+D1
+~
+~
+0 0 65132
+D2
+~
+~
+0 0 65101
+D3
+~
+~
+0 0 65133
+S
+#65101
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65100
+S
+#65102
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65030
+S
+#65103
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D4
+~
+~
+0 0 65081
+D5
+~
+~
+0 0 65104
+S
+#65104
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65113
+D4
+~
+~
+0 0 65103
+S
+#65105
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65098
+D2
+~
+~
+0 0 65106
+S
+#65106
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65105
+D1
+~
+~
+0 0 65107
+S
+#65107
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65106
+S
+#65108
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65109
+D1
+~
+~
+0 0 65110
+D2
+~
+~
+0 0 65061
+S
+#65109
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65108
+S
+#65110
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65111
+D3
+~
+~
+0 0 65108
+S
+#65111
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65112
+D2
+~
+~
+0 0 65110
+S
+#65112
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65111
+S
+#65113
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65114
+D2
+~
+~
+0 0 65104
+S
+#65114
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65115
+D2
+~
+~
+0 0 65113
+S
+#65115
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65114
+D3
+~
+~
+0 0 65131
+S
+#65116
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65062
+D2
+~
+~
+0 0 65120
+S
+#65117
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65206
+D3
+~
+~
+0 0 65004
+S
+#65118
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65134
+D1
+~
+~
+0 0 65097
+D2
+~
+~
+0 0 65136
+D3
+~
+~
+0 0 65135
+S
+#65119
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65096
+S
+#65120
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65116
+D1
+~
+~
+0 0 65121
+D5
+~
+~
+0 0 65122
+S
+#65121
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65173
+D3
+~
+~
+0 0 65120
+S
+#65122
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65123
+D4
+~
+~
+0 0 65120
+S
+#65123
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65122
+D1
+~
+~
+0 0 65125
+D3
+~
+~
+0 0 65124
+S
+#65124
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65123
+S
+#65125
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65123
+S
+#65126
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65127
+D3
+~
+~
+0 0 65090
+S
+#65127
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65128
+D3
+~
+~
+0 0 65126
+S
+#65128
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65130
+D1
+~
+~
+0 0 65129
+D2
+~
+~
+0 0 65127
+S
+#65129
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65128
+S
+#65130
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65128
+S
+#65131
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65115
+S
+#65132
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65100
+S
+#65133
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65100
+S
+#65134
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65215
+D2
+~
+~
+0 0 65118
+S
+#65135
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65118
+D3
+~
+~
+0 0 65137
+S
+#65136
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65118
+D2
+~
+~
+0 0 65147
+S
+#65137
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65135
+D3
+~
+~
+0 0 65138
+S
+#65138
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65216
+D1
+~
+~
+0 0 65137
+S
+#65139
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65140
+D2
+~
+~
+0 0 65010
+S
+#65140
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65211
+D2
+~
+~
+0 0 65139
+S
+#65141
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65081
+S
+#65142
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65005
+D3
+~
+~
+0 0 65143
+S
+#65143
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65224
+D1
+~
+~
+0 0 65142
+D3
+~
+~
+0 0 65144
+S
+#65144
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65143
+D2
+~
+~
+0 0 65178
+D3
+~
+~
+0 0 65145
+S
+#65145
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65172
+D1
+~
+~
+0 0 65144
+D3
+~
+~
+0 0 65146
+S
+#65146
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65145
+D3
+~
+~
+0 0 65194
+S
+#65147
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65136
+D2
+~
+~
+0 0 65148
+S
+#65148
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65147
+D2
+~
+~
+0 0 65149
+D3
+~
+~
+0 0 65180
+S
+#65149
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65148
+D2
+~
+~
+0 0 65150
+S
+#65150
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65149
+D1
+~
+~
+0 0 65181
+D2
+~
+~
+0 0 65151
+S
+#65151
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65150
+D2
+~
+~
+0 0 65152
+S
+#65152
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65151
+D2
+~
+~
+0 0 65153
+S
+#65153
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65152
+D1
+~
+~
+0 0 65154
+S
+#65154
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65155
+D3
+~
+~
+0 0 65153
+S
+#65155
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65156
+D1
+~
+~
+0 0 65225
+D2
+~
+~
+0 0 65154
+D3
+~
+~
+0 0 65166
+S
+#65156
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65157
+D2
+~
+~
+0 0 65155
+S
+#65157
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65158
+D2
+~
+~
+0 0 65156
+S
+#65158
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65159
+D2
+~
+~
+0 0 65157
+S
+#65159
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65160
+D2
+~
+~
+0 0 65158
+S
+#65160
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65161
+D2
+~
+~
+0 0 65159
+S
+#65161
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65162
+D2
+~
+~
+0 0 65160
+S
+#65162
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65163
+D2
+~
+~
+0 0 65161
+S
+#65163
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65164
+D2
+~
+~
+0 0 65162
+S
+#65164
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65165
+D2
+~
+~
+0 0 65163
+S
+#65165
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65168
+D2
+~
+~
+0 0 65164
+S
+#65166
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65155
+D3
+~
+~
+0 0 65167
+S
+#65167
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65166
+S
+#65168
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65169
+D2
+~
+~
+0 0 65165
+S
+#65169
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65170
+D2
+~
+~
+0 0 65168
+S
+#65170
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65171
+D2
+~
+~
+0 0 65169
+S
+#65171
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65170
+D3
+~
+~
+0 0 65182
+S
+#65172
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65189
+D2
+~
+~
+0 0 65145
+S
+#65173
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65121
+S
+#65174
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65175
+D1
+~
+~
+0 0 65063
+S
+#65175
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65174
+S
+#65176
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65097
+D1
+~
+~
+0 0 65188
+S
+#65177
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D4
+~
+~
+0 0 65097
+S
+#65178
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65144
+D5
+~
+~
+0 0 65179
+S
+#65179
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D4
+~
+~
+0 0 65178
+S
+#65180
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65148
+S
+#65181
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65150
+S
+#65182
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65171
+D3
+~
+~
+0 0 65183
+S
+#65183
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65182
+D5
+~
+~
+0 0 65184
+S
+#65184
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65185
+D4
+~
+~
+0 0 65183
+S
+#65185
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65184
+D2
+~
+~
+0 0 65186
+S
+#65186
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65185
+D2
+~
+~
+0 0 65196
+S
+#65187
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65097
+S
+#65188
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65176
+S
+#65189
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65172
+D3
+~
+~
+0 0 65190
+S
+#65190
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65189
+D3
+~
+~
+0 0 65191
+S
+#65191
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65190
+D2
+~
+~
+0 0 65192
+S
+#65192
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65191
+D2
+~
+~
+0 0 65193
+S
+#65193
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65192
+D1
+~
+~
+0 0 65195
+S
+#65194
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65212
+D1
+~
+~
+0 0 65146
+S
+#65195
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65193
+S
+#65196
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65186
+D2
+~
+~
+0 0 65197
+S
+#65197
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65196
+D5
+~
+~
+0 0 65198
+S
+#65198
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65199
+D4
+~
+~
+0 0 65197
+S
+#65199
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65200
+D2
+~
+~
+0 0 65198
+S
+#65200
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65201
+D2
+~
+~
+0 0 65199
+S
+#65201
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65202
+D2
+~
+~
+0 0 65200
+S
+#65202
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65203
+D2
+~
+~
+0 0 65201
+S
+#65203
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65204
+D2
+~
+~
+0 0 65202
+S
+#65204
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65205
+D2
+~
+~
+0 0 65203
+S
+#65205
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65204
+S
+#65206
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65222
+D1
+~
+~
+0 0 65207
+D2
+~
+~
+0 0 65117
+S
+#65207
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D1
+~
+~
+0 0 65209
+D2
+~
+~
+0 0 65208
+D3
+~
+~
+0 0 65206
+S
+#65208
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65207
+D2
+~
+~
+0 0 65217
+S
+#65209
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65210
+D2
+~
+~
+0 0 65219
+D3
+~
+~
+0 0 65207
+S
+#65210
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65220
+D2
+~
+~
+0 0 65209
+D5
+~
+~
+0 0 65223
+S
+#65211
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65140
+S
+#65212
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65213
+D2
+~
+~
+0 0 65194
+S
+#65213
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65214
+D2
+~
+~
+0 0 65212
+S
+#65214
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65213
+S
+#65215
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65134
+S
+#65216
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65138
+S
+#65217
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65208
+D2
+~
+~
+0 0 65218
+S
+#65218
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65217
+D2
+~
+~
+0 0 65221
+S
+#65219
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65209
+S
+#65220
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65210
+S
+#65221
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D0
+~
+~
+0 0 65218
+S
+#65222
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65206
+S
+#65223
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D4
+~
+~
+0 0 65210
+S
+#65224
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D2
+~
+~
+0 0 65143
+S
+#65225
+In the Mines~
+~
+Water slowly drips from the sides of the mine, and bits of broken rock and 
+dirt cover the floor. The hopes of many a person have been lost and found 
+here, as the mines can bring both riches... and death. 
+~
+1 100663304 11
+D3
+~
+~
+0 0 65155
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

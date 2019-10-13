@@ -1,0 +1,2120 @@
+#AREA        Tulgard Cemetery~
+
+
+
+#VERSION     11
+#AUTHOR      rudrik~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#6600
+blank hero~
+blank hero~
+Blank hero
+~
+Blank hero
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6601
+ghost selbon~
+`#the `Cg`ch`Wo`cs`Ct`^ of Selbon~
+`#the `Cg`ch`Wo`cs`Ct`^ of Selbon Valcore stands here guarding his remains.
+~
+Before you is a tall angelic male form.  He has a blinding white aura that 
+beams onto you.  It is so bright you hardly see his feathery wings that 
+almost hit the ground.  He has long strait blond braided hair to the middle 
+of his back.  When his eyes are open you see his glowing blue eyes.  He has 
+a smooth face that almost looks like an artist carved it out of marble.  He 
+looks almost flawless! 
+~
+0
+Clanname none~
+0
+0
+3 524288 600 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6602
+ghost zana~
+`#the `Cg`ch`Wo`cs`Ct`^ of Zana~
+`#the `Cg`ch`Wo`cs`Ct`^ of Zana stands here guarding her remains.
+~
+A young, half-elven woman is here, before you. She appears thin, with a 
+lightly muscled frame, with skin that looks rather soft and smooth, without 
+a blemish. Her silver hair falls down in waves about her shoulders, ending 
+about halfway down her back; and small pointed ears peek up from under the 
+mass. Her eyes, when open; are an intense sapphire blue that seem to be 
+filled with a strong spirit and will to match. Despite her athletic build, 
+she shows soft curves that belie her human heritage. 
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+91 0 -61 9d13+445 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6603
+ghost rewand~
+`#the `Cg`ch`Wo`cs`Ct`^ of Rewand~
+`#the `Cg`ch`Wo`cs`Ct`^ of Rewand is standing here guarding his remains.
+~
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6604
+ghost traed~
+`#the `Cg`ch`Wo`cs`Ct`^ of Traed~
+The `#`Cg`ch`Wo`cs`Ct`^ of `#`wTraed Ta'al Theardar`^ stands here guarding his remains.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+87 0 -61 9d13+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6605
+ghost aglar~
+`#the `Cg`ch`Wo`cs`Ct`^ of Aglar~
+`#the `Cg`ch`Wo`cs`Ct`^ of Aglar stands here guarding his remains.
+~
+You see a massive shadow dragon. His scales are dark, almost black and are 
+somehow glittering in the daylight. Their colour makes him almost invisible 
+in the night, despite of his huge figure. His eyes, when open, are yellow 
+and look sharp and aware, not missing the slightest move around him. His 
+wings seem well-developed and a little too big for his body and when spread, 
+you can notice, that they are enormous and make him look even bigger. They 
+appear to be a little darker than his overall shade. You can clearly see, 
+that some of the scales on his right wing and damaged, as from a collision. 
+His monstrous-looking teeth are gleaming white, which makes them contrasting 
+with his body strongly. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6606
+ghost bael~
+`#the `Cg`ch`Wo`cs`Ct`^ of Bael~
+`#the `Cg`ch`Wo`cs`Ct`^ of Bael uth Draco is here guarding his remains.
+~
+Before you is a demonic male half-elf with snow-white hair.  His hair falls 
+down to the middle of his back and is parted on the top of his head by two 
+horns that are 4 inches in length.  His skin is a dark tan in color.  His 
+features are that of a half-elf, but many are twisted to that of a demons.  
+His ears are very long and pointed. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+91 5 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6607
+xeal red maned werewolf ghost~
+the `#`Cg`ch`Wo`cs`Ct`^ of `#`XXeal`^~
+The `#`Cg`ch`Wo`cs`Ct`^ of `#`XXeal`^ stands here guarding his remains.
+~
+An overwhelmingly large werewolf stands at a height of 7 feet 5 inches when 
+on his hind legs. He has a bulky furry mane about his neck making him look 
+more vicious. He has flashing red fur and, when visible,  Glowing red eyes. 
+The ears on his head are large, and stand up straight making it seem as 
+though he can hear quite well and alert at all times. At the end of his paw 
+like hands are large sharp claws that look as though they can tear through 
+anything. 
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+89 0 -59 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6609
+jiven pack rat~
+`#`GJiven`^~
+Jiven the pack rat stands here.
+~
+~
+0
+Clanname none~
+0
+0
+129 128 0 C
+81 0 -51 8d12+405 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6610
+ghost~
+a ghost of the mist~
+You see a ghost of the mist floating near by.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+30 -5 -9 5d5+130 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6611
+garik ghost~
+`#the `Cg`ch`Wo`cs`Ct`^ of Garik~
+The ghost of Garik Knighthire stands here guarding his remains.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#6600
+blank weapon~
+blank weapon~
+Blank weapon~
+~
+5 32 4
+3 28 3 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6601
+spirit sword mist~
+`#the `Cs`cp`Wir`ci`Ct`^ sword~
+You see a strange invisable mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+6 116 152 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6602
+spirit staff mist~
+`#the `Cs`cp`Wir`ci`Ct`^ staff~
+You see a strange invisable mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+15 116 152 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6603
+spirit axe mist~
+`#the `Cs`cp`Wir`ci`Ct`^ axe~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+3 116 152 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6604
+spirit whip mist~
+`#the `Cs`cp`Wir`ci`Ct`^ whip~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+9 108 151 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6605
+spirit dagger mist~
+`#the `Cs`cp`Wir`ci`Ct`^ dagger~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+19 116 152 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6606
+spirit mace mist~
+`#the `Cs`cp`Wir`ci`Ct`^ mace~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+6 116 152 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6607
+spirit flail mist~
+`#the `Cs`cp`Wir`ci`Ct`^ flail~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+9 8 27 2052 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6608
+spirit polearm mist~
+`#the `Cs`cp`Wir`ci`Ct`^ polearm~
+You see a strange invisible mist on the ground looks as though you should try to pick it up.~
+~
+5 32 4
+23 3 34 2084 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6609
+pack back backpack~
+`#a large `mleather`^ pack~
+A large leather pack lies here.~
+~
+15 64 8
+1 0 200 45 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6609 pack back backpack large~
+It looks pretty big on the inside.
+~
+#6611
+gold plated monocle~
+a gold plated monocle~
+A gold plated monocle is lying here.~
+~
+9 0 8
+55 55 8 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#6600
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+1 0 6601
+S
+#6601
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6602
+D2
+~
+~
+1 0 6600
+D3
+~
+~
+0 0 6658
+S
+#6602
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6646
+D1
+~
+~
+0 0 6603
+D3
+~
+~
+0 0 6601
+S
+#6603
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6604
+D3
+~
+~
+0 0 6602
+S
+#6604
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6636
+D1
+~
+~
+0 0 6605
+D3
+~
+~
+0 0 6603
+R M 0 6610 50 6604
+S
+#6605
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6606
+D3
+~
+~
+0 0 6604
+S
+#6606
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6626
+D1
+~
+~
+0 0 6607
+D3
+~
+~
+0 0 6605
+S
+#6607
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6606
+S
+#6608
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6609
+D3
+~
+~
+0 0 6607
+R M 0 6610 50 6608
+S
+#6609
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6611
+D2
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6610
+S
+#6610
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6609
+S
+#6611
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6613
+D2
+~
+~
+0 0 6609
+D3
+~
+~
+0 0 6612
+S
+#6612
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6611
+S
+#6613
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6615
+D2
+~
+~
+0 0 6611
+D3
+~
+~
+1 0 6614
+S
+#6614
+A Dug Up Grave~
+~
+A big hole has been dug where a body once laid, nothing much else is noticeable at all.
+~
+1 268443656 0
+D1
+~
+~
+1 0 6613
+S
+#6615
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6617
+D2
+~
+~
+0 0 6613
+D3
+~
+~
+0 0 6616
+S
+#6616
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6615
+S
+#6617
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D2
+~
+~
+0 0 6615
+D3
+~
+~
+0 0 6618
+R M 0 6610 50 6617
+S
+#6618
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6617
+D3
+~
+~
+0 0 6619
+S
+#6619
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6620
+D3
+~
+~
+0 0 6628
+R M 0 6610 50 6619
+S
+#6620
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6619
+D2
+~
+~
+0 0 6622
+D3
+~
+~
+0 0 6621
+S
+#6621
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6620
+S
+#6622
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6620
+D2
+~
+~
+0 0 6624
+D3
+~
+~
+0 0 6623
+S
+#6623
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6622
+S
+#6624
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6622
+D2
+~
+~
+0 0 6626
+D3
+~
+~
+0 0 6625
+S
+#6625
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6624
+S
+#6626
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6624
+D2
+~
+~
+0 0 6606
+D3
+~
+~
+1 0 6627
+S
+#6627
+A Shallow Grave~
+~
+A shallow grave recently dug awaits the next unfortunate soul to tempt fate, 
+and lose. 
+~
+1 268443656 0
+D1
+~
+~
+1 0 6626
+S
+#6628
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6619
+D3
+~
+~
+0 0 6629
+S
+#6629
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6630
+D3
+~
+~
+0 0 6638
+S
+#6630
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6629
+D2
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6631
+S
+#6631
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6630
+S
+#6632
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6630
+D2
+~
+~
+0 0 6634
+D3
+~
+~
+1 0 6633
+S
+#6633
+Crypt of Selbon Valcore~
+~
+Here etched in the stone you see written, "Here lies Selbon Valcore 1241 AK 
+- 1279 AK.  Selbon was truly a child of Seandac but towards the end of his 
+life his pain of his family being killed by his Step son Bael created a 
+tainted heart and drove him to greed for power over whelmed him.  He then 
+followed the queen of death, Harpan.  His kindness could never be overcome 
+by evil and then to save his friends returned to his true god, Seandac." 
+~
+1 268435464 0
+D1
+~
+~
+1 0 6632
+R M 0 6601 1 6633
+  R E 0 6606 0 19
+  R E 0 6602 0 16
+S
+#6634
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6632
+D2
+~
+~
+0 0 6636
+D3
+~
+~
+0 0 6635
+S
+#6635
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6634
+S
+#6636
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6634
+D2
+~
+~
+0 0 6604
+D3
+~
+~
+0 0 6637
+S
+#6637
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6636
+S
+#6638
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6629
+D3
+~
+~
+0 0 6639
+S
+#6639
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6638
+D2
+~
+~
+0 0 6640
+D3
+~
+~
+0 0 6648
+R M 0 6610 50 6639
+S
+#6640
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6639
+D2
+~
+~
+0 0 6642
+D3
+~
+~
+1 0 6641
+S
+#6641
+A Shallow Grave~
+~
+The grave of the one that appears to have rested here has been disturbed, a 
+loose pile of dirt rests to the south of where the body was once buried. 
+~
+1 268443656 0
+D1
+~
+~
+1 0 6640
+S
+#6642
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6644
+D3
+~
+~
+0 0 6643
+S
+#6643
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6642
+S
+#6644
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6642
+D2
+~
+~
+0 0 6646
+D3
+~
+~
+0 0 6645
+S
+#6645
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6644
+S
+#6646
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6644
+D2
+~
+~
+0 0 6602
+D3
+~
+~
+0 0 6647
+S
+#6647
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6646
+S
+#6648
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+1 0 6691
+D1
+~
+~
+0 0 6639
+D3
+~
+~
+0 0 6649
+R M 0 6609 1 6648
+  R E 0 6611 0 25
+  R E 0 6609 0 31
+S
+#6649
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6648
+D2
+~
+~
+0 0 6650
+D3
+~
+~
+0 0 6670
+S
+#6650
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6649
+D2
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6651
+S
+#6651
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6650
+R M 0 6607 1 6651
+  R E 0 6601 0 16
+S
+#6652
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6650
+D2
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6653
+S
+#6653
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6652
+S
+#6654
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6652
+D2
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6655
+S
+#6655
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6654
+S
+#6656
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6654
+D2
+~
+~
+0 0 6658
+D3
+~
+~
+1 0 6657
+S
+#6657
+Crypt of Traed ta'al Theardar~
+~
+Etched in stone here are the words: Strift Merquse, The Ancient dragon of 
+tulgard who not only filled this graveyard but now has become one with it. 
+Even in his undead state shall he forever seek out the moans of those 
+passing women and the blood of the foes who dare enter his presence. 
+~
+1 268443656 0
+D1
+~
+~
+1 0 6656
+R M 0 6604 1 6657
+  R E 0 6604 0 16
+  R E 0 6601 0 19
+S
+#6658
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6656
+D1
+~
+~
+0 0 6601
+D3
+~
+~
+0 0 6659
+R M 0 6610 50 6658
+S
+#6659
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6658
+D3
+~
+~
+0 0 6660
+S
+#6660
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6661
+D1
+~
+~
+0 0 6659
+D3
+~
+~
+0 0 6682
+S
+#6661
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6660
+D3
+~
+~
+0 0 6662
+S
+#6662
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6661
+S
+#6663
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6665
+D2
+~
+~
+0 0 6661
+D3
+~
+~
+0 0 6664
+S
+#6664
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6663
+S
+#6665
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6667
+D2
+~
+~
+0 0 6663
+D3
+~
+~
+1 0 6666
+S
+#6666
+A shallow grave~
+~
+A shallow grave lies here, recently dug up. 
+~
+1 268443656 0
+D1
+~
+~
+1 0 6665
+S
+#6667
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6669
+D2
+~
+~
+0 0 6665
+D3
+~
+~
+0 0 6668
+S
+#6668
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6667
+S
+#6669
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6670
+D2
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6671
+R M 0 6610 50 6669
+S
+#6670
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6649
+D3
+~
+~
+0 0 6669
+S
+#6671
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6669
+D3
+~
+~
+0 0 6672
+S
+#6672
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6671
+D2
+~
+~
+0 0 6673
+D3
+~
+~
+0 0 6690
+S
+#6673
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6675
+D3
+~
+~
+0 0 6674
+S
+#6674
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6673
+S
+#6675
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6676
+S
+#6676
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6675
+S
+#6677
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6675
+D2
+~
+~
+0 0 6679
+D3
+~
+~
+0 0 6678
+S
+#6678
+Empty crypt~
+~
+Here is an empty crypt waiting for an occupant.
+~
+1 0 0
+D1
+~
+~
+0 0 6677
+S
+#6679
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6677
+D2
+~
+~
+0 0 6681
+D3
+~
+~
+1 0 6680
+S
+#6680
+Crypt of Garik Knighthire~
+~
+Here lies Garik Knighthire, may he rest in peace.
+~
+1 268443656 0
+D1
+~
+~
+1 0 6679
+R M 0 6611 1 6680
+  R E 0 6605 0 19
+  R E 0 6603 0 16
+S
+#6681
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6679
+D1
+~
+~
+0 0 6682
+D3
+~
+~
+0 0 6683
+R M 0 6610 50 6681
+S
+#6682
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6660
+D3
+~
+~
+0 0 6681
+S
+#6683
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6681
+D3
+~
+~
+0 0 6684
+S
+#6684
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6685
+D1
+~
+~
+0 0 6683
+R M 0 6610 50 6684
+S
+#6685
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6686
+D2
+~
+~
+0 0 6684
+S
+#6686
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6687
+D2
+~
+~
+0 0 6685
+S
+#6687
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6688
+D2
+~
+~
+0 0 6686
+S
+#6688
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D0
+~
+~
+0 0 6689
+D2
+~
+~
+0 0 6687
+S
+#6689
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6690
+D2
+~
+~
+0 0 6688
+R M 0 6610 50 6689
+S
+#6690
+Trail along side of the grave stones~
+~
+You find yourself along a trail next to Crypts and graves.  You get an eerie 
+yet comfortable chill down your spine.  This looks like a very well kept and 
+beautiful cemetery.  It looks like this cemetery has been set aside for very 
+important occupants. 
+~
+1 0 15
+D1
+~
+~
+0 0 6672
+D3
+~
+~
+0 0 6689
+S
+#6691
+~
+~
+~
+1 268435457 0
+D2
+~
+~
+1 0 6648
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

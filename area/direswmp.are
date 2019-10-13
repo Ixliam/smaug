@@ -1,0 +1,1980 @@
+#AREA        Dire Swamp~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#23500
+piranha fish black small~
+a piranha fish~
+A small black fish, with a large, tooth filled mouth swims here.
+~
+This is a small fish.  It has dark scales, and a large, tooth filled mouth.  
+It's large, bulbous eyes glow in the dark.  This small fish darts around 
+nervously, it's jaws opening and closing quickly.  
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+10 0 2 2d5+20 3d6+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23501
+swamp hag ugly old woman~
+the swamp hag~
+An ugly old woman stands here, stirring her bubbling cauldron. 
+~
+This is an ugly old woman, she's wearing dirty robes.  Her hair is dirty,
+and green, and look almost like swamp grass.  On her face is an insane grin,
+and every now and then she's start to cackle insanly.  This is one wierd
+woman, and she smells bad too.  
+~
+0
+Clanname none~
+0
+0
+65 4096 -200 C
+30 1 -9 5d5+140 4d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23502
+Lizardman gatekeeper keeper~
+the lizardman gatekeeper~
+A lizardman gatekeeper stands here, faithfully guarding the gate.
+~
+Before you, stands a large lizardman, he's about 7' tall, and has large
+bulging muscles.  He looks at you with cautious eyes, swinging his tail
+slowly back and forth.  Like all Lizardmen, his scales are darkish green,
+and a row of larger bony plates form a line down his large spine.  He looks
+mean, but intelligent, and he dosen't look like he wants you to pass.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+13 0 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23503
+old large lizardman trainer~
+a lizardman trainer~
+A large, old lizardman stands here, yelling at the younger lizardmen.
+~
+This a big lizardman, with a mean look on his face.  He's yelling at the 
+younger lizardmen, pointing with his large muscular arms.  Like all 
+lizardmen, he's big and and has green scales.  He has a long tail, and large 
+clawed hands.  Maybe you shouldn't mess with this one...  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+30 0 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23504
+trainee young lizardman ~
+a lizardman trainee~
+A young lizardman stands here, practicing his skills.
+~
+This is a young lizardman, training to be a warrior, he's got a deep look
+of concentration, and he dosen't look very happy.  Looking at his large body
+and tail, it looks like he dosen't need much training, except for the clumsy
+way he swings his weapon.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+21 0 -5 4d5+90 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23505
+lizardwoman mother nurse woman large~
+a large lizardwoman~
+A large lizardwoman stands her, taking care of the young.
+~
+This large lizardwoman stands here, taking care of the younger lizard 
+childs.  She is almost as big and muscular as some of the other lizardmen, 
+and she has an annoyed look on her face.  She peers at you, but quickly goes 
+back to caring for the young.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+14 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23506
+young lizard-child child~
+a lizard-child~
+A young lizard-child is running around playing here.
+~
+You are looking at a young lizard child, it's scaly skin is lighter than an 
+adult lizardman's, and it's claws relativley small.  It looks pretty happy, 
+running, jumping and playing.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23507
+lizard-baby small baby bundle ~
+a lizard-baby~
+Resting upon the fur is a small crying bundle. 
+~
+This small bundle that is crying, is really a wrapped up lizard-baby.  It's 
+pretty big, considering it's only a baby.  When it's grows up, it's going to 
+be even bigger.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23508
+spear carver lizardman large craving~
+a large lizardman~
+A large lizardman sits here, carving a spear out of bamboo.
+~
+The large lizardman, is sitting, paying attention to his work.  In his 
+hands, he is holding a long piece of bamboo.  He is carving one end of the 
+bamboo into a sharp edge.  Like all lizardmen, he is large, with molted 
+green scales.  He has a long tail that curls behind him, and large claws on 
+his hands, which make him look awkward holding a dagger.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23509
+large lizardman yellowish shaman~
+a lizardman shaman~
+A large yellowish lizardman stands here performing a ritual.
+~
+A large lizardman with ochre-yellow scales is here chanting to himself.  He 
+appears to be the village shaman.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+48 0 -18 5d8+265 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23510
+small green swamp frog~
+a green swamp frog~
+A small green frog sits here croaking.
+~
+This small amphibian has green skin, long legs, and round eyes.  It's cute 
+in a slimy sort of way.  Every now and then, it's tongue whips out and snaps 
+at a insect.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23511
+large hairy blob decapus~
+a hairy decapus~
+A large hairy blob is here, hanging from its large tentacles.
+~
+This creature consists of a large blob, with two large yellow eyes that 
+stare at you, right above a large slit like mouth.  Extending from the 
+blob-like body, are nine thick tentacles, with suction cups on them.  This 
+is a truly ugly creature, it's brown in colour, and covered in thick black 
+hair.  
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+20 0 -4 3d5+88 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23512
+bullfrog large giant ~
+a giant bullfrog~
+A large bullfrog sits here, looking proud, and slimy.
+~
+This large amphibian has big eyes, long slimy legs, and a white soft 
+underbelly.  It's common name is bullfrog.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23513
+lizardwoman huntress~
+a lizardwoman huntress~
+A lizardwoman stands here, paying attention to the water.
+~
+This green scaled lizardwoman looks like she's hunting, as she intently 
+watches the water.  She is thin and wiry.  She holds her spear with skill, 
+while trying to spear fish, and other animals.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23514
+hunter lizardman~
+a lizardman hunter~
+A lizardman hunter is closing in on some prey.
+~
+A lizardman hunter is crouching and slowly making its way towards its prey.  
+The lizardman moves stealthily across the swamp nearly invisible because he 
+crouches so low.  From what you can see he must be a higly trained hunter 
+and he must have strong arms and legs as well as he seems quick and agile.  
+His skin is green with specks of brown and black.  He slips from here to 
+there constantly following his small prey.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+37 1 -12 5d6+225 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23515
+large red-scaled lizardman chieftain~
+the lizardman Chieftain~
+A large `#`Rred`^-scaled lizardman is here, sitting on his throne.
+~
+This red-scaled lizardman is huge, his enormous body and long tail, make him 
+look like a fearsome foe.  He wears metal armor on his head, which makes him 
+seem more important than the other lizardmen.  He glares at you with large 
+red eyes, and he looks quite intelligent.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+50 1 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23516
+lizardman black highguard~
+a lizardman highguard~
+A lizardman clad in black bamboo gear stands here, defending his Chieftain.
+~
+This large dark scaled lizardman is large and burly.  The scars all over his 
+body tell you that he is no stranger to battle, and that he knows how to use 
+a sword.  His red reptile eyes glare at you, and his large maw hangs 
+slightly open, showing off the rows of large, yellow teeth.  
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+45 0 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23518
+lizardman muscular large warrior~
+a lizardman warrior~
+A large, muscular lizardman stands here, practicing his battle skills.
+~
+This huge lizardman looks like a warrior as he practices his spear thrust.  
+He looks like he is quite skilled at killing.  His large taill, and scaly 
+skin provide natural defense against swords.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+40 1 -13 5d7+240 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23520
+large surly lizardwoman villager woman~
+a lizardwoman villager~
+A large, surly looking lizardwoman stands here, cleaning up the dust.
+~
+This is a large lizardwoman.  She is more similar in size to the lizardmen 
+than other lizardwomen.  She has a surly look on her face, probably because 
+she has to do housework.  Her rippling muscles and long dangerous tail give 
+her an impression of strength.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+17 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23521
+lizardman villager~
+a lizardman villager~
+A lizardman villager stands here, roasting a fish.
+~
+This lizardman sits here roasting a fish on a stick.  He is big and burly, 
+like most lizardmen.  He doesn't look too happy about you disturbing him.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+18 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23522
+larzorath dog-like lizard creature~
+a larzorath~
+A dog-like lizard creature snarls here, straining it's metal chain leash. 
+~
+This lizard creature is about the size of a dog.  It has a large head, with 
+a big, saliva filled mouth.  It's tail is short and stubby, with spikes 
+running down the back of it's neck and tail.  It stands on four feet, much 
+like a dog, and the sounds it makes are simliar to a barking noise.  It is 
+quite active, straining hard on a large metal collar that is chained to the 
+stone wall.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 1 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23523
+slim blue scaled lizardman~
+a slim, blue scaled lizardman~
+A slim, blue scaled lizardman is sneaking around here.
+~
+This youngish looking lizardman is blue scaled, and slim.  He is sneaking 
+around in the shadows, trying not to be seen.  He has keen, focused eyes, 
+and an agile walk.  
+~
+0
+Clanname none~
+0
+0
+129 65536 -200 C
+24 0 -6 4d5+100 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23524
+large surly lizardwoman villager gardener~
+a lizardwoman gardener~
+A large surly looking lizardwoman kneels here, uprooting mushrooms.
+~
+This is a large lizardwoman, with strong arms.  She is working in the 
+garden, uprooting mushrooms.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23525
+lizardman sleepy~
+a sleepy lizardman~
+A lizardman lies on the floor here, asleep.
+~
+This lizardman is snoring away on the floor.  His scaly skin is a light 
+green, and his large jaw is full of teeth.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+19 0 -4 3d5+82 2d7+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23526
+eel long electric~
+an electric eel~
+A long eel swims here, glowing with a blue light.
+~
+This long snake-like creature is really a fish.  Along it's long, slippery 
+body, you notice a bluish glow.  Every now and then the water hums with 
+power as the blue light flares.  This eel also has a large mouth, filled 
+with small but sharp teeth.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23527
+eel long black electric ~
+a black eel~
+A long eel swims here, glowing with a blue light.
+~
+This long snake-like creature, is really a fish, along it's long, slippery 
+body, you notice a bluish glow.  Every now and then the water hums with 
+power as the blue light flares.  This eel also has a large mouth, filled 
+with small but sharp teeth.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+16 0 -2 3d5+58 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23528
+pirahna fish small black jet~
+a jet black fish~
+A small black fish, with a large, tooth filled mouth swims here.
+~
+This is a small fish.  It has dark scales, and a large, tooth filled mouth.  
+It's large, bulbous eyes glow in the dark.  This small fish darts around 
+nervously, it's jaws opening and closing quickly.  
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+10 0 1 2d5+20 3d6+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23529
+huge giant turtle ~
+a huge turtle~
+A huge turtle rests here, deep in the muck.
+~
+This is a huge turtle with a shell that forms a very good natural armor.  
+This turtle is about the size of a small building.  A huge head pokes out 
+from the shell.  Two large, dull cloudy eyes, above a large snap-jaw mouth, 
+form the head of this beast.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23530
+snapping turtle large~
+a snapping turtle~
+A large turtle snaps at you with it's beak-like mouth.
+~
+This large turtle is about three feet long.  It has a spiky shell, and a 
+large sharp mouth, that is excellent at chomping.  It's beady eyes fix on 
+you, and it snaps it's jaw out at you.  The large jaw could easily take off 
+a finger, if the turtle wasn't lumbered by the large spiked shell.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23531
+snapping turtle large~
+a large snapping turtle~
+A large turtle snaps at you with it's beak-like mouth.
+~
+This large turtle is about four feet long.  It has a spiky shell, and a 
+large sharp mouth, that is excellent at chomping.  It's beady eyes fix on 
+you, and it snaps it's jaw out at you.  The large jaw could easily take off 
+a finger, if the turtle wasn't lumbered by the large spiked shell.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 -11 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23532
+snapping turtle large~
+a black snapping turtle~
+A large black turtle snaps at you with it's beak-like mouth.
+~
+This large turtle is about five feet long.  It has a spiky shell, and a 
+large sharp mouth, that is excellent at chomping.  It's beady eyes fix on 
+you, and it snaps it's jaw out at you.  The large jaw could easily take off 
+a finger, if the turtle wasn't lumbered by the large spiked shell.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#23500
+crooked shelf~
+a crooked shelf~
+A crooked shelf is attached to the side of the hut.~
+~
+15 0 8
+0 0 3 60 0 0 0
+9 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23501
+hag's brew clay tube green small~
+a hag's brew~
+A small clay tube, filled with green stuff lies here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23502
+the ugly stick short gnarled stick~
+the ugly stick~
+A large, ugly looking gnarled staff rest here.~
+~
+4 16 4
+0 0 0 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#23503
+eye newt~
+a newt eye~
+A big eyeball from a newt rest here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23504
+swamp hair green mop hag hag's~
+some hag's hair~
+A mop of greenish, dirty hair lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23505
+soiled robes~
+`#`wa `ysoiled `wrobe`^~
+A soiled robe is bunched up here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23506
+strange fish bone key~
+a fish bone key~
+A strange key made out fish bones rest here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23506 fish bone key strange~
+This a strange key made out of the ribs of a small fish, the various
+ribs, are cut to different sizes, almost like a skeleton key.  
+~
+#23507
+bamboo spear long sharp pole~
+a `#`ybamboo`^ spear~
+A long sharp pole of bamboo lies here.~
+~
+5 0 4
+5 46 59 32 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23508
+bamboo armor vest chest ~
+a `#`ybamboo`^ chest plate~
+A chest plate made up of bamboo reeds tied together with vines, lies here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23509
+bamboo shield~
+a `#`ybamboo`^ shield~
+A large shiled made up of bambo lies here.~
+~
+9 0 8
+30 30 5 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23510
+mock turtle large shell~
+a `#`Gturtle`^ shell~
+A large turtle shell, with legs, sits here.~
+~
+12 0 8
+999 9362 120 120 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23510 large turtle shell~
+This is a large turtle shell, that has been hollowed out.  Wooden legs
+have been attached to it, with large vines, and sticky sap.  This looks like
+a perfect place to sit down on, and rest, but only one at a time please.  A
+large wodden stylised head sticks out one end, smiling!  
+~
+#23511
+trainee's spear blunt~
+a trainee's spear~
+A blunt looking spear lies here.~
+~
+5 0 4
+2 27 34 32 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23512
+bamboo raft small~
+a small `#`ybamboo`^ raft~
+A small raft made out bamboo, has been pulled on to the shore here.~
+~
+22 0 16
+0 0 0 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23513
+beautiful lily flower water~
+a `#`Gwater lily`^~
+A beautiful flower grows here, among the lily pads.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23514
+rug animal fur thick large~
+a large animal fur~
+A large, thick animal fur has been spread out on the floor here.~
+~
+12 0 8
+999999 1170 105 105 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23515
+ragged dirty blanket~
+a ragged blanket~
+A ragged, dirty blanket lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23516
+bone necklace~
+a `#`Wbone`^ necklace~
+A necklace made of stringed `#`Wbones`^ lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23517
+long slim carving knife dagger~
+a carving knife~
+A long slim carving knife has been left here, on the ground.~
+~
+5 0 4
+3 27 34 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23518
+stone bracelet~
+a `#`Sstone`^ bracelet~
+A bracelet made of `#`Sstone`^ lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23519
+thick engraved copper bracelet~
+an engraved `#`ycopper`^ bracelet~
+A thick `#`ycopper`^ bracelet has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 460 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23519 engraving engravings bracelet copper thick ~
+A large snake, who has the sun in his mouth, has been engraved into this 
+thick copper bracelet.  It's crude, but very nice, in a barbaric sort off 
+way.  
+~
+#23520
+firepit fireplace~
+a fireplace~
+A large fire burns here brightly.~
+~
+1 1 1
+0 999 0 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23520 fireplac firepit large ~
+You are looking at a large fire pit, in it are large burning logs, and 
+burning coals.  
+~
+#23521
+roasted fish~
+a roasted fish~
+A roasted fish has been left here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23522
+fish rack~
+the fish rack~
+A rack of roasting fish stands here, giving off spicy smells.~
+~
+15 0 8
+16 0 400 60 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23523
+sacrifical lamb~
+a sacrifical lamb~
+A lamb, ready for sacrificing is here.~
+~
+19 0 16
+5 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23524
+boar skull head dress large~
+a large boar's skull~
+A large boar's skull hangs on the wall here.~
+~
+9 0 8
+40 40 7 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23525
+green wand small~
+a small `#`Ggreen`^ wand~
+A wand made out of `#`Ggreen`^ wood lies here.~
+~
+3 16 2
+0 0 0 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#23527
+lizardman hunting shoes leather~
+`#`wsome `slizardman `ghunting `wshoes`^~
+A pair of leather shoes have been left here.~
+~
+9 0 8
+30 30 4 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23528
+cauldron black large~
+a large cauldron~
+A large black Cauldron stands here, boiling and bubbling.~
+~
+25 0 16
+100 9 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23529
+large granite throne stone~
+a large granite throne~
+A large throne, made of white and black granite sits here.~
+~
+12 0 8
+1000 146 103 103 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23529 large granite throne stone~
+This throne has been carved out of a single block of stone.  On it's arms 
+and back, are detailed carvings of strange people attacking a wierd 
+scratched blob thing..  The carvings look too delicate and detailed to be 
+lizardman's work.  
+~
+#23530
+heavy turtle platemail~
+a heavy turtle platemail~
+A large plate of mail sits here, dents all over it make it look well used.~
+~
+9 0 8
+40 40 12 0 0 0 0
+1 820 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23531
+heavy stone bracer~
+a heavy `#`Sstone`^ bracer~
+A heavy `#`Sstone`^ bracer rests on the ground here.~
+~
+9 0 8
+40 40 5 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23532
+large steel bladed sword ~
+a large `#`ssteel`^ bladed sword~
+A large stone sword rests here.~
+~
+5 64 4
+2 62 76 8 0 0 0
+1 810 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23533
+horned turtle skull horn~
+a horned turtle skull~
+A turtle's skull, horned, and with leather straps attached, lies here.~
+~
+9 1 8
+40 40 8 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23534
+black bamboo chest plate~
+a `#`Sblack bamboo`^ chest plate~
+A `#`Sblack bamboo`^ chest plate lies here.~
+~
+9 0 8
+35 35 9 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23535
+turtle large shield shell~
+a turtle shell shield~
+A shield made out of a turtle's shell lies here.~
+~
+9 0 8
+40 40 11 0 0 0 0
+1 810 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23536
+black bamboo shield~
+a `#`Sblack bamboo`^ shield~
+A shield made of black bamboo lies here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23537
+metal tipped bamboo spear large ~
+a metal tipped `#`ybamboo`^ spear~
+A large spear made of black bamboo lies here.~
+~
+5 0 4
+2 54 68 160 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23538
+stone table~
+stone table~
+A large, ancient looking stone table sits here.~
+~
+12 0 8
+900 8192 100 100 0 0 0
+20 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23539
+a glowing needle~
+a glowing needle~
+A glowing needle lies here.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23540
+broom wicker bamboo~
+a wicker broom~
+A wicker broom lies here.~
+~
+5 0 4
+2 14 24 8 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23541
+large reed apron ~
+a reed apron~
+A large apron, made of weaved reed lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23542
+fish skewer long pointed stick~
+a fish skewer~
+A fish skewer lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23543
+large metal collar chain leash~
+a chain leash and collar~
+A large metal collar and chain lies piled up here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23544
+bone  rotten chew-bone~
+a rotten chew-bone~
+A large chewed bone lies here, smelling bad.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23545
+fiend's breath root strange red plant~
+a fiend's breath root~
+A strange red plant grows here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23546
+blue mushroom bluish~
+a `#`bblue`^ mushroom~
+A strange bluish mushroom grows here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23547
+strange root buckroot~
+a buckroot~
+A strange looking root pokes out the ground.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23548
+folding cot fold-up cot~
+a fold-up cot~
+A folding cot made of bamboo and animal skin lies here.~
+~
+12 0 8
+1000 1168 105 105 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23549
+basket reed reeds~
+a reed basket~
+A basket made of reeds lies here.~
+~
+15 0 8
+0 0 20 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23550
+stone turtle small jade~
+a `#`gturtle`^ stone~
+A small turtle carved out of jade floats here, glowing with a green aura.~
+~
+33 2 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23582
+cloak shadows~
+the `#`Scloak of shadows`^~
+A strangely translucent cloak lies here.~
+~
+9 64 8
+13 13 11 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23583
+copper key~
+a copper key~
+A key made of copper lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23590
+key silver~
+a silver key~
+A key made of silver lies here.~
+~
+18 2 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23591
+Large golden beak~
+a `#`YGolden`^ Beak~
+A large golden beak rest here...~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 2100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23594
+large gold key ~
+a large gold key~
+A large gold key lies here.~
+~
+18 2 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23596
+Chared black steel key~
+a black steel key~
+A large key made of chared black steel lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#23552
+Dead End~
+~
+The reeds close up here, forming a wall, blocking your way.  This is a dead 
+end, the only way to go is back to the north.  The swamp here is 
+particularly mushy, and doesn't seem like a good place to stop.  
+~
+1 4 6
+R M 0 23528 4 23552
+R M 0 23528 4 23552
+S
+#23553
+In the Murky Pool~
+~
+You can barly see in the muddy water, you light dosen't help at all, you can 
+feal a bit, and west seems like the only direction to go other than the 
+surface.  
+~
+1 1 12
+D4
+You can see the surface of the water...  
+~
+~
+0 0 23554
+S
+#23554
+In a Small Pool~
+~
+This small pool is very deep, and a strong stench wafts above it.  You can 
+probably swim to the bottom of it but the water looks mucky, and leaches 
+probably live down there!  
+~
+1 0 6
+D5
+You can hardly make out anything down their, it's so muddy and murky.
+~
+~
+0 0 23553
+R M 0 23530 5 23554
+S
+#23555
+In the shallows~
+~
+You are standing in a shallow, swampy part of a small lake.  The lake 
+stretches to the east, becoming deeper quickly.  All around, in the reeds 
+and on lily pads, frogs croak and insects buzz.  The water of the lake 
+smells bad, and you feel strange shapes swim past your legs.  
+~
+1 4 6
+R O 0 23513 0 23555
+R M 0 23510 5 23555
+S
+#23556
+On the Water, in the Swampy Lake~
+~
+You are in the middle of a small, swampy lake that stretches from east to 
+west.  The northern and southern shores, are thick with plant life and 
+foliage, making them impassable.  You can faintly hear frogs croaking to the 
+east and west.  
+~
+1 4 6
+R M 0 23512 5 23556
+S
+#23558
+Stone Intersection~
+~
+You are standing at a small, rubble-filled intersection.  All around you 
+piles of stone rubble have been stacked up.  Up ahead to the north, you see 
+a step pyramid looming before you.  The path continues to the east and west. 
+ 
+~
+1 0 1
+D3
+~
+~
+0 0 23559
+S
+#23559
+A Stone Path~
+~
+You are walking along a small stone path.  The stone path looks old, and 
+small plants grow up in between the stones.  The path continues from east to 
+west.  
+~
+1 0 1
+D1
+~
+~
+0 0 23558
+S
+#23560
+On the Shore~
+~
+You are standing on a reedy outcrop of foliage.  All around you, large reeds 
+grow closely together forming a wall of plant life, thick and almost 
+impenitrable.  To your south, is a small lake.  The path continues knee deep 
+in water, going north, through the reeds.  
+~
+1 4 8
+R M 0 23514 1 23560
+  R E 0 23507 0 16
+  R E 0 23508 0 5
+  R E 0 23527 0 8
+S
+#23562
+Marshy Swamplands~
+~
+You are standing in a marshy muddy area.  There is no real path here, but 
+because of the foliage, the only way you could hope to go is north, or east. 
+ 
+~
+1 0 8
+D0
+Oh look, something speacial, more swamp!
+~
+~
+0 0 23563
+R M 0 23532 5 23562
+R M 0 23532 5 23562
+S
+#23563
+Mucky Clearing~
+~
+You are standing in a large mucky clearing.  There are plants all around 
+you, and the earth here smells putrid.  Their is a strange scent in the air, 
+you can't quite tell what it is.  
+~
+1 0 8
+D0
+In this direction, you see more swamp.
+~
+~
+0 0 23567
+D1
+In this direction, you see more swamp.
+~
+~
+0 0 23565
+D2
+In this direction, you see more swamp.
+~
+~
+0 0 23562
+D3
+In this direction, you see more swamp.
+~
+~
+0 0 23564
+S
+#23564
+Small Clearing~
+~
+You are standing in a small clearing.  There are plants all around you, and 
+the earth here smells putrid.  There is a strange scent in the air.  The 
+foliage in all directions but east is extremely thick.  
+~
+1 0 4
+D1
+More swamp in this direction..
+~
+~
+0 0 23563
+S
+#23565
+Muddy Path~
+~
+You are standing on a small mucky path.  All around, insects buzz, and frogs 
+croak.  There is a strange smell in this part of the swamp but it is hard to 
+tell where it is coming from.  
+~
+1 0 8
+D2
+Oh look, more swamp...
+~
+~
+0 0 23566
+D3
+Oh look, more swamp..
+~
+~
+0 0 23563
+S
+#23566
+Small Clearing~
+~
+This small clearing is similar to the rest of the swamp, mucky and wet.  The 
+foliage here is a little thinner, making a clearing.  The plant life grows 
+thick to the south, making an impassable barrier.  
+~
+1 0 3
+D0
+Looking in this direction you see more swamp.
+~
+~
+0 0 23565
+R M 0 23532 5 23566
+R M 0 23531 5 23566
+R M 0 23531 5 23566
+S
+#23567
+Large Trail~
+~
+The ground here has been trampled by something big and heavy.  All around 
+you foliage has been ripped away, and there is a strange smell in the air.  
+This wide muddy path continues west.  The smaller path leaves south.  
+~
+1 0 3
+D2
+~
+~
+0 0 23563
+D3
+~
+~
+0 0 23568
+S
+#23568
+Turn in the Large Trail~
+~
+You are standing in the middle of a large muddy trail.  Something big has 
+been through here as the path is trampled.  All around you, large clumps of 
+plants have been ripped up, and there is a strange odour in the air.  
+~
+1 0 3
+D0
+The Large trail extends in this direction.
+~
+~
+0 0 23569
+D1
+The Large trail extends in this direction.
+~
+~
+0 0 23567
+R M 0 23531 5 23568
+S
+#23569
+Large Clearing~
+~
+This huge clearing smells unfamiliar and all around, vegetation has been 
+flattened.  In some places it looks like a large animal has been chewing the 
+reeds.  The foliage here is high and thick.  The only exit is to the south.  
+
+~
+1 0 4
+D2
+The large open trail continues in this direction.
+~
+~
+0 0 23568
+R M 0 23529 1 23569
+  R G 0 23550 0
+S
+#23570
+Small Stone Path Beside the Pyramid~
+~
+This small stone path runs along the side of the pyramid.  Plants have 
+created large cracks here and there, and the swamp grows closely here.  To 
+the west is a long reed hut, made of wood, mud, and swamp grass, and to the 
+north, you can see a small field.  
+~
+1 0 1
+D0
+You can see small feild in this direction.
+~
+~
+0 0 23572
+D3
+A long mud hut has been built in this direction.
+~
+~
+0 0 23571
+S
+#23571
+The Front of the Mud Hut~
+~
+This long hut is made of mud, wood and reeds.  Another room extends off to 
+the west.  Rows of beds, and a sweaty smell hanging in the air suggest that 
+quite a few lizardmen live in this part of the village.  
+~
+1 0 0
+D1
+This doorway leads outside.
+~
+~
+0 0 23570
+D3
+The long hut streeches in this direction.
+~
+~
+0 0 23573
+R O 0 23548 0 23571
+R M 0 23525 10 23571
+  R E 0 23519 0 15
+  R E 0 23508 0 5
+S
+#23572
+A Small Muddy Field~
+~
+You are standing in a small cleared out area which looks to be a place for 
+growing roots and crops.  The area is wet and muddy.  The mud is deep 
+brown-black, and looks like the perfect place to grow stuff.  There are 
+several plants, and roots growing here, some of them even look ripe for the 
+picking.  
+~
+1 0 3
+D2
+You see a small stone path in this direction.
+~
+~
+0 0 23570
+R O 0 23547 0 23572
+R O 0 23546 0 23572
+R O 0 23545 0 23572
+R M 0 23524 10 23572
+  R E 0 23516 0 3
+  R E 0 23541 0 5
+  R G 0 23549 0
+  R G 0 23547 0
+  R G 0 23546 0
+  R G 0 23546 0
+  R G 0 23546 0
+  R G 0 23545 0
+S
+#23573
+The Back of the Mud Hut~
+~
+There are less beds here, and there is a small round hole in the roof.  This 
+room is probably a used as a meeting place of some sort.  A fire is burns 
+brightly here, illuminating the whole hut.  
+~
+1 0 0
+D1
+The large hut extends in this direction.
+~
+~
+0 0 23571
+R M 0 23525 10 23573
+  R E 0 23508 0 5
+  R E 0 23519 0 14
+R M 0 23525 10 23573
+  R E 0 23508 0 5
+  R E 0 23519 0 15
+R O 0 23520 0 23573
+R O 0 23548 0 23573
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

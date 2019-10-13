@@ -1,0 +1,1345 @@
+#AREA        Mythewood~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2700
+unseen fall mob~
+unseen fall mob~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2701
+unseen pit mob~
+unseen pit mob~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2702
+air elemental~
+an `#`Ba`ci`Wr `Ce`bl`Be`cm`We`Cn`bt`Ba`cl`^~
+An air elemental flies languidly here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+85 0 -49 8d11+395 9d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2703
+fire elemental~
+a `#`Rf`Yi`rr`Ye `Re`rl`Ye`Rm`re`Yn`Rt`ra`Yl`^~
+A fire elemental coils here in the lava.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+85 0 -49 8d11+400 9d9+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2704
+water elemental~
+a `#`Ww`Ba`bte`Br `We`Bl`bem`Be`Wn`Bt`ba`Wl`^~
+A water elemental peeks out of the water here.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+85 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2705
+earth elemental~
+an `#`ye`Ya`gr`yt`Yh `ye`Yl`ge`ym`Ye`yn`gt`Ya`yl`^~
+An earth elemental is here, blending in with his surroundings.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+85 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2706
+wood nymph~
+a `#`gw`Go`yo`gd `Gn`gy`ym`Gp`gh`^~
+A wood nymph sits on the rock here, looking over the spring.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+80 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2707
+gnome~
+a `#`gg`Gn`go`Gm`ge`^~
+A gnome scrambles over the path here busy at his work.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+66 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2708
+pixie mischievious~
+a mischievous `#`Mp`yi`sx`yi`Me`^~
+A mischievous pixie flits here, looking for trouble.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+60 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2709
+kraken dangerous sea creature~
+a `#`gk`sr`ga`Gk`se`Gn`^~
+A dangerous sea creature lurks here deep beneath the waters surface.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+84 0 -54 8d12+415 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2710
+salamander~
+a `#`Rsa`rla`Rma`rnd`Rer`^~
+A salamander slithers along the lava pools here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+68 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2711
+gryphon~
+a mighty `#`yg`Yr`sy`yp`Yh`so`yn`^~
+A mighty gryphon roams here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+69 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2712
+water nymph~
+a `#`Cw`Ba`bt`ce`br`B n`Cy`cm`bp`Bh`^~
+A water nymph hovers in the water here, watching.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+68 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2700
+boulder large flat~
+a large, flat boulder~
+A large, flat boulder is here near the spring.~
+~
+12 0 8
+5000 132242 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2701
+refreshing spring~
+a refreshing spring~
+A spring gurgles here as it passes through the wood from an unknown resource.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2700
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D0
+~
+~
+0 0 2702
+D6
+~
+~
+0 0 2703
+D9
+~
+~
+0 0 2701
+R M 0 2708 8 2700
+S
+#2701
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D1
+~
+~
+0 0 2702
+D6
+~
+~
+0 0 2705
+D7
+~
+~
+0 0 2700
+D9
+~
+~
+0 0 2704
+R M 0 2708 8 2701
+S
+#2702
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2700
+D3
+~
+~
+0 0 2701
+S
+#2703
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D3
+~
+~
+0 0 2702
+D6
+~
+~
+0 0 2706
+D8
+~
+~
+0 0 2700
+D9
+~
+~
+0 0 2705
+R M 0 2708 8 2703
+S
+#2704
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D1
+~
+~
+0 0 2705
+D7
+~
+~
+0 0 2701
+D9
+~
+~
+0 0 2710
+S
+#2705
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D0
+~
+bushes~
+1 0 2713
+D1
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2704
+D7
+~
+~
+0 0 2703
+D8
+~
+~
+0 0 2701
+R M 0 2708 8 2705
+S
+#2706
+a quiet forest~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Pine, oak, acorn and redwood 
+with gnarled trunks as big as towers reach their branches towards the sky.  
+Tiny flowers dot the verdant grass, splashes of crimson and gold amidst the 
+green.  A thin mist flows through the forest's floor, as white as snow yet 
+translucent, its ghostly appearance seems some what soothing if not calming. 
+ 
+~
+1 0 3
+D3
+~
+~
+0 0 2705
+D6
+~
+~
+0 0 2707
+D8
+~
+~
+0 0 2703
+S
+#2707
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D0
+~
+~
+0 0 2708
+D8
+~
+~
+0 0 2706
+R M 0 2708 8 2707
+S
+#2708
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D2
+~
+~
+0 0 2707
+D9
+~
+~
+0 0 2709
+S
+#2709
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D4
+~
+~
+0 0 2716
+D7
+~
+~
+0 0 2708
+R M 0 2708 8 2709
+S
+#2710
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D0
+~
+~
+0 0 2711
+D7
+~
+~
+0 0 2704
+S
+#2711
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D2
+~
+~
+0 0 2710
+D6
+~
+~
+0 0 2712
+S
+#2712
+a forested hill~
+~
+The woods are lush and green and filled with immense trees so old they seem 
+to have witnessed the beginning of the realm.  Tiny flowers dot the grass as 
+it begins to slope, the path rising and becoming harder to travel.  A thin 
+mist flows through the forest's floor, obscuring the path, making each step 
+upward harder and harder.  
+~
+1 0 3
+D4
+~
+~
+0 0 2714
+D8
+~
+~
+0 0 2711
+R M 0 2708 8 2712
+S
+#2713
+A clearing~
+~
+Flowers of all types and colours flourish on this clearings ground.  The 
+tree's surrounding the clearing seem majestic.  Healthy and strong they loom 
+over the small opening, seeming a barrier to those who may wish to enter.  A 
+large stone sits in the middle of the clearing, ivy and moss covering it's 
+surface and spreading from it's base to cover a large section of the ground. 
+ 
+~
+1 0 2
+D2
+~
+~
+1 0 2705
+R O 0 2701 0 2713
+R O 0 2700 0 2713
+R M 0 2706 1 2713
+S
+#2714
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D5
+~
+~
+0 0 2712
+D6
+~
+~
+0 0 2715
+R M 0 2707 8 2714
+S
+#2715
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 134217728 5
+D4
+~
+~
+0 0 2717
+D7
+~
+~
+0 0 2716
+D8
+~
+~
+0 0 2714
+D9
+~
+~
+0 0 2718
+S
+#2716
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D5
+~
+~
+0 0 2709
+D9
+~
+~
+0 0 2715
+S
+#2717
+a sharp ledge~
+~
+Jutting up from the valley below, a rough path of rock and tumbling stones 
+lead to this narrow ledge.  Upon it, it's possible to look out over the full 
+valley.  Prickly bushes and rough vegetation grow out in spurts around the 
+rough edges of the ledge.  
+~
+1 8 5
+D4
+~
+~
+0 0 2730
+D5
+~
+~
+0 0 2715
+D6
+~
+bush~
+1 0 2725
+S
+#2718
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D6
+~
+~
+0 0 2719
+D7
+~
+~
+0 0 2715
+R M 0 2707 8 2718
+S
+#2719
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D6
+~
+~
+0 0 2720
+D8
+~
+~
+0 0 2718
+D9
+~
+~
+0 0 2724
+S
+#2720
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D8
+~
+~
+0 0 2719
+D9
+~
+~
+0 0 2721
+R M 0 2707 8 2720
+S
+#2721
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D1
+~
+boulder~
+1 0 2723
+D6
+~
+~
+0 0 2722
+D7
+~
+~
+0 0 2720
+D8
+~
+~
+0 0 2724
+S
+#2722
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continuously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D8
+~
+~
+0 0 2721
+R M 0 2707 8 2722
+S
+#2723
+a dark cave~
+~
+This cave is dark and dank, with any light cast being chased away by 
+shadows.  Rough edges of the mountain it's built into jut out dangerously.  
+A slight moistness can be felt along the walls and an occsional drop of 
+water drips down.  
+~
+1 8 11
+D3
+~
+~
+1 0 2721
+R M 0 2705 1 2723
+S
+#2724
+a cavernous valley~
+~
+Jagged rock peeks out from the ledges rising above.  This valley is deep and 
+cavernous, leading up to a small slit of sky.  Rock and brush cross this 
+path, making the trek treacherous.  A harsh wind seems to blow continously 
+down from the narrow mouth of the valley.  
+~
+1 0 5
+D6
+~
+~
+0 0 2721
+D7
+~
+~
+0 0 2719
+R M 0 2707 8 2724
+S
+#2725
+a moist cave~
+~
+The sound of rushing water can be heard as it echoes off the jagged walls of 
+this cave.  The air seems moist and humid and small puddles along the ground 
+form here and there.  The walls are darkened with moist dampness, rifflets 
+of water trickling down them from the ceiling.  
+~
+1 9 5
+D7
+~
+~
+0 0 2726
+D8
+~
+~
+1 0 2717
+S
+#2726
+a moist cave~
+~
+The sound of rushing water can be heard as it echoes off the jagged walls of 
+this cave.  The air seems moist and humid and small puddles along the ground 
+form here and there.  The walls are darkened with moist dampness, rifflets 
+of water trickling down them from the ceiling.  
+~
+1 9 5
+D1
+~
+~
+0 0 2727
+D9
+~
+~
+0 0 2725
+S
+#2727
+before the waterfall~
+~
+A wall of water tumbles before you.  Lots of water, as it completely blocks 
+the eastern edge of the cave.  The cave, seeming to be formed under a 
+waterfall appears to end here, the only remaining direction being the one 
+you just came from.  The going is difficult, the ground and walls so damp 
+that it's hard not to slip.  The falling water is almost deafening as it 
+crashes down, leading to parts unknown.  
+~
+1 9 5
+D3
+~
+~
+0 0 2726
+D5
+~
+~
+0 0 2728
+R M 0 2712 5 2727
+S
+#2728
+a treacherous path~
+~
+The path along the waterfalls edge is treacherous.  Slippery rocks covered 
+with water, loose stones that roll and tumble with each step downward...  
+One wrong move and you tumble down.  A few vines grow along the rock, making 
+for excellent handholds.  
+~
+1 8 6
+D4
+~
+~
+0 0 2727
+D5
+~
+~
+0 0 2729
+S
+#2729
+a treacherous path~
+~
+The path along the waterfalls edge is treacherous.  Slippery rocks covered 
+with water, loose stones that roll and tumble with each step downward...  
+One wrong move and you tumble down.  A few vines grow along the rock, making 
+for excellent handholds.  
+~
+1 8 6
+D1
+~
+~
+0 0 2734
+D3
+~
+~
+0 0 2731
+D4
+~
+~
+0 0 2728
+R M 0 2712 5 2729
+R M 0 2700 2 2729
+S
+#2730
+a sharp ledge~
+~
+Jutting up from the valley below, a rough path of rock and tumbling stones 
+lead to this narrow ledge.  Upon it, it's possible to look out over the full 
+valley.  Prickly bushes and rough vegetation grow out in spurts around the 
+rough edges of the ledge.  
+~
+1 134217736 0
+D4
+~
+~
+0 0 2739
+D5
+~
+~
+0 0 2717
+R M 0 2711 6 2730
+S
+#2731
+a molten cavern~
+~
+Molten rock forms the walls of this cavern.  Occasionaly patches seem to be 
+hotter then the others as you make your way through the dips and turns.  The 
+sound of rushing water can still be heard to the east, but it can't quite be 
+seen from this point.  Towards the west, the cavern seems to open up more.  
+~
+1 8 11
+D1
+~
+~
+0 0 2729
+D3
+~
+~
+0 0 2733
+R M 0 2710 3 2731
+S
+#2732
+a pit of water~
+~
+Water fills this pit as it rushes from above, pounding away at the jagged 
+rocks.  Reaching the top of the ledge seems a challenge, as a proper 
+handhold can't be found.  The gurgling water pulls at you, tugging you 
+deeper and deeper.  
+~
+1 16777225 12
+D4
+~
+~
+0 0 2729
+R M 0 2701 1 2732
+S
+#2733
+a molten cavern~
+~
+The ceiling of this cavern opens up, rising high.  The ground, though rough 
+and uneven, looks like it has been poured over the floor, flowing smoothly.  
+Water drips down the walls, making the dark rock shine a dull glare when 
+light hits it.  Heat seems to fill the room, making it almost suffocating, 
+regardless of it's size.  Steam rises here and there from the ground, making 
+the ground hard to determine.  
+~
+1 8 11
+D1
+~
+~
+0 0 2731
+D3
+~
+~
+0 0 2737
+R M 0 2710 3 2733
+S
+#2734
+bottom of the falls~
+~
+The water plummels down from the falls, pounding on jagged rocks that lie 
+beneath.  Water sloshes wildly, the current struggling east.  The rapids 
+pull and tug, making this journey difficult.  
+~
+1 8 7
+D1
+~
+~
+0 0 2735
+D3
+~
+~
+0 0 2729
+R M 0 2712 5 2734
+S
+#2735
+along the stream~
+~
+The water grows calmer here as it settles from the fall.  Almost tranquil in 
+it's smooth flow, it appears glass-like.  As the stream continues on east, 
+it's noticable that the water becomes more murky, and harder to see.  Did 
+something just move beneath the shadowed water?  
+~
+1 536870921 6
+D3
+~
+~
+0 0 2734
+D6
+~
+~
+0 0 2736
+R M 0 2704 1 2735
+S
+#2736
+beneath the water~
+~
+Dark and murky, the water pulls and tugs around you, turning you until you 
+lose your barings.  Did something just brush against you?  
+~
+1 956301321 12
+D8
+~
+~
+0 0 2735
+R M 0 2709 1 2736
+S
+#2737
+a molten cavern~
+~
+The temperature seems to become hotter and hotter with each step onward.  
+The stone ceiling seems to narrow here, slopping farther to the west.  
+Jagged points jut up from the floor and dangle down from the ceiling, making 
+this path almost maze-like as you are forced to weave your way through.  Hot 
+lava bubbles from holes along the ground.  An odd sound can be heard echoing 
+from the northwest.  
+~
+1 8 11
+D1
+~
+~
+0 0 2733
+D9
+~
+~
+0 0 2738
+R M 0 2710 3 2737
+S
+#2738
+a molten cavern~
+~
+Steam and smoke fills this small cavern, stinging your eyes and throat.  The 
+ground seems hotter here then before as lava seeps from a few openings.  A 
+slight rustling can be heard farther in the back of the cave.  
+~
+1 134217736 11
+D7
+~
+~
+0 0 2737
+R M 0 2703 1 2738
+S
+#2739
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D0
+~
+~
+0 0 2741
+D1
+~
+~
+0 0 2742
+D2
+~
+~
+0 0 2743
+D3
+~
+~
+0 0 2740
+D4
+~
+~
+0 0 2748
+D5
+~
+~
+0 0 2730
+R M 0 2711 6 2739
+S
+#2740
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D1
+~
+~
+0 0 2739
+D3
+~
+~
+0 0 2747
+D6
+~
+~
+0 0 2741
+D7
+~
+~
+0 0 2743
+S
+#2741
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D0
+~
+~
+0 0 2744
+D2
+~
+~
+0 0 2739
+D7
+~
+~
+0 0 2742
+D8
+~
+~
+0 0 2740
+S
+#2742
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D1
+~
+~
+0 0 2745
+D3
+~
+~
+0 0 2739
+D8
+~
+~
+0 0 2743
+D9
+~
+~
+0 0 2741
+S
+#2743
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D0
+~
+~
+0 0 2739
+D2
+~
+~
+0 0 2746
+D6
+~
+~
+0 0 2742
+D9
+~
+~
+0 0 2740
+S
+#2744
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D2
+~
+~
+0 0 2741
+R M 0 2711 6 2744
+S
+#2745
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D3
+~
+~
+0 0 2742
+R M 0 2711 6 2745
+S
+#2746
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D0
+~
+~
+0 0 2743
+R M 0 2711 6 2746
+S
+#2747
+a wide range~
+~
+You find yourself along a mountain range.  It's steep slopes spans out all 
+around you.  Wind blows roughly, the sound like a screeching howl.  
+~
+1 0 5
+D1
+~
+~
+0 0 2740
+R M 0 2711 6 2747
+S
+#2748
+the peak~
+~
+The mountain sprawls out below, and beneath that a glimpse of the valley can 
+be seen.  The sky is clear and cool here.  A faint breeze stirs the dry air, 
+causing a rustling sound as it stirs a few leaves scattered about.  
+~
+1 134217736 0
+D5
+~
+~
+0 0 2739
+R M 0 2702 1 2748
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

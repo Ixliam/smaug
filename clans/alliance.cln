@@ -1,0 +1,40 @@
+#CLAN
+Name         Alliance~
+Filename     alliance.cln~
+Intro        There can be only one.  It will not be the Throng, but Alliance who will prevail!~
+Motto        Knowledge is power, the more you rush it the less you learn.~
+Description  This organization is tightly bound from individuals who are dedicated to the fight against the rising evil.  Commonly beseeched upon by Kings and Lords who wish their lands to be rid of the shadowy figures of darkness. It is expected that every member of this clan is willing to lay down their lives for the cause of good. It requires absolute dedication to excel through the ranks of The Alliance.~
+Warmaster    Kyndai~
+Chieftain    Margaret~
+Badge        (null)~
+PKillRangeNew   0 3 1 1 2 12 0 5 3 0 10
+PDeathRangeNew  10 1 0 8 0 10 2 2 2 5 61757
+MKills       74381
+MDeaths      940
+IllegalPK    2
+Score        0
+Type         0
+Members      96
+MemLimit     1000
+Alignment    0
+Board        0
+ClanObjOne   1163
+ClanObjTwo   1165
+ClanObjThree 1166
+ClanObjFour  1167
+ClanObjFive  1168
+Clanstatus   3
+Recall       1163
+Totalpoints  22341
+GuardOne     25654
+GuardTwo     0
+ArenaVictory 195
+Chieflog     1486232610
+Warlog     1486082926
+PKILLAREA         shattered refuge~
+PKILLAREA         Rift Invasion~
+PKILLAREA         Miden'nir~
+End
+
+
+#END

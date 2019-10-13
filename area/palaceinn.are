@@ -1,0 +1,1516 @@
+#AREA        Palace Inn & Marketplace~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#11210
+plump female dagorst shopkeeper~
+a sweet looking female dagorst~
+A sweet looking female dagorst stands here behind a counter.
+~
+A plain but sweet looking female dagorst is here. She looks like she in her 
+60's and she could be somebody's grandmother. Her long salt and pepper 
+colored hair is pulled up into a bun and she is wearing a simply but elegant 
+silver collar around her neck. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#11211
+teenage female dagorst shopkeeper~
+a teenage female dagorst~
+A teenage female dagorst stands here putting out some fresh cookies.
+~
+A young teenage female dagorst is here. She has long silky black hair and 
+matching black eyes. She looks like she is about 16 years old and she is 
+wearing a white apron over a thin red caftan. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#11212
+male dagorst priest healer~
+a male dagorst~
+A dagorst priest of Jivanor stands here.
+~
+A tall dark haired male dagorst is here. He is wearing a blue and white robe 
+and a symbol of Jivanor around his neck. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#11213
+male dagorst tavern shopkeeper~
+a tall handsome male dagorst~
+A tall handsome male dagorst is here wiping down the bar.
+~
+Here stands a tall handsome male dagorst. He looks like he is about 30 years 
+old and has long thick black hair and a matching black goatee. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#11214
+male dagorstian palace guard~
+a dagorstian palace guard~
+A dagorstian palace guard is here patrolling the grounds.
+~
+A huge muscular male dagorst with black hair and eyes. He is wearing all 
+black armor with an open faced helmet. He is patrolling the palace. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#11210
+portal~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal`^~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal is here.`^~
+~
+29 0 16
+1024 0 11242 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11211
+treasury key~
+`#`sPalace Key`^~
+`#`sPalace Key`^~
+~
+31 128 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11212
+king size royal bed ~
+`#`wa king sized bed with thick `sf`wl`su`wf`sf`wy `sblack `wbedspread on it`^~
+`#`wa king sized bed with thick `sf`wl`su`wf`sf`wy `sblack `wbedspread on it sits here.`^~
+~
+12 0 8
+1000 1168 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11213
+comfortable full sized bed~
+`#`wa `ccomfortable `wfull sized bed`^~
+`#`wa `ccomfortable `wfull sized bed is here.`^~
+~
+12 0 8
+1000 1168 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11214
+fluffy black crimson cushion~
+`#`wa `sf`wl`su`wf`sf`wy `sblack `wand `rcrimson `wcushion`^~
+`#`wa pile of `sf`wl`su`wf`sf`wy `sblack `wand `rcrimson `wcushions are here.`^~
+~
+12 0 8
+10000 1170 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11215
+rope tree swing~
+`#`wa `gtree `wswing`^~
+`#`wa `gtree `wswing hanging from a large oak tree is here.`^~
+~
+12 0 8
+1000 144 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11215 rope tree swing~
+A swing made of rope hangs from the tree.  It has a thick slab of wood for a 
+seat big enough for two people.  The rope is thick and sturdy.  
+~
+#11216
+long rectangular cherrywood table~
+`#`wa cushion at the `rtable`^~
+`#`wa long `rrectangular `wtable is here.`^~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11216 cherrywood table~
+A long rectangular redwood table is here. It is resting low to the ground 
+and there are several small cushions piled around it for you to sit on. 
+~
+#11217
+black marble desk ~
+`#`wan ornately `rcarved `wdesk made of `sblack marble.`^~
+`#`wan ornately `rcarved `wdesk made of `sblack marble.`^~
+~
+12 0 8
+2000 66121 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11218
+solid black marble bench~
+`#`sa cushioned black marble bench`^~
+`#`sa cushioned black marble bench rests here.`^~
+~
+12 0 8
+20000 1170 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11219
+white marble fountain female dancing~
+a fountain~
+`#`wA `Wwhite `wmarble fountain with a statue of a female d`sa`Wn`wc`si`Wn`wg on top.`^~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11220
+table chairs~
+`#`wa `ytable `wand `schairs`^~
+`#`wSeveral small sets of `ytables `wand `schairs `wsit here`^~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11221
+sweet custard~
+`#`wsweet `ycustard`^~
+`#`w Some sweet `ycustard `whas been dropped here.`^~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11222
+herbal tea~
+`#`wa cup of `gherbal t`we`ga`^~
+A cup of herb tea has been left here.~
+~
+17 0 16
+4 11 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11223
+coffee cup hazelnut ~
+`#`wa cup of `yhazelnut `scoffee`^~
+`#`wa cup of `yhazelnut `scoffee`^~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11224
+slice spiced roast lamb~
+a slice of `#`ys`sp`wi`yc`se`wd `yroast `Ylamb`^~
+A slice of `#`ys`sp`wi`yc`se`wd `yroast `Ylamb`^ has been left here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11225
+bottle of honey mead~
+a tall mug of `#`yhoney mead`^~
+A bottle of honey mead has been tossed here.~
+~
+17 0 16
+8 20 0 0 0 0 0
+1 55 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11226
+flatbread bread~
+a `#`wpiece`^ of`y flatbread`^~
+A piece of flatbread lies here.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11227
+baggy silk harem pants~
+`#`wa pair of `sb`Wa`wg`sg`Wy `Cs`ci`Cl`ck `wh`sa`wr`se`wm `spants`^~
+`#`wa pair of `sb`Wa`wg`sg`Wy `Cs`ci`Cl`ck `wh`sa`wr`se`wm `spants `wis laying here.`^~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11228
+soft silk embroidered caftan~
+`#`wa `Ws`wo`Wf`wt `ss`wi`sl`wk embroidered `scaftan`^~
+`#`wa `Ws`wo`Wf`wt `ss`wi`sl`wk embroidered `scaftan `is here.`^~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11229
+black leather sandals~
+`#`wa pair of `sblack leather `wsandals`^~
+`#`wa pair of `sblack leather `wsandals have been left here.`^~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11230
+silk hip scarf dangling coins~
+`#`wa `Cs`ci`Cl`ck hip `sscarf `wadorned with `sd`Wa`wn`sg`Wi`wn`sg coins`^~
+`#`wa `Cs`ci`Cl`ck hip `sscarf `wadorned with `sd`Wa`wn`sg`Wi`wn`sg coins `wis laying here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11231
+midriff baring silk choli~
+`#`wa midriff baring `Cs`ci`Cl`ck `Cc`ch`wo`cl`Ci`^~
+A silk choli is laying here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11232
+stage~
+`#`ya large wooden stage`^~
+`#`yA large wooden stage is here.`^~
+~
+12 0 8
+8000 1170 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11233
+roast pheasant~
+a slice of `#`yroast pheasant`^~
+A slice of `#`yroast pheasant`^ is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11234
+dolmeh~
+some `#`gD`so`wl`gm`se`wh`^~
+A stuffed grape leaf is laying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11234 dolmeh ~
+This grape leaf is stuffed to burst with ground up lamb meat, rice and 
+chopped up herbs. 
+~
+#11235
+grilled swordfish~
+some `#`yg`sr`yi`sl`yl`se`yd `sswordfish`^~
+Some `#`yg`sr`yi`sl`yl`se`yd `sswordfish`^ is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11236
+bottle cherry cordial~
+a bottle of `#`Rc`rh`Re`rr`Rr`ry `Rc`ro`Rr`rd`Ri`ra`Rl`^~
+A bottle of `#`Rc`rh`Re`rr`Rr`ry `Rc`ro`Rr`rd`Ri`ra`Rl`^ is laying here.~
+~
+17 0 16
+30 35 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11237
+grilled shrimp~
+some `#`yg`sr`yi`sl`yl`se`yd `rshrimp`^~
+Some `#`yg`sr`yi`sl`yl`se`yd `rshrimp`^ is laying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11238
+baklava~
+a small piece of `#`ybaklava`^~
+A small piece of `#`ybaklava`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11239
+no name 11239~
+(no short description 11239)~
+(no description 11239)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#11210
+Palace Entrance~
+~
+A huge smooth stone archway stands here marking the entrance to a large 
+palace. The entire palace seems to be surrounded by walls at least 10 feet 
+high of the same smooth stone. There is a small brass sign hanging beside 
+the archway. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11211
+E
+sign ~
+`#`yWelcome to Al-Amin Palace and Marketplace.`^ `+
+`+
+Please remember that the Palace is neutral grounds and thieving and murder 
+will not be tolerated while you are staying here. `+
+`+
+`#`w`-signed`- `rJamila Al-Amin`^ 
+~
+S
+#11211
+Palace Marketplace~
+~
+A few people can be seen walking from store to store and greeting each 
+other. The walkway is made from thousands of tiny multi-colored pebbles. 
+There are flowers and shrubs planted on the windowseals and fronts of the 
+shops. The scent of baking sweets hangs in the air here. There is a huge 
+curved ceiling that completely covers the walkway, protecting it from the 
+elements but still leaving it open to nature. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11214
+D1
+~
+~
+0 0 11212
+D2
+~
+~
+0 0 11210
+D3
+~
+~
+0 0 11213
+S
+#11212
+Wayfarer's Tea Room~
+~
+Several small but intimate tables are located about this room. They seem to 
+be spread out to allow the patrons privacy. A large counter is in the rear 
+of the shop where several dagorstian ladies are busy baking. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11211
+R M 0 11211 1 11212
+  R G 0 11226 0
+  R G 0 11223 0
+  R G 0 11222 0
+  R G 0 11221 0
+  R G 0 11238 0
+  R G 0 2530 0
+R O 0 11220 0 11212
+S
+#11213
+Desert Fashions~
+~
+Racks of different clothing are spread throughout this store. Everything 
+sold here is native to the desert and made of light cloth. There are windows 
+on every wall of the store overlooking the palace yards. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11211
+R M 0 11210 1 11213
+  R G 0 11231 0
+  R G 0 11230 0
+  R G 0 11229 0
+  R G 0 11228 0
+  R G 0 11227 0
+S
+#11214
+Palace Marketplace~
+~
+A few people can be seen walking from store to store and greeting each 
+other. The walkway is made from thousands of tiny multi-colored pebbles. 
+There are flowers and shrubs planted on the windowseals and fronts of the 
+shops. To the east from here is a temple to the God Jivanor. There is a huge 
+curved ceiling that completely covers the walkway, protecting it from the 
+elements but still leaving it open to nature. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11217
+D1
+~
+~
+0 0 11216
+D2
+~
+~
+0 0 11211
+D3
+~
+~
+0 0 11215
+S
+#11215
+Empty Store~
+~
+This shop is empty and it looks like workers are busy preparing it for 
+something. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11214
+S
+#11216
+Altar to Jivanor~
+~
+A small shrine to Jivanor stands regally in the center of the room.  Candles 
+line the walls and remain all around the shrine, lighting it peacefully in 
+silent ceremony.  The paintings on the walls reflect beautiful mountain and 
+desert scenes. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11214
+R M 0 11212 1 11216
+R O 0 2533 0 11216
+S
+#11217
+Palace Marketplace~
+~
+You are standing in a beautiful circular courtyard. Lush greenery and 
+colorful flowers fill the courtyard in various places creating a soft and 
+pleasant fragrant scent in the air. The courtyard is very open and spacious 
+though there is a huge domed ceiling covering it entirely to protect the 
+occupants from the weather. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11214
+D6
+~
+~
+0 0 11218
+D9
+~
+~
+0 0 11219
+S
+#11218
+Palace Marketplace~
+~
+You are standing in a beautiful circular courtyard. Lush greenery and 
+colorful flowers fill the courtyard in various places creating a soft and 
+pleasant fragrant scent in the air. The courtyard is very open and spacious 
+though there is a huge domed ceiling covering it entirely to protect the 
+occupants from the weather. There is what looks like a school to the east of 
+here. 
+~
+1 33555464 1
+D1
+~
+~
+0 0 11223
+D3
+~
+~
+0 0 11220
+D8
+~
+~
+0 0 11217
+D9
+~
+~
+0 0 11221
+R O 0 11219 0 11218
+S
+#11219
+Palace Marketplace~
+~
+You are standing in a beautiful circular courtyard. Lush greenery and 
+colorful flowers fill the courtyard in various places creating a soft and 
+pleasant fragrant scent in the air. The courtyard is very open and spacious 
+though there is a huge domed ceiling covering it entirely to protect the 
+occupants from the weather. To the west of here is a small tavern. 
+~
+1 33555464 1
+D1
+~
+~
+0 0 11220
+D3
+~
+~
+0 0 11222
+D6
+~
+~
+0 0 11221
+D7
+~
+~
+0 0 11217
+R O 0 11219 0 11219
+S
+#11220
+Palace Square~
+~
+You are standing in a beautiful circular courtyard. Lush greenery and 
+colorful flowers fill the courtyard in various places creating a soft and 
+pleasant fragrant scent in the air. The courtyard is very open and spacious 
+though there is a huge domed ceiling covering it entirely to protect the 
+occupants from the weather. Unlike the rest of the courtyard, the ceiling 
+here is made completely of etched lightly colored glass. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11221
+D1
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11217
+D3
+~
+~
+0 0 11219
+R O 0 11218 0 11220
+S
+#11221
+Palace Marketplace~
+~
+You are standing in a beautiful circular courtyard. Lush greenery and 
+colorful flowers fill the courtyard in various places creating a soft and 
+pleasant fragrant scent in the air. The courtyard is very open and spacious 
+though there is a huge domed ceiling covering it entirely to protect the 
+occupants from the weather. The palace is to the north from here. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11224
+D2
+~
+~
+0 0 11220
+D7
+~
+~
+0 0 11218
+D8
+~
+~
+0 0 11219
+S
+#11222
+Full Moon Tavern and Inn~
+~
+A large counter is standing on the south wall of the tavern with several bar 
+stools surrounding it. The floor is swept clean and made of wood. Several 
+knicks have been taken out of the wooden counter and the floor. It looks as 
+if they have been done by a sharp weapon. To the rear of the tavern are 
+tables and chairs and what looks like a stage. There is also a staircase 
+going up from there. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11219
+D3
+~
+~
+0 0 11247
+R M 0 11213 1 11222
+  R G 0 11225 0
+  R G 0 11224 0
+  R G 0 11233 0
+  R G 0 11234 0
+  R G 0 11235 0
+  R G 0 11237 0
+  R G 0 11236 0
+S
+#11223
+School of Dance~
+~
+The floor of this building is made of a very smooth and highly polished 
+wood. There is a small stage in the far southeast corner of the room. It 
+looks like several different kinds of instruments are leaning against the 
+wall beside the stage and there is several benches lining the walls. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11218
+R O 0 11214 0 11223
+S
+#11224
+Cobblestone Walkway~
+~
+You are on a cobblestone walkway that leads from the marketplace to the 
+actual palace. The walkway is made of thousands of tiny multi-colored 
+pebbles and there are shrubberies and flowers planted along the edges of it. 
+To the west of here is a guard house where the palace guards stay and just 
+north of here is a walkway leading east where there are several small 
+cottages. The marketplaces lies to the south from here. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11225
+D2
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11226
+S
+#11225
+Cobblestone Walkway~
+~
+You are on a cobblestone walkway that leads from the marketplace to the 
+actual palace. The walkway is made of thousands of tiny multi-colored 
+pebbles and there are shrubberies and flowers planted along the edges of it. 
+To the south of here is a guard house where the palace guards stay and just 
+east of here is a walkway leading east where there are several small 
+cottages. The marketplaces lies farther south from here and the entrance to 
+the palace is north from here. 
+~
+1 33555464 1
+D0
+~
+~
+0 0 11232
+D1
+~
+~
+0 0 11227
+D2
+~
+~
+0 0 11224
+S
+#11226
+Guard House~
+~
+There is no hint of anything feminine in this building. There are chests 
+lining the walls as well as a few bunks on the floor. Armor, weapons and 
+clothing are in piles about the room. The scent of tabacco and sweat is 
+strong in here. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11224
+R M 0 11214 2 11226
+S
+#11227
+Cobblestone Walkway~
+~
+You are on a cobblestone walkway that leads from the path to the marketplace 
+and the palace. The walkway is made of thousands of tiny multi-colored 
+pebbles and there are shrubberies and flowers planted along the edges of it. 
+Several small cottages are here. 
+~
+1 33555464 15
+D1
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11225
+S
+#11228
+Cobblestone Walkway~
+~
+You are on a cobblestone walkway that leads from the path to the marketplace 
+and the palace. The walkway is made of thousands of tiny multi-colored 
+pebbles and there are shrubberies and flowers planted along the edges of it. 
+Several small cottages are here. 
+~
+1 33555464 15
+D0
+~
+~
+0 0 11229
+D1
+~
+~
+0 0 11231
+D2
+~
+~
+0 0 11230
+D3
+~
+~
+0 0 11227
+S
+#11229
+Small Cottage~
+~
+You find yourself inside of a small cottage. The cottage is only one room 
+but it is open and airy with windows on every wall. There is a small 
+fireplace on the far east wall and the wooden floors are covered in several 
+plush rugs. 
+~
+1 33555464 0
+D2
+~
+~
+0 0 11228
+R O 0 11213 0 11229
+S
+#11230
+Small Cottage~
+~
+You find yourself inside of a small cottage. The cottage is only one room 
+but it is open and airy with windows on every wall. There is a small 
+fireplace on the far east wall and the wooden floors are covered in several 
+plush rugs. 
+~
+1 33555464 0
+D0
+~
+~
+0 0 11228
+R O 0 11213 0 11230
+S
+#11231
+Small Cottage~
+~
+You find yourself inside of a small cottage. The cottage is only one room 
+but it is open and airy with windows on every wall. There is a small 
+fireplace on the far east wall and the wooden floors are covered in several 
+plush rugs. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11228
+R O 0 11213 0 11231
+S
+#11232
+Porch~
+~
+You find yourself standing in the entraceway to a large palace. There is a 
+walkway that leads back south. There is an archway here similar to the one 
+you go through when you enter the palace yards but under it is a thick 
+sturdy wooden door with a black iron door handle on it. There is a scarab 
+shaped door knocker in the middle of the door with two tiny rubies set in 
+the scarabs eye sockets. 
+~
+1 33555464 0
+D2
+~
+~
+0 0 11225
+D3
+~
+door~
+1 11211 11233
+S
+#11233
+Foyer~
+~
+The foyer's ceilings are three times the normal height and it is made of 
+stained glass. The glass is set into a scene depicting three female dagorsts 
+dancing under the moonlight. The floors are made of a beautiful rose colored 
+marble inlaid with gold. There is a huge black marble fountain flowing in 
+the center of the room. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11236
+D1
+~
+door~
+1 11211 11232
+D2
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11234
+S
+#11234
+Kitchen~
+~
+There seems to be a constant smell of baking bread in the kitchen even when 
+there isnt anyone in here cooking.  There is a large cookpit in the western 
+corner of the room and a large butcher block on the northern side of the 
+kitchen with several drying herbs hanging above it.  There are cabinets 
+lining the walls above the table and on the southern wall as well. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 11233
+R O 0 11216 0 11234
+S
+#11235
+Library Office~
+~
+This room is very large and there are bookcases piled from floor to ceiling. 
+The floor is wooden and covered in a multi-colored rug. There is a fireplace 
+on the east wall and a large desk resting in the middle of the room. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11233
+R O 0 11217 0 11235
+S
+#11236
+Hallway~
+~
+You find yourself in a hallway leading from the foyer farther into the 
+house. The floors here are still made of rose colored marble inlaid with 
+gold. There is a small indoor garden to your east and a living area to your 
+west. The hallway continues north from here. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11237
+D1
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11233
+D3
+~
+~
+0 0 11238
+S
+#11237
+Hallway~
+~
+You find yourself in a hallway leading from the foyer farther into the 
+house. The floors here are still made of rose colored marble inlaid with 
+gold. There is a stairway leading up from here. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 11236
+D4
+~
+~
+0 0 11240
+S
+#11238
+Den~
+~
+A large candleabra hangs from the center of the ceiling creating a soft 
+light. The walls are made out of a light colored pine and the floor is 
+covered in a soft black carpet. Bookshelves line the north wall and there is 
+a gigantic fireplace lining to south wall. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 11236
+R O 0 11214 0 11238
+S
+#11239
+Inside Garden~
+~
+Walking into this room is like walking back outside. The floor here is dirt 
+with thick soft grass growing from it. Patches of different colored flowers 
+bloom throughout and a large tree is growing out of the ground right in the 
+middle of the room. Birds tweet happily, hidden within the green leaves of 
+the tree. The ceiling is domed and made of completely clear glass to let in 
+the sunshine. The atmosphere in the garden is peaceful. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 11236
+R O 0 11215 0 11239
+S
+#11240
+Hallway~
+~
+The hallway is lit by lanterns hanging on the wall. The floor is made out of 
+a darkened wood and the walls are painted off white. There is a bedroom 
+north of you and a washroom to the south. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11245
+D1
+~
+~
+0 0 11241
+D2
+~
+~
+0 0 11246
+D5
+~
+~
+0 0 11237
+S
+#11241
+Hallway~
+~
+The hallway is lit by lanterns hanging on the wall. The floor is made out of 
+a darkened wood and the walls are painted off white. There are bedrooms 
+north and south of here, and the master bedroom is to the east. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11243
+D1
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11244
+D3
+~
+~
+0 0 11240
+S
+#11242
+Master Bedroom~
+~
+You find yourself inside of the houses master bedroom. The walls are painted 
+a rich burgandy color and there is a plush black carpet covering the floor. 
+There is a huge bay window that you can rest on to your east that allows you 
+to look out into the yard. A large floor lantern is resting in the corner of 
+the room by a small bedside table. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 11241
+R O 0 11212 0 11242
+S
+#11243
+Bedroom~
+~
+The walls in this bedroom are painted a light blue color and there is a 
+beige carpet covering the floor. There is a huge bay window that you can 
+rest on that allows you to look out into the yard. A small lantern is 
+resting on the top of small bedside table. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 11241
+R O 0 11213 0 11243
+S
+#11244
+Bedroom~
+~
+The walls in this bedroom are painted a light blue color and there is a 
+beige carpet covering the floor. There is a huge bay window that you can 
+rest on that allows you to look out into the yard. A small lantern is 
+resting on the top of small bedside table. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11241
+R O 0 11213 0 11244
+S
+#11245
+Bedroom~
+~
+The walls in this bedroom are painted a light blue color and there is a 
+beige carpet covering the floor. There is a huge bay window that you can 
+rest on that allows you to look out into the yard. A small lantern is 
+resting on the top of small bedside table. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 11240
+R O 0 11213 0 11245
+S
+#11246
+Washroom~
+~
+The washroom is clean and brightly lit. There is a wash basin on the east 
+wall and a large claw foot tub on the west wall. A large bay window is on 
+the south wall that you can rest on and look out into the palace yards. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 11240
+S
+#11247
+Full Moon Tavern and Inn~
+~
+Several wooden tables have been spread throughout the room. There is a small 
+stage in the southwest corner of the tavern with multiple instruments piled 
+on top of it. A large staircase is here going up to where the rooms are. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11222
+D4
+~
+~
+0 0 11248
+R O 0 11220 0 11247
+R O 0 11232 0 11247
+S
+#11248
+Hallway~
+~
+You are standing in a hallway. There is nothing special about it. The walls 
+are made of wood and there are a few lanterns lighting the way. There is a 
+bedroom to your east and west. 
+~
+1 33555464 0
+D0
+~
+~
+0 0 11249
+D1
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11250
+D5
+~
+~
+0 0 11247
+S
+#11249
+Hallway~
+~
+You are standing in a hallway. There is nothing special about it. The walls 
+are made of wood and there are a few lanterns lighting the way. There is a 
+bedroom to your east and west. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11248
+D3
+~
+~
+0 0 11253
+S
+#11250
+Bedroom~
+~
+This is a simple but cozy room. There is a bed in the middle of the room as 
+well as a chest to store your things. A small lantern has been lit on the 
+bedside table to light the room and there is a window overlooking the 
+palace. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11248
+R O 0 11213 0 11250
+S
+#11251
+Bedroom~
+~
+This is a simple but cozy room. There is a bed in the middle of the room as 
+well as a chest to store your things. A small lantern has been lit on the 
+bedside table to light the room and there is a window overlooking the 
+marketplace. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11248
+R O 0 11213 0 11251
+S
+#11252
+Bedroom~
+~
+This is a simple but cozy room. There is a bed in the middle of the room as 
+well as a chest to store your things. A small lantern has been lit on the 
+bedside table to light the room and there is a window overlooking the 
+marketplace. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 11249
+R O 0 11213 0 11252
+S
+#11253
+Bedroom~
+~
+This is a simple but cozy room. There is a bed in the middle of the room as 
+well as a chest to store your things. A small lantern has been lit on the 
+bedside table to light the room and there is a window overlooking the 
+palace. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 11249
+R O 0 11213 0 11253
+S
+#0
+
+
+#SHOPS
+ 11210   11 33  0  0  0   100  50         0 23    ; a sweet looking female dagorst
+ 11211    0  0  0  0  0   105 100         0 23    ; a teenage female dagorst
+ 11213    0  0  0  0  0   105 100         0 23    ; a tall handsome male dagorst
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

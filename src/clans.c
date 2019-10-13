@@ -1,3294 +1,3195 @@
-/****************************************************************************
+ /****************************************************************************
  * [S]imulated [M]edieval [A]dventure multi[U]ser [G]ame      |   \\._.//   *
  * -----------------------------------------------------------|   (0...0)   *
- * SMAUG 1.8 (C) 1994, 1995, 1996, 1998  by Derek Snider      |    ).:.(    *
+ * SMAUG 1.4 (C) 1994, 1995, 1996, 1998  by Derek Snider      |    ).:.(    *
  * -----------------------------------------------------------|    {o o}    *
  * SMAUG code team: Thoric, Altrag, Blodkai, Narn, Haus,      |   / ' ' \   *
  * Scryn, Rennard, Swordbearer, Gorog, Grishnakh, Nivek,      |~'~.VxvxV.~'~*
- * Tricops, Fireblade, Edmond, Conran                         |             *
+ * Tricops and Fireblade                                      |             *
  * ------------------------------------------------------------------------ *
- * Merc 2.1 Diku Mud improvments copyright (C) 1992, 1993 by Michael        *
- * Chastain, Michael Quan, and Mitchell Tse.                                *
- * Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,          *
- * Michael Seifert, Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.     *
- * ------------------------------------------------------------------------ *
- *                          Special clan module                             *
+ *			     Special clan module			    *
  ****************************************************************************/
 
 #include <stdio.h>
+#include <string.h>
+#include "h/mud.h"
+#include "h/files.h"
+#include "h/clans.h"
+#include "h/key.h"
+#include "h/languages.h"
 #include <time.h>
-#include "mud.h"
 
-static OBJ_DATA *rgObjNest[MAX_NEST];
+#define MAX_NEST	100
+static OBJ_DATA        *rgObjNest[MAX_NEST];
 
-CLAN_DATA *first_clan;
-CLAN_DATA *last_clan;
-COUNCIL_DATA *first_council;
-COUNCIL_DATA *last_council;
-VAULT_DATA *first_vault;
-VAULT_DATA *last_vault; 
+CLAN_DATA              *first_clan;
+CLAN_DATA              *last_clan;
+COUNCIL_DATA           *first_council;
+COUNCIL_DATA           *last_council;
+
+bool                    valid_pfile(const char *filename);
+void                    influence_areas(CLAN_DATA * clan);
 
 /* local routines */
-void fread_clan( CLAN_DATA * clan, FILE * fp );
-bool load_clan_file( const char *clanfile );
-void write_clan_list( void );
-void fread_council( COUNCIL_DATA * council, FILE * fp );
-bool load_council_file( const char *councilfile );
-void write_council_list( void );
-bool fread_storage( int rnum, const char *filename );
+void fread_clan         args((CLAN_DATA * clan, FILE * fp));
+bool load_clan_file     args((const char *clanfile));
+void write_clan_list    args((void));
+void fread_council      args((COUNCIL_DATA * council, FILE * fp));
+bool load_council_file  args((const char *councilfile));
+void write_council_list args((void));
+void                    check_clan_leaders(CLAN_DATA * clan, char *player);
 
-void add_roster( CLAN_DATA * clan, const char *name, int Class, int level, int kills, int deaths )
+/* Sorted by level and date updated */
+void insert_roster(CLAN_DATA * clan, ROSTER_DATA * roster)
 {
-   ROSTER_DATA *roster;
+  ROSTER_DATA            *uroster;
+  int                     daydiff, odaydiff;
 
-   CREATE( roster, ROSTER_DATA, 1 );
-   roster->name = STRALLOC( name );
-   roster->Class = Class;
-   roster->level = level;
-   roster->kills = kills;
-   roster->deaths = deaths;
-   roster->joined = current_time;
-   LINK( roster, clan->first_member, clan->last_member, next, prev );
-   return;
+  for(uroster = clan->first_member; uroster; uroster = uroster->next)
+  {
+    odaydiff = (current_time - uroster->lastupdated) / 86400;
+    daydiff = (current_time - roster->lastupdated) / 86400;
+
+    if(odaydiff < 3 && uroster->level > roster->level)
+      continue;
+    /*
+     * So if level is the same or they havent logged in for 3 days just insert here 
+     */
+    INSERT(roster, uroster, clan->first_member, next, prev);
+    return;
+  }
+  LINK(roster, clan->first_member, clan->last_member, next, prev);
 }
 
-void remove_roster( CLAN_DATA * clan, const char *name )
+void add_roster(CLAN_DATA * clan, char *name, char *race, int level, int pkills, int kills, int deaths, int tradeclass, int tradelevel)
 {
-   ROSTER_DATA *roster;
+  ROSTER_DATA            *roster;
 
-   for( roster = clan->first_member; roster; roster = roster->next )
-   {
-      if( !str_cmp( name, roster->name ) )
-      {
-         STRFREE( roster->name );
-         UNLINK( roster, clan->first_member, clan->last_member, next, prev );
-         DISPOSE( roster );
-         return;
-      }
-   }
+  CREATE(roster, ROSTER_DATA, 1);
+  roster->name = STRALLOC(name);
+  roster->race = STRALLOC(race);
+  roster->level = level;
+  roster->pkills = pkills;
+  roster->kills = kills;
+  roster->deaths = deaths;
+  roster->joined = current_time;
+  roster->lastupdated = current_time;
+  roster->tradeclass = tradeclass;
+  roster->tradelevel = tradelevel;
+  insert_roster(clan, roster);
 }
 
-void update_roster( CHAR_DATA * ch )
+void remove_roster(CLAN_DATA * clan, char *name)
 {
-   ROSTER_DATA *roster;
+  ROSTER_DATA            *roster;
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
+  for(roster = clan->first_member; roster; roster = roster->next)
+  {
+    if(!str_cmp(name, roster->name))
+    {
+      STRFREE(roster->name);
+      STRFREE(roster->race);
+      UNLINK(roster, clan->first_member, clan->last_member, next, prev);
+      DISPOSE(roster);
       return;
+    }
+  }
+}
 
-   for( roster = ch->pcdata->clan->first_member; roster; roster = roster->next )
-   {
-      if( !str_cmp( ch->name, roster->name ) )
+/* Remove them from any roster they are on */
+void remove_from_rosters(char *name)
+{
+  CLAN_DATA              *clan;
+  ROSTER_DATA            *roster, *roster_next;
+
+  for(clan = first_clan; clan; clan = clan->next)
+  {
+    for(roster = clan->first_member; roster; roster = roster_next)
+    {
+      roster_next = roster->next;
+      if(!str_cmp(roster->name, name))
       {
-         roster->level = ch->level;
-         roster->kills = ch->pcdata->mkills;
-         roster->deaths = ch->pcdata->mdeaths;
-         save_clan( ch->pcdata->clan );
-         return;
+        STRFREE(roster->name);
+        STRFREE(roster->race);
+        UNLINK(roster, clan->first_member, clan->last_member, next, prev);
+        DISPOSE(roster);
       }
-   }
+    }
+    save_clan(clan);
+  }
+}
 
-   /*
-    * If we make it here, assume they haven't been added previously 
-    */
-   add_roster( ch->pcdata->clan, ch->name, ch->Class, ch->level, ch->pcdata->mkills, ch->pcdata->mdeaths );
-   save_clan( ch->pcdata->clan );
-   return;
+/* When we update the roster move the roster to the first of the list */
+void update_roster(CHAR_DATA *ch)
+{
+  CLAN_DATA              *clan;
+  ROSTER_DATA            *roster;
+
+  if(!ch || !ch->pcdata || !(clan = ch->pcdata->clan))
+    return;
+  for(roster = clan->first_member; roster; roster = roster->next)
+  {
+    if(!str_cmp(ch->name, roster->name))
+    {
+      roster->race = STRALLOC(capitalize(race_table[ch->race]->race_name));
+      roster->level = ch->level;
+      roster->pkills = ch->pcdata->pkills;
+      roster->kills = ch->pcdata->mkills;
+      roster->deaths = ch->pcdata->mdeaths;
+      roster->lastupdated = current_time;
+      roster->tradelevel = ch->pcdata->tradelevel;
+      roster->tradeclass = ch->pcdata->tradeclass;
+      UNLINK(roster, clan->first_member, clan->last_member, next, prev);
+      insert_roster(clan, roster);
+      save_clan(ch->pcdata->clan);
+      return;
+    }
+  }
+
+  /*
+   * If we make it here, assume they haven't been added previously 
+   */
+  add_roster(clan, ch->name, capitalize(race_table[ch->race]->race_name), ch->level, ch->pcdata->pkills, ch->pcdata->mkills, ch->pcdata->mdeaths, ch->pcdata->tradeclass, ch->pcdata->tradelevel);
+  save_clan(clan);
 }
 
 /* For use during clan removal and memory cleanup */
-void remove_all_rosters( CLAN_DATA * clan )
+void remove_all_rosters(CLAN_DATA * clan)
 {
-   ROSTER_DATA *roster, *roster_next;
+  ROSTER_DATA            *roster, *roster_next;
 
-   for( roster = clan->first_member; roster; roster = roster_next )
-   {
-      roster_next = roster->next;
+  for(roster = clan->first_member; roster; roster = roster_next)
+  {
+    roster_next = roster->next;
 
-      STRFREE( roster->name );
-      UNLINK( roster, clan->first_member, clan->last_member, next, prev );
-      DISPOSE( roster );
-   }
+    STRFREE(roster->name);
+    STRFREE(roster->race);
+    UNLINK(roster, clan->first_member, clan->last_member, next, prev);
+    DISPOSE(roster);
+  }
 }
 
-void do_roster( CHAR_DATA* ch, const char* argument)
+void do_roster(CHAR_DATA *ch, char *argument)
 {
-   CLAN_DATA *clan;
-   ROSTER_DATA *roster;
-   char arg[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH];
-   int total = 0;
+  CLAN_DATA              *clan;
+  ROSTER_DATA            *roster;
+  char                    arg[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH];
+  int                     total = 0;
 
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "NPCs can't use this command.\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch))
+  {
+    send_to_char("NPCs can't use this command.\r\n", ch);
+    return;
+  }
 
-   if( !argument || argument[0] == '\0' )
-   {
-      send_to_char( "Usage: roster <clanname>\r\n", ch );
-      send_to_char( "Usage: roster <clanname> remove <name>\r\n", ch );
-      return;
-   }
+  if(!argument || argument[0] == '\0')
+  {
+    send_to_char("Usage: roster <clanname>\r\n", ch);
+    if(IS_IMMORTAL(ch) || IS_CHIEFTAIN(ch) || IS_WARMASTER(ch))
+      send_to_char("Usage: roster <clanname> remove <name>\r\n", ch);
+    return;
+  }
 
-   argument = one_argument( argument, arg );
-   if( !( clan = get_clan( arg ) ) )
-   {
-      ch_printf( ch, "No such guild or clan known as %s\r\n", arg );
-      return;
-   }
+  argument = one_argument(argument, arg);
+  if(!(clan = get_clan(arg)))
+  {
+    ch_printf(ch, "No such guild or clan known as %s\r\n", arg);
+    return;
+  }
 
-   if( !argument || argument[0] == '\0' )
-   {
-      ch_printf( ch, "Membership roster for the %s %s\r\n\r\n", clan->name,
-                 clan->clan_type == CLAN_ORDER ? "Guild" : "Clan" );
-      ch_printf( ch, "%-15.15s  %-15.15s %-6.6s %-6.6s %-6.6s %s\r\n", "Name", "Class", "Level", "Kills", "Deaths",
-                 "Joined on" );
-      send_to_char( "-------------------------------------------------------------------------------------\r\n", ch );
-      for( roster = clan->first_member; roster; roster = roster->next )
+  if(!argument || argument[0] == '\0')
+  {
+    ch_printf(ch, "&cMembership roster for the Clan %s\r\r\n\n", clan->name);
+    ch_printf(ch, "%-15.15s  %15.15s %6.6s %10.10s %6.6s %6.6s %6.6s %6.6s\r\n", "Name", "Race", "Level", "TClass", "TLevel", "PKills", "Kills", "Deaths");
+    send_to_char("------------------------------------------------------------------------------&C\r\n", ch);
+    for(roster = clan->first_member; roster; roster = roster->next)
+    {
+      if(roster->level > 100)
+        continue;
+      ch_printf(ch, "%-15.15s  %15.15s %6d %10s %6d %6d %6d %6d\r\n",
+                roster->name, roster->race, roster->level,
+                roster->tradeclass == 20 ? "Blacksmith" : roster->tradeclass ==
+                21 ? "Baker" : roster->tradeclass == 22 ? "Tanner" :
+                roster->tradeclass == 24 ? "Jeweler" :
+                roster->tradeclass == 25 ? "Carpenter" : roster->tradeclass == 26 ? "Dragonic" : "", roster->tradelevel >= 0 ? roster->tradelevel : 0, roster->pkills, roster->kills, roster->deaths);
+      total++;
+    }
+    ch_printf(ch, "\r\n&cThere are &C%d &cmember%s in &C%s\r\n", total, total == 1 ? "" : "s", clan->name);
+    return;
+  }
+
+  argument = one_argument(argument, arg2);
+
+  if(IS_IMMORTAL(ch) || (VLD_STR(clan->chieftain) && !str_cmp(ch->name, clan->chieftain)) || (VLD_STR(clan->warmaster) && !str_cmp(ch->name, clan->warmaster)))
+  {
+    if(!str_cmp(arg2, "remove"))
+    {
+      if(!argument || argument[0] == '\0')
       {
-         ch_printf( ch, "%-15.15s  %-15.15s %-6d %-6d %-6d %s",
-                    roster->name, capitalize( npc_class[roster->Class] ), roster->level, roster->kills, roster->deaths,
-                    ctime( &roster->joined ) );
-         total++;
+        send_to_char("Remove who from the roster?\r\n", ch);
+        return;
       }
-      ch_printf( ch, "\r\nThere are %d member%s in %s\r\n", total, total == 1 ? "" : "s", clan->name );
+      remove_roster(clan, argument);
+      save_clan(clan);
+      ch_printf(ch, "%s has been removed from the roster for %s\r\n", argument, clan->name);
       return;
-   }
+    }
+  }
 
-   argument = one_argument( argument, arg2 );
-   if( !str_cmp( arg2, "remove" ) )
-   {
-      if( !argument || argument[0] == '\0' )
-      {
-         send_to_char( "Remove who from the roster?\r\n", ch );
-         return;
-      }
-      remove_roster( clan, argument );
-      save_clan( clan );
-      ch_printf( ch, "%s has been removed from the roster for %s\r\n", argument, clan->name );
-      return;
-   }
-   do_roster( ch, "" );
-   return;
+  do_roster(ch, (char *)"");
 }
 
-void fwrite_memberlist( FILE * fp, CLAN_DATA * clan )
+void fwrite_memberlist(FILE * fp, CLAN_DATA * clan)
 {
-   ROSTER_DATA *roster;
+  ROSTER_DATA            *roster;
 
-   for( roster = clan->first_member; roster; roster = roster->next )
-   {
-      fprintf( fp, "%s", "#ROSTER\n" );
-      fprintf( fp, "Name      %s~\n", roster->name );
-      fprintf( fp, "Joined    %ld\n", ( time_t ) roster->joined );
-      fprintf( fp, "Class     %s~\n", npc_class[roster->Class] );
-      fprintf( fp, "Level     %d\n", roster->level );
-      fprintf( fp, "Kills     %d\n", roster->kills );
-      fprintf( fp, "Deaths    %d\n", roster->deaths );
-      fprintf( fp, "%s", "End\n\n" );
-   }
-   return;
+  for(roster = clan->first_member; roster; roster = roster->next)
+  {
+    if(!valid_pfile(roster->name))
+      continue;
+    fprintf(fp, "%s", "#ROSTER\n");
+    fprintf(fp, "Name       %s~\n", roster->name);
+    fprintf(fp, "Joined     %ld\n", (time_t) roster->joined);
+    fprintf(fp, "Updated    %ld\n", (time_t) roster->lastupdated);
+    fprintf(fp, "Race       %s~\n", roster->race);
+    fprintf(fp, "Level      %d\n", roster->level);
+    fprintf(fp, "PKills     %d\n", roster->pkills);
+    fprintf(fp, "Kills      %d\n", roster->kills);
+    fprintf(fp, "Deaths     %d\n", roster->deaths);
+    fprintf(fp, "TradeClass %d\n", roster->tradeclass);
+    fprintf(fp, "TradeLevel %d\n", roster->tradelevel);
+    fprintf(fp, "%s", "End\n\n");
+  }
 }
 
-void fread_memberlist( CLAN_DATA * clan, FILE * fp )
+void fread_memberlist(CLAN_DATA * clan, FILE * fp)
 {
-   ROSTER_DATA *roster;
-   const char *word;
-   bool fMatch;
+  ROSTER_DATA            *roster;
+  const char             *word;
+  bool                    fMatch;
 
-   CREATE( roster, ROSTER_DATA, 1 );
+  CREATE(roster, ROSTER_DATA, 1);
+  roster->lastupdated = current_time;
+  roster->tradeclass = -1;
+  roster->tradelevel = -1;
+  for(;;)
+  {
+    word = feof(fp) ? "End" : fread_word(fp);
+    fMatch = FALSE;
 
-   for( ;; )
-   {
-      word = feof( fp ) ? "End" : fread_word( fp );
-      fMatch = FALSE;
+    switch (UPPER(word[0]))
+    {
+      case '*':
+        fMatch = TRUE;
+        fread_to_eol(fp);
+        break;
 
-      switch ( UPPER( word[0] ) )
-      {
-         case '*':
-            fMatch = TRUE;
-            fread_to_eol( fp );
-            break;
+      case 'D':
+        KEY("Deaths", roster->deaths, fread_number(fp));
+        break;
 
-         case 'C':
-            if( !str_cmp( word, "Class" ) )
-            {
-               const char *temp = fread_string( fp );
-               int Class = get_npc_class( temp );
+      case 'E':
+        if(!str_cmp(word, "End"))
+        {
+          LINK(roster, clan->first_member, clan->last_member, next, prev);
+          return;
+        }
+        break;
 
-               if( Class < 0 || Class >= MAX_NPC_CLASS )
-               {
-                  bug( "%s: Invalid class in clan roster", __func__ );
-                  Class = get_npc_class( "warrior" );
-               }
-               STRFREE( temp );
-               roster->Class = Class;
-               fMatch = TRUE;
-               break;
-            }
-            break;
+      case 'J':
+        KEY("Joined", roster->joined, fread_number(fp));
+        break;
 
-         case 'D':
-            KEY( "Deaths", roster->deaths, fread_number( fp ) );
-            break;
+      case 'K':
+        KEY("Kills", roster->kills, fread_number(fp));
+        break;
 
-         case 'E':
-            if( !str_cmp( word, "End" ) )
-            {
-               LINK( roster, clan->first_member, clan->last_member, next, prev );
-               return;
-            }
-            break;
+      case 'L':
+        KEY("Level", roster->level, fread_number(fp));
+        break;
 
-         case 'J':
-            KEY( "Joined", roster->joined, fread_number( fp ) );
-            break;
+      case 'N':
+        KEY("Name", roster->name, fread_string(fp));
+        break;
 
-         case 'K':
-            KEY( "Kills", roster->kills, fread_number( fp ) );
-            break;
+      case 'P':
+        KEY("PKills", roster->pkills, fread_number(fp));
+        break;
 
-         case 'L':
-            KEY( "Level", roster->level, fread_number( fp ) );
-            break;
+      case 'R':
+        KEY("Race", roster->race, fread_string(fp));
+        break;
 
-         case 'N':
-            KEY( "Name", roster->name, fread_string( fp ) );
-            break;
-      }
-      if( !fMatch )
-         bug( "%s: no match: %s", __func__, word );
-   }
+      case 'T':
+        KEY("TradeClass", roster->tradeclass, fread_number(fp));
+        KEY("TradeLevel", roster->tradelevel, fread_number(fp));
+        break;
 
-   bug( "%s: Fell through to bottom!", __func__ );
-   STRFREE( roster->name );
-   DISPOSE( roster );
+      case 'U':
+        KEY("Updated", roster->lastupdated, fread_number(fp));
+        break;
+    }
+    if(!fMatch)
+      bug("%s: no match: %s", __FUNCTION__, word);
+  }
 }
 
-void free_one_clan( CLAN_DATA * clan )
+void free_pkillarea(PKILLAREA_DATA * pkillarea)
 {
-   UNLINK( clan, first_clan, last_clan, next, prev );
-   DISPOSE( clan->filename );
-   STRFREE( clan->name );
-   STRFREE( clan->motto );
-   STRFREE( clan->description );
-   STRFREE( clan->deity );
-   STRFREE( clan->leader );
-   STRFREE( clan->number1 );
-   STRFREE( clan->number2 );
-   STRFREE( clan->leadrank );
-   STRFREE( clan->onerank );
-   STRFREE( clan->tworank );
-   STRFREE( clan->badge );
-   DISPOSE( clan );
-
-   return;
+  STRFREE(pkillarea->name);
+  DISPOSE(pkillarea);
 }
 
-void free_clans( void )
-{
-   CLAN_DATA *clan, *clan_next;
 
-   for( clan = first_clan; clan; clan = clan_next )
-   {
-      clan_next = clan->next;
-      free_one_clan( clan );
-   }
-   return;
+void free_one_clan(CLAN_DATA * clan)
+{
+  PKILLAREA_DATA         *pkillarea, *pkillarea_next;
+  AREA_DATA              *tarea;
+
+  UNLINK(clan, first_clan, last_clan, next, prev);
+  STRFREE(clan->filename);
+  STRFREE(clan->name);
+  STRFREE(clan->motto);
+  STRFREE(clan->description);
+  STRFREE(clan->warmaster);
+  STRFREE(clan->chieftain);
+  STRFREE(clan->badge);
+  STRFREE(clan->intro);
+  remove_all_rosters(clan);
+  for(pkillarea = clan->first_pkillarea; pkillarea; pkillarea = pkillarea_next)
+  {
+    pkillarea_next = pkillarea->next;
+    UNLINK(pkillarea, clan->first_pkillarea, clan->last_pkillarea, next, prev);
+    free_pkillarea(pkillarea);
+  }
+  for(tarea = first_area; tarea; tarea = tarea->next)
+  {
+    if(tarea->influencer == clan)
+      tarea->influencer = NULL;
+  }
+  DISPOSE(clan);
 }
 
-void free_one_council( COUNCIL_DATA * council )
+void free_clans(void)
 {
-   UNLINK( council, first_council, last_council, next, prev );
-   STRFREE( council->description );
-   DISPOSE( council->filename );
-   STRFREE( council->head );
-   STRFREE( council->head2 );
-   STRFREE( council->name );
-   STRFREE( council->powers );
-   DISPOSE( council );
-   return;
+  CLAN_DATA              *clan, *clan_next;
+
+  for(clan = first_clan; clan; clan = clan_next)
+  {
+    clan_next = clan->next;
+    free_one_clan(clan);
+  }
 }
 
-void free_councils( void )
+void free_one_council(COUNCIL_DATA * council)
 {
-   COUNCIL_DATA *council, *council_next;
+  UNLINK(council, first_council, last_council, next, prev);
+  STRFREE(council->description);
+  STRFREE(council->filename);
+  STRFREE(council->head);
+  STRFREE(council->head2);
+  STRFREE(council->name);
+  STRFREE(council->powers);
+  DISPOSE(council);
+}
 
-   for( council = first_council; council; council = council_next )
-   {
-      council_next = council->next;
-      free_one_council( council );
-   }
-   return;
+void free_councils(void)
+{
+  COUNCIL_DATA           *council, *council_next;
+
+  for(council = first_council; council; council = council_next)
+  {
+    council_next = council->next;
+    free_one_council(council);
+  }
 }
 
 /*
  * Get pointer to clan structure from clan name.
  */
-CLAN_DATA *get_clan( const char *name )
+CLAN_DATA              *get_clan(const char *name)
 {
-   CLAN_DATA *clan;
+  CLAN_DATA              *clan;
 
-   for( clan = first_clan; clan; clan = clan->next )
-      if( !str_cmp( name, clan->name ) || ( ( clan->abbrev != '\0' ) && !str_cmp( name, clan->abbrev ) ) )
-         return clan;
-   return NULL;
+  for(clan = first_clan; clan; clan = clan->next)
+    if(!str_cmp(name, clan->name))
+      return clan;
+  return NULL;
 }
 
-COUNCIL_DATA *get_council( const char *name )
+COUNCIL_DATA           *get_council(const char *name)
 {
-   COUNCIL_DATA *council;
+  COUNCIL_DATA           *council;
 
-   for( council = first_council; council; council = council->next )
-      if( !str_cmp( name, council->name ) || ( ( council->abbrev != '\0' ) && !str_cmp( name, council->abbrev ) ) )
-         return council;
-   return NULL;
+  for(council = first_council; council; council = council->next)
+    if(!str_cmp(name, council->name))
+      return council;
+  return NULL;
 }
 
-void write_clan_list(  )
+void write_clan_list()
 {
-   CLAN_DATA *tclan;
-   FILE *fpout;
-   char filename[256];
+  CLAN_DATA              *tclan;
+  FILE                   *fpout;
+  char                    filename[256];
 
-   snprintf( filename, 256, "%s%s", CLAN_DIR, CLAN_LIST );
-   fpout = fopen( filename, "w" );
-   if( !fpout )
-   {
-      bug( "FATAL: cannot open %s for writing!\r\n", filename );
-      return;
-   }
-   for( tclan = first_clan; tclan; tclan = tclan->next )
-      fprintf( fpout, "%s\n", tclan->filename );
-   fprintf( fpout, "$\n" );
-   fclose( fpout );
+  snprintf(filename, 256, "%s%s", CLAN_DIR, CLAN_LIST);
+  fpout = FileOpen(filename, "w");
+  if(!fpout)
+  {
+    bug("FATAL: cannot open %s for writing!\r\n", filename);
+    return;
+  }
+  for(tclan = first_clan; tclan; tclan = tclan->next)
+    fprintf(fpout, "%s\n", tclan->filename);
+  fprintf(fpout, "$\n");
+  FileClose(fpout);
 }
 
-void write_council_list(  )
+void write_council_list()
 {
-   COUNCIL_DATA *tcouncil;
-   FILE *fpout;
-   char filename[256];
+  COUNCIL_DATA           *tcouncil;
+  FILE                   *fpout;
+  char                    filename[256];
 
-   snprintf( filename, 256, "%s%s", COUNCIL_DIR, COUNCIL_LIST );
-   fpout = fopen( filename, "w" );
-   if( !fpout )
-   {
-      bug( "FATAL: cannot open %s for writing!\r\n", filename );
-      return;
-   }
-   for( tcouncil = first_council; tcouncil; tcouncil = tcouncil->next )
-      fprintf( fpout, "%s\n", tcouncil->filename );
-   fprintf( fpout, "$\n" );
-   fclose( fpout );
+  snprintf(filename, 256, "%s%s", COUNCIL_DIR, COUNCIL_LIST);
+  fpout = FileOpen(filename, "w");
+  if(!fpout)
+  {
+    bug("FATAL: cannot open %s for writing!\r\n", filename);
+    return;
+  }
+  for(tcouncil = first_council; tcouncil; tcouncil = tcouncil->next)
+    fprintf(fpout, "%s\n", tcouncil->filename);
+  fprintf(fpout, "$\n");
+  FileClose(fpout);
 }
 
 /*
  * Save a clan's data to its data file
  */
-void save_clan( CLAN_DATA * clan )
+void save_clan(CLAN_DATA * clan)
 {
-   FILE *fp;
-   char filename[256];
+  FILE                   *fp;
+  char                    filename[256];
+  PKILLAREA_DATA         *pkillarea = NULL;
 
-   if( !clan )
-   {
-      bug( "%s", "save_clan: null clan pointer!" );
-      return;
-   }
+  if(!clan)
+  {
+    bug("%s", "save_clan: null clan pointer!");
+    return;
+  }
 
-   if( !clan->filename || clan->filename[0] == '\0' )
-   {
-      bug( "%s: %s has no filename", __func__, clan->name );
-      return;
-   }
+  if(!clan->filename || clan->filename[0] == '\0')
+  {
+    bug("save_clan: %s has no filename", clan->name);
+    return;
+  }
 
-   snprintf( filename, 256, "%s%s", CLAN_DIR, clan->filename );
+  snprintf(filename, 256, "%s%s", CLAN_DIR, clan->filename);
 
-   if( ( fp = fopen( filename, "w" ) ) == NULL )
-   {
-      bug( "save_clan: cant open %s", filename );
-      perror( filename );
-   }
-   else
-   {
-      fprintf( fp, "#CLAN\n" );
-      fprintf( fp, "Name         %s~\n", clan->name );
-      fprintf( fp, "Abbrev       %s~\n", clan->abbrev );
-      fprintf( fp, "Filename     %s~\n", clan->filename );
-      fprintf( fp, "Motto        %s~\n", clan->motto );
-      fprintf( fp, "Description  %s~\n", clan->description );
-      fprintf( fp, "Deity        %s~\n", clan->deity );
-      fprintf( fp, "Leader       %s~\n", clan->leader );
-      fprintf( fp, "NumberOne    %s~\n", clan->number1 );
-      fprintf( fp, "NumberTwo    %s~\n", clan->number2 );
-      fprintf( fp, "Badge        %s~\n", clan->badge );
-      fprintf( fp, "Leadrank     %s~\n", clan->leadrank );
-      fprintf( fp, "Onerank      %s~\n", clan->onerank );
-      fprintf( fp, "Tworank      %s~\n", clan->tworank );
-      fprintf( fp, "PKillRangeNew   %d %d %d %d %d %d %d\n",
-               clan->pkills[0], clan->pkills[1], clan->pkills[2],
-               clan->pkills[3], clan->pkills[4], clan->pkills[5], clan->pkills[6] );
-      fprintf( fp, "PDeathRangeNew  %d %d %d %d %d %d %d\n",
-               clan->pdeaths[0], clan->pdeaths[1], clan->pdeaths[2],
-               clan->pdeaths[3], clan->pdeaths[4], clan->pdeaths[5], clan->pdeaths[6] );
-      fprintf( fp, "MKills       %d\n", clan->mkills );
-      fprintf( fp, "MDeaths      %d\n", clan->mdeaths );
-      fprintf( fp, "IllegalPK    %d\n", clan->illegal_pk );
-      fprintf( fp, "Score        %d\n", clan->score );
-      fprintf( fp, "Type         %d\n", clan->clan_type );
-      fprintf( fp, "Class        %d\n", clan->Class );
-      fprintf( fp, "Favour       %d\n", clan->favour );
-      fprintf( fp, "Strikes      %d\n", clan->strikes );
-      fprintf( fp, "Members      %d\n", clan->members );
-      fprintf( fp, "MemLimit     %d\n", clan->mem_limit );
-      fprintf( fp, "Alignment    %d\n", clan->alignment );
-      fprintf( fp, "Board        %d\n", clan->board );
-      fprintf( fp, "ClanObjOne   %d\n", clan->clanobj1 );
-      fprintf( fp, "ClanObjTwo   %d\n", clan->clanobj2 );
-      fprintf( fp, "ClanObjThree %d\n", clan->clanobj3 );
-      fprintf( fp, "ClanObjFour  %d\n", clan->clanobj4 );
-      fprintf( fp, "ClanObjFive  %d\n", clan->clanobj5 );
-      fprintf( fp, "Recall       %d\n", clan->recall );
-      fprintf( fp, "Storeroom    %d\n", clan->storeroom );
-      fprintf( fp, "GuardOne     %d\n", clan->guard1 );
-      fprintf( fp, "GuardTwo     %d\n", clan->guard2 );
-      fprintf( fp, "%s", "End\n\n" );
-
-      fwrite_memberlist( fp, clan );
-      fprintf( fp, "%s", "#END\n" );
-
-      fclose( fp );
-      fp = NULL;
-   }
-   return;
+  if((fp = FileOpen(filename, "w")) == NULL)
+  {
+    bug("save_clan: can't open %s", filename);
+    perror(filename);
+  }
+  else
+  {
+    fprintf(fp, "#CLAN\n");
+    fprintf(fp, "Name         %s~\n", clan->name);
+    fprintf(fp, "Filename     %s~\n", clan->filename);
+    fprintf(fp, "Intro        %s~\n", clan->intro);
+    fprintf(fp, "Motto        %s~\n", clan->motto);
+    fprintf(fp, "Description  %s~\n", clan->description);
+    fprintf(fp, "Warmaster    %s~\n", clan->warmaster);
+    fprintf(fp, "Chieftain    %s~\n", clan->chieftain);
+    fprintf(fp, "Badge        %s~\n", clan->badge);
+    fprintf(fp, "PKillRangeNew   %d %d %d %d %d %d %d %d %d %d %d\n",
+            clan->pkills[0], clan->pkills[1], clan->pkills[2], clan->pkills[3], clan->pkills[4], clan->pkills[5], clan->pkills[6], clan->pkills[7], clan->pkills[8], clan->pkills[9], clan->pkills[10]);
+    fprintf(fp, "PDeathRangeNew  %d %d %d %d %d %d %d %d %d %d %d\n", clan->pdeaths[0],
+            clan->pdeaths[1], clan->pdeaths[2], clan->pdeaths[3], clan->pdeaths[4], clan->pdeaths[5], clan->pdeaths[6], clan->pdeaths[7], clan->pdeaths[8], clan->pdeaths[9], clan->pdeaths[10]);
+    fprintf(fp, "MKills       %d\n", clan->mkills);
+    fprintf(fp, "MDeaths      %d\n", clan->mdeaths);
+    fprintf(fp, "IllegalPK    %d\n", clan->illegal_pk);
+    fprintf(fp, "Score        %d\n", clan->score);
+    fprintf(fp, "Type         %d\n", clan->clan_type);
+    fprintf(fp, "Members      %d\n", clan->members);
+    fprintf(fp, "MemLimit     %d\n", clan->mem_limit);
+    fprintf(fp, "Alignment    %d\n", clan->alignment);
+    fprintf(fp, "Board        %d\n", clan->board);
+    fprintf(fp, "ClanObjOne   %d\n", clan->clanobj1);
+    fprintf(fp, "ClanObjTwo   %d\n", clan->clanobj2);
+    fprintf(fp, "ClanObjThree %d\n", clan->clanobj3);
+    fprintf(fp, "ClanObjFour  %d\n", clan->clanobj4);
+    fprintf(fp, "ClanObjFive  %d\n", clan->clanobj5);
+    fprintf(fp, "Clanstatus   %d\n", clan->status);
+    fprintf(fp, "Recall       %d\n", clan->recall);
+    fprintf(fp, "Totalpoints  %d\n", clan->totalpoints);
+    fprintf(fp, "GuardOne     %d\n", clan->guard1);
+    fprintf(fp, "GuardTwo     %d\n", clan->guard2);
+    fprintf(fp, "ArenaVictory %d\n", clan->arena_victory);
+    fprintf(fp, "Chieflog     %d\n", clan->chieflog);
+    fprintf(fp, "Warlog     %d\n", clan->warlog);
+    for(pkillarea = clan->first_pkillarea; pkillarea; pkillarea = pkillarea->next)
+    {
+      fprintf(fp, "PKILLAREA         %s~\n", pkillarea->name);
+    }
+    fprintf(fp, "End\n\n");
+    fwrite_memberlist(fp, clan);
+    fprintf(fp, "#END\n");
+    FileClose(fp);
+    fp = NULL;
+  }
+  return;
 }
 
 /*
  * Save a council's data to its data file
  */
-void save_council( COUNCIL_DATA * council )
+void save_council(COUNCIL_DATA * council)
 {
-   FILE *fp;
-   char filename[256];
+  FILE                   *fp;
+  char                    filename[256];
 
-   if( !council )
-   {
-      bug( "%s", "save_council: null council pointer!" );
-      return;
-   }
+  if(!council)
+  {
+    bug("%s", "save_council: null council pointer!");
+    return;
+  }
 
-   if( !council->filename || council->filename[0] == '\0' )
-   {
-      bug( "save_council: %s has no filename", council->name );
-      return;
-   }
+  if(!council->filename || council->filename[0] == '\0')
+  {
+    bug("save_council: %s has no filename", council->name);
+    return;
+  }
 
-   snprintf( filename, 256, "%s%s", COUNCIL_DIR, council->filename );
+  snprintf(filename, 256, "%s%s", COUNCIL_DIR, council->filename);
 
-   if( ( fp = fopen( filename, "w" ) ) == NULL )
-   {
-      bug( "save_council: cant open %s", filename );
-      perror( filename );
-   }
-   else
-   {
-
-      fprintf( fp, "#COUNCIL\n" );
-      if( council->name )
-         fprintf( fp, "Name         %s~\n", council->name );
-      fprintf( fp, "Abbrev       %s~\n", council->abbrev );
-      if( council->filename )
-         fprintf( fp, "Filename     %s~\n", council->filename );
-      if( council->description )
-         fprintf( fp, "Description  %s~\n", council->description );
-      if( council->head )
-         fprintf( fp, "Head         %s~\n", council->head );
-      if( council->head2 != NULL )
-         fprintf( fp, "Head2        %s~\n", council->head2 );
-      fprintf( fp, "Members      %d\n", council->members );
-      fprintf( fp, "Board        %d\n", council->board );
-      fprintf( fp, "Meeting      %d\n", council->meeting );
-      fprintf( fp, "Storeroom    %d\n", council->storeroom );
-      if( council->powers )
-         fprintf( fp, "Powers       %s~\n", council->powers );
-      fprintf( fp, "End\n\n" );
-      fprintf( fp, "#END\n" );
-      fclose( fp );
-      fp = NULL;
-   }
-   return;
-}
-
-void sort_vaults( VAULT_DATA *pVault )
-{
-   VAULT_DATA *vault = NULL;
-
-   if( !pVault )
-   {
-      bug( "%s: NULL pVault", __func__ );
-      return;
-   }
-
-   pVault->next = NULL;
-   pVault->prev = NULL;
-   for( vault = first_vault; vault; vault = vault->next )
-   {
-      if( vault->vnum == pVault->vnum )
-         break;
-      if( vault->vnum > pVault->vnum )
-      {
-         INSERT( pVault, vault, first_vault, next, prev );
-         break;
-      }
-   }
-
-   if( !vault )
-      LINK( pVault, first_vault, last_vault, next, prev );
-   return;
-}                                                                                                                                               
-
-void save_vault_list( )
-{
-   VAULT_DATA *vault;
-   FILE *fpout;
-   char filename[256];
-
-   snprintf( filename, 256, "%s%s", VAULT_DIR, VAULT_LIST );
-   fpout = fopen( filename, "w" );
-   if( !fpout )
-   {
-      bug( "%s: FATAL: cannot open vault.lst for writing!", __func__ );
-      return;
-   }
-
-   for( vault = first_vault; vault; vault = vault->next )
-      fprintf( fpout, "%d\n", vault->vnum );
-   fprintf( fpout, "$\n" );
-   fclose( fpout );
-   fpout = NULL;
-}                                                                                                                                               
-
-void load_vaults( )
-{
-   FILE *fpList;
-   char filename[256];
-   const char *vnum;
-   char vaultlist[256];
-   int rnum;
-
-   snprintf( vaultlist, 256, "%s%s", VAULT_DIR, VAULT_LIST );
-   if( ( fpList = fopen( vaultlist, "r" ) ) == NULL )
-   {
-      perror( vaultlist );
-      exit( 1 );
-   }
-
-   first_vault = NULL;
-   last_vault = NULL;
-
-   for( ; ; )
-   {
-      vnum = feof( fpList ) ? "$" : fread_word( fpList );
-      log_string( vnum );
-
-      if( vnum[0] == '$' )
-         break;
-
-      if( ( rnum = atoi(vnum) ) == 0 )
-      {
-         bug( "%s: Invalid vault number: %d", __func__, rnum );
-         break;
-      }
-
-      snprintf( filename, 256, "%s%s.vault", VAULT_DIR, vnum );
-
-      if( !fread_storage( rnum, filename ) )
-      {
-         bug( "%s: Cannot load vault file: %s", __func__, filename );
-      }
-   }
-
-   fclose( fpList );
-   fpList = NULL;
-
-   log_string(" Done vaults " );
-   return;
-}                                                                                                                                               
-
-bool fread_storage( int rnum, const char *filename )
-{
-   FILE *fp;
-   bool found = FALSE;
-   VAULT_DATA *vault;
-   ROOM_INDEX_DATA *storeroom;
-
-   CREATE( vault, VAULT_DATA, 1 );
-
-   if( ( vault->vnum = rnum ) == 0 || ( storeroom = get_room_index( rnum ) ) == NULL )
-   {
-      log_string( "Storeroom not found" );
-      DISPOSE( vault ); // Memory leak, fixed by SmaugFUSS
-      return found;
-   }
-
-   sort_vaults( vault );
-
-   if( ( fp = fopen( filename, "r" ) ) != NULL )
-   {
-      int iNest;
-      OBJ_DATA *tobj, *tobj_next;
-
-      log_printf( "Loading vault file - %s", filename );
-
-      rset_supermob( storeroom );
-
-      for( iNest = 0; iNest < MAX_NEST; iNest++ )
-         rgObjNest[iNest] = NULL;
-
-      found = TRUE;
-      for( ; ; )
-      {
-         char letter;
-         const char *word;
-
-         letter = fread_letter( fp );
-         if ( letter == '*' )
-         {
-            fread_to_eol( fp );
-            continue;
-         }
-
-         if( letter != '#' )
-         {
-            bug( "%s: %s: # not found.", __func__, filename );
-            break;
-         }
-
-         word = fread_word( fp );
-         if( !str_cmp( word, "OBJECT" ) )  /* Objects */
-         {
-            fread_obj( supermob, fp, OS_CARRY );
-         }
-         else if( !str_cmp( word, "END" ) )  /* Done */
-            break;
-         else
-         {
-            bug( "%s: %s: bad section.", __func__, filename );
-            break;
-         }
-      }
-      fclose( fp );
-      fp = NULL;
-
-      for( tobj = supermob->first_carrying; tobj; tobj = tobj_next )
-      {
-         tobj_next = tobj->next_content;
-
-         obj_from_char( tobj );
-         obj_to_room( tobj, storeroom );
-      }
-      release_supermob();
-   }
-   else
-   {
-      log_printf( "Cannot open vault - %s", filename );
-   }
-   return found;
+  if((fp = FileOpen(filename, "w")) == NULL)
+  {
+    bug("save_council: can't open %s", filename);
+    perror(filename);
+  }
+  else
+  {
+    fprintf(fp, "#COUNCIL\n");
+    if(council->name)
+      fprintf(fp, "Name         %s~\n", council->name);
+    if(council->filename)
+      fprintf(fp, "Filename     %s~\n", council->filename);
+    if(council->description)
+      fprintf(fp, "Description  %s~\n", council->description);
+    if(council->head)
+      fprintf(fp, "Head         %s~\n", council->head);
+    if(council->head2 != NULL)
+      fprintf(fp, "Head2        %s~\n", council->head2);
+    fprintf(fp, "Members      %d\n", council->members);
+    fprintf(fp, "Board        %d\n", council->board);
+    fprintf(fp, "Meeting      %d\n", council->meeting);
+    if(council->powers)
+      fprintf(fp, "Powers       %s~\n", council->powers);
+    fprintf(fp, "End\n\n");
+    fprintf(fp, "#END\n");
+    FileClose(fp);
+    fp = NULL;
+  }
 }
 
 /*
  * Read in actual clan data.
+ */
+
+/*
  * Reads in PKill and PDeath still for backward compatibility but now it
  * should be written to PKillRange and PDeathRange for multiple level pkill
  * tracking support. --Shaddai
  * Added a hardcoded limit memlimit to the amount of members a clan can 
  * have set using setclan.  --Shaddai
  */
-void fread_clan( CLAN_DATA * clan, FILE * fp )
+
+void fread_clan(CLAN_DATA * clan, FILE * fp)
 {
-   const char *word;
-   bool fMatch;
+  const char             *word;
+  bool                    fMatch;
 
-   clan->mem_limit = 0; /* Set up defaults */
-   for( ;; )
-   {
-      word = feof( fp ) ? "End" : fread_word( fp );
-      fMatch = FALSE;
+  clan->mem_limit = 0;  /* Set up defaults */
+  for(;;)
+  {
+    word = feof(fp) ? "End" : fread_word(fp);
+    fMatch = FALSE;
 
-      switch ( UPPER( word[0] ) )
-      {
-         case '*':
-            fMatch = TRUE;
-            fread_to_eol( fp );
-            break;
+    switch (UPPER(word[0]))
+    {
+      case '*':
+        fMatch = TRUE;
+        fread_to_eol(fp);
+        break;
 
-         case 'A':
-            KEY( "Abbrev", clan->abbrev, fread_string( fp ) );
-            KEY( "Alignment", clan->alignment, fread_number( fp ) );
-            break;
+      case 'A':
+        KEY("Alignment", clan->alignment, fread_number(fp));
+        KEY("ArenaVictory", clan->arena_victory, fread_number(fp));
+        break;
 
-         case 'B':
-            KEY( "Badge", clan->badge, fread_string( fp ) );
-            KEY( "Board", clan->board, fread_number( fp ) );
-            break;
+      case 'B':
+        KEY("Badge", clan->badge, fread_string(fp));
+        KEY("Board", clan->board, fread_number(fp));
+        break;
 
-         case 'C':
-            KEY( "ClanObjOne", clan->clanobj1, fread_number( fp ) );
-            KEY( "ClanObjTwo", clan->clanobj2, fread_number( fp ) );
-            KEY( "ClanObjThree", clan->clanobj3, fread_number( fp ) );
-            KEY( "ClanObjFour", clan->clanobj4, fread_number( fp ) );
-            KEY( "ClanObjFive", clan->clanobj5, fread_number( fp ) );
-            KEY( "Class", clan->Class, fread_number( fp ) );
-            break;
+      case 'C':
+        KEY("Chieftain", clan->chieftain, fread_string(fp));
+        KEY("ClanObjOne", clan->clanobj1, fread_number(fp));
+        KEY("ClanObjTwo", clan->clanobj2, fread_number(fp));
+        KEY("ClanObjThree", clan->clanobj3, fread_number(fp));
+        KEY("ClanObjFour", clan->clanobj4, fread_number(fp));
+        KEY("ClanObjFive", clan->clanobj5, fread_number(fp));
+        KEY("Clanstatus", clan->status, fread_number(fp));
+        KEY("Chieflog", clan->chieflog, fread_number(fp));
+        break;
 
-         case 'D':
-            KEY( "Deity", clan->deity, fread_string( fp ) );
-            KEY( "Description", clan->description, fread_string( fp ) );
-            break;
+      case 'D':
+        KEY("Description", clan->description, fread_string(fp));
+        break;
 
-         case 'E':
-            if( !str_cmp( word, "End" ) )
-            {
-               if( !clan->name )
-                  clan->name = STRALLOC( "" );
-               if( !clan->leader )
-                  clan->leader = STRALLOC( "" );
-               if( !clan->description )
-                  clan->description = STRALLOC( "" );
-               if( !clan->motto )
-                  clan->motto = STRALLOC( "" );
-               if( !clan->number1 )
-                  clan->number1 = STRALLOC( "" );
-               if( !clan->number2 )
-                  clan->number2 = STRALLOC( "" );
-               if( !clan->deity )
-                  clan->deity = STRALLOC( "" );
-               if( !clan->badge )
-                  clan->badge = STRALLOC( "" );
-               if( !clan->leadrank )
-                  clan->leadrank = STRALLOC( "" );
-               if( !clan->onerank )
-                  clan->onerank = STRALLOC( "" );
-               if( !clan->tworank )
-                  clan->tworank = STRALLOC( "" );
-               return;
-            }
-            break;
+      case 'E':
+        if(!str_cmp(word, "End"))
+        {
+          if(!clan->name)
+            clan->name = STRALLOC("");
+          if(!clan->description)
+            clan->description = STRALLOC("");
+          if(!clan->warmaster)
+            clan->warmaster = STRALLOC("");
+          if(!clan->chieftain)
+            clan->chieftain = STRALLOC("");
+          if(!clan->motto)
+            clan->motto = STRALLOC("");
+          if(!clan->badge)
+            clan->badge = STRALLOC("");
+          return;
+        }
+        break;
 
-         case 'F':
-            KEY( "Favour", clan->favour, fread_number( fp ) );
-            KEY( "Filename", clan->filename, fread_string_nohash( fp ) );
+      case 'F':
+        KEY("Filename", clan->filename, fread_string(fp));
 
-         case 'G':
-            KEY( "GuardOne", clan->guard1, fread_number( fp ) );
-            KEY( "GuardTwo", clan->guard2, fread_number( fp ) );
-            break;
+      case 'G':
+        KEY("GuardOne", clan->guard1, fread_number(fp));
+        KEY("GuardTwo", clan->guard2, fread_number(fp));
+        break;
 
-         case 'I':
-            KEY( "IllegalPK", clan->illegal_pk, fread_number( fp ) );
-            break;
+      case 'I':
+        KEY("Intro", clan->intro, fread_string(fp));
+        KEY("IllegalPK", clan->illegal_pk, fread_number(fp));
+        break;
 
-         case 'L':
-            KEY( "Leader", clan->leader, fread_string( fp ) );
-            KEY( "Leadrank", clan->leadrank, fread_string( fp ) );
-            break;
+      case 'M':
+        KEY("MDeaths", clan->mdeaths, fread_number(fp));
+        KEY("Members", clan->members, fread_number(fp));
+        KEY("MemLimit", clan->mem_limit, fread_number(fp));
+        KEY("MKills", clan->mkills, fread_number(fp));
+        KEY("Motto", clan->motto, fread_string(fp));
+        break;
 
-         case 'M':
-            KEY( "MDeaths", clan->mdeaths, fread_number( fp ) );
-            KEY( "Members", clan->members, fread_number( fp ) );
-            KEY( "MemLimit", clan->mem_limit, fread_number( fp ) );
-            KEY( "MKills", clan->mkills, fread_number( fp ) );
-            KEY( "Motto", clan->motto, fread_string( fp ) );
-            break;
+      case 'N':
+        KEY("Name", clan->name, fread_string(fp));
+        break;
 
-         case 'N':
-            KEY( "Name", clan->name, fread_string( fp ) );
-            KEY( "NumberOne", clan->number1, fread_string( fp ) );
-            KEY( "NumberTwo", clan->number2, fread_string( fp ) );
-            break;
+      case 'O':
+        break;
 
-         case 'O':
-            KEY( "Onerank", clan->onerank, fread_string( fp ) );
-            break;
+      case 'P':
+        KEY("PDeaths", clan->pdeaths[6], fread_number(fp));
+        KEY("PKills", clan->pkills[6], fread_number(fp));
+        /*
+         * Addition of New Ranges 
+         */
+        if(!str_cmp(word, "PDeathRange"))
+        {
+          fMatch = TRUE;
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+        }
+        if(!str_cmp(word, "PDeathRangeNew"))
+        {
+          fMatch = TRUE;
+          clan->pdeaths[0] = fread_number(fp);
+          clan->pdeaths[1] = fread_number(fp);
+          clan->pdeaths[2] = fread_number(fp);
+          clan->pdeaths[3] = fread_number(fp);
+          clan->pdeaths[4] = fread_number(fp);
+          clan->pdeaths[5] = fread_number(fp);
+          clan->pdeaths[6] = fread_number(fp);
+          clan->pdeaths[7] = fread_number(fp);
+          clan->pdeaths[8] = fread_number(fp);
+          clan->pdeaths[9] = fread_number(fp);
+          clan->pdeaths[10] = fread_number(fp);
+        }
+        if(!strcmp(word, "PKILLAREA"))
+        {
+          PKILLAREA_DATA         *pkillarea;
 
-         case 'P':
-            KEY( "PDeaths", clan->pdeaths[6], fread_number( fp ) );
-            KEY( "PKills", clan->pkills[6], fread_number( fp ) );
-            /*
-             * Addition of New Ranges 
-             */
-            if( !str_cmp( word, "PDeathRange" ) )
-            {
-               fMatch = TRUE;
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-            }
-            if( !str_cmp( word, "PDeathRangeNew" ) )
-            {
-               fMatch = TRUE;
-               clan->pdeaths[0] = fread_number( fp );
-               clan->pdeaths[1] = fread_number( fp );
-               clan->pdeaths[2] = fread_number( fp );
-               clan->pdeaths[3] = fread_number( fp );
-               clan->pdeaths[4] = fread_number( fp );
-               clan->pdeaths[5] = fread_number( fp );
-               clan->pdeaths[6] = fread_number( fp );
-            }
-            if( !str_cmp( word, "PKillRangeNew" ) )
-            {
-               fMatch = TRUE;
-               clan->pkills[0] = fread_number( fp );
-               clan->pkills[1] = fread_number( fp );
-               clan->pkills[2] = fread_number( fp );
-               clan->pkills[3] = fread_number( fp );
-               clan->pkills[4] = fread_number( fp );
-               clan->pkills[5] = fread_number( fp );
-               clan->pkills[6] = fread_number( fp );
-            }
-            if( !str_cmp( word, "PKillRange" ) )
-            {
-               fMatch = TRUE;
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-               fread_number( fp );
-            }
-            break;
+          CREATE(pkillarea, PKILLAREA_DATA, 1);
+          pkillarea->name = fread_string(fp);
+          LINK(pkillarea, clan->first_pkillarea, clan->last_pkillarea, next, prev);
+          fMatch = TRUE;
+          break;
+        }
 
-         case 'R':
-            KEY( "Recall", clan->recall, fread_number( fp ) );
-            break;
+        if(!str_cmp(word, "PKillRangeNew"))
+        {
+          fMatch = TRUE;
+          clan->pkills[0] = fread_number(fp);
+          clan->pkills[1] = fread_number(fp);
+          clan->pkills[2] = fread_number(fp);
+          clan->pkills[3] = fread_number(fp);
+          clan->pkills[4] = fread_number(fp);
+          clan->pkills[5] = fread_number(fp);
+          clan->pkills[6] = fread_number(fp);
+          clan->pkills[7] = fread_number(fp);
+          clan->pkills[8] = fread_number(fp);
+          clan->pkills[9] = fread_number(fp);
+          clan->pkills[10] = fread_number(fp);
+        }
 
-         case 'S':
-            KEY( "Score", clan->score, fread_number( fp ) );
-            KEY( "Strikes", clan->strikes, fread_number( fp ) );
-            KEY( "Storeroom", clan->storeroom, fread_number( fp ) );
-            break;
+        if(!str_cmp(word, "PKillRange"))
+        {
+          fMatch = TRUE;
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+          fread_number(fp);
+        }
+        break;
 
-         case 'T':
-            KEY( "Tworank", clan->tworank, fread_string( fp ) );
-            KEY( "Type", clan->clan_type, fread_number( fp ) );
-            break;
-      }
+      case 'R':
+        KEY("Recall", clan->recall, fread_number(fp));
+        break;
 
-      if( !fMatch )
-      {
-         bug( "Fread_clan: no match: %s", word );
-         fread_to_eol( fp );
-      }
-   }
+      case 'S':
+        KEY("Score", clan->score, fread_number(fp));
+        break;
+
+      case 'T':
+        KEY("Totalpoints", clan->totalpoints, fread_number(fp));
+        KEY("Type", clan->clan_type, fread_number(fp));
+        break;
+      case 'W':
+        KEY("Warlog", clan->warlog, fread_number(fp));
+        KEY("Warmaster", clan->warmaster, fread_string(fp));
+        break;
+    }
+
+    if(!fMatch)
+    {
+      bug("Fread_clan: no match: %s", word);
+      fread_to_eol(fp);
+    }
+  }
 }
 
 /*
  * Read in actual council data.
  */
-void fread_council( COUNCIL_DATA * council, FILE * fp )
+void fread_council(COUNCIL_DATA * council, FILE * fp)
 {
-   const char *word;
-   bool fMatch;
+  const char             *word;
+  bool                    fMatch;
 
-   for( ;; )
-   {
-      word = feof( fp ) ? "End" : fread_word( fp );
-      fMatch = FALSE;
+  for(;;)
+  {
+    word = feof(fp) ? "End" : fread_word(fp);
+    fMatch = FALSE;
+    switch (UPPER(word[0]))
+    {
+      case '*':
+        fMatch = TRUE;
+        fread_to_eol(fp);
+        break;
+      case 'B':
+        KEY("Board", council->board, fread_number(fp));
+        break;
+      case 'D':
+        KEY("Description", council->description, fread_string(fp));
+        break;
 
-      switch ( UPPER( word[0] ) )
-      {
-         case '*':
-            fMatch = TRUE;
-            fread_to_eol( fp );
-            break;
+      case 'E':
+        if(!str_cmp(word, "End"))
+        {
+          if(!council->name)
+            council->name = STRALLOC("");
+          if(!council->description)
+            council->description = STRALLOC("");
+          if(!council->powers)
+            council->powers = STRALLOC("");
+          return;
+        }
+        break;
 
-         case 'A':
-            KEY( "Abbrev", council->abbrev, fread_string( fp ) );
-            break;
+      case 'F':
+        KEY("Filename", council->filename, fread_string(fp));
+        break;
 
-         case 'B':
-            KEY( "Board", council->board, fread_number( fp ) );
-            break;
+      case 'H':
+        KEY("Head", council->head, fread_string(fp));
+        KEY("Head2", council->head2, fread_string(fp));
+        break;
 
-         case 'D':
-            KEY( "Description", council->description, fread_string( fp ) );
-            break;
+      case 'M':
+        KEY("Members", council->members, fread_number(fp));
+        KEY("Meeting", council->meeting, fread_number(fp));
+        break;
 
-         case 'E':
-            if( !str_cmp( word, "End" ) )
-            {
-               if( !council->name )
-                  council->name = STRALLOC( "" );
-               if( !council->description )
-                  council->description = STRALLOC( "" );
-               if( !council->powers )
-                  council->powers = STRALLOC( "" );
-               return;
-            }
-            break;
+      case 'N':
+        KEY("Name", council->name, fread_string(fp));
+        break;
 
-         case 'F':
-            KEY( "Filename", council->filename, fread_string_nohash( fp ) );
-            break;
-
-         case 'H':
-            KEY( "Head", council->head, fread_string( fp ) );
-            KEY( "Head2", council->head2, fread_string( fp ) );
-            break;
-
-         case 'M':
-            KEY( "Members", council->members, fread_number( fp ) );
-            KEY( "Meeting", council->meeting, fread_number( fp ) );
-            break;
-
-         case 'N':
-            KEY( "Name", council->name, fread_string( fp ) );
-            break;
-
-         case 'P':
-            KEY( "Powers", council->powers, fread_string( fp ) );
-            break;
-
-         case 'S':
-            KEY( "Storeroom", council->storeroom, fread_number( fp ) );
-            break;
-      }
-
-      if( !fMatch )
-      {
-         bug( "Fread_council: no match: %s", word );
-         fread_to_eol( fp );
-      }
-   }
+      case 'P':
+        KEY("Powers", council->powers, fread_string(fp));
+        break;
+    }
+    if(!fMatch)
+    {
+      bug("Fread_council: no match: %s", word);
+      fread_to_eol(fp);
+    }
+  }
 }
 
 /*
  * Load a clan file
  */
-bool load_clan_file( const char *clanfile )
+bool load_clan_file(const char *clanfile)
 {
-   char filename[256];
-   CLAN_DATA *clan;
-   FILE *fp;
-   bool found;
+  char                    filename[256];
+  CLAN_DATA              *clan;
+  FILE                   *fp;
+  bool                    found;
 
-   CREATE( clan, CLAN_DATA, 1 );
+  CREATE(clan, CLAN_DATA, 1);
 
-   /*
-    * Make sure we default these to 0 --Shaddai 
-    */
-   clan->pkills[0] = 0;
-   clan->pkills[1] = 0;
-   clan->pkills[2] = 0;
-   clan->pkills[3] = 0;
-   clan->pkills[4] = 0;
-   clan->pkills[5] = 0;
-   clan->pkills[6] = 0;
-   clan->pdeaths[0] = 0;
-   clan->pdeaths[1] = 0;
-   clan->pdeaths[2] = 0;
-   clan->pdeaths[3] = 0;
-   clan->pdeaths[4] = 0;
-   clan->pdeaths[5] = 0;
-   clan->pdeaths[6] = 0;
+  /*
+   * Make sure we default these to 0 --Shaddai 
+   */
+  clan->pkills[0] = 0;
+  clan->pkills[1] = 0;
+  clan->pkills[2] = 0;
+  clan->pkills[3] = 0;
+  clan->pkills[4] = 0;
+  clan->pkills[5] = 0;
+  clan->pkills[6] = 0;
+  clan->pkills[7] = 0;
+  clan->pkills[8] = 0;
+  clan->pkills[9] = 0;
+  clan->pkills[10] = 0;
+  clan->pdeaths[0] = 0;
+  clan->pdeaths[1] = 0;
+  clan->pdeaths[2] = 0;
+  clan->pdeaths[3] = 0;
+  clan->pdeaths[4] = 0;
+  clan->pdeaths[5] = 0;
+  clan->pdeaths[6] = 0;
+  clan->pdeaths[7] = 0;
+  clan->pdeaths[8] = 0;
+  clan->pdeaths[9] = 0;
+  clan->pdeaths[10] = 0;
+  clan->intro = NULL;
 
-   found = FALSE;
-   snprintf( filename, 256, "%s%s", CLAN_DIR, clanfile );
+  found = FALSE;
+  snprintf(filename, 256, "%s%s", CLAN_DIR, clanfile);
 
-   if( ( fp = fopen( filename, "r" ) ) != NULL )
-   {
-      found = TRUE;
-      for( ;; )
+  if((fp = FileOpen(filename, "r")) != NULL)
+  {
+    found = TRUE;
+    for(;;)
+    {
+      char                    letter;
+      char                   *word;
+
+      letter = fread_letter(fp);
+      if(letter == '*')
       {
-         char letter;
-         char *word;
-
-         letter = fread_letter( fp );
-         if( letter == '*' )
-         {
-            fread_to_eol( fp );
-            continue;
-         }
-
-         if( letter != '#' )
-         {
-            bug( "%s: # not found.", __func__ );
-            break;
-         }
-
-         word = fread_word( fp );
-         if( !str_cmp( word, "CLAN" ) )
-            fread_clan( clan, fp );
-         else if( !str_cmp( word, "ROSTER" ) )
-            fread_memberlist( clan, fp );
-         else if( !str_cmp( word, "END" ) )
-            break;
-         else
-         {
-            bug( "%s: bad section: %s.", __func__, word );
-            break;
-         }
+        fread_to_eol(fp);
+        continue;
       }
-      fclose( fp );
-      fp = NULL;
-   }
 
-   if( found )
-   {
-      char fname[256];
-      VAULT_DATA *vault;
+      if(letter != '#')
+      {
+        bug("%s: # not found.", __FUNCTION__);
+        break;
+      }
 
-      LINK( clan, first_clan, last_clan, next, prev );
+      word = fread_word(fp);
+      if(!str_cmp(word, "CLAN"))
+        fread_clan(clan, fp);
+      else if(!str_cmp(word, "ROSTER"))
+        fread_memberlist(clan, fp);
+      else if(!str_cmp(word, "END"))
+        break;
+      else
+      {
+        bug("%s: bad section: %s.", __FUNCTION__, word);
+        break;
+      }
+    }
+    FileClose(fp);
+    fp = NULL;
+  }
 
-      for( vault = first_vault; vault; vault = vault->next )
-         if( clan->storeroom == vault->vnum )
-            return found;
+  if(found)
+    LINK(clan, first_clan, last_clan, next, prev);
+  else
+    DISPOSE(clan);
 
-      snprintf( fname, 256, "%s%s.vault", CLAN_DIR, clan->filename );
-      fread_storage( clan->storeroom, fname );
-   }
-   else
-      DISPOSE( clan );
+  if(clan)
+    influence_areas(clan);
 
-   return found;
+  return found;
 }
 
-/*
- * Load a council file
- */
-bool load_council_file( const char *councilfile )
+bool load_council_file(const char *councilfile)
 {
-   char filename[256];
-   COUNCIL_DATA *council;
-   FILE *fp;
-   bool found;
+  char                    filename[256];
+  COUNCIL_DATA           *council;
+  FILE                   *fp;
+  bool                    found;
 
-   CREATE( council, COUNCIL_DATA, 1 );
+  CREATE(council, COUNCIL_DATA, 1);
 
-   found = FALSE;
-   snprintf( filename, 256, "%s%s", COUNCIL_DIR, councilfile );
+  found = FALSE;
+  snprintf(filename, 256, "%s%s", COUNCIL_DIR, councilfile);
 
-   if( ( fp = fopen( filename, "r" ) ) != NULL )
-   {
+  if((fp = FileOpen(filename, "r")) != NULL)
+  {
 
-      found = TRUE;
-      for( ;; )
+    found = TRUE;
+    for(;;)
+    {
+      char                    letter;
+      char                   *word;
+
+      letter = fread_letter(fp);
+      if(letter == '*')
       {
-         char letter;
-         char *word;
-
-         letter = fread_letter( fp );
-         if( letter == '*' )
-         {
-            fread_to_eol( fp );
-            continue;
-         }
-
-         if( letter != '#' )
-         {
-            bug( "%s: # not found.", __func__ );
-            break;
-         }
-
-         word = fread_word( fp );
-         if( !str_cmp( word, "COUNCIL" ) )
-         {
-            fread_council( council, fp );
-            break;
-         }
-         else if( !str_cmp( word, "END" ) )
-            break;
-         else
-         {
-            bug( "%s: bad section: %s", __func__, word );
-            break;
-         }
+        fread_to_eol(fp);
+        continue;
       }
-      fclose( fp );
-   }
 
-   if( found )
-   {
-      char fname[256];
-      VAULT_DATA *vault;
+      if(letter != '#')
+      {
+        bug("%s", "Load_council_file: # not found.");
+        break;
+      }
 
-      LINK( council, first_council, last_council, next, prev );
+      word = fread_word(fp);
+      if(!str_cmp(word, "COUNCIL"))
+      {
+        fread_council(council, fp);
+        break;
+      }
+      else if(!str_cmp(word, "END"))
+        break;
+      else
+      {
+        bug("%s", "Load_council_file: bad section.");
+        break;
+      }
+    }
+    FileClose(fp);
+  }
 
-      for( vault = first_vault; vault; vault = vault->next )
-         if( council->storeroom == vault->vnum )
-            return found;
+  if(found)
+    LINK(council, first_council, last_council, next, prev);
 
-      snprintf( fname, 256, "%s%s.vault", COUNCIL_DIR, council->filename );
-      fread_storage( council->storeroom, fname );
-   }
-   else
-      DISPOSE( council );
+  else
+    DISPOSE(council);
 
-   return found;
+  return found;
 }
 
 /*
  * Load in all the clan files.
  */
-void load_clans(  )
+void load_clans()
 {
-   FILE *fpList;
-   const char *filename;
-   char clanlist[256];
+  FILE                   *fpList;
+  const char             *filename;
+  char                    clanlist[256];
+  PKILLAREA_DATA         *first_pkillarea;
+  PKILLAREA_DATA         *last_pkillarea;
 
-   first_clan = NULL;
-   last_clan = NULL;
+  first_clan = NULL;
+  last_clan = NULL;
+  first_pkillarea = NULL;
+  last_pkillarea = NULL;
 
-   log_string( "Loading clans..." );
+  log_string("Loading clans...");
 
-   snprintf( clanlist, 256, "%s%s", CLAN_DIR, CLAN_LIST );
-   if( ( fpList = fopen( clanlist, "r" ) ) == NULL )
-   {
-      perror( clanlist );
-      exit( 1 );
-   }
+  snprintf(clanlist, 256, "%s%s", CLAN_DIR, CLAN_LIST);
+  if((fpList = FileOpen(clanlist, "r")) == NULL)
+  {
+    perror(clanlist);
+    exit(1);
+  }
 
-   for( ;; )
-   {
-      filename = feof( fpList ) ? "$" : fread_word( fpList );
-      log_string( filename );
-      if( filename[0] == '$' )
-         break;
+  for(;;)
+  {
+    filename = feof(fpList) ? "$" : fread_word(fpList);
+    log_printf("%s", filename);
+    if(filename[0] == '$')
+      break;
 
-      if( !load_clan_file( filename ) )
-      {
-         bug( "%s: Cannot load clan file: %s", __func__, filename );
-      }
-   }
-   fclose( fpList );
-   log_string( " Done clans " );
-   return;
+    if(!load_clan_file(filename))
+    {
+      bug("Cannot load clan file: %s", filename);
+    }
+  }
+  FileClose(fpList);
+  log_string(" Done clans ");
+  return;
 }
 
 /*
  * Load in all the council files.
  */
-void load_councils(  )
+void load_councils()
 {
-   FILE *fpList;
-   const char *filename;
-   char councillist[256];
+  FILE                   *fpList;
+  const char             *filename;
+  char                    councillist[256];
 
-   first_council = NULL;
-   last_council = NULL;
+  first_council = NULL;
+  last_council = NULL;
 
-   log_string( "Loading councils..." );
+  log_string("Loading councils...");
 
-   snprintf( councillist, 256, "%s%s", COUNCIL_DIR, COUNCIL_LIST );
-   if( ( fpList = fopen( councillist, "r" ) ) == NULL )
-   {
-      perror( councillist );
-      exit( 1 );
-   }
+  snprintf(councillist, 256, "%s%s", COUNCIL_DIR, COUNCIL_LIST);
+  if((fpList = FileOpen(councillist, "r")) == NULL)
+  {
+    perror(councillist);
+    exit(1);
+  }
 
-   for( ;; )
-   {
-      filename = feof( fpList ) ? "$" : fread_word( fpList );
-      log_string( filename );
-      if( filename[0] == '$' )
-         break;
+  for(;;)
+  {
+    filename = feof(fpList) ? "$" : fread_word(fpList);
+    log_printf("%s", filename);
+    if(filename[0] == '$')
+      break;
 
-      if( !load_council_file( filename ) )
-      {
-         bug( "Cannot load council file: %s", filename );
-      }
-   }
-   fclose( fpList );
-   log_string( " Done councils " );
-   return;
+    if(!load_council_file(filename))
+    {
+      bug("Cannot load council file: %s", filename);
+    }
+  }
+  FileClose(fpList);
+  log_string(" Done councils ");
+  return;
 }
 
-/*
- * Save items in a clan storage room -Rewritten by Edmond
- */
-void save_storeroom( CHAR_DATA *ch, int vnum )
+void do_banish(CHAR_DATA *ch, char *argument)
 {
-   FILE *fp;
-   char filename[256];
-   short templvl;
-   OBJ_DATA *contents;
+  CHAR_DATA              *victim;
+  char                    arg1[MIL];
+  CLAN_DATA              *clan, *vclan;
+  char                    buf[MIL];
 
-   if( !vnum )
-   {
-      bug( "%s: Null vnum pointer!", __func__ );
+  argument = one_argument(argument, arg1);
+
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+  clan = ch->pcdata->clan;
+
+  if((VLD_STR(clan->chieftain) && !str_cmp(ch->name, clan->chieftain)) || (VLD_STR(clan->warmaster) && !str_cmp(ch->name, clan->warmaster)));
+  else
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  if(arg1[0] == '\0')
+  {
+    send_to_char("Syntax: Banish <player>\r\n", ch);
+    return;
+  }
+
+  if((victim = get_char_room(ch, arg1)) == NULL)
+  {
+    send_to_char("That player is not here.\r\n", ch);
+    return;
+  }
+
+  if(IS_NPC(victim))
+  {
+    send_to_char("Not on NPC's.\r\n", ch);
+    return;
+  }
+
+  if(!(vclan = victim->pcdata->clan) || vclan != clan)
+  {
+    send_to_char("They aren't in your clan.\r\n", ch);
+    return;
+  }
+
+  if(VLD_STR(clan->chieftain) && !str_cmp(ch->name, clan->chieftain))
+  {
+    if(victim->pcdata->banish == 1)
+    {
+      send_to_char("You have already done your part of the banishment.\r\n", ch);
       return;
-   }                                                                                                                                           
-
-   if( !ch )
-   {
-      bug( "%s: Null ch pointer!", __func__ );
+    }
+    else if(victim->pcdata->banish == 0)
+    {
+      act(AT_GREEN, "You turn your back on $N for the first step in banishment from $t.", ch, clan->name, victim, TO_CHAR);
+      act(AT_GREEN, "$n turns $s back on $N for the first step in banishment from $t.", ch, clan->name, victim, TO_ROOM);
+      act(AT_GREEN, "$n turns $m back on you for the first step in banishment from $t.", ch, clan->name, victim, TO_VICT);
+      victim->pcdata->banish = 1;
       return;
-   }                                                                                                                                           
-
-   snprintf( filename, 256, "%s%d.vault", VAULT_DIR, vnum );
-
-   if( ( fp = fopen( filename, "w" ) ) == NULL )
-   {
-      bug( "%s: fopen", __func__ );
-      perror( filename );
-   }
-   else
-   {
-      templvl = ch->level;
-      ch->level = LEVEL_HERO;  /* make sure EQ doesn't get lost */
-      contents = ch->in_room->last_content;
-
-      if( contents )
-         fwrite_obj( ch, contents, fp, 0, OS_VAULT, FALSE );
-      fprintf( fp, "#END\n" );
-
-      ch->level = templvl;
-      fclose( fp );
-      fp = NULL;
+    }
+  }
+  if(VLD_STR(clan->warmaster) && !str_cmp(ch->name, clan->warmaster))
+  {
+    if(victim->pcdata->banish == 0)
+    {
+      act(AT_GREEN, "You turn your back on $N for the first step in banishment from $t.", ch, clan->name, victim, TO_CHAR);
+      act(AT_GREEN, "$n turns $s back on $N for the first step in banishment from $t.", ch, clan->name, victim, TO_ROOM);
+      act(AT_GREEN, "$n turns $m back on you for the first step in banishment from $t.", ch, clan->name, victim, TO_VICT);
+      victim->pcdata->banish = 3;
       return;
-   }
-   return;
+    }
+    else if(victim->pcdata->banish == 3)
+    {
+      send_to_char("You have already done your part of the banishment.\r\n", ch);
+      return;
+    }
+  }
+
+// outcast guts
+  victim->pcdata->clan_timer = current_time;
+  if(clan->members > 0)
+    --clan->members;
+  victim->pcdata->clan = NULL;
+  STRFREE(victim->pcdata->clan_name);
+  victim->pcdata->clan_name = STRALLOC("");
+  act(AT_MAGIC, "You banish $N from $t", ch, clan->name, victim, TO_CHAR);
+  act(AT_MAGIC, "$n banishes $N from $t", ch, clan->name, victim, TO_ROOM);
+  act(AT_MAGIC, "$n banishes you from $t", ch, clan->name, victim, TO_VICT);
+  snprintf(buf, sizeof(buf), "&RAnnouncement: &C%s has been banished from %s!", victim->name, clan->name);
+  echo_to_all(AT_MAGIC, buf, ECHOTAR_ALL);
+  victim->pcdata->banish = 0;
+  save_char_obj(victim);
+  save_clan(clan);
+// end of outcast guts
+  check_clan_leaders(clan, victim->name);
+
+  send_to_char("Syntax: Banish <player>\r\n", ch);
 }
 
-void do_make( CHAR_DATA* ch, const char* argument)
+void do_influence(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   OBJ_INDEX_DATA *pObjIndex;
-   OBJ_DATA *obj;
-   CLAN_DATA *clan;
-   int level;
+  CLAN_DATA              *clan;
+  CHAR_DATA              *mob = NULL;
+  MOB_INDEX_DATA         *mobvnum = NULL;
+  int                     vnum = -1;
+  PKILLAREA_DATA         *pkillarea = NULL;
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
-   {
-      send_to_char( "Huh?\r\n", ch );
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  clan = ch->pcdata->clan;
+
+  if(str_cmp(ch->name, clan->chieftain) && str_cmp(ch->name, clan->warmaster))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  /*
+   * Lets see Affect price of items that are sold, and areas influenced should show up
+   * with clans command 
+   */
+  // Step 1 generate random clan guards
+  AREA_DATA              *tarea;
+  bool                    found = FALSE;
+  ROOM_INDEX_DATA        *location;
+  MOB_INDEX_DATA         *imob = NULL;
+  CHAR_DATA              *vch = NULL, *vch_next = NULL;
+  int                     incost;
+
+  if(!(tarea = ch->in_room->area))
+  {
+    send_to_char("Area not found, try getting in an area.\r\n", ch);
+    return;
+  }
+
+  incost = 200;
+  if(!tarea->influencer)
+    incost = 150;
+
+  /*
+   * We will use 15 as just normal range, above 15 decrease cost by how much above it is, 
+   * below increase cost by how much below it is 
+   */
+  if(get_curr_cha(ch) > 15)
+    incost -= (get_curr_cha(ch) - 15);
+  else if(get_curr_cha(ch) < 15)
+    incost += (15 - get_curr_cha(ch));
+
+  if(clan->totalpoints < incost)
+  {
+    ch_printf(ch, "You need to untilize %d clan reputation status to influence this area.\r\n", incost);
+    return;
+  }
+
+  if(IS_SET(tarea->flags, AFLAG_NOINFLUENCE))
+  {
+    send_to_char("That area cannot be influenced.\r\n", ch);
+    return;
+  }
+
+  if(tarea->influencer && tarea->influencer == clan)
+  {
+    send_to_char("You already have that area influenced.\r\n", ch);
+    return;
+  }
+
+  if(tarea->influencer)
+  {
+    for(pkillarea = tarea->influencer->first_pkillarea; pkillarea; pkillarea = pkillarea->next)
+    {
+      if(str_cmp(pkillarea->name, tarea->name))
+        continue;
+      UNLINK(pkillarea, tarea->influencer->first_pkillarea, tarea->influencer->last_pkillarea, next, prev);
+      if(VLD_STR(pkillarea->name))
+        STRFREE(pkillarea->name);
+      save_clan(tarea->influencer);
+      break;
+    }
+  }
+
+  clan = ch->pcdata->clan;
+  tarea->influencer = clan;
+
+  for(vch = first_char; vch; vch = vch_next)
+  {
+    vch_next = vch->next;
+
+    if(vch->in_room->area == ch->in_room->area && IS_NPC(vch))
+      vch->influence = 20;
+  }
+  CREATE(pkillarea, PKILLAREA_DATA, 1);
+  LINK(pkillarea, clan->first_pkillarea, clan->last_pkillarea, next, prev);
+
+  pkillarea->name = STRALLOC(tarea->name);
+  // 41021 to 41025 for throng
+  // 41026 to 41029 for alliance
+  ch_printf(ch, "&cYou move throughout the area showing your clan insignia, and offering your clan's services.\r\n");
+  act(AT_CYAN, "&c$n begins moving thoughout the area showing $s clan insignia and offering the clan's services.", ch, NULL, NULL, TO_NOTVICT);
+  if(!str_cmp(ch->pcdata->clan_name, "throng"))
+  {
+    vnum = number_range(41021, 41025);
+
+    if(vnum == -1)
       return;
-   }
 
-   clan = ch->pcdata->clan;
-
-   if( str_cmp( ch->name, clan->leader )
-       && str_cmp( ch->name, clan->deity ) && ( clan->clan_type != CLAN_GUILD || str_cmp( ch->name, clan->number1 ) ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
+    imob = get_mob_index(vnum);
+  }
+  if(!str_cmp(ch->pcdata->clan_name, "alliance"))
+  {
+    vnum = number_range(41026, 41029);
+    if(vnum == -1)
       return;
-   }
 
-   argument = one_argument( argument, arg );
+    imob = get_mob_index(vnum);
+  }
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Make what?\r\n", ch );
+  short                   created;
+  short                   count;
+
+  count = number_chance(6, 12);
+
+  for(created = 0; created < count; created++)
+  {
+    if((location = get_room_index(number_range(tarea->low_r_vnum, tarea->hi_r_vnum))) == NULL)
+    {
+      --created;
+      continue;
+    }
+    if(IS_SET(location->room_flags, ROOM_SAFE))
+    {
+      --created;
+      continue;
+    }
+
+    if(!imob)
+    {
+      snprintf(log_buf, MAX_STRING_LENGTH, "influence: Missing mob for vnum %d", vnum);
+      log_string(log_buf);
       return;
-   }
-
-   pObjIndex = get_obj_index( clan->clanobj1 );
-   level = 40;
-
-   if( !pObjIndex || !is_name( arg, pObjIndex->name ) )
-   {
-      pObjIndex = get_obj_index( clan->clanobj2 );
-      level = 45;
-   }
-   if( !pObjIndex || !is_name( arg, pObjIndex->name ) )
-   {
-      pObjIndex = get_obj_index( clan->clanobj3 );
-      level = 50;
-   }
-   if( !pObjIndex || !is_name( arg, pObjIndex->name ) )
-   {
-      pObjIndex = get_obj_index( clan->clanobj4 );
-      level = 35;
-   }
-   if( !pObjIndex || !is_name( arg, pObjIndex->name ) )
-   {
-      pObjIndex = get_obj_index( clan->clanobj5 );
-      level = 1;
-   }
-
-   if( !pObjIndex || !is_name( arg, pObjIndex->name ) )
-   {
-      send_to_char( "You don't know how to make that.\r\n", ch );
-      return;
-   }
-
-   obj = create_object( pObjIndex, level );
-   xSET_BIT( obj->extra_flags, ITEM_CLANOBJECT );
-   if( CAN_WEAR( obj, ITEM_TAKE ) )
-      obj = obj_to_char( obj, ch );
-   else
-      obj = obj_to_room( obj, ch->in_room );
-   act( AT_MAGIC, "$n makes $p!", ch, obj, NULL, TO_ROOM );
-   act( AT_MAGIC, "You make $p!", ch, obj, NULL, TO_CHAR );
-   return;
+    }
+    mob = create_mobile(imob);
+    mob->level = number_chance(10, 20);
+    STRFREE(mob->clan);
+    mob->clan = STRALLOC(clan->name);
+    mob->influence = 20;
+    char_to_room(mob, location);
+  }
+  clan->totalpoints -= incost;
+  save_clan(clan);
 }
 
-void do_induct( CHAR_DATA* ch, const char* argument)
+void do_declare(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   CHAR_DATA *victim;
-   CLAN_DATA *clan;
+  char                    buf[MIL];
+  char                    arg1[MIL];
+  char                    arg2[MIL];
+  CLAN_DATA              *clan;
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  argument = one_argument(argument, arg1);
+  argument = one_argument(argument, arg2);
 
-   clan = ch->pcdata->clan;
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   if( ( ch->pcdata && ch->pcdata->bestowments
-         && is_name( "caninduct", ch->pcdata->bestowments ) )
-       || !str_cmp( ch->name, clan->deity )
-       || !str_cmp( ch->name, clan->leader ) || !str_cmp( ch->name, clan->number1 ) || !str_cmp( ch->name, clan->number2 ) )
-      ;
-   else
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+/* Note to self for this business of clan->status and letting players know when 
+   thier clan is at war or whatever.
+   1 = war   2 = truce   3 = peace   */
 
-   argument = one_argument( argument, arg );
+  clan = ch->pcdata->clan;
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Induct whom?\r\n", ch );
-      return;
-   }
+  if(!str_cmp(ch->name, clan->chieftain) || !str_cmp(ch->name, clan->warmaster));
+  else
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   if( ( victim = get_char_room( ch, arg ) ) == NULL )
-   {
-      send_to_char( "That player is not here.\r\n", ch );
-      return;
-   }
+  if(arg1[0] == '\0')
+  {
+    send_to_char("Syntax: Declare <status> <clan>\r\n", ch);
+    send_to_char("Status: war, truce, peace\r\n", ch);
+    return;
+  }
 
-   if( IS_NPC( victim ) )
-   {
-      send_to_char( "Not on NPC's.\r\n", ch );
-      return;
-   }
+  if(!str_cmp(ch->pcdata->clan_name, arg2))
+  {
+    send_to_char("You can't declare anything against your own clan.\r\n", ch);
+    return;
+  }
 
-   if( IS_IMMORTAL( victim ) )
-   {
-      send_to_char( "You can't induct such a godly presence.\r\n", ch );
-      return;
-   }
+  if(!str_cmp(arg1, "war"))
+  {
+    if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared war with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared war with the Halcyon!\r\n", ch->name);
+    else if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared war with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared war with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared war with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared war with the Halcyon!\r\n", ch->name);
+    echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+    clan->status = 1;
+    save_clan(clan);
+    return;
+  }
+  if(!str_cmp(arg1, "peace"))
+  {
+    if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared peace with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared peace with the Halcyon!\r\n", ch->name);
+    else if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared peace with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared peace with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared peace with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared peace with the Halcyon!\r\n", ch->name);
+    echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+    clan->status = 3;
+    save_clan(clan);
+    return;
+  }
+  if(!str_cmp(arg1, "truce"))
+  {
+    if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared truce with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "throng"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Throng has declared truce with the Halcyon!\r\n", ch->name);
+    else if(!str_cmp(arg2, "alliance") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared truce with the Alliance!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "halcyon"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Halcyon has declared truce with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "throng") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared truce with the Throng!\r\n", ch->name);
+    else if(!str_cmp(arg2, "halcyon") && !str_cmp(ch->pcdata->clan_name, "alliance"))
+      snprintf(buf, MIL, "&W[&RAnnouncement&W]&C %s representing the Alliance has declared truce with the Halcyon!\r\n", ch->name);
+    echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+    clan->status = 2;
+    save_clan(clan);
+    return;
+  }
 
-   if( !IS_PKILL( victim ) && clan->clan_type != CLAN_GUILD &&
-       clan->clan_type != CLAN_ORDER && clan->clan_type != CLAN_NOKILL )
-   {
-      send_to_char( "You cannot induct a peaceful character.\r\n", ch );
-      return;
-   }
-
-   if( clan->clan_type == CLAN_GUILD )
-   {
-      if( victim->Class != clan->Class )
-      {
-         send_to_char( "This player's will is not in accordance with your guild.\r\n", ch );
-         return;
-      }
-   }
-   else
-   {
-      if( victim->level < 10 )
-      {
-         send_to_char( "This player is not worthy of joining yet.\r\n", ch );
-         return;
-      }
-
-      if( victim->level > ch->level )
-      {
-         send_to_char( "This player is too powerful for you to induct.\r\n", ch );
-         return;
-      }
-   }
-
-   if( victim->pcdata->clan )
-   {
-      if( victim->pcdata->clan->clan_type == CLAN_ORDER )
-      {
-         if( victim->pcdata->clan == clan )
-            send_to_char( "This player already belongs to your order!\r\n", ch );
-         else
-            send_to_char( "This player already belongs to an order!\r\n", ch );
-         return;
-      }
-      else if( victim->pcdata->clan->clan_type == CLAN_GUILD )
-      {
-         if( victim->pcdata->clan == clan )
-            send_to_char( "This player already belongs to your guild!\r\n", ch );
-         else
-            send_to_char( "This player already belongs to an guild!\r\n", ch );
-         return;
-      }
-      else
-      {
-         if( victim->pcdata->clan == clan )
-            send_to_char( "This player already belongs to your clan!\r\n", ch );
-         else
-            send_to_char( "This player already belongs to a clan!\r\n", ch );
-         return;
-      }
-   }
-
-   if( clan->mem_limit && clan->members >= clan->mem_limit )
-   {
-      send_to_char( "Your clan is too big to induct anymore players.\r\n", ch );
-      return;
-   }
-
-   clan->members++;
-   if( clan->clan_type != CLAN_ORDER && clan->clan_type != CLAN_GUILD )
-      SET_BIT( victim->speaks, LANG_CLAN );
-
-   if( clan->clan_type != CLAN_NOKILL && clan->clan_type != CLAN_ORDER && clan->clan_type != CLAN_GUILD )
-   {
-      xREMOVE_BIT( victim->act, PLR_NICE );
-      SET_BIT( victim->pcdata->flags, PCFLAG_DEADLY );
-   }
-
-   if( clan->clan_type != CLAN_GUILD && clan->clan_type != CLAN_ORDER && clan->clan_type != CLAN_NOKILL )
-   {
-      int sn;
-
-      for( sn = 0; sn < num_skills; ++sn )
-      {
-         if( skill_table[sn]->guild == clan->Class && skill_table[sn]->name != NULL )
-         {
-            victim->pcdata->learned[sn] = GET_ADEPT( victim, sn );
-            ch_printf( victim, "%s instructs you in the ways of %s.\r\n", ch->name, skill_table[sn]->name );
-         }
-      }
-   }
-
-   victim->pcdata->clan = clan;
-   STRFREE( victim->pcdata->clan_name );
-   victim->pcdata->clan_name = QUICKLINK( clan->name );
-   act( AT_MAGIC, "You induct $N into $t", ch, clan->name, victim, TO_CHAR );
-   act( AT_MAGIC, "$n inducts $N into $t", ch, clan->name, victim, TO_NOTVICT );
-   act( AT_MAGIC, "$n inducts you into $t", ch, clan->name, victim, TO_VICT );
-   add_roster( clan, victim->name, victim->Class, victim->level, victim->pcdata->mkills, victim->pcdata->mdeaths );
-   save_char_obj( victim );
-   save_clan( clan );
-   return;
+  send_to_char("Syntax: Declare <status> <clan>\r\n", ch);
+  send_to_char("Status: war, truce, peace\r\n", ch);
+  return;
 }
 
-void do_council_induct( CHAR_DATA* ch, const char* argument)
+void do_intro(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   CHAR_DATA *victim;
-   COUNCIL_DATA *council;
+  CLAN_DATA              *clan;
 
-   if( IS_NPC( ch ) || !ch->pcdata->council )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   council = ch->pcdata->council;
+  clan = ch->pcdata->clan;
 
-   if( ( council->head == NULL || str_cmp( ch->name, council->head ) )
-       && ( council->head2 == NULL || str_cmp( ch->name, council->head2 ) ) && str_cmp( council->name, "mortal council" ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if((!VLD_STR(clan->chieftain) || str_cmp(ch->name, clan->chieftain)) && (!VLD_STR(clan->warmaster) || str_cmp(ch->name, clan->warmaster)))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   argument = one_argument( argument, arg );
+  if(!VLD_STR(argument))
+  {
+    send_to_char("&cSyntax: intro <&Cmessage&c>&D\r\n", ch);
+    return;
+  }
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Induct whom into your council?\r\n", ch );
-      return;
-   }
+  STRFREE(clan->intro);
+  if(str_cmp(argument, "clear"))  /* Allow it so they can clear it * off */
+    clan->intro = STRALLOC(argument);
+  send_to_char("Your clan intro has been set.\r\n", ch);
+  save_clan(clan);
+}
 
-   if( ( victim = get_char_room( ch, arg ) ) == NULL )
-   {
-      send_to_char( "That player is not here.\r\n", ch );
-      return;
-   }
+void do_call(CHAR_DATA *ch, char *argument)
+{
+  char                    arg[MAX_INPUT_LENGTH];
+  OBJ_INDEX_DATA         *pObjIndex;
+  OBJ_DATA               *obj;
+  CLAN_DATA              *clan;
+  int                     level;
 
-   if( IS_NPC( victim ) )
-   {
-      send_to_char( "Not on NPC's.\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   if( victim->pcdata->council )
-   {
-      send_to_char( "This player already belongs to a council!\r\n", ch );
-      return;
-   }
+  clan = ch->pcdata->clan;
 
-   council->members++;
-   victim->pcdata->council = council;
-   STRFREE( victim->pcdata->council_name );
-   victim->pcdata->council_name = QUICKLINK( council->name );
-   act( AT_MAGIC, "You induct $N into $t", ch, council->name, victim, TO_CHAR );
-   act( AT_MAGIC, "$n inducts $N into $t", ch, council->name, victim, TO_ROOM );
-   act( AT_MAGIC, "$n inducts you into $t", ch, council->name, victim, TO_VICT );
-   save_char_obj( victim );
-   save_council( council );
-   return;
+  if(!str_cmp(ch->name, clan->chieftain) || !str_cmp(ch->name, clan->warmaster));
+  else
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  argument = one_argument(argument, arg);
+
+  if(arg[0] == '\0')
+  {
+    send_to_char("Syntax: call <number>\r\n", ch);
+    send_to_char("Object numbers avail: first second third fourth fifth\r\n", ch);
+    return;
+  }
+
+  if(!str_cmp(arg, "first"))
+  {
+    pObjIndex = get_obj_index(clan->clanobj1);
+    level = 10;
+  }
+  if(!str_cmp(arg, "second"))
+  {
+    pObjIndex = get_obj_index(clan->clanobj2);
+    level = 20;
+  }
+  if(!str_cmp(arg, "third"))
+  {
+    pObjIndex = get_obj_index(clan->clanobj3);
+    level = 40;
+  }
+  if(!str_cmp(arg, "fourth"))
+  {
+    pObjIndex = get_obj_index(clan->clanobj4);
+    level = 80;
+  }
+  if(!str_cmp(arg, "fifth"))
+  {
+    pObjIndex = get_obj_index(clan->clanobj5);
+    level = 100;
+  }
+
+  else if(str_cmp(arg, "first") && str_cmp(arg, "second") && str_cmp(arg, "third") && str_cmp(arg, "fourth") && str_cmp(arg, "fifth"))
+  {
+    send_to_char("You don't know how to make that.\r\n", ch);
+    return;
+  }
+
+  obj = create_object(pObjIndex, level);
+  if(CAN_WEAR(obj, ITEM_TAKE))
+    obj = obj_to_char(obj, ch);
+  else
+    obj = obj_to_room(obj, ch->in_room);
+  act(AT_MAGIC, "$n calls forth $p from another dimension!", ch, obj, NULL, TO_ROOM);
+  act(AT_MAGIC, "You call forth $p from another dimension!", ch, obj, NULL, TO_CHAR);
+  return;
+}
+
+void do_induct(CHAR_DATA *ch, char *argument)
+{
+  char                    arg[MAX_INPUT_LENGTH];
+  CHAR_DATA              *victim;
+  CLAN_DATA              *clan;
+
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  clan = ch->pcdata->clan;
+
+  if((ch->pcdata && ch->pcdata->bestowments && is_name("induct", ch->pcdata->bestowments)));
+  else
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  argument = one_argument(argument, arg);
+
+  if(arg[0] == '\0')
+  {
+    send_to_char("Induct whom?\r\n", ch);
+    return;
+  }
+
+  if((victim = get_char_room(ch, arg)) == NULL)
+  {
+    send_to_char("That player is not here.\r\n", ch);
+    return;
+  }
+
+  if(IS_NPC(victim))
+  {
+    send_to_char("Not on NPC's.\r\n", ch);
+    return;
+  }
+
+  if(IS_IMMORTAL(victim))
+  {
+    send_to_char("You can't induct such a godly presence.\r\n", ch);
+    return;
+  }
+
+  if(victim->level < 10)
+  {
+    send_to_char("This player is not worthy of joining yet.\r\n", ch);
+    return;
+  }
+
+  if(victim->level > ch->level)
+  {
+    send_to_char("This player is too powerful for you to induct.\r\n", ch);
+    return;
+  }
+
+  if(victim->pcdata->clan)
+  {
+    if(victim->pcdata->clan == clan)
+      send_to_char("This player already belongs to your clan!\r\n", ch);
+    else
+      send_to_char("This player already belongs to a clan!\r\n", ch);
+    return;
+  }
+  if(clan->mem_limit && clan->members >= clan->mem_limit)
+  {
+    send_to_char("Your clan is too big to induct anymore players.\r\n", ch);
+    return;
+  }
+  clan->members++;
+
+  if(clan->clan_type != CLAN_NOKILL)
+    SET_BIT(victim->pcdata->flags, PCFLAG_DEADLY);
+
+  victim->pcdata->clan = clan;
+  STRFREE(victim->pcdata->clan_name);
+  victim->pcdata->clan_name = QUICKLINK(clan->name);
+  act(AT_MAGIC, "You induct $N into $t", ch, clan->name, victim, TO_CHAR);
+  act(AT_MAGIC, "$n inducts $N into $t", ch, clan->name, victim, TO_NOTVICT);
+  act(AT_MAGIC, "$n inducts you into $t", ch, clan->name, victim, TO_VICT);
+  save_char_obj(victim);
+  save_clan(clan);
+  return;
+}
+
+void do_council_induct(CHAR_DATA *ch, char *argument)
+{
+  char                    arg[MAX_INPUT_LENGTH];
+  CHAR_DATA              *victim;
+  COUNCIL_DATA           *council;
+
+  if(IS_NPC(ch) || !ch->pcdata->council)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  council = ch->pcdata->council;
+
+  if((council->head == NULL || str_cmp(ch->name, council->head)) && (council->head2 == NULL || str_cmp(ch->name, council->head2)) && str_cmp(council->name, "mortal council"))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  argument = one_argument(argument, arg);
+
+  if(arg[0] == '\0')
+  {
+    send_to_char("Induct whom into your council?\r\n", ch);
+    return;
+  }
+
+  if((victim = get_char_room(ch, arg)) == NULL)
+  {
+    send_to_char("That player is not here.\r\n", ch);
+    return;
+  }
+
+  if(IS_NPC(victim))
+  {
+    send_to_char("Not on NPC's.\r\n", ch);
+    return;
+  }
+
+/*    if( victim->level < LEVEL_IMMORTAL )
+    {
+	send_to_char( "This player is not worthy of joining any council yet.\r\n", ch );
+	return;
+    }
+*/
+  if(victim->pcdata->council)
+  {
+    send_to_char("This player already belongs to a council!\r\n", ch);
+    return;
+  }
+
+  council->members++;
+  victim->pcdata->council = council;
+  STRFREE(victim->pcdata->council_name);
+  victim->pcdata->council_name = QUICKLINK(council->name);
+  act(AT_MAGIC, "You induct $N into $t", ch, council->name, victim, TO_CHAR);
+  act(AT_MAGIC, "$n inducts $N into $t", ch, council->name, victim, TO_ROOM);
+  act(AT_MAGIC, "$n inducts you into $t", ch, council->name, victim, TO_VICT);
+  save_char_obj(victim);
+  save_council(council);
+  return;
 }
 
 /* Can the character outcast the victim? */
-bool can_outcast( CLAN_DATA * clan, CHAR_DATA * ch, CHAR_DATA * victim )
+bool can_outcast(CLAN_DATA * clan, CHAR_DATA *ch, CHAR_DATA *victim)
 {
-   if( !clan || !ch || !victim )
-      return FALSE;
-   if( !str_cmp( ch->name, clan->deity ) )
-      return TRUE;
-   if( !str_cmp( victim->name, clan->deity ) )
-      return FALSE;
-   if( !str_cmp( ch->name, clan->leader ) )
-      return TRUE;
-   if( !str_cmp( victim->name, clan->leader ) )
-      return FALSE;
-   if( !str_cmp( ch->name, clan->number1 ) )
-      return TRUE;
-   if( !str_cmp( victim->name, clan->number1 ) )
-      return FALSE;
-   if( !str_cmp( ch->name, clan->number2 ) )
-      return TRUE;
-   if( !str_cmp( victim->name, clan->number2 ) )
-      return FALSE;
-   return TRUE;
+  return FALSE;
 }
 
-void do_outcast( CHAR_DATA* ch, const char* argument)
+void do_outcast(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   CHAR_DATA *victim;
-   CLAN_DATA *clan;
-   char buf[MAX_STRING_LENGTH];
+  char                    arg[MAX_INPUT_LENGTH];
+  CHAR_DATA              *victim;
+  CLAN_DATA              *clan;
+  char                    buf[MAX_STRING_LENGTH];
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   clan = ch->pcdata->clan;
+  clan = ch->pcdata->clan;
 
-   if( ( ch->pcdata && ch->pcdata->bestowments
-         && is_name( "canoutcast", ch->pcdata->bestowments ) )
-       || !str_cmp( ch->name, clan->deity )
-       || !str_cmp( ch->name, clan->leader ) || !str_cmp( ch->name, clan->number1 ) || !str_cmp( ch->name, clan->number2 ) )
-      ;
-   else
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if((ch->pcdata && ch->pcdata->bestowments && is_name("outcast", ch->pcdata->bestowments)));
+  else
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   argument = one_argument( argument, arg );
+  argument = one_argument(argument, arg);
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Outcast whom?\r\n", ch );
-      return;
-   }
+  if(arg[0] == '\0')
+  {
+    send_to_char("Outcast whom?\r\n", ch);
+    return;
+  }
 
-   if( ( victim = get_char_room( ch, arg ) ) == NULL )
-   {
-      send_to_char( "That player is not here.\r\n", ch );
-      return;
-   }
+  if((victim = get_char_room(ch, arg)) == NULL)
+  {
+    send_to_char("That player is not here.\r\n", ch);
+    return;
+  }
 
-   if( IS_NPC( victim ) )
-   {
-      send_to_char( "Not on NPC's.\r\n", ch );
-      return;
-   }
+  if(IS_NPC(victim))
+  {
+    send_to_char("Not on NPC's.\r\n", ch);
+    return;
+  }
 
-   if( victim == ch )
-   {
-      if( ch->pcdata->clan->clan_type == CLAN_ORDER )
-      {
-         send_to_char( "Kick yourself out of your own order?\r\n", ch );
-         return;
-      }
-      else if( ch->pcdata->clan->clan_type == CLAN_GUILD )
-      {
-         send_to_char( "Kick yourself out of your own guild?\r\n", ch );
-         return;
-      }
-      else
-      {
-         send_to_char( "Kick yourself out of your own clan?\r\n", ch );
-         return;
-      }
-   }
+  if(victim == ch)
+  {
+    send_to_char("Kick yourself out of your own clan?\r\n", ch);
+    return;
+  }
 
-   if( victim->pcdata->clan != ch->pcdata->clan )
-   {
-      if( ch->pcdata->clan->clan_type == CLAN_ORDER )
-      {
-         send_to_char( "This player does not belong to your order!\r\n", ch );
-         return;
-      }
-      else if( ch->pcdata->clan->clan_type == CLAN_GUILD )
-      {
-         send_to_char( "This player does not belong to your guild!\r\n", ch );
-         return;
-      }
-      else
-      {
-         send_to_char( "This player does not belong to your clan!\r\n", ch );
-         return;
-      }
-   }
+  if(victim->pcdata->clan != ch->pcdata->clan)
+  {
+    send_to_char("This player does not belong to your clan!\r\n", ch);
+    return;
+  }
 
-   if( !can_outcast( clan, ch, victim ) )
-   {
-      send_to_char( "You are not able to outcast them.\r\n", ch );
-      return;
-   }
+  if(!can_outcast(clan, ch, victim))
+  {
+    send_to_char("You are not able to outcast them.\r\n", ch);
+    return;
+  }
 
-   if( clan->clan_type != CLAN_GUILD && clan->clan_type != CLAN_ORDER && clan->clan_type != CLAN_NOKILL )
-   {
-      int sn;
+  --clan->members;
+  if(clan->members < 0)
+    clan->members = 0;
+  victim->pcdata->clan = NULL;
+  STRFREE(victim->pcdata->clan_name);
+  victim->pcdata->clan_name = STRALLOC("");
+  act(AT_MAGIC, "You outcast $N from $t", ch, clan->name, victim, TO_CHAR);
+  act(AT_MAGIC, "$n outcasts $N from $t", ch, clan->name, victim, TO_ROOM);
+  act(AT_MAGIC, "$n outcasts you from $t", ch, clan->name, victim, TO_VICT);
 
-      for( sn = 0; sn < num_skills; ++sn )
-         if( skill_table[sn]->guild == victim->pcdata->clan->Class && skill_table[sn]->name != NULL )
-         {
-            victim->pcdata->learned[sn] = 0;
-            ch_printf( victim, "You forget the ways of %s.\r\n", skill_table[sn]->name );
-         }
-   }
+  snprintf(buf, MAX_STRING_LENGTH, "%s has been outcast from %s!", victim->name, clan->name);
+  echo_to_all(AT_MAGIC, buf, ECHOTAR_ALL);
 
-   if( victim->speaking & LANG_CLAN )
-      victim->speaking = LANG_COMMON;
-   REMOVE_BIT( victim->speaks, LANG_CLAN );
-   --clan->members;
-   if( clan->members < 0 )
-      clan->members = 0;
-   if( !str_cmp( victim->name, ch->pcdata->clan->number1 ) )
-   {
-      STRFREE( ch->pcdata->clan->number1 );
-      ch->pcdata->clan->number1 = STRALLOC( "" );
-   }
-   if( !str_cmp( victim->name, ch->pcdata->clan->number2 ) )
-   {
-      STRFREE( ch->pcdata->clan->number2 );
-      ch->pcdata->clan->number2 = STRALLOC( "" );
-   }
-   if( !str_cmp( victim->name, ch->pcdata->clan->deity ) )
-   {
-      STRFREE( ch->pcdata->clan->deity );
-      ch->pcdata->clan->deity = STRALLOC( "" );
-   }
-   victim->pcdata->clan = NULL;
-   STRFREE( victim->pcdata->clan_name );
-   victim->pcdata->clan_name = STRALLOC( "" );
-   act( AT_MAGIC, "You outcast $N from $t", ch, clan->name, victim, TO_CHAR );
-   act( AT_MAGIC, "$n outcasts $N from $t", ch, clan->name, victim, TO_ROOM );
-   if( victim->desc && victim->desc->host )
-      act( AT_MAGIC, "$n outcasts you from $t", ch, clan->name, victim, TO_VICT );
-   else
-      add_loginmsg( victim->name, 6, NULL );
-   if( clan->clan_type != CLAN_GUILD && clan->clan_type != CLAN_ORDER )
-   {
-      snprintf( buf, MAX_STRING_LENGTH, "%s has been outcast from %s!", victim->name, clan->name );
-      echo_to_all( AT_MAGIC, buf, ECHOTAR_PK );
-   }
-   remove_roster( clan, victim->name );
-   save_char_obj( victim );
-   save_clan( clan );
-   return;
+  save_char_obj(victim);  /* clan gets saved when pfile is saved */
+  save_clan(clan);
+  check_clan_leaders(clan, victim->name);
+
+  return;
 }
 
-void do_council_outcast( CHAR_DATA* ch, const char* argument)
+void do_council_outcast(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   CHAR_DATA *victim;
-   COUNCIL_DATA *council;
+  char                    arg[MAX_INPUT_LENGTH];
+  CHAR_DATA              *victim;
+  COUNCIL_DATA           *council;
 
-   if( IS_NPC( ch ) || !ch->pcdata->council )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch) || !ch->pcdata->council)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   council = ch->pcdata->council;
+  council = ch->pcdata->council;
 
-   if( ( council->head == NULL || str_cmp( ch->name, council->head ) )
-       && ( council->head2 == NULL || str_cmp( ch->name, council->head2 ) ) && str_cmp( council->name, "mortal council" ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if((council->head == NULL || str_cmp(ch->name, council->head)) && (council->head2 == NULL || str_cmp(ch->name, council->head2)) && str_cmp(council->name, "mortal council"))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   argument = one_argument( argument, arg );
+  argument = one_argument(argument, arg);
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Outcast whom from your council?\r\n", ch );
-      return;
-   }
+  if(arg[0] == '\0')
+  {
+    send_to_char("Outcast whom from your council?\r\n", ch);
+    return;
+  }
 
-   if( !( victim = get_char_room( ch, arg ) ) )
-   {
-      send_to_char( "That player is not here.\r\n", ch );
-      return;
-   }
+  if(!(victim = get_char_room(ch, arg)))
+  {
+    send_to_char("That player is not here.\r\n", ch);
+    return;
+  }
 
-   if( IS_NPC( victim ) )
-   {
-      send_to_char( "Not on NPC's.\r\n", ch );
-      return;
-   }
+  if(IS_NPC(victim))
+  {
+    send_to_char("Not on NPC's.\r\n", ch);
+    return;
+  }
 
-   if( victim == ch )
-   {
-      send_to_char( "Kick yourself out of your own council?\r\n", ch );
-      return;
-   }
+  if(victim == ch)
+  {
+    send_to_char("Kick yourself out of your own council?\r\n", ch);
+    return;
+  }
 
-   if( victim->pcdata->council != ch->pcdata->council )
-   {
-      send_to_char( "This player does not belong to your council!\r\n", ch );
-      return;
-   }
+  if(victim->pcdata->council != ch->pcdata->council)
+  {
+    send_to_char("This player does not belong to your council!\r\n", ch);
+    return;
+  }
 
-   if( council->head2 && !str_cmp( victim->name, ch->pcdata->council->head2 ) )
-   {
-      STRFREE( ch->pcdata->council->head2 );
-      ch->pcdata->council->head2 = NULL;
-   }
+  if(council->head2 && !str_cmp(victim->name, ch->pcdata->council->head2))
+  {
+    STRFREE(ch->pcdata->council->head2);
+    ch->pcdata->council->head2 = NULL;
+  }
 
-   --council->members;
-   if( council->members < 0 )
-      council->members = 0;
-   victim->pcdata->council = NULL;
-   STRFREE( victim->pcdata->council_name );
-   victim->pcdata->council_name = STRALLOC( "" );
-   check_switch( ch, FALSE );
-   act( AT_MAGIC, "You outcast $N from $t", ch, council->name, victim, TO_CHAR );
-   act( AT_MAGIC, "$n outcasts $N from $t", ch, council->name, victim, TO_ROOM );
-   act( AT_MAGIC, "$n outcasts you from $t", ch, council->name, victim, TO_VICT );
-   save_char_obj( victim );
-   save_council( council );
-   return;
+  --council->members;
+  if(council->members < 0)
+    council->members = 0;
+  victim->pcdata->council = NULL;
+  STRFREE(victim->pcdata->council_name);
+  victim->pcdata->council_name = STRALLOC("");
+  // check_switch( ch, FALSE );
+  act(AT_MAGIC, "You outcast $N from $t", ch, council->name, victim, TO_CHAR);
+  act(AT_MAGIC, "$n outcasts $N from $t", ch, council->name, victim, TO_ROOM);
+  act(AT_MAGIC, "$n outcasts you from $t", ch, council->name, victim, TO_VICT);
+  save_char_obj(victim);
+  save_council(council);
+  return;
 }
 
-void do_setvault( CHAR_DATA *ch, const char *argument )
+void do_setclan(CHAR_DATA *ch, char *argument)
 {
-   VAULT_DATA *vault;
-   int rnum;
-   char arg1[MAX_INPUT_LENGTH];
-   char arg2[MAX_INPUT_LENGTH];
+  char                    arg1[MAX_INPUT_LENGTH];
+  char                    arg2[MAX_INPUT_LENGTH];
+  CLAN_DATA              *clan;
 
-   argument = one_argument( argument, arg1 );
-   argument = one_argument( argument, arg2 );
+  set_char_color(AT_PLAIN, ch);
+  if(IS_NPC(ch))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   if( !str_cmp( arg1, "show" ) )
-   {
-      ROOM_INDEX_DATA *room;
+  argument = one_argument(argument, arg1);
+  argument = one_argument(argument, arg2);
+  if(arg1[0] == '\0')
+  {
+    send_to_char("Usage: setclan <clan> <field> <player>\r\n", ch);
+    send_to_char("\r\nField being one of:\r\n", ch);
+    send_to_char(" members board recall storage guard1 guard2\r\n", ch);
+    send_to_char(" align (not functional) memlimit chieftain warmaster\r\n", ch);
+    send_to_char(" obj1 obj2 obj3 obj4 obj5 clanpoints\r\n", ch);
+    if(get_trust(ch) >= LEVEL_AJ_LT)
+    {
+      send_to_char(" name filename motto desc\r\n", ch);
+      send_to_char(" strikes type class\r\n", ch);
+    }
+    if(get_trust(ch) >= LEVEL_AJ_LT)
+      send_to_char(" pkill1-7 pdeath1-7\r\n", ch);
+    return;
+  }
 
-      pager_printf_color( ch, "&W%6s | %-40.40s | Area name\r\n", "VNUM", "Room Name" );
-      for( vault= first_vault; vault; vault = vault->next )
-      {
-         if( ( room = get_room_index( vault->vnum ) ) == NULL )
-            continue;
-         pager_printf_color( ch, "&c%6d | &C%-40.40s | %s\r\n", vault->vnum, room->name, room->area->filename );
-      }
+  clan = get_clan(arg1);
+  if(!clan)
+  {
+    send_to_char("No such clan.\r\n", ch);
+    return;
+  }
+
+  if(!str_cmp(arg2, "badge"))
+  {
+    STRFREE(clan->badge);
+    clan->badge = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "chieftain"))
+  {
+    STRFREE(clan->chieftain);
+    clan->chieftain = STRALLOC(argument);
+    send_to_char("Clan chieftain is now set.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "warmaster") || !str_cmp(arg2, "ambassador"))
+  {
+    STRFREE(clan->warmaster);
+    clan->warmaster = STRALLOC(argument);
+    ch_printf(ch, "Clan %s is now set.\r\n", arg2);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "board"))
+  {
+    clan->board = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "memlimit"))
+  {
+    clan->mem_limit = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "members"))
+  {
+    clan->members = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "recall"))
+  {
+    clan->recall = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "clanpoints"))
+  {
+    clan->totalpoints = atoi(argument);
+    send_to_char("Clan total points set.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "obj1"))
+  {
+    clan->clanobj1 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "obj2"))
+  {
+    clan->clanobj2 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "obj3"))
+  {
+    clan->clanobj3 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "obj4"))
+  {
+    clan->clanobj4 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "obj5"))
+  {
+    clan->clanobj5 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "status"))
+  {
+    clan->status = atoi(argument);
+    send_to_char("Clan status is now set.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "guard1"))
+  {
+    clan->guard1 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "guard2"))
+  {
+    clan->guard2 = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(get_trust(ch) < LEVEL_AJ_LT)
+  {
+    do_setclan(ch, (char *)"");
+    return;
+  }
+
+  if(!str_cmp(arg2, "align"))
+  {
+    clan->alignment = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "type"))
+  {
+    clan->clan_type = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "name"))
+  {
+    CLAN_DATA              *uclan = NULL;
+
+    if(!argument || argument[0] == '\0')
+    {
+      send_to_char("You can't name a clan nothing.\r\n", ch);
       return;
-   }                                                                                                                                       
-
-   if ( !str_cmp( arg1, "save" )	&& get_trust( ch ) > LEVEL_GREATER )
-   {
-      save_vault_list( );
-      send_to_char( "Done.\r\n", ch );
+    }
+    if((uclan = get_clan(argument)))
+    {
+      send_to_char("There is already another clan with that name.\r\n", ch);
       return;
-   }
+    }
+    STRFREE(clan->name);
+    clan->name = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
 
-   if( is_number(arg1) && arg2[0] != '\0' )
-   {
-      rnum = atoi(arg1);
+  if(!str_cmp(arg2, "filename"))
+  {
+    char                    filename[256];
 
-      if( get_room_index( rnum ) != NULL )
-      {
-         if( !str_cmp(arg2, "create" ) )
-         {
-            CREATE( vault, VAULT_DATA, 1 );
-            vault->vnum = rnum;
-            sort_vaults( vault );
-            send_to_char( "Donation room created.\r\n", ch );
-            return;
-         }
-
-         if( !str_cmp( arg2, "delete" ) )
-         {
-            for( vault = first_vault; vault; vault = vault->next )
-            {
-               if( vault->vnum == rnum )
-               {
-                  UNLINK( vault, first_vault, last_vault, next, prev );
-                  DISPOSE( vault );
-                  send_to_char( "Deleting that vnum...\r\n", ch );
-                  return;
-               }
-            }
-         }
-         else
-            send_to_char( "Not currently a donation vnum.\r\n", ch );
-      }
-      else
-      {
-         send_to_char( "Invalid vnum argument.\r\n", ch );
-         return;
-      }
-   }
-
-   set_char_color( AT_IMMORT, ch );
-
-   send_to_char( "Syntax:\r\n", ch );
-   send_to_char( "  setvault show - lists the rooms currently set to save donations.\r\n", ch );
-   send_to_char( "  setvault <vnum> create - adds a vnum to the list of rooms to save.\r\n", ch );
-   send_to_char( "  setvault <vnum> delete - removes a vnum from the list of rooms to save,\r\n\r\n", ch );
-   if( get_trust( ch ) > LEVEL_GREATER )
-      send_to_char( "  setvault save - saves the vault list.\r\n", ch );
-   send_to_char( "    Remember, rooms set as storage on clans or councils will need to be.\r\n", ch );
-   send_to_char( "    removed in both clan/council file and the vault list.\r\n", ch );
-
-   return;
-}                               
-
-void do_setclan( CHAR_DATA* ch, const char* argument)
-{
-   char arg1[MAX_INPUT_LENGTH];
-   char arg2[MAX_INPUT_LENGTH];
-   CLAN_DATA *clan;
-
-   set_char_color( AT_PLAIN, ch );
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
+    if(!is_valid_filename(ch, CLAN_DIR, argument))
       return;
-   }
 
-   argument = one_argument( argument, arg1 );
-   argument = one_argument( argument, arg2 );
-   if( arg1[0] == '\0' )
-   {
-      send_to_char( "Usage: setclan <clan> <field> <deity|leader|number1|number2> <player>\r\n", ch );
-      send_to_char( "\r\nField being one of:\r\n", ch );
-      send_to_char( " deity leader number1 number2\r\n", ch );
-      send_to_char( " members board recall storage guard1 guard2\r\n", ch );
-      send_to_char( " align (not functional) memlimit\r\n", ch );
-      send_to_char( " leadrank onerank tworank\r\n", ch );
-      send_to_char( " obj1 obj2 obj3 obj4 obj5\r\n", ch );
-      send_to_char( " badge abbrev\r\n", ch );
-      if( get_trust( ch ) >= LEVEL_GOD )
-      {
-         send_to_char( " name filename motto desc\r\n", ch );
-         send_to_char( " favour strikes type class\r\n", ch );
-      }
-      if( get_trust( ch ) >= LEVEL_IMPLEMENTOR )
-         send_to_char( " pkill1-7 pdeath1-7\r\n", ch );
+    snprintf(filename, sizeof(filename), "%s%s", CLAN_DIR, clan->filename);
+    if(!remove(filename))
+      send_to_char("Old clan file deleted.\r\n", ch);
+
+    STRFREE(clan->filename);
+    clan->filename = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    write_clan_list();
+    return;
+  }
+
+  if(!str_cmp(arg2, "intro"))
+  {
+    STRFREE(clan->intro);
+    clan->intro = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "motto"))
+  {
+    STRFREE(clan->motto);
+    clan->motto = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(!str_cmp(arg2, "desc"))
+  {
+    STRFREE(clan->description);
+    clan->description = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_clan(clan);
+    return;
+  }
+
+  if(get_trust(ch) < LEVEL_AJ_LT)
+  {
+    do_setclan(ch, (char *)"");
+    return;
+  }
+
+  if(!str_prefix("pkill", arg2))
+  {
+    int                     temp_value;
+
+    if(!str_cmp(arg2, "pkill1"))
+      temp_value = 0;
+    else if(!str_cmp(arg2, "pkill2"))
+      temp_value = 1;
+    else if(!str_cmp(arg2, "pkill3"))
+      temp_value = 2;
+    else if(!str_cmp(arg2, "pkill4"))
+      temp_value = 3;
+    else if(!str_cmp(arg2, "pkill5"))
+      temp_value = 4;
+    else if(!str_cmp(arg2, "pkill6"))
+      temp_value = 5;
+    else if(!str_cmp(arg2, "pkill7"))
+      temp_value = 6;
+    else if(!str_cmp(arg2, "pkill8"))
+      temp_value = 7;
+    else if(!str_cmp(arg2, "pkill9"))
+      temp_value = 8;
+    else if(!str_cmp(arg2, "pkill10"))
+      temp_value = 9;
+    else if(!str_cmp(arg2, "pkill11"))
+      temp_value = 10;
+    else if(!str_cmp(arg2, "pkill12"))
+      temp_value = 11;
+    else
+    {
+      do_setclan(ch, (char *)"");
       return;
-   }
+    }
+    clan->pkills[temp_value] = atoi(argument);
+    send_to_char("Ok.\r\n", ch);
+    return;
+  }
 
-   clan = get_clan( arg1 );
-   if( !clan )
-   {
-      send_to_char( "No such clan.\r\n", ch );
+  if(!str_prefix("pdeath", arg2))
+  {
+    int                     temp_value;
+
+    if(!str_cmp(arg2, "pdeath1"))
+      temp_value = 0;
+    else if(!str_cmp(arg2, "pdeath2"))
+      temp_value = 1;
+    else if(!str_cmp(arg2, "pdeath3"))
+      temp_value = 2;
+    else if(!str_cmp(arg2, "pdeath4"))
+      temp_value = 3;
+    else if(!str_cmp(arg2, "pdeath5"))
+      temp_value = 4;
+    else if(!str_cmp(arg2, "pdeath6"))
+      temp_value = 5;
+    else if(!str_cmp(arg2, "pdeath7"))
+      temp_value = 6;
+    else if(!str_cmp(arg2, "pdeath8"))
+      temp_value = 7;
+    else if(!str_cmp(arg2, "pdeath9"))
+      temp_value = 8;
+    else if(!str_cmp(arg2, "pdeath10"))
+      temp_value = 9;
+    else if(!str_cmp(arg2, "pdeath11"))
+      temp_value = 10;
+    else if(!str_cmp(arg2, "pdeath12"))
+      temp_value = 11;
+    else
+    {
+      do_setclan(ch, (char *)"");
       return;
-   }
+    }
+    clan->pdeaths[temp_value] = atoi(argument);
+    send_to_char("Ok.\r\n", ch);
+    return;
+  }
 
-   if( !str_cmp( arg2, "deity" ) )
-   {
-      STRFREE( clan->deity );
-      clan->deity = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "leader" ) )
-   {
-      STRFREE( clan->leader );
-      clan->leader = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "number1" ) )
-   {
-      STRFREE( clan->number1 );
-      clan->number1 = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "number2" ) )
-   {
-      STRFREE( clan->number2 );
-      clan->number2 = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "leadrank" ) )
-   {
-      STRFREE( clan->leadrank );
-      clan->leadrank = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "onerank" ) )
-   {
-      STRFREE( clan->onerank );
-      clan->onerank = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "tworank" ) )
-   {
-      STRFREE( clan->tworank );
-      clan->tworank = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "badge" ) )
-   {
-      STRFREE( clan->badge );
-      clan->badge = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "abbrev" ) )
-   {
-      STRFREE( clan->abbrev );
-      clan->abbrev = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "board" ) )
-   {
-      clan->board = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "memlimit" ) )
-   {
-      clan->mem_limit = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "members" ) )
-   {
-      clan->members = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "recall" ) )
-   {
-      clan->recall = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "storage" ) )
-   {
-      VAULT_DATA *vault;
-
-      if( clan->storeroom )
-      {
-         for( vault = first_vault; vault; vault = vault->next )
-            if( vault->vnum == clan->storeroom )
-               UNLINK( vault, first_vault, last_vault, next, prev );
-      }
-
-      clan->storeroom = atoi( argument );
-      CREATE( vault, VAULT_DATA, 1 );
-      vault->vnum = atoi( argument );
-      sort_vaults( vault );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "obj1" ) )
-   {
-      clan->clanobj1 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "obj2" ) )
-   {
-      clan->clanobj2 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "obj3" ) )
-   {
-      clan->clanobj3 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "obj4" ) )
-   {
-      clan->clanobj4 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "obj5" ) )
-   {
-      clan->clanobj5 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "guard1" ) )
-   {
-      clan->guard1 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "guard2" ) )
-   {
-      clan->guard2 = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( get_trust( ch ) < LEVEL_GOD )
-   {
-      do_setclan( ch, "" );
-      return;
-   }
-
-   if( !str_cmp( arg2, "align" ) )
-   {
-      clan->alignment = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "type" ) )
-   {
-      if( !str_cmp( argument, "order" ) )
-         clan->clan_type = CLAN_ORDER;
-      else if( !str_cmp( argument, "guild" ) )
-         clan->clan_type = CLAN_GUILD;
-      else
-         clan->clan_type = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "class" ) )
-   {
-      clan->Class = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "name" ) )
-   {
-      CLAN_DATA *uclan = NULL;
-
-      if( !argument || argument[0] == '\0' )
-      {
-         send_to_char( "You can't name a clan nothing.\r\n", ch );
-         return;
-      }
-      if( ( uclan = get_clan( argument ) ) )
-      {
-         send_to_char( "There is already another clan with that name.\r\n", ch );
-         return;
-      }
-      STRFREE( clan->name );
-      clan->name = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "filename" ) )
-   {
-      char filename[256];
-
-      if( !is_valid_filename( ch, CLAN_DIR, argument ) )
-         return;
-
-      snprintf( filename, sizeof( filename ), "%s%s", CLAN_DIR, clan->filename );
-      if( !remove( filename ) )
-         send_to_char( "Old clan file deleted.\r\n", ch );
-
-      DISPOSE( clan->filename );
-      clan->filename = str_dup( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      write_clan_list(  );
-      return;
-   }
-
-   if( !str_cmp( arg2, "motto" ) )
-   {
-      STRFREE( clan->motto );
-      clan->motto = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( !str_cmp( arg2, "desc" ) )
-   {
-      STRFREE( clan->description );
-      clan->description = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_clan( clan );
-      return;
-   }
-
-   if( get_trust( ch ) < LEVEL_IMPLEMENTOR )
-   {
-      do_setclan( ch, "" );
-      return;
-   }
-
-   if( !str_prefix( "pkill", arg2 ) )
-   {
-      int temp_value;
-      if( !str_cmp( arg2, "pkill1" ) )
-         temp_value = 0;
-      else if( !str_cmp( arg2, "pkill2" ) )
-         temp_value = 1;
-      else if( !str_cmp( arg2, "pkill3" ) )
-         temp_value = 2;
-      else if( !str_cmp( arg2, "pkill4" ) )
-         temp_value = 3;
-      else if( !str_cmp( arg2, "pkill5" ) )
-         temp_value = 4;
-      else if( !str_cmp( arg2, "pkill6" ) )
-         temp_value = 5;
-      else if( !str_cmp( arg2, "pkill7" ) )
-         temp_value = 6;
-      else
-      {
-         do_setclan( ch, "" );
-         return;
-      }
-      clan->pkills[temp_value] = atoi( argument );
-      send_to_char( "Ok.\r\n", ch );
-      return;
-   }
-
-   if( !str_prefix( "pdeath", arg2 ) )
-   {
-      int temp_value;
-      if( !str_cmp( arg2, "pdeath1" ) )
-         temp_value = 0;
-      else if( !str_cmp( arg2, "pdeath2" ) )
-         temp_value = 1;
-      else if( !str_cmp( arg2, "pdeath3" ) )
-         temp_value = 2;
-      else if( !str_cmp( arg2, "pdeath4" ) )
-         temp_value = 3;
-      else if( !str_cmp( arg2, "pdeath5" ) )
-         temp_value = 4;
-      else if( !str_cmp( arg2, "pdeath6" ) )
-         temp_value = 5;
-      else if( !str_cmp( arg2, "pdeath7" ) )
-         temp_value = 6;
-      else
-      {
-         do_setclan( ch, "" );
-         return;
-      }
-      clan->pdeaths[temp_value] = atoi( argument );
-      send_to_char( "Ok.\r\n", ch );
-      return;
-   }
-
-   do_setclan( ch, "" );
-   return;
+  do_setclan(ch, (char *)"");
 }
 
-void do_setcouncil( CHAR_DATA* ch, const char* argument)
+void do_setcouncil(CHAR_DATA *ch, char *argument)
 {
-   char arg1[MAX_INPUT_LENGTH];
-   char arg2[MAX_INPUT_LENGTH];
-   COUNCIL_DATA *council;
+  char                    arg1[MAX_INPUT_LENGTH];
+  char                    arg2[MAX_INPUT_LENGTH];
+  COUNCIL_DATA           *council;
 
-   set_char_color( AT_PLAIN, ch );
+  set_char_color(AT_PLAIN, ch);
 
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
+  if(IS_NPC(ch))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+
+  argument = one_argument(argument, arg1);
+  argument = one_argument(argument, arg2);
+  if(arg1[0] == '\0')
+  {
+    send_to_char("Usage: setcouncil <council> <field> <value>\r\n", ch);
+    send_to_char("\r\nField being one of:\r\n", ch);
+    send_to_char(" head head2 members board meeting\r\n", ch);
+    if(get_trust(ch) >= LEVEL_AJ_LT)
+      send_to_char(" name filename desc\r\n", ch);
+    if(get_trust(ch) >= LEVEL_AJ_LT)
+      send_to_char(" powers\r\n", ch);
+    return;
+  }
+
+  council = get_council(arg1);
+  if(!council)
+  {
+    send_to_char("No such council.\r\n", ch);
+    return;
+  }
+
+  if(!str_cmp(arg2, "head"))
+  {
+    STRFREE(council->head);
+    council->head = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
+
+  if(!str_cmp(arg2, "head2"))
+  {
+    if(council->head2 != NULL)
+      STRFREE(council->head2);
+    if(!str_cmp(argument, "none") || !str_cmp(argument, "clear"))
+      council->head2 = NULL;
+    else
+      council->head2 = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
+
+  if(!str_cmp(arg2, "board"))
+  {
+    council->board = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
+
+  if(!str_cmp(arg2, "members"))
+  {
+    council->members = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
+
+  if(!str_cmp(arg2, "meeting"))
+  {
+    council->meeting = atoi(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
+
+  if(get_trust(ch) < LEVEL_AJ_LT)
+  {
+    do_setcouncil(ch, (char *)"");
+    return;
+  }
+
+  if(!str_cmp(arg2, "name"))
+  {
+    COUNCIL_DATA           *ucouncil;
+
+    if(!argument || argument[0] == '\0')
+    {
+      send_to_char("Can't set a council name to nothing.\r\n", ch);
       return;
-   }
-
-   argument = one_argument( argument, arg1 );
-   argument = one_argument( argument, arg2 );
-   if( arg1[0] == '\0' )
-   {
-      send_to_char( "Usage: setcouncil <council> <field> <value>\r\n", ch );
-      send_to_char( "\r\nField being one of:\r\n", ch );
-      send_to_char( " head head2 members board meeting\r\n", ch );
-      send_to_char( " abbrev storage\r\n", ch );
-      if( get_trust( ch ) >= LEVEL_GOD )
-         send_to_char( " name filename desc\r\n", ch );
-      if( get_trust( ch ) >= LEVEL_SUB_IMPLEM )
-         send_to_char( " powers\r\n", ch );
+    }
+    if((ucouncil = get_council(argument)))
+    {
+      send_to_char("A council is already using that name.\r\n", ch);
       return;
-   }
+    }
+    STRFREE(council->name);
+    council->name = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
 
-   council = get_council( arg1 );
-   if( !council )
-   {
-      send_to_char( "No such council.\r\n", ch );
+  if(!str_cmp(arg2, "filename"))
+  {
+    char                    filename[256];
+
+    if(!is_valid_filename(ch, COUNCIL_DIR, argument))
       return;
-   }
 
-   if( !str_cmp( arg2, "head" ) )
-   {
-      STRFREE( council->head );
-      council->head = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
+    snprintf(filename, sizeof(filename), "%s%s", COUNCIL_DIR, council->filename);
+    if(!remove(filename))
+      send_to_char("Old council file deleted.\r\n", ch);
 
-   if( !str_cmp( arg2, "head2" ) )
-   {
-      if( council->head2 != NULL )
-         STRFREE( council->head2 );
-      if( !str_cmp( argument, "none" ) || !str_cmp( argument, "clear" ) )
-         council->head2 = NULL;
-      else
-         council->head2 = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
+    STRFREE(council->filename);
+    council->filename = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    write_council_list();
+    return;
+  }
 
-   if( !str_cmp( arg2, "board" ) )
-   {
-      council->board = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
+  if(!str_cmp(arg2, "desc"))
+  {
+    STRFREE(council->description);
+    council->description = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
 
-   if( !str_cmp( arg2, "members" ) )
-   {
-      council->members = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
+  if(get_trust(ch) < LEVEL_AJ_LT)
+  {
+    do_setcouncil(ch, (char *)"");
+    return;
+  }
 
-   if( !str_cmp( arg2, "meeting" ) )
-   {
-      council->meeting = atoi( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
+  if(!str_cmp(arg2, "powers"))
+  {
+    STRFREE(council->powers);
+    council->powers = STRALLOC(argument);
+    send_to_char("Done.\r\n", ch);
+    save_council(council);
+    return;
+  }
 
-   if( !str_cmp( arg2, "storage" ) )
-   {
-      VAULT_DATA *vault;
-
-      if( council->storeroom )
-      {
-         for( vault = first_vault; vault; vault = vault->next )
-            if( vault->vnum == council->storeroom )
-               UNLINK( vault, first_vault, last_vault, next, prev );
-      }
-
-      council->storeroom = atoi( argument );
-      CREATE( vault, VAULT_DATA, 1 );
-      vault->vnum = atoi( argument );
-      sort_vaults( vault );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
-
-   if( get_trust( ch ) < LEVEL_GOD )
-   {
-      do_setcouncil( ch, "" );
-      return;
-   }
-
-   if( !str_cmp( arg2, "name" ) )
-   {
-      COUNCIL_DATA *ucouncil;
-
-      if( !argument || argument[0] == '\0' )
-      {
-         send_to_char( "Can't set a council name to nothing.\r\n", ch );
-         return;
-      }
-      if( ( ucouncil = get_council( argument ) ) )
-      {
-         send_to_char( "A council is already using that name.\r\n", ch );
-         return;
-      }
-      STRFREE( council->name );
-      council->name = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
-
-   if( !str_cmp( arg2, "filename" ) )
-   {
-      char filename[256];
-
-      if( !is_valid_filename( ch, COUNCIL_DIR, argument ) )
-         return;
-
-      snprintf( filename, sizeof( filename ), "%s%s", COUNCIL_DIR, council->filename );
-      if( !remove( filename ) )
-         send_to_char( "Old council file deleted.\r\n", ch );
-
-      DISPOSE( council->filename );
-      council->filename = str_dup( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      write_council_list(  );
-      return;
-   }
-
-   if( !str_cmp( arg2, "abbrev" ) )
-   {
-      STRFREE( council->abbrev );
-      council->abbrev = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
-
-   if( !str_cmp( arg2, "desc" ) )
-   {
-      STRFREE( council->description );
-      council->description = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
-
-   if( get_trust( ch ) < LEVEL_SUB_IMPLEM )
-   {
-      do_setcouncil( ch, "" );
-      return;
-   }
-
-   if( !str_cmp( arg2, "powers" ) )
-   {
-      STRFREE( council->powers );
-      council->powers = STRALLOC( argument );
-      send_to_char( "Done.\r\n", ch );
-      save_council( council );
-      return;
-   }
-
-   do_setcouncil( ch, "" );
-   return;
+  do_setcouncil(ch, (char *)"");
+  return;
 }
 
 /*
  * Added multiple levels on pkills and pdeaths. -- Shaddai
  */
 
-void do_showclan( CHAR_DATA* ch, const char* argument)
+void do_showclan(CHAR_DATA *ch, char *argument)
 {
-   CLAN_DATA *clan;
+  CLAN_DATA              *clan;
 
-   set_char_color( AT_PLAIN, ch );
+  set_char_color(AT_PLAIN, ch);
 
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
-   if( argument[0] == '\0' )
-   {
-      send_to_char( "Usage: showclan <clan>\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+  if(argument[0] == '\0')
+  {
+    send_to_char("Usage: showclan <clan>\r\n", ch);
+    return;
+  }
 
-   clan = get_clan( argument );
-   if( !clan )
-   {
-      send_to_char( "No such clan, guild or order.\r\n", ch );
-      return;
-   }
+  clan = get_clan(argument);
+  if(!clan)
+  {
+    send_to_char("No such clan.\r\n", ch);
+    return;
+  }
 
-   ch_printf_color( ch, "\r\n&w%s    : &W%s\t\t&wBadge: %s\r\n&wFilename : &W%s\r\n&wMotto    : &W%s\r\n",
-                    clan->clan_type == CLAN_ORDER ? "Order" :
-                    ( clan->clan_type == CLAN_GUILD ? "Guild" : "Clan " ),
-                    clan->name, clan->badge ? clan->badge : "(not set)", clan->filename, clan->motto );
-   ch_printf_color( ch, "&wAbbrev   : &W%s\r\n", clan->abbrev ? clan->abbrev : "(not set)" );
-   ch_printf_color( ch, "&wDesc     : &W%s\r\n&wDeity    : &W%s\r\n", clan->description, clan->deity );
-   ch_printf_color( ch, "&wLeader   : &W%-19.19s\t&wRank: &W%s\r\n", clan->leader, clan->leadrank );
-   ch_printf_color( ch, "&wNumber1  : &W%-19.19s\t&wRank: &W%s\r\n", clan->number1, clan->onerank );
-   ch_printf_color( ch, "&wNumber2  : &W%-19.19s\t&wRank: &W%s\r\n", clan->number2, clan->tworank );
-   ch_printf_color( ch,
-                    "&wPKills   : &w1-9:&W%-3d &w10-14:&W%-3d &w15-19:&W%-3d &w20-29:&W%-3d &w30-39:&W%-3d &w40-49:&W%-3d &w50:&W%-3d\r\n",
-                    clan->pkills[0], clan->pkills[1], clan->pkills[2], clan->pkills[3], clan->pkills[4], clan->pkills[5],
-                    clan->pkills[6] );
-   ch_printf_color( ch,
-                    "&wPDeaths  : &w1-9:&W%-3d &w10-14:&W%-3d &w15-19:&W%-3d &w20-29:&W%-3d &w30-39:&W%-3d &w40-49:&W%-3d &w50:&W%-3d\r\n",
-                    clan->pdeaths[0], clan->pdeaths[1], clan->pdeaths[2], clan->pdeaths[3], clan->pdeaths[4],
-                    clan->pdeaths[5], clan->pdeaths[6] );
-   ch_printf_color( ch, "&wIllegalPK: &W%-6d\r\n", clan->illegal_pk );
-   ch_printf_color( ch, "&wMKills   : &W%-6d   &wMDeaths: &W%-6d\r\n", clan->mkills, clan->mdeaths );
-   ch_printf_color( ch, "&wScore    : &W%-6d   &wFavor  : &W%-6d   &wStrikes: &W%d\r\n",
-                    clan->score, clan->favour, clan->strikes );
-   ch_printf_color( ch, "&wMembers  : &W%-6d  &wMemLimit: &W%-6d   &wAlign  : &W%-6d",
-                    clan->members, clan->mem_limit, clan->alignment );
-   if( clan->clan_type == CLAN_GUILD )
-      ch_printf_color( ch, "   &wClass  : &W%d &w(&W%s&w)",
-                       clan->Class, clan->Class < MAX_PC_CLASS ? class_table[clan->Class]->who_name : "unknown" );
-   send_to_char( "\r\n", ch );
-   ch_printf_color( ch, "&wBoard    : &W%-5d    &wRecall : &W%-5d    &wStorage: &W%-5d\r\n",
-                    clan->board, clan->recall, clan->storeroom );
-   ch_printf_color( ch, "&wGuard1   : &W%-5d    &wGuard2 : &W%-5d\r\n", clan->guard1, clan->guard2 );
-   ch_printf_color( ch, "&wObj1( &W%d &w)  Obj2( &W%d &w)  Obj3( &W%d &w)  Obj4( &W%d &w)  Obj5( &W%d &w)\r\n",
-                    clan->clanobj1, clan->clanobj2, clan->clanobj3, clan->clanobj4, clan->clanobj5 );
-   return;
+  ch_printf_color(ch, "\r\n&wClan    : &W%s\r\n&wBadge: %s\r\n&wFilename : &W%s\r\n&wMotto    : &W%s\r\n", clan->name, clan->badge ? clan->badge : "(not set)", clan->filename, clan->motto);
+  ch_printf_color(ch, "&wDesc     : &W%s\r\n", clan->description);
+  ch_printf_color(ch, "&wChieftain: &W%s\r\n&wWar Master: &W%s\r\n", clan->chieftain, clan->warmaster);
+  ch_printf_color(ch,
+                  "&wPKills   : &w1-9:&W%-3d &w10-19:&W%-3d &w20-29:&W%-3d &w30-39:&W%-3d &w40-49:&W%-3d &w50-59:&W%-3d &w60-69:&W%-3d\r\n",
+                  clan->pkills[0], clan->pkills[1], clan->pkills[2], clan->pkills[3], clan->pkills[4], clan->pkills[5], clan->pkills[6]);
+  ch_printf_color(ch, "           &w70-79:&W%-3d &w80-89:&W%-3d &w90-99:&W%-3d &w100:&W%-3d\r\n", clan->pkills[7], clan->pkills[8], clan->pkills[9], clan->pkills[10]);
+  ch_printf_color(ch,
+                  "&wPDeaths  : &w1-9:&W%-3d &w10-19:&W%-3d &w20-29:&W%-3d &w30-39:&W%-3d &w40-49:&W%-3d &w50-59:&W%-3d &w60-69:&W%-3d\r\n",
+                  clan->pdeaths[0], clan->pdeaths[1], clan->pdeaths[2], clan->pdeaths[3], clan->pdeaths[4], clan->pdeaths[5], clan->pdeaths[6]);
+  ch_printf_color(ch, "           &w70-79:&W%-3d &w80-89:&W%-3d &w90-99:&W%-3d &w100:&W%-3d\r\n", clan->pdeaths[7], clan->pdeaths[8], clan->pdeaths[9], clan->pdeaths[10]);
+  ch_printf_color(ch, "&wIllegalPK: &W%-6d\r\n", clan->illegal_pk);
+  ch_printf_color(ch, "&wMKills   : &W%-6d   &wMDeaths: &W%-6d   &wScore  : &W%-6d\r\n", clan->mkills, clan->mdeaths, clan->score);
+  ch_printf_color(ch, "&wMembers  : &W%-6d  &wMemLimit: &W%-6d   &wAlign  : &W%-6d", clan->members, clan->mem_limit, clan->alignment);
+  ch_printf_color(ch, "&wBoard    : &W%-5d    \r\n&wRecall : &W%-5d    &wClan Reputation: &W%-5d\r\n", clan->board, clan->recall, clan->totalpoints);
+  ch_printf_color(ch, "&wGuard1   : &W%-5d    &wGuard2 : &W%-5d\r\n", clan->guard1, clan->guard2);
+  ch_printf_color(ch, "&wObj1( &W%d &w)  Obj2( &W%d &w)  Obj3( &W%d &w)  Obj4( &W%d &w)  Obj5( &W%d &w)\r\n", clan->clanobj1, clan->clanobj2, clan->clanobj3, clan->clanobj4, clan->clanobj5);
+  return;
 }
 
-void do_showcouncil( CHAR_DATA* ch, const char* argument)
+void do_showcouncil(CHAR_DATA *ch, char *argument)
 {
-   COUNCIL_DATA *council;
+  COUNCIL_DATA           *council;
 
-   set_char_color( AT_PLAIN, ch );
+  set_char_color(AT_PLAIN, ch);
 
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
-   if( argument[0] == '\0' )
-   {
-      send_to_char( "Usage: showcouncil <council>\r\n", ch );
-      return;
-   }
+  if(IS_NPC(ch))
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
+  if(argument[0] == '\0')
+  {
+    send_to_char("Usage: showcouncil <council>\r\n", ch);
+    return;
+  }
 
-   council = get_council( argument );
-   if( !council )
-   {
-      send_to_char( "No such council.\r\n", ch );
-      return;
-   }
+  council = get_council(argument);
+  if(!council)
+  {
+    send_to_char("No such council.\r\n", ch);
+    return;
+  }
 
-   ch_printf_color( ch, "\r\n&wCouncil :  &W%s\r\n&wFilename:  &W%s\r\n", council->name, council->filename );
-   ch_printf_color( ch, "&wAbbreviation :  &W%s\r\n", council->abbrev );
-   ch_printf_color( ch, "&wHead:      &W%s\r\n", council->head );
-   ch_printf_color( ch, "&wHead2:     &W%s\r\n", council->head2 );
-   ch_printf_color( ch, "&wMembers:   &W%-d\r\n", council->members );
-   ch_printf_color( ch, "&wBoard:     &W%-5d\r\n&wMeeting:   &W%-5d\r\n&wPowers:    &W%s\r\n",
-                    council->board, council->meeting, council->powers );
-   ch_printf_color( ch, "&wStoreroom: &W%-5d\r\n", council->storeroom );
-   ch_printf_color( ch, "&wDescription:\r\n&W%s\r\n", council->description );
-   return;
+  ch_printf_color(ch, "\r\n&wCouncil :  &W%s\r\n&wFilename:  &W%s\r\n", council->name, council->filename);
+  ch_printf_color(ch, "&wHead:      &W%s\r\n", council->head);
+  ch_printf_color(ch, "&wHead2:     &W%s\r\n", council->head2);
+  ch_printf_color(ch, "&wMembers:   &W%-d\r\n", council->members);
+  ch_printf_color(ch, "&wBoard:     &W%-5d\r\n&wMeeting:   &W%-5d\r\n&wPowers:    &W%s\r\n", council->board, council->meeting, council->powers);
+  ch_printf_color(ch, "&wDescription:\r\n&W%s\r\n", council->description);
+  return;
 }
 
-void do_makeclan( CHAR_DATA* ch, const char* argument)
+void do_makeclan(CHAR_DATA *ch, char *argument)
 {
-   CLAN_DATA *clan;
+  CLAN_DATA              *clan;
 
-   set_char_color( AT_IMMORT, ch );
+  set_char_color(AT_IMMORT, ch);
 
-   if( !argument || argument[0] == '\0' )
-   {
-      send_to_char( "Usage: makeclan <clan name>\r\n", ch );
-      return;
-   }
+  if(!argument || argument[0] == '\0')
+  {
+    send_to_char("Usage: makeclan <clan name>\r\n", ch);
+    return;
+  }
 
-   set_char_color( AT_PLAIN, ch );
-   clan = get_clan( argument );
-   if( clan )
-   {
-      send_to_char( "There is already a clan with that name.\r\n", ch );
-      return;
-   }
+  set_char_color(AT_PLAIN, ch);
+  clan = get_clan(argument);
+  if(clan)
+  {
+    send_to_char("There is already a clan with that name.\r\n", ch);
+    return;
+  }
 
-   CREATE( clan, CLAN_DATA, 1 );
-   LINK( clan, first_clan, last_clan, next, prev );
+  CREATE(clan, CLAN_DATA, 1);
+  LINK(clan, first_clan, last_clan, next, prev);
 
-   clan->name = STRALLOC( argument );
-   clan->abbrev = STRALLOC( "" );
-   /*
-    * Let's refix this, STRALLOC shouldn't be used for the 'filename'
-    * member without changing load_clan() and do_setclan() to employ hashstrings too... 
-    */
-   clan->filename = str_dup( "" );
-   clan->motto = STRALLOC( "" );
-   clan->description = STRALLOC( "" );
-   clan->deity = STRALLOC( "" );
-   clan->leader = STRALLOC( "" );
-   clan->number1 = STRALLOC( "" );
-   clan->number2 = STRALLOC( "" );
-   clan->leadrank = STRALLOC( "" );
-   clan->onerank = STRALLOC( "" );
-   clan->tworank = STRALLOC( "" );
-   clan->badge = STRALLOC( "" );
+  clan->name = STRALLOC(argument);
+  /*
+   * Let's refix this, STRALLOC shouldn't be used for the 'filename'
+   * member without changing load_clan() and do_setclan() to employ hashstrings too... 
+   */
+  clan->filename = STRALLOC("");
+  clan->motto = STRALLOC("");
+  clan->description = STRALLOC("");
+  clan->warmaster = STRALLOC("");
+  clan->chieftain = STRALLOC("");
+  clan->badge = STRALLOC("");
 }
 
-void do_makecouncil( CHAR_DATA* ch, const char* argument)
+void do_makecouncil(CHAR_DATA *ch, char *argument)
 {
-   char filename[256];
-   COUNCIL_DATA *council;
+  char                    filename[256];
+  COUNCIL_DATA           *council;
+  bool                    found;
 
-   set_char_color( AT_IMMORT, ch );
+  set_char_color(AT_IMMORT, ch);
 
-   if( !argument || argument[0] == '\0' )
-   {
-      send_to_char( "Usage: makecouncil <council name>\r\n", ch );
-      return;
-   }
+  if(!argument || argument[0] == '\0')
+  {
+    send_to_char("Usage: makecouncil <council name>\r\n", ch);
+    return;
+  }
 
-   snprintf( filename, 256, "%s%s", COUNCIL_DIR, strlower( argument ) );
+  found = FALSE;
+  snprintf(filename, 256, "%s%s", COUNCIL_DIR, strlower(argument));
 
-   CREATE( council, COUNCIL_DATA, 1 );
-   LINK( council, first_council, last_council, next, prev );
-   council->name = STRALLOC( argument );
-   council->abbrev = STRALLOC( "" );
-   council->head = STRALLOC( "" );
-   council->head2 = NULL;
-   council->powers = STRALLOC( "" );
+  CREATE(council, COUNCIL_DATA, 1);
+  LINK(council, first_council, last_council, next, prev);
+  council->name = STRALLOC(argument);
+  council->head = STRALLOC("");
+  council->head2 = NULL;
+  council->powers = STRALLOC("");
 }
 
-/*
- * Added multiple level pkill and pdeath support. --Shaddai
- */
-void do_clans( CHAR_DATA* ch, const char* argument)
+/* Added multiple level pkill and pdeath support. --Shaddai */
+void do_clans(CHAR_DATA *ch, char *argument)
 {
-   CLAN_DATA *clan;
-   int count = 0;
+  PKILLAREA_DATA         *pkillarea;
+  CLAN_DATA              *clan;
+  int                     count = 0;
+  bool                    firstdis;
 
-   if( argument[0] == '\0' )
-   {
-      set_char_color( AT_BLOOD, ch );
-      send_to_char
-         ( "\r\nClan          Deity         Leader           Pkills:    Avatar      Other\r\n_________________________________________________________________________\r\n\r\n",
-           ch );
-      for( clan = first_clan; clan; clan = clan->next )
-      {
-         if( clan->clan_type == CLAN_ORDER || clan->clan_type == CLAN_GUILD )
-            continue;
-         set_char_color( AT_GREY, ch );
-         ch_printf( ch, "%-13s %-13s %-13s", clan->name, clan->deity, clan->leader );
-         set_char_color( AT_BLOOD, ch );
-         ch_printf( ch, "                %5d      %5d\r\n",
-                    clan->pkills[6], ( clan->pkills[2] + clan->pkills[3] + clan->pkills[4] + clan->pkills[5] ) );
-         count++;
-      }
-      set_char_color( AT_BLOOD, ch );
-      if( !count )
-         send_to_char( "There are no Clans currently formed.\r\n", ch );
+  if(argument[0] == '\0')
+  {
+    set_char_color(AT_BLOOD, ch);
+    send_to_char("\r\n         Clan     Chieftain     Ambassador/Warmaster   Pkills: Avatar\r\n", ch);
+    send_to_char("_________________________________________________________________________\r\r\n\n", ch);
+    for(clan = first_clan; clan; clan = clan->next)
+    {
+      set_char_color(AT_GREY, ch);
+      ch_printf(ch, "%13s %13s %24s", clan->name, clan->chieftain, clan->warmaster);
+      set_char_color(AT_BLOOD, ch);
+      ch_printf(ch, "            %5d\r\n", clan->pkills[10]);
+      count++;
+    }
+    set_char_color(AT_BLOOD, ch);
+    if(!count)
+      send_to_char("There are no Clans currently formed.\r\n", ch);
+    else
+      send_to_char("_________________________________________________________________________\r\r\n\nUse 'clans <clan>' for detailed information and a breakdown of victories.\r\n", ch);
+    return;
+  }
+
+  clan = get_clan(argument);
+  if(!clan)
+  {
+    set_char_color(AT_BLOOD, ch);
+    send_to_char("No such clan.\r\n", ch);
+    return;
+  }
+  set_char_color(AT_BLOOD, ch);
+  ch_printf(ch, "\r\n%s, '%s'\r\r\n\n", clan->name, clan->motto);
+  if(VLD_STR(clan->intro))
+    ch_printf(ch, "Intro: '%s'\r\r\n\n", clan->intro);
+  set_char_color(AT_GREY, ch);
+  send_to_char_color("Victories:&w\r\n", ch);
+  ch_printf_color(ch, "    &w 1- 9: &r%-4d &w10-19: &r%-4d &w20-29: &r%-4d &w30-39: &r%-4d &w40-49: &r%-4d\r\n", clan->pkills[0], clan->pkills[1], clan->pkills[2], clan->pkills[3], clan->pkills[4]);
+  ch_printf_color(ch, "    &w50-59: &r%-4d &w60-69: &r%-4d &w70-79: &r%-4d &w80-89: &r%-4d &w90-99: &r%-4d\r\n", clan->pkills[5], clan->pkills[6], clan->pkills[7], clan->pkills[8], clan->pkills[9]);
+  ch_printf_color(ch, "    &w  100: &r%-4d\r\n", clan->pkills[10]);
+  ch_printf_color(ch, "&wArena Victories: &r%d&d\r\n", clan->arena_victory);
+  set_char_color(AT_GREY, ch);
+  ch_printf(ch, "Clan Chieftain:  %s\r\n", clan->chieftain);
+  if(!str_cmp(clan->name, "Halcyon"))
+    send_to_char("Ambassador:  ", ch);
+  else
+    send_to_char("War Master:  ", ch);
+  ch_printf(ch, "%s\r\n", clan->warmaster);
+  ch_printf(ch, "Members: %d\r\n", clan->members);
+  ch_printf(ch, "Clan Reputation: %d\r\n\r\n", clan->totalpoints);
+  set_char_color(AT_BLOOD, ch);
+  ch_printf(ch, "Description:  %s\r\n", clan->description);
+
+  firstdis = TRUE;
+  int                     acount = 0;
+
+  for(pkillarea = clan->first_pkillarea; pkillarea; pkillarea = pkillarea->next)
+  {
+    if(!VLD_STR(pkillarea->name))
+      continue;
+    if(firstdis)
+      ch_printf(ch, "&wAreas under &r%s &wInfluence:\r\n", clan->name);
+    firstdis = FALSE;
+    pager_printf(ch, "&G%-25s", capitalize(pkillarea->name));
+    acount++;
+    if(acount == 3)
+    {
+      send_to_char("\r\n", ch);
+      acount = 0;
+    }
+  }
+}
+
+void do_councils(CHAR_DATA *ch, char *argument)
+{
+  COUNCIL_DATA           *council;
+
+  set_char_color(AT_CYAN, ch);
+  if(!first_council)
+  {
+    send_to_char("There are no councils currently formed.\r\n", ch);
+    return;
+  }
+  if(argument[0] == '\0')
+  {
+    send_to_char_color("\r\n&cTitle                    Head\r\n", ch);
+    for(council = first_council; council; council = council->next)
+    {
+      if(council->head2 != NULL)
+        ch_printf_color(ch, "&w%-24s %s and %s\r\n", council->name, council->head, council->head2);
       else
-         send_to_char
-            ( "_________________________________________________________________________\r\n\r\nUse 'clans <clan>' for detailed information and a breakdown of victories.\r\n",
-              ch );
-      return;
-   }
-
-   clan = get_clan( argument );
-   if( !clan || clan->clan_type == CLAN_GUILD || clan->clan_type == CLAN_ORDER )
-   {
-      set_char_color( AT_BLOOD, ch );
-      send_to_char( "No such clan.\r\n", ch );
-      return;
-   }
-   set_char_color( AT_BLOOD, ch );
-   ch_printf( ch, "\r\n%s, '%s'\r\n\r\n", clan->name, clan->motto );
-   set_char_color( AT_GREY, ch );
-   send_to_char_color( "Victories:&w\r\n", ch );
-   ch_printf_color( ch,
-                    "    &w15-19...  &r%-4d\r\n    &w20-29...  &r%-4d\r\n    &w30-39...  &r%-4d\r\n    &w40-49...  &r%-4d\r\n",
-                    clan->pkills[2], clan->pkills[3], clan->pkills[4], clan->pkills[5] );
-   ch_printf_color( ch, "   &wAvatar...  &r%-4d\r\n", clan->pkills[6] );
-   set_char_color( AT_GREY, ch );
-   ch_printf( ch, "Clan Leader:  %s\r\nNumber One :  %s\r\nNumber Two :  %s\r\nClan Deity :  %s\r\n",
-              clan->leader, clan->number1, clan->number2, clan->deity );
-   if( !str_cmp( ch->name, clan->deity )
-       || !str_cmp( ch->name, clan->leader )
-       || !str_cmp( ch->name, clan->number1 ) || !str_cmp( ch->name, clan->number2 ) || get_trust( ch ) >= LEVEL_GREATER )
-      ch_printf( ch, "Members    :  %d\r\n", clan->members );
-   ch_printf( ch, "Abbrev     :  %s\n\r", clan->abbrev ? clan->abbrev : "" );
-   set_char_color( AT_BLOOD, ch );
-   ch_printf( ch, "\r\nDescription:  %s\r\n", clan->description );
-   return;
+        ch_printf_color(ch, "&w%-24s %-14s\r\n", council->name, council->head);
+    }
+    send_to_char_color("&cUse 'councils <name of council>' for more detailed information.\r\n", ch);
+    return;
+  }
+  council = get_council(argument);
+  if(!council)
+  {
+    send_to_char_color("&cNo such council exists...\r\n", ch);
+    return;
+  }
+  ch_printf_color(ch, "&c\r\n%s\r\n", council->name);
+  if(council->head2 == NULL)
+    ch_printf_color(ch, "&cHead:     &w%s\r\n&cMembers:  &w%d\r\n", council->head, council->members);
+  else
+    ch_printf_color(ch, "&cCo-Heads:     &w%s &cand &w%s\r\n&cMembers:  &w%d\r\n", council->head, council->head2, council->members);
+  ch_printf_color(ch, "&cDescription:\r\n&w%s\r\n", council->description);
+  return;
 }
 
-void do_orders( CHAR_DATA* ch, const char* argument)
+void do_victories(CHAR_DATA *ch, char *argument)
 {
-   CLAN_DATA *order;
-   int count = 0;
+  char                    filename[256];
 
-   if( argument[0] == '\0' )
-   {
-      set_char_color( AT_DGREEN, ch );
-      send_to_char
-         ( "\r\nOrder            Deity          Leader           Mkills      Mdeaths\r\n____________________________________________________________________\r\n\r\n",
-           ch );
-      set_char_color( AT_GREEN, ch );
-      for( order = first_clan; order; order = order->next )
-         if( order->clan_type == CLAN_ORDER )
-         {
-            ch_printf( ch, "%-16s %-14s %-14s   %-7d       %5d\r\n",
-                       order->name, order->deity, order->leader, order->mkills, order->mdeaths );
-            count++;
-         }
-      set_char_color( AT_DGREEN, ch );
-      if( !count )
-         send_to_char( "There are no Orders currently formed.\r\n", ch );
-      else
-         send_to_char
-            ( "____________________________________________________________________\r\n\r\nUse 'orders <order>' for more detailed information.\r\n",
-              ch );
-      return;
-   }
+  if(IS_NPC(ch) || !ch->pcdata->clan)
+  {
+    send_to_char("Huh?\r\n", ch);
+    return;
+  }
 
-   order = get_clan( argument );
-   if( !order || order->clan_type != CLAN_ORDER )
-   {
-      set_char_color( AT_DGREEN, ch );
-      send_to_char( "No such Order.\r\n", ch );
-      return;
-   }
+  snprintf(filename, 256, "%s%s.record", CLAN_DIR, ch->pcdata->clan->name);
+  set_pager_color(AT_PURPLE, ch);
+  if(IS_IMMORTAL(ch) && !str_cmp(argument, "clean"))
+  {
+    FILE                   *fp = FileOpen(filename, "w");
 
-   set_char_color( AT_DGREEN, ch );
-   ch_printf( ch, "\r\nOrder of %s\r\n'%s'\r\n\r\n", order->name, order->motto );
-   set_char_color( AT_GREEN, ch );
-   ch_printf( ch, "Deity      :  %s\r\nLeader     :  %s\r\nNumber One :  %s\r\nNumber Two :  %s\r\n",
-              order->deity, order->leader, order->number1, order->number2 );
-   if( !str_cmp( ch->name, order->deity )
-       || !str_cmp( ch->name, order->leader )
-       || !str_cmp( ch->name, order->number1 ) || !str_cmp( ch->name, order->number2 ) || get_trust( ch ) >= LEVEL_GREATER )
-      ch_printf( ch, "Members    :  %d\r\n", order->members );
-   ch_printf( ch, "Abbrev     :  %s\n\r", order->abbrev ? order->abbrev : "" );
-   set_char_color( AT_DGREEN, ch );
-   ch_printf( ch, "\r\nDescription:\r\n%s\r\n", order->description );
-   return;
+    if(fp)
+      FileClose(fp);
+    send_to_pager("\r\nVictories ledger has been cleared.\r\n", ch);
+    return;
+  }
+  else
+  {
+    send_to_pager("\r\nLVL  Character       LVL  Character\r\n", ch);
+    show_file(ch, filename);
+    return;
+  }
+  return;
 }
 
-void do_councils( CHAR_DATA* ch, const char* argument)
+void do_shove(CHAR_DATA *ch, char *argument)
 {
-   COUNCIL_DATA *council;
+  char                    arg[MAX_INPUT_LENGTH];
+  char                    arg2[MAX_INPUT_LENGTH];
+  int                     exit_dir;
+  EXIT_DATA              *pexit;
+  CHAR_DATA              *victim;
+  bool                    nogo;
+  ROOM_INDEX_DATA        *to_room;
+  int                     schance = 0;
+  int                     race_bonus = 0;
 
-   set_char_color( AT_CYAN, ch );
-   if( !first_council )
-   {
-      send_to_char( "There are no councils currently formed.\r\n", ch );
-      return;
-   }
-   if( argument[0] == '\0' )
-   {
-      send_to_char_color( "\r\n&cTitle                    Head\r\n", ch );
-      for( council = first_council; council; council = council->next )
-      {
-         if( council->head2 != NULL )
-            ch_printf_color( ch, "&w%-24s %s and %s\r\n", council->name, council->head, council->head2 );
-         else
-            ch_printf_color( ch, "&w%-24s %-14s\r\n", council->name, council->head );
-      }
-      send_to_char_color( "&cUse 'councils <name of council>' for more detailed information.\r\n", ch );
-      return;
-   }
-   council = get_council( argument );
-   if( !council )
-   {
-      send_to_char_color( "&cNo such council exists...\r\n", ch );
-      return;
-   }
-   ch_printf_color( ch, "&c\r\n%s\r\n", council->name );
-   if( council->head2 == NULL )
-      ch_printf_color( ch, "&cHead:     &w%s\r\n&cMembers:  &w%d\r\n", council->head, council->members );
-   else
-      ch_printf_color( ch, "&cCo-Heads:     &w%s &cand &w%s\r\n&cMembers:  &w%d\r\n",
-                       council->head, council->head2, council->members );
-   ch_printf_color( ch, "&cDescription:\r\n&w%s\r\n", council->description );
-   return;
-}
+  argument = one_argument(argument, arg);
+  argument = one_argument(argument, arg2);
 
-void do_guilds( CHAR_DATA* ch, const char* argument)
-{
-   char buf[MAX_STRING_LENGTH];
-   CLAN_DATA *guild;
-   int count = 0;
+  if(IS_NPC(ch) || !IS_SET(ch->pcdata->flags, PCFLAG_DEADLY))
+  {
+    send_to_char("Only deadly characters can shove.\r\n", ch);
+    return;
+  }
 
-   if( argument[0] == '\0' )
-   {
-      set_char_color( AT_HUNGRY, ch );
-      send_to_char
-         ( "\r\nGuild                  Leader             Mkills      Mdeaths\r\n_____________________________________________________________\r\n\r\n",
-           ch );
-      set_char_color( AT_YELLOW, ch );
-      for( guild = first_clan; guild; guild = guild->next )
-         if( guild->clan_type == CLAN_GUILD )
-         {
-            ++count;
-            ch_printf( ch, "%-20s   %-14s     %-6d       %6d\r\n", guild->name, guild->leader, guild->mkills,
-                       guild->mdeaths );
-         }
-      set_char_color( AT_HUNGRY, ch );
-      if( !count )
-         send_to_char( "There are no Guilds currently formed.\r\n", ch );
-      else
-         send_to_char
-            ( "_____________________________________________________________\r\n\r\nUse guilds <class>' for specifics. (ex:  guilds thieves)\r\n",
-              ch );
-      return;
-   }
+  if(get_timer(ch, TIMER_PKILLED) > 0)
+  {
+    send_to_char("You can't shove a player right now.\r\n", ch);
+    return;
+  }
 
-   snprintf( buf, MAX_STRING_LENGTH, "guild of %s", argument );
-   guild = get_clan( buf );
-      guild = get_clan( argument );
-   if( !guild || guild->clan_type != CLAN_GUILD )
-   {
-      set_char_color( AT_HUNGRY, ch );
-      send_to_char( "No such Guild.\r\n", ch );
-      return;
-   }
-   set_char_color( AT_HUNGRY, ch );
-   ch_printf( ch, "\r\n%s\r\n", guild->name );
-   set_char_color( AT_YELLOW, ch );
-   ch_printf( ch, "Leader:    %s\r\nNumber 1:  %s\r\nNumber 2:  %s\r\nMotto:     %s\r\n",
-              guild->leader, guild->number1, guild->number2, guild->motto );
-   if( !str_cmp( ch->name, guild->deity )
-       || !str_cmp( ch->name, guild->leader )
-       || !str_cmp( ch->name, guild->number1 ) || !str_cmp( ch->name, guild->number2 ) || get_trust( ch ) >= LEVEL_GREATER )
-      ch_printf( ch, "Members:   %d\r\n", guild->members );
-   ch_printf( ch, "Abbrev:    %s\n\r", guild->abbrev ? guild->abbrev : "" );
-   set_char_color( AT_HUNGRY, ch );
-   ch_printf( ch, "Guild Description:\r\n%s\r\n", guild->description );
-   return;
-}
+  if(arg[0] == '\0')
+  {
+    send_to_char("Shove whom?\r\n", ch);
+    return;
+  }
 
-void do_defeats( CHAR_DATA * ch, const char *argument )
-{
-   char filename[256];
+  if((victim = get_char_room(ch, arg)) == NULL)
+  {
+    send_to_char("They aren't here.\r\n", ch);
+    return;
+  }
+  if(victim == ch)
+  {
+    send_to_char("You shove yourself around, to no avail.\r\n", ch);
+    return;
+  }
+  // Only a Dragon is big enough to shove another Dragon. -Taon
+  if(victim->race == RACE_DRAGON && ch->race != RACE_DRAGON)
+  {
+    send_to_char("Just how are you going to shove a Dragon?\r\n", ch);
+    return;
+  }
+  if(IS_NPC(victim) || !IS_SET(victim->pcdata->flags, PCFLAG_DEADLY))
+  {
+    send_to_char("You can only shove deadly characters.\r\n", ch);
+    return;
+  }
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
+  if(ch->level - victim->level > 10 || victim->level - ch->level > 10)
+  {
+    send_to_char("There is too great an experience difference for you to even bother.\r\n", ch);
+    return;
+  }
 
-   if( ch->pcdata->clan->clan_type != CLAN_ORDER && ch->pcdata->clan->clan_type != CLAN_GUILD )
-   {
-      snprintf( filename, 256, "%s%s.defeats", CLAN_DIR, ch->pcdata->clan->name );
-      set_pager_color( AT_PURPLE, ch );
-      if( !str_cmp( ch->name, ch->pcdata->clan->leader ) && !str_cmp( argument, "clean" ) )
-      {
-         FILE *fp = fopen( filename, "w" );
-         if( fp )
-         {
-            fclose( fp );
-            fp = NULL;
-         }
-         send_to_char( "\r\nDefeats ledger has been cleared.\r\n", ch );
-         return;
-      }
-      else
-      {
-         send_to_pager( "\r\nLVL  Character                LVL  Character\r\n", ch );
-         show_file( ch, filename );
-         return;
-      }
-   }
-   else
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
-}
+  if(get_timer(victim, TIMER_PKILLED) > 0)
+  {
+    send_to_char("You can't shove that player right now.\r\n", ch);
+    return;
+  }
 
-void do_victories( CHAR_DATA* ch, const char* argument)
-{
-   char filename[256];
+  if((victim->position) != POS_STANDING)
+  {
+    act(AT_PLAIN, "$N isn't standing up.", ch, NULL, victim, TO_CHAR);
+    return;
+  }
 
-   if( IS_NPC( ch ) || !ch->pcdata->clan )
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
-   if( ch->pcdata->clan->clan_type != CLAN_ORDER && ch->pcdata->clan->clan_type != CLAN_GUILD )
-   {
-      snprintf( filename, 256, "%s%s.record", CLAN_DIR, ch->pcdata->clan->name );
-      set_pager_color( AT_PURPLE, ch );
-      if( !str_cmp( ch->name, ch->pcdata->clan->leader ) && !str_cmp( argument, "clean" ) )
-      {
-         FILE *fp = fopen( filename, "w" );
-         if( fp )
-            fclose( fp );
-         send_to_pager( "\r\nVictories ledger has been cleared.\r\n", ch );
-         return;
-      }
-      else
-      {
-         send_to_pager( "\r\nLVL  Character       LVL  Character\r\n", ch );
-         show_file( ch, filename );
-         return;
-      }
-   }
-   else
-   {
-      send_to_char( "Huh?\r\n", ch );
-      return;
-   }
-}
+  if(arg2[0] == '\0')
+  {
+    send_to_char("Shove them in which direction?\r\n", ch);
+    return;
+  }
 
-void do_shove( CHAR_DATA* ch, const char* argument)
-{
-   char arg[MAX_INPUT_LENGTH];
-   char arg2[MAX_INPUT_LENGTH];
-   int exit_dir;
-   EXIT_DATA *pexit;
-   CHAR_DATA *victim;
-   bool nogo;
-   ROOM_INDEX_DATA *to_room;
-   int schance = 0;
-   int race_bonus = 0;
-   short temp;
+  exit_dir = get_dir(arg2);
+  if(IS_SET(victim->in_room->room_flags, ROOM_SAFE) && get_timer(victim, TIMER_SHOVEDRAG) <= 0)
+  {
+    send_to_char("That character cannot be shoved right now.\r\n", ch);
+    return;
+  }
+  set_position(victim, POS_SHOVE);
+  nogo = FALSE;
+  if((pexit = get_exit(ch->in_room, exit_dir)) == NULL)
+    nogo = TRUE;
+  else if(IS_SET(pexit->exit_info, EX_CLOSED) && (!IS_AFFECTED(victim, AFF_PASS_DOOR) || IS_SET(pexit->exit_info, EX_NOPASSDOOR)))
+    nogo = TRUE;
+  if(nogo)
+  {
+    send_to_char("There's no exit in that direction.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
+  to_room = pexit->to_room;
+  if(IS_SET(to_room->room_flags, ROOM_DEATH))
+  {
+    send_to_char("You cannot shove someone into a death trap.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
 
-   argument = one_argument( argument, arg );
-   argument = one_argument( argument, arg2 );
-
-   if( IS_NPC( ch ) || !IS_SET( ch->pcdata->flags, PCFLAG_DEADLY ) )
-   {
-      send_to_char( "Only deadly characters can shove.\r\n", ch );
-      return;
-   }
-
-   if( get_timer( ch, TIMER_PKILLED ) > 0 )
-   {
-      send_to_char( "You can't shove a player right now.\r\n", ch );
-      return;
-   }
-
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Shove whom?\r\n", ch );
-      return;
-   }
-
-   if( ( victim = get_char_room( ch, arg ) ) == NULL )
-   {
-      send_to_char( "They aren't here.\r\n", ch );
-      return;
-   }
-
-   if( victim == ch )
-   {
-      send_to_char( "You shove yourself around, to no avail.\r\n", ch );
-      return;
-   }
-
-   if( IS_NPC( victim ) || !IS_SET( victim->pcdata->flags, PCFLAG_DEADLY ) )
-   {
-      send_to_char( "You can only shove deadly characters.\r\n", ch );
-      return;
-   }
-
-   if( ch->level - victim->level > 5 || victim->level - ch->level > 5 )
-   {
-      send_to_char( "There is too great an experience difference for you to even bother.\r\n", ch );
-      return;
-   }
-
-   if( get_timer( victim, TIMER_PKILLED ) > 0 )
-   {
-      send_to_char( "You can't shove that player right now.\r\n", ch );
-      return;
-   }
-
-   if( ( victim->position ) != POS_STANDING )
-   {
-      act( AT_PLAIN, "$N isn't standing up.", ch, NULL, victim, TO_CHAR );
-      return;
-   }
-
-   if( arg2[0] == '\0' )
-   {
-      send_to_char( "Shove them in which direction?\r\n", ch );
-      return;
-   }
-
-   exit_dir = get_dir( arg2 );
-   if( xIS_SET( victim->in_room->room_flags, ROOM_SAFE ) && get_timer( victim, TIMER_SHOVEDRAG ) <= 0 )
-   {
-      send_to_char( "That character cannot be shoved right now.\r\n", ch );
-      return;
-   }
-
-   nogo = FALSE;
-   if( ( pexit = get_exit( ch->in_room, exit_dir ) ) == NULL )
-      nogo = TRUE;
-   else
-      if( IS_SET( pexit->exit_info, EX_CLOSED )
-          && ( !IS_AFFECTED( victim, AFF_PASS_DOOR ) || IS_SET( pexit->exit_info, EX_NOPASSDOOR ) ) )
-      nogo = TRUE;
-
-   if( nogo )
-   {
-      send_to_char( "There's no exit in that direction.\r\n", ch );
-      return;
-   }
-
-   to_room = pexit->to_room;
-   if( xIS_SET( to_room->room_flags, ROOM_DEATH ) )
-   {
-      send_to_char( "You cannot shove someone into a death trap.\r\n", ch );
-      return;
-   }
-
-   if( ch->in_room->area != to_room->area && !in_hard_range( victim, to_room->area ) )
-   {
-      send_to_char( "That character cannot enter that area.\r\n", ch );
-      return;
-   }
+  if(ch->in_room->area != to_room->area && !in_hard_range(victim, to_room->area))
+  {
+    send_to_char("That character cannot enter that area.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
 
 /* Check for class, assign percentage based on that. */
-   if( ch->Class == CLASS_WARRIOR )
-      schance = 70;
-   if( ch->Class == CLASS_VAMPIRE )
-      schance = 65;
-   if( ch->Class == CLASS_RANGER )
-      schance = 60;
-   if( ch->Class == CLASS_DRUID )
-      schance = 45;
-   if( ch->Class == CLASS_CLERIC )
-      schance = 35;
-   if( ch->Class == CLASS_THIEF )
-      schance = 30;
-   if( ch->Class == CLASS_MAGE )
-      schance = 15;
-   if( ch->Class == CLASS_AUGURER )
-      schance = 20;
-   if( ch->Class == CLASS_PALADIN )
-      schance = 55;
-   if( ch->Class == CLASS_NEPHANDI )
-      schance = 20;
-   if( ch->Class == CLASS_SAVAGE )
-      schance = 70;
+  schance = 35;
 
 /* Add 3 points to chance for every str point above 15, subtract for below 15 */
 
-   schance += ( ( get_curr_str( ch ) - 15 ) * 3 );
+  schance += ((get_curr_str(ch) - 15) * 3);
 
-   schance += ( ch->level - victim->level );
+  schance += (ch->level - victim->level);
 
 /* Check for race, adjust percentage based on that. */
-   if( ch->race == RACE_ELF )
-      race_bonus = -3;
+  if(ch->race == RACE_ELF)
+    race_bonus = -3;
 
-   if( ch->race == RACE_DWARF )
-      race_bonus = 3;
+  if(ch->race == RACE_DWARF)
+    race_bonus = 3;
 
-   if( ch->race == RACE_HALFLING )
-      race_bonus = -5;
+  if(ch->race == RACE_HALFLING)
+    race_bonus = -5;
 
-   if( ch->race == RACE_PIXIE )
-      race_bonus = -7;
+  if(ch->race == RACE_PIXIE)
+    race_bonus = -7;
 
-   if( ch->race == RACE_HALF_OGRE )
-      race_bonus = 5;
+  if(ch->race == RACE_OGRE)
+    race_bonus = 5;
 
-   if( ch->race == RACE_HALF_ORC )
-      race_bonus = 7;
+  if(ch->race == RACE_ORC)
+    race_bonus = 7;
 
-   if( ch->race == RACE_HALF_TROLL )
-      race_bonus = 10;
+  if(ch->race == RACE_TROLL)
+    race_bonus = 10;
 
-   if( ch->race == RACE_HALF_ELF )
-      race_bonus = -2;
+  if(ch->race == RACE_DROW)
+    race_bonus = 1;
 
-   if( ch->race == RACE_GITH )
-      race_bonus = -2;
+  if(ch->race == RACE_GNOME)
+    race_bonus = -2;
 
-   if( ch->race == RACE_PIXIE )
-      race_bonus = -7;
+  schance += race_bonus;
 
-   if( ch->race == RACE_DROW )
-      race_bonus = 1;
-
-   if( ch->race == RACE_SEA_ELF )
-      race_bonus = -1;
-
-   if( ch->race == RACE_LIZARDMAN )
-      race_bonus = 4;
-
-   if( ch->race == RACE_GNOME )
-      race_bonus = -2;
-
-   schance += race_bonus;
-
-   if( schance < number_percent(  ) )
-   {
-      send_to_char( "You failed.\r\n", ch );
-      return;
-   }
-
-   temp = victim->position;
-   victim->position = POS_SHOVE;
-   act( AT_ACTION, "You shove $M.", ch, NULL, victim, TO_CHAR );
-   act( AT_ACTION, "$n shoves you.", ch, NULL, victim, TO_VICT );
-   move_char( victim, get_exit( ch->in_room, exit_dir ), 0 );
-   if( !char_died( victim ) )
-      victim->position = temp;
-   WAIT_STATE( ch, 12 );
-   /*
-    * Remove protection from shove/drag if char shoves -- Blodkai 
-    */
-   if( xIS_SET( ch->in_room->room_flags, ROOM_SAFE ) && get_timer( ch, TIMER_SHOVEDRAG ) <= 0 )
-      add_timer( ch, TIMER_SHOVEDRAG, 10, NULL, 0 );
+  if(schance < number_percent())
+  {
+    send_to_char("You failed.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
+  act(AT_ACTION, "You shove $M.", ch, NULL, victim, TO_CHAR);
+  act(AT_ACTION, "$n shoves you.", ch, NULL, victim, TO_VICT);
+  move_char(victim, get_exit(ch->in_room, exit_dir), 0, FALSE);
+  if(!char_died(victim))
+    set_position(victim, POS_STANDING);
+  WAIT_STATE(ch, 12);
+  /*
+   * Remove protection from shove/drag if char shoves -- Blodkai 
+   */
+  if(IS_SET(ch->in_room->room_flags, ROOM_SAFE) && get_timer(ch, TIMER_SHOVEDRAG) <= 0)
+    add_timer(ch, TIMER_SHOVEDRAG, 10, NULL, 0);
 }
 
-void do_drag( CHAR_DATA* ch, const char* argument)
+void do_drag(CHAR_DATA *ch, char *argument)
 {
-   char arg[MAX_INPUT_LENGTH];
-   char arg2[MAX_INPUT_LENGTH];
-   int exit_dir;
-   CHAR_DATA *victim;
-   EXIT_DATA *pexit;
-   ROOM_INDEX_DATA *to_room;
-   bool nogo;
-   int schance = 0;
-   int race_bonus = 0;
+  char                    arg[MAX_INPUT_LENGTH];
+  char                    arg2[MAX_INPUT_LENGTH];
+  int                     exit_dir;
+  CHAR_DATA              *victim;
+  EXIT_DATA              *pexit;
+  ROOM_INDEX_DATA        *to_room;
+  bool                    nogo;
+  int                     schance = 0;
+  int                     race_bonus = 0;
 
-   argument = one_argument( argument, arg );
-   argument = one_argument( argument, arg2 );
+  argument = one_argument(argument, arg);
+  argument = one_argument(argument, arg2);
 
-   if( IS_NPC( ch ) )
-   {
-      send_to_char( "Only characters can drag.\r\n", ch );
+  if(IS_NPC(ch))
+  {
+    send_to_char("Only characters can drag.\r\n", ch);
+    return;
+  }
+
+  if(get_timer(ch, TIMER_PKILLED) > 0)
+  {
+    send_to_char("You can't drag a player right now.\r\n", ch);
+    return;
+  }
+
+  if(arg[0] == '\0')
+  {
+    send_to_char("Drag whom?\r\n", ch);
+    return;
+  }
+
+  if((victim = get_char_room(ch, arg)) == NULL)
+  {
+    send_to_char("They aren't here.\r\n", ch);
+    return;
+  }
+
+  if(victim == ch)
+  {
+    send_to_char("You take yourself by the scruff of your neck, but go nowhere.\r\n", ch);
+    return;
+  }
+
+  if(IS_NPC(victim))
+  {
+    send_to_char("You can only drag characters.\r\n", ch);
+    return;
+  }
+
+  if(!xIS_SET(victim->act, PLR_SHOVEDRAG) && !IS_SET(victim->pcdata->flags, PCFLAG_DEADLY))
+  {
+    send_to_char("That character doesn't seem to appreciate your attentions.\r\n", ch);
+    return;
+  }
+
+  if(get_timer(victim, TIMER_PKILLED) > 0)
+  {
+    send_to_char("You can't drag that player right now.\r\n", ch);
+    return;
+  }
+
+  if(victim->fighting)
+  {
+    send_to_char("You try, but can't get close enough.\r\n", ch);
+    return;
+  }
+
+  if(!IS_SET(ch->pcdata->flags, PCFLAG_DEADLY) && IS_SET(victim->pcdata->flags, PCFLAG_DEADLY))
+  {
+    send_to_char("You cannot drag a deadly character.\r\n", ch);
+    return;
+  }
+
+  if(!IS_SET(victim->pcdata->flags, PCFLAG_DEADLY) && victim->position > 3)
+  {
+    send_to_char("They don't seem to need your assistance.\r\n", ch);
+    return;
+  }
+
+  if(arg2[0] == '\0')
+  {
+    send_to_char("Drag them in which direction?\r\n", ch);
+    return;
+  }
+
+  if(ch->level - victim->level > 10 || victim->level - ch->level > 10)
+  {
+    if(IS_SET(victim->pcdata->flags, PCFLAG_DEADLY) && IS_SET(ch->pcdata->flags, PCFLAG_DEADLY))
+    {
+      send_to_char("There is too great an experience difference for you to even bother.\r\n", ch);
       return;
-   }
+    }
+  }
 
-   if( get_timer( ch, TIMER_PKILLED ) > 0 )
-   {
-      send_to_char( "You can't drag a player right now.\r\n", ch );
-      return;
-   }
+  exit_dir = get_dir(arg2);
 
-   if( arg[0] == '\0' )
-   {
-      send_to_char( "Drag whom?\r\n", ch );
-      return;
-   }
+  if(IS_SET(victim->in_room->room_flags, ROOM_SAFE) && get_timer(victim, TIMER_SHOVEDRAG) <= 0)
+  {
+    send_to_char("That character cannot be dragged right now.\r\n", ch);
+    return;
+  }
 
-   if( ( victim = get_char_room( ch, arg ) ) == NULL )
-   {
-      send_to_char( "They aren't here.\r\n", ch );
-      return;
-   }
+  nogo = FALSE;
+  if((pexit = get_exit(ch->in_room, exit_dir)) == NULL)
+    nogo = TRUE;
+  else if(IS_SET(pexit->exit_info, EX_CLOSED) && (!IS_AFFECTED(victim, AFF_PASS_DOOR) || IS_SET(pexit->exit_info, EX_NOPASSDOOR)))
+    nogo = TRUE;
+  if(nogo)
+  {
+    send_to_char("There's no exit in that direction.\r\n", ch);
+    return;
+  }
 
-   if( victim == ch )
-   {
-      send_to_char( "You take yourself by the scruff of your neck, but go nowhere.\r\n", ch );
-      return;
-   }
+  to_room = pexit->to_room;
+  if(IS_SET(to_room->room_flags, ROOM_DEATH))
+  {
+    send_to_char("You cannot drag someone into a death trap.\r\n", ch);
+    return;
+  }
 
-   if( IS_NPC( victim ) )
-   {
-      send_to_char( "You can only drag characters.\r\n", ch );
-      return;
-   }
+  if(ch->in_room->area != to_room->area && !in_hard_range(victim, to_room->area))
+  {
+    send_to_char("That character cannot enter that area.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
 
-   if( !xIS_SET( victim->act, PLR_SHOVEDRAG ) && !IS_SET( victim->pcdata->flags, PCFLAG_DEADLY ) )
-   {
-      send_to_char( "That character doesn't seem to appreciate your attentions.\r\n", ch );
-      return;
-   }
+  /*
+   * Check for class, assign percentage based on that. 
+   */
+  schance = 35;
 
-   if( get_timer( victim, TIMER_PKILLED ) > 0 )
-   {
-      send_to_char( "You can't drag that player right now.\r\n", ch );
-      return;
-   }
+  /*
+   * Add 3 points to chance for every str point above 15, subtract for below 15 
+   */
 
-   if( victim->fighting )
-   {
-      send_to_char( "You try, but can't get close enough.\r\n", ch );
-      return;
-   }
+  schance += ((get_curr_str(ch) - 15) * 3);
 
-   if( !IS_SET( ch->pcdata->flags, PCFLAG_DEADLY ) && IS_SET( victim->pcdata->flags, PCFLAG_DEADLY ) )
-   {
-      send_to_char( "You cannot drag a deadly character.\r\n", ch );
-      return;
-   }
+  schance += (ch->level - victim->level);
 
-   if( !IS_SET( victim->pcdata->flags, PCFLAG_DEADLY ) && victim->position > 3 )
-   {
-      send_to_char( "They don't seem to need your assistance.\r\n", ch );
-      return;
-   }
+  if(ch->race == 1)
+    race_bonus = -3;
 
-   if( arg2[0] == '\0' )
-   {
-      send_to_char( "Drag them in which direction?\r\n", ch );
-      return;
-   }
+  if(ch->race == 2)
+    race_bonus = 3;
 
-   if( ch->level - victim->level > 5 || victim->level - ch->level > 5 )
-   {
-      if( IS_SET( victim->pcdata->flags, PCFLAG_DEADLY ) && IS_SET( ch->pcdata->flags, PCFLAG_DEADLY ) )
+  if(ch->race == 3)
+    race_bonus = -5;
+
+  if(ch->race == 4)
+    race_bonus = -7;
+
+  if(ch->race == 6)
+    race_bonus = 5;
+
+  if(ch->race == 7)
+    race_bonus = 7;
+
+  if(ch->race == 8)
+    race_bonus = 10;
+
+  if(ch->race == 9)
+    race_bonus = -2;
+
+  schance += race_bonus;
+
+  if(schance < number_percent())
+  {
+    send_to_char("You failed.\r\n", ch);
+    set_position(victim, POS_STANDING);
+    return;
+  }
+
+  if(victim->position < POS_STANDING)
+  {
+    short                   temp;
+
+    temp = victim->position;
+    set_position(victim, POS_DRAG);
+    act(AT_ACTION, "You drag $M into the next room.", ch, NULL, victim, TO_CHAR);
+    act(AT_ACTION, "$n grabs your hair and drags you.", ch, NULL, victim, TO_VICT);
+    move_char(victim, get_exit(ch->in_room, exit_dir), 0, FALSE);
+    if(!char_died(victim))
+      set_position(victim, temp);
+    /*
+     * Move ch to the room too.. they are doing dragging - Scryn 
+     */
+    move_char(ch, get_exit(ch->in_room, exit_dir), 0, FALSE);
+    WAIT_STATE(ch, 12);
+    return;
+  }
+  send_to_char("You cannot do that to someone who is standing.\r\n", ch);
+}
+
+bool is_head_architect(CHAR_DATA *ch)
+{
+  if(!ch || !ch->pcdata || !ch->pcdata->council || ch->pcdata->council != get_council("Area Building Machine"))
+    return FALSE;
+  if(ch->pcdata->council->head && !str_cmp(ch->pcdata->council->head, ch->name))
+    return TRUE;
+  if(ch->pcdata->council->head2 && !str_cmp(ch->pcdata->council->head2, ch->name))
+    return TRUE;
+  return FALSE;
+}
+
+/* Set all areas the clan is influencing */
+void influence_areas(CLAN_DATA * clan)
+{
+  PKILLAREA_DATA         *pkillarea, *pkillarea_next;
+  AREA_DATA              *pkarea;
+  bool                    pkremove; /* Should we Remove the area or set it as influenced
+                                     * by the clan. */
+
+  for(pkillarea = clan->first_pkillarea; pkillarea; pkillarea = pkillarea_next)
+  {
+    pkillarea_next = pkillarea->next;
+
+    pkremove = TRUE;  /* Assume we will remove it */
+
+    for(pkarea = first_area; pkarea; pkarea = pkarea->next)
+    {
+      if(!str_cmp(pkillarea->name, pkarea->name))
       {
-         send_to_char( "There is too great an experience difference for you to even bother.\r\n", ch );
-         return;
+        if(!IS_SET(pkarea->flags, AFLAG_NOINFLUENCE))
+        {
+          pkarea->influencer = clan;
+          pkremove = FALSE; /* So should be set and not removed */
+        }
+        break;
       }
-   }
+    }
 
-   exit_dir = get_dir( arg2 );
+    if(pkremove)
+    {
+      UNLINK(pkillarea, clan->first_pkillarea, clan->last_pkillarea, next, prev);
+      free_pkillarea(pkillarea);
+    }
+  }
+}
 
-   if( xIS_SET( victim->in_room->room_flags, ROOM_SAFE ) && get_timer( victim, TIMER_SHOVEDRAG ) <= 0 )
-   {
-      send_to_char( "That character cannot be dragged right now.\r\n", ch );
-      return;
-   }
+/* Used to assign the first person in line for the position */
+void assign_clan_leaders(CLAN_DATA * clan)
+{
+  ROSTER_DATA            *rost;
+  char                    buf[MSL];
+  bool                    changed = FALSE;
 
-   nogo = FALSE;
-   if( ( pexit = get_exit( ch->in_room, exit_dir ) ) == NULL )
-      nogo = TRUE;
-   else
-      if( IS_SET( pexit->exit_info, EX_CLOSED )
-          && ( !IS_AFFECTED( victim, AFF_PASS_DOOR ) || IS_SET( pexit->exit_info, EX_NOPASSDOOR ) ) )
-      nogo = TRUE;
-   if( nogo )
-   {
-      send_to_char( "There's no exit in that direction.\r\n", ch );
-      return;
-   }
+  if(!clan || (clan->chieftain && clan->warmaster) || !clan->first_member)
+    return;
 
-   to_room = pexit->to_room;
-   if( xIS_SET( to_room->room_flags, ROOM_DEATH ) )
-   {
-      send_to_char( "You cannot drag someone into a death trap.\r\n", ch );
-      return;
-   }
+  for(rost = clan->first_member; rost; rost = rost->next)
+  {
+    if(clan->chieftain && !str_cmp(clan->chieftain, rost->name))
+      continue;
+    if(clan->warmaster && !str_cmp(clan->warmaster, rost->name))
+      continue;
+    if(!clan->chieftain)
+    {
+      changed = TRUE;
+      clan->chieftain = STRALLOC(rost->name);
+      snprintf(buf, MSL, "&W[&RAnnouncement&W]&C %s has been appointed clan chieftain for the %s!\r\n", clan->chieftain, clan->name);
+      echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+      continue;
+    }
+    if(!clan->warmaster)
+    {
+      changed = TRUE;
+      clan->warmaster = STRALLOC(rost->name);
+      snprintf(buf, MSL, "&W[&RAnnouncement&W]&C %s has been appointed clan warmaster for the %s!\r\n", clan->warmaster, clan->name);
+      echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+      continue;
+    }
+  }
 
-   if( ch->in_room->area != to_room->area && !in_hard_range( victim, to_room->area ) )
-   {
-      send_to_char( "That character cannot enter that area.\r\n", ch );
-      return;
-   }
+  if(changed)
+    save_clan(clan);
+}
 
-/* Check for class, assign percentage based on that. */
-   if( ch->Class == CLASS_WARRIOR )
-      schance = 70;
-   if( ch->Class == CLASS_VAMPIRE )
-      schance = 65;
-   if( ch->Class == CLASS_RANGER )
-      schance = 60;
-   if( ch->Class == CLASS_DRUID )
-      schance = 45;
-   if( ch->Class == CLASS_CLERIC )
-      schance = 35;
-   if( ch->Class == CLASS_THIEF )
-      schance = 30;
-   if( ch->Class == CLASS_MAGE )
-      schance = 15;
+/* Used if a player is outcast etc... to check and remove them from leader spots */
+void check_clan_leaders(CLAN_DATA * clan, char *player)
+{
+  char                    buf[MSL];
 
-/* Add 3 points to chance for every str point above 15, subtract for 
-below 15 */
+  if(!clan || !player)
+    return;
 
-   schance += ( ( get_curr_str( ch ) - 15 ) * 3 );
+  if(clan->chieftain && !str_cmp(clan->chieftain, player))
+  {
+    snprintf(buf, MSL, "&W[&RAnnouncement&W]&C %s has been removed from clan chieftain for the %s!\r\n", clan->chieftain, clan->name);
+    echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+    STRFREE(clan->chieftain);
+    clan->chieftain = NULL;
+    save_clan(clan);
+  }
 
-   schance += ( ch->level - victim->level );
+  if(clan->warmaster && !str_cmp(clan->warmaster, player))
+  {
+    snprintf(buf, MSL, "&W[&RAnnouncement&W]&C %s has been removed from clan warmaster for the %s!\r\n", clan->warmaster, clan->name);
+    echo_to_all(AT_RED, buf, ECHOTAR_ALL);
+    STRFREE(clan->warmaster);
+    clan->warmaster = NULL;
+    save_clan(clan);
+  }
 
-   if( ch->race == 1 )
-      race_bonus = -3;
+  assign_clan_leaders(clan);
+}
 
-   if( ch->race == 2 )
-      race_bonus = 3;
+void increase_clan_pkills(CLAN_DATA * clan, int level)
+{
+  if(!clan)
+    return;
+  if(level < 10)
+    clan->pkills[0]++;
+  else if(level < 20)
+    clan->pkills[1]++;
+  else if(level < 30)
+    clan->pkills[2]++;
+  else if(level < 40)
+    clan->pkills[3]++;
+  else if(level < 50)
+    clan->pkills[4]++;
+  else if(level < 60)
+    clan->pkills[5]++;
+  else if(level < 70)
+    clan->pkills[6]++;
+  else if(level < 80)
+    clan->pkills[7]++;
+  else if(level < 90)
+    clan->pkills[8]++;
+  else if(level < 100)
+    clan->pkills[9]++;
+  else if(level == 100)
+    clan->pkills[10]++;
+}
 
-   if( ch->race == 3 )
-      race_bonus = -5;
-
-   if( ch->race == 4 )
-      race_bonus = -7;
-
-   if( ch->race == 6 )
-      race_bonus = 5;
-
-   if( ch->race == 7 )
-      race_bonus = 7;
-
-   if( ch->race == 8 )
-      race_bonus = 10;
-
-   if( ch->race == 9 )
-      race_bonus = -2;
-
-   schance += race_bonus;
-
-   if( schance < number_percent(  ) )
-   {
-      send_to_char( "You failed.\r\n", ch );
-      return;
-   }
-
-   if( victim->position < POS_STANDING )
-   {
-      short temp;
-
-      temp = victim->position;
-      victim->position = POS_DRAG;
-      act( AT_ACTION, "You drag $M into the next room.", ch, NULL, victim, TO_CHAR );
-      act( AT_ACTION, "$n grabs your hair and drags you.", ch, NULL, victim, TO_VICT );
-      move_char( victim, get_exit( ch->in_room, exit_dir ), 0 );
-      if( !char_died( victim ) )
-         victim->position = temp;
-/* Move ch to the room too.. they are doing dragging - Scryn */
-      move_char( ch, get_exit( ch->in_room, exit_dir ), 0 );
-      WAIT_STATE( ch, 12 );
-      return;
-   }
-   send_to_char( "You cannot do that to someone who is standing.\r\n", ch );
-   return;
+void increase_clan_pdeaths(CLAN_DATA * clan, int level)
+{
+  if(!clan)
+    return;
+  if(level < 10)
+    clan->pdeaths[0]++;
+  else if(level < 20)
+    clan->pdeaths[1]++;
+  else if(level < 30)
+    clan->pdeaths[2]++;
+  else if(level < 40)
+    clan->pdeaths[3]++;
+  else if(level < 50)
+    clan->pdeaths[4]++;
+  else if(level < 60)
+    clan->pdeaths[5]++;
+  else if(level < 70)
+    clan->pdeaths[6]++;
+  else if(level < 80)
+    clan->pdeaths[7]++;
+  else if(level < 90)
+    clan->pdeaths[8]++;
+  else if(level < 100)
+    clan->pdeaths[9]++;
+  else if(level == 100)
+    clan->pdeaths[10]++;
 }

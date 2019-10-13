@@ -1,0 +1,8837 @@
+#AREA        Blood Stained Plains~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne rashka~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#15281
+tree golem~
+a `#`GT`gr`Ye`ye `GG`go`Yl`ye`gm`^~
+A massive `#`GT`gr`Ye`ye `GG`go`Yl`ye`gm`^ wanders aimlessly through the forest.
+~
+Glancing around you find yourself looking straight into a forest. You feel 
+you're being watched.. wait.. wait a minute.. you Are being watched.. You 
+just can't place your finger on it.. OMG!! Did that tree just Move?! `1 `1 The `#`GT`gr`Ye`ye `GG`go`Yl`ye`gm`^ glares at you before walking on.. `1 `1 Are you gonna try fighting? Come on.. you can take him.. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+95 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15282
+male sprite~
+a `#`BM`ba`Ml`me `BS`bp`mr`Mi`mt`be`^~
+A mischevious `#`BM`ba`Ml`me `BS`bp`mr`Mi`mt`be`^ darts behind a tree, peering about from behind it curiously.
+~
+A cute little sprite darts here and there. He's dressed in spidersilk and 
+little leaf trousers. So mischevious! Wait.. did he just peek in your bag.. 
+why that little..!!! Get him!! 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+100 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15283
+sprite female~
+a `#`YF`ye`cm`Ca`cl`ye `YS`yp`Cr`ci`Ct`ye`^~
+A `#`YF`ye`cm`Ca`cl`ye `YS`yp`Cr`ci`Ct`ye`^ flits about cautiously here.
+~
+A cute little sprite darts here and there. She's dressed in a beautiful 
+little scarlet dress. She dances around to an unheard of symphony until she 
+sees you. So cute! Wait.. there's something wrong here.. She's smirking at 
+you with a wink.. You don't like that smirk... Wanna wipe it off? 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+99 0 -64 9d13+455 10d12+49
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15284
+demonic warlord~
+a `#`rD`Re`rm`Ro`rn`Ri`rc `SW`ra`Rr`rl`Ro`rr`Sd`^~
+A `#`rD`Re`rm`Ro`rn`Ri`rc `SW`ra`Rr`rl`Ro`rr`Sd`^ stands here, commanding his minions.
+~
+Towering above you.. is a massive demon lord. Crested from his head are two 
+large horns that curve in a large 'C' out toward and back from you. His skin 
+is an ashen grey.. it does nothing but make his terrifying visage even more 
+frightening as lightning flecks from his iris-less yellow glowing eyes. His 
+hands are brandished in huge talons. You feel you don't wanna mess with 
+him... or do you? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+102 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15285
+male wemic~
+a `#`YW`ye`Ym`yi`Yc `WW`Xa`yr`Yr`yi`Xo`Wr`^~
+A `#`WM`Xa`Sl`We `YW`ye`Ym`yi`Yc`^ stands here proudly.
+~
+A huge monstrous beast stands here.. he's adorned fully in warpaint. He's 
+prepared for the attack brandishing only the huge, sickening claws from his 
+hands. He looks like he could tear your head off in one swipe!! Dare you try 
+to beat him? 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+97 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15286
+cambion warrior~
+a `#`RC`ra`Smbi`ro`Rn `rW`Xa`Srri`Xo`rr`^~
+A wounded `#`RC`ra`Smbi`ro`Rn `rW`Xa`Srri`Xo`rr`^ is here, nursing his wounds.
+~
+The cambion warrior is here taking a heavy breather. His breaths are raspy 
+as he tightens the bandages to a wound on his leg. It's a futile attempt at 
+stopping the bleeding.. but he tries anyway. He stands and turns startled at 
+you, swinging blindly. Lookit him.. he's so pathetic... Wanna kill him? 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+98 0 -63 9d13+450 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15287
+succubi demon female lust luscious succubus~
+a `#`RL`ru`Xs`Scio`Xu`rs S`Xu`Scc`Xu`rb`Ri`^~
+A `#`RL`ru`Xs`Scio`Xu`rs S`Xu`Scc`Xu`rb`Ri`^ is here, `#`YT`ya`GU`gnT`GI`yn`YG`^ you with her Supple body.
+~
+The perfect woman of your dreams is here. Her supple body entices you to 
+join her...  with what you ask? Does it matter? Her eyes gleam wickedly and 
+you're captivated. Nevermind the tail, the talons... the horns or leathery 
+imp-like wings... She's perfect. Or is she...? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+96 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15288
+centaur male~
+a `#`SC`We`Snta`Xu`Sr S`Xta`Sll`Wio`Sn`^~
+A large, `#`SM`Xa`Wl`Se C`We`Snta`Xu`Sr`^ works his way through the thick forest here.
+~
+This huge centaur is a dusky greyish color. His equine self picks its way 
+sure-footedly through the thick forest. He doesn't appear to be of any 
+trouble.. Wanna try beating him anyway? Just to see? 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+101 0 -66 10d13+460 10d12+51
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15289
+half-elf crusader elf~
+a `#`GH`galf`S-`Ge`glf `WC`Xru`Wsa`Xde`Wr`^~
+A `#`GH`galf`S-`Ge`glf `WC`Xru`Wsa`Xde`Wr`^ stands here, looking for evil to destroy.
+~
+This half elf is dressed in white-steel armor. Adorned upon it is the emblem 
+of Caerlona. A blazing white spear. He's here in the name of the Light and 
+sent to vanquish evil. 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+103 0 -68 10d13+470 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15290
+elven priestess~
+an `#`GE`gl`Gv`ge`Gn P`Yr`yi`re`Rs`rt`ye`Ys`Gs`^~
+An `#`GE`gl`Gv`ge`Gn P`Yr`yi`re`Rs`rt`ye`Ys`Gs`^ stands here, communicating with nature.
+~
+A beautiful priestess is here communing with Nature.. The ground erupts 
+around her as her beautiful blue eyes blaze forth toward the evils within 
+the plains. Her blood-stained robes of white flap in the wind as a cyclone 
+begins to slowly surround her like a giant wind shield. The earth's vines 
+burst forth from the ground beckoning to her command.. Oh shyt.. she just 
+looked at you.. RUN!!! or fight..?? 
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+102 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15291
+paladin elven~
+an `#`GE`gl`Gv`ge`Gn `YP`Wa`Gl`ga`Gd`Wi`Yn`^~
+An `#`GE`gl`Gv`ge`Gn `YP`Wa`Gl`ga`Gd`Wi`Yn`^ stands here, defending his honor.
+~
+A holy elven paladin stands here. His white-steel armor blazes in the light. 
+His cloth is a dark blue outlining the emblem of Caerlona..A white and gold 
+spear. Dare you challenge him? 
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+101 0 -66 10d13+460 10d12+51
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#15281
+iron broadsword  sword~
+an `#`Siron`^ `#`Sb`Xr`Woa`Sds`Wwo`Xr`Sd`^~
+A large iron broadsword lays here, glowing with a strange aura.~
+~
+5 256 4
+15 135 170 2180 0 0 0
+1 2093 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15282
+flaming maul slayer~
+a `#`Rf`rl`Sa`Xm`Si`rn`Rg `Smaul`^~
+A large maul is here engulfed in fire.~
+~
+5 64 4
+23 135 170 1073 0 0 0
+1 2409 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15283
+iron flanged mace~
+an `#`Si`Xron `Sfl`Xa`Sng`Xed `Sm`Xace`^~
+An iron mace is here, dripping with poison.~
+~
+5 64 4
+9 127 169 192 0 0 0
+1 2090 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15284
+mithril stilleto dagger mist~
+a `#`Cm`cithril `Ss`Xtilleto`^~
+A long dagger like weapon is here with swirls of mist forming around it.~
+~
+5 64 4
+17 135 170 2176 0 0 0
+1 1905 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15285
+long wooden staff decay~
+a `#`yro`Stt`Xing `Sstaff`^~
+A long wooden staff is here decaying slowly.~
+~
+5 64 4
+17 127 169 6192 0 0 0
+1 1080 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15286
+devourer souls evil~
+`#`r->`RTh`Se De`rvou`Srer `rof S`Sou`Rls`r<-`^~
+A large sword is here draining the air of its life force.~
+~
+5 16 4
+12 127 169 276 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15287
+barricade~
+a large barricade~
+A large barricade is here preventing you from passing.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15288
+no name 15288~
+(no short description 15288)~
+(no description 15288)~
+~
+5 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15289
+iron broadsword  sword~
+an `#`Siron`^ `#`Sb`Xr`Woa`Sds`Wwo`Xr`Sd`^~
+A large iron broadsword lays here, glowing with a strange aura.~
+~
+5 256 4
+15 5 3 2180 0 0 0
+1 2093 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15290
+ethereal battlesword mystical holy sword~
+`#an `Ce`ct`Sh`Xer`Se`ca`Cl `Sbattlesword`^~
+A mystical sword lies here glowing with a holy aura.~
+~
+5 256 4
+11 7 20 2320 0 0 0
+1 2980 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#15360
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15369
+D3
+~
+~
+0 0 15361
+S
+#15361
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15370
+D1
+~
+~
+0 0 15360
+D3
+~
+~
+0 0 15362
+S
+#15362
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15371
+D1
+~
+~
+0 0 15361
+D3
+~
+~
+0 0 15449
+R M 0 15282 20 15362
+S
+#15363
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15372
+D1
+~
+~
+0 0 15489
+D3
+~
+~
+0 0 15364
+S
+#15364
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15373
+D1
+~
+~
+0 0 15363
+D3
+~
+~
+0 0 15365
+S
+#15365
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15374
+D1
+~
+~
+0 0 15364
+D3
+~
+~
+0 0 15366
+S
+#15366
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15375
+D1
+~
+~
+0 0 15365
+D3
+~
+~
+0 0 15367
+S
+#15367
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15376
+D1
+~
+~
+0 0 15366
+D3
+~
+~
+0 0 15368
+S
+#15368
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15377
+D1
+~
+~
+0 0 15367
+D3
+~
+~
+0 0 15369
+S
+#15369
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15378
+D1
+~
+~
+0 0 15368
+D2
+~
+~
+0 0 15360
+D3
+~
+~
+0 0 15370
+S
+#15370
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15379
+D1
+~
+~
+0 0 15369
+D2
+~
+~
+0 0 15361
+D3
+~
+~
+0 0 15371
+S
+#15371
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15380
+D1
+~
+~
+0 0 15370
+D2
+~
+~
+0 0 15362
+D3
+~
+~
+0 0 15448
+S
+#15372
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15381
+D1
+~
+~
+0 0 15488
+D2
+~
+~
+0 0 15363
+D3
+~
+~
+0 0 15373
+S
+#15373
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15382
+D1
+~
+~
+0 0 15372
+D2
+~
+~
+0 0 15364
+D3
+~
+~
+0 0 15374
+S
+#15374
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15383
+D1
+~
+~
+0 0 15373
+D2
+~
+~
+0 0 15365
+D3
+~
+~
+0 0 15375
+S
+#15375
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15384
+D1
+~
+~
+0 0 15374
+D2
+~
+~
+0 0 15366
+D3
+~
+~
+0 0 15376
+S
+#15376
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15385
+D1
+~
+~
+0 0 15375
+D2
+~
+~
+0 0 15367
+D3
+~
+~
+0 0 15377
+S
+#15377
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15386
+D1
+~
+~
+0 0 15376
+D2
+~
+~
+0 0 15368
+D3
+~
+~
+0 0 15378
+S
+#15378
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15387
+D1
+~
+~
+0 0 15377
+D2
+~
+~
+0 0 15369
+D3
+~
+~
+0 0 15379
+S
+#15379
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15388
+D1
+~
+~
+0 0 15378
+D2
+~
+~
+0 0 15370
+D3
+~
+~
+0 0 15380
+S
+#15380
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15389
+D1
+~
+~
+0 0 15379
+D2
+~
+~
+0 0 15371
+D3
+~
+~
+0 0 15447
+S
+#15381
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15390
+D1
+~
+~
+0 0 15487
+D2
+~
+~
+0 0 15372
+D3
+~
+~
+0 0 15382
+R M 0 15283 20 15381
+S
+#15382
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15391
+D1
+~
+~
+0 0 15381
+D2
+~
+~
+0 0 15373
+D3
+~
+~
+0 0 15383
+S
+#15383
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15392
+D1
+~
+~
+0 0 15382
+D2
+~
+~
+0 0 15374
+D3
+~
+~
+0 0 15384
+D6
+~
+~
+0 0 15391
+S
+#15384
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15393
+D1
+~
+~
+0 0 15383
+D2
+~
+~
+0 0 15375
+D3
+~
+~
+0 0 15385
+S
+#15385
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15394
+D1
+~
+~
+0 0 15384
+D2
+~
+~
+0 0 15376
+D3
+~
+~
+0 0 15386
+S
+#15386
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15395
+D1
+~
+~
+0 0 15385
+D2
+~
+~
+0 0 15377
+D3
+~
+~
+0 0 15387
+S
+#15387
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15396
+D1
+~
+~
+0 0 15386
+D2
+~
+~
+0 0 15378
+D3
+~
+~
+0 0 15388
+D9
+~
+~
+0 0 15397
+S
+#15388
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15397
+D1
+~
+~
+0 0 15387
+D2
+~
+~
+0 0 15379
+D3
+~
+~
+0 0 15389
+R M 0 15282 20 15388
+S
+#15389
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15398
+D1
+~
+~
+0 0 15388
+D2
+~
+~
+0 0 15380
+D3
+~
+~
+0 0 15446
+R M 0 15283 20 15389
+S
+#15390
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15399
+D1
+~
+~
+0 0 15486
+D2
+~
+~
+0 0 15381
+D3
+~
+~
+0 0 15391
+S
+#15391
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15400
+D1
+~
+~
+0 0 15390
+D2
+~
+~
+0 0 15382
+D3
+~
+~
+0 0 15392
+D6
+~
+~
+0 0 15399
+D8
+~
+~
+0 0 15383
+R M 0 15287 20 15391
+  R E 0 15283 0 16
+S
+#15392
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15401
+D1
+~
+~
+0 0 15391
+D2
+~
+~
+0 0 15383
+D3
+~
+~
+0 0 15393
+S
+#15393
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15402
+D1
+~
+~
+0 0 15392
+D2
+~
+~
+0 0 15384
+D3
+~
+~
+0 0 15394
+R M 0 15287 20 15393
+  R E 0 15283 0 16
+S
+#15394
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15403
+D1
+~
+~
+0 0 15393
+D2
+~
+~
+0 0 15385
+D3
+~
+~
+0 0 15395
+S
+#15395
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15404
+D1
+~
+~
+0 0 15394
+D2
+~
+~
+0 0 15386
+D3
+~
+~
+0 0 15396
+R M 0 15287 20 15395
+  R E 0 15283 0 16
+S
+#15396
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15405
+D1
+~
+~
+0 0 15395
+D2
+~
+~
+0 0 15387
+D3
+~
+~
+0 0 15397
+S
+#15397
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15406
+D1
+~
+~
+0 0 15396
+D2
+~
+~
+0 0 15388
+D3
+~
+~
+0 0 15398
+D7
+~
+~
+0 0 15387
+D9
+~
+~
+0 0 15407
+R M 0 15287 20 15397
+  R E 0 15283 0 16
+S
+#15398
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15407
+D1
+~
+~
+0 0 15397
+D2
+~
+~
+0 0 15389
+D3
+~
+~
+0 0 15445
+S
+#15399
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15408
+D1
+~
+~
+0 0 15485
+D2
+~
+~
+0 0 15390
+D3
+~
+~
+0 0 15400
+D6
+~
+~
+0 0 15443
+D8
+~
+~
+0 0 15391
+S
+#15400
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15409
+D1
+~
+~
+0 0 15399
+D2
+~
+~
+0 0 15391
+D3
+~
+~
+0 0 15401
+S
+#15401
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15410
+D1
+~
+~
+0 0 15400
+D2
+~
+~
+0 0 15392
+D3
+~
+~
+0 0 15402
+S
+#15402
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15411
+D1
+~
+~
+0 0 15401
+D2
+~
+~
+0 0 15393
+D3
+~
+~
+0 0 15403
+S
+#15403
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15412
+D1
+~
+~
+0 0 15402
+D2
+~
+~
+0 0 15394
+D3
+~
+~
+0 0 15404
+S
+#15404
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15413
+D1
+~
+~
+0 0 15403
+D2
+~
+~
+0 0 15395
+D3
+~
+~
+0 0 15405
+S
+#15405
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15414
+D1
+~
+~
+0 0 15404
+D2
+~
+~
+0 0 15396
+D3
+~
+~
+0 0 15406
+S
+#15406
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15415
+D1
+~
+~
+0 0 15405
+D2
+~
+~
+0 0 15397
+D3
+~
+~
+0 0 15407
+S
+#15407
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15416
+D1
+~
+~
+0 0 15406
+D2
+~
+~
+0 0 15398
+D3
+~
+~
+0 0 15444
+D7
+~
+~
+0 0 15397
+D9
+~
+~
+0 0 15442
+S
+#15408
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15417
+D1
+~
+~
+0 0 15443
+D2
+~
+~
+0 0 15399
+D3
+~
+~
+0 0 15409
+S
+#15409
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15418
+D1
+~
+~
+0 0 15408
+D2
+~
+~
+0 0 15400
+D3
+~
+~
+0 0 15410
+R M 0 15286 30 15409
+  R E 0 15286 0 16
+S
+#15410
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15419
+D1
+~
+~
+0 0 15409
+D2
+~
+~
+0 0 15401
+D3
+~
+~
+0 0 15411
+S
+#15411
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15420
+D1
+~
+~
+0 0 15410
+D2
+~
+~
+0 0 15402
+D3
+~
+~
+0 0 15412
+R M 0 15286 30 15411
+  R E 0 15286 0 16
+S
+#15412
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15421
+D1
+~
+~
+0 0 15411
+D2
+~
+~
+0 0 15403
+D3
+~
+~
+0 0 15413
+S
+#15413
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15422
+D1
+~
+~
+0 0 15412
+D2
+~
+~
+0 0 15404
+D3
+~
+~
+0 0 15414
+R M 0 15286 30 15413
+  R E 0 15286 0 16
+S
+#15414
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15423
+D1
+~
+~
+0 0 15413
+D2
+~
+~
+0 0 15405
+D3
+~
+~
+0 0 15415
+S
+#15415
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15424
+D1
+~
+~
+0 0 15414
+D2
+~
+~
+0 0 15406
+D3
+~
+~
+0 0 15416
+R M 0 15286 30 15415
+  R E 0 15286 0 16
+S
+#15416
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15425
+D1
+~
+~
+0 0 15415
+D2
+~
+~
+0 0 15407
+D3
+~
+~
+0 0 15442
+S
+#15417
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15494
+D1
+~
+~
+0 0 15492
+D2
+~
+~
+0 0 15408
+D3
+~
+~
+0 0 15418
+D7
+~
+~
+0 0 15443
+D9
+~
+~
+0 0 15432
+S
+#15418
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15432
+D1
+~
+~
+0 0 15417
+D2
+~
+~
+0 0 15409
+D3
+~
+~
+0 0 15419
+S
+#15419
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15431
+D1
+~
+~
+0 0 15418
+D2
+~
+~
+0 0 15410
+D3
+~
+~
+0 0 15420
+R M 0 15284 5 15419
+  R E 0 15282 0 16
+S
+#15420
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15430
+D1
+~
+~
+0 0 15419
+D2
+~
+~
+0 0 15411
+D3
+~
+~
+0 0 15421
+S
+#15421
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 64520
+D1
+~
+~
+0 0 15420
+D2
+~
+~
+0 0 15412
+D3
+~
+~
+0 0 15422
+R M 0 15284 5 15421
+  R E 0 15282 0 16
+S
+#15422
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15428
+D1
+~
+~
+0 0 15421
+D2
+~
+~
+0 0 15413
+D3
+~
+~
+0 0 15423
+S
+#15423
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15427
+D1
+~
+~
+0 0 15422
+D2
+~
+~
+0 0 15414
+D3
+~
+~
+0 0 15424
+R M 0 15284 5 15423
+  R E 0 15282 0 16
+S
+#15424
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15426
+D1
+~
+~
+0 0 15423
+D2
+~
+~
+0 0 15415
+D3
+~
+~
+0 0 15425
+S
+#15425
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15468
+D1
+~
+~
+0 0 15424
+D2
+~
+~
+0 0 15416
+D3
+~
+~
+0 0 15465
+D6
+~
+~
+0 0 15426
+D8
+~
+~
+0 0 15442
+S
+#15426
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15470
+D1
+~
+~
+0 0 15427
+D2
+~
+~
+0 0 15424
+D3
+~
+~
+0 0 15468
+D6
+~
+~
+0 0 15433
+D8
+~
+~
+0 0 15425
+S
+#15427
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15433
+D1
+~
+~
+0 0 15428
+D2
+~
+~
+0 0 15423
+D3
+~
+~
+0 0 15426
+S
+#15428
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15434
+D1
+~
+~
+0 0 15429
+D2
+~
+~
+0 0 15422
+D3
+~
+~
+0 0 15427
+S
+#15429
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15435
+D1
+~
+~
+0 0 15430
+D2
+~
+~
+0 0 15421
+D3
+~
+~
+0 0 15428
+S
+#15430
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15436
+D1
+~
+~
+0 0 15431
+D2
+~
+~
+0 0 15420
+D3
+~
+~
+0 0 15429
+S
+#15431
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15437
+D1
+~
+~
+0 0 15432
+D2
+~
+~
+0 0 15419
+D3
+~
+~
+0 0 15430
+S
+#15432
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15497
+D1
+~
+~
+0 0 15494
+D2
+~
+~
+0 0 15418
+D3
+~
+~
+0 0 15431
+D7
+~
+~
+0 0 15417
+D9
+~
+~
+0 0 15437
+S
+#15433
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15474
+D1
+~
+~
+0 0 15434
+D2
+~
+~
+0 0 15427
+D3
+~
+~
+0 0 15470
+D6
+~
+~
+0 0 15440
+D8
+~
+~
+0 0 15426
+S
+#15434
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15440
+D1
+~
+~
+0 0 15435
+D2
+~
+~
+0 0 15428
+D3
+~
+~
+0 0 15433
+S
+#15435
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15439
+D1
+~
+~
+0 0 15436
+D2
+~
+~
+0 0 15429
+D3
+~
+~
+0 0 15434
+S
+#15436
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15438
+D1
+~
+~
+0 0 15437
+D2
+~
+~
+0 0 15430
+D3
+~
+~
+0 0 15435
+S
+#15437
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15498
+D1
+~
+~
+0 0 15497
+D2
+~
+~
+0 0 15431
+D3
+~
+~
+0 0 15436
+D7
+~
+~
+0 0 15432
+D9
+~
+~
+0 0 15438
+S
+#15438
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15502
+D1
+~
+~
+0 0 15498
+D2
+~
+~
+0 0 15436
+D3
+~
+~
+0 0 15439
+D7
+~
+~
+0 0 15437
+D9
+~
+~
+0 0 15441
+S
+#15439
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15441
+D1
+~
+~
+0 0 15438
+D2
+~
+~
+0 0 15435
+D3
+~
+~
+0 0 15440
+S
+#15440
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15479
+D1
+~
+~
+0 0 15439
+D2
+~
+~
+0 0 15434
+D3
+~
+~
+0 0 15474
+D6
+~
+~
+0 0 15441
+D8
+~
+~
+0 0 15433
+S
+#15441
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15617
+D1
+~
+~
+0 0 15502
+D2
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15479
+D7
+~
+~
+0 0 15438
+D8
+~
+~
+0 0 15440
+S
+#15442
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15465
+D1
+~
+~
+0 0 15416
+D2
+~
+~
+0 0 15444
+D3
+~
+~
+0 0 15464
+D6
+~
+~
+0 0 15425
+D7
+~
+~
+0 0 15407
+S
+#15443
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15492
+D1
+~
+~
+0 0 15570
+D2
+~
+~
+0 0 15485
+D3
+~
+~
+0 0 15408
+D8
+~
+~
+0 0 15399
+D9
+~
+~
+0 0 15417
+S
+#15444
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15442
+D1
+~
+~
+0 0 15407
+D2
+~
+~
+0 0 15445
+D3
+~
+~
+0 0 15454
+S
+#15445
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15444
+D1
+~
+~
+0 0 15398
+D2
+~
+~
+0 0 15446
+D3
+~
+~
+0 0 15455
+S
+#15446
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15445
+D1
+~
+~
+0 0 15389
+D2
+~
+~
+0 0 15447
+D3
+~
+~
+0 0 15456
+R M 0 15281 20 15446
+S
+#15447
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15446
+D1
+~
+~
+0 0 15380
+D2
+~
+~
+0 0 15448
+D3
+~
+~
+0 0 15457
+S
+#15448
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15447
+D1
+~
+~
+0 0 15371
+D2
+~
+~
+0 0 15449
+D3
+~
+~
+0 0 15458
+S
+#15449
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15448
+D1
+~
+~
+0 0 15362
+D2
+~
+~
+0 0 15450
+D3
+~
+~
+0 0 15459
+R M 0 15281 20 15449
+S
+#15450
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15449
+D2
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15460
+S
+#15451
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15450
+D2
+~
+~
+0 0 15452
+D3
+~
+~
+0 0 15461
+S
+#15452
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15451
+D2
+~
+~
+0 0 15453
+D3
+~
+~
+0 0 15462
+S
+#15453
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15452
+D2
+~
+~
+0 0 15643
+D3
+~
+~
+0 0 15463
+R M 0 15281 20 15453
+S
+#15454
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15464
+D1
+~
+~
+0 0 15444
+D2
+~
+~
+0 0 15455
+S
+#15455
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15454
+D1
+~
+~
+0 0 15445
+D2
+~
+~
+0 0 15456
+S
+#15456
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15455
+D1
+~
+~
+0 0 15446
+D2
+~
+~
+0 0 15457
+S
+#15457
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15456
+D1
+~
+~
+0 0 15447
+D2
+~
+~
+0 0 15458
+S
+#15458
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15457
+D1
+~
+~
+0 0 15448
+D2
+~
+~
+0 0 15459
+S
+#15459
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15458
+D1
+~
+~
+0 0 15449
+D2
+~
+~
+0 0 15460
+S
+#15460
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15459
+D1
+~
+~
+0 0 15450
+D2
+~
+~
+0 0 15461
+S
+#15461
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15460
+D1
+~
+~
+0 0 15451
+D2
+~
+~
+0 0 15462
+S
+#15462
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15461
+D1
+~
+~
+0 0 15452
+D2
+~
+~
+0 0 15463
+S
+#15463
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15462
+D1
+~
+~
+0 0 15453
+D2
+~
+~
+0 0 15644
+S
+#15464
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15466
+D1
+~
+~
+0 0 15442
+D2
+~
+~
+0 0 15454
+S
+#15465
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15467
+D1
+~
+~
+0 0 15425
+D2
+~
+~
+0 0 15442
+D3
+~
+~
+0 0 15466
+S
+#15466
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15469
+D1
+~
+~
+0 0 15465
+D2
+~
+~
+0 0 15464
+S
+#15467
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15472
+D1
+~
+~
+0 0 15468
+D2
+~
+~
+0 0 15465
+D3
+~
+~
+0 0 15469
+S
+#15468
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15471
+D1
+~
+~
+0 0 15426
+D2
+~
+~
+0 0 15425
+D3
+~
+~
+0 0 15467
+S
+#15469
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15473
+D1
+~
+~
+0 0 15467
+D2
+~
+~
+0 0 15466
+S
+#15470
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15475
+D1
+~
+~
+0 0 15433
+D2
+~
+~
+0 0 15426
+D3
+~
+~
+0 0 15471
+S
+#15471
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15476
+D1
+~
+~
+0 0 15470
+D2
+~
+~
+0 0 15468
+D3
+~
+~
+0 0 15472
+R M 0 15282 20 15471
+S
+#15472
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15477
+D1
+~
+~
+0 0 15471
+D2
+~
+~
+0 0 15467
+D3
+~
+~
+0 0 15473
+R M 0 15281 20 15472
+S
+#15473
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15478
+D1
+~
+~
+0 0 15472
+D2
+~
+~
+0 0 15469
+S
+#15474
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15480
+D1
+~
+~
+0 0 15440
+D2
+~
+~
+0 0 15433
+D3
+~
+~
+0 0 15475
+S
+#15475
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15481
+D1
+~
+~
+0 0 15474
+D2
+~
+~
+0 0 15470
+D3
+~
+~
+0 0 15476
+S
+#15476
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15482
+D1
+~
+~
+0 0 15475
+D2
+~
+~
+0 0 15471
+D3
+~
+~
+0 0 15477
+S
+#15477
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15483
+D1
+~
+~
+0 0 15476
+D2
+~
+~
+0 0 15472
+D3
+~
+~
+0 0 15478
+S
+#15478
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15484
+D1
+~
+~
+0 0 15477
+D2
+~
+~
+0 0 15473
+S
+#15479
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15616
+D1
+~
+~
+0 0 15441
+D2
+~
+~
+0 0 15440
+D3
+~
+~
+0 0 15480
+S
+#15480
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15615
+D1
+~
+~
+0 0 15479
+D2
+~
+~
+0 0 15474
+D3
+~
+~
+0 0 15481
+R M 0 15283 20 15480
+S
+#15481
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15614
+D1
+~
+~
+0 0 15480
+D2
+~
+~
+0 0 15475
+D3
+~
+~
+0 0 15482
+S
+#15482
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15613
+D1
+~
+~
+0 0 15481
+D2
+~
+~
+0 0 15476
+D3
+~
+~
+0 0 15483
+S
+#15483
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15612
+D1
+~
+~
+0 0 15482
+D2
+~
+~
+0 0 15477
+D3
+~
+~
+0 0 15484
+R M 0 15281 20 15483
+S
+#15484
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15611
+D1
+~
+~
+0 0 15483
+D2
+~
+~
+0 0 15478
+S
+#15485
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15443
+D1
+~
+~
+0 0 15562
+D2
+~
+~
+0 0 15486
+D3
+~
+~
+0 0 15399
+S
+#15486
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15485
+D1
+~
+~
+0 0 15554
+D2
+~
+~
+0 0 15487
+D3
+~
+~
+0 0 15390
+S
+#15487
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15486
+D1
+~
+~
+0 0 15546
+D2
+~
+~
+0 0 15488
+D3
+~
+~
+0 0 15381
+S
+#15488
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15487
+D1
+~
+~
+0 0 15538
+D2
+~
+~
+0 0 15489
+D3
+~
+~
+0 0 15372
+S
+#15489
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15488
+D1
+~
+~
+0 0 15530
+D2
+~
+~
+0 0 15490
+D3
+~
+~
+0 0 15363
+S
+#15490
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15489
+D1
+~
+~
+0 0 15522
+D2
+~
+~
+0 0 15491
+S
+#15491
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15490
+D1
+~
+~
+0 0 15514
+S
+#15492
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15493
+D1
+~
+~
+0 0 15578
+D2
+~
+~
+0 0 15443
+D3
+~
+~
+0 0 15417
+S
+#15493
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15496
+D1
+~
+~
+0 0 15586
+D2
+~
+~
+0 0 15492
+D3
+~
+~
+0 0 15494
+S
+#15494
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15495
+D1
+~
+~
+0 0 15493
+D2
+~
+~
+0 0 15417
+D3
+~
+~
+0 0 15432
+S
+#15495
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15500
+D1
+~
+~
+0 0 15496
+D2
+~
+~
+0 0 15494
+D3
+~
+~
+0 0 15497
+S
+#15496
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15501
+D1
+~
+~
+0 0 15594
+D2
+~
+~
+0 0 15493
+D3
+~
+~
+0 0 15495
+S
+#15497
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15499
+D1
+~
+~
+0 0 15495
+D2
+~
+~
+0 0 15432
+D3
+~
+~
+0 0 15437
+S
+#15498
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15503
+D1
+~
+~
+0 0 15499
+D2
+~
+~
+0 0 15437
+D3
+~
+~
+0 0 15438
+S
+#15499
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15504
+D1
+~
+~
+0 0 15500
+D2
+~
+~
+0 0 15497
+D3
+~
+~
+0 0 15498
+S
+#15500
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15505
+D1
+~
+~
+0 0 15501
+D2
+~
+~
+0 0 15495
+D3
+~
+~
+0 0 15499
+S
+#15501
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15506
+D1
+~
+~
+0 0 15602
+D2
+~
+~
+0 0 15496
+D3
+~
+~
+0 0 15500
+S
+#15502
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15618
+D1
+~
+~
+0 0 15503
+D2
+~
+~
+0 0 15438
+D3
+~
+~
+0 0 15441
+S
+#15503
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15619
+D1
+~
+~
+0 0 15504
+D2
+~
+~
+0 0 15498
+D3
+~
+~
+0 0 15502
+S
+#15504
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15620
+D1
+~
+~
+0 0 15505
+D2
+~
+~
+0 0 15499
+D3
+~
+~
+0 0 15503
+S
+#15505
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15621
+D1
+~
+~
+0 0 15506
+D2
+~
+~
+0 0 15500
+D3
+~
+~
+0 0 15504
+R M 0 15281 20 15505
+S
+#15506
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15622
+D1
+~
+~
+0 0 15610
+D2
+~
+~
+0 0 15501
+D3
+~
+~
+0 0 15505
+R M 0 15283 20 15506
+S
+#15507
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15515
+D1
+~
+~
+0 0 15658
+D3
+~
+~
+0 0 15508
+S
+#15508
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15516
+D1
+~
+~
+0 0 15507
+D3
+~
+~
+0 0 15509
+S
+#15509
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15517
+D1
+~
+~
+0 0 15508
+D3
+~
+~
+0 0 15510
+R M 0 15291 30 15509
+  R E 0 15284 0 16
+S
+#15510
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15518
+D1
+~
+~
+0 0 15509
+D3
+~
+~
+0 0 15511
+S
+#15511
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15519
+D1
+~
+~
+0 0 15510
+D3
+~
+~
+0 0 15512
+R M 0 15291 30 15511
+  R E 0 15284 0 16
+S
+#15512
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15520
+D1
+~
+~
+0 0 15511
+D3
+~
+~
+0 0 15513
+S
+#15513
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15521
+D1
+~
+~
+0 0 15512
+D3
+~
+~
+0 0 15514
+R M 0 15291 30 15513
+  R E 0 15284 0 16
+S
+#15514
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15522
+D1
+~
+~
+0 0 15513
+D3
+~
+~
+0 0 15491
+S
+#15515
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15523
+D1
+~
+~
+0 0 15657
+D2
+~
+~
+0 0 15507
+D3
+~
+~
+0 0 15516
+S
+#15516
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15524
+D1
+~
+~
+0 0 15515
+D2
+~
+~
+0 0 15508
+D3
+~
+~
+0 0 15517
+S
+#15517
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15525
+D1
+~
+~
+0 0 15516
+D2
+~
+~
+0 0 15509
+D3
+~
+~
+0 0 15518
+R M 0 15290 5 15517
+  R E 0 15285 0 16
+S
+#15518
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15526
+D1
+~
+~
+0 0 15517
+D2
+~
+~
+0 0 15510
+D3
+~
+~
+0 0 15519
+S
+#15519
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15527
+D1
+~
+~
+0 0 15518
+D2
+~
+~
+0 0 15511
+D3
+~
+~
+0 0 15520
+D6
+~
+~
+0 0 15526
+R M 0 15290 5 15519
+  R E 0 15285 0 16
+S
+#15520
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15528
+D1
+~
+~
+0 0 15519
+D2
+~
+~
+0 0 15512
+D3
+~
+~
+0 0 15521
+S
+#15521
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15529
+D1
+~
+~
+0 0 15520
+D2
+~
+~
+0 0 15513
+D3
+~
+~
+0 0 15522
+R M 0 15290 5 15521
+  R E 0 15285 0 16
+S
+#15522
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15530
+D1
+~
+~
+0 0 15521
+D2
+~
+~
+0 0 15514
+D3
+~
+~
+0 0 15490
+S
+#15523
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15531
+D1
+~
+~
+0 0 15656
+D2
+~
+~
+0 0 15515
+D3
+~
+~
+0 0 15524
+S
+#15524
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15532
+D1
+~
+~
+0 0 15523
+D2
+~
+~
+0 0 15516
+D3
+~
+~
+0 0 15525
+S
+#15525
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15533
+D1
+~
+~
+0 0 15524
+D2
+~
+~
+0 0 15517
+D3
+~
+~
+0 0 15526
+S
+#15526
+A Muddy Trail~
+~
+You are traveling through large road going through a grassy field. The earth 
+on either side of the trail is dark and muddy. Looking down at the grass you 
+realize that its not the grass or dirt thats dark. The ground has been 
+splattered with blood. Scuffle marks from a fight are here. Hoof-prints and 
+such are here in a messed flurry. You wonder whats been going on.. The path 
+looks well worn. 
+~
+1 0 15
+D0
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15518
+D3
+~
+~
+0 0 15527
+D8
+~
+~
+0 0 15519
+S
+#15527
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15535
+D1
+~
+~
+0 0 15526
+D2
+~
+~
+0 0 15519
+D3
+~
+~
+0 0 15528
+S
+#15528
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15536
+D1
+~
+~
+0 0 15527
+D2
+~
+~
+0 0 15520
+D3
+~
+~
+0 0 15529
+S
+#15529
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15537
+D1
+~
+~
+0 0 15528
+D2
+~
+~
+0 0 15521
+D3
+~
+~
+0 0 15530
+S
+#15530
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15538
+D1
+~
+~
+0 0 15529
+D2
+~
+~
+0 0 15522
+D3
+~
+~
+0 0 15489
+S
+#15531
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15539
+D1
+~
+~
+0 0 15655
+D2
+~
+~
+0 0 15523
+D3
+~
+~
+0 0 15532
+S
+#15532
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15540
+D1
+~
+~
+0 0 15531
+D2
+~
+~
+0 0 15524
+D3
+~
+~
+0 0 15533
+S
+#15533
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15541
+D1
+~
+~
+0 0 15532
+D2
+~
+~
+0 0 15525
+D3
+~
+~
+0 0 15534
+S
+#15534
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15542
+D1
+~
+~
+0 0 15533
+D2
+~
+~
+0 0 15526
+D3
+~
+~
+0 0 15535
+S
+#15535
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15543
+D1
+~
+~
+0 0 15534
+D2
+~
+~
+0 0 15527
+D3
+~
+~
+0 0 15536
+S
+#15536
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15544
+D1
+~
+~
+0 0 15535
+D2
+~
+~
+0 0 15528
+D3
+~
+~
+0 0 15537
+S
+#15537
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15545
+D1
+~
+~
+0 0 15536
+D2
+~
+~
+0 0 15529
+D3
+~
+~
+0 0 15538
+S
+#15538
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15546
+D1
+~
+~
+0 0 15537
+D2
+~
+~
+0 0 15530
+D3
+~
+~
+0 0 15488
+S
+#15539
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15547
+D1
+~
+~
+0 0 15654
+D2
+~
+~
+0 0 15531
+D3
+~
+~
+0 0 15540
+S
+#15540
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15548
+D1
+~
+~
+0 0 15539
+D2
+~
+~
+0 0 15532
+D3
+~
+~
+0 0 15541
+S
+#15541
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15549
+D1
+~
+~
+0 0 15540
+D2
+~
+~
+0 0 15533
+D3
+~
+~
+0 0 15542
+S
+#15542
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15550
+D1
+~
+~
+0 0 15541
+D2
+~
+~
+0 0 15534
+D3
+~
+~
+0 0 15543
+S
+#15543
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15551
+D1
+~
+~
+0 0 15542
+D2
+~
+~
+0 0 15535
+D3
+~
+~
+0 0 15544
+S
+#15544
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15552
+D1
+~
+~
+0 0 15543
+D2
+~
+~
+0 0 15536
+D3
+~
+~
+0 0 15545
+S
+#15545
+The Bloody Plains~
+~
+You are traveling through a large grassy field. The earth on either side of 
+you,  the ground is dark and muddy. Looking down at the grass you realize 
+that its not the grass or dirt thats dark. The ground has been splattered 
+with blood. Scuffle marks from a fight are here. Hoof-prints and such are 
+here in a messed flurry. 
+~
+1 0 2
+D0
+~
+~
+0 0 15553
+D1
+~
+~
+0 0 15544
+D2
+~
+~
+0 0 15537
+D3
+~
+~
+0 0 15546
+S
+#15546
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15554
+D1
+~
+~
+0 0 15545
+D2
+~
+~
+0 0 15538
+D3
+~
+~
+0 0 15487
+S
+#15547
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15555
+D1
+~
+~
+0 0 15653
+D2
+~
+~
+0 0 15539
+D3
+~
+~
+0 0 15548
+S
+#15548
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15556
+D1
+~
+~
+0 0 15547
+D2
+~
+~
+0 0 15540
+D3
+~
+~
+0 0 15549
+S
+#15549
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15557
+D1
+~
+~
+0 0 15548
+D2
+~
+~
+0 0 15541
+D3
+~
+~
+0 0 15550
+S
+#15550
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15558
+D1
+~
+~
+0 0 15549
+D2
+~
+~
+0 0 15542
+D3
+~
+~
+0 0 15551
+S
+#15551
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15559
+D1
+~
+~
+0 0 15550
+D2
+~
+~
+0 0 15543
+D3
+~
+~
+0 0 15552
+S
+#15552
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15560
+D1
+~
+~
+0 0 15551
+D2
+~
+~
+0 0 15544
+D3
+~
+~
+0 0 15553
+S
+#15553
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15561
+D1
+~
+~
+0 0 15552
+D2
+~
+~
+0 0 15545
+D3
+~
+~
+0 0 15554
+S
+#15554
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15562
+D1
+~
+~
+0 0 15553
+D2
+~
+~
+0 0 15546
+D3
+~
+~
+0 0 15486
+S
+#15555
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15563
+D1
+~
+~
+0 0 15652
+D2
+~
+~
+0 0 15547
+D3
+~
+~
+0 0 15556
+S
+#15556
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15564
+D1
+~
+~
+0 0 15555
+D2
+~
+~
+0 0 15548
+D3
+~
+~
+0 0 15557
+S
+#15557
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15565
+D1
+~
+~
+0 0 15556
+D2
+~
+~
+0 0 15549
+D3
+~
+~
+0 0 15558
+S
+#15558
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15566
+D1
+~
+~
+0 0 15557
+D2
+~
+~
+0 0 15550
+D3
+~
+~
+0 0 15559
+S
+#15559
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15567
+D1
+~
+~
+0 0 15558
+D2
+~
+~
+0 0 15551
+D3
+~
+~
+0 0 15560
+S
+#15560
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15568
+D1
+~
+~
+0 0 15559
+D2
+~
+~
+0 0 15552
+D3
+~
+~
+0 0 15561
+S
+#15561
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15569
+D1
+~
+~
+0 0 15560
+D2
+~
+~
+0 0 15553
+D3
+~
+~
+0 0 15562
+S
+#15562
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15570
+D1
+~
+~
+0 0 15561
+D2
+~
+~
+0 0 15554
+D3
+~
+~
+0 0 15485
+S
+#15563
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15571
+D1
+~
+~
+0 0 15651
+D2
+~
+~
+0 0 15555
+D3
+~
+~
+0 0 15564
+S
+#15564
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15572
+D1
+~
+~
+0 0 15563
+D2
+~
+~
+0 0 15556
+D3
+~
+~
+0 0 15565
+R M 0 15282 20 15564
+S
+#15565
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15573
+D1
+~
+~
+0 0 15564
+D2
+~
+~
+0 0 15557
+D3
+~
+~
+0 0 15566
+S
+#15566
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15574
+D1
+~
+~
+0 0 15565
+D2
+~
+~
+0 0 15558
+D3
+~
+~
+0 0 15567
+S
+#15567
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15575
+D1
+~
+~
+0 0 15566
+D2
+~
+~
+0 0 15559
+D3
+~
+~
+0 0 15568
+S
+#15568
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15576
+D1
+~
+~
+0 0 15567
+D2
+~
+~
+0 0 15560
+D3
+~
+~
+0 0 15569
+S
+#15569
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15577
+D1
+~
+~
+0 0 15568
+D2
+~
+~
+0 0 15561
+D3
+~
+~
+0 0 15570
+S
+#15570
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15578
+D1
+~
+~
+0 0 15569
+D2
+~
+~
+0 0 15562
+D3
+~
+~
+0 0 15443
+S
+#15571
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15579
+D1
+~
+~
+0 0 15650
+D2
+~
+~
+0 0 15563
+D3
+~
+~
+0 0 15572
+S
+#15572
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15580
+D1
+~
+~
+0 0 15571
+D2
+~
+~
+0 0 15564
+D3
+~
+~
+0 0 15573
+R M 0 15288 10 15572
+S
+#15573
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15581
+D1
+~
+~
+0 0 15572
+D2
+~
+~
+0 0 15565
+D3
+~
+~
+0 0 15574
+S
+#15574
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15582
+D1
+~
+~
+0 0 15573
+D2
+~
+~
+0 0 15566
+D3
+~
+~
+0 0 15575
+S
+#15575
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15583
+D1
+~
+~
+0 0 15574
+D2
+~
+~
+0 0 15567
+D3
+~
+~
+0 0 15576
+S
+#15576
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15584
+D1
+~
+~
+0 0 15575
+D2
+~
+~
+0 0 15568
+D3
+~
+~
+0 0 15577
+S
+#15577
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15585
+D1
+~
+~
+0 0 15576
+D2
+~
+~
+0 0 15569
+D3
+~
+~
+0 0 15578
+S
+#15578
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15586
+D1
+~
+~
+0 0 15577
+D2
+~
+~
+0 0 15570
+D3
+~
+~
+0 0 15492
+R M 0 15283 20 15578
+S
+#15579
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15587
+D1
+~
+~
+0 0 15649
+D2
+~
+~
+0 0 15571
+D3
+~
+~
+0 0 15580
+S
+#15580
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15588
+D1
+~
+~
+0 0 15579
+D2
+~
+~
+0 0 15572
+D3
+~
+~
+0 0 15581
+R M 0 15281 20 15580
+S
+#15581
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15589
+D1
+~
+~
+0 0 15580
+D2
+~
+~
+0 0 15573
+D3
+~
+~
+0 0 15582
+S
+#15582
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15590
+D1
+~
+~
+0 0 15581
+D2
+~
+~
+0 0 15574
+D3
+~
+~
+0 0 15583
+S
+#15583
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15591
+D1
+~
+~
+0 0 15582
+D2
+~
+~
+0 0 15575
+D3
+~
+~
+0 0 15584
+S
+#15584
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15592
+D1
+~
+~
+0 0 15583
+D2
+~
+~
+0 0 15576
+D3
+~
+~
+0 0 15585
+R M 0 15281 20 15584
+S
+#15585
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15593
+D1
+~
+~
+0 0 15584
+D2
+~
+~
+0 0 15577
+D3
+~
+~
+0 0 15586
+S
+#15586
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15594
+D1
+~
+~
+0 0 15585
+D2
+~
+~
+0 0 15578
+D3
+~
+~
+0 0 15493
+S
+#15587
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15595
+D1
+~
+~
+0 0 15648
+D2
+~
+~
+0 0 15579
+D3
+~
+~
+0 0 15588
+S
+#15588
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15596
+D1
+~
+~
+0 0 15587
+D2
+~
+~
+0 0 15580
+D3
+~
+~
+0 0 15589
+S
+#15589
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15597
+D1
+~
+~
+0 0 15588
+D2
+~
+~
+0 0 15581
+D3
+~
+~
+0 0 15590
+S
+#15590
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15598
+D1
+~
+~
+0 0 15589
+D2
+~
+~
+0 0 15582
+D3
+~
+~
+0 0 15591
+S
+#15591
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15599
+D1
+~
+~
+0 0 15590
+D2
+~
+~
+0 0 15583
+D3
+~
+~
+0 0 15592
+S
+#15592
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15600
+D1
+~
+~
+0 0 15591
+D2
+~
+~
+0 0 15584
+D3
+~
+~
+0 0 15593
+S
+#15593
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15601
+D1
+~
+~
+0 0 15592
+D2
+~
+~
+0 0 15585
+D3
+~
+~
+0 0 15594
+S
+#15594
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15602
+D1
+~
+~
+0 0 15593
+D2
+~
+~
+0 0 15586
+D3
+~
+~
+0 0 15496
+S
+#15595
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15603
+D1
+~
+~
+0 0 15647
+D2
+~
+~
+0 0 15587
+D3
+~
+~
+0 0 15596
+S
+#15596
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15604
+D1
+~
+~
+0 0 15595
+D2
+~
+~
+0 0 15588
+D3
+~
+~
+0 0 15597
+R M 0 15288 10 15596
+S
+#15597
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15605
+D1
+~
+~
+0 0 15596
+D2
+~
+~
+0 0 15589
+D3
+~
+~
+0 0 15598
+S
+#15598
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15606
+D1
+~
+~
+0 0 15597
+D2
+~
+~
+0 0 15590
+D3
+~
+~
+0 0 15599
+S
+#15599
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15607
+D1
+~
+~
+0 0 15598
+D2
+~
+~
+0 0 15591
+D3
+~
+~
+0 0 15600
+S
+#15600
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15608
+D1
+~
+~
+0 0 15599
+D2
+~
+~
+0 0 15592
+D3
+~
+~
+0 0 15601
+S
+#15601
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15609
+D1
+~
+~
+0 0 15600
+D2
+~
+~
+0 0 15593
+D3
+~
+~
+0 0 15602
+R M 0 15288 10 15601
+S
+#15602
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15610
+D1
+~
+~
+0 0 15601
+D2
+~
+~
+0 0 15594
+D3
+~
+~
+0 0 15501
+S
+#15603
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15630
+D1
+~
+~
+0 0 15646
+D2
+~
+~
+0 0 15595
+D3
+~
+~
+0 0 15604
+S
+#15604
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15629
+D1
+~
+~
+0 0 15603
+D2
+~
+~
+0 0 15596
+D3
+~
+~
+0 0 15605
+S
+#15605
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15628
+D1
+~
+~
+0 0 15604
+D2
+~
+~
+0 0 15597
+D3
+~
+~
+0 0 15606
+S
+#15606
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15627
+D1
+~
+~
+0 0 15605
+D2
+~
+~
+0 0 15598
+D3
+~
+~
+0 0 15607
+S
+#15607
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15626
+D1
+~
+~
+0 0 15606
+D2
+~
+~
+0 0 15599
+D3
+~
+~
+0 0 15608
+S
+#15608
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15625
+D1
+~
+~
+0 0 15607
+D2
+~
+~
+0 0 15600
+D3
+~
+~
+0 0 15609
+R M 0 15281 20 15608
+S
+#15609
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15624
+D1
+~
+~
+0 0 15608
+D2
+~
+~
+0 0 15601
+D3
+~
+~
+0 0 15610
+S
+#15610
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15623
+D1
+~
+~
+0 0 15609
+D2
+~
+~
+0 0 15602
+D3
+~
+~
+0 0 15506
+S
+#15611
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15612
+D2
+~
+~
+0 0 15484
+S
+#15612
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15613
+D2
+~
+~
+0 0 15483
+D3
+~
+~
+0 0 15611
+S
+#15613
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15614
+D2
+~
+~
+0 0 15482
+D3
+~
+~
+0 0 15612
+R M 0 15282 20 15613
+S
+#15614
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15615
+D2
+~
+~
+0 0 15481
+D3
+~
+~
+0 0 15613
+S
+#15615
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15616
+D2
+~
+~
+0 0 15480
+D3
+~
+~
+0 0 15614
+S
+#15616
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15617
+D2
+~
+~
+0 0 15479
+D3
+~
+~
+0 0 15615
+S
+#15617
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15618
+D2
+~
+~
+0 0 15441
+D3
+~
+~
+0 0 15616
+S
+#15618
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15619
+D2
+~
+~
+0 0 15502
+D3
+~
+~
+0 0 15617
+R M 0 15282 20 15618
+S
+#15619
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15620
+D2
+~
+~
+0 0 15503
+D3
+~
+~
+0 0 15618
+S
+#15620
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15621
+D2
+~
+~
+0 0 15504
+D3
+~
+~
+0 0 15619
+S
+#15621
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15622
+D2
+~
+~
+0 0 15505
+D3
+~
+~
+0 0 15620
+S
+#15622
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15623
+D2
+~
+~
+0 0 15506
+D3
+~
+~
+0 0 15621
+S
+#15623
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15624
+D2
+~
+~
+0 0 15610
+D3
+~
+~
+0 0 15622
+R M 0 15282 20 15623
+S
+#15624
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15625
+D2
+~
+~
+0 0 15609
+D3
+~
+~
+0 0 15623
+S
+#15625
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15626
+D2
+~
+~
+0 0 15608
+D3
+~
+~
+0 0 15624
+S
+#15626
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15627
+D2
+~
+~
+0 0 15607
+D3
+~
+~
+0 0 15625
+S
+#15627
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15628
+D2
+~
+~
+0 0 15606
+D3
+~
+~
+0 0 15626
+S
+#15628
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15629
+D2
+~
+~
+0 0 15605
+D3
+~
+~
+0 0 15627
+S
+#15629
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15630
+D2
+~
+~
+0 0 15604
+D3
+~
+~
+0 0 15628
+R M 0 15282 20 15629
+S
+#15630
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15645
+D2
+~
+~
+0 0 15603
+D3
+~
+~
+0 0 15629
+S
+#15631
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15662
+D2
+~
+~
+0 0 15666
+R M 0 15281 20 15631
+S
+#15632
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D2
+~
+~
+0 0 15668
+D3
+~
+~
+0 0 15633
+S
+#15633
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15632
+D2
+~
+~
+0 0 15669
+D3
+~
+~
+0 0 15634
+S
+#15634
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15633
+D2
+~
+~
+0 0 15670
+D3
+~
+~
+0 0 15635
+S
+#15635
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15634
+D2
+~
+~
+0 0 15671
+D3
+~
+~
+0 0 15636
+S
+#15636
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15635
+D2
+~
+~
+0 0 15672
+D3
+~
+~
+0 0 15637
+S
+#15637
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15636
+D2
+~
+~
+0 0 15673
+D3
+~
+~
+0 0 15638
+S
+#15638
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15637
+D2
+~
+~
+0 0 15674
+D3
+~
+~
+0 0 15639
+S
+#15639
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15638
+D2
+~
+~
+0 0 15675
+D3
+~
+~
+0 0 15640
+S
+#15640
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15639
+D2
+~
+~
+0 0 15676
+D3
+~
+~
+0 0 15641
+S
+#15641
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15640
+D2
+~
+~
+0 0 15677
+D3
+~
+~
+0 0 15642
+R M 0 15281 20 15641
+S
+#15642
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15641
+D2
+~
+~
+0 0 15678
+D3
+~
+~
+0 0 15643
+S
+#15643
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15453
+D1
+~
+~
+0 0 15642
+D2
+~
+~
+0 0 15679
+D3
+~
+~
+0 0 15644
+S
+#15644
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15463
+D1
+~
+~
+0 0 15643
+D2
+~
+~
+0 0 15680
+S
+#15645
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D2
+~
+~
+0 0 15646
+D3
+~
+~
+0 0 15630
+S
+#15646
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15645
+D2
+~
+~
+0 0 15647
+D3
+~
+~
+0 0 15603
+S
+#15647
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15646
+D2
+~
+~
+0 0 15648
+D3
+~
+~
+0 0 15595
+S
+#15648
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15647
+D2
+~
+~
+0 0 15649
+D3
+~
+~
+0 0 15587
+S
+#15649
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15648
+D2
+~
+~
+0 0 15650
+D3
+~
+~
+0 0 15579
+S
+#15650
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15649
+D2
+~
+~
+0 0 15651
+D3
+~
+~
+0 0 15571
+S
+#15651
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15650
+D2
+~
+~
+0 0 15652
+D3
+~
+~
+0 0 15563
+S
+#15652
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15651
+D2
+~
+~
+0 0 15653
+D3
+~
+~
+0 0 15555
+S
+#15653
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15652
+D2
+~
+~
+0 0 15654
+D3
+~
+~
+0 0 15547
+R M 0 15288 10 15653
+S
+#15654
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15653
+D2
+~
+~
+0 0 15655
+D3
+~
+~
+0 0 15539
+S
+#15655
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15654
+D2
+~
+~
+0 0 15656
+D3
+~
+~
+0 0 15531
+S
+#15656
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15655
+D2
+~
+~
+0 0 15657
+D3
+~
+~
+0 0 15523
+S
+#15657
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15656
+D2
+~
+~
+0 0 15658
+D3
+~
+~
+0 0 15515
+S
+#15658
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15657
+D2
+~
+~
+0 0 15659
+D3
+~
+~
+0 0 15507
+S
+#15659
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15658
+D2
+~
+~
+0 0 15660
+S
+#15660
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15659
+D2
+~
+~
+0 0 15661
+R M 0 15288 10 15660
+S
+#15661
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15660
+D2
+~
+~
+0 0 15662
+S
+#15662
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15661
+D2
+~
+~
+0 0 15667
+D3
+~
+~
+0 0 15631
+S
+#15663
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15664
+S
+#15664
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15665
+D3
+~
+~
+0 0 15663
+S
+#15665
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D1
+~
+~
+0 0 15666
+D3
+~
+~
+0 0 15664
+S
+#15666
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15631
+D1
+~
+~
+0 0 15667
+D3
+~
+~
+0 0 15665
+S
+#15667
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15662
+D3
+~
+~
+0 0 15666
+S
+#15668
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15632
+D3
+~
+~
+0 0 15669
+S
+#15669
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15633
+D1
+~
+~
+0 0 15668
+D3
+~
+~
+0 0 15670
+S
+#15670
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15634
+D1
+~
+~
+0 0 15669
+D3
+~
+~
+0 0 15671
+R M 0 15283 20 15670
+S
+#15671
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15635
+D1
+~
+~
+0 0 15670
+D3
+~
+~
+0 0 15672
+S
+#15672
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15636
+D1
+~
+~
+0 0 15671
+D3
+~
+~
+0 0 15673
+R M 0 15282 20 15672
+S
+#15673
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15637
+D1
+~
+~
+0 0 15672
+D3
+~
+~
+0 0 15674
+S
+#15674
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15638
+D1
+~
+~
+0 0 15673
+D3
+~
+~
+0 0 15675
+S
+#15675
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15639
+D1
+~
+~
+0 0 15674
+D3
+~
+~
+0 0 15676
+S
+#15676
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15640
+D1
+~
+~
+0 0 15675
+D3
+~
+~
+0 0 15677
+S
+#15677
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15641
+D1
+~
+~
+0 0 15676
+D3
+~
+~
+0 0 15678
+R M 0 15283 20 15677
+S
+#15678
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15642
+D1
+~
+~
+0 0 15677
+D3
+~
+~
+0 0 15679
+S
+#15679
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15643
+D1
+~
+~
+0 0 15678
+D3
+~
+~
+0 0 15680
+S
+#15680
+The Dark Woods~
+~
+Youre inside a thickly wooded forest. Its very dark and ominous as the huge 
+oak trees tower above you. Its also a bit humid. The ground is lush and ripe 
+with life. Something is strange though. You almost feel like youre being 
+watched. To make things even more strange... You feel like your being 
+watched by the Trees... 
+~
+1 0 3
+D0
+~
+~
+0 0 15644
+D1
+~
+~
+0 0 15679
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

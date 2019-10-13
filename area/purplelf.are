@@ -1,0 +1,4572 @@
+#AREA        City of Antyr~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2800
+wench~
+wench~
+The waitress, Wench, leans over and asks you for your order.
+~
+Sexy doesn't begin to describe Wench.  The only one who knows this
+fantastic feline's real name is Jorinth, and by the glint in his eyes, he's
+not telling.  When Wench moves, eyes turn.  The tail swishes behind her
+gracefully, and her hips sway in an opposite direction.  Her white fur is so
+thin that you barely notice it, and her hair is so full that it covers most
+of the two pointed ears at the top of her head.  She is exotic, and many
+proposition her.  Few get the answer they desire.  
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+67 33 -36 7d10+345 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2801
+Waif~
+a starving waif~
+A starving waif eyes you from the shadows.
+~
+This waif seems not to have eaten in days.  You almost feel pity for the 
+dirty child - but then you see the glint of metal in the hand, and think 
+again.  
+~
+0
+Clanname none~
+0
+0
+5 32768 -600 C
+55 27 -24 5d9+295 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2802
+Living Magic Blob~
+a living magic blob~
+The blob that's oozing to you is made of living magic.
+~
+It's a blob. It oozes. It's horrifying and black. Ick.
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+73 36 -42 7d11+365 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2803
+banker~
+the banker~
+A banker is here, ready to do business.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2804
+Jorinth Durendal, the Proprietor~
+jorinth, the Proprietor~
+Jorinth grants you the crooked smile of a rogueish proprietor.
+~
+White hair and pale, almost colorless blue eyes dazzle you with his
+obvious sense of humor.  He looks you, grins, and is full of energy, but
+something in his eyes speaks of secrets and age.  Nobody can tell how old
+Jorinth is, but they all have rumors.  He wears a teal tunic with a black
+belt, and a thin silver chain.  Flipping the glasses (and liquor) is a
+specialty of his, and he never spills.  He's a clown, a barkeep, and a
+friend for all.  
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+69 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2808
+Teleporting Mage~
+a teleporting mage~
+This mage is ready to teleport you away!
+~
+Does it matter what this mage looks like?  It's here, it's nasty, and
+it's teleporting you away from your group!  
+~
+0
+Clanname none~
+0
+0
+33 524288 0 C
+70 35 -39 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2809
+sir Corwyn Torymyr~
+sir Corwyn Torymyr~
+Sir Corwyn Torymyr sleeps against the Heart of Stone.
+~
+His russet hair hangs loose around his sleeping face.  His right arm is
+crossed over his chest, and his left arm lies limp by his side.  He looks
+you, and is dressed in a sort of harlequin's outfit which lends him a comic
+look.  He's so peaceful the way he is, that you wonder if you should - or
+could wake him.  
+~
+0
+Clanname none~
+0
+0
+3 524288 600 C
+75 38 -44 7d11+380 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2810
+cookie dwarf~
+a grumbling old dwarf~
+Hunched over a pot of wonderful-smelling stew is a grumbling dwarf.
+~
+Grumbling and grizzled, yet fully capable, the Purple Elf's Master Chef,
+a dwarf, commands this kitchen like most lead a battle.  His eyes dart from
+pot to pot making certain the flambe flames, the stew bubbles, and the
+chocolate cream pie is at its fluffiest.  Odd that he'd answer only to the
+name "Cookie."  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+60 30 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2811
+blesk~
+blesk~
+Blesk moves from bar to drinkers.
+~
+Blesk is a stark young woman with a very serious expression.  Her short
+hair is cut in a bob, difficult to grab onto, and her icy eyes seem to see
+distant lands.  She serves the drinks with a plastered-on pretense at a
+smile, and shies from male contact, like a frightened filly.  
+~
+0
+Clanname none~
+0
+0
+3 65536 0 C
+65 32 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2812
+tiny, the Bouncer~
+tiny, the Bouncer~
+Tiny, the Bouncer, leans against the wall and watches for trouble.
+~
+Tiny is anything but.  He's huge, and despite his broad grin you feel
+he's got something more brutal than a kind greeting in his mind.  He's the
+bouncer, and he's good at his job.  You can just picture some troublemaker
+sailing through the door when you look at his broad biceps.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+69 36 -38 7d10+355 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2813
+Customer of the Purple Elf~
+a customer of the Purple Elf~
+A customer of the Purple Elf Tavern enjoys the service here.
+~
+This is one of the many customers of the Tavern and Inn.  They come in
+many shapes and sizes, and seem to be fairly generic.  
+Yes, folks. This is a "generic" mob!
+~
+0
+Clanname none~
+0
+0
+1 4096 0 C
+61 31 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2814
+mahcree Galon~
+mahcree Galon~
+Mahcree Galon plays drums for her husband.
+~
+Mahcree is a pretty woman with curly black hair tumbling over her petite
+shoulders.  Her emerald eyes sparkle brightly, and her pug nose is freckled.
+She seems engrossed with the drum-playing.  
+~
+0
+Clanname none~
+0
+0
+3 128 600 C
+70 35 -40 7d10+360 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2815
+finn Galon~
+finn Galon~
+Finn Galon stands and sings for the customers.
+~
+Finn Galon looks like the perfect match for his wife.  His hair is also
+black, eyes green, but his nose is long and thin, and his beard cropped.  He
+sings out to the audience with a spirited manner, the words pouring from his
+mouth in a thick accent.  
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+70 35 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2816
+Shadowed Figure~
+a mysterious shadowed figure~
+A mysterious shadowed figure looks at you appraisingly.
+~
+This mysterious shadowed figure gives you the chills.  He's strong, he's
+powerful.  You sense that.  You also sense that he could rob you blind, have
+you assassinated, or see to your fondest "pleasures."  He is, by your best
+guess, The Aenel, Guildmaster to Antyr City.  
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+65 33 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2817
+Guild Member~
+a Guild Member~
+One of the Guild's Members moves silently about.
+~
+From what you can see, this is a member of the infamous Guild of
+Thieves.  But they'd never admit that.  In fact, if asked, they'd tell you
+they work for Jorinth, and they're just fetching wine.  Somehow, you don't
+quite know whether you should believe them.  
+~
+0
+Clanname none~
+0
+0
+1 65536 -600 C
+63 31 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2818
+dundar, the Training Master~
+dundar, the Training Master~
+Dundar, the Training Master waits for YOU.
+~
+This thing is big.  It's hideous.  It's big.  It's grotesque.  It's big. 
+It's waiting to train, gain, or practice you.  Did I mention it's big?  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+125 33 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2820
+armand~
+armand~
+The keeper of the shop, Armand, will buy most any corpse in tact.
+~
+His scales are green, his eyes slitted and cold.  He waits to buy your
+corpses, and you should be glad that it's not YOUR funeral.  
+~
+0
+Clanname none~
+0
+0
+3 32 0 C
+125 35 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2828
+Karin Bricton, the Fence~
+karin, the Fence~
+Karin, the Fence of Antyr, polishes a "pure" diamond.
+~
+This woman is tiny, but small packages often contain the biggest boom. 
+Rumor has it the last person who tried to sell her impure gems got screamed
+at so loudly they were deaf for a month after.  She's also observant.  Be
+wary if you desire to steal from her.  She's been known to bite fingers off.
+Quite a lot for such a tiny package.  
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+75 38 -44 7d11+375 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2830
+mahtell, the Tailor~
+mahtell, the Tailor~
+Mahtell, the Tailor, brushes lint off an overpriced cloak.
+~
+This orc is handsome, as orcs go.  He's so over-dressed that you find
+yourself sweating for him.  The clothes he wears and sells are lovely, and
+even look good on him, though he *is* but an orc.  He glances at you with a
+scowl, and pulls out a tape measure.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+64 30 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2831
+Armand, the Undertaker~
+armand the Undertaker~
+Armand, the Undertaker, sweeps the ashes into the furnace.
+~
+This bipedal lizard creature is dressed entirely in black and grey, with
+a dusty apron tied around his scaly waist.  His forked tongue flicks out
+time and again, and his slitted eyes turn to you when you enter.  He grins
+at you (not a pleasant sight), and says "SSsssssooo, do you want to
+SssssSSssell me any bodiesssSSsss?"  
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+70 30 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2832
+Molly, the Fishmonger's Wife~
+molly, the fishmonger's wife~
+Molly Malone, the Fishmonger's wife, sells her cockles and mussels here.
+~
+Sweet Molly Malone, fair young wife of a fishmonger, keeps this sky-high
+restauraunt nice and clean.  Her fish are fresh and cooked to perfection,
+served with lightly garlicked butter.  Her grey eyes sparkle until they
+almost seem like silver, and her hair, wispy and feathery, is a glistening
+blonde.  She's very much like a young sparrow, sweet and birdlike, right
+down to the soft beak on her face, where her mouth should be, not to mention
+her wings.  
+~
+0
+Clanname none~
+0
+0
+3 524288 600 C
+78 37 -48 8d11+390 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2833
+Gondollaren~
+elbwyth's flunkee Gondollaren~
+Elbwyth's harried flunkee, Gondolarren, is here.
+~
+Slender and harried, this young man looks harmless, but wise.  He goes
+over the various exotic magical items while waiting for you to make a
+decision.  His wiry silver hair is matted to his skull, and his golden eyes
+dart from left to right, as if he trusts none.  
+~
+0
+Clanname none~
+0
+0
+5 524288 0 C
+70 35 -39 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2834
+Sepha~
+a sexy fox-lady~
+Sepha, the sexy fox-lady dangles a set of keys in front of you.
+~
+This lady is unique in many ways.  Like a bipedal fox, she has curves
+where they should be, an elongated, though delicate muzzle, and such
+adorable fangs.  She holds a set of keys, and whispers "I got something you
+could use."  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+70 35 -39 7d10+355 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2835
+pakat, the Falconer~
+pakat, the Falconer~
+The falconer, Pakat, polishes a golden owl.
+~
+This draconian seems as cold as the metal he works in, but his eyes spark
+with an inner fire.  The fire is seen in all his work, pieces of art to be
+treasured a lifetime.  
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+60 30 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2839
+Fire Guard~
+a monsterously giant Fire Guard~
+The tower is well-guarded here by Elbwyth's hired Fire Guard.
+~
+This huge fire giant glares down at you menacingly.  His eyes glow a
+bright orange, and sparks fly from his fingertips.  Everything about him is
+large, from his toes to his head, and back down to his fist.  
+~
+0
+Clanname none~
+0
+0
+3 32 -600 C
+60 30 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2840
+Journeyman~
+a journeyman~
+A journeyman mage learning from Elbwyth watches the younger students.
+~
+This student's in the mid-20s, and the snob effect has set in. 
+Determined to swagger the worth of the Journeyman over the persistance of
+the Apprentice, the student sneers at everyone who passes by.  
+~
+0
+Clanname none~
+0
+0
+1 4096 -600 C
+72 36 -41 7d11+360 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2841
+Apprentice~
+an apprentice~
+A teenager, one of Elbwyth's apprentices, practices spells.
+~
+This apprentice is practicing casting "color" cantrips.  You can tell
+that there's been some minor successes.  You'd never think anyone would wear
+an outfit that loud.  The pimples break out all over the kid's face, lending
+an almost comical look to the scene.  
+~
+0
+Clanname none~
+0
+0
+1 4096 600 C
+70 35 -39 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2845
+Elbwyth, the Fire Adept~
+elbwyth the Fire Adept~
+Elbwyth peers coldly at you, waiting for your move.
+~
+This arrogant man tosses his head haughtily, eats his food with pride and
+snobbery, and even pees insouciantly.  He's rude, but he's earned the right.
+He's got power behind him, and that's enough to ignore his attitude.  He's
+medium-sized, got silver hair, and black eyes which seem to send shivers
+down your spine.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+72 0 -41 7d11+360 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2846
+Dragonlet~
+a baby dragon~
+A baby dragon wants to play with you. Better run.
+~
+This er - little?  - dragonlet peers at you playfully.  Unfortunately,
+dragon play isn't so innocent.  Or so save.  The scales are a beautiful
+array of colors glistening with the oil the apprentices risk life and limb
+(and sanity) to rub into them.  Their fangs and breaths are even deadlier.  
+~
+0
+Clanname none~
+0
+0
+1 524288 -600 C
+71 36 -41 7d11+365 8d8+35
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2848
+Kendra's Druids~
+one of Kendra's Druids~
+One of Kendra's Druids tends to the flora and fauna.
+~
+These followers tend to be dressed in sturdy outfits, well-suited for
+kneeling in the dirt.  They each have many pockets in the outfit, to hold
+various seeds, feeds, and implements of gardening.  This one grants you a
+pleasant smile, eyes twinkling with the light of the world.  
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+65 33 -35 6d10+340 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2850
+Brigannia, High Priestess of Kendra~
+high priestess~
+The High Priestess of Kendra, Humble Brigannia, plants a flower here
+~
+Mature and quiet, this woman kneels in the dirt, unafraid to get filthy. 
+Her fingers are covered with grime, and the brown stain across her pug nose
+shows she's been having fun.  She glints a smile at you, and half-whispers
+"Need a heal, friend?"  
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2851
+bluten's Bereaver~
+bluten's Bereaver~
+A Bereaver of the goddess Bluten quietly passes by you.
+~
+These followers of the goddess Bluten are the ones usually called on to
+supervise funerals, stand as midwives, and help those who feel despair. 
+They're calm and quiet, as well as somber and aware.  
+~
+0
+Clanname none~
+0
+0
+1 32768 0 C
+58 31 -32 6d10+325 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2852
+child~
+a young child~
+A child is here drawing a pretty sun on the wall with a yellow crayon.
+~
+This child looks innocent but there is something strange about them.
+~
+0
+Clanname none~
+0
+0
+129 0 600 C
+58 20 -29 6d9+315 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2853
+Romeire's General~
+romiere's General~
+Pacing back and forth, one of Romiere's Generals makes plans for a war to come.
+~
+Yo, ho, ho!  This General of Romiere's knows the life of the sea, of war,
+and of the benefit of a good drink.  The goddess treats her followers well,
+and they serve her even better by doling out blood where it's needed, and
+sometimes where it's not, when they've had one too many "toasts to Romiere's
+Guidance."  
+~
+0
+Clanname none~
+0
+0
+1 8 0 C
+52 40 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2854
+Adherant to M'jor~
+an Adherant to M'jor~
+An Adherant to M'jor wanders the room engrossed with a book.
+~
+Scholarly folk these, they vary from the quiet to the somewhat quiet,
+with nary a scream between.  The wolf is the creature they're most fond of,
+and seldom is one seen without a charm or bracelet, or even a book of the
+creatures.  This one seems too busy with the book to notice you.  
+~
+0
+Clanname none~
+0
+0
+1 512 600 C
+63 32 -32 6d10+325 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2855
+Shastromm's "Friend"~
+one of Shastromm's "friends"~
+Shastromm's "friend" wants to make you a "friend" too.
+~
+Man, woman, it doesn't matter.  All of Shastromm's "Friends" are gorgeous
+- unless they're not.  Their hair, their smiles, everything about them is
+sensual, a little off-the-wall, and very playful.  This one seems to want to
+play with you.  
+~
+0
+Clanname none~
+0
+0
+1 0 -600 C
+60 32 -33 6d10+330 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2856
+aenel's Own~
+aenel's Own~
+In the darkness, Aenel's Own lurks.
+~
+You see a blur, maybe.  Maybe you see a laughing face.  There's a
+possibility this one might be sitting and playing an instrument.  Aenel's
+Own come in many forms, specializing in various areas of Aenel's power. 
+Some are musicians, some are thieves.  Some could be dreamers, and others
+romantics.  Most of them, however, enjoy a good snowball fight.  
+~
+0
+Clanname none~
+0
+0
+1 32768 -600 C
+55 34 -34 6d10+340 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2858
+danna the Spinner~
+danna the Spinner~
+This old woman, Danna by the letter on the floor, is rocking back and forth as she spins.
+~
+As dirty as this place is, that is how clean this old woman is.  Goblin
+or not, she's clean.  She spins her wool with deft fingers, murmuring to
+herself as she goes.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+58 27 -28 6d9+310 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2859
+Merchant of Antyr~
+a fat merchant~
+A fat merchant strolls the street here.
+~
+This fat merchant shows that money's not the only thing he hoards.  His
+belly hangs over his over-stuffed pants, and his eyes seem to dart back and
+forth as if reading the ledgers.  The way he sticks his nose in the air,
+you'd presume he's thinking of his favorite dream - riding the waves of a
+mountain of gold.  It's too bad his breath is so bad.  
+~
+0
+Clanname none~
+0
+0
+129 4096 0 C
+60 35 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2862
+Madame Brandoline~
+brandoline~
+Madame Brandoline lounges on the love-seat while grapes are fed to her.
+~
+First you see her perfect leg.  Then you see her perfect torso.  Your
+eyes travel up to the sensual curves of her chest, then to the delicately
+pouting lips.  She seems to exhude the aura of "come and get it, handsome." 
+You notice, however, she's the only one not looking to cling to a man or
+woman.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+68 30 -38 7d10+350 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2863
+Entertainment Advisor~
+an entertainment advisor~
+This entertainment advisor would like to see that you are happy.
+~
+You'd never imagine such beauty and nimbleness was possible, but looking
+at this advisor, you see it's true.  Advisors range from all areas and
+appearances, and possess varying skills: Massages, oils, tickling to mention
+a few.  
+~
+0
+Clanname none~
+0
+0
+1 0 -600 C
+66 32 -35 6d10+340 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2868
+Antyr City Guard~
+the Antyr City Guard~
+One of Antyr City's fine guards is cramped in here.
+~
+The Antyr City is known for its fine guards.  Nothing happens without
+them knowing.  Of course, there are rumors that the thieve's guild owns
+them, but none can say for certain.  This one's a female orc, with long
+protruding yellow fangs hanging up from her lower jaw.  She looks bored.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+65 32 -34 6d10+340 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2870
+Grouchy Farmer~
+a grouchy farmer~
+This grouchy farmer seems angry with everything.
+~
+This farmer growls at you just before attacking.  It's obvious from his
+snarl that he's been waiting for a stranger to come by, so he could bite
+their head off.  You just happened to be the "lucky" one.  
+~
+0
+Clanname none~
+0
+0
+33 1024 -600 C
+58 33 -36 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2871
+Depra~
+a depra~
+A depra grazes here.
+~
+Depra are unusual beasts.  Though they look like miniature deer, they
+have hooves which are longer, fangs, and their horns are wider.  The fur is
+pale, usually white.  Their skins are tough, so hard that a knife can't cut
+through it unless it's sharpened recently.  The inside of the fangs is
+acidic, for their self-preservation, and their meat is particularly juicy. 
+This one grazes - on the mice and other small creatures in the field.  
+~
+0
+Clanname none~
+0
+0
+129 32768 600 C
+65 33 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2872
+Farmer's Daughter~
+the farmer's daughter~
+The farmer's daughter is on the prowl for the ploughboy.
+~
+This girl's very pretty - and very unlucky.  She's cursed in two ways: A
+grouchy farmer, and a ploughboy who prefers others, whether they be another
+girl, a depra, or another ploughboy.  She's got the loveliest emerald eyes,
+and a cute little giggle.  
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+67 34 -37 7d10+345 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2873
+Pretty Ploughboy~
+a pretty ploughboy~
+A pretty ploughboy is divided between work and running from the farmer's daughter.
+~
+On our farm a pretty ploughboy was employed,
+So I took a twist that he could not avoid.
+But all my tricks were all in vain,
+I can not really explain,
+That 'twas other pretty ploughboys he enjoyed.
+~
+0
+Clanname none~
+0
+0
+129 4096 600 C
+68 34 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2874
+Farmer's Wife~
+the farmer's wife~
+The farmer's wife hunts for her husband.
+~
+This woman's MEAN.  She's angry.  She's on the hunt.  You're just lucky
+it's not for you, but for her husband.  
+~
+0
+Clanname none~
+0
+0
+1 0 600 C
+69 34 -39 7d10+360 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2875
+fart~
+(no short description)~
+(no long description)
+~
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+125 0 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2882
+Arch Wight~
+an arch wight~
+This arch wight screeches silently at you, ready to drain your life.
+~
+The ice chills to the depths of your soul.  Every howl you would hear if
+there was sound reaches your heart, and freezes you.  You try to scream, but no
+sound comes out.  Where you look, the figure floats, red eyes blazing, claws
+out and slashing, calling, calling to come to you, bring you to your end. 
+End your life, and force you to join it.  What pitiful thing was the cause
+of this?  
+~
+0
+Clanname none~
+0
+0
+1 0 -600 C
+68 35 -39 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2883
+Pooka~
+a pooka~
+A pooka gallops through the forest.
+~
+Eight legs, flaming golden eyes, three tails, and an attitude: the signs
+of a pooka.  This is one, and a pretty nasty one at that.  One thing you
+don't want to think about is how much pain a kick would cause you.  
+~
+0
+Clanname none~
+0
+0
+33 512 -600 C
+66 36 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2884
+Spectral Woodcutter~
+a spectral woodcutter~
+The spectral woodcutter turns his axe on you as you approach.
+~
+This lumberjack got stuck in the forest when the tragic crack of the
+Heart of Stone happened.  Bit by bit it seeped his life away until all
+that's left is what you see.  He's large, bearded, angry, and curiously
+bereft of clear thought.  He stumbles toward you with no aim or purpose. 
+He's evil and undead, true.  But you can't but help pity him before you
+realize it's fight or flee.  
+~
+0
+Clanname none~
+0
+0
+1 0 -600 C
+74 37 -44 7d11+380 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2895
+Fisherman~
+a burly fisherman~
+This fisherman looks as used to the ocean as he is his own nose.
+~
+Haul away, haul away, Joe.  This "Joe" is no small man, as you can tell
+by the muscles that bulge when he lifts the nets full of fis.  His scraggly
+beard seems to fit his image, the way a slinking walk does a seductress's
+life.  He whistles when he works, and calls to his "mateys" never seeming
+down, never seeming upset - except when he's had too much rum, and feels
+like a fight.  
+~
+0
+Clanname none~
+0
+0
+1 32 0 C
+55 27 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2896
+Giant Crab~
+a giant crab~
+A Giant Crab looks angry - maybe with you?
+~
+YEEE gods!  Crabs should never GROW this big!  You'd better be hungry if
+you plan on eating this one!  Its eyes talks themselves are the length of
+its arms.  Its claws could snap your body in half.  Got butter?  
+~
+0
+Clanname none~
+0
+0
+33 0 -600 C
+55 28 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2897
+Giant Squid~
+a Giant Squid~
+This is a giant squid...you begin to wonder if all the fish are this big in these parts.
+~
+Tentacles are everywhere you look.  It's amazing how many these fish
+have.  You have no time to speculate on how this colossal calamari would
+taste, however, because it looks as if it's already decided on how to spice
+YOU!  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+57 0 -27 6d9+305 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2898
+Pirannha~
+a pirannha~
+A pirannha darts around in the ocean...out of its element? Odd.
+~
+For some odd reason these oceans have fish that are never seen in salt
+water.  Maybe they're not normal?  The answer to the size question is here,
+though.  These pirannha are tiny, though just as viscious as ever.  Maybe
+you should take care.  
+~
+0
+Clanname none~
+0
+0
+33 524288 -600 C
+59 27 -29 6d9+315 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2899
+Sea Horse~
+a rare Sea Horse~
+A rare Sea Horse holds dominion over the ocean.
+~
+This is a "fish" the likes of which you have never seen.  A cross between
+the common centaur and the whale, this sentient fish watches you through
+black eyes.  Odd expressions flick over its horsey face, as it examines you.
+~
+0
+Clanname none~
+0
+0
+1 512 600 C
+60 30 -30 6d9+320 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2800
+portal to Antyr~
+`#`wPortal to `YA`yntyr`^~
+Portal to Antyr~
+~
+29 0 16
+0 4 2800 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2801
+Rusted Spike~
+`#`wa `yr`wu`ys`wt`yy spike`^~
+This rusted spike drips with a coppery-brown ooze.~
+~
+5 128 4
+6 70 85 128 0 0 0
+1 1650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2802
+none~
+none~
+None~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2803
+FlipFlop~
+`mthe `MFlip`mFlop`^~
+A wide glass of the FlipFlop~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2804
+Hot Spiced Rum~
+a mug of hot `#`yspiced`^ rum~
+A mug of Hot Spiced Rum~
+~
+17 0 16
+3 34 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2805
+catnip~
+catnip~
+A sprig of catnip~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 333 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2806
+Key~
+a bright `#`ycopper key`^~
+A bright copper key~
+~
+18 32 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2807
+glass namesake~
+`#`wa `sglass `wof the `cNamesake`^~
+This is a dark fluted glass of the Bar's most famous drink, the Namesake.~
+~
+17 0 16
+4 8 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2808
+Wench's Honey Brew~
+`#`Yw`yench's `Yh`yoney brew`^~
+A mug of Wench's Honey Brew~
+~
+17 0 16
+5 20 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2809
+Plain Silver Neck-chain~
+`#`wa plain `ssilver `wneck-`schain`^~
+A plain silver neck-chain, unnoticeable unless you really look, glimmers in your hand.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 831 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2810
+iron ladle~
+a `#`sheavy iron`^ ladle~
+A battered old heavy iron ladle is here, stained with sauces and stew~
+~
+5 0 4
+8 81 102 1 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2811
+chainmail apron cookie~
+`#`wa `schainmail `wapron with the nametag "`RC`ro`Ro`rk`Ri`re`w"`^~
+A chainmail apron that's elegantly linked into shape with skill only dwarven smiths possess.~
+~
+9 256 8
+45 45 15 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2812
+piles gold silver~
+`#`wpiles of `Ygold `wand `ssilver`^~
+Piles of gold and silver wait for your taking.~
+~
+20 0 16
+20 0 0 0 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2813
+Room Key~
+a room key~
+This is a room key to some room somewhere.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2814
+Bodhran~
+`#`wa `sbodhran`^~
+A bodhran, a type of drum, is waiting to be played.~
+~
+9 2 8
+50 50 16 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2815
+Illicit Key~
+an illicit key~
+An illicit key, unauthorized by the owner of the lock.~
+~
+18 64 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2816
+Knife~
+`#`wa `sknife`^~
+This knife seems so plain, and yet so deadly.~
+~
+5 128 4
+8 81 117 144 0 0 0
+1 2100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2817
+Lockpick~
+`#`wa `slockpick`^~
+This lockpick *might* be useful on a door or two.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2818
+Fruitte d'Maire~
+`#`MF`mruitte `Md`m'Maire`^~
+A serving of Fruitte d'Maire~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2819
+Sushi~
+`#`wsome assorted `rsushi`^~
+A plate of assorted sushi~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2820
+Illuminated Text~
+`#`wan `Wi`wl`Wl`wu`Wm`wi`Wn`wa`Wt`we`Wd `wtext`^~
+This heavy book has carefully-drawn magical letters and intricate and colorful pictures in the borders.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2821
+potion guards haste giant strength bless~
+`#`wthe `yPotion `wof the `sGuards`^~
+The potion of the guards is carefully concocted to protect you.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2822
+Herb Wise~
+`#`wthe `GH`gerb `wof the `YW`yise`^~
+This herb will help you "see."~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2823
+Long Tunic~
+`#`wa `GL`go`Gn`gg `WT`wunic`^~
+This long tunic comes to just above your knees. It's an elegant ruby shade with gold trim.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2824
+Lady's Dress Gown~
+`#`wa `WL`wa`Wd`wy`W's `GD`gr`Ge`gs`Gs `WG`wo`Ww`wn`^~
+A fancy dress gown waits for the right Lady to wear it.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2824 gown~
+This gown is gorgeous and expensive.  The forest green material hangs
+over the hoop in soft pleats, rippling down until it reaches the floor.  The
+bottom hem is gathered in even areas, pinned to the higher portion of the
+skirt by golden brooches.  The front part of the dress parts to show the
+under-skirt, which is a soft black and gold hatch-pattern.  This pattern and
+material is used for the front portion of the bodice, and on the inside of
+the sleeves, which hang down to the mid-thigh.  The rest of the bodice is
+snugly fit around the torso, tied tightly in the back by gold and black
+laces.  The puffed sleeves are echoed by a high back collar which rolls
+softly at the top of the neck, just below the cranium.  The front neckline
+is boxed, and pushes the breasts up to enhance the cleavage..  The hem of
+the bodice is a layer of boxed greens over boxed black and gold, offset
+half-way so they both show simultaneously.  All trim is in black and gold,
+to finish the complete look of this very rich Lady's Gown.  
+~
+#2825
+gold and diamond brooch~
+`#`wa `Yg`yo`Yl`yd `wand `Wd`wi`Wa`wm`Wo`wn`Wd `wbrooch`^~
+This brooch is made of 18 karat gold and 4 .25 karat diamonds - or so the Fence claims.~
+~
+9 1 8
+10 10 7 0 0 0 0
+1 1050 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2826
+Onyx chopsticks~
+`#`wa pair of `Sonyx `wchopsticks`^~
+These chopsticks are purely ornamental: things a wealthy merchant would have in his house to show off by.~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2827
+Uncut Starstone~
+`#`wan uncut `Cs`ctar`Cs`ctone`^~
+This brilliant stone glistens and hums, bright as a fallen star, cool as the winter's breeze.~
+~
+33 2 32
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2828
+Golden Owl~
+`#`ya `Yg`yo`Yl`yd`Ye`yn owl`^~
+This golden owl would look lovely on your shelf at home.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2829
+Engraved ruby falcon~
+`#`wan engraved `Rr`ru`Rb`ry `wfalcon`^~
+This ruby falcon seems almost alive. Each feather has been handled with such love and devotion that you'd swear it would begin to flap.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2830
+Diamond bird-feeder~
+`#`wa `Cd`ci`Wa`wm`Co`cn`Wd `wbird-feeder`^~
+This diamond birdfeeder's beautifully designed to hang from your tree (and weight it down).~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2831
+Gem-encrusted perch~
+`#`wa `Rg`re`Rm-`re`Rn`rc`Rr`ru`Rs`rt`Re`rd `wperch`^~
+Your bird will feel like a king when he sits upon a perch of rubies, opals, onyx, diamonds, emeralds, and many other expensive stones.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2832
+Calamari Rings~
+`#`ycalamari rings`^~
+An order of calamari rings~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2833
+Well Gods~
+the Well of the Gods~
+The Well of the Gods stands regally in the center of the area.~
+~
+25 256 16
+-1 0 0 0 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2834
+bucket~
+a bucket for the well~
+A bucket lies against the well.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2837
+Fire~
+fire~
+What am I?~
+~
+29 0 16
+0 0 2838 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2839
+weapons rack~
+a weapons rack~
+`#`wA `ywooden `wrack lined with `sweapons.`^~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2840
+Journeyman's Anklet~
+`#`wa `RJ`rourneyman's `sAnklet`^~
+A blazing red anklet, worn by Elbwyth's Journeymen, dangles from your fingers.~
+~
+9 0 8
+50 50 12 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2845
+Adept's Staff of Power~
+`#`wthe Adept's `sStaff `wof `RPower`^~
+This gnarled and long staff is undecorated, unless you count the nearly invisible runes that cover every inch of the jet-black wood surface of it.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#2850
+Belt gardener~
+`#`wa beautiful `sBelt `wof the `GG`gardener`^~
+This belt is sturdy as it is elegant. Tools can hang from tiny hooks, and you notice tiny filigree engraved along its length.~
+~
+9 2 8
+45 45 10 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2851
+seed~
+`#`Wa `wsm`Wa`wl`Wl `wseed`^~
+This seed represents a soul of a recently deceased loved one.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2852
+Yellow Crayon~
+`#`ya `Yyellow c`yrayon`^~
+This happy yellow crayon is glad to color your walls for you.~
+~
+3 1 2
+0 0 0 -1 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#2853
+Sword Seafarer~
+`#`wthe `sSword `wof the `BS`be`Ba`bf`Ba`br`Be`br`^~
+This massive Sword, known as the Sword of the Seafarer, is hooked at the tip, and taller than the bearer.~
+~
+5 2 4
+5 65 85 50 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2854
+Book Wise~
+`#`wthe `sBook `wof the `BWise`^~
+A heavy book, this one speaks of all the wisdom in the world.~
+~
+2 2 2
+0 -1 -1 -1 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2855
+Silver Trident Earrings~
+`#`wa pair of `Yg`yl`Yo`yw`Yi`yn`Yg `ssilver `wtrident earrings`^~
+These earrings are shaped as silver tridents, which glow with innate power.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1950 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2856
+Silver Bracer~
+`#`wan unmarked `ssilver bracer`^~
+An unmarked silver bracer waits to be worn.~
+~
+9 256 8
+40 40 8 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2859
+Fat pouch~
+`#`wa `sfat pouch`^~
+This fat pouch looks as if it could hold lots of loot.~
+~
+15 0 8
+5 0 100 100 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2862
+Ostrich Feather~
+`#`wan `yostrich `cfeather`^~
+A long, wispy ostrich feather is tauntingly waiting to be used.~
+~
+3 0 2
+0 0 0 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#2870
+Sickle~
+`#`wa farmer's `ssickle`^~
+This sickle is nasty-looking, though grass-stained.~
+~
+5 2 4
+5 78 101 8 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2872
+Tonin fruit~
+a plate of `#`ytonin fruit`^~
+This plate holds long, stringy fruits of the tonin tree.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2882
+Rotting Corpse~
+`#`sa rotting corpse`^~
+This is a rotting corpse. Maybe you could sell it?~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2883
+Cursed chains~
+`#`ssome `wcursed `schains`^~
+These cursed chains once bound a pooka, now they bind you.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2884
+Spectral Axe~
+`wa `cspectral `saxe`^~
+This spectral axe hums in your hands, and fades out of sight.~
+~
+5 2 4
+7 97 134 96 0 0 0
+1 2300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2895
+Fisherman's net~
+a fisherman's net~
+This fisherman's net is laden with seaweed and barnacles.~
+~
+13 128 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2896
+Giant Crab Claw~
+a giant `#`Rcrab claw`^~
+This crab claw would go well with butter, steamed - but have you got help to finish it?~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2899
+Squid-skin Shield~
+`#`wa `ssquid-skin `wshield`6~
+This shield is covered with the stretched skin of a dead squid.~
+~
+9 0 8
+45 45 15 0 0 0 0
+1 2100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2800
+Gate to Antyr~
+~
+Welcome to the City of Antyr!
+ 
+$__$__$__$              &amp;\      =*|*=      /&amp;              $__$__$__$
+$  $  $  $              &amp; \    ==*|*==    / &amp;              $  $  $  $
+$  $  $  $              &amp;\ \  ===*|*===  / /&amp;              $  $  $  $
+$__$__$__$              &amp;#\ \====*|*====/ /#&amp;              $__$__$__$
+$  $  $  $              &amp;##\ ====*|*==== /##&amp;              $  $  $  $
+$  $  $  $______________&amp;###\====*|*====/###&amp;______________$  $  $  $
+$__$__$__$::::::::::::::&amp;####====*|*====####&amp;::::::::::::::$__$__$__$
+$  $  $  $::::::::::::::&amp;####====*|*====####&amp;::::::::::::::$  $  $  $
+$  $  $  $::::      ::::&amp;####====*|*====####&amp;::::      ::::$  $  $  $
+$__$__$__$::::  **  ::::&amp;####====*|*====####&amp;::::  **  ::::$__$__$__$
+$  $  $  $::::  ||  ::::&amp;####====*|*====####&amp;::::  ||  ::::$  $  $  $
+$  $  $  $::::  ||  ::::&amp;####====*|*====####&amp;::::  ||  ::::$  $  $  $
+$__$__$__$::::  /\  ::::&amp;####====*|*====####&amp;::::  /\  ::::$__$__$__$
+                            /           \
+                           /             \
+ 
+You also notice a plaque on the wall, right next to the gate.
+~
+1 1028 1
+D0
+~
+gate~
+1 0 2801
+E
+plaque~
+This area is made by Eirin
+For levels 55-75.
+ 
+(All stories, most names, and all histories are copyrighted IRL.)
+~
+S
+#2801
+The Courtyard~
+~
+This courtyard is made of close-fitting stones which have been smoothed
+and cleaned to a brilliant white.  Several trees line the courtyard, some
+recognizable, some not.  One tree possesses a golden-hued trunk, and leaves
+that you'd swear were carved of emeralds.  This tree stands to the west,
+leading towards Tethyr Pass.  To your north, you see the Purple Elf Tavern
+and Inn, but oddly, you hear no sounds coming from the building.  To your
+east, you hear the sounds of the ocean in the distance.  
+~
+1 0 1
+D0
+~
+~
+1 0 2804
+D1
+~
+~
+0 0 2802
+D2
+~
+~
+1 0 2800
+D3
+~
+~
+0 0 2803
+R M 0 2801 30 2801
+  R E 0 2801 0 16
+R M 0 2859 15 2801
+E
+door~
+The door to the Purple Elf Tavern is distinct and beautiful.
+ 
+     ()          ()          **          ()          ()
+     ||          ||        ******        ||          ||
+     ||          ||       ********       ||          ||
+     ||          ||      **********      ||          ||
+     ||##########||     ************     ||##########||
+     ||##########||    **************    ||##########||
+     ||## THE  ##||   ****************   ||##  THE ##||
+     ||##PURPLE##||  ******************  ||##PURPLE##||
+     ||##  ELF ##|| ******************** ||## ELF  ##||
+     ||##########||**********************||##########||
+     ||##########||**********************||##########||
+     ||          ||**********************||          ||
+     ||          ||**********************||          ||
+     ||          ||**********************||          ||
+     ||__________||**********************||__________||
+     ||::::::::::||**********************||::::::::::||
+     ||::::::::::||**********************||::::::::::||
+     ||::::::::::||**********************||::::::::::||
+     ||::::::::::||*****|---|**|---|*****||::::::::::||
+     ||::::::::::||*****|   |**|   |*****||::::::::::||
+     ||::::::::::||*****| O |**| O |*****||::::::::::||
+     ||::::::::::||*****|   |**|   |*****||::::::::::||
+     ||::::::::::||*****|___|**|___|*****||::::::::::||
+     ||::::::::::||**********************||::::::::::||
+     ||##############################################||
+     ||##############################################||
+     ||##############################################||
+~
+S
+#2802
+Antyr Way~
+~
+Antyr way is a dull, though well-preserved stone road heading east
+towards the ocean.  To the north is a door leading into The Coinery, Antyr's
+main bank chain.  
+~
+1 0 1
+D0
+~
+~
+1 0 2806
+D1
+~
+~
+0 0 2805
+D3
+~
+~
+0 0 2801
+R M 0 2801 30 2802
+S
+#2803
+Thentyr Pass~
+~
+Thentyr Pass is the mirror image of Antyr Way, but it leads away from the
+ocean, not towards it.  In the distance to the west you can see a huge
+building that winds up to the sky, though it's not a tower.  
+~
+1 0 1
+D1
+~
+~
+0 0 2801
+D3
+~
+~
+0 0 2847
+R M 0 2801 30 2803
+S
+#2804
+The Purple Elf Bar and Inn - Bar Area~
+~
+You are nearly blown out the door by the dramatic shift in volumes.  What
+you might have thought to be a dead bar, when seen from the outside, you now
+discover to be filled with life.  Musicians singing on and around the stage
+to the west, a sleepy customer coming down the east stairs, and the barkeep
+getting a message from the kitchen behind the bar.  Everywhere you go are
+tables and people of all races imaginable, and some you've never believed
+could be.  Just as you regain control of your senses, you find yourself led
+to a table, and abandoned there.  
+~
+1 0 0
+D0
+~
+kitchen~
+1 0 2810
+D1
+~
+stairwell~
+0 0 2812
+D2
+~
+courtyard~
+1 0 2801
+D3
+~
+stage~
+0 0 2811
+R M 0 2800 1 2804
+R M 0 2859 15 2804
+R M 0 2811 1 2804
+R M 0 2812 1 2804
+R M 0 2813 10 2804
+R M 0 2804 1 2804
+  R G 0 2803 0
+  R G 0 2807 0
+  R G 0 2808 0
+  R G 0 2804 0
+S
+#2805
+Antyr Way~
+~
+Noises abound from the north.  The voices scream out their wares, and
+children squeal with joy.  People bargain, cajole, and joke there.  It is
+the main marketplace of Antyr City.  To the east, the sounds of the ocean
+grow louder, and a faint touch of salt is in the air.  
+~
+1 0 1
+D0
+~
+~
+0 0 2826
+D1
+~
+~
+0 0 2836
+D3
+~
+~
+0 0 2802
+R M 0 2801 30 2805
+S
+#2806
+The Coinery~
+~
+Money makes the world go 'round, and here in the coinery, we specialize
+in circles.  We're glad to aid you in changing your coin, withdrawls,
+deposits, and checking your balance.  We're so glad to take your money - er
+- help you, that we'll smile the whole way through.  
+~
+1 64 0
+D2
+~
+~
+1 0 2802
+D5
+~
+~
+33 2806 2807
+R M 0 2803 1 2806
+R M 0 2859 15 2806
+S
+#2807
+The Vault~
+~
+GOLD!  You see gold, gems, treasure!  You're rich!  Rich!  Richer than
+midas!  You're so happy, you can't wait to get back to the bank and deposit
+it.  Hm.  That's odd - you did come down a door, didn't you?  Ah, well. 
+Maybe you can recall and go to the bank there.  HEY!  No!  You're stuck! 
+Help!  HELP!  I'm rich!  I can pay my way out.  Is the air getting less in
+here?  Am I suffocating?  Maybe I can kill myself?  No.  There *has* to be a
+way out somehow, right?  
+At least, you can hope.
+~
+1 8192 0
+D5
+~
+secret~
+1 0 2808
+R O 0 2812 0 2807
+S
+#2808
+Escape?~
+~
+Ah!  Escape, sweet escape!  But where are your friends?  Did they get
+left behind?  Oh, this is such a small tunnel - but surely one more friend
+could fit, right?  Unless there were someone here?  Like that mage over
+there.  
+*gulp.*
+~
+1 524804 0
+R M 0 2808 1 2808
+S
+#2809
+The Heart of Stone~
+~
+For being under the dark forest, this room is very light.  It's a cave,
+of sorts, lined with ferns, food, and some small animals and birds.  In the
+center of this "clearing" is a large pink stone with a thin crack from the
+top to bottom.  Against the stone sleeps a man, dressed in a Harlequin's
+black and white.  The birds and animals seem to watch you expectantly,
+waiting to see what you will do.  
+~
+1 5 0
+D5
+~
+secret~
+1 0 2800
+R M 0 2809 1 2809
+  R G 0 2809 0
+S
+#2810
+The Purple Elf - Kitchen~
+~
+The cacophany from the pots and pans that get thrown at the assistants
+blasts your eardrums.  In the center of the well-organized mess is the
+ringleader...  Who moves like a blur from pot to pot.  The smell's divine. 
+You'd never imagined that such a mess could make such beautiful smells.  And
+more, that a dwarf would be a chef, let alone a good cook.  But it exists.  
+~
+1 0 0
+D2
+~
+~
+1 0 2804
+R M 0 2810 1 2810
+  R E 0 2810 0 16
+  R E 0 2811 0 5
+S
+#2811
+The Stage~
+~
+A rack of instruments hangs on the wall, with various styles of lutes,
+flutes, violins, and drums.  You see a neatly-painted sign right above it,
+and a stool right in front of it.  The area around the stage is formed into
+a small hatshell, projecting the sound wonderfully into the room.  As you
+glimpse down at the smooth wooden floor, you notice a thin line - perhaps
+the outline of a secret door?  
+~
+1 0 0
+D1
+~
+~
+0 0 2804
+D5
+~
+secret~
+1 0 2813
+R M 0 2814 1 2811
+  R E 0 2814 0 11
+R M 0 2815 1 2811
+E
+sign~
+Instruments are for the use of all.
+Remove any, and you shall be punished.
+If this doesn't scare you, consider this:
+No beer for a year.
+     ----The Management
+~
+S
+#2812
+The Stairwell~
+~
+The stairs wind up to the second floor, and as you climb them you realize
+the sound from downstairs is fading.  "Odd," you think.  "But at least
+customers can sleep at night."  
+~
+1 1 0
+D3
+~
+~
+0 0 2804
+D4
+~
+~
+0 0 2820
+S
+#2813
+Secret Pass~
+~
+The darkness of this passage is overwhelming, as is the lack of sound. 
+Something frightens you about what's to come, but you try to tell yourself
+that it can't be bad if it's attached to the bar.  You could, however, be
+wrong.  
+~
+1 1 0
+D0
+~
+~
+0 0 2814
+D4
+~
+~
+1 0 2811
+S
+#2814
+Secret Passage~
+~
+Now not only is it pitch black, it's also silent.  You can't even hear
+the sound of your own feet.  Scary, eh?  
+~
+1 1 0
+D2
+~
+~
+0 0 2813
+D5
+~
+~
+0 0 2815
+R M 0 2817 15 2814
+  R G 0 2817 0
+S
+#2815
+Secret Room~
+~
+You come into a room that looks pretty normal, save for the fact that
+it's still pretty dark.  You get nervous all over again, but console
+yourself by telling yourself that there's always a light at the end of the
+tunnel - or in this case, under the door to the south.  
+~
+1 1 0
+D2
+~
+secret~
+33 2817 2816
+D4
+~
+~
+0 0 2814
+R M 0 2817 15 2815
+S
+#2816
+Thieve's Guild~
+~
+This room nearly blinds you, as it's so bright compared to the darkness
+you just came from.  In the middle of the room is a large oak desk, and
+standing behind that is the nastiest, coldest, most mysterious man you've
+ever seen.  But then, you don't see much of him.  His eyes are shadowed by
+the flat hat he wears, his clothes are all black, save a teal belt, and a
+silver chain, and he's half-way hidden by the desk.  Not much else is in the
+room, but you feel a thousand eyes measuring you up and down.  You see doors
+around you, you think.  They all seem hazy against the walls, however, so it
+might be a good idea to "feel" your way.  
+~
+1 8192 0
+D0
+~
+~
+33 0 2815
+D3
+~
+~
+1 0 2819
+D4
+~
+~
+33 2806 2818
+D5
+~
+~
+1 0 2817
+R M 0 2816 1 2816
+  R G 0 2806 0
+  R E 0 2816 0 16
+R M 0 2856 15 2816
+R M 0 2817 15 2816
+S
+#2817
+Guild Holding Cell~
+~
+"Close every door to me.  Keep all the world from me.  Bar all my
+windows, and shut out the light."  You find yourself humming a haunting tune
+of melancholy in this dank cell.  A candle is the only light, the hungry
+rats the only sound.  
+ 
+=============================================================
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+|||==||==||==||==||==||==||||==||==||==||==||==||==||==||==||
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||__||__||__||__||__||++||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||++||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||++||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||-|--|--|---|---|--||++||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||-|--|--|---|---|--||++||  ||  ||
+|||  ||  ||  ||  ||  ||  |||| |  |  |   |   |  ||++||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||_|__|__|___|___|__||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+|||==||==||==||==||==||==||||==||==||==||==||==||==||==||==||
+|||  ||  ||  ||  ||  ||  ||||  ||  ||  ||  ||  ||  ||  ||  ||
+=============================================================
+ 
+You figure you'd better hurry, or you could get stuck in here.
+~
+1 8193 0
+D4
+~
+~
+1 0 2816
+R M 0 2817 15 2817
+S
+#2818
+The Aenel's Quarters~
+~
+Ah, rest.  What a comfortable and tidy room this is!  And so difficult to
+get into!  But what is there for you in here?  You turn over every knob,
+every door, every lock, everything - to find that The Aenel was a little too
+clever to hide his treasures in here.  You do notice some interesting notes
+on the nightstand.  
+~
+1 4 0
+E
+note~
+Must find answer to the Armin situation.
+Must send thug to collect from Danif.
+Brandoline tipped again. Keep City Guard away.
+Need more Dwarven mead in the bar.
+Cookie needs a raise.
+Check out odd dreams in north, and rectify.
+Slap Shastromm for her practical joke.
+   idea? Maybe trick her into giving up her godhood for a day? How?
+         Ah. Steal her Symbol.
+Trainees need to go out and do fieldwork...
+ 
+The "to do" list goes on for another few pages - but something's odd.
+Since when do Guildmasters slap gods?
+And doesn't Jorinth own the bar?
+~
+S
+#2819
+Training Room~
+~
+This place reeks of sweat.  Everywhere you look is training equipment. 
+Ropes are attached to walls and ceilings for climbing practice and
+muscle-building, there are locks against one wall for picking practice, a
+wall with some rough edges for more climbing practice, not to mention
+several hurdles and weights.  One thing you can assure yourself of here, you
+will be trained...  Or Dundar, the Training Master might take you as his
+personal "project."  And looking at Dundar, you know that's not a good
+thing.  
+~
+1 9216 0
+D1
+~
+~
+1 0 2816
+R M 0 2818 1 2819
+S
+#2820
+The Stairwell~
+~
+The top of this stairwell leads into a long hall with several closed
+doors along it.  You step onto the soft burgandy carpeting, enjoying the
+soft sussuruss of sound as you walk, and look about you.  
+~
+1 1 0
+D3
+~
+~
+0 0 2821
+D5
+~
+~
+0 0 2812
+R M 0 2813 10 2820
+  R G 0 2813 0
+S
+#2821
+The Hallway~
+~
+This long hallway has many doors in it, but most of them are impossible
+to open.  Not only don't you have the keys, the doors seem to be locked by
+such means as only a Master Thief could create.  You get a tingling feeling
+that the traps are even worse.  You do, however find three doors that are
+easily opened - and one that, with work, might be convinced to come ajar. 
+They can be found to the north, west, and south.  The locked one is above
+you.  
+~
+1 0 0
+D0
+~
+~
+1 0 2822
+D1
+~
+~
+0 0 2820
+D2
+~
+~
+1 0 2824
+D3
+~
+~
+1 0 2823
+D4
+~
+~
+33 2813 2825
+S
+#2822
+Commoner's Bedroom~
+~
+This room's not for one person.  Several beds line the walls, with
+blankets, nighttables, and chests for each.  A person who hasn't much money,
+but desires to sleep indoors can pay a fair price for one of these beds, and
+stay here quite happily.  Curtains surround the areas, for a hint of
+privacy, and it seems to be fairly comfortable - for a bargain-rate bedroom.
+~
+1 1 0
+D2
+~
+~
+1 0 2821
+S
+#2823
+Merchant's Bedroom~
+~
+This room is decorated in a brownish-yellow hue with deep rust accents. 
+Those who stay here have money, though no titles.  The bed is a comfortable
+creation of down and straw, and has several layers of soft blankets.  The
+dresser lines the opposite wall with a mirror hung above it.  There's an
+elegant throw-rug on the floor with images of men in a marketplace, selling
+their wares and becoming richer.  
+~
+1 1 0
+D1
+~
+~
+1 0 2821
+E
+rug~
+The rug is beautiful, woven with intricate skill by loving hands.  The
+greens and the blues of the noble lady's dresses enliven the scene, as do
+the bright smiles of the wealthy merchants.  If you look really closely,
+though, you manage to glimpse a dark figure removing a coin or two from the
+rear pouch of a merchant.  
+~
+E
+mirror~
+The glass of this mirror is tinged a bit on the yellow side, and swells
+in a way that gives you a thinner, more flattering appearance.  Your
+reflection smiles back at you, almost as if it knows everything you do. 
+Which it does.  
+~
+E
+bed~
+The bed is comfortable, but not so comfortable as to make you desire to
+remain in it forever.  In fact, it makes you think of how much more
+comfortable you'd be in the Noble's Bedroom.  And to do that, you need more
+money.  Which is why you'd want to sell things.  Ah, the glorious life of a
+merchant!  
+~
+S
+#2824
+Noble's Bedroom~
+~
+Every luxury is within this room.  The coloring is in regal hues of deep
+purple, from the satin sheets to the plush carpeting.  The furniture's of a
+light wood, trimmed and decorated with the same hue of deep purple, and some
+gold leaf.  The chandelier that brightens the room sends patterns to
+interlock with the filigree on the posts of the canopy bed, and the rope
+that dangles beside that bed is decorated with a gold thread.  Everything
+you see in this room bespeaks of great wealth and pampering.  
+~
+1 1 0
+D0
+~
+~
+1 0 2821
+S
+#2825
+Jorinth's Workshop~
+~
+You've never seen a room so clean, so orderly, so perfectly placed. 
+Tools hang exactly where they should be, in crisp, logical order.  Started
+experiments are shelved with tags that read such things as "Music Box" and
+"Bell of Alarm" and "Cooling Device."  Jorinth obviously is a tinker in
+his spare time, looking to create.  Something about the room is very
+relaxing, and you feel safe enough here to rest after a time of hard work.  
+~
+1 4 0
+S
+#2826
+Entrance to the Antyr Bazaar~
+~
+The Antyr Bazaar is a wild place of shoppers and merchants. Watch your purses.
+ 
+                                   -
+                                  ( )
+                                   -
+                                  / \ 
+                                 -   -
+                              --/     \--
+                             /_/       \_\
+                    --------/ /+++++++++\ \--------
+                    ||     | |+++++++++++| |      ||
+                    ||     | |+++++++++++| |      ||
+                    ||_____| |           | |______||
+                    ||_____| |           | |______||
+                           | |           | |
+###########################| |           | |###########################
+######          ###########| |           | |###########          ######
+######          ###########| |           | |###########          ######
+######          ###########| |           | |###########          ######
+###########################| |           | |###########################
+###########################| |           | |###########################
+                           """           """
+ 
+~
+1 0 1
+D0
+~
+~
+0 0 2827
+D2
+~
+~
+0 0 2805
+R M 0 2801 30 2826
+R M 0 2859 15 2826
+R M 0 2817 15 2826
+S
+#2827
+Antyr Bazaar~
+~
+This open-air market holds exits in all directions.  Merchants hawk their
+wares, all of them creating a wild din.  The scents of food waft in the air,
+and you feel a light tug on your pouch.  Laughter bubbles, and a noble in a
+cart splashes mud on you as his driver races him by.  All the stalls are
+open-air, and can easily be broken down in moments.  
+~
+1 0 1
+D0
+~
+~
+0 0 2829
+D1
+~
+~
+0 0 2830
+D2
+~
+~
+0 0 2826
+D3
+~
+~
+0 0 2828
+D4
+~
+~
+0 0 2832
+D5
+~
+~
+0 0 2831
+R M 0 2859 15 2827
+  R E 0 2859 0 13
+S
+#2828
+The Fence~
+~
+Gems and jewels are sold and bought here.  You look at some of the
+selection, and suppose they're pretty hot stones, for diamonds.  But it's
+not where the item is found, is it?  
+~
+1 0 1
+D1
+~
+~
+0 0 2827
+R M 0 2828 1 2828
+  R G 0 2825 0
+  R G 0 2826 0
+  R G 0 2827 0
+S
+#2829
+The Well of Antyrian Deities~
+~
+This area is peaceful, despite the noise around it.  You almost hear the
+liquid in the well bubbling.  Not much else in this area is spectacular, so
+why not look at the Gods' Well?
+~
+1 4 1
+D1
+~
+~
+0 0 2834
+D2
+~
+~
+0 0 2827
+D3
+~
+~
+0 0 2835
+R M 0 2852 15 2829
+R M 0 2859 15 2829
+R O 0 2833 0 2829
+R O 0 2834 0 2829
+S
+#2830
+A Stitch in Time~
+~
+Clothes make the man, shoes the woman, and money the world go 'round. 
+The clothes here are beautiful - and costly.  Elegant ermine, soft silks,
+and regal robes drape the walls at exhorbitant prices even nobles would
+cringe at.  
+~
+1 0 1
+D3
+~
+~
+0 0 2827
+R M 0 2830 1 2830
+  R G 0 2823 0
+  R G 0 2824 0
+S
+#2831
+Ashes to Ashes~
+~
+Ashes to ashes, dust to dust - Unless you sell your corpses here.  Here
+your corpses (specials only) can be turned into nice wares that are sold in
+other shops.  Who knows what those leather boots are *really* made of... 
+~
+1 0 0
+D4
+~
+~
+0 0 2827
+R M 0 2820 1 2831
+S
+#2832
+Flying Fish Food~
+~
+Seafood seems to be the specialty of this treehouse restauraunt.  You
+smell fish all around you.  You think fish, hear fish, see fish.  See food? 
+Eat it!  Above you is a clear ceiling, with people standing on it.  There
+must be a way up there, but you don't see any stairs.  It looks like some
+kind of - store, though.  
+~
+1 0 0
+D4
+~
+~
+0 0 2833
+D5
+~
+~
+0 0 2827
+R M 0 2832 1 2832
+  R G 0 2832 0
+  R G 0 2818 0
+  R G 0 2819 0
+S
+#2833
+Elbwyth's Shoppe of the Arkane~
+~
+You stand on air.  It gives with each step you take, and clouds swirl
+around you.  You can't see below you through the clouds, but you get the
+feeling some eyes are gazing up at you.  As you appraise the inventory, you
+wonder and marvel at all the unique items in the "Special order" section. 
+You wish you could afford some of them, but dreams sometimes aren't
+practical.  Who needs a magical nose-picker, anyhow?  
+~
+1 4 9
+D5
+~
+~
+0 0 2832
+R M 0 2833 1 2833
+S
+#2834
+Keys and Please~
+~
+Keys and Please is a nice, quaint little stall with a not-so-nice, and
+definitely not quaint shopkeeper.  She's willing to sell you beautifully
+crafted keys, and I'm sure she'd not mind if you were pleased as well.  
+~
+1 0 1
+D3
+~
+~
+0 0 2829
+R M 0 2834 1 2834
+  R G 0 2806 0
+  R G 0 2813 0
+  R G 0 2815 0
+S
+#2835
+Fowl Play~
+~
+Birds of gold, silver, and precious gems dot the walls and shelves of
+this room.  This quaint little shop has all forms of pretty trinkets - as
+long as they relate to our feathered friends.  The one that seems to catch
+your interest most is a delicate engraved ruby falcon.  It seems to almost
+be alive, though the light glints off its bright red surface.  
+~
+1 0 1
+D1
+~
+~
+0 0 2829
+R M 0 2835 1 2835
+  R G 0 2828 0
+  R G 0 2829 0
+  R G 0 2830 0
+  R G 0 2831 0
+S
+#2836
+Antyr Way~
+~
+This part of the road takes on a well-worn look.  The sounds of the ocean
+are loud now to the east, and the sounds of shouts and laughter, not to
+mention many people come from the north.  You see a sign marking directions
+here.  
+~
+1 4 1
+D0
+~
+~
+0 0 2837
+D1
+~
+~
+0 0 2895
+D3
+~
+~
+0 0 2805
+E
+sign~
+Elbwyth's Tower --- North.
+Antyr South Wharf --- East.
+No fishing without the proper permits.
+Permits available at the Acquirer's Guild. Speak to T. A. Guildmaster.
+~
+S
+#2837
+Elbwyth's Tower~
+~
+Solve the puzzle, and ENTER the answer. Do so, and you may visit my tower.
+Fail, and you shall be locked out.
+                          ---Elbwyth, Adept of Antyr
+ 
+I'm Fast and Fluent, Far to go.
+Irritating in instants, itching you so.
+Recover your regality with righteous roars....
+Enter my elegance, endure no more.
+~
+1 0 1
+D2
+~
+~
+0 0 2836
+R O 0 2837 0 2837
+S
+#2838
+Inside Elbwyth's Tower, Ground Floor~
+~
+Around and around the stones go from the base of this magnificent tower
+upwards in a spiral.  Above you is a glimmer of light that sometimes fades
+out for brief moments.  The soft sound of puttering feet and the stale scent
+of old parchments seem to cling to the air itself.  The stones around the
+base of the tower seem blackened and charred, for some odd reason.  
+~
+1 532480 0
+D4
+~
+~
+0 0 2839
+S
+#2839
+Guard Station~
+~
+HALT!
+Move no farther! State your name and business. Look not about you, but at me.
+Dare you pass upwards into the mages area? Well, fools, then you may pass.
+Try not to leave too much of your blood on the walls for the apprentices.
+They hate cleaning.
+~
+1 0 0
+D4
+~
+~
+0 0 2840
+D5
+~
+~
+0 0 2838
+R M 0 2839 2 2839
+S
+#2840
+Second Floor - Apprentice Level~
+~
+This room is fraught with the remnants of failed magical experiments.  No
+amount of scrubbing will remove the char-marks from the room.  Nothing will
+clean up the green stains on the floor.  And that odd pile of dried-out
+stringy stuff might have once been an octopus or a hydra.  One could never
+tell, now.  To the north you see an open door, and several young students
+practicing - often on each other.  
+~
+1 0 0
+D0
+~
+~
+0 0 2841
+D4
+~
+~
+0 0 2842
+D5
+~
+~
+0 0 2839
+R M 0 2840 10 2840
+  R E 0 2840 0 7
+R M 0 2841 12 2840
+S
+#2841
+Apprentice's Quarters~
+~
+Apprentices of all ages move about in this room, some with their noses in
+books, some waving their arms about, and some resting.  A young girl wiggles
+her nose and points at a young boy, which results in the boy's hair turning
+green and standing on end.  This turns back on the girl when the boy squeaks
+"COOL!"  In his changing voice, and shows off the new style.  The room
+itself is nearly wrecked by the failed experiments seen in the hall outside
+the door to the south.  
+~
+1 0 0
+D2
+~
+~
+0 0 2840
+R M 0 2841 12 2841
+R M 0 2840 10 2841
+S
+#2842
+Third Floor~
+~
+This is the hall of the Adept's Quarters and classroom.  Elbwyth's room
+is to the east, the laboratory is to the north, and the classroom/practice
+room is to the south.  The area here is in better repair, having recently
+been scrubbed (probably by the newer apprentices.)  The lighting is good,
+save for the occassional "dark" caused by something above you.  When you
+look up, you see the heads of small dragonlets.  Some grin down at you.  You
+begin to shudder, until you see one bump its nose on an invisible force. 
+You're safe - you hope.  
+~
+1 0 0
+D0
+~
+alchemical~
+1 0 2843
+D1
+~
+elbwyth's~
+33 2815 2845
+D2
+~
+practice~
+1 0 2844
+D4
+~
+the~
+0 0 2846
+D5
+~
+~
+0 0 2840
+R M 0 2840 10 2842
+R M 0 2841 12 2842
+S
+#2843
+Alchemical Laboratory~
+~
+Long tables span the room lengthwise, some with bowls of water, many
+glass bottles, and other items of experimentation, while others are more
+bare.  Shelves hold jars with neat lables on them.  There are small
+fire-pits in the walls at even intervals, with wood, water, and sand next to
+them.  One table holds several scrolls weighted open by four small stones.  
+~
+1 0 0
+D2
+~
+~
+1 0 2842
+R M 0 2854 15 2843
+R M 0 2840 10 2843
+R M 0 2841 12 2843
+E
+scroll~
+Ex + T --- s/v with a dash of something will create the needed reaction to
+produce the first ingredient required.
+Stir in with Gefalten, and let it simmer...
+ 
+None of this note really makes much sense, but you'd suppose someone might know.
+~
+S
+#2844
+Practice Room~
+~
+This room REEKS of magic.  It reeks of sweat.  It just plain stinks.  You
+gasp and hold your hand over your mouth, worrying if the stench will cling
+to your clothes.  Such a physical form of magic seems impossible to believe
+- until you see the form moving towards you.  
+~
+1 0 0
+D0
+~
+~
+1 0 2842
+R M 0 2840 10 2844
+R M 0 2841 12 2844
+R M 0 2802 1 2844
+S
+#2845
+Quarters to the Adept, Elbwyth~
+~
+One would expect the private quarters of a mage so powerful as Elbwyth to
+be lush and lavish, but this is not.  One would expect a mage as powerful as
+Elbwyth to be ancient, but he is not.  One would expect a mage as powerful
+as Elbwyth to be arrogant, cynical, and insulting as possible, but - well,
+he is.  The room you look at is bare of decorations of any kind.  A simple
+cot, desk, ad mirror are the only furniture.  Elbwyth sits at his desk
+writing on a scroll.  When you enter, he stands to face you, and waits for
+you to speak or attack.  
+~
+1 1 0
+D3
+~
+~
+33 0 2842
+R M 0 2845 1 2845
+  R E 0 2845 0 17
+S
+#2846
+The Hatchery~
+~
+This room is laden with fresh straw, heat, light, LARGE eggs, and
+multicolored dragonlets.  You think of fleeing, but the force field that
+kept you safe before keeps you in danger now.  The dragonlets look very
+friendly - and very hungry.  
+~
+1 4 0
+R M 0 2846 6 2846
+R M 0 2841 12 2846
+S
+#2847
+Tethyr Pass~
+~
+You come upon a stone sign marking the directions of the intersection. 
+Above yu a bird flies, or is that a dragonlet?  Pretty creature, whichever
+it is.  At your feet is a pretty yellow flower that grows in the cracks
+between the stones.  When you go to touch it, however, it shies away from
+you.  Sentient flowers: New concept?  
+~
+1 0 1
+D0
+~
+~
+0 0 2857
+D1
+~
+~
+0 0 2803
+D3
+~
+~
+0 0 2848
+R M 0 2801 30 2847
+R M 0 2851 15 2847
+R M 0 2852 15 2847
+R M 0 2848 15 2847
+R M 0 2855 15 2847
+R M 0 2853 15 2847
+R M 0 2856 15 2847
+R M 0 2854 15 2847
+R M 0 2859 15 2847
+E
+flower~
+This yellow flower is a bright spot to any day, but it doesn't seem to
+want to be touched.  
+~
+E
+sign~
+North - Residences
+West - The Temple of Antyr
+~
+S
+#2848
+Temple of Antyr - Grand Worship Hall~
+~
+The main hall of the temple is a great circular room with a dome on the
+top.  A mural has been lovingly done on this dome, depicting six deities
+(one which is a middle-aged woman) pulling portions of land from each other.
+The artist's name is illegible, but you do catch the title of the mural as
+being "The Great Rift."  Stairs take you up to some cubicles, and a chute
+takes you down.  Exits lead into cubicles on the west, north, and south, and
+back outside to the east.  
+~
+1 0 0
+D0
+~
+~
+0 0 2851
+D1
+~
+~
+0 0 2847
+D2
+~
+~
+0 0 2852
+D3
+~
+~
+0 0 2850
+D4
+~
+~
+0 0 2849
+D5
+~
+~
+0 0 2856
+R M 0 2801 30 2848
+R M 0 2851 15 2848
+R M 0 2852 15 2848
+R M 0 2848 15 2848
+R M 0 2855 15 2848
+R M 0 2853 15 2848
+R M 0 2856 15 2848
+R M 0 2854 15 2848
+S
+#2849
+Upstairs Worship Hall~
+~
+You come up the long staircase until you reach the top, which rests
+against the eastern wall.  All other walls hold doors to cubicles up here. 
+Now that you are closer, you can see the intricate borderwork on the mural,
+and the signature of A.  D.  Boriks.  
+~
+1 0 0
+D0
+~
+~
+0 0 2854
+D2
+~
+~
+0 0 2855
+D3
+~
+~
+0 0 2853
+D5
+~
+~
+0 0 2848
+R M 0 2851 15 2849
+R M 0 2852 15 2849
+R M 0 2848 15 2849
+R M 0 2855 15 2849
+R M 0 2853 15 2849
+R M 0 2856 15 2849
+R M 0 2854 15 2849
+S
+#2850
+Cubicle of Kendra~
+~
+This room drips with beauty and nature.  The donation bowl is really a
+bunch of vines woven and interwoven, and roses decorate all the corners of
+the room.  Ferns wave and create a gentle breeze, and you sense the feeling
+of peace and life.  The nurturing found in the Goddess of Nature's cubicle of
+worship leaves you no doubt as to why she's known as the "Mother of the
+Gods."  
+~
+1 0 0
+D1
+~
+~
+0 0 2848
+R M 0 2850 1 2850
+R M 0 2848 15 2850
+  R E 0 2850 0 13
+S
+#2851
+Cubicle of Bluten~
+~
+This somber room is an unusual mixture of deep blues, indigos, and bright
+orange.  In the midst of the darkness of the walls, and the scenes of death
+that surround you, there rises a bright image of a flaming bird: The
+Phoenix.  Around the edges of the cubicle are plants, various kinds of
+flowers.  Next to the pots of plants are small dishes, with seeds placed in
+them.  Also placed in the seeds are small notes, parchments, and pebbles
+with writing on them.  
+~
+1 1 0
+D2
+~
+~
+0 0 2848
+R M 0 2851 15 2851
+  R G 0 2851 0
+E
+parchment~
+Bluten hath thee in her thrall,
+I love thee still, Anadee.
+When moonlight rises over all,
+The Phoenix shall bring me to thee.
+       -- Henrik
+~
+E
+pebble~
+Mommy! Love you. Please grow.
+~
+E
+note~
+Beloved, I know you bloom an eternal jasper, and I pray one day to grow
+beside you.  Geoffrey.  
+~
+S
+#2852
+Cubicle of Peun~
+~
+BRIGHT LIGHT!  This cubicle is bright...  And warm.  It also looks like a
+play area for the children of those worshipping.  Kid's drawings are all
+over the walls, crayons lay scattered on the ground.  The "donation pot" is
+a BIG training-potty, and happy music seems to echo from all around you.  
+~
+1 0 0
+D0
+~
+~
+0 0 2848
+D2
+~
+~
+0 0 2849
+R M 0 2852 15 2852
+  R E 0 2852 0 17
+S
+#2853
+Cubicle of Romeire~
+~
+You hear the sounds of the sea when you're standing in this cubicle, and
+feel the winds blowing against your skin.  Shells are placed in strategic
+places, alongside weapons of all sorts.  The donation pit is shaped as a
+large golden sheath, and it's obvious thieves have tried (notice: Tried) to
+take it before.  Legend has it that when the sheath of Romiere in Antyr
+falls, she will die, and War will take over the lands.  It's unknown if the
+Goddess kills the fools who try for it or if the people who catch them do,
+but either way, it's never come down.  
+~
+1 0 0
+D1
+~
+~
+0 0 2849
+R M 0 2853 15 2853
+  R E 0 2853 0 16
+S
+#2854
+Cubicle of M'jor~
+~
+You've entered the library.  No, this is not the library, this is the
+Cubicle to M'jor, God of Wisdom and Destiny.  A wolf rests at the door,
+growling at any who enter, but allowing all to pass.  A single chair sits in
+the corner of the room, with a pad in front of it.  A bowl rests next to the
+pad, where donations are placed.  Donations tend to be literature, or poems.
+It's been said that favored followers have knelt before the chair, and been
+rewarded by seeing the black-haired deity appear in the chair to impart some
+knowledge.  
+~
+1 0 0
+D2
+~
+~
+0 0 2849
+R M 0 2854 15 2854
+  R G 0 2854 0
+S
+#2855
+Cubicle of Shastromm~
+~
+This room is usually red, unless Shastromm, Goddess of Chaos, lust, and
+magic decides she doesn't want it to be red - which happens whenever she has
+one of her "moods."  Which is often.  Unless it's his mood.  Which happens,
+when she - er - he - er - whatever feels like it.  Which is often.  The
+floor is lined with throw pillows and cushions (usually), and bath oils and
+scents are scattered all around.  Shastromm doesn't take money as donations.
+Nor do her clerks.  They prefer more - intimate pay.  
+Usually.
+~
+1 0 0
+D0
+~
+~
+0 0 2849
+R M 0 2855 15 2855
+  R G 0 2855 0
+S
+#2856
+Cubicle of Aenel~
+~
+Mist swirls all around you, and the cubicle is mostly black, with just a
+touch of silver and teal.  The mystery lies within and without, including
+the music that surrounds you: soft and haunting, dreamlike, and yet so real.
+The donation box is heavily locked and trapped.  
+~
+1 1 0
+D4
+~
+~
+0 0 2848
+R M 0 2856 15 2856
+  R E 0 2856 0 14
+S
+#2857
+Carytyr Lane~
+~
+Carytyr heads north out of the City Proper, and is the road where most
+residents are.  To your east is the door to an old hovel, where you hear a
+low droning sound coming from.  
+~
+1 0 1
+D0
+~
+~
+0 0 2859
+D1
+~
+hovel~
+1 0 2858
+D2
+~
+~
+0 0 2847
+R M 0 2801 30 2857
+S
+#2858
+Old woman's hovel~
+~
+In the darkness, a blind old woman spins on her wheel.  You think you see
+little golden eyes peering around at the ground level, but you can't be
+sure.  A single lantern sits on a sparse wooden table by the spinning woman,
+and the bed, which is a lumpy hay contraption, seems as if it might be home
+for more than just the woman.  You'd lay bets on lice, bugs, and other
+mites.  It makes you ill just looking at it.  
+~
+1 1 0
+D3
+~
+~
+1 0 2857
+R M 0 2858 1 2858
+R M 0 2851 15 2858
+S
+#2859
+Carytyr Lane~
+~
+The road becomes more dusty as the stones grow smaller, into pebbles.  To
+your left is an impressive looking house, with high gables, and a white
+picket fence (how corny.)  
+~
+1 0 1
+D0
+~
+~
+0 0 2861
+D2
+~
+~
+0 0 2857
+D3
+~
+~
+1 0 2860
+R M 0 2801 30 2859
+R M 0 2859 15 2859
+S
+#2860
+Merchant's Home~
+~
+STOP!  Don't step on that, you might dirty the perfectly polished floor! 
+That's a precious antique vase you just tipped!  Be careful!  Get the idea
+that this room is ostentatious without worrying about being gauche?  Glitz
+is everywhere, as if this man is trying to show off his wealth - which is
+exactly what the merchant who lives here is doing.  
+~
+1 1 0
+D1
+~
+~
+1 0 2859
+S
+#2861
+Carytyr Lane~
+~
+The road is now all dirt, and is growing thinner as it goes north.  To
+the east you see a large home with lights on in most of the windows. 
+There's an elegant sign hanging over the door.  
+~
+1 0 1
+D0
+~
+~
+0 0 2867
+D1
+~
+~
+1 0 2862
+D2
+~
+~
+0 0 2859
+R M 0 2801 30 2861
+E
+sign~
+The sign reads:
+ 
+          00          00
+           --          --
+     -----||----------||-----
+     |                      |
+     |  Madame Brandoline's |
+     |       S*L*A*P        |
+     |   and  TICKLE Parlor |
+     |______________________|
+~
+S
+#2862
+Madame Brandoline's Slap and Tickle Parlor~
+~
+Upon entering this luxuriously plush room, you get a great feeling of
+welcome.  It seems every woman and man (yes, there are men working here)
+trying to welcome you to the Parlor, to the food, to the drinks - to them. 
+The Madame rests on an elegant love-chair, and behind her hangs a picture of
+the most-loved Goddess of this establishment - Shastromm.  In fact, rumors
+have it she's loved here often - but how much can you believe rumors? 
+There's a waiting room to your south, and rooms to the north, east, and one
+you reach by climbing up a gentle-sloping staircase in the back.  
+~
+1 0 0
+D0
+~
+~
+1 0 2865
+D1
+~
+~
+0 0 2864
+D2
+~
+~
+0 0 2863
+D3
+~
+~
+1 0 2861
+D4
+~
+~
+1 0 2866
+R M 0 2862 1 2862
+  R G 0 2862 0
+R M 0 2855 15 2862
+R M 0 2863 8 2862
+S
+#2863
+Waiting Room~
+~
+This waiting room is restful, with soft lute music piped in from -
+somewhere.  Several chairs are set up, with a few parchments to read.  Some
+men chat with the women, and food is passed around to one and all.  
+~
+1 0 0
+D0
+~
+~
+0 0 2862
+R M 0 2863 8 2863
+E
+parchment~
+How does your lover rate?
+1) When people describe you and your lover do they say you are:
+   A) Joined at the hip
+   B) So CUTE together
+   C) Like oil and water
+ 
+2) Does your lover lie when they say they didn't overspend?
+ 
+3) Does your lover need batteries?
+ 
+4) Does your lover ditch you for your brother or sister when you bring them home to meet the family?
+ 
+5) Does your lover leave the chewing gum on the bedpost overnight?
+ 
+Answers: 
+1) If you answered A) give yourself 2 points. If you answered B) Give yourself 1 point. If you answered C) Tough luck! Time for a new lover!
+ 
+2) If you answered "Yes" Give yourself a point. If you answered "No." Work harder at those guilt trips!
+ 
+3) If you answered "Yes" It's DEFINITELY time for a new lover. If you answered "No" give yourself 1 point.
+ 
+4) If you answered "Yes" It's too bad, that ain't your lover. If you answered "no" Be happy and give yourself 1 point.
+ 
+5) If you answered "Yes" Ditch the lover, that's disgusting! If you answered "No" give yourself 1 point.
+ 
+0 - 1 Why are you with this lover?
+2- 3 It's an "OK" relationship, but your lover needs work.
+4 - 5 Going strong! Lover rates well!
+6 Now THAT's a passionate relationship!
+~
+S
+#2864
+Private "Guest" Room~
+~
+Lavish is the best way to describe this room.  In one part of it, you see
+a soft table with warm towels lain out next to it.  Another part of the room
+has a shelf with various spices and oils.  Incense is placed next to a
+burner, and a few simple musical instruments rest on a table beside you.  A
+rope with a tassle hangs by the soft table, and it makes you wonder what it
+does.  When your curiousity gets the better of you, you tug it, and hear a
+distant bell.  Soon after someone comes in with more warm towels, and
+disappears as silently.  
+~
+1 0 0
+D3
+~
+~
+0 0 2862
+R M 0 2863 8 2864
+S
+#2865
+Private "Guest" Room~
+~
+You step into this room and feel down.  Feathery-soft, the down is
+scattered on the floor.  Several hooks hang from the ceiling, and from
+those, hung by loops, are every type of feather imaginable from all around
+the world.  Some you recognize, some you don't, but all, you would suspect,
+would tickle you past the point of tears.  There are also stocks in here, to
+put people while they're being tickled.  It's all-in-all an innocent, silly
+way to pass the time, but there's no accounting for taste.  Or style,
+either.  
+~
+1 0 0
+D2
+~
+~
+1 0 2862
+R M 0 2863 8 2865
+  R E 0 2862 0 17
+S
+#2866
+Private "Guest" Room~
+~
+This room is dark when you enter it, and the moment you look around, you
+realize why.  You feel compelled to apologize to those within, and rush out.
+~
+1 1 0
+D5
+~
+~
+1 0 2862
+R M 0 2863 8 2866
+S
+#2867
+Carytyr Lane~
+~
+The road is soppy as you get to the last stretch before the stream. 
+Ahead of you, to the north, you see a bridge crossing that stream.  To your
+left is the Guard house.  You sense the end of the city upon you, and scent
+the fragrance of a fresh-cut field before you.  
+~
+1 0 1
+D0
+~
+~
+0 0 2869
+D2
+~
+~
+0 0 2861
+D3
+~
+~
+0 0 2868
+R M 0 2801 30 2867
+S
+#2868
+Guard House~
+~
+House?  More like a box.  The guard waits inside and around this box,
+often mumbling something about "Kah-fei."  A candle is the only light
+within, and again you see a small pair of eyes, tinier this time.  It's
+probably a mouse.  
+~
+1 0 0
+D1
+~
+~
+0 0 2867
+R M 0 2868 1 2868
+S
+#2869
+Bridge over River, Exit from the City~
+~
+The bridge you stand on is made of stones, with openings at the bottom to
+let water through.  You feel safe upon it, as you exit the City proper.  
+~
+1 4 1
+D0
+~
+~
+0 0 2870
+D2
+~
+~
+0 0 2867
+S
+#2870
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed, and
+full of tall grasses and plants.  Flowers dot the area, as do the ripening
+fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2871
+D1
+~
+~
+0 0 2873
+D2
+~
+~
+0 0 2869
+D3
+~
+~
+0 0 2872
+R M 0 2870 6 2870
+  R E 0 2870 0 16
+R M 0 2873 4 2870
+R M 0 2874 2 2870
+S
+#2871
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2880
+D1
+~
+~
+0 0 2875
+D2
+~
+~
+0 0 2870
+D3
+~
+~
+0 0 2874
+R M 0 2848 15 2871
+R M 0 2871 10 2871
+S
+#2872
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2874
+D1
+~
+~
+0 0 2870
+D3
+~
+~
+0 0 2873
+R M 0 2871 10 2872
+R M 0 2872 4 2872
+  R G 0 2872 0
+S
+#2873
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2875
+D1
+~
+~
+0 0 2872
+D3
+~
+~
+0 0 2870
+R M 0 2871 10 2873
+S
+#2874
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2877
+D1
+~
+~
+0 0 2871
+D2
+~
+~
+0 0 2872
+D3
+~
+~
+0 0 2876
+S
+#2875
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2878
+D1
+~
+~
+0 0 2879
+D2
+~
+~
+0 0 2873
+D3
+~
+~
+0 0 2871
+R M 0 2871 10 2875
+R M 0 2870 6 2875
+R M 0 2872 4 2875
+R M 0 2874 2 2875
+S
+#2876
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D0
+~
+~
+0 0 2876
+D1
+~
+~
+0 0 2874
+D2
+~
+~
+0 0 2876
+D3
+~
+~
+0 0 2879
+R M 0 2871 10 2876
+R M 0 2870 6 2876
+S
+#2877
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D1
+~
+~
+0 0 2880
+D2
+~
+~
+0 0 2874
+D3
+~
+~
+0 0 2878
+S
+#2878
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 2
+D1
+~
+~
+0 0 2877
+D2
+~
+~
+0 0 2875
+D3
+~
+~
+0 0 2880
+S
+#2879
+Antyrian Fields~
+~
+All you see around you are fields of green, both mowed and unploughed,
+and full of tall grasses and plants.  Flowers dot the area, as do the
+ripening fruits and vegetables.  
+~
+1 0 0
+D0
+~
+~
+0 0 2879
+D1
+~
+~
+0 0 2876
+D2
+~
+~
+0 0 2879
+D3
+~
+~
+0 0 2875
+R M 0 2873 4 2879
+S
+#2880
+Forest of Rhythym~
+~
+You are entering the legendary Forest of Rhythym.  Within these woods it
+is said the "Heart of Stone" is hidden.  This Heart is cherished as the
+origin of all beat, all rhythym.  It's been carefully guarded since the
+Rift, for fear that all Rhythym would end should it break.  This includes
+the rhythym of breathing, heartbeats, and of walking.  Long ago, another
+legend tells, there was a great fire in a city outside of Antyr.  This City
+no longer exists, but the survivors, men known as "The Knights of Revels"
+escaped.  Many fought when they discovered there was a ruse, and that it was
+arson, save one.  That one retained his power long enough to find the Heart
+of Stone - cracked.  In trying to fix it, he fell into a deep sleep.  That
+Legend says the last Knight of Revels, Corwyn Tormyr, waits somewhere in
+this forest for the next generation of heros to wake him, and help him heal
+the forest.  All in all, though, the Forest seems a silent, spooky place.  
+~
+1 4 3
+D0
+~
+~
+0 0 2882
+D1
+~
+~
+0 0 2878
+D2
+~
+~
+0 0 2871
+D3
+~
+~
+0 0 2877
+S
+#2881
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2884
+S
+#2882
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D2
+~
+~
+0 0 2880
+D3
+~
+~
+0 0 2881
+R M 0 2882 15 2882
+S
+#2883
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D3
+~
+~
+0 0 2882
+R M 0 2882 15 2883
+S
+#2884
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 1 3
+D0
+~
+~
+0 0 2889
+D1
+~
+~
+0 0 2885
+D2
+~
+~
+0 0 2881
+R M 0 2883 10 2884
+  R G 0 2883 0
+R M 0 2884 10 2884
+  R E 0 2884 0 16
+S
+#2885
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2889
+D1
+~
+~
+0 0 2886
+D2
+~
+~
+0 0 2882
+D3
+~
+~
+0 0 2884
+R M 0 2882 15 2885
+  R G 0 2882 0
+S
+#2886
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D2
+~
+~
+0 0 2883
+D3
+~
+~
+0 0 2885
+R M 0 2883 10 2886
+  R G 0 2883 0
+S
+#2887
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2894
+D1
+~
+~
+0 0 2888
+D5
+~
+~
+0 0 2809
+S
+#2888
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2893
+D1
+~
+~
+0 0 2889
+D2
+~
+~
+0 0 2884
+S
+#2889
+Forest of Rhythm~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2893
+D1
+~
+~
+0 0 2890
+D2
+~
+~
+0 0 2884
+R M 0 2884 10 2889
+  R E 0 2884 0 16
+S
+#2890
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D0
+~
+~
+0 0 2891
+D2
+~
+~
+0 0 2886
+D3
+~
+~
+0 0 2889
+S
+#2891
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D2
+~
+~
+0 0 2890
+D3
+~
+~
+0 0 2892
+R M 0 2882 15 2891
+  R G 0 2882 0
+S
+#2892
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D1
+~
+~
+0 0 2891
+D2
+~
+~
+0 0 2889
+D3
+~
+~
+0 0 2893
+S
+#2893
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D1
+~
+~
+0 0 2892
+D3
+~
+~
+0 0 2894
+R M 0 2882 15 2893
+  R G 0 2882 0
+S
+#2894
+Forest of Rhythym~
+~
+No sound at all surrounds you.  The silence overwhelms all but the
+darkness of the forest.  Your heart skips a beat, and you realize you are
+lost.  
+~
+1 0 3
+D1
+~
+~
+0 0 2893
+D2
+~
+~
+0 0 2887
+R M 0 2883 10 2894
+  R G 0 2883 0
+R M 0 2884 10 2894
+S
+#2895
+Antyr South Wharf~
+~
+You're standing on the rickety wharf, frightened it might give way. 
+Attached to several poles are small rowboats, used to transport people to
+and from the huge rigs out on the main ocean.  
+~
+1 0 1
+D0
+~
+~
+0 0 2896
+D3
+~
+~
+0 0 2836
+R M 0 2853 15 2895
+R M 0 2895 3 2895
+  R G 0 2895 0
+S
+#2896
+Shallow Waters~
+~
+These waters are deep enough for the small boats, but shallow enough for
+the water to be light.  Small sea critters sometimes get stuck here, but are
+soon fished out and either cooked up, or returned to deeper waters.  
+~
+1 0 7
+D0
+~
+~
+0 0 2897
+D2
+~
+~
+0 0 2895
+R M 0 2896 2 2896
+  R G 0 2896 0
+S
+#2897
+On the Ocean~
+~
+The waters here are very deep, and ships are the only things remaining on
+top of the waves.  All kinds of fish swim around your boat.  
+~
+1 0 7
+D0
+~
+~
+0 0 2898
+D1
+~
+~
+0 0 2899
+D2
+~
+~
+0 0 2896
+R M 0 2897 10 2897
+R M 0 2898 10 2897
+R M 0 2899 3 2897
+  R E 0 2899 0 11
+S
+#2898
+On the Ocean~
+~
+The waters here are very deep, and ships are the only things remaining on
+top of the waves.  All kinds of fish swim around your boat.  
+~
+1 0 7
+D2
+~
+~
+0 0 2897
+D3
+~
+~
+0 0 2899
+R M 0 2897 10 2898
+R M 0 2898 10 2898
+R M 0 2899 3 2898
+  R E 0 2899 0 11
+S
+#2899
+On the Ocean~
+~
+The waters here are very deep, and ships are the only things remaining on
+top of the waves.  All kinds of fish swim around your boat.  
+~
+1 0 7
+D1
+~
+~
+0 0 2898
+D3
+~
+~
+0 0 2897
+R M 0 2897 10 2899
+R M 0 2898 10 2899
+R M 0 2899 3 2899
+  R E 0 2899 0 11
+S
+#0
+
+
+#SHOPS
+ 2804   17 10  0  0  0   105 100         0 24    ; jorinth, the Proprietor
+ 2820   13 15 23  0  0   100  65         0 24    ; armand
+ 2828   32  8 33 30  0   155 150         0 24    ; karin, the Fence
+ 2830   11  0  0  0  0   200 100         0 24    ; mahtell, the Tailor
+ 2832   19 19  0  0  0   120  80         0 25    ; molly, the fishmonger's wife
+ 2833    2 10 26  3  4   120  80         0 24    ; elbwyth's flunkee Gondollaren
+ 2834   18  0  0  0  0   160  40         0 24    ; a sexy fox-lady
+ 2835    8  0  0  0  0   210  50         0 24    ; pakat, the Falconer
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

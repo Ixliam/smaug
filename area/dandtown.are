@@ -1,0 +1,2236 @@
+#AREA        Dandenong Town~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#29300
+innkeeper~
+an innkeeper~
+An innkeeper stands here, writing in a visitor's book.
+~
+This elderly man is the innkeeper of this quiet inn.  He has an aged face, 
+and whispery white hair.  He fumbles slightly as he handles the keys, due to 
+his knobbly, old fingers.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 0 -70 10d400+999 10d20+150
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29301
+tavern keeper~
+a tavern keeper~
+A tavern keeper is here staggering around.
+~
+The Tavern keeper has served many a drink in his time in the realm.  
+Unfortunately today he has done most of the drinking as he swaggers 
+about the small tavern widely.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29302
+souvenir seller~
+a souvenir seller~
+A souvenir seller is here smiling at you.
+~
+A dark skinned individual, this person seems eager to sell his wares to 
+naive travellers.  His dark eyes twinkle slightly as you enter his shop.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -70 10d20+999 10d15+123
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29303
+dwarf dwarven metalsmith~
+a dwarven metalsmith~
+A dwarven metalsmith is muttering to himself.
+~
+This dwarf is very grumpy looking, he has his hand wrapped firmly 
+around the hilt of a beautiful engraved axe.  The dwarf's eyes never 
+leave you as he turns to see what you want.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 5 -70 10d15+999 10d13+123
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29304
+Food store attendant~
+a food store attendant~
+A food store attendant is here waiting to serve you.
+~
+A lovely young lady, this girl is obviously one of the towns gems.
+Her deep blue eyes are enchanting, and you feel yourself drawn to 
+sample one of her pastries.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 2 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29305
+old retired miner mining shop keeper~
+a mining shop keeper~
+An old retired miner is here, tending to the store.
+~
+This poor old fellow has no teeth to speak of.  Obviously retired, his 
+beard has had time to grow, it now reaches down to his belt.  Slightly 
+insane, this fellow looks like he could tell you stories till the lamias 
+come home.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -70 4d20+999 4d10+120
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29306
+arena ticket seller~
+an arena ticket seller~
+A ticket seller is here offering you the best seat in the house.
+~
+Dressed from head to toe in colorful robes, this is an interesting looking 
+fellow.  He has a few missing teeth, which you notice when he grins.  He's 
+standing here, holding a handful of tickets.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29307
+town mayor~
+the mayor~
+The town mayor is here, enjoying a dip in the baths.
+~
+The mayor of this town is enjoying a dip in his heated indoor baths.  
+Startled by your presence, he looks up at you with a solemn look on his 
+face.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+65 0 -30 1d1+390 4d10+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29308
+mayor's wife beautiful lady~
+the mayor's wife~
+The mayor's wife is here, smiling warmly.
+~
+This lady is very beautiful, and on closer examination you realise she is of 
+elven descent.  She is tending to the mayor, bringing his grapes and wine.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 0 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29309
+guard warden~
+a guard warden~
+The guard warden stands here eyeing everyone and everything 
+suspiciously.
+~
+This is one impressive specimum of a human.  Standing seven feet tall and at 
+least three feet wide, this man makes an ideal guard.  Muscles bulge under 
+his plate armor, and you notice a scar that runs down from the left side of 
+his face.  
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+65 0 -35 1d1+390 4d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29310
+guard~
+a guard~
+A guard of this town sits here gambling with his friends.
+~
+This guard looks as if he has served most of his career around the gambling 
+mat.  He is obviously not a gambler of merit, as his armor is in poor keep.  
+
+~
+0
+Clanname none~
+0
+0
+129 32 600 C
+25 0 -5 1d1+150 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29311
+guard~
+a guard~
+A guard stands here watching for trouble.
+~
+This guard looks as if he has served most of his career walking the 
+beat.  He obviously not a stranger to a fight, as his armor is dented and 
+battered.
+~
+0
+Clanname none~
+0
+0
+129 32 600 C
+30 0 -7 1d1+180 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29312
+citizen mining person~
+a citizen~
+A mining citizen wanders among the shops and stalls.
+~
+This person casts a wary eye over you.  Obviously the mining business
+does not pay well, as this person is dressed very plainly.
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+21 0 -5 4d5+90 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29313
+lay healer priest~
+the priest~
+A lay healer is here trying to look the part.
+~
+This middle-aged man is dressed in the garb of a priest.  Oddly though, he 
+carries a sword at his side.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29314
+sick person~
+a sick person~
+A sick looking person is here, grumbling with pain.
+~
+Obviously in a lot of discomfort, this persons face is contorted with
+pain.  Numerous objects have been placed around the persons neck in an
+attempt to ward off the sickness.  
+~
+0
+Clanname none~
+0
+0
+129 2048 600 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29315
+champion aphdol gahan~
+the Aphdol champion~
+The champion of Aphdol is here.
+~
+Standing here is a small man, barely five feet high.  His body ripples 
+with muscle as he shadow boxes ready to fight the next contender.  You 
+notice this man bears no weapons but his hands move faster than any 
+you have seen before.    
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+70 1 -40 1d1+432 4d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29316
+dzagari champion~
+the dzagari champion~
+The champion of Dzagari is here.
+~
+Standing here is a huge man, nearly seven feet high.  His body is one solid 
+mass and you wonder how any one ever wins against such an immovable force.  
+You notice this man bears no weapons but his arms are scarred with many bite 
+marks.  The bites must be last attempts to escape this man's fearsome 
+bearhug.  
+~
+0
+Clanname none~
+0
+0
+65 32 600 C
+70 1 -40 1d1+432 4d10+57
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29317
+underdark champion~
+the Underdark champion~
+The champion of the Underdark is here.
+~
+Standing here is a slight drow, six feet high she sneers at you.  
+At her side is a dark blade made of some strange metal.  This drow 
+looks very confident and seems to enjoy the mortal combat of the arena 
+for it is not often her kind venture out, especially in public.
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+72 1 -20 1d1+432 4d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29318
+Mekali champion Shaaron~
+the Mekali champion~
+The champion of Mekali is here.
+~
+Standing here dressed in the most basic armor is a man of medium 
+build.  This man stands just under six feet tall and carries himself with 
+an air of nonchalance.
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+72 1 -30 1d1+432 4d10+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29319
+giant allethrin worm~
+the worm Allethrin~
+A giant worm lies here curled in a tight ball.
+~
+You estimate the giant worm to be almost thirty feet long, but you can't 
+tell exactly because it is curled up as it sleeps.  Hard scales cover its 
+top side but you notice it has a very soft underbelly, the perfect spot for 
+a dagger.  A huge suction like mouth sucks in the air as the worm stirs.  
+This monstrosity can only be the one know as Allethrin.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+71 0 -30 1d1+450 6d10+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29320
+giant statue~
+a statue~
+A giant statue stands guard here.
+~
+Looming above you is perhaps the biggest statue you have ever seen.  Made 
+entirely of some indescribable material, the features of this statue are 
+resolute.  It stands straight and stares out into the land beyond.  
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+80 0 -40 1d1+480 6d10+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29321
+selnor figure~
+an elusive figure~
+A figure reclines in the shadows.
+~
+You look into the eyes of a man of magic.  Sparkles of light rotate around 
+him, forming and unforming like puddles on a slate floor.  He is passive for 
+all intents and purposes.  He shows no sign of fear, and looks as though he 
+has the weight of the world on his shoulders.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+80 0 -20 1d1+480 6d10+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29322
+champion Xarcotar Crixler~
+the Xarcotar champion~
+The champion of Xarcotar is here.
+~
+This lithe dark-elf has a sinister and uncanny feature about him.  His 
+beguiling appearance seems dark and mysterious, yet some how alluring.  
+Standing nearly six feet in height, extremely tall for the drow community.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+70 1 -40 1d1+432 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#29300
+allethrin gem~
+the gem of Allethrin~
+A strange gem lies here, it pulsates with a malevolent glow.~
+~
+32 16 32
+0 0 0 0 0 0 0
+1 1313 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29300 gem allethrin~
+This gems is huge, it glows dully giving off a faint light.  Deep inside 
+the gem figures writhe in pain.  This gem must be a holder of souls.  
+You imagine all the victims of allethrin have been consumed by this 
+artifact, best be careful least it consumes you to.
+~
+#29301
+champion's girth huge~
+the `#`YChampion's`^ girth~
+A huge, finely crafted girth is here.~
+~
+9 256 8
+45 45 9 0 0 0 0
+1 1487 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29301 girth champion cusson~
+This girth hums with innate power, it is most certainly magical and one 
+of a kind.  Thick inlaid runes run from left to right across the girth face 
+forming intricate patterns.  You stare at perhaps the most powerful 
+armor you have ever seen.
+~
+#29302
+plain key innkeep~
+a plain key~
+A rather plain key is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29302 key plain innkeep~
+This is an ordinary looking key, nothing special here.
+~
+#29303
+bottle trekar wine~
+a bottle of Trekar wine~
+A bottle of wine is here.~
+~
+17 0 16
+10 2 0 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29303 bottle trekar wine~
+This bottle is dirty from many users the wine inside is dark and looks 
+to be off.
+~
+#29304
+handle foaming beer~
+a handle of foaming beer~
+A handle of beer is here.~
+~
+17 0 16
+10 1 0 0 0 0 0
+1 9 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29304 handle beer foaming~
+This handle contains a lovely looking beer, it has just the right head 
+and looks very drinkable.
+~
+#29305
+souvenir dandenong worthless junk~
+a souvenir of Dandenong~
+A worthless piece of junk lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29305 worthless junk souvenir dandenong~
+This is a worthless object at first glance.  After much examination you 
+determine that it is still worthless after three or four glances.
+~
+#29306
+clump iron souvenir allethrin~
+a souvenir of Allethrin~
+A clump of iron lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29306 symbol Allethrin souvenir~
+Looking at the clump of iron, you notice that it is in the shape of a 
+sleeping worm.  On the underside you see inscribed "The Worm of Allethrin".  
+
+~
+#29307
+magical plate dwarf~
+a suit of dwarven made plate~
+A suit of plate mail is here.~
+~
+9 1 8
+10 10 5 0 0 0 0
+1 440 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29307 plate magical dwarf~
+This plate mail is or very fine make, the runes that run over it must 
+bestow some properties.  It looks very expensive.
+~
+#29308
+magical leggings dwarf~
+a pair of dwarven made leggings~
+A pair of leggings lies here.~
+~
+9 1 8
+10 10 4 0 0 0 0
+1 438 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29308 leggings magical dwarf~
+These legging are of excellent quality, they have intricate runes and 
+patterns etched into them.  
+~
+#29309
+pink frosted pastry~
+a `#`Mpink frosted`^ pastry~
+A pastry, iced with pink icing, lies here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29309 lovely pastries~
+An extremely tasty looking pastry.
+~
+#29310
+hot bread~
+some hot bread~
+Some bread is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29310 hot bread~
+An extremly hot loaf of bread, YUMMY!!
+~
+#29311
+miner's pick axe~
+a miner's pick~
+A rock pick is here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 476 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29311 miners pick~
+This miners pick looks extremely durable and might double as a good 
+weapon.
+~
+#29312
+miners hat~
+a miners hat~
+A miners hat is here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 404 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29312 miners hat~
+This miners hat looks extremely durable and might double as good 
+armor.
+~
+#29313
+ticket arena~
+the arena ticket~
+A ticket of some sort is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29313 arena ticket~
+This is a ticket to the arena.  It reads 'Come see the best fighters in all 
+the realm fight at Dandenong'.
+~
+#29314
+green emerald silk dress~
+an `#`Gemerald green`^ silk dress~
+An `#`Gemerald green`^ silk dress lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 128 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29314 silken dress~
+This is a long, evening dress made of emerald green silk.  
+~
+#29315
+heavy plate~
+some heavy plate mail~
+Some heavy plate mail is here.~
+~
+9 0 8
+30 30 8 1 0 0 0
+1 596 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29315 heavy plate mail~
+This is very well used platemail.  It looks of strong design.
+~
+#29316
+strong sword~
+a strong sword~
+A strong sword is here.~
+~
+5 0 4
+4 38 51 0 0 0 0
+1 606 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29316 strong sword~
+This is a very well used sword.  It looks of strong design.
+~
+#29317
+heavy girth~
+a heavy girth~
+A heavy girth is here.~
+~
+9 0 8
+30 30 4 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29317 heavy girth~
+This is very well used girth.  It looks of strong design.
+~
+#29318
+heavy leggings~
+some heavy leggings~
+A pair of heavy leggings are here.~
+~
+9 0 8
+30 30 5 0 0 0 0
+1 599 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29318 heavy leggings~
+This is very well used pair of leggings.  They look of strong design.
+~
+#29319
+plain dress~
+a plain dress~
+A plain dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29319 plain dress~
+This is a very plain looking dress.  
+~
+#29320
+runed sword~
+a runed sword~
+A runed sword is here.~
+~
+5 16 4
+3 127 169 144 0 0 0
+1 810 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29320 a runed sword~
+This is a very well used sword.  It has deep runes running down its 
+length.
+~
+#29321
+cleric robe~
+the robes of a cleric~
+A heap of cloth is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 33 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29321 cleric robe~
+This is a very strange looking outfit, it looks to be something a cleric 
+would use.
+~
+#29322
+strange odd-looking necklace~
+a strange necklace~
+An odd-looking necklace lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29323
+champions gauntlets~
+the `#`YChampion's`^ gauntlets~
+Some gauntlets, suited to a champion, lie here.~
+~
+9 2 8
+50 50 10 0 0 0 0
+1 1372 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29323 champion gauntlets~
+These are the fabled gauntlets of Gahan, one of the four champions of 
+Thera.  These gauntlets radiate innate power and pulse with energy.
+~
+#29324
+champion boots~
+the `#`YChampion's`^ boots~
+Some champion's boots are here.~
+~
+9 2 8
+50 50 10 0 0 0 0
+1 1354 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29324 champion boots~
+These are the fabled boots of Tygor, one of the four champions of 
+Thera.  These boots radiate innate power and pulse with energy.
+~
+#29325
+marah blade sword dark~
+a dark blade~
+A dark blade is here.~
+~
+5 2 4
+5 89 118 4 0 0 0
+1 1420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29325 blade dark~
+This is the fabled blade of Marah, one of the four champions of Thera.  
+This blade radiates innate power and pulses with energy.
+~
+#29326
+black leather helm~
+the helm of `#`sdefiance`^~
+A helmet is laying here.~
+~
+9 256 8
+50 50 11 0 0 0 0
+1 1366 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29327
+glowing sword defiance~
+the sword of `#`Sdefiance`^~
+A glowing sword lies here.~
+~
+5 256 4
+3 97 119 80 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29327 sword defiance~
+This is the fabled sword of Defiance, Shaaron, one of the four 
+champions of Thera, wields this weapon.  The sword glows softly and 
+makes you feel at peace.
+~
+#29328
+vest defiance~
+the vest of `#`Sdefiance`^~
+A vest is here.~
+~
+9 256 8
+50 50 16 0 0 0 0
+1 1327 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29328 vest defiance~
+This is the Vest of defiance worn by the champion Shaaron.  It glows 
+softly all the while giving off a peaceful aura.
+~
+#29329
+leggings defiance~
+the leggings of `#`Sdefiance`^~
+Some leggings are here.~
+~
+9 256 8
+50 50 13 0 0 0 0
+1 1312 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29329 leggings defiance~
+These are the Leggings of defiance worn by the champion Shaaron.  
+They glow softly all the while giving off a peaceful aura.
+~
+#29330
+rod enchantment~
+the rod of enchantment~
+A nice looking rod is here.~
+~
+5 64 4
+3 105 135 44 0 0 0
+1 1330 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29330 rod enchantment~
+This is a rod of enchantment.
+~
+#29331
+finely crafted girdle grey leather~
+a girdle made of `#`Sgrey leather`^~
+A finely crafted girdle lies here.~
+~
+15 64 8
+5 0 1000 50 0 0 0
+1 1749 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29331 girdle selnor~
+This girdle hums with innate power, it is most certainly magical and one 
+of a kind.  Thick inlaid runes run from left to right across the girdles side 
+forming intricate patterns.
+~
+#29332
+grey leather pants~
+some `#`Sgrey leather`^ pants~
+Some leather pants lie here.~
+~
+9 256 8
+55 55 20 0 0 0 0
+1 1616 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29332 pants~
+These Grey leather pants are more that what they seemed on first inspection.
+They are magical, maybe the creation of some great wizard.
+~
+#29333
+grey leather vest~
+a `#`Sgrey leather`^ vest~
+A leather vest lies here.~
+~
+9 256 8
+55 55 20 0 0 0 0
+1 1698 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29333 vest~
+This Grey leather vest is more that what it seems on first inspection.  
+It is magical, maybe the creation of some great wizard.
+~
+#29334
+grey leather boots~
+some `#`Sgrey leather`^ boots~
+Some leather boots lie here.~
+~
+9 256 8
+55 55 16 0 0 0 0
+1 1712 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29334 boots~
+These grey leather boots are more that what they seemed on first inspection. 
+They are magical, maybe the creation of some great wizard.
+~
+#29335
+grey leather cowl~
+a `#`Sgrey leather`^ cowl~
+A leather cowl lies here.~
+~
+9 256 8
+55 55 10 0 0 0 0
+1 1718 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29335 cowl grey leather~
+This grey leather cowl is more that what it seems on first inspection.  
+It is magical, maybe the creation of some great wizard.
+~
+#29336
+gloves of striking~
+some gloves of `#`Sstriking`^~
+Some leather gloves lie here.~
+~
+9 256 8
+55 55 13 0 0 0 0
+1 1776 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29336 gloves~
+These grey leather gloves are more that what they seemed on first inspection.
+They are magical, maybe the creation of some great wizard.
+~
+#29337
+dagger shadowy Defiance~
+the dagger of `#`Sdefiance`^~
+A shadowy black steel dagger lies here.~
+~
+5 64 4
+2 89 118 16 0 0 0
+1 2400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#29300
+Guest Room~
+~
+This small guest room is decorated with red carpeting on the floor and 
+bright burgandy curtains hanging over the windows.  A roaring fire burns in 
+the fireplace, giving light and warmth to the room.  The bed on the north 
+wall appears to be fairly nice and in good shape.  An average room for an 
+average price.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 29303
+S
+#29301
+Road~
+~
+You stand before a bustling town, and see people hurrying about with 
+slightly frowned looks.  The town is very old and its walls are almost 
+crumbling with age.  The front gates have long since given in and now sit 
+rotting in the nearby fields.  
+~
+1 0 2
+D0
+Inside Dandenong
+~
+~
+0 0 29302
+R M 0 29320 3 29301
+  R E 0 29330 0 17
+E
+gates old rotting~
+These old gates are useless beyond repair.  They look as though they 
+have not being used in a long time.  They have though been moved 
+recently as a patch of dead grass gives away the gates previous resting 
+place.
+~
+S
+#29302
+Inside the Town~
+~
+You stand inside the walls of this city.  The town is bustling with 
+energy.  The market to the north looks very busy.  Looking around you 
+see interesting shops west and east.  As you stand inside this town 
+you get the feeling something is wrong, you cant quite place it, but 
+something isn't quite right.
+~
+1 0 1
+D1
+Quiet street
+~
+~
+0 0 29305
+D2
+Road before Dandenong
+~
+~
+0 0 29301
+D3
+Inn foyer
+~
+~
+0 0 29303
+E
+market shops people dandenong~
+Everything seems normal here but something is amiss.  Things just are 
+not right, but, you cant seem to put your finger on it.
+~
+S
+#29303
+Inn Foyer~
+~
+You stand inside a very neat foyer.  Various signs about prices and rules 
+line the walls.  This must be where all the wary travels come to rest before 
+they visit the market.  
+ 
+Type LIST to see what rooms are available.
+~
+1 1073741832 0
+D1
+Inside the gate
+~
+~
+0 0 29302
+R M 0 29300 1 29303
+  R G 0 29302 0
+E
+sign wall~
+The signs here reads: Leave the place as you find it, or ELSE.
+                              Overnight stay: 10 Gold.
+~
+S
+#29304
+A Cheap Room~
+~
+You are in a very spacious room.  No beds are here but straw has been 
+laid out over one side of the room.  The instant you enter this room you 
+feel safe and secure.  The walls are plain stone and the only way out is 
+the way you came in.
+~
+1 8 0
+D1
+~
+~
+0 0 29303
+E
+straw~
+Some comfortable looking straw is piled in a corner here it looks as 
+though it will make a nice place to sleep.
+~
+S
+#29305
+Quiet Street~
+~
+You stand in a quiet street which runs parallel to the market.  Shops 
+are north and south of you.  The street is old and battered from use.  A 
+shallow ditch runs across the street.
+~
+1 0 1
+D0
+Guard room
+~
+~
+0 0 29307
+D1
+Quiet street
+~
+~
+0 0 29310
+D2
+Tavern
+~
+~
+0 0 29306
+D3
+Inside Dandenong
+~
+~
+0 0 29302
+R O 0 7570 0 29305
+E
+ditch street shallow~
+These ditches can not be for drainage, as they run randomly across the 
+street.  It looks as though some monster has made them. A big monster, 
+some giant snake maybe.
+~
+S
+#29306
+Tavern~
+~
+You stand in a glorious tavern, thick wood paneling covers the stone 
+walls and a dark wood bar runs the full length of the room.  Pictures of 
+all sorts hang on the walls.  In stark contrast to the rest of the bar, 
+tables and chairs are scattered about the room making it impossible to 
+get a seat.
+~
+1 8 0
+D0
+Quiet street
+~
+~
+0 0 29305
+R M 0 29301 1 29306
+  R G 0 29303 0
+  R G 0 29304 0
+E
+pictures walls~
+These pictures represent everyday life in Dandenong, they seem pretty 
+normal.  One picture does catch your eye though, it pictures a giant 
+worm fighting a mage, the mage is using some magical power to force 
+the worm down a well, the worm fights in vain as it is forced into the 
+well.
+~
+S
+#29307
+Guard Room~
+~
+You are inside the head quarters of the city guard.  This room smells of 
+beer and is very messy.  The door to this room has been caved in and 
+now stands hopelessly ajar, useless.  The far side of the room has blood 
+stains smeared across the wall.
+~
+1 8 0
+D1
+Sleeping quarters
+~
+~
+0 0 29308
+D2
+Quiet street
+~
+~
+0 0 29305
+R M 0 29310 6 29307
+  R E 0 29315 0 5
+  R E 0 29316 0 16
+  R E 0 29318 0 7
+  R E 0 29317 0 13
+E
+blood wall smeared~
+Blood is smeared across the walls here, it looks as though someone or 
+something has being crushed up against the wall and bleed alot.  The 
+stone wall is slightly caved in but it still supports the weight of the roof.
+~
+S
+#29308
+Guard's Sleeping Quarters~
+~
+This room is the guards bunk house.  It is smelly and messy like the 
+rest of the place.  One bunk though is made very neatly.  In the far 
+corner of the room is a ladder that leads up.  The walls of this bunk 
+house are painted white.
+~
+1 8 0
+D3
+Guard room
+~
+~
+0 0 29307
+D4
+Lookout
+~
+~
+0 0 29309
+E
+ladder up~
+A ladder is here which leads to somewhere above the bunk room.
+~
+S
+#29309
+Lookout~
+~
+From this vantage point above the guards sleeping quarters you can 
+look out over all the market.  To the east you see a grand house, to the 
+west you see hills and a mine, to the north the bustling market sprawls 
+out before you.  This must be where the guards monitor the city.  As 
+you turn away you notice a darkness over the north west corner of the 
+town.
+~
+1 0 1
+D5
+Sleeping quarters
+~
+~
+0 0 29308
+R M 0 29309 1 29309
+  R E 0 29301 0 13
+  R E 0 29315 0 5
+  R E 0 29316 0 16
+  R E 0 29318 0 7
+E
+darkness northwest north west~
+A strange darkness looms over this corner of the town, it is almost 
+impenetrable, you barely make out the shape of a well.
+~
+S
+#29310
+Quiet Street~
+~
+You stand in a quiet street which runs parallel to the market.  Shops 
+are north and south of you.  The street is old and battered from use.  A 
+shallow ditch runs across the street.
+~
+1 0 1
+D1
+Quiet street
+~
+~
+0 0 29312
+D2
+Temple
+~
+~
+0 0 29311
+D3
+Quiet street
+~
+~
+0 0 29305
+E
+ditch street shallow~
+These ditches can not be for drainage as they run randomly across the 
+street.  It looks as though some monster has made them a big monster, some 
+giant snake maybe.  
+~
+S
+#29311
+Temple~
+~
+You stand in what resembles a temple.  You can not make out who the 
+god of this temple is for there are no symbols of any deity you know.  
+The walls are solid stone and a musty hue hangs in the air, this 
+certainly smells more like a bog than a temple.  Interesting place to 
+visit but you felt safer in any ordinary city shop rather than this place.  
+A strange plaque hangs in the far corner of the temple.
+~
+1 8 0
+D0
+Quiet street
+~
+~
+0 0 29310
+R M 0 29313 1 29311
+  R E 0 29320 0 16
+  R E 0 29321 0 5
+  R E 0 29322 0 3
+R M 0 29314 1 29311
+  R E 0 29322 0 3
+  R E 0 29322 0 4
+E
+plague hang wall~
+This plaque reads: For those that seek the mighty Allethrin, their will 
+be only death, but if thee wilt go to him go bravely and with sharpened 
+dagger.
+~
+S
+#29312
+Quiet Street~
+~
+You stand in a quiet street which runs parallel to the market.  Shops 
+are north and south of you.  The street is old and battered from use.  A 
+shallow ditch runs across the street.
+~
+1 0 1
+D0
+Quiet street
+~
+~
+0 0 29313
+D3
+Quiet street
+~
+~
+0 0 29310
+E
+ditch street shallow~
+These ditches can not be for drainage as they run randomly across the 
+street.  It looks as though some monster has made them.  A big monster, some 
+giant snake maybe.  
+~
+S
+#29313
+Quiet Street~
+~
+You stand in a quiet street which runs parallel to the market.  Shops 
+are north and south of you.  The street is old and battered from use.  A 
+shallow ditch runs across the street.
+~
+1 0 1
+D0
+Outside mayors house.
+~
+~
+0 0 29314
+D2
+Quiet street
+~
+~
+0 0 29312
+E
+ditch street shallow~
+These ditches can not be for drainage as they run randomly across the 
+street.  It looks as though some monster has made them.  A big monster, some 
+giant snake maybe.  
+~
+S
+#29314
+Outside the Mayor's House~
+~
+You stand outside an impressive mansion.  This house you stand before 
+stretches out to the north. Directly east is the entrance, and west is 
+the back of a shop, no doubt one of the many shops in the market.  Looking 
+closely at the house you realize it was built a long time ago. it has faded 
+white paint cracking all over but none the less still a very impressive house.
+~
+1 0 1
+D0
+Entrance to market
+~
+~
+0 0 29318
+D1
+Inside the mansion
+~
+~
+0 0 29315
+D2
+Quiet street
+~
+~
+0 0 29313
+R M 0 29320 3 29314
+  R E 0 29330 0 17
+S
+#29315
+Inside the Mansion~
+~
+You stand inside the entrance to this grand old house.  Old tapestries 
+line the walls, and torches burn around the room.  This room is 
+extremely well lit and you see why -  a table in the room's center is set 
+with five chairs.  This must be the meeting room of the town council.  
+After soaking up much of the tapestries around the room you turn 
+away.  As you go to leave the room you look up, and the entire ceiling is 
+one huge mural.
+~
+1 8 0
+D0
+Living room
+~
+~
+0 0 29316
+D3
+Outside the mayors house
+~
+~
+0 0 29314
+E
+mural wall ceiling~
+This mural depicts two stone statutes standing guard at the towns main 
+gate, defending the town against hoards of Duergar, the evil looking 
+cousins of the Dwarf restlessly attack the town only to be slaughtered 
+by the statutes.  Standing on the towns ramparts is an old wizard, 
+supported by two men, one a huge cityguard the other a wizened dwarf, 
+the old wizard barely keeps his feet even with the help of the two.
+~
+S
+#29316
+Living Room~
+~
+You stand inside a cozy living room.  Thick carpets line the floors, 
+while long hanging curtains cover the walls.  This room is very hot, not 
+only because of it carpets and curtains, but also because heat is pouring 
+out of the next room to the north.  A fire crackles in the room corner, 
+sending a rosy glow around the room. This place looks great, maybe 
+time to put up those adventuring boots for a while and settle in.
+~
+1 8 0
+D0
+~
+~
+0 0 29317
+D2
+~
+~
+0 0 29315
+R M 0 29308 1 29316
+  R E 0 29314 0 5
+E
+fireplace corner~
+This is a lovely fire it gives of a lot of heat but most of the heat seems 
+to come from the room to the north.
+~
+S
+#29317
+Natural Baths~
+~
+Yes, you think to yourself.  A heated indoor pool.  This room has 
+water bubbling up through the ground and gathering in natural pool.  
+Things could not get much better than this.  The pool takes up nearly 
+the entire room, leaving little room for anything else.  The steam rises 
+and glides around the room seeking escape, and finds it into the living 
+room.  You wonder where exactly the heat is coming from, insignificant you 
+muse, but something nags you about that question.  You resolve to find out 
+later.
+~
+1 8 0
+D2
+Living room
+~
+~
+0 0 29316
+R M 0 29307 1 29317
+S
+#29318
+Entrance to the Market~
+~
+You stand before the market place of the town.  This is perhaps one 
+of the most interesting markets in the realm.  The market sprawls out in 
+front of you, a sea of stalls and people.  Looking down the street you 
+see people hurrying to and fro.
+~
+1 0 1
+D0
+Alley corner 
+~
+~
+0 0 29319
+D2
+Outside the mayors house
+~
+~
+0 0 29314
+D3
+In the market
+~
+~
+0 0 29320
+S
+#29319
+Alley Corner~
+~
+This is a quiet alley corner, you feel very alone in this corner and the 
+place seems a little darker than the rest of the town.  In the corner of 
+the alley some writing is on the wall.  Save for the writing this is the 
+most boring alley you have ever been in.  
+~
+1 0 1
+D2
+Entrance to the market
+~
+~
+0 0 29318
+E
+writing wall~
+Someone has written something on the wall here it reads: The worm 
+is not the threat it was the Duer... .. The writing ends abruptly with a 
+line as though the writers hand has been pulled away.  You can only 
+guess what the author meant but have no doubt something is up.
+~
+S
+#29320
+Inside the Market~
+~
+Inside the market the noise hits you, people are yelling prices, others 
+screaming 'stop thief,' and yet others talking shop with each other.  You 
+realize that the market is one nasty place after all.  The road beneath your 
+feet is cobbled unlike the other roads in the town.  Although old, it has 
+held up to the hundreds of feet well and now remains one of the few things 
+about the town unchanged. 
+~
+1 0 1
+D0
+Metal smith
+~
+~
+0 0 29321
+D1
+Entrance to the market
+~
+~
+0 0 29318
+D2
+Souvenir shop
+~
+~
+0 0 29322
+D3
+Center of the market
+~
+~
+0 0 29323
+S
+#29321
+Metal Smith~
+~
+You are in side a metal smith's shop.  Searing heat comes from the 
+forge out the back of the shop and you feel that if you were any closer 
+you would surely burn.  This shop sells rare dwarven make equipment, 
+which looks very expensive.  The shop its self is bland.  The ceiling of this 
+shop has a rather large hole in it, this is obviously to let out the heat.  
+You notice the shop's counter is badly damaged, looks like axe marks.
+~
+1 8 0
+D2
+Inside the market
+~
+~
+0 0 29320
+R M 0 29303 1 29321
+  R G 0 29307 0
+  R G 0 29308 0
+E
+counter marks~
+There are axe marks here on this counter, someone has tried to wreck 
+this metal smith shop once.  The imprint of a crest from an axe is left 
+on the underside of the counter, must have been a bad swing for it to 
+hit side on.  The crest is dwarven in nature.
+~
+S
+#29322
+Souvenir Shop~
+~
+You are inside a bright little shop.  A quaint little counter separates
+you from the merchandise which seems mostly to be worthless trinkets.  
+This shop has a floor made entirely of wood.  The wood must be covering
+the stone floors.  Light streams in from the outside as this shop has no
+roof.  Wooden beams run above your head holding the shop together.
+~
+1 8 0
+D0
+Entrance to market
+~
+~
+0 0 29320
+R M 0 29302 1 29322
+  R G 0 29305 0
+  R G 0 29306 0
+S
+#29323
+Market Center~
+~
+You stand in what you approximate to be the center of the market.  
+This is a busy spot.  People pour into a stall south of you in eager 
+anticipation, and you wonder where they are going.  Directly north of you 
+the stone wall rises up from the cobbled market floor almost ten feet 
+high.  This wall is strong and solid, you estimate it at four feet deep.  
+The walls back against mountain terrain and you are left wondering why 
+such a strong wall faces the mountain.  Surely the front gates would be 
+more important to defend.
+~
+1 0 1
+D1
+Inside the market
+~
+~
+0 0 29320
+D2
+Ticket shop
+~
+~
+0 0 29324
+D3
+Street in the market
+~
+~
+0 0 29326
+R M 0 29311 8 29323
+  R E 0 29315 0 5
+  R E 0 29316 0 16
+  R E 0 29318 0 7
+  R E 0 29317 0 13
+S
+#29324
+Ticket Shop~
+~
+You stand inside very busy shop, with people hustling and bustling around.  
+Many people disappear behind some curtains then you see no more, strange,
+so many people can fit behind those curtains.  A counter is here, which has
+pictures of great fighters on the front, most of which you don't recognize.
+On the walls hangs a painting representing two crossed forearms, this is 
+the symbol of the gladiator.
+~
+1 8 0
+D0
+Market center
+~
+~
+0 0 29323
+D5
+Underground arena
+~
+trap~
+33 29313 29325
+R M 0 29306 1 29324
+  R G 0 29313 0
+E
+curtain~
+This curtain conceals what is really happening behind it, but by the 
+looks of things the people who go behind the curtain are not returning.  
+You also here the unmistakable sound of a door opening and closing.
+~
+S
+#29325
+Underground Arena~
+~
+So this is where all the people have been going.  As you enter the 
+underground arena you are hit by the smell of blood, leather and sweat.  
+In the center of the makeshift arena is a large circle, formed in the 
+dirt by a thick rope.  Outwards and around the circle people mill 
+around jostling for the best seat.  This is the obviously one of the 
+infamous gladiatorial pits.  In the far corner of the room a large 
+man walks forward from the crowd and shouts "I WILL CHALLENGE."
+You sit back to watch just one fight.
+~
+1 8 0
+D4
+Ticket shop
+~
+trap~
+33 29313 29324
+R M 0 29315 1 29325
+  R E 0 29323 0 9
+R M 0 29316 1 29325
+  R E 0 29324 0 8
+R M 0 29317 1 29325
+  R E 0 29325 0 16
+R M 0 29318 1 29325
+  R E 0 29326 0 6
+  R E 0 29327 0 16
+  R E 0 29328 0 5
+  R E 0 29329 0 7
+R M 0 29322 1 29325
+  R E 0 29337 0 16
+E
+fight huge man~
+You prepare to watch one of the opening fights of the day,  The large 
+man strides forward from the crowd and plants his feet firmly in the 
+center of the circle.  The arena announcer shouts out Drelkaeu, squire 
+of Marah come forward and let the games begin.  Out of the back of 
+the arena comes a skinny drow female, she carries nothing.  Drelkaeu 
+walks into the circle and stops, she remains motionless.  The 
+announcer shouts "begin".   The huge man leaps to the attack meaning 
+to squash this petty creature in his hands, as he runs forward the drow 
+ducks pulls a dagger from a sheath and plunges it into the back of the 
+large man as he goes charging by.  He falls without a cry, Drelkaeu 
+slips away.  The announcer then shouts "well that was quick, um Is 
+there anybody out their wanting to face our champions?"    
+~
+S
+#29326
+Street in the Market~
+~
+You stand in one of the many streets of the market, nothing unusual or 
+interesting about this spot.  To the west the crowd thins out 
+dramatically.  
+~
+1 0 1
+D1
+Market center
+~
+~
+0 0 29323
+D2
+Street in the market
+~
+~
+0 0 29327
+D3
+Before the well
+~
+~
+0 0 29331
+S
+#29327
+Street in the Market~
+~
+You stand in one of the many streets of the market, nothing unusual or 
+interesting about this spot.  To the west the crowd thins out 
+dramatically.  
+~
+1 0 1
+D0
+Street in the market
+~
+~
+0 0 29326
+D2
+Street in the market
+~
+~
+0 0 29328
+S
+#29328
+Street in the Market~
+~
+You stand in one of the many streets of the market, nothing unusual or 
+interesting about this spot.  To the west the crowd thins out 
+dramatically.  
+~
+1 0 1
+D0
+Street in the market
+~
+~
+0 0 29327
+D3
+Food store
+~
+~
+0 0 29329
+R M 0 29312 10 29328
+S
+#29329
+Food Store~
+~
+You walk into a lovely food store, it smells of lavender and honeysuckle.
+Pretty objects hang on the walls, like dried flowers and pictures.  The
+bakery out back lets nice hot air flow through to the store front, and the 
+smell of fresh bread and pastry fills your nostrils.  What a lovely shop, 
+you cant wait to be served.
+~
+1 8 0
+D1
+Street in the market
+~
+~
+0 0 29328
+R M 0 29304 1 29329
+  R E 0 29319 0 5
+  R G 0 29309 0
+  R G 0 29310 0
+S
+#29330
+Mining Shop~
+~
+This an old mining shop which sells mining goods to those who would 
+venture into the mines west of the town.  It is run down and in need of 
+repair.  The wooden ceiling boards are all but decayed and the water can 
+get through the roof.  Scattered about the room are old broken bottles 
+and some empty handles of beer.  For a town built on mining this is 
+most strange that this shop would be out of business.
+~
+1 8 0
+D0
+Before the gates
+~
+~
+0 0 29331
+R M 0 29305 1 29330
+  R G 0 29311 0
+  R G 0 29312 0
+S
+#29331
+Before the Gates~
+~
+To the west are solid iron gates.  They are ten feet high with sharp
+spikes on the top of each length of iron.  The gates are locked tight,
+barred and chained.  Not so much as to stop people from heading in to
+the mines beyond but to stop something from getting out.  You stare past the
+gates and see the dark entrance to the mine, the mainstay of the local
+community.  What has happened that you can no longer get to the mine?  To
+the north is something almost as disturbing, a dark corner of the town.  You
+peer hard in the darkness but cannot make anything out.  
+~
+1 0 1
+D0
+Darkness
+~
+~
+0 0 29332
+D1
+Quiet street in the market
+~
+~
+0 0 29326
+D2
+Mining shop
+~
+~
+0 0 29330
+E
+gates ~
+The gates are locked tight.  There doesn't seem to be a way to open them.
+~
+S
+#29332
+The Well~
+~
+This area is dark and forbidding.  Nothing lives here, the grass is dead,
+and the air still.  What may have occurred here you can only guess at.  In
+the far corner of the town up against the wall there is a well.  It seems to
+be the source of your discomfort.  Around the well bones twisted and
+lifeless glare at you a reminder of your mortality.  The walls of the town
+look twisted and misshapen from here.  Surely this a dangerous place and one to
+stay clear of.  
+~
+1 0 1
+D2
+Before the gates
+~
+~
+0 0 29331
+D5
+Darkness
+~
+~
+0 0 29333
+E
+well bones~
+The see bones scattered about the well they are broken and misshapen, the well 
+itself seems alive.  Dark black the well draws you closer, you feel the evil of 
+this place draw away your courage.  Thick moss lines the base of the well and 
+dead vines reach out from the cracks between the mine and the town wall like 
+fingers searching for a way out.  Upon looking in the well you see a rusty 
+ladder descending into the mine's depths.  
+~
+S
+#29333
+Allethrin's Prison~
+~
+You reach the bottom of the ladder, and stand perhaps ten feet below the
+ground level.  You are in a circular cave with rock walls all the way round.
+This room is very dark and you find it hard to see even with lighting.  You
+see no water in the bottom of this well. How strange, the place feels more 
+like a prison.  
+~
+1 8201 0
+D4
+Darkness
+~
+~
+0 0 29332
+D6
+~
+door~
+1 0 29334
+R M 0 29319 1 29333
+  R E 0 29300 0 18
+S
+#29334
+Selnor's Prison~
+~
+This room is non-descript.  A basin in one corner, a matress in the other.  
+A door leads southwest but it looks barred.  A small hole in the door allows 
+food to be passed through by the looks.
+~
+1 8201 0
+D8
+~
+~
+1 0 29333
+R M 0 29321 1 29334
+  R E 0 29331 0 13
+  R E 0 29332 0 7
+  R E 0 29333 0 12
+  R E 0 29334 0 8
+  R E 0 29335 0 6
+  R E 0 29336 0 9
+S
+#0
+
+
+#SHOPS
+ 29301    0  0  0  0  0   150  50         0 23    ; a tavern keeper
+ 29302    0  0  0  0  0   150  50         0 23    ; a souvenir seller
+ 29303    9  5  0  0  0   150  50         0 23    ; a dwarven metalsmith
+ 29304    0  0  0  0  0   150  50         0 23    ; a food store attendant
+ 29305    9  5 11 15  0   150  40         0 23    ; a mining shop keeper
+ 29306    0  0  0  0  0   150  50         0 23    ; an arena ticket seller
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

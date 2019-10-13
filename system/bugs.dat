@@ -1,0 +1,34 @@
+[*****] BUG: new_get_room_index: bad vnum 59899. Called from file db.c line 3155 &D
+[*****] BUG: Deleting west exit in room 70128 &D
+[*****] BUG: new_get_room_index: bad vnum 59819. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70166 &D
+[*****] BUG: new_get_room_index: bad vnum 59983. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70170 &D
+[*****] BUG: new_get_room_index: bad vnum 59985. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70171 &D
+[*****] BUG: new_get_room_index: bad vnum 59987. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70172 &D
+[*****] BUG: new_get_room_index: bad vnum 59980. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70173 &D
+[*****] BUG: new_get_room_index: bad vnum 59978. Called from file db.c line 3155 &D
+[*****] BUG: Deleting north exit in room 70175 &D
+[*****] BUG: new_get_room_index: bad vnum 59901. Called from file db.c line 3155 &D
+[*****] BUG: Deleting east exit in room 70175 &D
+[*****] BUG: new_get_room_index: bad vnum 59981. Called from file db.c line 3155 &D
+[*****] BUG: Deleting south exit in room 70182 &D
+[*****] BUG: Read_object: vnum 21510 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21508 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21508 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21516 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21516 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21516 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21516 bad type. &D
+[*****] BUG: ------------------------>  11  &D
+[*****] BUG: Read_object: vnum 21516 bad type. &D
+[*****] BUG: ------------------------>  11  &D

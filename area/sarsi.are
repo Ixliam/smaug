@@ -1,0 +1,925 @@
+#AREA        In the Trees~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12368
+squirrel little~
+a little squirrel~
+A little squirrel is here, chewing nuts.
+~
+A cute little squirrel with its cheeks full of little acorns.  It looks at 
+you with wide little eyes and sniffs at your feet with its tiny little nose.
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12369
+sarsi monk~
+a sarsi monk~
+A sarsi monk is here, deep in meditation.
+~
+This is a sarsi monk deep in meditation.  He has a little bald spot on his 
+head and looks rather happy in his oneness with nature.  This monk stands at 
+about 5 foot tall and seems tall for his kind.  
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+18 0 -4 3d5+88 2d8+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12370
+sarsi child~
+a sarsi child~
+A sarsi child rubbing two sticks together.
+~
+A sarsi child is here apparently using non-violent means to start a fire to 
+cook raw leaves.  The child wears clothes made of wood and leaves and it has 
+the cute appearance of a small hairless child.  All the sarsi children seem 
+to be very short and hairless.  
+~
+0
+Clanname none~
+0
+0
+129 32 600 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12371
+sarsi elder~
+a sarsi elder~
+A sarsi elder is here, with a stern look on his face.
+~
+This sarsi elder seems rather old and wisened from years and years of life.  
+He looks rather impervious to anything around him.  He stands about 6 feet 
+tall which is extremely rare for a sarsi.  He also has a beard and it 
+appears that only the elder is able to grow a beard.  Other then the beard 
+the elder is completely hairless.  
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12372
+sarsi male~
+a sarsi male~
+A sarsi male is here, looking at a tree.
+~
+A sarsi male is here looking at some tree in the far off distance.  He seems 
+particularly interested in the tall trees.  He has little or no body hair 
+and is completely bald.  He stands about 4 to 5 feet tall and has the 
+appearance of a shrunken human.  
+~
+0
+Clanname none~
+0
+0
+65 8 600 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12373
+sarsi female~
+a sarsi female~
+A sarsi female is here, staring at the leaves.
+~
+A sarsi female is here staring at some pattern in the leaves.  She seems to 
+enjoy doing this for long periods of time.  She is dressed in clothes made 
+from leaves and branches and seems to have very thin hair.  In fact it seems 
+the females are the only ones able to grow hair past their eyebrows.  
+~
+0
+Clanname none~
+0
+0
+65 8 600 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12374
+forger~
+a weapons forger~
+A Sarsi weapons forger rests here, working on something for the elder.
+~
+A forger of weapons rests here, working on something for the elder.
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12368
+large branch~
+a large branch~
+A large branch with little grooves has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 105 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12368 large branch~
+A large branch with little grooves.
+~
+#12369
+cloak leaves~
+a cloak made from `#`Gleaves`^~
+A cloak made from `#`Gleaves`^ has been left here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12369 cloak leaves~
+A cloak made from the leaves of many trees.
+~
+#12370
+pair wooden pants~
+a pair of `#`ywooden`^ pants~
+A pair of `#`ywooden`^ pants lie here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12370 pair wooden pants~
+A pair of pants seemingly made of wood.
+~
+#12371
+old wooden medallion~
+an old `#`ywooden`^ medallion~
+A wooden medallion with some grooves and knots in the shapes of magical symbols.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12371 old wooden medallion~
+A wooden medallion with grooves and knots in the shapes of magical symbols.
+~
+#12372
+pair wooden gloves~
+a pair of `#`ywooden`^ gloves~
+A pair of `#`ywooden`^ gloves have been left here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12372 wooden gloves~
+A pair of seemingly wooden gloves.
+~
+#12373
+leaf ring~
+a `#`Gleaf`^ ring~
+A `#`Gleaf`^ ring lies here.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 460 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12373 leaf ring compressed~
+A ring made of compressed leaves.
+~
+#12374
+book engraved leaves branches~
+a book engraved with leaves and branches~
+A book engraved with leaves and branches.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12374 book~
+It seems to be a book about the Sarsi but you can't seem to read the old 
+script, maybe you should find a librarian.
+~
+#12375
+long cloak of leaves~
+a long cloak of `#`Glea`gve`Gs`^~
+A long cloak of `#`Glea`gve`Gs`^ lies here.~
+~
+9 0 8
+30 30 7 0 0 0 0
+1 103 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12376
+woven sleeves~
+a pair of woven sleeves~
+A pair of woven sleeves lie here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 103 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12377
+wooden cuff~
+a `#`ywooden`^ cuff~
+A `#`ywooden`^ cuff is here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12378
+soft green cape~
+a soft green cape~
+A soft green cape lies here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 103 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12379
+threaded belt~
+a threaded belt~
+A threaded belt lies here.~
+~
+9 0 8
+30 30 5 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12380
+rare odd-shaped piece~
+a rare odd-shaped piece~
+A rare odd-shaped piece lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12380 rare odd-shaped piece~
+If you have made it to this point.. you know what to do with this.  Contact 
+the one capable of making your dream a reality. 
+~
+#0
+
+
+#ROOMS
+#12368
+In the Trees~
+~
+You are now high up in the great trees of the Sarsi.  Looking around you 
+see bridges seemingly made out of branches stretching across the air to 
+unknown destinations.  The tree you are on appears to be taller then the 
+others.
+~
+1 8 3
+D0
+Bridge made from Branches.
+~
+~
+0 0 12387
+D3
+Bridge made from Branches.
+~
+~
+0 0 12370
+D4
+High in the Great Sarsi Tree.
+~
+~
+0 0 12369
+R M 0 12368 7 12368
+S
+#12369
+High in the Great Sarsi Tree~
+~
+You appear to be in some sort of temple built across the highest branches 
+of this ancient Sarsi tree.  Little wooden candles sprout from the branches 
+themselves and it shows the obvious connection with nature these Sarsi 
+people must have.  You can leave back down.
+~
+1 8 3
+D5
+In the Trees.
+~
+~
+0 0 12368
+R M 0 12369 1 12369
+  R E 0 12371 0 3
+  R E 0 12377 0 14
+  R E 0 12377 0 15
+  R E 0 12378 0 12
+S
+#12370
+Bridge made from Branches~
+~
+You appear to be walking on the interwinding of two branches of separate 
+trees.  The path is nice and wide and little knots are nicely placed to 
+allow better grip.  There is an extreme harmony of nature here.  You can 
+head east or west.
+~
+1 8 3
+D1
+In the Trees.
+~
+~
+0 0 12368
+D3
+~
+~
+0 0 12379
+R M 0 12372 11 12370
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+R M 0 12373 8 12370
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12371
+Bridge made from Branches~
+~
+You are now at the end of this bridge and you can see the next tree to your 
+west.  The birds are chirping here and a little woodchuck scurries away 
+when you step near.  The tree to the west seems to have a little hole in it 
+which looks just big enough for you to climb in.  You may go east or west.
+~
+1 8 3
+D1
+~
+~
+0 0 12379
+D3
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12372
+R M 0 12372 11 12371
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+R M 0 12373 8 12371
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12372
+On Top of a Great Sarsi Tree~
+~
+You are now right beside a knothole in the tree itself.  You can also head 
+north along what looks like another branch bridge.  The smell of wet wood 
+is in the air and you might have glimpsed a pair of glowing eyes from the 
+hole.  You can head north, east or down into the hole.
+~
+1 8 3
+D0
+Bridge made from Branches.
+~
+~
+0 0 12374
+D1
+Bridge made from Branches.
+~
+~
+0 0 12371
+D5
+Inside a Knothole.
+~
+~
+0 0 12373
+R M 0 12372 11 12372
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+S
+#12373
+Inside a Knothole~
+~
+You appear to have squeezed into a little room made entirely out of bark.  
+Little tables and chairs seemed to have sprouted out of the tree itself.  
+You assume a family of Sarsi lives here by the many little wooden toys 
+spread around the floor.  Many look peaceful and most are of animals and 
+plants.  You can leave up or stay for a bit.
+~
+1 9 3
+D4
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12372
+R M 0 12370 10 12373
+R M 0 12370 10 12373
+R M 0 12370 10 12373
+R M 0 12373 8 12373
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12374
+Bridge made from Branches~
+~
+You appear to be heading towards another tree which looks almost exactly 
+the same as the one to the south of you.  There also appears to be a 
+knothole in this tree.  You can head north or south.
+~
+1 8 3
+D0
+Bridge made from Branches.
+~
+~
+0 0 12375
+D2
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12372
+R M 0 12372 11 12374
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+S
+#12375
+Bridge made from Branches~
+~
+You seem to be heading a little higher in the trees and the tree in front 
+of you is so identical to the one to the south that you wonder if it is 
+just the same tree split in half.  The birds are still chirping.  You can 
+head north or south.
+~
+1 8 3
+D0
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12377
+D2
+Bridge made from Branches.
+~
+~
+0 0 12374
+R M 0 12368 7 12375
+R M 0 12368 7 12375
+S
+#12376
+Inside a Knothole~
+~
+This appears to be a library of sorts.  Perfectly shaped bookshelves are 
+all around the room and for some reason you don't see any books.  Maybe 
+they read trees?  You can leave up.
+~
+1 9 3
+D4
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12377
+R M 0 12370 10 12376
+R M 0 12370 10 12376
+R M 0 12372 11 12376
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+R M 0 12373 8 12376
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12377
+On Top of a Great Sarsi Tree~
+~
+You are on top of a great Sarsi tree and a knothole is just below you 
+looking rather inviting for a knothole.  You hear all the sounds of nature 
+around you with that rather content little breeze blowing by.  You can go 
+down into the knothole, east or south.
+~
+1 8 3
+D1
+Bridge made from Branches.
+~
+~
+0 0 12378
+D2
+Bridge made from Branches.
+~
+~
+0 0 12375
+D5
+Inside a Knothole.
+~
+~
+0 0 12376
+R M 0 12368 7 12377
+S
+#12378
+Bridge made from Branches~
+~
+You are on a bridge made by two branches from two separate trees.  The 
+little knotholes are placed perfectly for optimum grip.  To the northeast 
+is a smaller bridge and west is a great Sarsi tree.
+~
+1 8 3
+D3
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12377
+D6
+~
+~
+0 0 12381
+R M 0 12372 11 12378
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+R M 0 12373 8 12378
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12379
+Bridge made from Branches~
+~
+You appear to be walking on the interwinding of two branches of separate 
+trees.  The path is nice and wide and little knots are nicely placed to 
+allow better grip.  There is an extreme harmony of nature here.  You can 
+head east or west.  
+~
+1 8 3
+D1
+~
+~
+0 0 12370
+D3
+~
+~
+0 0 12371
+S
+#12381
+Intersection of Small Branch Bridges~
+~
+The two small branch bridges seem to intersect here.  To the immediate 
+north is the strange looking tree with the steps and there is a strange 
+peace here.  You can go southwest, southeast or north.
+~
+1 8 3
+D0
+Stairs leading up the Tree.
+~
+~
+0 0 12382
+D7
+~
+~
+0 0 12384
+D8
+~
+~
+0 0 12378
+R M 0 12368 7 12381
+R M 0 12368 7 12381
+S
+#12382
+Stairs leading up the Tree~
+~
+You are on the bottom step of a huge tree and there is a huge sense 
+of peace and harmony with nature here.  Its almost as if the steps were 
+created by the tree itself.  Above you can see a glowing light of some 
+sort.  You can head up or south.
+~
+1 8 3
+D2
+Intersection of Small Branch Bridges.
+~
+~
+0 0 12381
+D4
+Top of the Highest Sarsi Tree.
+~
+~
+0 0 12383
+R M 0 12372 11 12382
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+R M 0 12372 11 12382
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+S
+#12383
+Top of the Highest Sarsi Tree~
+~
+You are now extremely high above the continent and think you can spot your 
+city from here.  The wind seems to sing here and no birds are chirping for 
+some reason.  Some sort of groove in the top of the tree is here looking a 
+lot like some sort of firepit.  A leaf falls from a branch nearby and you 
+think you might have heard a scream but it was probably the wind.  You can 
+leave down.
+~
+1 37748744 3
+D5
+Stairs leading up the Tree.
+~
+~
+0 0 12382
+R M 0 12371 1 12383
+  R E 0 12373 0 1
+  R E 0 12375 0 5
+  R E 0 12376 0 10
+  R E 0 12379 0 13
+R M 0 12374 1 12383
+S
+#12384
+Bridge made from Branches~
+~
+You are on a bridge made by two branches from two separate trees.  The 
+little knotholes are placed perfectly for optimum grip.  To the northwest 
+is a smaller bridge and east is a great Sarsi tree.
+~
+1 8 3
+D1
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12385
+D9
+~
+~
+0 0 12381
+R M 0 12372 11 12384
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+S
+#12385
+On Top of a Great Sarsi Tree~
+~
+You are on top of a great Sarsi tree and a knothole is just below you 
+looking rather inviting for a knothole.  You hear all the sounds of nature 
+around you with a rather content little breeze blowing by.  You can go down 
+into the knothole, west or south.
+~
+1 8 3
+D2
+Bridge made from Branches.
+~
+~
+0 0 12386
+D3
+Bridge made from Branches.
+~
+~
+0 0 12384
+D5
+Inside a Knothole.
+~
+~
+0 0 12388
+R M 0 12373 8 12385
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+R M 0 12373 8 12385
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+R M 0 12370 10 12385
+S
+#12386
+Bridge made from Branches~
+~
+You are on top of two branches wrapped around each other from separate 
+trees.  There are convenient knotholes everywhere and there is no fear of 
+falling as it seems the leaves would catch you somehow anyways.  You may go 
+north or south.
+~
+1 8 3
+D0
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12385
+D2
+Bridge made from Branches.
+~
+~
+0 0 12387
+R M 0 12372 11 12386
+  R E 0 12368 0 16
+  R E 0 12370 0 7
+  R E 0 12372 0 9
+S
+#12387
+Bridge made from Branches~
+~
+You are on top of a bridge made from two branches off of two separate 
+trees.  Somehow this is a very sturdy bridge and the sounds of nature can 
+be heard everywhere along with a woodchuck in the distance chewing on some 
+kind of nut.  You may go north or south.
+~
+1 8 3
+D0
+Bridge made from Branches.
+~
+~
+0 0 12386
+D2
+In the Trees.
+~
+~
+0 0 12368
+R M 0 12368 7 12387
+R M 0 12373 8 12387
+  R E 0 12368 0 16
+  R E 0 12369 0 12
+S
+#12388
+Inside a Knothole~
+~
+You are in a very small knothole and the room appears to be some sort of 
+school.  Little stools and tables are carved out of the wood by some 
+natural means and there is no garbage to be found.  Whoever lives here must 
+be very clean.  You can leave up.
+~
+1 9 3
+D4
+On Top of a Great Sarsi Tree.
+~
+~
+0 0 12385
+R M 0 12370 10 12388
+R M 0 12370 10 12388
+R M 0 12370 10 12388
+  R E 0 12374 0 17
+R M 0 12370 10 12388
+R M 0 12372 11 12388
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

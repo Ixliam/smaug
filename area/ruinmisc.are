@@ -1,0 +1,2529 @@
+#AREA        Ruins & Small Towns~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#3900
+old ranger~
+an experienced ranger~
+An experienced looking `#`GR`ganger`^ sits here whittling on a piece of wood.
+~
+This ranger looks to be in his mid 50's.  He has long braided brown hair, 
+green eyes and an unshaven face.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+48 0 -19 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3901
+large furry rat~
+a large furry rat~
+A large furry rat is scurring about gathering food.
+~
+A large furry rat is scrambling about gathering food.  
+~
+0
+Clanname none~
+0
+0
+65 32768 -600 C
+9 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3902
+tyler dog hound~
+tyler the dog~
+`#`GT`gyler`^ the Dog lays here curled up by the fire.
+~
+This dog looks very relaxed and happy.  His owner takes very good care of 
+him.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3903
+druid male elven~
+a druid~
+A loosley robed elven male druid is here meditating.
+~
+This elven man is kneeled in meditation, his eyes are closed and he looks 
+very peaceful.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+62 0 -32 6d10+325 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3904
+thorny plant~
+a thorny tree~
+A `#`gthorny tree`^ stands here.
+~
+This plant is a dog-like creature.  It is covered with a spiky bark.  
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3905
+quickwood plant~
+a quickwood tree~
+A `#`yquickwood tree`^ stands tall here.
+~
+This tree appears to be an oak, although close examination reveals that it 
+has a visage and sensory organs that resemble a distorted human face.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3906
+centaur ranger~
+a centaur ranger~
+A `#`Gc`gentaur `Gr`ganger`^ is standing here playing with the `#`gwildlife`^.
+~
+This centaur ranger stands here playing with some local wildlife and 
+enjoying his surroundings.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3907
+red fox~
+a `#`rred `yfox`^~
+A `#`rred `yfox`^ is running around here.
+~
+You see a red fox with a huge furry tail. It has a small mouth, but its teeth 
+are very sharp. Its eyes are dark blue and its paws are small and delicate.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3908
+bugbear warrior~
+a fierce looking bugbear~
+`#`wA `Rf`rierce `wlooking `yBugbear `wstands here ready to fight.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+68 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3909
+bugbear leader~
+the bugbear leader~
+`#`wThe leader of the `yBugbears `wsits here by the fire.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+62 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3910
+bugbear shaman~
+a bugbear shaman~
+`#`wA `yBugbear `cShaman `wstands here chanting.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+59 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3911
+dark cleric~
+a dark cleric~
+A `#`sdark c`cleric`^ stands here looking about.
+~
+An evil looking cleric wearing a dark robe and hood.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+29 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3912
+dark cleric kneeling~
+a dark cleric~
+A `#`sdark c`cleric`^ is kneeling in prayer here.
+~
+An evil looking cleric wearing a dark robe and hood.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+57 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3913
+dealer highdice dice~
+`#A card dealer~
+A dealer is here ready to play highdice.
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3914
+player highdice~
+a highdice player~
+This highdice player is pondering his next bet.
+~
+This player is hoping to win back his losses from the highdice dealers.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+21 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3915
+dice participant player~
+a dice player~
+A highdice participant shakes the dice in his hands.
+~
+This participant's eyes are darting from side to side as he judges his
+throw.  He has been playing this game for most of the night and hopes to
+recoup his losses.  
+~
+0
+Clanname none~
+0
+0
+129 8 -400 C
+20 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3916
+player slotmachineplayer participant~
+a slots player~
+This slot machine player ponders what to play next.
+~
+This participant likes playing the slots.  He has a tacky shirt on with gold 
+coins embroidered on it.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3917
+player chess participant~
+a tables player~
+This chess player sums up his winnings.
+~
+This player has been doing rather well considering he only just
+started playing the game.  Must be beginner's luck.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+15 0 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3918
+malache~
+a dark figure amassed in shadows is here.~
+A dark figure amassed in shadows is here.
+~
+This figure stands near seven feet in height, its body is completely 
+surrounded by some sort of flowing darkness, that is like the such of smoke 
+yet flows like water.  Piercing crimson eyes glimmer from out of the 
+darkness of its face, and a sudden sting of fear seems to sweep over you.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3919
+young teenage malkatar shopkeeper~
+a young teenage malkatar female~
+A young teenage malkatar female is here standing behind a tall counter.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 1 -50 5d10+999 8d6+100
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3900
+oak barrel~
+`#`yan oak barrel`^~
+`#`wAn `yoak barrel `wfilled with `gelvish `rwine `wis sitting here.`^~
+~
+25 0 16
+-1 17 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3901
+fireplace~
+a `#`Rblazing`^ fireplace~
+A `#`Rblazing`^ fireplace is here, warming the cottage.~
+~
+12 1 8
+1000 82505 110 110 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3902
+large heavy wood chest~
+`#`yA large wooden chest with `gelven `yscript carved into it.`^~
+`#`yA large wooden chest with `gelven `yscript carved into it.`^~
+~
+15 0 8
+13 3903 100 200 0 0 0
+4 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3903
+small wooden key~
+a small `#`ywooden`^ key~
+A small `#`ywooden`^ key is lying here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3904
+necklace raven feathers druid ranger~
+`#`wa necklace of `#`sraven `wf`We`sa`wt`Wh`se`wr`Ws`^~
+`#`wa necklace of made of `#`sraven `wf`We`sa`wt`Wh`se`wr`Ws `wis lying here.`^~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 1290 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3905
+leather boots of the ranger~
+`#`wa pair of `yleather `sboots `wof the `gRanger`^~
+A pair of fancy leather boots are laying here.~
+~
+9 64 8
+40 40 8 0 0 0 0
+1 990 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3905 boots ~
+These boots look to be of Elven make and are magical so as to help blend in 
+with your surroundings better.  
+~
+#3906
+fresh spring water~
+a small `#`Cf`cr`Ce`cs`Ch`cw`Ca`ct`Ce`cr spring`^~
+A small `#`Cf`cr`Ce`cs`Ch`cw`Ca`ct`Ce`cr spring`^ flows from the ground here.~
+~
+25 0 16
+2147483647 0 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3907
+apple tree~
+An `#`rapple`^ tree~
+An `#`rapple`^ tree grows here.~
+~
+15 0 8
+0 0 500 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3907 tree ~
+This is a high tree, its leaves moving, at the will of the wind.  You can 
+see many fruits hanging on its branches.  
+~
+#3908
+orange tree~
+an `#`yorange`^ tree~
+An `#`yorange`^ tree grows here.~
+~
+15 0 8
+0 0 500 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3908 tree ~
+This is a high tree, its leaves moving, at the will of the wind.  You can 
+see many fruits hanging on its branches.  
+~
+#3909
+apple~
+a delicious apple~
+A delicious apple makes your mouth water.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3910
+orange~
+a delicious orange~
+A delicious orange makes your mouth water.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3911
+bed of roses~
+`#`ga large bed of `Rr`ro`Rs`re`Rs`^~
+`#`gA large `Rb`re`Rd `rof `Rr`ro`Rs`re`Rs `gis growing here.`^~
+~
+12 0 8
+2000 504 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3912
+silver chain collar~
+a `#`ssilver chain`^ collar~
+A `#`ssilver chain`^ collar is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 505 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3913
+leather gloves the ranger~
+`#`wa pair of `yleather gloves `wof the `gRanger`^~
+A pair of leather gloves are lying here.~
+~
+9 64 8
+40 40 8 0 0 0 0
+1 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3914
+large club~
+a large `#`ywooden`^ club~
+A large and well used club is lying here.~
+~
+5 64 4
+5 89 118 64 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3915
+wooden chest~
+a `#`ywooden`^ chest~
+A `#`ywooden`^ chest sits at the foot of the bed.~
+~
+15 0 8
+5 0 200 100 0 0 0
+10 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3915 wooden chest~
+This wooden chest looks very old, but is still very sturdy.
+~
+#3916
+an oddly shaped stone warpstone~
+`#`wan oddly shaped `Yglowing `sstone`^~
+An odd stone is lying here.~
+~
+30 1 16
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3917
+thick leather tunic~
+`#`wa `sthick `yleather `wtunic`^~
+A thick tunic made of leather is lying here.~
+~
+9 0 8
+45 45 18 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3918
+a worn tattered robe~
+`#`wan old `ytattered `wrobe`^~
+A well worn, tattered looking robe is on the ground here.~
+~
+9 64 8
+45 45 18 0 0 0 0
+1 1111 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3919
+black steel mace~
+`#`sa black steel mace`^~
+A black steel mace has been dropped here.~
+~
+5 0 4
+4 78 101 256 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3920
+elegant black robe trimmed gold~
+`#`wan elegant `Yg`yold `wtrimmed `sblack robe`^~
+A fine looking black and gold robe is crumpled on the ground here.~
+~
+9 0 8
+45 45 15 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3921
+beehive~
+a `#`yb`we`ye`wh`yi`wv`ye`^~
+A beehive dangles from a tree here.~
+~
+15 0 8
+0 0 10 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3922
+honeycomb~
+a `#`yho`wn`yey`wc`yom`wb`^~
+A honeycomb lies here, looking sticky.~
+~
+19 1 16
+2 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3923
+rotting apple core~
+a rotting apple core~
+A rotting apple core lies here.~
+~
+15 0 8
+0 0 5 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3924
+piece bark~
+a piece of bark~
+A piece of bark lays here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#3925
+several rows pews~
+a pew~
+Several rows of cushioned pews~
+~
+12 0 8
+8000 1170 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#3900
+Inside of an old cottage~
+~
+You find youself standing inside of a old yet cozy cottage.  There is a 
+small fire burning in the fireplace.  A pot of some sort of stew simmering 
+wildly creating a wonderous smell in the air.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 3901
+D3
+~
+~
+0 0 3902
+D9
+~
+~
+0 0 3903
+S
+#3901
+Inside of an old cottage~
+~
+You find youself standing inside of a old yet cozy cottage.  There is a 
+small fire burning in the fireplace.  A pot of some sort of stew simmering 
+wildly creating a wonderous smell in the air.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 3900
+D3
+~
+~
+0 0 3903
+D8
+~
+~
+0 0 3902
+R M 0 3900 1 3901
+  R G 0 3903 0
+  R E 0 3905 0 8
+  R E 0 3913 0 9
+R O 0 3902 0 3901
+  R P 0 3904 1 3902
+S
+#3902
+Inside of an old cottage~
+~
+You find youself standing inside of a old yet cozy cottage.  There is a 
+small fire burning in the fireplace.  A pot of some sort of stew simmering 
+wildly creating a wonderous smell in the air.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 3903
+D1
+~
+~
+0 0 3900
+D6
+~
+~
+0 0 3901
+R M 0 3902 1 3902
+  R E 0 3912 0 3
+R O 0 3901 0 3902
+S
+#3903
+Inside of an old cottage~
+~
+You find yourself standing inside of a old yet cozy cottage.  There is a 
+small fire burning in the fireplace.  A pot of some sort of stew simmering 
+wildly creating a wonderous smell in the air.  There is a old rusted hatch 
+leading into the cellar here.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 3901
+D2
+~
+~
+0 0 3902
+D5
+~
+~
+0 0 3904
+D7
+~
+~
+0 0 3900
+S
+#3904
+~
+~
+The air down here cold and dry.  There are several bags of grain piled into 
+the corners and a barrel of some sort.  
+~
+1 9 0
+D1
+~
+~
+0 0 3905
+D2
+~
+~
+0 0 3908
+D4
+~
+~
+0 0 3903
+D7
+~
+~
+0 0 3907
+S
+#3905
+~
+~
+The air down here cold and dry.  There are several bags of grain piled into 
+the corners and a barrel of some sort.  
+~
+1 9 0
+D2
+~
+~
+0 0 3907
+D3
+~
+~
+0 0 3904
+D8
+~
+~
+0 0 3908
+R M 0 3901 6 3905
+S
+#3906
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3913
+D1
+~
+~
+0 0 3909
+D6
+~
+~
+0 0 3912
+R O 0 3908 0 3906
+  R P 0 3910 20 3908
+S
+#3907
+~
+~
+The air down here cold and dry.  There are several bags of grain piled into 
+the corners and a barrel of some sort.  
+~
+1 9 0
+D0
+~
+~
+0 0 3905
+D3
+~
+~
+0 0 3908
+D9
+~
+~
+0 0 3904
+R M 0 3901 6 3907
+R O 0 3900 0 3907
+S
+#3908
+~
+~
+The air down here cold and dry.  There are several bags of grain piled into 
+the corners and a barrel of some sort.  
+~
+1 9 0
+D0
+~
+~
+0 0 3904
+D1
+~
+~
+0 0 3907
+D6
+~
+~
+0 0 3905
+R M 0 3901 6 3908
+S
+#3909
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3912
+D1
+~
+~
+0 0 3910
+D3
+~
+~
+0 0 3906
+D9
+~
+~
+0 0 3913
+S
+#3910
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3911
+D3
+~
+~
+0 0 3909
+D9
+~
+~
+0 0 3912
+S
+#3911
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3917
+D2
+~
+~
+0 0 3910
+D3
+~
+~
+0 0 3912
+D6
+~
+~
+0 0 3918
+D9
+~
+~
+0 0 3916
+R M 0 3906 1 3911
+R M 0 3907 3 3911
+R M 0 3907 5 3911
+S
+#3912
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3916
+D1
+~
+~
+0 0 3911
+D2
+~
+~
+0 0 3909
+D3
+~
+~
+0 0 3913
+D6
+~
+~
+0 0 3917
+D7
+~
+~
+0 0 3910
+D8
+~
+~
+0 0 3906
+D9
+~
+~
+0 0 3915
+R O 0 3906 0 3912
+R O 0 7550 0 3912
+S
+#3913
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D0
+~
+~
+0 0 3915
+D1
+~
+~
+0 0 3912
+D2
+~
+~
+0 0 3906
+D6
+~
+~
+0 0 3916
+D7
+~
+~
+0 0 3909
+D9
+~
+~
+0 0 3914
+S
+#3914
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D1
+~
+~
+0 0 3915
+D7
+~
+~
+0 0 3913
+R M 0 3903 1 3914
+  R E 0 3924 0 17
+S
+#3915
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D1
+~
+~
+0 0 3916
+D2
+~
+~
+0 0 3913
+D3
+~
+~
+0 0 3914
+D7
+~
+~
+0 0 3912
+S
+#3916
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D1
+~
+~
+0 0 3917
+D2
+~
+~
+0 0 3912
+D3
+~
+~
+0 0 3915
+D7
+~
+~
+0 0 3911
+D8
+~
+~
+0 0 3913
+R O 0 3907 0 3916
+  R P 0 3909 20 3907
+R O 0 3923 0 3916
+  R P 0 39286 2 3923
+S
+#3917
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D1
+~
+~
+0 0 3918
+D2
+~
+~
+0 0 3911
+D3
+~
+~
+0 0 3916
+D8
+~
+~
+0 0 3912
+R O 0 3921 0 3917
+  R P 0 3922 2 3921
+S
+#3918
+A small grove~
+~
+You find youself in a small grove amongst the trees.  There is a small 
+freshwater spring here directly in the middle of the grove and several small 
+fruit trees and plants growing throughout as well.  There is a peaceful 
+atmosphere here.  
+~
+1 0 3
+D3
+~
+~
+0 0 3917
+D8
+~
+~
+0 0 3911
+R O 0 3911 0 3918
+S
+#3919
+A large cave entrance~
+~
+The opening to this cave is tall and narrow.  There are several places where 
+the rock has been chipped away.  The entrance is marked by a spear on each 
+side of the door, and hanging sternly upon the tips of these spears are 
+skulls.  A closer look tells you that they are humanoid skulls.  
+~
+1 0 11
+D0
+~
+~
+0 0 3920
+S
+#3920
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3927
+D1
+~
+~
+0 0 3921
+D2
+~
+~
+0 0 3919
+D3
+~
+~
+0 0 3931
+S
+#3921
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3926
+D1
+~
+~
+0 0 3922
+D3
+~
+~
+0 0 3920
+R M 0 3908 21 3921
+  R E 0 3914 0 16
+S
+#3922
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3923
+D3
+~
+~
+0 0 3921
+S
+#3923
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3924
+D2
+~
+~
+0 0 3922
+D3
+~
+~
+0 0 3926
+R M 0 3908 21 3923
+  R E 0 3914 0 16
+S
+#3924
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D2
+~
+~
+0 0 3923
+D3
+~
+~
+0 0 3925
+S
+#3925
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D1
+~
+~
+0 0 3924
+D2
+~
+~
+0 0 3926
+D3
+~
+~
+0 0 3928
+R M 0 3908 21 3925
+  R E 0 3914 0 16
+S
+#3926
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3925
+D1
+~
+~
+0 0 3923
+D2
+~
+~
+0 0 3921
+D3
+~
+~
+0 0 3927
+S
+#3927
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3928
+D1
+~
+~
+0 0 3926
+D2
+~
+~
+0 0 3920
+D3
+~
+~
+0 0 3930
+R M 0 3908 21 3927
+  R E 0 3914 0 16
+S
+#3928
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D1
+~
+~
+0 0 3925
+D2
+~
+~
+0 0 3927
+D3
+~
+~
+0 0 3929
+S
+#3929
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D1
+~
+~
+0 0 3928
+D2
+~
+~
+0 0 3930
+D3
+~
+~
+0 0 3934
+R M 0 3908 21 3929
+  R E 0 3914 0 16
+S
+#3930
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3929
+D1
+~
+~
+0 0 3927
+D2
+~
+~
+0 0 3931
+D3
+~
+~
+0 0 3933
+S
+#3931
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3930
+D1
+~
+~
+0 0 3920
+D3
+~
+~
+0 0 3932
+R M 0 3908 21 3931
+  R E 0 3914 0 16
+S
+#3932
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3933
+D1
+~
+~
+0 0 3931
+S
+#3933
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3934
+D1
+~
+~
+0 0 3930
+D2
+~
+~
+0 0 3932
+R M 0 3908 21 3933
+  R E 0 3914 0 16
+S
+#3934
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D0
+~
+~
+0 0 3935
+D1
+~
+~
+0 0 3929
+D2
+~
+~
+0 0 3933
+R M 0 3910 1 3934
+  R E 0 3918 0 12
+S
+#3935
+Inside of a large cave~
+~
+The air feels damp here and there is an aweful smell of decaying flesh.  
+Several old torches litter the floor as well as a few stray bones.  
+~
+1 9 11
+D1
+~
+~
+1 0 3936
+D2
+~
+~
+0 0 3934
+R M 0 3909 1 3935
+  R E 0 3917 0 5
+S
+#3936
+A small room~
+~
+This is a small and dark room.  It looks like it is used as a storage room.  
+
+~
+1 0 11
+D3
+~
+~
+1 0 3935
+R O 0 3915 0 3936
+  R P 0 3916 2 3915
+S
+#3937
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3943
+D1
+~
+~
+0 0 3945
+D2
+~
+~
+0 0 3939
+D3
+~
+~
+0 0 3938
+R M 0 3911 30 3937
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3938
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3942
+D1
+~
+~
+0 0 3937
+D3
+~
+~
+0 0 3940
+R M 0 3911 30 3938
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3939
+Entrance to a small temple~
+~
+The doorway to this temple is a beautiful black marble archway entering into 
+a large santuary.  The smell of flowers is strong in the air coming from 
+inside.  
+~
+1 0 0
+D0
+~
+~
+0 0 3937
+S
+#3940
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3941
+D1
+~
+~
+0 0 3938
+R M 0 3911 30 3940
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3941
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3942
+D2
+~
+~
+0 0 3940
+R M 0 3911 30 3941
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3942
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3943
+D2
+~
+~
+0 0 3938
+D3
+~
+~
+0 0 3941
+R M 0 3911 30 3942
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3943
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  Here, there is a narrow doorway going down.  Wonder 
+where it leads to?  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3944
+D2
+~
+~
+0 0 3937
+D3
+~
+~
+0 0 3942
+D5
+~
+~
+0 0 3948
+S
+#3944
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3947
+D2
+~
+~
+0 0 3945
+D3
+~
+~
+0 0 3943
+R M 0 3911 30 3944
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3945
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3944
+D1
+~
+~
+0 0 3946
+D3
+~
+~
+0 0 3937
+R M 0 3911 30 3945
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3946
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3947
+D3
+~
+~
+0 0 3945
+R M 0 3911 30 3946
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3947
+A large santuary~
+~
+The santuary is open and spacious and the roof is at least 15 feet tall.  
+When you look you see that the ceiling is bewitched to look like a night sky 
+with lots of stars and always a full moon.  The walls and floor are made of 
+black marble accented with gold.  There are large amounts of flowers located 
+throughout the room.  
+~
+1 33554432 0
+D2
+~
+~
+0 0 3946
+D3
+~
+~
+0 0 3944
+S
+#3948
+Hallway~
+~
+The hallway is long and narrow, there are several rooms branching off of the 
+hallway leading to small rooms.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3951
+D1
+~
+~
+0 0 3949
+D3
+~
+~
+0 0 3950
+D4
+~
+~
+0 0 3943
+R M 0 3911 30 3948
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3949
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 3948
+R M 0 3912 6 3949
+  R E 0 3920 0 12
+  R E 0 3919 0 16
+S
+#3950
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3948
+R M 0 3912 6 3950
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3951
+Hallway~
+~
+The hallway is long and narrow, there are several rooms branching off of the 
+hallway leading to small rooms.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 3954
+D1
+~
+~
+0 0 3952
+D2
+~
+~
+0 0 3948
+D3
+~
+~
+0 0 3953
+S
+#3952
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 3951
+R M 0 3912 6 3952
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3953
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3951
+R M 0 3912 6 3953
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3954
+Hallway~
+~
+The hallway is long and narrow, there are several rooms branching off of the 
+hallway leading to small rooms.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3955
+D2
+~
+~
+0 0 3951
+D3
+~
+~
+0 0 3956
+R M 0 3911 30 3954
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3955
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 3954
+R M 0 3912 6 3955
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3956
+Prayer Room~
+~
+This is one of the prayer rooms in the temple.  Several candles are burning 
+brightly, lighting up the room.  There is a small stone altar here with 
+incense burning on it.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 3954
+R M 0 3912 6 3956
+  R E 0 3919 0 16
+  R E 0 3920 0 12
+S
+#3957
+The Golden Gryphon Gambling Hall~
+~
+This is the grand gambling hall of Tulgard.  You can hear many different 
+sounds coming from inside from the many different gambling machines to the 
+players laughter.  
+~
+1 8 0
+D0
+~
+~
+0 0 3958
+D2
+~
+~
+0 0 3109
+S
+#3958
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3959
+D1
+~
+~
+0 0 3963
+D2
+~
+~
+0 0 3957
+D3
+~
+~
+0 0 3964
+R M 0 3916 6 3958
+S
+#3959
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3960
+D1
+~
+~
+0 0 3962
+D2
+~
+~
+0 0 3958
+D3
+~
+~
+0 0 3965
+R O 0 15002 0 3959
+S
+#3960
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D1
+~
+~
+0 0 3961
+D2
+~
+~
+0 0 3959
+D3
+~
+~
+0 0 3966
+R M 0 3913 2 3960
+R M 0 3914 4 3960
+S
+#3961
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D2
+~
+~
+0 0 3962
+D3
+~
+~
+0 0 3960
+R O 0 15002 0 3961
+R M 0 3917 4 3961
+S
+#3962
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3961
+D2
+~
+~
+0 0 3963
+D3
+~
+~
+0 0 3959
+R O 0 15003 0 3962
+R M 0 3916 6 3962
+S
+#3963
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3962
+D3
+~
+~
+0 0 3958
+R O 0 15004 0 3963
+R M 0 3915 6 3963
+S
+#3964
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3965
+D1
+~
+~
+0 0 3958
+D3
+~
+~
+0 0 3969
+R O 0 15002 0 3964
+R M 0 3915 6 3964
+S
+#3965
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3966
+D1
+~
+~
+0 0 3959
+D2
+~
+~
+0 0 3964
+D3
+~
+~
+0 0 3968
+R O 0 15001 0 3965
+S
+#3966
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D1
+~
+~
+0 0 3960
+D2
+~
+~
+0 0 3965
+D3
+~
+~
+0 0 3967
+R O 0 15002 0 3966
+R M 0 3915 6 3966
+S
+#3967
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D1
+~
+~
+0 0 3966
+D2
+~
+~
+0 0 3968
+R O 0 15003 0 3967
+R M 0 3916 6 3967
+S
+#3968
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3967
+D1
+~
+~
+0 0 3965
+D2
+~
+~
+0 0 3969
+R O 0 15004 0 3968
+R M 0 3917 4 3968
+S
+#3969
+The Golden Gryphon Gambling Hall~
+~
+You find yourself inside of a large gambling hall.  It is very neatly kept 
+and the atmosphere is very professional.  
+~
+1 8 0
+D0
+~
+~
+0 0 3968
+D1
+~
+~
+0 0 3964
+R M 0 3913 2 3969
+R M 0 3914 4 3969
+S
+#3970
+Underground Tunnel~
+~
+A dank musty smell feels this area, with its ancient stench.  Mildew and a 
+sickening pale green moss grows in every corner.  It seems that this small 
+tunnel seems to be man-made.  To the east you notice a small wooden door 
+built into the dirt of the earth itself.  Above you, you notice a trapdoor 
+leading to the way out of the tunnel. 
+~
+1 0 0
+D1
+~
+~
+1 0 3971
+S
+#3971
+Dirty Hovel~
+~
+Dirt and grind seem to corrode this place in every square inch.  Rottening 
+food lies on a table in the corner of the room, never finished.  Clothes and 
+trash lies sprawled out wherever the occupant of this hovel felt like 
+throwing it.  Though, the strange thing would be the glass potion bottles 
+and glass instruments lying all about.  In the southeastern corner of the 
+room you notice a block of wood covered in silk and needles.  
+~
+1 0 0
+D3
+~
+~
+1 0 3970
+R M 0 3918 1 3971
+S
+#3972
+Tulgard Wedding Chapel~
+~
+This quaint little chapel is surprisingly cozy. The windows to either side 
+are covered in thick, wine-colored drapes, that stretch from the high, 
+arched ceiling to the floor. The center aisle is covered in a soft, thick 
+carpet of royal red. It contrasts nicely with the white marble floor to 
+either side, upon which sit rows of luxurious-looking pews. There are a few 
+steps leading up to the altar, which is covered in pristine white cloth, 
+surrounded by hundreds of silver and gold candles of varying lengths. The 
+cloth covering the altar is covered in silver stitching, depicting the 
+various symbols of the deities, some easily recognizeable as belonging to 
+some such as Seandac, Venalena, and Kreav. The chapel is lit by several huge 
+crystal chandeliers, the little flames burning with a pure white light. 
+~
+1 33816584 0
+D3
+~
+~
+0 0 4401
+R O 0 3925 0 3972
+S
+#3973
+Throtyl Wedding Chapel~
+~
+Walking into the highly-placed buttresses of the cathedrale, you notice 
+light engulfing the entire, vast room.  The light filters in through 
+brightly colored, stained glass windows.  Ornately decorated, wooden pews 
+stand in two straight lines, paying homage to the stone altar that stands 
+center and front. The same stone covers the whole of the room, save for the 
+white brick walls. Great white pillars protrude from the ground on either 
+side of you. 
+~
+1 33816584 0
+D2
+~
+~
+0 0 27080
+R O 0 3925 0 3973
+S
+#3974
+Calontir Wedding Chapel~
+~
+This intimate chapel is decorated with crisp whites. Attention is focused on 
+an arch that has been erected in the middle of the room. Delicate crimson 
+wandering roses wind their way through the arch's latticework. The clean 
+white linen is draped over the cherrywood pews that are aligned in neat 
+rows. 
+~
+1 33816584 0
+D2
+~
+~
+0 0 820
+R O 0 3925 0 3974
+S
+#0
+
+
+#SHOPS
+ 3919    0  0  0  0  0   105 100         0 23    ; a young teenage malkatar female
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

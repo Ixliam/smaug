@@ -1,0 +1,2315 @@
+#AREA        Galioldor~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#46100
+strong and healthy horse~
+a strong and healthy horse~
+A strong and healthy horse
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46101
+cow~
+a fat milking cow~
+A fat milking cow is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46102
+bull~
+a mean looking bull~
+A mean looking bull is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46103
+chicken~
+a chicken~
+A small white chicken is pecking the ground here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46104
+Galioldor elven shopkeeper gathering place ~
+an elven barkeeper~
+An elven barkeeper stands behind the bar waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46105
+luna shopkeeper Galioldor~
+luna~
+Luna is standing here waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46106
+valloria shopkeeper Galioldor~
+valloria~
+Valloria stands here waiting for your order
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46107
+elven citizen~
+an elven citizen~
+An elven citizen is walking about here.
+~
+This citizen is busy running errands and has no time to stop and chat with 
+you.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+26 17 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46108
+elven noble~
+an elven noble~
+An elven noble dressed in fine clothing is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+33 17 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46109
+dog hound~
+small dog~
+A small dog is here checking you out.
+~
+A small dog is here.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+11 0 -2 3d5+65 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46110
+riven shopkeeper Galioldor ~
+riven~
+Riven stands here showing off his wares.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46111
+field mouse~
+a field mouse~
+A Field mouse scurries about.
+~
+~
+0
+Clanname none~
+0
+0
+65 8 600 C
+10 1 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46112
+tarnkin shopkeeper Galioldor~
+tarnkin~
+Tarnkin is standing here waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46113
+edwin shopkeeper Galioldor~
+edwin~
+Edwin is standing here waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46114
+warehouse worker Galioldor~
+an elven warehouse worker~
+An elven worker is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+20 50 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46115
+emu~
+a tall emu~
+A tall emu is grazing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46116
+male elf letter~
+a tall male elf~
+A tall male elf is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#46117
+elven druid~
+an elven druid~
+An elven druid is here enjoying his surrounding.
+~
+An elven druid is standing here enjoying his surroundings.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#46100
+elven wine~
+a bottle of elven wine~
+A bottle of elven made wine lies here.~
+~
+17 0 16
+15 17 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46101
+roast chicken~
+a roast chicken~
+A roast chicken is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46102
+carton milk~
+a carton of milk~
+A carton of milk is here.~
+~
+17 0 16
+15 10 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46103
+thin ivy belt~
+`#`ga `Gt`gh`Gi`gn `Givy b`ge`Gl`gt`^~
+`#`ga `Gt`gh`Gi`gn `Givy b`ge`Gl`gt `gis lying here`^~
+~
+15 0 8
+1 0 100 100 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46104
+redwood bow~
+`ga fine `Sbow `gmade of `rredwood`^~
+A fine bow made of redwood lay here.~
+~
+5 256 4
+6 30 50 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46105
+elven forest blade sword~
+`GE`glven `GF`gorest `GB`glade`^~
+An elven blade is lying here.~
+~
+5 0 4
+2 7 16 4 0 0 0
+1 466 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46106
+cheese slab~
+a slab of `Ycheese`x~
+A slab of `Wcreamy `Ycheese `xwith a thick `yrind`x.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#46107
+small fire~
+a small fire~
+A small fire is burning here.~
+~
+12 0 8
+999999 585 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+46107 small fire~
+A pile of small logs and sticks is burning merrily here.
+~
+#46108
+elven cloak~
+an `#`GE`gl`Gv`ge`Gn C`gl`Go`ga`Gk`^~
+A `#`gdark green`^ cloak has been left here.~
+~
+9 64 8
+10 10 5 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+46108 dark green cloak~
+An elven made cloak.  It is very dark green.
+~
+#46109
+blood red potion giant strength~
+a `#`Rblood red`^ potion~
+A `#`Rblood red`^ potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 315 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+46109 blood red potion~
+This blood red potion is in a short glass vial.  It has a few dwarven 
+runes on it.
+~
+#46110
+black potion protection evil~
+a `#`Sblack potion`^~
+A `#`Sblack potion`^ is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#46111
+thick milky potion stone skin shield~
+a thick milky potion~
+A thick milky looking potion is sitting here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#46112
+magic torch~
+`#`wa magical `Rf`rl`Ra`rm`Ri`rn`Rg `wtorch`^~
+`wa magical `Rf`rl`Ra`rm`Ri`rn`Rg `wtorch is lying on the ground.`^~
+~
+1 0 1
+0 999 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46113
+diamond encrusted mace druid ranger~
+`#`wa mace made from `Cd`ci`Ca`cm`Co`cn`Cd`cs `wand `Rr`ru`Rb`ri`Re`rs`^~
+A large mace made of diamonds and rubies lies here, its beauty radiating around you.~
+~
+5 256 4
+3 17 25 16 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46114
+soft flowing robe druid ranger~
+`#`Ga `gs`Wof`Gt `Wf`glo`Ww`gin`Gg `gr`Wob`Ge`^~
+A soft looking robe is lying here, almost blending in with its surroundings.~
+~
+9 256 8
+10 10 10 0 0 0 0
+1 421 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46115
+wooden staff ivy leaves druid ranger~
+`#`wa `ywooden staff `wengraved with `Gi`gvy `Gl`geaves`^~
+A wooden staff has been dropped here.~
+~
+5 64 4
+11 17 25 2080 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46116
+ring engraved wood ranger druid~
+`#`wa `gring `wmade of `gengraved `ywood`^~
+A wooden ring lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46117
+mace redwood druid ranger~
+`#`wa `gl`rarge `wmace made from `rr`gedwood`^~
+A large mace made from redwood lies here.~
+~
+5 256 4
+3 7 16 16 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46118
+elven made boots~
+some `#`GE`gl`Gv`ge`Gn b`goots`^~
+A pair of elven made boots have been left here.~
+~
+9 64 8
+10 10 6 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46119
+elven gloves~
+a pair of `#`GE`gl`Gv`ge`Gn `ggl`Go`gve`Gs`^~
+A pair of `#`GE`gl`Gv`ge`Gn made `ggl`Go`gve`Gs`^ lie here.~
+~
+9 64 8
+10 10 3 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46120
+elven vest~
+an `#`GE`gl`Gv`ge`Gn v`gest`^~
+An Elven made vest lies here.~
+~
+9 64 8
+10 10 6 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46121
+elven rucksack~
+an `#`GE`gl`Gv`ge`Gn r`guck`Gs`gack`^~
+An Elven made rucksack lies here.~
+~
+15 64 8
+1 0 200 100 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46122
+canteen ~
+a small `#`Scanteen`^~
+A small `#`Scanteen`^ lies here.~
+~
+17 1 16
+100 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46123
+fading parchment~
+a `#`wf`Wa`yd`wi`Wn`yg `wparchment`^~
+A fading parchment lies here on the ground.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+46123 fading parchment~
+The ingredients required for a balm of minor healing are:
+  1 part flaxweed
+  1 part dolian buds
+Combine said ingredients in a mortar and grind with a pestle.
+~
+#46124
+rock mortar pestle~
+a `#`Srock`^ mortar and pestle~
+A rock mortar and pestle sit here.~
+~
+37 0 32
+0 0 15 10 0 0 0
+1 124 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46125
+got_the_apply_parchment~
+got_the_apply_parchment~
+Got_the_apply_parchment~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46126
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#46100
+Entrance to Galioldor~
+~
+You are entering the quiet and peaceful Galioldor.  Large trees tower over 
+you shading the town from the harsh sun.  
+~
+1 0 1
+D0
+~
+~
+0 0 46101
+S
+#46101
+Intersection of Pine and Sycamore~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+Sycamore Street and Pine Street intersect here.  To the east you can see 
+several elves standing about.  
+~
+1 0 1
+D0
+~
+~
+0 0 46102
+D1
+~
+~
+0 0 46166
+D2
+~
+~
+0 0 46100
+D3
+~
+~
+0 0 46105
+R M 0 46108 20 46101
+S
+#46102
+Pine Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46103
+D2
+~
+~
+0 0 46101
+S
+#46103
+Pine Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46104
+D1
+~
+~
+0 0 46180
+D2
+~
+~
+0 0 46102
+S
+#46104
+Intersection of Oak Ave and Pine Street ~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46179
+D2
+~
+~
+0 0 46103
+D3
+~
+~
+0 0 46112
+R M 0 46107 20 46104
+  R E 0 46104 0 16
+S
+#46105
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46101
+D3
+~
+~
+0 0 46106
+S
+#46106
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46105
+D3
+~
+~
+0 0 46107
+S
+#46107
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+Sycamore Street intersects with Arbor Street here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46108
+D1
+~
+~
+0 0 46106
+R M 0 46107 20 46107
+  R E 0 46104 0 16
+S
+#46108
+Arbor Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46109
+D2
+~
+~
+0 0 46107
+D3
+~
+~
+0 0 46185
+R M 0 46109 20 46108
+S
+#46109
+Arbor Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  The 
+weapons shop is to your east.  
+~
+1 0 1
+D0
+~
+~
+0 0 46110
+D1
+~
+~
+0 0 46114
+D2
+~
+~
+0 0 46108
+D3
+~
+~
+0 0 46151
+S
+#46110
+Intersection of Oak Ave and Pine Street ~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  Arbor 
+Street and Oak Ave intersect here.  
+~
+1 0 1
+D1
+~
+~
+0 0 46111
+D2
+~
+~
+0 0 46109
+D3
+~
+~
+0 0 46113
+R M 0 46108 20 46110
+S
+#46111
+Oak Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46165
+D1
+~
+~
+0 0 46112
+D3
+~
+~
+0 0 46110
+S
+#46112
+Oak Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46104
+D3
+~
+~
+0 0 46111
+R M 0 46108 20 46112
+S
+#46113
+Oak Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  Oak 
+Ave and Vallenwood Street intersect here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46115
+D1
+~
+~
+0 0 46110
+R M 0 46107 20 46113
+  R E 0 46104 0 16
+S
+#46114
+Armorsmith's Shop~
+~
+This shop has been built onto an old tree stump.  There are racks of weapons 
+throughout the room.  
+~
+1 0 0
+D3
+~
+~
+0 0 46109
+R M 0 46112 1 46114
+  R G 0 46108 0
+  R G 0 46118 0
+  R G 0 46119 0
+  R G 0 46120 0
+  R G 0 46103 0
+S
+#46115
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46116
+D1
+~
+~
+0 0 46117
+D2
+~
+~
+0 0 46113
+R M 0 46108 20 46115
+S
+#46116
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46118
+D2
+~
+~
+0 0 46115
+D3
+~
+~
+0 0 46142
+R M 0 46109 20 46116
+S
+#46117
+Elven Home~
+~
+You find yourself inside of the home of a wealthy Elven family.  
+~
+1 0 0
+D3
+~
+~
+0 0 46115
+S
+#46118
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46119
+D1
+~
+~
+0 0 46138
+D2
+~
+~
+0 0 46116
+S
+#46119
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46120
+D1
+~
+~
+0 0 46148
+D2
+~
+~
+0 0 46118
+D3
+~
+~
+0 0 46129
+R M 0 46108 20 46119
+S
+#46120
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46121
+D1
+~
+~
+0 0 46137
+D2
+~
+~
+0 0 46119
+S
+#46121
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46122
+D2
+~
+~
+0 0 46120
+D3
+~
+~
+0 0 46128
+S
+#46122
+Vallenwood Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46123
+D1
+~
+~
+0 0 46135
+D2
+~
+~
+0 0 46121
+R M 0 46108 20 46122
+S
+#46123
+Intersection of Vallenwood St. and Pine St.~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+Vallenwood and Pine Street intersect here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46124
+D1
+~
+~
+0 0 46139
+D2
+~
+~
+0 0 46122
+R M 0 46109 20 46123
+R M 0 46107 20 46123
+  R E 0 46104 0 16
+S
+#46124
+Stables~
+~
+You find yourself in a small stable.  There are horses sheltered here as 
+well as cows and other livestock.  
+~
+1 0 1
+D0
+~
+~
+0 0 46125
+D2
+~
+~
+0 0 46123
+D3
+~
+~
+0 0 46127
+R M 0 46100 6 46124
+S
+#46125
+Stables~
+~
+You find yourself in a small stable.  There are horses sheltered here as 
+well as cows and other livestock.  
+~
+1 0 1
+D2
+~
+~
+0 0 46124
+D3
+~
+~
+0 0 46126
+R M 0 46100 6 46125
+S
+#46126
+Stables~
+~
+You find yourself in a small stable.  There are horses sheltered here as 
+well as cows and other livestock.  
+~
+1 0 1
+D1
+~
+~
+0 0 46125
+D2
+~
+~
+0 0 46127
+R M 0 46100 6 46126
+S
+#46127
+Stables~
+~
+You find yourself in a small stable.  There are horses sheltered here as 
+well as cows and other livestock.  
+~
+1 0 1
+D0
+~
+~
+0 0 46126
+D1
+~
+~
+0 0 46124
+R M 0 46100 6 46127
+S
+#46128
+The Gathering Place~
+~
+Looking around you see several oaken barrels piled in the corners.  There is 
+a large vallenwood tree growing through the middle of the tavern.  The 
+barkeeper is located behind a bar surrounding the tree.  
+~
+1 0 0
+D1
+~
+~
+0 0 46121
+R M 0 46104 1 46128
+  R G 0 3024 0
+  R G 0 3121 0
+  R G 0 46100 0
+  R G 0 46101 0
+  R G 0 676 0
+  R G 0 675 0
+  R G 0 674 0
+S
+#46129
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 1
+D1
+~
+~
+0 0 46119
+D2
+~
+~
+0 0 46130
+D3
+~
+~
+0 0 46134
+S
+#46130
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 1
+D0
+~
+~
+0 0 46129
+D2
+~
+~
+0 0 46131
+D3
+~
+~
+0 0 46133
+R M 0 46111 8 46130
+S
+#46131
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 1
+D0
+~
+~
+0 0 46130
+D3
+~
+~
+0 0 46132
+R M 0 46111 8 46131
+S
+#46132
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 1
+D0
+~
+~
+0 0 46133
+D1
+~
+~
+0 0 46131
+R M 0 46111 8 46132
+S
+#46133
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 1
+D0
+~
+~
+0 0 46134
+D1
+~
+~
+0 0 46130
+D2
+~
+~
+0 0 46132
+S
+#46134
+Vineyard~
+~
+You stand inside of a large field.  There are acres upon acres of grapes for 
+as far as you can see.  
+~
+1 0 0
+D1
+~
+~
+0 0 46129
+D2
+~
+~
+0 0 46133
+R M 0 46111 8 46134
+S
+#46135
+Abandoned Warehouse~
+~
+You find yourself in a large abandoned warehouse.  Several puddles cover the 
+floor in many places and you can hear the sound of water dripping from the 
+multiple holes in the roof.  
+~
+1 0 0
+D2
+~
+~
+0 0 46136
+D3
+~
+~
+0 0 46122
+R M 0 46114 4 46135
+S
+#46136
+Abandoned Warehouse~
+~
+You find yourself in a large abandoned warehouse.  Several puddles cover the 
+floor in many places and you can hear the sound of water dripping from the 
+multiple holes in the roof.  
+~
+1 0 0
+D0
+~
+~
+0 0 46135
+D2
+~
+~
+0 0 46137
+R M 0 46114 4 46136
+S
+#46137
+Abandoned Warehouse~
+~
+You find yourself in a large abandoned warehouse.  Several puddles cover the 
+floor in many places and you can hear the sound of water dripping from the 
+multiple holes in the roof.  
+~
+1 0 0
+D0
+~
+~
+0 0 46136
+D3
+~
+~
+0 0 46120
+R M 0 46114 4 46137
+S
+#46138
+Edwin's Potions~
+~
+There are potions brewing all over the room and you cant tell if the smell 
+is making you want to be sick or if it is his prices.  
+~
+1 0 0
+D3
+~
+~
+0 0 46118
+R M 0 46113 1 46138
+  R G 0 46109 0
+  R G 0 46110 0
+  R G 0 46111 0
+S
+#46139
+Pine Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46161
+D1
+~
+~
+0 0 46140
+D3
+~
+~
+0 0 46123
+S
+#46140
+Pine Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46141
+D2
+~
+~
+0 0 46150
+D3
+~
+~
+0 0 46139
+S
+#46141
+Intersection of Maple St. and Pine St.~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  Maple 
+Street and Pine Street intersect here.  
+~
+1 0 1
+D2
+~
+~
+0 0 46143
+D3
+~
+~
+0 0 46140
+R M 0 46109 20 46141
+R M 0 46107 20 46141
+  R E 0 46104 0 16
+S
+#46142
+Elven Home~
+~
+The room is very small and home-like.  There is a small oaken table in the 
+far east corner.  The windows are open letting in the sounds from the 
+street.  
+~
+1 8 0
+D1
+~
+~
+0 0 46116
+S
+#46143
+Maple Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46141
+D2
+~
+~
+0 0 46144
+R M 0 46108 20 46143
+S
+#46144
+Maple Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46143
+D2
+~
+~
+0 0 46145
+R M 0 46107 20 46144
+  R E 0 46104 0 16
+S
+#46145
+Maple Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46144
+D2
+~
+~
+0 0 46146
+S
+#46146
+Intersection of Ivy St. and Maple St.~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  Ivy 
+Street and Maple Street intersect here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46145
+D1
+~
+~
+0 0 46184
+D3
+~
+~
+0 0 46147
+R M 0 46109 20 46146
+R M 0 46107 20 46146
+  R E 0 46104 0 16
+S
+#46147
+Ivy Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46146
+D2
+~
+~
+0 0 46162
+D3
+~
+~
+0 0 46148
+S
+#46148
+Ivy Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46147
+D3
+~
+~
+0 0 46119
+S
+#46149
+Elven Home~
+~
+This home is built very roughly.  It has several holes in the roof and floor 
+as well as a busted out window.  It looks as if it is deserted.  
+~
+1 0 0
+D3
+~
+~
+0 0 46172
+S
+#46150
+Luna's Dairies~
+~
+The room is filled with dairy products off all kinds.  There are wheels of 
+cheese stacked against the walls and Luna's pet cow has it's own bed made up 
+in the far western corner of the shop.  
+~
+1 0 0
+D0
+~
+~
+0 0 46140
+R M 0 46105 1 46150
+  R G 0 46102 0
+  R G 0 46106 0
+S
+#46151
+A small garden~
+~
+You find yourself standing inside of a small garden.  There are herbs and 
+flowers growing all around you.  The trees are all lush and full of 
+greenery, blocking out the sun and the winds are soft and cool here in the 
+shade.  
+~
+1 33555460 2
+D1
+~
+~
+0 0 46109
+R M 0 46117 1 46151
+  R G 0 46124 0
+  R G 0 46117 0
+  R G 0 46114 0
+  R G 0 46116 0
+  R G 0 46115 0
+S
+#46157
+Chicken house~
+~
+You find yourself inside of a large chicken house.  The heat is horrible in 
+here causing the smell to intensify.  
+~
+1 0 1
+D2
+~
+~
+0 0 46158
+R M 0 46103 3 46157
+S
+#46158
+Pastures~
+~
+You look upon acres of rolling fields.  There are animals of all sorts 
+grazing here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46157
+D1
+~
+~
+0 0 46159
+D2
+~
+~
+0 0 46161
+R M 0 46101 2 46158
+R M 0 46115 4 46158
+S
+#46159
+Pastures~
+~
+You look upon acres of rolling fields. There are animals of all sorts grazing here.
+~
+1 0 1
+D2
+~
+~
+0 0 46160
+D3
+~
+~
+0 0 46158
+R M 0 46101 2 46159
+R M 0 46102 1 46159
+S
+#46160
+Pastures~
+~
+You look upon acres of rolling fields.  There are animals of all sorts 
+grazing here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46159
+D3
+~
+~
+0 0 46161
+R M 0 46101 2 46160
+R M 0 46115 4 46160
+S
+#46161
+Pastures~
+~
+You look upon acres of rolling fields.  There are animals of all sorts 
+grazing here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46158
+D1
+~
+~
+0 0 46160
+D2
+~
+~
+0 0 46139
+R M 0 46101 2 46161
+S
+#46162
+Fern Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46147
+D2
+~
+~
+0 0 46163
+S
+#46163
+Fern Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46162
+D1
+~
+~
+0 0 46164
+D2
+~
+~
+0 0 46165
+S
+#46164
+Galioldor Pigeon Courier~
+~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 46163
+R M 0 46116 1 46164
+  R G 0 46126 0
+S
+#46165
+Fern Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46163
+D2
+~
+~
+0 0 46111
+S
+#46166
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  To 
+the east you notice a temple deticated to the Goddess Chislev.  There are 
+several elves standing outside of the temple kneeling in prayer.  
+~
+1 0 1
+D1
+~
+~
+0 0 46167
+D3
+~
+~
+0 0 46101
+S
+#46167
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  To 
+the north is the temple of Chislev.  
+~
+1 0 1
+D1
+~
+~
+0 0 46168
+D3
+~
+~
+0 0 46166
+S
+#46168
+Sycamore Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+Sycamore Street intersects with Palm Street here.  
+~
+1 0 1
+D0
+~
+~
+0 0 46170
+D3
+~
+~
+0 0 46167
+R M 0 46107 20 46168
+  R E 0 46104 0 16
+S
+#46169
+Temple~
+~
+You find yourself inside of a large temple deticated to the Goddess Chislev. 
+ There are living flowers growing in all corners of the temple as well a 
+large oak tree that is growing in the center of the room.  The alter is 
+located at the base of the tree.  
+~
+1 33555460 0
+S
+#46170
+Palm Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46171
+D2
+~
+~
+0 0 46168
+S
+#46171
+Palm Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46172
+D2
+~
+~
+0 0 46170
+R M 0 46108 20 46171
+S
+#46172
+Palm Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46173
+D1
+~
+~
+0 0 46149
+D2
+~
+~
+0 0 46171
+S
+#46173
+Palm Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46174
+D2
+~
+~
+0 0 46172
+S
+#46174
+Palm Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D2
+~
+~
+0 0 46173
+D3
+~
+~
+0 0 46175
+R M 0 46107 20 46174
+  R E 0 46104 0 16
+S
+#46175
+Side Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46174
+D3
+~
+~
+0 0 46176
+S
+#46176
+Moss Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46181
+D1
+~
+~
+0 0 46175
+D2
+~
+~
+0 0 46177
+R M 0 46109 20 46176
+S
+#46177
+Moss Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46176
+D1
+~
+~
+0 0 46178
+D2
+~
+~
+0 0 46179
+S
+#46178
+Weaponsmith Shop~
+~
+The shop is open and spacious.  It is very clean for a weapons shop.  There 
+are a few racks of weapons in various locations throughout the store.  The 
+weaponsmith is in the back of the shop carving out a new bow.  
+~
+1 0 0
+D3
+~
+~
+0 0 46177
+R M 0 46110 1 46178
+  R G 0 46105 0
+  R G 0 46113 0
+S
+#46179
+Oak Ave~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46177
+D3
+~
+~
+0 0 46104
+S
+#46180
+Elven Home~
+~
+The room is very small and home-like.  There is a small oaken table in the 
+far east corner.  The windows are open letting in the sounds from the 
+street.  
+~
+1 0 0
+D3
+~
+~
+0 0 46103
+S
+#46181
+Moss Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D0
+~
+~
+0 0 46183
+D2
+~
+~
+0 0 46176
+D3
+~
+~
+0 0 46182
+S
+#46182
+Valloria's Supplies~
+~
+The room looks like a junk pile with piles of stuff lying around everywhere. 
+ You are sure to find what you are looking here.  
+~
+1 0 0
+D1
+~
+~
+0 0 46181
+R M 0 46106 1 46182
+  R G 0 46121 0
+  R G 0 46112 0
+  R G 0 46122 0
+S
+#46183
+Intersection of Ivy Street and Moss Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  Ivy 
+Street and Moss street intersect here.  
+~
+1 0 1
+D2
+~
+~
+0 0 46181
+D3
+~
+~
+0 0 46184
+R M 0 46107 20 46183
+  R E 0 46104 0 16
+S
+#46184
+Ivy Street~
+~
+Large trees tower over you shading the town from the sun and providing 
+shelter from the elements.  You can hear the wildlife all around you.  
+~
+1 0 1
+D1
+~
+~
+0 0 46183
+D3
+~
+~
+0 0 46146
+S
+#46185
+Elven Home~
+~
+The room is very small and home-like.  There is a small oaken table in the 
+far east corner.  The windows are open letting in the sounds from the 
+street.  
+~
+1 8 0
+D1
+~
+~
+0 0 46108
+R M 0 46107 1 46185
+S
+#0
+
+
+#SHOPS
+ 46104    0  0  0  0  0   100   0         0 23    ; an elven barkeeper
+ 46105    0  0  0  0  0   100  75         0 23    ; luna
+ 46106    0  0  0  0  0   100  75         0 23    ; valloria
+ 46110    5  0  0  0  0   100  75         0 23    ; riven
+ 46112    0  0  0  0  0   105 100         0 23    ; tarnkin
+ 46113   10  0  0  0  0   105 100         0 23    ; edwin
+ 46116    0  0  0  0  0   100  50         0 23    ; a tall male elf
+ 46117    0  0  0  0  0   105 100         0 23    ; an elven druid
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

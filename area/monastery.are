@@ -1,0 +1,1960 @@
+#AREA        Monastery~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#940
+young monk~
+a young monk~
+A young monk is rushing about, doing some chore.
+~
+This male human is young and apparently still new to the monastery.  He is 
+rushing about and seems to be working very hard.
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+23 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#941
+bald monk~
+a bald monk~
+A bald monk is here, looking over an old text.
+~
+This middle-aged male human monk is busy studying an old text.  Although he 
+is not that old, he has gone completely bald.  Maybe he has shaved his head 
+intentionally.
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+29 1 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#942
+powerful monk~
+a powerful monk~
+A powerful-looking monk is here, peering at you suspiciously.
+~
+This monk is very well built and has a powerful air about him.  He is dressed 
+very finely compared to the other monks, and looks like a person of some 
+authority.
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+55 2 -27 6d9+300 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#943
+fat monk cook~
+a fat monk cook~
+A fat monk is here, cooking up something tasty for dinner.
+~
+This monk is rather nondescript - his only distinguishing feature is his huge 
+waistline.  He must weight at least 300 pounds.  He is busy cooking up 
+something that smells pretty good.
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+30 1 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#944
+grumpy monk~
+a grumpy monk~
+A grumpy monk is here, looking pissed off about something.
+~
+This male human looks to be in a pretty bad mood, judging from the look on 
+his face.  He is pissed off about something, maybe because you have 
+disturbed his meditations?. 
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+34 1 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#945
+young boy~
+a young boy~
+A young boy is here, running an errand.
+~
+This young boy is dressed in simple robes,  He is too young to be a monk yet, 
+but is well on his way.  He is currently rushing about with some task.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#946
+bird sparrow~
+a small sparrow~
+A small sparrow is building a nest here.
+~
+This bird is small and quick, and has brown feathers.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#947
+monk librarian~
+a monk librarian~
+A monk librarian is shelving books here.
+~
+This monk is small but he is carrying a pretty heavy stack of books.  He is 
+very studious looking, and wears spectacles.
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+43 1 -15 5d7+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#948
+monk healer~
+a monk healer~
+A monk healer is here, rearranging the shelves.
+~
+This monk looks very old and wise.  He is quite frail but does seem to have 
+an aura of power about him.
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+50 2 -21 5d9+285 5d8+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#949
+transparent wraith~
+a transparent wraith~
+A slightly transparent wraith is floating just above the ground here.
+~
+Something has prevented this poor soul from its final rest.  The body of 
+someone entombed here has faded away until it became this foul undead 
+creature.
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+74 2 -52 8d12+400 9d10+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#950
+hazy white ghost~
+a hazy white ghost~
+A hazy white ghost floats here.
+~
+This spirit is only visible as a thin hazy cloud, pulsating in the air in 
+front of you.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+64 2 -42 7d11+360 8d8+35
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#951
+rotting corpe zombie~
+a rotting corpse~
+A rotting corpse is roaming around here.
+~
+This disgusting creature may once have been a real live human, but now is 
+little more than an undead shell of rotting flesh.  Chunks of flesh are torn 
+out of the body in various place, exposing the bones beneath, and the stench 
+is unbelieveable.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+60 2 -31 6d10+320 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#952
+huge animated skeleton~
+a skeleton~
+A huge animated skeleton is wandering the area here.
+~
+This flesh of this former resident seems to have rotted completely away 
+before some evil force animated or possesed it.  It is pretty big, and would 
+have been a huge person in life.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+65 2 -38 7d10+340 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#953
+leering ghoul~
+a ghoul~
+A ghoul is here, leering evilly at you.
+~
+This undead creature has been pretty well preserved.  It looks soemwhat 
+intelligent, and is leerinig at you with a very evil look.
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+71 2 -47 8d11+380 8d9+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#954
+female banshee elf ghostly~
+the banshee~
+A ghostly-looking female elf is staring at you with absolute hatred.
+~
+This ancient creature is as evil as they get.  The look of absolute malice 
+in its eyes is beyond description.  The banshee is dressed in dark clothing, 
+and has pale white skin with black hair and eyes.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+81 4 -54 9d12+450 10d10+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#940
+simple brown robe~
+a simple `#`ybrown`^ robe~
+A simple `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+20 20 2 0 0 0 0
+1 95 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+940 simple brown robe~
+A plain old simple brown robe, made of cotton.
+~
+#941
+pine quarterstaff~
+a pine quarterstaff~
+A pine quarterstaff has been left here.~
+~
+5 256 4
+3 27 34 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+941 pine quarterstaff~
+A well-made pine quarterstaff.
+~
+#942
+platinum amulet~
+a `#`Splatinum`^ amulet~
+A `#`Splatinum`^ amulet has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+942 platinum amulet~
+A finely made platinum amulet.  There are religious symbols carved on it.
+~
+#943
+heavy iron key~
+a heavy iron key~
+A heavy iron key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+943 heavy iron key~
+A plain old heavy iron key.
+~
+#944
+piece firewood~
+a piece of cut firewood~
+A piece of cut firewood has been left here.~
+~
+5 0 4
+1 35 50 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+944 piece firewood~
+A piece of firewood.  Looks like maple.
+~
+#945
+dusty old tome~
+a dusty old tome~
+A dusty old tome has been left here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+945 dusty old tome~
+An old book, with magical and religious writing inside.
+~
+#946
+maple quarterstaff~
+a maple quarterstaff~
+A maple quarterstaff has been left here.~
+~
+5 256 4
+2 35 50 32 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+946 maple quarterstaff~
+A well-made maple quarterstaff.
+~
+#947
+oak quarterstaff~
+an oak quarterstaff~
+An oak quarterstaff has been left here.~
+~
+5 256 4
+4 70 85 32 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+947 oak quarterstaff~
+A well-made oak quarterstaff.
+~
+#948
+poplar quarterstaff~
+a poplar quarterstaff~
+A poplar quarterstaff has been left here.~
+~
+5 256 4
+2 38 51 32 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+948 poplar quarterstaff~
+A well-made poplar quarterstaff.
+~
+#949
+cherrywood quarterstaff~
+a `#`rcherrywood`^ quarterstaff~
+A `#`rcherrywood`^ quarterstaff has been left here.~
+~
+5 256 4
+3 54 68 32 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+949 cherrywood quarterstaff~
+A well-made cherrywood quarterstaff.
+~
+#950
+white ash quarterstaff~
+a `#`wwhite ash`^ quarterstaff~
+A `#`wwhite ash`^ quarterstaff has been left here.~
+~
+5 256 4
+4 65 85 32 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+950 white ash quarterstaff~
+A well-made white ash quarterstaff.
+~
+#951
+copper amulet~
+a `#`ycopper`^ amulet~
+A `#`ycopper`^ amulet has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+951 copper amulet~
+A finely made copper amulet.  There are religious symbols carved on it.
+~
+#952
+brass amulet~
+a `#`ybrass`^ amulet~
+A `#`ybrass`^ amulet has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1460 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+952 brass amulet~
+A finely made brass amulet.  There are religious symbols carved on it.
+~
+#953
+steel amulet~
+a `#`Ssteel`^ amulet~
+A `#`Ssteel`^ amulet has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+953 brass amulet~
+A finely made brass amulet.  There are religious symbols carved on it.
+~
+#954
+fine brown robe~
+a fine `#`ybrown`^ robe~
+A fine `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+40 40 15 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+954 fine brown robe~
+An extremely well made brown cotton robe.
+~
+#955
+fancy pewter chalice~
+a fancy pewter chalice~
+A fancy pewter chalice has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+955 fancy pewter chalice~
+A finely crafted pewter chalice.  There are engraved religious symbols.
+~
+#956
+simple brown robe~
+a simple `#`ybrown`^ robe~
+A simple `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+30 30 2 0 0 0 0
+1 95 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+956 simple brown robe~
+A plain old simple brown robe, made of cotton.
+~
+#957
+simple brown robe~
+a simple `#`ybrown`^ robe~
+A simple `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+30 30 2 0 0 0 0
+1 95 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+957 simple brown robe~
+A plain old simple brown robe, made of cotton.
+~
+#958
+simple brown robe~
+a simple `#`ybrown`^ robe~
+A simple `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+35 35 2 0 0 0 0
+1 95 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+958 simple brown robe~
+A plain old simple brown robe, made of cotton.
+~
+#959
+simple brown robe~
+a simple `#`ybrown`^ robe~
+A simple `#`ybrown`^ robe has been left here.~
+~
+9 0 8
+40 40 2 0 0 0 0
+1 95 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+959 simple brown robe~
+A plain old simple brown robe, made of cotton.
+~
+#960
+mithril amulet~
+a mithril amulet~
+A mithril amulet has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+960 mithril amulet~
+This amulet is an incredible piece of workmanship, seemingly fashioned by
+the hands of some god.  It is made of mithril, and upon it are fashioned
+unrecognizable runes.  
+~
+#961
+pitch black cape~
+a `#`Spitch black`^ cape~
+A `#`Spitch black`^ cape has been left here.~
+~
+9 16 8
+55 55 14 0 0 0 0
+1 1700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+961 pitch black cape~
+This cape is extremely finely made of the finest materials.  It has an
+unearthly feel to it.  
+~
+#0
+
+
+#ROOMS
+#940
+Entry Room~
+~
+This small room is bare aside from a few wooden chairs along one wall, and 
+some small baskets on the floor.  The walls are of dark stone and are very 
+smooth.  To the south is a wooden doorway, and an open arch is north.  A 
+dimly lit hallway runs east and west.
+~
+1 8 0
+D0
+A courtyard.
+~
+~
+0 0 955
+D1
+Hallway.
+~
+~
+0 0 941
+D3
+Hallway.
+~
+~
+0 0 953
+E
+chairs baskets~
+The chairs and baskets are very plain.  Functional, but not fancy.
+~
+S
+#941
+Hallway~
+~
+This hallway is dimly lit and runs east and west.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.
+~
+1 8 0
+D1
+Hallway.
+~
+~
+0 0 942
+D3
+Entry Room.
+~
+~
+0 0 940
+R M 0 940 10 941
+  R E 0 940 0 12
+  R E 0 941 0 16
+S
+#942
+Hallway~
+~
+This hallway is dimly lit and runs west and north.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 943
+D3
+Hallway.
+~
+~
+0 0 941
+S
+#943
+Hallway~
+~
+This hallway is dimly lit and runs north and south.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There is a 
+small room through a doorway to the east.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 944
+D1
+Sparse Living Quarters.
+~
+~
+0 0 971
+D2
+Hallway.
+~
+~
+0 0 942
+S
+#944
+Hallway~
+~
+This hallway is dimly lit and runs north and south.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There is a 
+small room through a doorway to the east.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 945
+D1
+Sparse Living Quarters.
+~
+~
+0 0 970
+D2
+Hallway.
+~
+~
+0 0 943
+S
+#945
+Hallway~
+~
+This hallway is dimly lit and runs west and south.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There are 
+small rooms through doorways to the north and east.
+~
+1 8 0
+D0
+Living Quarters.
+~
+~
+0 0 968
+D1
+Sparse Living Quarters.
+~
+~
+0 0 969
+D2
+Hallway.
+~
+~
+0 0 944
+D3
+Hallway.
+~
+~
+0 0 946
+S
+#946
+Hallway~
+~
+This hallway is dimly lit and runs east and west.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  A small room 
+is through a doorway to the north.
+~
+1 8 0
+D0
+Stair Room.
+~
+~
+0 0 967
+D1
+Hallway.
+~
+~
+0 0 945
+D3
+Small Chamber.
+~
+~
+0 0 947
+S
+#947
+Small Chamber~
+~
+This small chamber is completely bare except for a few uncomfortable looking 
+chairs.  There are open arches to the north and south, and hallways run east 
+and west.
+~
+1 8 0
+D0
+Shrine.
+~
+~
+0 0 965
+D1
+Hallway.
+~
+~
+0 0 946
+D2
+Path through Garden.
+~
+~
+0 0 958
+D3
+Hallway.
+~
+~
+0 0 948
+S
+#948
+Hallway~
+~
+This hallway is dimly lit and runs east and west.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  A small room 
+is through an opening to the north.
+~
+1 8 0
+D0
+Stair Room.
+~
+~
+0 0 964
+D1
+Small Chamber.
+~
+~
+0 0 947
+D3
+Hallway.
+~
+~
+0 0 949
+S
+#949
+Hallway~
+~
+This hallway is dimly lit and runs south and east.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There are 
+small rooms through doorways to the north and west.
+~
+1 8 0
+D0
+Library.
+~
+~
+0 0 963
+D1
+Hallway.
+~
+~
+0 0 948
+D2
+Hallway.
+~
+~
+0 0 950
+D3
+Infirmary.
+~
+~
+0 0 962
+S
+#950
+Hallway~
+~
+This hallway is dimly lit and runs north and south.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There is a 
+large room through a doorway to the west.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 949
+D2
+Hallway.
+~
+~
+0 0 951
+D3
+Kitchen.
+~
+~
+0 0 961
+S
+#951
+Hallway~
+~
+This hallway is dimly lit and runs north and south.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.  There is a 
+small room through a doorway to the west.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 950
+D2
+Hallway.
+~
+~
+0 0 952
+D3
+Storage Room.
+~
+~
+0 0 960
+R M 0 940 10 951
+  R E 0 940 0 12
+  R E 0 941 0 16
+S
+#952
+Hallway~
+~
+This hallway is dimly lit and runs north and east.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.
+~
+1 8 0
+D0
+Hallway.
+~
+~
+0 0 951
+D1
+Hallway.
+~
+~
+0 0 953
+S
+#953
+Hallway~
+~
+This hallway is dimly lit and runs east and west.  The walls are of dark 
+stone, and there are no adornments or decorations of any type.
+~
+1 8 0
+D1
+Entry Room.
+~
+~
+0 0 940
+D3
+Hallway.
+~
+~
+0 0 952
+S
+#954
+Courtyard~
+~
+The ground in this nice little courtyard is covered by small stone tiles.  
+There are a few old wooden benches scattered about, and a few plants in small 
+pots.  A stone wall blocks the way south and west, but the courtyard 
+continues east, and a lush garden is north.
+~
+1 0 1
+D0
+Garden.
+~
+~
+0 0 957
+D1
+Courtyard.
+~
+~
+0 0 955
+R M 0 941 4 954
+  R E 0 956 0 12
+  R E 0 946 0 16
+E
+garden lush~
+A thick lush garden, full of colorful trees and flowers.
+~
+E
+benches~
+Old, weathered, wooden benches.
+~
+E
+stone tiles~
+Small stone tiles, a few inches wide, have been used to pave the courtyard.
+~
+S
+#955
+Courtyard~
+~
+The ground in this nice little courtyard is covered by small stone tiles.  
+There are a few old wooden benches scattered about, and a few plants in small 
+pots.  There is an open archway that leads inside to the south, and a  path 
+heads north through a lush garden.
+~
+1 0 1
+D0
+Path through Garden.
+~
+~
+0 0 958
+D1
+Courtyard.
+~
+~
+0 0 956
+D2
+A small room.
+~
+~
+0 0 940
+D3
+Courtyard.
+~
+~
+0 0 954
+R M 0 945 5 955
+  R E 0 958 0 12
+E
+garden plants lush~
+A thick lush garden, full of colorful trees and flowers.
+~
+E
+benches~
+Old, weathered, wooden benches.
+~
+E
+stone tiles~
+Small stone tiles, a few inches wide, have been used to pave the courtyard.
+~
+S
+#956
+Courtyard~
+~
+The ground in this nice little courtyard is covered by small stone tiles.  
+There are a few old wooden benches scattered about, and a few plants in small 
+pots.  A stone wall blocks the way south and east, but the courtyard 
+continues east, and a lush garden is north.
+~
+1 0 1
+D0
+Garden.
+~
+~
+0 0 959
+D3
+Courtyard.
+~
+~
+0 0 955
+E
+garden lush~
+A thick lush garden, full of colorful trees and flowers.
+~
+E
+benches~
+Old, weathered, wooden benches.
+~
+E
+stone tiles~
+Small stone tiles, a few inches wide, have been used to pave the courtyard.
+~
+S
+#957
+Garden~
+~
+You are in the midst of a nicely tended garden, full of plants and trees of 
+all varieties.  Many of them are of the flowering type, making the place very 
+colorful.  The way west and north are blocked by a stone wall, while a  small 
+path is to the east and a courtyard south.
+~
+1 0 2
+D1
+Path through Garden.
+~
+~
+0 0 958
+D2
+Courtyard.
+~
+~
+0 0 954
+R M 0 940 10 957
+  R E 0 940 0 12
+  R E 0 941 0 16
+E
+plants trees flowering~
+All sort os plants and trees, all very healthy and colorful.  They seem to be
+well cared for.
+~
+S
+#958
+Path through Garden~
+~
+Here a path runs north and south through a nice, lush garden.  Flowering 
+plants and trees surround you, providing quite a variety of colors and 
+aromas.  North the path leads inside through an archway, and south to a small 
+courtyard.
+~
+1 0 2
+D0
+Small Chamber.
+~
+~
+0 0 947
+D1
+Garden.
+~
+~
+0 0 959
+D2
+Courtyard.
+~
+~
+0 0 955
+D3
+Garden.
+~
+~
+0 0 957
+E
+plants trees flowering~
+All sorts of plants and trees, all very healthy and colorful.  They seem to be
+well cared for.
+~
+S
+#959
+Garden~
+~
+You are in the midst of a nicely tended garden, full of plants and trees of 
+all varieties.  Many of them are of the flowering type, making the place very 
+colorful.  The way east and north are blocked by a stone wall, while a  small 
+path is to the west and a courtyard south.
+~
+1 0 2
+D2
+Courtyard.
+~
+~
+0 0 956
+D3
+Path through Garden.
+~
+~
+0 0 958
+R M 0 944 4 959
+  R E 0 957 0 12
+  R E 0 948 0 16
+E
+plants trees flowering~
+All sort os plants and trees, all very healthy and colorful.  They seem to be
+well cared for.
+~
+S
+#960
+Storage Room~
+~
+This small room appears to be used for storage of little-used items.  There 
+are a few stacks of cushions, and shelves full of religious items and books. 
+The only exit is east.
+~
+1 8 0
+D1
+Hallway.
+~
+~
+0 0 951
+R M 0 945 5 960
+  R E 0 958 0 12
+E
+religious items books~
+Upon the shelves are old religious symbols and items used in worship.  There
+are some old books also, though none seem very interesting.
+~
+E
+cushions~
+Cushions for kneeling, as found in churches and place of worship.
+~
+S
+#961
+Kitchen~
+~
+This large room is obviously a kitchen.  There are several tables for 
+preparing food, and cooking implements hang all over the walls.  Wooden 
+shelves are also placed about and covered with food, some packaged and some 
+fresh from the garden.  The only exit is east.
+~
+1 8 0
+D1
+Hallway.
+~
+~
+0 0 950
+R M 0 943 1 961
+  R E 0 957 0 12
+  R E 0 944 0 16
+R M 0 944 4 961
+  R E 0 957 0 12
+  R E 0 948 0 16
+E
+food~
+Lots of different types of healthy food, some dried for preservation.
+~
+E
+cooking implements~
+Knives, big spoons, pots, pans, you name it...
+~
+E
+tables~
+Tables with stone tops, for preparing food.
+~
+S
+#962
+Infirmary~
+~
+This small room is apparently where the inhabitants treat any sick or wounded 
+people.  There are some hard beds against one wall, and a few shelves with 
+bandages and small jars of what is probably ointments and medications.  The 
+only exit is east.
+~
+1 8 0
+D1
+Hallway.
+~
+~
+0 0 949
+R M 0 948 1 962
+  R E 0 959 0 12
+  R E 0 950 0 16
+  R G 0 3036 0
+E
+bandages jars ointments medication~
+Lots of types of medicine and medical items.
+~
+E
+hard beds~
+They don't look very comfortable.
+~
+S
+#963
+Library~
+~
+This small library is completely packed with books.  Every available space 
+either has a shelf or case filled with them.  Most of the books seem very 
+old, but are in very good shape and appear to have been well cared for.  The 
+only exit is south.
+~
+1 8 0
+D2
+Hallway.
+~
+~
+0 0 949
+R M 0 941 4 963
+  R E 0 956 0 12
+  R E 0 946 0 16
+R M 0 947 1 963
+  R E 0 958 0 12
+  R E 0 949 0 16
+  R G 0 945 0
+E
+shelf case books~
+There are old tomes packed in every available space in this room.
+~
+S
+#964
+Stair Room~
+~
+This very small room has no purpose except to house a staircase that leads 
+down.  There is a musty smell, and a lot of dust, giving the overall 
+appearance that not many people come in here.  There is an exit south to a 
+hallway.
+~
+1 8 0
+D2
+Hallway.
+~
+~
+0 0 948
+D5
+Stairs.
+~
+~
+0 0 972
+E
+dust~
+A thick layer of dust covers everything.
+~
+S
+#965
+Shrine~
+~
+This room is dominated by a huge stone altar in its north end.  Upon the 
+altar are some religious items, including a few bowls and candles, and it is 
+surrounded by cushions for kneeling.  There are a few hardwood benches in the 
+southern part of the room, near the only exit.  A few tapestries are hung on 
+the wall behind the altar.
+~
+1 8 0
+D0
+Small Hidden Room.
+~
+secret door~
+1 0 966
+D2
+Small Chamber.
+~
+~
+0 0 947
+R M 0 941 4 965
+  R E 0 956 0 12
+  R E 0 946 0 16
+R M 0 944 4 965
+  R E 0 957 0 12
+  R E 0 948 0 16
+E
+tapestry tapestries~
+The tapestries depict a great light in the sky, shedding its brilliance all 
+over mountains, plains, forests, and oceans.  While examining them you notice 
+a secret door concealed behind them!.
+~
+E
+hardwood benches~
+Long hard benches.
+~
+E
+cushions~
+Pads to kneel on while praying.
+~
+E
+bowls candles~
+Regular religious worship items, not worth much.
+~
+E
+stone altar~
+A large altar carved from grey stone.  Upen it is a cloth cover, and some items.
+~
+S
+#966
+Small Hidden Room~
+~
+This tiny room is bare except for a small table.  The exit is south, and 
+seems to be well concealed from the other direction.  Something valuable or 
+important to the inhabitants must be kept here.
+~
+1 8 0
+D2
+Shrine.
+~
+secret door~
+1 0 965
+R O 0 955 0 966
+S
+#967
+Stair Room~
+~
+This very small room has no purpose except to house a staircase that leads 
+up.  The rooms is a bit drafty, maybe the stairs lead to the outside.
+~
+1 8 0
+D2
+Hallway.
+~
+~
+0 0 946
+D4
+Bell Tower.
+~
+~
+0 0 982
+R M 0 940 10 967
+  R E 0 940 0 12
+  R E 0 941 0 16
+S
+#968
+Living Quarters~
+~
+This medium-sized room is warm and much more finely appointed than any of the 
+surrounding rooms you may have seen.  There is a narrow but comfortable bed, 
+a few padded chairs, a small table, and a wooden desk.  The floor is covered 
+by a thin red rug, and the only exit is south.
+~
+1 8 0
+D2
+Hallway.
+~
+~
+0 0 945
+R M 0 942 1 968
+  R E 0 954 0 12
+  R E 0 947 0 16
+  R E 0 942 0 3
+  R G 0 943 0
+E
+red rug~
+A nice red rug covers the stone floor.
+~
+E
+bed chair table desk~
+All the furniture is very nice, and looks quite comfortable.
+~
+S
+#969
+Sparse Living Quarters~
+~
+These living quarters are very sparse.  The walls and floor are cold stone, 
+with no carpet or rug.  Two hard and narrow beds sit along the walls, with a 
+small wooden desk between them.  An old wooden chair sits near the desk, and 
+the only exit is west.
+~
+1 8 0
+D3
+Hallway.
+~
+~
+0 0 945
+R M 0 941 4 969
+  R E 0 956 0 12
+  R E 0 946 0 16
+E
+bed desk chair~
+All of the furniture is very plain, and looks really uncomfortable.
+~
+S
+#970
+Sparse Living Quarters~
+~
+These living quarters are very sparse.  The walls and floor are cold stone, 
+with no carpet or rug.  Two hard and narrow beds sit along the walls, with a 
+small wooden desk between them.  An old wooden chair sits near the desk, and 
+the only exit is west.
+~
+1 8 0
+D3
+Hallway.
+~
+~
+0 0 944
+R M 0 944 4 970
+  R E 0 957 0 12
+  R E 0 948 0 16
+E
+bed desk chair~
+All of the furniture is very plain, and looks really uncomfortable.
+~
+S
+#971
+Sparse Living Quarters~
+~
+These living quarters are very sparse.  The walls and floor are cold stone, 
+with no carpet or rug.  Two hard and narrow beds sit along the walls, with a 
+small wooden desk between them.  An old wooden chair sits near the desk, and 
+the only exit is west.
+~
+1 8 0
+D3
+Hallway.
+~
+~
+0 0 943
+E
+bed desk chair~
+All of the furniture is very plain, and looks really uncomfortable.
+~
+S
+#972
+Stairs~
+~
+You are at the bottom of a staircase leading up.  This really isn't a room at 
+all, just a small area with a thick wooden door to the south.  There are
+runes of warding and protection on the door.
+~
+1 12 0
+D2
+Dark Hallway.
+~
+wooden door~
+33 943 973
+D4
+Stair Room.
+~
+~
+0 0 964
+E
+thick wooden door~
+The door is very thick and strong.
+~
+E
+runes warding protection~
+It is not certain whether the runes are to keep people out, or to keep things
+inside!
+~
+S
+#973
+Dark Hallway~
+~
+This hallway carved from stone runs south into darkness, or north to a thick 
+wooden door.  You are in catacombs, if the small entombment chambers to the 
+east and west are any indication.
+~
+1 9 0
+D0
+Stairs.
+~
+wooden door~
+33 943 972
+D1
+Tomb.
+~
+~
+0 0 979
+D2
+Dark Hallway.
+~
+~
+0 0 974
+D3
+Tomb.
+~
+~
+0 0 976
+S
+#974
+Dark Hallway~
+~
+This hallway carved from stone runs north and south into darkness.  You are 
+in catacombs, if the small entombment chambers to the east and west are any 
+indication.
+~
+1 9 0
+D0
+Dark Hallway.
+~
+door~
+0 943 973
+D1
+Tomb.
+~
+~
+0 0 980
+D2
+Dark Hallway.
+~
+~
+0 0 975
+D3
+Tomb.
+~
+~
+0 0 977
+S
+#975
+Dark Hallway~
+~
+This hallway carved from stone runs north into the darkness, but south ends 
+abruptly in a stone wall.  You are in catacombs, if the small entombment 
+chambers to the east and west are any indication.
+~
+1 9 0
+D0
+Dark Hallway.
+~
+~
+0 0 974
+D1
+Tomb.
+~
+~
+0 0 981
+D2
+~
+door~
+1 0 983
+D3
+Tomb.
+~
+~
+0 0 978
+E
+stone wall~
+There is something strange about the wall.
+~
+S
+#976
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D1
+Dark Hallway.
+~
+~
+0 0 973
+R M 0 951 3 976
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#977
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D1
+Dark Hallway.
+~
+~
+0 0 974
+R M 0 950 3 977
+  R G 0 951 0
+R M 0 952 3 977
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#978
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D1
+Dark Hallway.
+~
+~
+0 0 975
+R M 0 950 3 978
+  R G 0 951 0
+R M 0 953 2 978
+  R G 0 952 0
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#979
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D3
+Dark Hallway.
+~
+~
+0 0 973
+R M 0 951 3 979
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#980
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D3
+Dark Hallway.
+~
+~
+0 0 974
+R M 0 952 3 980
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#981
+Tomb~
+~
+This small alcove is set into the stone, and is the final resting place of a 
+few of the former inhabitants of this place.  It is bare except for two stone 
+slabs, upon which are carved sigils and wards.
+~
+1 9 0
+D3
+Dark Hallway.
+~
+~
+0 0 975
+R M 0 949 2 981
+  R G 0 953 0
+E
+sigils wards~
+Carved into the stone, they are meant to protect the body after death.
+~
+E
+stone slabs~
+The final resting place for some former inhabitant.
+~
+S
+#982
+Bell Tower~
+~
+You are inside a small bell tower above what looks to be a small stone 
+monastery.  There is a heavy iron bell hanging in the middle, and openings to 
+the outside world all around the walls.  You can see the ocean down the slope 
+to the east, and tall trees all about to the west.
+~
+1 8 0
+D5
+Stair Room.
+~
+~
+0 0 967
+R M 0 946 2 982
+E
+tall trees~
+The forest stretches its way west from here.
+~
+E
+ocean~
+You can see the ocean to the east.
+~
+E
+heavy iron bell~
+The bell is huge!  It is however missing its ringer.
+~
+S
+#983
+Small Dark Tomb~
+~
+This small dark room seems to be the final resting place for someone of
+importance.  Hanging from the walls are the remains of old rotten
+tapestries, and colorful mosaics are placed in several spots.  A raised
+platform sits in the middle of the room, taking up most of the space.  Upon
+it is an open stone coffin, from which evil seems to flow.  
+~
+1 8 0
+D0
+~
+door~
+1 0 975
+R M 0 954 1 983
+  R E 0 961 0 12
+  R G 0 960 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

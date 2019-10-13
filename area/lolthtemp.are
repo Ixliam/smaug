@@ -1,0 +1,2924 @@
+#AREA        Temple of the Drow~
+
+
+
+#VERSION     11
+#AUTHOR      nakasha~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2200
+drow noble~
+a `#`Sdrow `WNoble`^~
+A `#`Sdrow `WNoble`^ wanders here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+44 0 -19 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2201
+drow templeguard~
+a `#`sdrow `rt`semple`rg`suard`^~
+A `#`sdrow `rt`semple`rg`suard`^ stands here at attention.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+56 0 -60 9d13+440 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2202
+drow priest~
+a `#`Sdrow `wp`sriest`^~
+A `#`Sdrow `wp`sriest`^ worships here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+51 0 -29 6d9+315 5d10+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2203
+drow priestess~
+a `#`Sdrow P`Wriestess`^~
+A `#`Sdrow P`Wriestess`^ prays here, chanting quietly.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+54 0 -37 7d10+345 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2204
+drow sentry~
+a `#`Sdrow`^ sentry~
+A `#`Sdrow`^ sentry patrols here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+69 0 -46 8d11+385 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2205
+drider~
+a horrendous `#`Sdrider`^~
+A horrendous `#`Sdrider`^ roams here.
+~
+~
+0
+Clanname none~
+0
+0
+129 32768 -600 C
+58 0 -54 8d12+420 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2206
+soul spider~
+a `#`Ss`rou`sl s`wp`si`wd`se`wr`^~
+A `#`Ss`rou`sl s`wp`si`wd`se`wr`^ lurks here.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 -600 C
+86 0 -56 9d12+425 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2207
+minion of lolth~
+a `#`cMinion `wof `cL`solt`ch`^~
+A `#`cMinion `wof `cL`solt`ch`^ stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 -400 C
+87 0 -56 9d12+420 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2208
+statue jade spider jilorb~
+`#a `gstatue`^ of a `GJ`gi`Gl`go`Gr`gb`^~
+`#A `gstatue`^ of a `GJ`gi`Gl`go`Gr`gb`^ sits here.
+~
+This statue depicts a beautifully crafted `#`GJ`ga`Gd`ge `sS`Gp`gi`sd`Ge`gr`^.  It seems almost life 
+like.  
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+84 0 -56 9d12+425 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2209
+sahsxel high drow priestess~
+`#`SSahsxel`^, `CH`sigh `CP`sriestess`^~
+`#`SSahsxel`^, the `CH`sigh `CP`sriestess`^ stands here in reverence.
+~
+Hair that shines silver and skin that glows ebony, this drow woman is 
+beautiful in her simplicity.  She stands elegantly, her head bowed and 
+shoulders straight as she prays to her Gods of old.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+90 0 -60 9d12+440 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2210
+drow priestess worship~
+a drow priestess, worshipping quietly~
+A drow priestess is here, worshipping quietly.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 600 C
+83 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2211
+drow priest worship~
+a drow priest, worshipping quietly~
+A drow priest is here, worshipping quietly.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2212
+oppressor~
+the `#`soppressor`^~
+The oppressor is here, awaiting a victim.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+70 0 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2213
+elven slave~
+an elven slave~
+An elven slave is here, awaiting his punishment.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2214
+drow noble~
+a `#`sdrow `WNoble`^~
+A `#`Sdrow `WNoble`^ wanders here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+44 0 -15 5d7+247 8d4+15
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2215
+drider~
+a horrendous `#`sdrider`^~
+A horrendous `#`sdrider`^ roams here.
+~
+~
+0
+Clanname none~
+0
+0
+129 32768 -600 C
+64 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2200
+shadowy gateway portal~
+a `#`Ssh`wado`swy `Wg`wa`Wt`we`Ww`wa`Wy`^~
+A `#`Ssh`wado`swy `Wg`wa`Wt`we`Ww`wa`Wy`^ melds into existence, leading to parts unknown.~
+~
+29 64 16
+9216 33 2282 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2201
+vengeance reaper~
+`#`rV`Re`sn`wg`We`Ra`rn`Sc`re `RR`We`wa`sp`Re`rr`^~
+A Vengeance Reaper lies here.~
+~
+5 2 4
+7 89 118 4 0 0 0
+1 1816 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2202
+dreadbringer dagger dark~
+`#`bD`Br`se`wa`Bd`bB`Br`Wi`wn`sg`Be`br`^~
+A dark dagger lies here.~
+~
+5 0 4
+6 70 85 2048 0 0 0
+1 1890 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2203
+deathseeker~
+the `#`cD`we`sa`wt`ch`cS`we`sek`we`cr`^~
+The DeathSeeker lies here.~
+~
+5 0 4
+11 65 85 10240 0 0 0
+1 3870 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2204
+soulrendor soul rendor whip~
+a `#`SS`w`Wo`Ru`rl`sR`re`Rn`Wd`wo`sr`^~
+An evil looking whip lies here.~
+~
+5 16 4
+17 116 152 8320 0 0 0
+1 1543 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2205
+spiderbane spider bane~
+`#`yS`sp`wi`Wd`ye`sr`WB`wa`sn`ye`^~
+SpiderBane lies here.~
+~
+5 0 4
+17 108 151 224 0 0 0
+1 1231 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2206
+staff awakening~
+the `#`sS`Ct`Wa`Cf`sf of `WA`Cw`sa`Wk`Ce`Wn`si`Cn`Wg`^~
+A staff of awakening lies here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 1821 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#2207
+eyes of the drider~
+the `#`WEyes`^ of the `SDrider`^~
+The `#`WEyes`^ of the `SDrider`^ lie here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 621 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2208
+key spider~
+a `#`sspider `Wkey`^~
+A spider key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2209
+well viewing~
+a `#`cv`Bi`be`cw`Ci`bn`Bg `cwell`^~
+A viewing well is here, it's surface appearing crystaline.~
+~
+29 64 16
+11264 1 645 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2209 viewing well~
+This well is shallow and wide, surrounded by small granite slabs.  The water 
+in it is crystal clear and doesn't show a ripple across it's surface.  
+Looking in the water, there appears to be a slight glow rising from it's 
+depths.  
+~
+#2210
+altar marble~
+a `#`Sma`Wrb`sle `saltar`^~
+A marble altar inscribed with golden script stands here.~
+~
+12 2 8
+100000 73729 130 130 0 0 0
+20 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2210 marble altar~
+This altar is made of the purest midnight marble with a gleaming streak of 
+white running through it's veins.  Inscribed upon its sides, a glowing 
+script of a strange mix of runes and drowish can be seen.  Strewn across it 
+are disintegrating rose petals that are so dark red they appear to be black. 
+ Blood stains litter across it, seeping into the marble surface itself.  
+~
+#2211
+silken gown silk~
+a `#`ms`si`wlk`se`mn `sg`wow`sn`^~
+A silken gown lies here, discarded.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 987 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2212
+branding iron~
+a `#`Sb`rr`Ra`snd`Ri`rn`sg `siron`^~
+A branding iron lies here, it's tip glowing brightly.~
+~
+5 16 4
+8 89 118 1 0 0 0
+1 940 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2213
+barred cage hanging large~
+a large barred cage~
+A large barred cage dangles here.~
+~
+12 0 8
+4000 264484 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2214
+iron maiden~
+an `#`siron maiden`^~
+An iron maiden stands here in a corner.~
+~
+12 0 8
+1000 264228 75 75 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2215
+robe white embroidered~
+a `#`Wwhite `We`wmb`Wr`woi`Wd`wer`We`wd `Wr`wob`We`^~
+A white embroidered robe lies here, discarded.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 1921 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2216
+onyx key~
+an `#`Sonyx`^ key~
+An onyx key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2217
+dragonhide dragon hide leg guards~
+a pair of `#`gd`Gr`sa`Gg`go`sn`gh`Gi`sd`ge `sleg `sguards`^~
+A pair of dragonhide leg guards lies here.~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 1110 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2218
+dragonhide arm guards dragon hide~
+a pair of `#`gd`Gr`sa`Gg`go`sn`gh`Gi`sd`ge `sarm guards`^~
+A pair of dragonhide arm guards lies here.~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 1432 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2219
+corslet adamantium~
+an `#`ma`sdamantiu`mm `Sc`worsle`st`^~
+An adamantium corslet lies here.~
+~
+9 256 8
+50 50 15 0 0 0 0
+1 1210 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2220
+adamantium key~
+an adamantium key~
+An adamantium key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2221
+diamond key~
+a `#`Wdiamond`^ key~
+A diamond key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2222
+shin guards adamantium~
+a pair of `#`ma`sdamantiu`mm `ss`whin guard`ss`^~
+A pair of adamantium shin guards lies here.~
+~
+9 256 8
+50 50 12 0 0 0 0
+1 1120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2223
+rucksack spider hide spiderhide~
+a `#`ss`wp`si`wd`se`wr `sh`rid`se`^ rucksack~
+A rucksack made of a spider's hide lies here.~
+~
+15 1 8
+5 0 50 0 0 0 0
+1 999 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2224
+circlet dim silvery~
+the `#`WC`sirclet `wof the `WD`sim`^~
+A silvery circlet lies here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1210 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2225
+blackcloud plate mail finely suit crafted~
+a `#`sb`Wl`sack`sc`Wl`soud `Wp`slate`^~
+A finely crafted suit of black plate mail lies here.~
+~
+9 16 8
+40 40 21 0 0 0 0
+1 2103 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2225 blackcloud plate mail suit~
+A finely crafted suit of black plate mail, even blacker than adamantine.  It 
+is inscribed with fanciful images of clouds and nighttime.  
+~
+#2226
+woven spider web belt~
+a woven `#`sspider `Ww`se`Wb`w belt`^~
+A woven spider web belt lies here.~
+~
+11 32 8
+0 0 0 0 0 0 0
+1 2341 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2227
+marble anklet~
+a `#`sm`wa`sr`wb`sl`we`s anklet`^~
+A marble anklet lies here.~
+~
+9 0 8
+55 55 4 0 0 0 0
+1 1172 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2228
+silk slippers~
+silk `Ws`wl`Wi`wp`Wp`we`Wr`ws`^~
+A pair of silk slippers lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1518 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2229
+marble girdle~
+a `#`sm`wa`sr`wb`sl`we `sgirdle`^~
+A marble girdle lies here.~
+~
+9 0 8
+55 55 7 0 0 0 0
+1 1218 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2230
+black leather boots~
+a pair of `#`sblack leather`^ boots~
+A pair of black leather boots lie here.~
+~
+9 0 8
+55 55 7 0 0 0 0
+1 982 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2231
+black hood~
+a `#`sblack hood`^~
+A black hood lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1241 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2232
+jade orb~
+a `#`Gj`ga`Gd`ge `Wo`Gr`Wb`^~
+A jade orb lies here, glowing faintly.~
+~
+9 0 8
+55 55 6 0 0 0 0
+1 987 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2233
+jade amulet~
+a `#`gj`Ga`gd`Ge`g a`sm`Gul`se`gt`^~
+A jade amulet has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2234
+black pearl diadem~
+a `#`Wd`siade`Wm`^ made of `Sblack `wp`se`wa`sr`wl`ss`^~
+A diadem of black pearls lies here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 2101 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2235
+glowing portal~
+a glowing portal~
+A glowing portal is here.~
+~
+29 64 16
+9216 1 2200 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2349
+black diamond wedding band~
+an intricately designed `#`Sblack `Wd`Si`Wa`Sm`Wo`Sn`Wd `Ww`we`Wd`wd`Wi`wn`Wg `sband`^~
+A black diamond wedding band lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2349 silver wedding band~
+Intricately designed with beautiful detailing, this silver wedding band has 
+a small enscription in it reading, "Twenty-First Day of the Mists, Month of 
+the Heat in the Year 580 AK".  
+~
+#0
+
+
+#ROOMS
+#2200
+A dark antechamber~
+~
+A wide archway of solid ivory rises to the ceiling, glowing palely in the 
+shadows.  Steep steps of thick obsidian slopes downward to the south, 
+leading to a wide set of black obsidian doors.  The doors themselves are a 
+rising mass of smooth obsidian, though looking closely, it's clear to see a 
+flowing script tracing along the outer edge of the door and large runes 
+carved deeply into its center.  No doorknob or other way of opening the door 
+can be seen from this side, though it seems to hum with an odd aura of 
+power.  
+~
+1 37748744 0
+D0
+~
+~
+0 0 2201
+D2
+~
+~
+1 0 645
+R M 0 2201 30 2200
+S
+#2201
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  West and east continue along the 
+corridor, while a wide arch of ivory opens towards the south.  
+~
+1 4202509 0
+D1
+~
+~
+0 0 2208
+D2
+~
+~
+0 0 2200
+D3
+~
+~
+0 0 2202
+S
+#2202
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2203
+S
+#2203
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and east continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2204
+D1
+~
+~
+0 0 2202
+R M 0 2201 30 2203
+  R E 0 2225 0 5
+R M 0 2200 22 2203
+S
+#2204
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2205
+D2
+~
+~
+0 0 2203
+R M 0 2214 1 2204
+  R E 0 2208 0 17
+S
+#2205
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2206
+D2
+~
+~
+0 0 2204
+R M 0 2200 22 2205
+R M 0 2201 30 2205
+S
+#2206
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2207
+D3
+~
+~
+0 0 2205
+S
+#2207
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2212
+D2
+~
+panel~
+33 2208 2213
+D3
+~
+~
+0 0 2206
+R M 0 2200 22 2207
+S
+#2208
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  West and east continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2201
+S
+#2209
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  West and north continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2210
+D3
+~
+~
+0 0 2208
+R M 0 2201 30 2209
+R M 0 2200 22 2209
+S
+#2210
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2211
+D2
+~
+~
+0 0 2209
+S
+#2211
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  West and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D2
+~
+~
+0 0 2210
+D3
+~
+~
+0 0 2212
+R M 0 2201 30 2211
+  R E 0 2225 0 5
+R M 0 2200 22 2211
+S
+#2212
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2211
+D3
+~
+~
+0 0 2207
+S
+#2213
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D0
+~
+~
+33 2208 2207
+D4
+~
+~
+0 0 2214
+S
+#2214
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2215
+D5
+~
+~
+0 0 2213
+S
+#2215
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D1
+~
+~
+1 0 2217
+D4
+~
+~
+0 0 2226
+D5
+~
+~
+0 0 2214
+S
+#2216
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2221
+D2
+~
+~
+0 0 2222
+S
+#2217
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2218
+D2
+~
+~
+0 0 2225
+D3
+~
+~
+1 0 2215
+R M 0 2202 1 2217
+  R E 0 2216 0 17
+S
+#2218
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  South and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D2
+~
+~
+0 0 2217
+D3
+~
+~
+0 0 2219
+R O 0 2235 0 2218
+R M 0 2201 1 2218
+R M 0 2202 8 2218
+  R E 0 2217 0 7
+  R E 0 2203 0 16
+S
+#2219
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2218
+D3
+~
+~
+0 0 2220
+S
+#2220
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2219
+D3
+~
+~
+0 0 2221
+S
+#2221
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2220
+D2
+~
+~
+0 0 2216
+R M 0 2201 30 2221
+  R E 0 2225 0 5
+R M 0 2202 6 2221
+  R E 0 2203 0 16
+S
+#2222
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and east continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2216
+D1
+~
+~
+0 0 2223
+R M 0 2201 30 2222
+R M 0 2202 6 2222
+  R E 0 2203 0 16
+  R E 0 2216 0 17
+S
+#2223
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2224
+D3
+~
+~
+0 0 2222
+S
+#2224
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2225
+D3
+~
+~
+0 0 2223
+S
+#2225
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2217
+D3
+~
+~
+0 0 2224
+R M 0 2201 30 2225
+  R E 0 2225 0 5
+R M 0 2202 6 2225
+  R E 0 2203 0 16
+  R E 0 2218 0 10
+S
+#2226
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2227
+D5
+~
+~
+0 0 2215
+S
+#2227
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D2
+~
+door~
+33 2216 2228
+D4
+~
+~
+0 0 2238
+D5
+~
+~
+0 0 2226
+S
+#2228
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+panel~
+33 2216 2227
+D1
+~
+~
+0 0 2237
+D3
+~
+~
+0 0 2229
+S
+#2229
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2228
+D3
+~
+~
+0 0 2230
+S
+#2230
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2231
+D1
+~
+~
+0 0 2229
+R M 0 2201 30 2230
+  R E 0 2225 0 5
+R M 0 2203 8 2230
+  R E 0 2202 0 23
+  R E 0 2215 0 12
+S
+#2231
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2232
+D2
+~
+~
+0 0 2230
+S
+#2232
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2233
+D2
+~
+~
+0 0 2231
+R M 0 2201 30 2232
+R M 0 2203 8 2232
+  R E 0 2215 0 12
+S
+#2233
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2232
+S
+#2234
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2235
+D3
+~
+~
+0 0 2233
+S
+#2235
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  South and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D2
+~
+~
+0 0 2236
+D3
+~
+~
+0 0 2234
+R O 0 2235 0 2235
+R M 0 2201 30 2235
+  R E 0 2225 0 5
+R M 0 2203 8 2235
+S
+#2236
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2237
+S
+#2237
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2236
+D3
+~
+~
+0 0 2228
+R M 0 2201 30 2237
+R M 0 2203 8 2237
+  R E 0 2202 0 23
+  R E 0 2215 0 12
+S
+#2238
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2239
+D5
+~
+~
+0 0 2227
+S
+#2239
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2240
+D5
+~
+~
+0 0 2238
+S
+#2240
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D3
+~
+~
+1 0 2241
+D4
+~
+~
+0 0 2249
+D5
+~
+~
+0 0 2239
+S
+#2241
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2242
+D1
+~
+~
+1 0 2240
+D2
+~
+~
+0 0 2248
+R M 0 2204 6 2241
+  R E 0 2220 0 17
+S
+#2242
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2243
+D2
+~
+~
+0 0 2241
+R M 0 2201 30 2242
+  R E 0 2225 0 5
+S
+#2243
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2244
+D3
+~
+~
+0 0 2242
+R M 0 2204 6 2243
+  R E 0 2219 0 5
+  R E 0 2201 0 16
+S
+#2244
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D2
+~
+~
+0 0 2245
+D3
+~
+~
+0 0 2243
+R O 0 2235 0 2244
+R M 0 2201 30 2244
+S
+#2245
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and south continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2244
+D2
+~
+~
+0 0 2246
+R M 0 2204 6 2245
+  R E 0 2222 0 7
+S
+#2246
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2245
+D3
+~
+~
+0 0 2247
+R M 0 2201 30 2246
+  R E 0 2225 0 5
+S
+#2247
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  East and west continue along the dark 
+corridor.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2246
+D3
+~
+~
+0 0 2248
+R M 0 2204 6 2247
+  R E 0 2219 0 5
+S
+#2248
+A large corridor~
+~
+Pure black obsidian panels form the structure of this large corridor.  It 
+shimmers with its own luster even as no light shines upon its shadowy mass.  
+Emitting a frigid chill, it numbs right to the bone when touched and feels 
+almost slick with moisture.  It's hard to tell where entryways lie or if 
+it's just another slab of obsidian.  North and east continue along the dark 
+corridor.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2241
+D1
+~
+~
+0 0 2247
+R M 0 2201 30 2248
+S
+#2249
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2250
+D5
+~
+~
+0 0 2240
+S
+#2250
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D5
+~
+~
+0 0 2249
+D6
+~
+~
+33 2220 2251
+S
+#2251
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D2
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2259
+D8
+~
+~
+33 2220 2250
+R O 0 2235 0 2251
+R M 0 2201 30 2251
+  R E 0 2225 0 5
+S
+#2252
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2251
+D2
+~
+~
+0 0 2253
+R M 0 2205 5 2252
+S
+#2253
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2254
+R M 0 2201 30 2253
+S
+#2254
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2253
+D3
+~
+~
+0 0 2255
+R M 0 2205 5 2254
+S
+#2255
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2254
+D3
+~
+~
+0 0 2256
+S
+#2256
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2257
+D1
+~
+~
+0 0 2255
+D6
+~
+door~
+33 2220 2261
+R M 0 2201 30 2256
+S
+#2257
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D0
+~
+~
+0 0 2258
+D2
+~
+~
+0 0 2256
+R M 0 2205 5 2257
+S
+#2258
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2260
+D2
+~
+~
+0 0 2257
+R M 0 2201 30 2258
+S
+#2259
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2251
+D3
+~
+~
+0 0 2260
+S
+#2260
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 4202505 0
+D1
+~
+~
+0 0 2259
+D3
+~
+~
+0 0 2258
+R M 0 2215 1 2260
+R M 0 2205 5 2260
+  R E 0 2221 0 17
+S
+#2261
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808845 0
+D4
+~
+~
+0 0 2262
+D8
+~
+~
+33 2220 2256
+S
+#2262
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808841 0
+D4
+~
+~
+0 0 2263
+D5
+~
+~
+0 0 2261
+S
+#2263
+A shadowed tower~
+~
+Rising higher and higher, smooth slabs of granite form this round towered 
+stairway.  Drawings of grotesque battle scenes flow across the grey stone, 
+the stark images seeming surreal in their life-like imagery.  As the winding 
+staircase leads up, new scenes of war can be seen.  Etchings of massive 
+armies of elves slain at the feet of the drow soldiers are depicted in 
+accurate detail, climbing up the walls.  
+~
+1 146808841 0
+D5
+~
+~
+0 0 2262
+D7
+~
+door~
+33 2221 2264
+S
+#2264
+A large corridor~
+~
+Pillars of crystalline white marble rise to the sloping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D1
+~
+~
+0 0 2265
+D3
+~
+~
+0 0 2273
+D9
+~
+door~
+33 2221 2263
+S
+#2265
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D0
+~
+~
+0 0 2266
+D3
+~
+~
+0 0 2264
+R M 0 2201 30 2265
+  R E 0 2225 0 5
+R M 0 2206 5 2265
+S
+#2266
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D0
+~
+~
+0 0 2267
+D2
+~
+~
+0 0 2265
+D4
+~
+~
+1 0 2280
+R M 0 2207 2 2266
+  R E 0 2204 0 16
+  R E 0 2224 0 6
+S
+#2267
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D2
+~
+~
+0 0 2266
+D3
+~
+~
+0 0 2268
+R O 0 2235 0 2267
+R M 0 2201 30 2267
+R M 0 2206 5 2267
+  R E 0 2205 0 16
+  R E 0 2223 0 13
+S
+#2268
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D1
+~
+~
+0 0 2267
+D3
+~
+~
+0 0 2269
+S
+#2269
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D1
+~
+~
+0 0 2268
+D3
+~
+~
+0 0 2270
+S
+#2270
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D1
+~
+~
+0 0 2269
+D2
+~
+~
+0 0 2271
+R M 0 2201 30 2270
+  R E 0 2225 0 5
+R M 0 2206 5 2270
+  R E 0 2223 0 13
+S
+#2271
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D0
+~
+~
+0 0 2270
+D2
+~
+~
+0 0 2272
+R M 0 2207 2 2271
+  R E 0 2204 0 16
+  R E 0 2224 0 6
+S
+#2272
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D0
+~
+~
+0 0 2271
+D1
+~
+~
+0 0 2273
+R M 0 2201 30 2272
+R M 0 2206 5 2272
+  R E 0 2205 0 16
+S
+#2273
+A large corridor~
+~
+Pillars of crystalline white marble rise to the slopping ceiling of this 
+large chamber.  Pure jade, the walls gleam with an aura of their own, as 
+they arch over the center of the room forming a domed ceiling.  Glowing from 
+the depths of the jade flooring, a golden script can be seen when looked 
+directly upon.  Emitting a frigid chill, the jade numbs right to the bone 
+when touched and feels almost slick with moisture.  
+~
+1 138412041 0
+D1
+~
+~
+0 0 2264
+D3
+~
+~
+0 0 2272
+S
+#2275
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D3
+~
+~
+0 0 2276
+D6
+~
+~
+0 0 2280
+R M 0 2208 4 2275
+  R E 0 2233 0 3
+  R E 0 2232 0 18
+S
+#2276
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D1
+~
+~
+0 0 2275
+D9
+~
+~
+0 0 2277
+S
+#2277
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D1
+~
+~
+1 0 2281
+D6
+~
+~
+0 0 2278
+D7
+~
+~
+0 0 2276
+R M 0 2201 30 2277
+R M 0 2208 4 2277
+  R E 0 2232 0 18
+S
+#2278
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D1
+~
+~
+0 0 2279
+D8
+~
+~
+0 0 2277
+R M 0 2208 4 2278
+  R E 0 2233 0 3
+  R E 0 2232 0 18
+S
+#2279
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D3
+~
+~
+0 0 2278
+D7
+~
+~
+0 0 2280
+S
+#2280
+A dark turret~
+~
+Light filters through the amethyst stones of this turret, casting shadows 
+that flicker in a purple and red haze.  Statues circle the tower, almost as 
+if they were protecting it.  The tiling is a pure white, almost transparent 
+in it's clearness.  Looking closely, thin trails of silver ruins can be seen 
+crossing over it.  The air seems heavy, almost throbbing in it's heaviness.  
+
+~
+1 138420233 0
+D5
+~
+~
+1 0 2266
+D8
+~
+~
+0 0 2275
+D9
+~
+~
+0 0 2279
+R M 0 2201 30 2280
+  R E 0 2225 0 5
+R M 0 2208 4 2280
+  R E 0 2232 0 18
+S
+#2281
+An altar room~
+~
+The only light of this room is cast by the gateway that rises from the 
+center.  It's magic light fills the room, making it seem larger then it is.  
+The walls are crafted from black marble that has jewels and fine stones 
+imbedded into it's surface.  The ceiling rises high into the air, it's 
+ending not clear as it seems to ripple back and forth like a dark water.  
+Not a sound can be heard, the silence of the altar room being almost 
+unnatural.  
+~
+1 163587081 0
+D3
+~
+~
+1 0 2277
+R O 0 2200 0 2281
+S
+#2282
+Shrine of Lolth~
+~
+Silk lines the walls of this large chamber.  Dark shades of red, black, and 
+violet shimmer from each as if jewels were found embedded into the silken 
+drapes.  A mist of webbing curls from the ceiling in wisps, seeming to blow 
+in a nonexistent breathe.  A faint light permeates the air, but the location 
+of which is unsure.  Crystalline black makes up the hard floor, not a sound 
+being heard upon it when walked on.  An altar sits in the center of this 
+room in all of it's glory.  
+~
+1 138420232 0
+D0
+~
+curtain~
+1 0 2283
+D2
+~
+curtain~
+1 0 2285
+R O 0 2209 0 2282
+R O 0 2210 0 2282
+R M 0 2209 1 2282
+  R E 0 2211 0 12
+  R E 0 2234 0 6
+  R E 0 2206 0 17
+S
+#2283
+a foyer~
+~
+Silk drapes along the walls, the same dark jeweled shades of that of the 
+Shrine.  The ceiling arches over head, it's ending and beginning unclear as 
+a shadowy webbing seems to encompass it.  A faint light permeates the air, 
+but the location of which is unsure.  The breath of silence fills this hall, 
+echoing off of the crystalline black flooring.  A ghost of a breeze can be 
+felt, but where it comes from, only the gods know themselves.  
+~
+1 675291144 0
+D0
+~
+~
+1 0 2284
+D1
+~
+~
+1 0 2290
+D2
+~
+~
+1 0 2282
+D3
+~
+~
+1 0 2289
+S
+#2284
+a small chamber~
+~
+This small chamber is left for those of dedication.  A narrow bed fills the 
+left corner, a small table and lamp beside it.  Taking up the majority of 
+the room is a altar of jade.  Carved into the jade is a large spider and 
+it's webbing, the silken threads shining a silver.  Candles line it, their 
+continuous burning sending shadows to flicker over the spider, causing it to 
+appear as if it were moving.  
+~
+1 138420232 0
+D2
+~
+~
+1 0 2283
+R M 0 2210 1 2284
+  R E 0 2228 0 8
+  R E 0 2226 0 13
+  R E 0 2227 0 30
+S
+#2285
+a foyer~
+~
+Silk drapes along the walls, the same dark jeweled shades of that of the 
+Shrine.  The ceiling arches over head, it's ending and beginning unclear as 
+a shadowy webbing seems to encompass it.  A faint light permeates the air, 
+but the location of which is unsure.  The breath of silence fills this hall, 
+echoing off of the crystalline black flooring.  A ghost of a breeze can be 
+felt, but where it comes from, only the gods know themselves.  
+~
+1 675291144 0
+D0
+~
+~
+1 0 2282
+D1
+~
+~
+1 0 2287
+D2
+~
+~
+1 0 2286
+D3
+~
+~
+1 0 2288
+S
+#2286
+a small chamber~
+~
+This small chamber is left for those of dedication.  A narrow bed fills the 
+left corner, a small table and lamp beside it.  Taking up the majority of 
+the room is a altar of jade.  Carved into the jade is a large spider and 
+it's webbing, the silken threads shining a silver.  Candles line it, their 
+continuous burning sending shadows to flicker over the spider, causing it to 
+appear as if it were moving.  
+~
+1 138420232 0
+D0
+~
+~
+1 0 2285
+R M 0 2211 1 2286
+  R E 0 2230 0 8
+  R E 0 2227 0 29
+  R E 0 2229 0 13
+S
+#2287
+the hall of anguish~
+~
+~
+1 138420232 0
+D3
+~
+~
+1 0 2285
+R M 0 2212 1 2287
+  R E 0 2231 0 6
+  R E 0 2212 0 16
+R O 0 1855 0 2287
+R O 0 2214 0 2287
+S
+#2288
+a confessional~
+~
+Narrow wooden panels make up this room, forming it into two sections.  The 
+divider is a dark wood spanned with runes carved into it's surface.  A 
+sliding panel sits a few feet off of the floor, when open revealing a veined 
+metal section.  Light filters through the room from candle tiers that line 
+the walls, casting shadows in each corner.  Uncomfortable looking benches 
+sit in each divided section, seeming to be the only furniture.  
+~
+1 138420232 0
+D1
+~
+~
+1 0 2285
+S
+#2289
+the hall of suffering~
+~
+Wide and stark, this room is bare other then the few implements of torture 
+that fill it.  Dangling from the ceiling, a large barred cage fills a good 
+part of the room.  Weapons of all sorts line the walls, some of their uses 
+unclear.  In the center of the room, a link chain of bone forms a barrier to 
+a dark pit.  Coming from the pit, a shrill whistling can be heard as a 
+breeze wafts up from it.  
+~
+1 138420232 0
+D1
+~
+~
+1 0 2283
+R M 0 2213 1 2289
+  R E 0 27147 0 5
+R O 0 2213 0 2289
+S
+#2290
+a confessional~
+~
+Narrow wooden panels make up this room, forming it into two sections.  The 
+divider is a dark wood spanned with runes carved into it's surface.  A 
+sliding panel sits a few feet off of the floor, when open revealing a veined 
+metal section.  Light filters through the room from candle tiers that line 
+the walls, casting shadows in each corner.  Uncomfortable looking benches 
+sit in each divided section, seeming to be the only furniture.  
+~
+1 138420232 0
+D3
+~
+~
+1 0 2283
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

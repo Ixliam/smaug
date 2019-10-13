@@ -1,0 +1,3264 @@
+#AREA        Khalaman~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#500
+Alianore Bar Maid~
+alianore~
+Alianore the Bar Maid is here ready to serve your needs.
+~
+Alianore the Bar maid is here.  She has long wavy red hair and emerald
+green eyes.  She wears a typical wench outfit consisting of a tight black
+bodice showing off her cleavage, a long black skirt and a red chemise
+underneath.  She has the skirt hiked up and tucked into her belt to show off
+the red chemise under her it.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#501
+Godfrey Weaponsmith~
+godfrey~
+Godfrey the Weaponsmith is here ready to serve you.
+~
+Godfrey is the towns favorite weaponsmith.  He is a short man in his late
+60's with graying hair.  His skin looks of leather from the hours spent at
+the forge.  He has several scars on his arms, no doubt they are from his
+work.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#502
+fearghus~
+fearghus ~
+Fearghus the Armorsmith is here waiting to serve you.
+~
+Here stands a handsome young man in the prime of his life.  He has long
+black hair pulled back in a red bandana and green eyes.  He wears a ruff
+looking pair of leather pants and a short sleeve tunic under his working
+apron.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#503
+Isobail the Priestess~
+isobail~
+Isobail the Priestess is here healing your wounds.
+~
+Isobail is the town's cleric.  She has long blonde hair and blue eyes. 
+She wears a long flowing red gown.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#504
+gylmyne~
+gylmyne~
+Gylmyne the shopkeeper is here to help you.
+~
+Gylmyne is a tall man in his early 50's.  He has short brown hair that is
+greying at the temples.  He wears a pair of brown leather pants and a long
+sleeve tunic.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#505
+Cicoria the Seamstress~
+cicoria~
+Cicoria the Seamstress is here ready to take your measurements.
+~
+A tall middle aged female dressed in fine clothing.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#506
+Dietre the Jeweler~
+deitre~
+Dietre the Jeweler is here ready to sell you something.
+~
+A short and stocky Dwarf is standing here studying a piece of jewelry.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#507
+Brunis Macleod~
+brunis~
+The thief Brunis Macleod is here counting his spoils.
+~
+A tall ruff looking man clothed in all black.  
+~
+0
+Clanname none~
+0
+0
+33 0 0 C
+55 50 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#508
+sprite~
+the Sprite~
+A `#`Csprite`^ dressed in `#`Yb`Cr`Gi`Rg`Mh`Yt`^ colors is trotting along.
+~
+A sprite with large beautiful wings.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+15 15 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#509
+smelly beggar~
+smelly Beggar~
+A `#`ysmelly `Sbeggar`^ is stumbling around with his hands out.
+~
+A short stocky man that smell of spirits is here.  
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+15 15 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#510
+inessa the alchemist~
+inessa~
+Inessa the Alchemist is here to serve you.
+~
+A tall woman with long blonde hair and green eyes is standing here.  She
+is wearing a shop apron and is always jittery.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#511
+Khalaman Cityguard~
+cityguard~
+A `#`SKhalaman`^ cityguard is here patroling the city.
+~
+A tall strong man dressed in fine steel armor.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+25 20 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#512
+Khalaman cityguard captain~
+a Cityguard Captain~
+A cityguard `#`SCaptain`^ is here protecting the citizens.
+~
+A strong man wearing full armor is here scanning the area.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 27 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#513
+White Dragon~
+a White Dragon~
+A massive `#`Wwhite dragon`^ snarls at you for disturbing him.
+~
+A massive White Dragon is standing here.  
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+75 100 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#514
+Imp~
+an Imp~
+An Imp is scurrying along carrying large piles of bones.
+~
+A 2ft tall humanoid creature.
+~
+0
+Clanname none~
+0
+0
+129 524288 -600 C
+35 35 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#515
+Artemis the Thief~
+artemis~
+Artemis the Thief draws his blade on you!
+~
+A large man standing almost 7ft tall wearing all black.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+75 75 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#516
+Bald Monk~
+a bald monk~
+A short `#`wbald `Smonk`^ is here chanting at the top of his `#`Rlungs`^.
+~
+A short bald monk is here dressed in grey robes.  
+~
+0
+Clanname none~
+0
+0
+1 128 0 C
+35 30 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#517
+Khalaman Citizens~
+a Citizen~
+A citizen of `#`SKhalaman`^ is walking through here.
+~
+This citizen is busy running errands and has no time to stop and chat with 
+you.  
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+20 17 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#518
+rish tattoo pierce artist~
+rish~
+Rish is here waiting for a customer.
+~
+A short and stocky young man with tattoos and piercings all over his boby.
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+110 110 -69 227d37+3334 37d2+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#519
+banker~
+the banker~
+A banker is here, ready to do business.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#520
+crystal ooze~
+`#`wa `ccrystal `wooze`^~
+`#`wA `ccrystal `wooze is here moving about.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#521
+giant slug~
+a giant slug~
+`#`wA giant `sslug `wslithers around here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#522
+fire toad~
+a fire toad~
+`#`wA large, `Rred `wtoad is here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#523
+giant leech~
+a giant leech~
+`#`wA giant `yleech `wis here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+70 0 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#524
+fierce goblin~
+a fierce looking goblin~
+`#`wA fierce looking `sgoblin `wstands here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+67 0 -37 7d10+350 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#525
+male man dagorst tall muscular letter~
+a tall muscular dagorstian male~
+A tall muscular dagorstian man waits here to help you.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#526
+huge ugly troll~
+a huge troll~
+`#`wA huge ugly `gtroll `wis here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+70 0 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#527
+shadowed bandit~
+a shadowed bandit~
+A shadowed figure is here creeping in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+65 32768 -400 C
+78 0 -48 8d11+395 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#553
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#500
+bottle of honey mead~
+a bottle of `#`yhoney mead`^~
+A bottle of honey mead has been tossed here.~
+~
+17 0 16
+4 20 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#501
+roast capon~
+a Roast Capon~
+A roasted capon has been set here.~
+~
+19 0 16
+40 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#502
+roast mutton lamb~
+`#`wroast `ymutton`^~
+A lamb roast is laying here.~
+~
+19 0 16
+40 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#503
+cheese bread~
+a slice of `#`Ycheese bread`^~
+A slice of cheese bread is here.~
+~
+19 0 16
+18 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#504
+fruit tart~
+a `#`Rf`Br`Gu`Yi`Mt `Ytart`^~
+A tart made of fruit is here tempting you.~
+~
+19 0 16
+18 0 0 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#505
+picnic table~
+a large `#`ywooden picnic table`^~
+A large `#`ywooden picnic table`^ is here for you to rest on.~
+~
+12 0 8
+1000 1752 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#506
+cedar chest~
+a large chest~
+A large cedar chest.~
+~
+15 1 8
+13 0 5 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#507
+emerald ring~
+`#`Y(Glowing)`^ an `#`Ge`gm`Ge`gr`Ga`gl`Gd `Gr`gi`Gn`gg`^~
+A ring made of emeralds is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 215 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#508
+knee high tall black boots~
+`wa pair of knee high `sblack boots`^~
+A pair of tall boots are lying here~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#509
+Sword of Justice~
+a `#`Csword `Wof `Rjustice`^~
+A long sword has been left here.~
+~
+5 0 4
+3 14 24 16 0 0 0
+1 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#510
+Stealthy Dagger~
+a `#`Sstealthy `wdagger`^~
+A dagger has been dropped here.~
+~
+5 0 4
+3 7 16 0 0 0 0
+1 330 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#511
+double crescent axe~
+a `#`Sdouble `wcrescent `Saxe`^~
+A double sided axe is here.~
+~
+5 0 4
+4 14 24 32 0 0 0
+2 7700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#512
+Oak Quarterstaff~
+an `#`yoak`^ quarterstaff~
+A long staff has been dropped here. be careful not to trip.~
+~
+5 0 4
+2 17 25 32 0 0 0
+1 1260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#513
+Brigandine Armor~
+some `#`Rb`srigandine `Ra`srmor`^~
+A vest of brigandine armor is lying here.~
+~
+9 0 8
+10 10 6 0 0 0 0
+1 4900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#514
+great helm~
+a `#`Rg`Sreat `Rh`Selm`^~
+A heavy-looking helmet has been set aside here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#515
+cod piece~
+a `#`Rc`sod `Rp`siece`^~
+A fabric cod piece has been left here.~
+~
+9 0 8
+5 5 3 0 0 0 0
+1 840 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#516
+gorget~
+a `#`Rs`steel `Rg`sorget`^~
+A steel gorget has been forgotten here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#517
+leather backplate~
+a `#`Rt`shick `Rl`seather `Rb`sackplate`^~
+A leather backplate is lying here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 1540 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#518
+Hauberk~
+a `#`Rh`sauberk`^~
+A mail hauberk has been left in a pile here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+2 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#519
+Lamellar armor~
+some `#`Rl`samellar `Ra`srmor`^~
+A shirt of plated armor lies here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+2 5600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#520
+chainmail mitten gauntlet~
+a `#`Rm`sitten `Rg`sauntlet`^~
+A chainmail mitten has been dropped here.~
+~
+9 0 8
+5 5 3 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#521
+brass oil lamp~
+an `#`soil `Ylamp`^~
+An old brass oil lamp lies here.~
+~
+1 0 1
+0 12 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#522
+walking stick~
+a `#`ywooden`^ walking stick~
+A sturdy walking stick is lying here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 94 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#523
+white satin handbag~
+`#`Wa w`wh`Wi`wt`We `ws`Wa`wt`Wi`wn handbag`^~
+A white satin bag is lying here.~
+~
+15 64 8
+5 0 200 100 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#524
+long tight red dress~
+`ra `Rl`ro`Rn`rg tight fitting `Rred d`rr`Re`rs`Rs`^~
+A red dress is lying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#525
+short black sexy dress~
+`wa short `sblack `rsexy `wdress`^~
+`wa `sblack `wdress is lying here`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#526
+Courderoy Doublet~
+a `#`ccourderoy`^ doublet~
+A man's doublet made of courderoy is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#527
+Moonstone ring~
+a `#`cmoonstone`^ ring~
+A moonstone ring has been dropped here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#528
+golden anklet~
+a `#`Yg`yo`Yl`yd`Ye`yn `Ya`yn`Yk`yl`Ye`yt`^~
+A golden anklet has slipped off someone's ankle and landed here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1470 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#529
+wooden dagger~
+a `#`ywooden`^ dagger~
+A dagger made of wood has been dropped here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 122 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#530
+black leggings~
+some `#`Sblack`^ leggings~
+A pair of black leggings have been trown here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 162 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#531
+silvery potion bless frenzy~
+a `#`wsilvery `Wpotion`^~
+A bottle of a silvery substance is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#532
+rusty dagger~
+a `#`yrusty`^ dagger~
+A short rusty dagger is lying here.~
+~
+5 0 4
+1 14 24 128 0 0 0
+1 101 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#533
+thieves dagger~
+a `#`Rthieves dagger`^~
+A sharp looking dagger is lying here.~
+~
+5 0 4
+12 65 85 8 0 0 0
+1 563 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#534
+stainless steel sword~
+a `#`Ss`wt`Sa`wi`Sn`wl`Se`ws`Ss `wsteel `Ssword`^~
+A shiney sword has been dropped here.~
+~
+5 0 4
+3 27 34 16 0 0 0
+1 269 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#535
+Flail of Many Heads~
+a `#`Yf`yl`Ya`yi`Yl `yof many `Rh`re`Ra`rd`Rs`^~
+A flail with many heads is laying here.~
+~
+5 0 4
+18 97 134 65 0 0 0
+1 767 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#536
+sparkley potion haste stoneskin~
+a `#`Ys`Cp`Ya`Cr`Yk`Cl`Ye`Cy `Yp`Co`Yt`Ci`Yo`Cn`^~
+A bottle of a sparkley liquid is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#537
+Thin Black Belt~
+a thin `#`Sblack`^ belt~
+A thin black belt is lying here.~
+~
+15 0 8
+1 0 40 100 0 0 0
+1 156 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#538
+faded scroll~
+a `#`Sfa`wde`Wd`^ scroll~
+A faded scroll is laying here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 344 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#539
+necklace runes engraved~
+a necklace with engraved runes~
+A necklace with engraved runes lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#540
+golden hoop earring~
+a small `#`Yg`yo`Yl`yd`Ye`yn `Yh`yo`Yo`yp`^~
+A small `#`Yg`yo`Yl`yd`Ye`yn `Yh`yo`Yo`yp`^ is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#541
+stainless steel mace~
+a `#`Ss`wt`Sa`wi`Sn`wl`Se`ws`Ss `wsteel `Smace`^~
+A stainless steel mace is lying here.~
+~
+5 0 4
+3 54 68 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#542
+bouquet white roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Wwhite r`wo`Ws`we`Ws`^~
+A bouquet of white roses are wilting here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#543
+bouquet red roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Rred `Wr`wo`Ws`we`Ws`^~
+A bouquet of red roses are wilting here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#544
+bouquet purple roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Mp`mu`Mr`mp`Ml`me `Wr`wo`Ws`we`Ws`^~
+A bouquet of purple roses are wilting here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#545
+bouquet pink roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Mpink `Wr`wo`Ws`we`Ws`^~
+A bouquet of pink roses are wilting here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#546
+precious pearl earring~
+a precious `#`Wp`we`Wa`wr`Wl `we`Wa`wr`Wr`wi`Wn`wg`^~
+A pearl earring is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#547
+bouquet of purple and peach roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Mp`mu`Mr`mp`Ml`me `wand `Yp`We`Ya`Wc`Yh `Wr`wo`Ws`we`Ws`^~
+A bouquet of purple and peach roses are wilting here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#548
+sea blue potion otterlungs~
+a `#`Bsea blue`^ potion~
+A sea blue colored potion has been dropped here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#549
+gold embossed scroll~
+a `#`Yg`yold`^ embossed `#`wscroll`^~
+A fancy scroll is lying here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#550
+red string bikini~
+`#`wa `Rred `wstring `Rb`ri`Rk`ri`Rn`ri`^~
+A small red bikini is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#551
+red swimming trunks~
+`#`wa pair of `Rred s`rw`Ri`rm`Rm`ri`Rn`rg `wshorts`^~
+A pair of red swimming short has been dropped here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#552
+long flowing silk loose fitting dress maternity~
+`#`wa long `Wf`wl`Wo`ww`Wi`wn`Wg `wloose-fitting `Cs`ci`Cl`ck dress`^~
+A silk dress is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+552 dress ~
+This dress is extremely soft looking and has lots of material to it.  It 
+hangs down to the ankles and has long sleeves.  
+~
+#553
+thick leather tunic~
+`#`wa `sthick `yleather `wtunic`^~
+A thick tunic made of leather is lying here.~
+~
+9 0 8
+50 50 18 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#554
+wooden handled shortsword~
+`#`wa simple looking `sshortsword`^~
+`#`wa simple looking `sshortsword `whas been dropped here.`^~
+~
+5 64 4
+16 81 117 80 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+554 sword ~
+This looks like a common shortsword except for the fact that it is glowing.  
+Something magical has been added to it.  ,f ,c This looks like a common 
+shortsword except for the fact that it is glowing.  Something magical has 
+been added to it.  
+~
+#555
+wooden handled dagger~
+`#`wa simple `sblack `wdagger`^~
+`#`wA simple `sblack `wdagger is laying here.`^~
+~
+5 64 4
+15 81 117 64 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#556
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#557
+stainless steel hip flask~
+a `#`ss`wt`sa`wi`sn`wl`se`ws`ss steel`^ hip flask~
+A steel hip flask is laying here.~
+~
+17 0 16
+100 4 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#592
+white slippers~
+a pair of `#`Ww`wh`Wi`wt`We `ws`Wl`wi`Wp`wp`We`wr`Ws`^~
+A pair of white slippers are sitting here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#593
+sexy night gown~
+a `#`Ms`me`Mx`my `Wn`wi`Wg`wh`Wt `Mg`mo`Mw`mn`^~
+A sexy night gown in laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 304 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#594
+red velvet blanket~
+a `#`Rr`re`Rd v`re`Rl`rv`Re`rt `Rb`rl`Ra`rn`Rk`re`Rt`^~
+A `#`Rr`re`Rd v`re`Rl`rv`Re`rt `Rb`rl`Ra`rn`Rk`re`Rt`^ is spread out on the ground.~
+~
+12 0 8
+2000 140434 110 110 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#595
+Red Rose~
+a `#`Gl`gon`Gg s`gte`Gm `Rr`re`Rd r`ros`Re`^~
+A `#`Gl`gon`Gg s`gte`Gm `Rr`re`Rd r`ros`Re`^ is lying here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 107 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#596
+marble table~
+a large `#`cmarble`^ table~
+A large `#`cmarble`^ table with six chairs is here.~
+~
+12 0 8
+1000 205019 125 125 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#597
+bouquet yellow roses~
+`#`wa `Rb`re`Ra`ru`Rt`ri`Rf`ru`Rl `Cb`co`Cu`cq`Cu`ce`Ct `wof `Yy`ye`Yl`yl`Yo`yw `Wr`wo`Ws`we`Ws`^~
+A bouquet of yellow roses are wilting here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#500
+Grand Gates of Khalaman~
+~
+You are standing at the entrance to the town of Khalaman.  Directly in front 
+of you are tall ornately decorated iron gates standing over ten feet tall.  
+Large shields hang from both sides of the gates.  On the shields are a 
+picture of a dragon's ghost.  
+~
+1 0 1
+D0
+~
+~
+0 0 501
+S
+#501
+Dragon Street~
+~
+You are just inside the front gates.  This is the main street in the
+town.  You can get to any place off of this street.  As you briefly scan
+around you, you notice that there are dozens of people scrambling about and
+going about their everyday life.  Nobody is paying you any attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 502
+D2
+~
+~
+0 0 500
+D3
+~
+~
+0 0 512
+S
+#502
+Dragon Street~
+~
+This is the main street in town.  People are scurrying about paying you
+no attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 588
+D2
+~
+~
+0 0 501
+R M 0 512 3 502
+  R E 0 534 0 16
+S
+#503
+Dragon Street~
+~
+This is the main street in town.  People are scurrying about paying you
+no attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 504
+D1
+~
+~
+0 0 525
+D2
+~
+~
+0 0 502
+R M 0 511 10 503
+  R E 0 534 0 16
+S
+#504
+Dragon Street~
+~
+This is the main street in town.  People are scurrying about paying you
+no attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 505
+D1
+~
+~
+0 0 522
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 521
+D5
+~
+door~
+1 0 550
+S
+#505
+Dragon Street Town Center Park~
+~
+The center of town is where the citizens come to relax and catchup on the
+latest gossip.  Several of them are picnicing under the large oak trees
+spread throughout the park.  There is an empty picnic table here that you
+can rest on.  
+~
+1 0 1
+D0
+~
+~
+0 0 506
+D2
+~
+~
+0 0 504
+R O 0 505 0 505
+R M 0 508 5 505
+  R E 0 529 0 16
+S
+#506
+Dragon Street~
+~
+This is the main street in town.  People are scurrying about paying you
+no attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 507
+D2
+~
+~
+0 0 505
+R M 0 517 15 506
+S
+#507
+Dragon Street~
+~
+This is the main street in town.  People are scurrying about paying you
+no attention.  
+~
+1 0 1
+D0
+~
+~
+0 0 508
+D2
+~
+~
+0 0 506
+D3
+~
+~
+0 0 536
+R M 0 512 3 507
+  R E 0 534 0 16
+S
+#508
+Outside the Back Gates~
+~
+Straight ahead you notice a large cave opening in the side of a mountain.
+A strange mist is flowing out of the entrance and the air feels about 10
+degrees cooler.  
+~
+1 0 1
+D0
+~
+~
+0 0 509
+D2
+~
+~
+0 0 507
+S
+#509
+Dirt trail~
+~
+You notice the cave opening in the side of a mountain seems to be getting
+larger.  The air feels even cooler and the mist is getting thicker.  
+~
+1 0 1
+D0
+~
+~
+0 0 510
+D2
+~
+~
+0 0 508
+R M 0 515 1 509
+  R E 0 535 0 16
+S
+#510
+Cave Entrance~
+~
+You are standing at the entrance to a large cave located in the side of
+the mountain.  The actual entrance is so large that you are afraid to know
+what lives in there.  The air temperature has dropped at least 20 degrees
+and the mist is so thick that you cannot see in front of your face.  
+~
+1 0 4
+D0
+~
+~
+0 0 511
+D2
+~
+~
+0 0 509
+S
+#511
+Inside the Cave~
+~
+You are standing inside of the cave.  The mist is not as bad once you are
+inside but the temperature keeps dropping the farther you get in.  There is
+a overwealming sense of evil around you.  
+~
+1 0 11
+D0
+~
+~
+0 0 543
+D2
+~
+~
+0 0 510
+S
+#512
+Seleone Ave~
+~
+You are standing in front of the armor shop.  There are several large
+burley looking guys standing outside of the entrance.  Looking towards the
+west you notice several bald men dressed in different color robes.  
+~
+1 0 1
+D0
+~
+~
+0 0 531
+D1
+~
+~
+0 0 501
+D3
+~
+~
+0 0 513
+S
+#513
+Seleone Ave~
+~
+To the west of you there are several bald men dressed in different color
+robes and to the east there are several large men roughhousing each other.  
+~
+1 0 1
+D1
+~
+~
+0 0 512
+D3
+~
+~
+0 0 514
+R M 0 511 10 513
+S
+#514
+Seleone Ave~
+~
+You are standing in front of the town's Temple.  There are several monks
+walking around shouting to people passing by.  You notice a strong flower smell but
+cannot place where it is coming from.  
+~
+1 0 1
+D0
+~
+~
+0 0 532
+D1
+~
+~
+0 0 513
+D3
+~
+~
+0 0 515
+R M 0 516 1 514
+  R G 0 538 0
+S
+#515
+Seleone Ave~
+~
+The road begins to get darker and there are not as many people around. 
+You can hear the Monks shouting in the distance.  
+~
+1 0 1
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 514
+S
+#516
+`DDark Alley`x~
+~
+You notice that there isnt anyone around.  The windows are all boarded up
+of the few buildings that still stand in this alley.  
+~
+1 0 1
+D0
+~
+~
+0 0 517
+D2
+~
+~
+0 0 515
+S
+#517
+`DDark Alley`x~
+~
+You notice that there isnt anyone around.  The windows are all boarded up
+of the few buildings that still stand in this alley.  
+~
+1 0 1
+D0
+~
+~
+0 0 518
+D2
+~
+~
+0 0 516
+S
+#518
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D1
+~
+~
+0 0 519
+D2
+~
+~
+0 0 517
+S
+#519
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D1
+~
+~
+0 0 520
+D3
+~
+~
+0 0 518
+R M 0 517 15 519
+S
+#520
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D0
+~
+~
+0 0 529
+D1
+~
+~
+0 0 521
+D3
+~
+~
+0 0 519
+S
+#521
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D0
+~
+~
+0 0 528
+D1
+~
+~
+0 0 504
+D3
+~
+~
+0 0 520
+S
+#522
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 523
+D3
+~
+~
+0 0 504
+S
+#523
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D1
+~
+~
+0 0 524
+D3
+~
+~
+0 0 522
+R M 0 511 10 523
+  R E 0 534 0 16
+S
+#524
+Grendael Drive~
+~
+This road is rather well kept.  There are several trash bins located at
+the opposite ends of the road and there are also street lamps located every
+ten feet along the road.  
+~
+1 0 1
+D0
+~
+~
+0 0 535
+D1
+~
+~
+0 0 549
+D2
+~
+~
+0 0 530
+D3
+~
+~
+0 0 523
+R M 0 512 3 524
+S
+#525
+Rivenoak Drive~
+~
+This is a rather short street.  You can already see the end as you stand
+at the begining.  You notice that there are also lots of women on this
+street carrying large bags.  
+~
+1 0 1
+D1
+~
+~
+0 0 526
+D2
+~
+~
+0 0 533
+D3
+~
+~
+0 0 503
+R M 0 517 15 525
+S
+#526
+Rivenoak Drive~
+~
+This is a rather short street.  You can already see the end as you stand
+at the begining.  You notice that there are also lots of women on this
+street carrying large bags.  
+~
+1 0 1
+D0
+~
+~
+0 0 548
+D1
+~
+~
+0 0 527
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 525
+R M 0 511 10 526
+S
+#527
+Rivenoak Drive~
+~
+Dead End....  The only way you can go is the way you came.  
+~
+1 0 1
+D3
+~
+~
+0 0 526
+S
+#528
+The Iron Ox~
+~
+This is the Iron Ox, a favorite bar and grill in town.  The citizens come
+here at night to ease the stress of the day.  There is always a live band
+playing for your enjoyment.  Tonight `YPeach Curry`x `wis playing, a band
+with a middle eastern touch.  Try the honey mead, it is the best in town. 
+`x 
+~
+1 33554440 0
+D2
+~
+~
+0 0 521
+R M 0 500 1 528
+  R G 0 500 0
+  R G 0 504 0
+  R G 0 503 0
+  R G 0 502 0
+  R G 0 501 0
+S
+#529
+The Cavaliere home~
+~
+This is the home of Alessandra di Pietro Cavaliere, a very wealthy lady
+that has lived in Khalaman for all her life.  The home is decorated with
+lots of plush carpeting and fine draperies.  There is a warm fire roaring in
+the fireplace.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 520
+R O 0 506 0 529
+  R P 0 507 1 506
+S
+#530
+Godfrey's Weapon Shop~
+~
+This is Godfrey's Weapon shop.  There are others in town but he has the
+best prices and the most selection.  Along every wall is a rack of weapons. 
+There are weapons of all kinds here.  In the rear of the store you notice
+another man working on a large axe.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 524
+R M 0 501 1 530
+  R G 0 512 0
+  R G 0 511 0
+  R G 0 510 0
+  R G 0 509 0
+  R G 0 541 0
+S
+#531
+Fearghus's Armor~
+~
+This is the local armor shop.  They sell a vast collection of armor made
+of steel, leather, and also dragon scale armor that is made up of dragon
+scales that have been found in the hills surrounding the town.  There is a
+large forge in the rear of the building and several men are banging out
+armor as people shop.  The noise doesnt seem to bother anyone.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 512
+R M 0 502 1 531
+  R G 0 513 0
+  R G 0 514 0
+  R G 0 516 0
+  R G 0 517 0
+  R G 0 515 0
+  R G 0 518 0
+  R G 0 519 0
+  R G 0 520 0
+S
+#532
+Khalaman Temple~
+~
+This is the Temple of Khalaman, a place where all the town folk come to
+pray to their gods.  The walls are lined with tall stained glass windows and
+there are at least a dozen flower arrangments located throughout the
+sanctuary.  The smell is almost to strong to handle.  The Priestess is at
+the far end of the temple praying over people.  
+~
+1 33555464 0
+D2
+~
+~
+0 0 514
+R M 0 503 1 532
+S
+#533
+Gylmyne's General Store~
+~
+This is Gylmyne's General store, a place where all town folk stop for
+their supplies.  They carry a vast assortment of various supplies. 
+Gylmyne's will run good sales on occasion.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 525
+R M 0 504 1 533
+  R G 0 521 0
+  R G 0 522 0
+  R G 0 594 0
+  R G 0 537 0
+  R G 0 557 0
+S
+#534
+Medieval Fashions~
+~
+This is the local clothing store, It is run by the Mayor's daughter. 
+Great measures are taken to find all the latest fashions of the lands. 
+There are at least a dozen racks all loaded down with clothing, and all of
+them are separated by color.  Lining every wall are shelves lined with shoes
+and handbags of all kinds.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 526
+R M 0 505 1 534
+  R G 0 523 0
+  R G 0 524 0
+  R G 0 525 0
+  R G 0 526 0
+  R G 0 552 0
+  R G 0 530 0
+  R G 0 593 0
+  R G 0 592 0
+  R G 0 508 0
+  R G 0 542 0
+  R G 0 543 0
+  R G 0 544 0
+  R G 0 545 0
+  R G 0 547 0
+  R G 0 597 0
+  R G 0 550 0
+  R G 0 551 0
+S
+#535
+Dietre's Jewelry Shop~
+~
+This is Deitre's Jewelry shop.  He has been in business for a long time
+but he is well known to rip you off if he has the chance.  There are glass
+cases lining all the walls and a counter in the middle of the store.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 524
+R M 0 506 1 535
+  R G 0 527 0
+  R G 0 528 0
+  R G 0 546 0
+S
+#536
+Ardenroe Ave~
+~
+This avenue is dark and dingy.  There are several beggars hobling around
+looking for a handout.  
+~
+1 0 1
+D1
+~
+~
+0 0 507
+D3
+~
+~
+0 0 537
+R M 0 511 10 536
+S
+#537
+Ardenroe Ave~
+~
+This avenue is dark and dingy.  There are several beggars hobling around
+looking for a handout.  
+~
+1 0 1
+D1
+~
+~
+0 0 536
+D3
+~
+~
+0 0 538
+R M 0 509 5 537
+  R E 0 532 0 16
+S
+#538
+Ardenroe Ave~
+~
+This avenue is dark and dingy.  There are several beggars hobling around
+looking for a handout.  
+~
+1 0 1
+D1
+~
+~
+0 0 537
+D2
+~
+~
+0 0 539
+S
+#539
+Abandoned Warehouse~
+~
+This is a warehouse that used to store dry goods but it is long been
+deserted.  Rumor has it that there is a band of thieves that use this
+building as a hideout due to it's boarded up windows.  
+~
+1 0 0
+D0
+~
+~
+0 0 538
+D3
+~
+~
+0 0 540
+S
+#540
+Storage Room~
+~
+This is a room that looks like it was used to store rice because there
+are leftover bags strewn about the floor.  There is a door here that leads
+to the cellar.  You hear soft knocking sounds coming from below.  
+~
+1 0 0
+D1
+~
+~
+0 0 539
+D5
+~
+~
+0 0 541
+S
+#541
+Cellar~
+~
+The cellar is dark and damp.  There are rats scurrying about and there is
+a aweful smell that you cant figure out what it is.  
+~
+1 0 0
+D4
+~
+~
+0 0 540
+R M 0 507 1 541
+  R E 0 533 0 16
+S
+#542
+Inessa's Creations~
+~
+You are standing in the towns potion shop.  There is a large table in the
+center of the room with several beakers covering it.  You notice a large
+puddle of green goo beside the table and a slight smell of sulfer.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 522
+R M 0 510 1 542
+  R G 0 531 0
+  R G 0 536 0
+  R G 0 548 0
+S
+#543
+Inside the Cave~
+~
+The air here is very wet and the temperature is below below freezing
+making icicles form on your hair.  
+~
+1 0 11
+D2
+~
+~
+0 0 511
+D5
+~
+~
+0 0 544
+S
+#544
+Inside the Cave~
+~
+The air here is very wet and the temperature is below below freezing
+making icicles form on your hair.  
+~
+1 0 11
+D4
+~
+~
+0 0 543
+D5
+~
+~
+0 0 545
+S
+#545
+Inside the Cave~
+~
+The air here is very wet and the temperature is below below freezing
+making icicles form on your hair.  
+~
+1 0 11
+D0
+~
+~
+0 0 546
+D4
+~
+~
+0 0 544
+R M 0 514 3 545
+S
+#546
+Inside the Cave~
+~
+The air here is very wet and the temperature is below below freezing
+making icicles form on your hair.  
+~
+1 0 11
+D0
+~
+~
+0 0 547
+D2
+~
+~
+0 0 545
+S
+#547
+Dragon's Lair~
+~
+This is the White Dragon's lair.  The temperature is below freezing here
+and there is icicles hanging off of the ceiling.  You notice a small
+underground spring in the far corner that is also frozen up.  
+~
+1 0 11
+D2
+~
+~
+0 0 546
+R M 0 513 1 547
+S
+#548
+Rish's Tattoos and piercings~
+~
+This shop is covered wall to wall in various pictures of art.  There are 
+several sailors from the port that have come to get a tattoo or piercing.  
+ 
+~
+1 33554440 0
+D2
+~
+~
+0 0 526
+R M 0 518 1 548
+  R G 0 539 0
+  R G 0 540 0
+S
+#549
+Bank~
+~
+This is a bank.  
+~
+1 33816648 0
+D3
+~
+~
+0 0 524
+R M 0 519 1 549
+S
+#550
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+ 
+A small sign is here reading:
+`#`RBeware, proceed at your own risk. The guards do not patrol the cities sewers.`^
+~
+1 9 0
+D0
+~
+~
+0 0 551
+D1
+~
+~
+0 0 560
+D2
+~
+~
+0 0 554
+D3
+~
+~
+0 0 557
+D4
+~
+~
+1 0 504
+S
+#551
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 552
+D2
+~
+~
+0 0 550
+R M 0 526 18 551
+R M 0 524 15 551
+  R E 0 554 0 16
+S
+#552
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 553
+D2
+~
+~
+0 0 551
+S
+#553
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 577
+D2
+~
+~
+0 0 552
+D3
+~
+~
+0 0 574
+R M 0 524 15 553
+  R E 0 553 0 5
+S
+#554
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 550
+D2
+~
+~
+0 0 555
+R M 0 526 18 554
+R M 0 524 15 554
+  R E 0 553 0 5
+S
+#555
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 554
+D2
+~
+~
+0 0 556
+S
+#556
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 555
+D1
+~
+~
+0 0 571
+D3
+~
+~
+0 0 580
+R M 0 526 18 556
+R M 0 524 15 556
+  R E 0 553 0 5
+  R E 0 555 0 16
+S
+#557
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 550
+D3
+~
+~
+0 0 558
+R M 0 527 6 557
+S
+#558
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 557
+D3
+~
+~
+0 0 559
+S
+#559
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 563
+D1
+~
+~
+0 0 558
+D2
+~
+~
+0 0 565
+D3
+~
+~
+0 0 566
+S
+#560
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 561
+D3
+~
+~
+0 0 550
+S
+#561
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 562
+D3
+~
+~
+0 0 560
+S
+#562
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 567
+D3
+~
+~
+0 0 561
+R M 0 527 6 562
+S
+#563
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D2
+~
+~
+0 0 559
+D5
+~
+door~
+1 0 564
+S
+#564
+Dark Smelly Pit~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  
+~
+1 9 0
+D4
+~
+~
+1 0 563
+R M 0 520 1 564
+S
+#565
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 559
+S
+#566
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 559
+R M 0 527 6 566
+S
+#567
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 568
+D1
+~
+~
+0 0 570
+D2
+~
+~
+0 0 569
+D3
+~
+~
+0 0 562
+S
+#568
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+door~
+1 0 585
+D2
+~
+~
+0 0 567
+S
+#569
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+~
+0 0 567
+S
+#570
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D3
+~
+~
+0 0 567
+S
+#571
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 572
+D3
+~
+~
+0 0 556
+S
+#572
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 573
+D2
+~
+door~
+1 0 586
+D3
+~
+~
+0 0 571
+S
+#573
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D3
+~
+~
+0 0 572
+R M 0 526 18 573
+R M 0 524 15 573
+S
+#574
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 553
+D3
+~
+~
+0 0 575
+S
+#575
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 574
+D3
+~
+~
+0 0 576
+R M 0 526 18 575
+R M 0 524 15 575
+  R E 0 554 0 16
+S
+#576
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D0
+~
+door~
+1 0 587
+D1
+~
+~
+0 0 575
+S
+#577
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 578
+D3
+~
+~
+0 0 553
+R M 0 526 18 577
+S
+#578
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 579
+D3
+~
+~
+0 0 577
+R M 0 524 15 578
+  R E 0 554 0 16
+S
+#579
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D3
+~
+~
+0 0 578
+D5
+~
+door~
+1 0 584
+S
+#580
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 556
+D3
+~
+~
+0 0 581
+S
+#581
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 580
+D3
+~
+~
+0 0 582
+R M 0 524 15 581
+  R E 0 554 0 16
+S
+#582
+Sewers~
+~
+The walls and floor is made out of broken peices of stone.  The air feels 
+damp and you can hear running water off in the distance.  There is a thin 
+coating of some slimy substance on the walls.  
+~
+1 9 0
+D1
+~
+~
+0 0 581
+D5
+~
+door~
+1 0 583
+S
+#583
+Dark Smelly Pit~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  
+~
+1 9 0
+D4
+~
+~
+1 0 582
+R M 0 521 1 583
+S
+#584
+Dark Smelly Pit~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  
+~
+1 9 0
+D4
+~
+~
+1 0 579
+R M 0 522 1 584
+S
+#585
+Dark Room~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  ,c 
+The air is cold and wet and filled with a horrid stench.  The stone walls 
+and floor are uneven and are crumbling.  There floor is littered with bones, 
+they crack under the pressure of someone's feet.  
+~
+1 9 0
+D3
+~
+~
+1 0 568
+S
+#586
+Dark Room~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  ,c 
+The air is cold and wet and filled with a horrid stench.  The stone walls 
+and floor are uneven and are crumbling.  There floor is littered with bones, 
+they crack under the pressure of someone's feet.  
+~
+1 9 0
+D0
+~
+~
+1 0 572
+S
+#587
+Dark Room~
+~
+The air is wet and filled with a horrid odor making it hard to breath.  The 
+stone walls are crumbling and the floor is made of dirt.  There floor is 
+littered with bones, they crack under the pressure of someone's feet.  ,c 
+The air is cold and wet and filled with a horrid stench.  The stone walls 
+and floor are uneven and are crumbling.  There floor is littered with bones, 
+they crack under the pressure of someone's feet.  
+~
+1 9 0
+D2
+~
+~
+1 0 576
+R M 0 523 1 587
+S
+#588
+Khalaman Pigeon Courier~
+~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 502
+R M 0 525 1 588
+  R G 0 556 0
+S
+#0
+
+
+#SHOPS
+ 500    0  0  0  0  0   105  80         0 23    ; alianore
+ 501    5  0  0  0  0   100  65         0 23    ; godfrey
+ 502    9  0  0  0  0   100  65         0 23    ; fearghus 
+ 503    0  0  0  0  0   105 100         0 23    ; isobail
+ 504    0  0  0  0  0   100  65         0 23    ; gylmyne
+ 505    9  0  0  0  0   100  65         0 23    ; cicoria
+ 506    8 33 32  0  0   100  65         0 23    ; deitre
+ 510    0  0  0  0  0   100  75         0 23    ; inessa
+ 518    0  0  0  0  0   105 100         0 23    ; rish
+ 525    0  0  0  0  0   100  50         0 23    ; a tall muscular dagorstian male
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

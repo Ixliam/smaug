@@ -1,0 +1,1832 @@
+#AREA        The Knighthire Manse~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1450
+bandit guard~
+a slovenly bandit guard~
+A slovenly bandit guard seems to be falling asleep at his post.
+~
+This slovenly guard has been sent to keep the gates secure. How well he can 
+perform this task half-asleep remains to be seen. 
+~
+0
+clanname none~
+0
+0
+65 0 600 C
+100 2 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1451
+unseen gate opener~
+unseen gate opener~
+(no default description)
+~
+~
+0
+clanname none~
+0
+0
+65 32 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1452
+female librarian~
+old female librarian~
+A librarian is here stocking the shelves.
+~
+Before you is a old female woman with short `Wwhite `wcurly hair. When seen open 
+here eyes are `ybrownish `wcolor. She is wearing a long flowing `Rred `wdress with 
+`sblack `wshoes on. 
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1453
+wolf~
+a `sgrey `wwolf`^~
+A grey wolf is resting by the fireplace.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1460
+woman female girl maid~
+a female maid~
+A female maid is cleaning here.
+~
+Before you is a toned skinny woman with long straight `sblack `whair covering 
+part of her ears. When seen open her eyes are peircing `ybrown`w. On her body 
+she is wearing a `sblack `wdress `wwith pair of `wblack shoes on her feet. On her 
+back is a tattoo of a faerie spreading her wings touching the V shape end of 
+the dress. 
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1462
+life guard man guy~
+a well build life-guard~
+Male life-guard stands here, watching for your saftey.
+~
+Before you is a well build long curly `yblonde `whair in a pony tail. When seen 
+open, he has peircing `Bblue `weyes. On his left arm is a tattoo of a shark. 
+Below of is body he is wearing a `Rred `w swimming drunks. On his feet he is 
+wearing lighted `ytanned `wsandles. 
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1471
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1475
+female girl gardener woman~
+a female gardener~
+A gardener is working here.
+~
+Before you is a toned female with long `yblonde `whair. Her skin color is very 
+`ytanned`w and sweaty. When seen open, her eyes are darkish green. On here upper 
+body is a short `ggreen `wstained `Wwhite `wcut-of shirt and below she is wearing 
+short `Wwhite `wskirt. Her knees are slight dirty and her `Rred `wsandles are bit 
+dirty as well. 
+~
+0
+clanname none~
+0
+0
+1 128 600 C
+1 40 9 1d4+2 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1490
+man ghost~
+floating ghostly man~
+A ghost of a man glares at you.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1450
+short sword~
+a white shortsword~
+A glow shortsword has been left here.~
+~
+5 2 4
+2 7 3 256 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1451
+recliner~
+`sgrey `wrecliner`^~
+A recliner stands here.~
+~
+12 0 8
+700 1168 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1452
+fire~
+`sSteal`w circualr fire place.`^~
+A fireplace stands in the corner.~
+~
+29 1 16
+3 64 1499 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1453
+fire~
+a burning fire~
+A steal circular fireplace is burning here.~
+~
+29 1 16
+0 64 1453 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1454
+table~
+circular table~
+A polished dark cherry table stands here.~
+~
+12 0 8
+1900 72 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1455
+bar~
+`sblack `wcherry bar`^~
+A large bar stand stands here.~
+~
+15 0 8
+1 0 500 10000 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1456
+bookcase~
+a large `#`ybookcase`^~
+A large bookcase has been pressed against the wall.~
+~
+15 0 8
+5 0 4010 8000 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1457
+desk~
+a cherrywood desk~
+A cherrywood desk littered with rubbish stands here.~
+~
+12 0 8
+1000 72 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1458
+altar~
+`Ws`ceandac `waltar`^~
+A seandac altar stands here.~
+~
+12 256 8
+2000 65608 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1459
+lamp floor~
+`yiron `wfloor lamp`^~
+A lamp is glowing here.~
+~
+1 1 1
+0 -1 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1460
+burning fire~
+burning fire~
+A small fire burns here.~
+~
+1 1 1
+0 -1 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1461
+rack titanium~
+titanium rack~
+A titanium rack stands here.~
+~
+15 0 8
+0 0 500 1000 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1462
+bench~
+`sstone `wbench`^~
+A stone bench stands here.~
+~
+12 0 8
+2500 144 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1463
+armoire closet cabinet~
+`Yoak `warmoire`^~
+Large oak Armoire stands here.~
+~
+15 0 8
+1 0 6000 10000 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1464
+sofa couch seat~
+`ccyan `wcolour sofa`^~
+A two seated cyan coloured sofa stands here.~
+~
+12 0 8
+1000 66704 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1465
+bed king~
+large `stitanium`w kingsized bed`^~
+A large titanium frame king-sized bed stands here.~
+~
+12 0 8
+2000 66704 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1466
+canopy bed~
+a Polished `ssteel`w framed canopybed~
+A canopybed lays here.~
+~
+12 0 8
+700 1168 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1467
+fire place burning portal~
+circular `ssteal`w fire place`^~
+A circular steal fireplace is burning here.~
+~
+29 1 16
+0 64 1451 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1468
+pool water~
+`cSteaming `Clarge pool`^~
+A steaming large pool is here.~
+~
+12 2 8
+9000 65824 200 200 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1469
+armoire chest closet~
+old `sgrey `warmoire`^~
+A large old armoire stands here.~
+~
+15 0 8
+13 1475 10000 20000 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1470
+treasury key~
+`#`WGarik's `Ytreasury key`^~
+`#`WGarik's `Ytreasury key`^ is here.~
+~
+31 128 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1471
+gate key~
+a key~
+A big key is here.~
+~
+18 128 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1475
+rusty key~
+a `yrusty`w key`^~
+Rusty iron key~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1480
+ball light~
+`Ybright `wball of light`^~
+A large light is here shinning towards the water.~
+~
+1 1 1
+0 -1 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1482
+knighthire absinthe~
+`gKnighthire absinthe`^~
+Knighthire absinthe~
+~
+17 0 16
+10 26 1 0 0 0 0
+1 40 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1483
+knighthire red wine~
+`rKnighthire red wine`^~
+Knighthire red wine~
+~
+17 0 16
+12 2 0 0 0 0 0
+1 20 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1486
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1492
+fontain~
+large `sstone `wfountain`^~
+A large stone waterfountain stands here.~
+~
+25 2 16
+-1 52 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+1492 fountain ~
+Large waterfountain is here wraped up in green vines. You can see that the 
+waterfountain is made of stone detached to itself to the vines. A statue of 
+a stern, foul-tempered knight in shining armor.  His hair and beard is black 
+and emits electric charges.  He carries the white Shield of Righteousness 
+and the black Sword of the Leveler. A name is written bottom of the fountain 
+(The `CGod `WS`ceandac`w). 
+~
+#1493
+watermelon juice~
+`GKnighthire watermelon juice`^~
+Knighthire watermelon juice~
+~
+17 0 16
+12 50 0 0 0 0 0
+1 9 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1494
+knighthire fruit punch~
+`RKnighthire fruit punch`^~
+Knighthire fruit punch~
+~
+17 0 16
+13 39 0 0 0 0 0
+1 7 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1498
+token_garik_guard_greet~
+token_garik_guard_greet_mp1450~
+Token_garik_guard_greet_mp1450~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1450
+Front gate entrance~
+~
+Large `sgrey `wcastle stands north from you with a large `yiron`w door in the middle 
+between the two guards. Above the door you notice a carved rock bolded  
+wrighting with a huge lifelike looking double headed axe built right into 
+the castle wall. 
+~
+1 33554432 3
+D0
+~
+door~
+33 1471 1451
+D7
+~
+~
+0 0 56281
+R M 0 1450 1 1450
+E
+sign bold~
+`YK`ynighthire                                   `YC`yastle
+~
+E
+axe symbol huge~
+`s                /`-       ^       `- \   
+               /  `-      =     `-    \
+              /     `-    |   `-       \
+             /        `- `-v`- `-         \
+            |            |            |
+            |############|############|
+            |############|############|
+            |############|############|
+            |############|############|
+            \            |            /
+             \  `- `- `-    |   `- `- `-   /
+              \`-      `-  | `-       `-/
+               \        `-|`-        /
+                        ( )
+                         0
+                         0
+~
+S
+#1451
+Entrance~
+~
+`GGreen`w grass grows here with few weeds peeking out of the ground. Four large 
+stones nailed to the ground circuling a large waterfountain in the middle 
+creating a path to the `Yyellow`w door that has a window with three `ssilver`w bars 
+verticaly crossing from top to bottom of the square window. On east and west 
+side of the area are three wooden posts with rope tied around them. A small 
+rectangualr water wooden box stands behind the posts. A sign stands west of 
+the grounds with `Rred`w letters. 
+~
+1 33554432 2
+D0
+~
+~
+1 0 1453
+D2
+~
+~
+33 1471 1450
+D9
+~
+~
+1 0 1472
+R O 0 1492 0 1451
+E
+sign ~
+`RPlease leave your "pets" here. Thank you, GK
+~
+S
+#1452
+Miniture beach~
+~
+A half circle room made of stone surrounds you with `yyellowish `wsand on the 
+ground. Few shells are barried under the sand to give the affect of a real 
+beach. towards the west is a pool. 
+~
+1 33554432 15
+D3
+~
+~
+0 0 1462
+S
+#1453
+Family room~
+~
+Square rock shape room has one opening to the west and three doors to the 
+north, south, and east.  On the celien is a large crystal chandelier with 
+over 50 candles lit.  On the ground is a large knited `ybrown `wbear-skin rug 
+that covers a cold stone floor.  In the south-east corner is a steal 
+fireplace keeping the area warm.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 1454
+D1
+~
+~
+1 0 1456
+D2
+~
+~
+1 0 1451
+D3
+~
+~
+0 0 1455
+D4
+~
+~
+0 0 1460
+D5
+~
+~
+0 0 1458
+R O 0 1451 0 1453
+R O 0 1452 0 1453
+R M 0 1453 1 1453
+S
+#1454
+A Stash Room~
+~
+A small bookcase has been pressed against the stone walls. The floor has 
+been covered in oak wood polished to match the bookcase. A wooden desk has 
+been piled high with various rubbish. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 1453
+R O 0 1456 0 1454
+R O 0 1457 0 1454
+R M 0 1452 1 1454
+  R G 0 1486 0
+E
+sign ~
+`WPlease be `R"Quiet"`W as people are studying here. Thank you 
+~
+S
+#1455
+Dinning/Bar Area~
+~
+Large smooth stone walls surrounds this room with 2 windows at south wall 
+and west wall giving a view of the `ggreen `wherb garden. A large barstand sits 
+near the west window and a large circular table stands in the middle of the 
+polished stone floor. At the north wall is a wooden door leading out into 
+another area. Smal sign is hanging on that door with `ydull yellow`w writing. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 1457
+D1
+~
+~
+0 0 1453
+R O 0 1454 0 1455
+R O 0 1455 0 1455
+  R P 0 1482 5 1455
+  R P 0 1483 5 1455
+  R P 0 1493 5 1455
+  R P 0 1494 5 1455
+E
+sign ~
+`yIf door close, please do not disturb. Thank you 
+~
+S
+#1456
+Quiet/Meditation room~
+~
+Medium sized stone circular room has three banners hooked onto the wall. 
+They are hanging north,east and south wall. The floor is covered by `ybamboo`w 
+wood and there is an altar in the middle of the floor. The celien is a dome 
+shape with a large circular ball hanging. A lamp is on the floor giving this 
+room a slight `Yglow`w. 
+~
+1 117440512 0
+D3
+~
+~
+1 0 1453
+R O 0 1458 0 1456
+R O 0 1459 0 1456
+E
+east ~
+`Y(Glowing) `W[`cBANNER`W] `RR`rising `Ck`cnights `Wof the `YS`yacred `YS`yun
+~
+E
+north ~
+`Y(Glowing) `W[`cBANNER`W] `CKnights `Yof the `sGrey `CMoon
+~
+S
+#1457
+Medicine room~
+~
+Small cirular room made of sparkle stone walls with two possible exit from 
+south and west. In the middle of this room is a fire pit ready to be used. A 
+titanium rack agianst north wall holds a sea-shell cauldron. On the celien 
+is a tiny square hole enough for the smoke to escape. On the west wall is a 
+small wall lamp that is lit. 
+~
+1 33554432 0
+D2
+~
+~
+0 0 1455
+D3
+~
+~
+1 0 1471
+R O 0 1460 0 1457
+R O 0 1461 0 1457
+S
+#1458
+Basement floor~
+~
+Small cement square room and floor makes this area a closed in room. There 
+is one wooden door south and a open wooden door north into a locker room 
+where you feel a cool breeze and  moist humidity comming at you. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 1459
+D2
+~
+~
+33 1470 1463
+D4
+~
+~
+0 0 1453
+S
+#1459
+Locker room~
+~
+This moist square room is pretty slippery, with a bench detached the walls 
+to sit at and two doors to exit this room from south and south east is not a 
+quite large room. A sign is detached to the north wall with `Rred`w letters. 
+~
+1 33554432 0
+D2
+~
+~
+0 0 1458
+D7
+~
+~
+0 0 1462
+R O 0 1462 0 1459
+E
+sign ~
+`RPlease fallow these rules!
+1.) Do not run.
+2.) Put everything in your bagback or cases.
+-You are responsible for your belongings!
+3.) Have fun!
+~
+S
+#1460
+Second floor~
+~
+Large octigon stone wall closes in you with eight door leading to other 
+rooms and a staircase in the middle of the hall leading down. Above is a 
+dome shape celien with a sparkling chandelier that lights this hallway 
+brightly. 
+~
+1 33554432 0
+D0
+~
+~
+1 0 1465
+D1
+~
+~
+1 0 1461
+D2
+~
+~
+1 0 1464
+D3
+~
+~
+1 0 1466
+D5
+~
+~
+0 0 1453
+D6
+~
+~
+1 0 1468
+D7
+~
+~
+1 0 1469
+D8
+~
+~
+1 0 1470
+D9
+~
+~
+1 0 1467
+R M 0 1460 1 1460
+S
+#1461
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace north-east of the 
+room making the room nice and warm. A large armoire stands north-west of the 
+room for storage and a canopybed south of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. west is the only exit for 
+this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D3
+~
+~
+1 0 1460
+R O 0 1466 0 1461
+R O 0 1467 0 1461
+R O 0 1463 0 1461
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1462
+Pool area~
+~
+A large circular room is here with a pool in the center of the room. Towards 
+the east is a little beach area to rest at. There area two exits to this 
+room, east to the beach and north-west to the locker room. 
+~
+1 33554432 6
+D1
+~
+~
+0 0 1452
+D9
+~
+~
+0 0 1459
+R O 0 1468 0 1462
+R M 0 1462 1 1462
+S
+#1463
+closet~
+~
+Dark small stoned space covers this area. Above is a little wall lantern to 
+give a glimps of light in the room. 
+~
+1 33554432 0
+D0
+~
+door~
+33 1470 1458
+S
+#1464
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace south-east of the 
+room making the room nice and warm. A large armoire stands south-west of the 
+room for storage and a canopybed west of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. north is the only exit for 
+this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D0
+~
+~
+1 0 1460
+R O 0 1466 0 1464
+R O 0 1467 0 1464
+R O 0 1463 0 1464
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1465
+'1st floor' Main bedroom~
+~
+Surrounded by `ybrown `wsoft bearskin on the walls and the floor creates a 
+cuddle relaxing enviroment. A bed and a fire place stands north on a 
+elevated floor making this room very rich. The ceilin is rounded with a 
+cylinder point making it possbile even for giants to bump there heads here. 
+A `Rrred `wcheery door leads south. 
+~
+1 33554944 0
+D2
+~
+~
+1 0 1460
+D4
+~
+~
+0 0 1487
+R O 0 1463 0 1465
+R O 0 1464 0 1465
+S
+#1466
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace south-west of the 
+room making the room nice and warm. A large armoire stands north-east of the 
+room for storage and a canopybed north of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. east is the only exit for 
+this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D1
+~
+~
+1 0 1460
+R O 0 1466 0 1466
+R O 0 1467 0 1466
+R O 0 1463 0 1466
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1467
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace north-east of the 
+room making the room nice and warm. A large armoire stands south-west of the 
+room for storage and a canopybed west of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. South-east is the only exit 
+for this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D7
+~
+~
+1 0 1460
+R O 0 1466 0 1467
+R O 0 1467 0 1467
+R O 0 1463 0 1467
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may have this room to yourself. Note to me Garik and give me what your dream room would look like and i will get my builder in here as soon as possible. Thank you.
+~
+S
+#1468
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace south-east of the 
+room making the room nice and warm. A large armoire stands north-east of the 
+room for storage and a canopybed north of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. South-west is the only exit 
+for this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D8
+~
+~
+1 0 1460
+R O 0 1466 0 1468
+R O 0 1467 0 1468
+R O 0 1463 0 1468
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1469
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace south-east of the 
+room making the room nice and warm. A large armoire stands south-west of the 
+room for storage and a canopybed west of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. north-west is the only exit 
+for this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D9
+~
+~
+1 0 1460
+R O 0 1466 0 1469
+R O 0 1467 0 1469
+R O 0 1463 0 1469
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1470
+Spare room~
+~
+Before you is a medium sized guestroom with a firplace south-east of the 
+room making the room nice and warm. A large armoire stands south-west of the 
+room for storage and a canopybed north of this room. The ceilin is rounded 
+pointed cylinder with many nature color to it. north-east is the only exit 
+for this room. A sign is nailed on the door in `Yyellow `wletters. 
+~
+1 33554432 0
+D6
+~
+~
+1 0 1460
+R O 0 1466 0 1470
+R O 0 1467 0 1470
+R O 0 1463 0 1470
+E
+sign door~
+`YFor those who are staying please make yourself welcome. If you wish you may 
+have this room to yourself. Note to me Garik and give me what your dream 
+room would look like and i will get my builder in here as soon as possible. 
+Thank you. 
+~
+S
+#1471
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 33554432 2
+D0
+~
+~
+0 0 1482
+D1
+~
+~
+1 0 1457
+D2
+~
+~
+0 0 1472
+D3
+~
+~
+0 0 1473
+S
+#1472
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1471
+D3
+~
+~
+0 0 1474
+D7
+~
+~
+1 0 1451
+S
+#1473
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1481
+D1
+~
+~
+0 0 1471
+D2
+~
+~
+0 0 1474
+D3
+~
+~
+0 0 1475
+S
+#1474
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1473
+D1
+~
+~
+0 0 1472
+D3
+~
+~
+0 0 1476
+R M 0 1475 1 1474
+S
+#1475
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1480
+D1
+~
+~
+0 0 1473
+D2
+~
+~
+0 0 1476
+D3
+~
+~
+0 0 1478
+R M 0 1475 1 1475
+  R G 0 1475 0
+S
+#1476
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind. 
+~
+1 0 2
+D0
+~
+~
+0 0 1475
+D1
+~
+~
+0 0 1474
+D2
+~
+~
+0 0 1495
+D3
+~
+~
+0 0 1477
+S
+#1477
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind. 
+~
+1 0 2
+D0
+~
+~
+0 0 1478
+D1
+~
+~
+0 0 1476
+S
+#1478
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1479
+D1
+~
+~
+0 0 1475
+D2
+~
+~
+0 0 1477
+D3
+~
+~
+0 0 1496
+S
+#1479
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1483
+D1
+~
+~
+0 0 1480
+D2
+~
+~
+0 0 1478
+S
+#1480
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1484
+D1
+~
+~
+0 0 1481
+D2
+~
+~
+0 0 1475
+D3
+~
+~
+0 0 1479
+S
+#1481
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1485
+D1
+~
+~
+0 0 1482
+D2
+~
+~
+0 0 1473
+D3
+~
+~
+0 0 1480
+S
+#1482
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1486
+D2
+~
+~
+0 0 1471
+D3
+~
+~
+0 0 1481
+S
+#1483
+Knighthire garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1497
+D1
+~
+~
+0 0 1484
+D2
+~
+~
+0 0 1479
+S
+#1484
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D1
+~
+~
+0 0 1485
+D2
+~
+~
+0 0 1480
+D3
+~
+~
+0 0 1483
+S
+#1485
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D0
+~
+~
+0 0 1498
+D1
+~
+~
+0 0 1486
+D2
+~
+~
+0 0 1481
+D3
+~
+~
+0 0 1484
+S
+#1486
+Herb garden~
+~
+`GGreen `wgrass florish this land with flowers and insects of many kind.
+~
+1 0 2
+D2
+~
+~
+0 0 1482
+D3
+~
+~
+0 0 1485
+D6
+~
+~
+0 0 1494
+S
+#1487
+'2nd floor' Main bedroom~
+~
+A `ssteal`w fireplace is on the north-west of this room creating a warm area to 
+sleep or rest in. A large `stitanium`w bed lays east of this room with two small 
+lantern `Ylights`w above the bed dimming the whole room. 
+~
+1 33554432 0
+D5
+~
+~
+0 0 1465
+R O 0 1465 0 1487
+R O 0 1467 0 1487
+S
+#1488
+Lighthouse entrance~
+~
+A cold breeze rushes in the room from the south west door into a spiral old 
+white room. A old boat that has been damage lays here with couple shovels 
+and a fishing pole in it. A ladder at the south leads p to another room. 
+~
+1 134217728 0
+D4
+~
+~
+0 0 1489
+D8
+~
+~
+1 0 1494
+S
+#1489
+Lighthouse 2nd floor~
+~
+This room is filled with lumber and oil. A large fireplace is here at the 
+west side of the room with a pipe leading out of the wall and seems to be 
+going up. A ladder is at the east side leading up and down to another area. 
+~
+1 134217729 0
+D4
+~
+~
+0 0 1490
+D5
+~
+~
+0 0 1488
+S
+#1490
+Lighthouse 3rd floor~
+~
+This room is quite different. You feels quite dizzie and feel a cold breeze 
+slightly touching your skin. A picture is nailed to the north end of the 
+wall that looks like it maybe starring you. The ladder in the east stops 
+going up while another ladder is at the south of this room going up. 
+~
+1 134217729 0
+D4
+~
+~
+0 0 1491
+D5
+~
+~
+0 0 1489
+R M 0 1490 1 1490
+E
+north picture~
+Before you is a picture of an old man with `Wwhite`w long hair covering his 
+eyes. He seems to be quite build with a `Wshiny `stitanium`w armor. Over his 
+grinning mouth is a long `sgrey`w beared. In the background seems to be outside 
+next to the lighthouse entrance. Around the picture is an old `Ygold`w frame 
+that is pretty scratched up. 
+~
+S
+#1491
+Lighthouse 4th floor~
+~
+Tons of cob-webs lays here in this circular room. You notice that the walls 
+are quite old and has some cracks and dints in them. A stair case at the 
+south side of the room leads up and down to another room. 
+~
+1 134217729 0
+D4
+~
+~
+0 0 1492
+D5
+~
+~
+0 0 1490
+S
+#1492
+lighthouse 5th floor~
+~
+Few cob-webs lays all over this circular area. Few old furnitue is covered 
+by an old white sheet eccept one. A large old armoire sits west of this room 
+that a spider layed her her nest on. A old ladder stand south of this room 
+going back down and up to a very bright area. 
+~
+1 0 0
+D4
+~
+~
+0 0 1493
+D5
+~
+~
+0 0 1491
+R O 0 1469 0 1492
+S
+#1493
+Light tower~
+~
+A cylinder shape roof covers this rounded area from the weather and sun. 
+Four poles from north-west, north-east, southwest, and southeast holds the 
+cylinder roof in place. In the middle of the floor, a large light is 
+detached to the floor and the roof and beams light to the outside. The floor 
+is made of stones and a small cut circular `swolf-skin`w rug lays here to walk 
+on. 
+~
+1 33554432 0
+D5
+~
+~
+0 0 1492
+R O 0 1480 0 1493
+S
+#1494
+On the Shore of Lake Lhorandia~
+~
+Standing on the shore of Lake Lhorandia, the largest freshwater lake in the 
+knowne world, it appears still and peaceful.  Small waves lap against the 
+shoreline, not touching the red bridge that leads north east to a 
+light-house. Wetting the sand and rocks around you. A sign is here in bold 
+letters nailed to the bridge.  
+~
+1 0 6
+D3
+~
+~
+0 0 1498
+D6
+~
+~
+1 0 1488
+D8
+~
+~
+0 0 1486
+E
+sign ~
+`sP ea e  d   ot  go  n  h  l   h    u  !
+~
+S
+#1495
+Kyarra's playpen~
+~
+A very dimly lit room with small lamps attach to the walls burning with oil. 
+ On the walls as well are small paintings of a forest which adds some color 
+to the creme walls. The floor is covered in straw and hay. 
+~
+1 0 0
+D0
+~
+~
+0 0 1476
+S
+#1496
+Cool place~
+~
+This place is really cool. It is so cool becuase of all the fans 
+around...wait a minute what are fans? It's not all that cool in here after 
+all. Still it's better than the outside on a boiling hot summers day. 
+~
+1 0 0
+D1
+~
+~
+0 0 1478
+S
+#1497
+On the Shore of Lake Lhorandia~
+~
+Standing on the shore of Lake Lhorandia, the largest freshwater lake in the 
+knowne world, it appears still and peaceful.  Small waves lap against the 
+shoreline, wetting the sand and rocks around you.  This looks like an 
+excellent place to fish. 
+~
+1 0 6
+D1
+~
+~
+0 0 1498
+D2
+~
+~
+0 0 1483
+S
+#1498
+On the Shore of Lake Lhorandia~
+~
+Standing on the shore of Lake Lhorandia, the largest freshwater lake in the 
+knowne world, it appears still and peaceful.  Small waves lap against the 
+shoreline, wetting the sand and rocks around you.  This looks like an 
+excellent place to fish. 
+~
+1 0 6
+D1
+~
+~
+0 0 1494
+D2
+~
+~
+0 0 1485
+D3
+~
+~
+0 0 1497
+S
+#1499
+Hidden passage~
+~
+You walked through a `ssteal `wcircular fireplace into a hidden room. Wooden 
+walls and `sgrey `wwolf skin rug covers the floor. Another fireplace lies here 
+in the south wall. 
+~
+1 4 0
+R O 0 1453 0 1499
+S
+#0
+
+
+#SHOPS
+ 1452   28 14  0  0  0   105 100         0 23    ; old female librarian
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

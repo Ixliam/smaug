@@ -1,0 +1,1237 @@
+#AREA        Stupid World: The District~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#25231
+anita blake~
+`#`wAnita`^~
+`#`w"`RThe Executioner`w" Anita Blake is here raising the dead.`^
+~
+Her hair is black and curls just above the shoulders. The solid nearly 
+black-brown of her eyes matches her hair. Her skin is very pale. She has 
+multiple scars. The worst scars are on the bend of her left arm. She also 
+has two cross-shaped burn marks. One on her arm and another on her chest. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25232
+jean claude~
+`#`wJean Claude`^~
+`#`sJean Claude `wstands here in his `Wwhite frilly `wshirt.`^
+~
+He moves like a dancer, or a cat, a smooth, gliding walk. Energy and grace 
+contained, waiting to explode into violence. He's not that tall, maybe 
+five-eleven. His hair is perfectly black, curling softly around his face. 
+His eyes, if you dare to look into them, are a blue so dark they are almost 
+black. Like glittering, dark jewels. The only thing that mars the perfection 
+of his body is a dark cross-shaped scar on his chest. If you could bottle 
+Jean-Claude's laugh it would be fattening. Or orgasmic. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25233
+dead dave~
+`#`wDead Dave`^~
+`#`sDead Dave `wis here wiping down a counter.`^
+~
+Dead Dave is tall, wide, with short brown hair that had been balding when he 
+died. He's lost no more hair but it hasn't grown back either. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25234
+jason~
+`#`wJason`^~
+`#`sJason `wis here, taking one for the team.`^
+~
+Jason has thin blond hair cut just above his shoulders, no bangs. His eyes 
+are the same pale blue as the sky. He is exactly Anita's height, five three, 
+which makes him short, especially for a man. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+60 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25235
+asher~
+`#`wAsher`^~
+`#`sAsher `wstands here looking regal.`^
+~
+Asher is a blue-eyed blond, but that description doesn't do him justice. 
+The waves of his shoulder-length hair is golden. Not blond, but gold. His 
+hair is almost metallic in its glittering brilliance. He eyes are a blue so 
+pale, they are almost white, like the eyes of a husky. Half of Asher's face 
+is the beauty that drew a master vampire to him centuries ago. The other 
+half is covered in scars. Holy water scars. The scars start about an inch 
+from the midline of his face so his eyes, nose, and those full, perfect lips 
+remained untouched, but the rest was like melted wax. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25236
+nathaniel~
+`#`wNathaniel`^~
+`#`wNathaniel is here dressed in head to toe `sleather.`^
+~
+Nathaniel has long auburn hair that hangs like a shining curtain around his 
+face, maybe longer than waist-length. His eyes are the color of lilacs, a 
+wonderful pale lavender that is a genuine show-stopper. Nathaniel manages to 
+be childlike, catlike, and still be an adult. You don't know whether to pat 
+him on the head, rub his belly, or kiss him. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25237
+malcolm~
+`#`wMalcolm`^~
+`#`sMalcolm`W, the leader of the church is here. `^
+~
+Malcolm is tall and almost painfully thin, with large bony hands that 
+belonged to a more muscular man. His short, curly hair is the shocking 
+yellow of goldfinch feathers. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25238
+animalistic vampire~
+`#`wan animalistic vampire`^~
+`#`w an animalistic vampire bares its fangs at you.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+51 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25239
+richard zeeman~
+`#`wRichard`^~
+`#`sRichard `wis here sitting at a table.`^
+~
+He has high-sculpted cheekbones and a firm jaw. A dimple softens the lines 
+of his face. He shows signs of weightlifting, just enough, not too much. His 
+smile is very bright against his permanently tanned skin. His long brown 
+hair falls in a wavy mass around his shoulders. In sunlight it gleams with 
+strands of gold, hints of copper. His eyes are brown and very human. Most of 
+the time! 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25240
+zombie~
+a zombie~
+A newly risen zombie is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+33 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25241
+narcissus~
+`#`wNarcissus`^~
+`#`sNarcissus `wis standing here wearing a dress.`^
+~
+Narcissus is about five foot seven and wears makeup on his pale triangular 
+face. His black hair is cut very short, though you can tell it would be 
+curly if it was worn long. He likes to cross-dress. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+65 0 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25242
+ghost~
+`#`wa ghost`^~
+`#`wA barely visible apparition of a ghost is here
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+34 0 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25243
+kissa~
+`#`sKissa`^~
+`#`sKissa `wis here getting her hair done.`^
+~
+Kissa is tall, taller than Jean-Claude. Her skin is the color of coffee with 
+two creams. Her dark hair falls in long cornrows to her waist. Her 
+high-boned face is empty of makeup, and still she is beautiful. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25244
+magnus bouvier ~
+`#`wMagnus `wBouvier`^~
+`#`wMagnus `wBouvier stands here behind the bar serving drinks.`^
+~
+Magnus Bouvier's hair falls to his waist like thick, chestnut-colored water. 
+He has startling blue-green eyes, like deep sea water. He is dark and lovely 
+rather than handsome, androgynous as a cat. He is exotic as hell. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+55 0 -25 5d9+300 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#25231
+sign~
+`#`Ra small sign`^~
+`#`Ra small sign`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+25231 sign ~
+This area is dedicated to my favorite author Laurell K. Hamilton and her 
+Anita Blake Vampire Hunter series. It is in no way affilitated with her or 
+her books and this area is not exactly something out of her books but only 
+some places out of them that are important. Please read her books, they are 
+good! Thanks, Delandria. 
+~
+#25232
+long black knife~
+`#`wa long `sblack `wknife`^~
+A long black knife is on the ground here.~
+~
+5 64 4
+4 81 117 17 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25233
+darkened shroud~
+`#`wa `sdarkened s`wh`sr`wo`su`wd`^~
+A dark looking piece of cloth is on the ground here.~
+~
+9 0 8
+30 30 16 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25234
+antique cameo~
+`#`wan antique `sc`wa`sm`we`so `wpin`^~
+A cameo pin has been dropped here.~
+~
+9 64 8
+45 45 8 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25235
+sigmund penguin~
+`#`wA stuffed `spenguin `wwith a large `Rred `wbow on its neck`^~
+`#`wA stuffed `spenguin `whas been dropped here.`^~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25236
+fancy wooden crossbow~
+`wa fancy `ywooden `scrossbow`^~
+A crossbow lies here.~
+~
+5 0 4
+2 81 117 8 0 0 0
+1 1220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25237
+silver tipped black leather whip ~
+`#`wa `ss`wi`Wl`sv`we`Wr `wtipped `sblack `wleather whip`^~
+A silver tipped black leather whip lies here.~
+~
+5 64 4
+6 81 117 2066 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25238
+skin tight black leather pants~
+`#`wa pair of skin tight `sblack leather `wpants`^~
+A pair of black leather pants are laying here.~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 1021 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25239
+tight black leather corset~
+`#`wa tight `sblack leather `wcorset`^~
+A black leather corset is laying here.~
+~
+9 0 8
+40 40 12 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25240
+pair thigh high black leather boots~
+`#`wa pair of thigh-high `sblack leather `wboots`^~
+A pair of black leather boots are here.~
+~
+9 0 8
+45 45 10 0 0 0 0
+1 2600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25241
+glinting steel flail~
+`#`wa `sg`wl`Wi`sn`wt`Wi`sn`wg `ssteel `wflail`^~
+A shiney steel flail is laying here.~
+~
+5 0 4
+9 70 85 2048 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#25231
+Beginning of a long dark street.~
+~
+Vampires call it "the District." Humans call it the Riverfront, or Blood 
+Square, depending on if they're being rude or not. It's the town's hottest 
+vampire commercial district and a big tourist attraction. 
+~
+1 0 1
+D0
+~
+~
+0 0 25232
+R O 0 25231 0 25231
+S
+#25232
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25234
+D1
+~
+~
+0 0 25233
+D2
+~
+~
+0 0 25231
+R M 0 25240 21 25232
+  R E 0 25233 0 12
+R M 0 25242 21 25232
+S
+#25233
+Guilty Pleasures~
+~
+Chippendale's with fangs. A vampire male strip club owned by Jean-Claude. 
+Guilty Pleasures is one of the hottest clubs in the District. They do not 
+take reservations. A sign on the door reads "No crosses, crucifixes, or 
+other holy items allowed inside." They have a holy item check girl for your 
+convenience. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25232
+R M 0 25232 1 25233
+  R E 0 25234 0 3
+S
+#25234
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25236
+D1
+~
+~
+0 0 25260
+D2
+~
+~
+0 0 25232
+D3
+~
+~
+0 0 25235
+S
+#25235
+Dead Daves~
+~
+Dead Dave's is a nice bar that serves a mean hamburger. The proprietor is an 
+ex-cop who had been kicked off the force for being dead. Picky, picky. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25234
+R M 0 25233 1 25235
+S
+#25236
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25237
+D2
+~
+~
+0 0 25234
+R M 0 25242 21 25236
+S
+#25237
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25240
+D1
+~
+~
+0 0 25239
+D2
+~
+~
+0 0 25236
+D3
+~
+~
+0 0 25238
+R M 0 25240 21 25237
+  R E 0 25233 0 12
+S
+#25238
+Lunatic Cafe~
+~
+The Lunatic Cafe is owned by Raina and located in University City. Its sign 
+is a glowing crescent moon with the restaurant name done in soft blue neon. 
+There is a bar along one wall, polished dark wood, old and lovingly cared 
+for. The rest of the room has small, round tables that could comfortably 
+seat about four. Great place to meet lycanthropes. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25237
+R M 0 25239 1 25238
+  R E 0 25236 0 16
+S
+#25239
+Danse Macabre~
+~
+The club is housed in an old brewery warehouse. They've gutted the warehouse 
+so it rises three stories straight up with railings around each floor. 
+Mannequins, life-size rubber dolls, and crash-test dummies hang from the 
+ceiling. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25237
+R M 0 25234 1 25239
+S
+#25240
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25241
+D1
+~
+~
+0 0 25266
+D2
+~
+~
+0 0 25237
+D3
+~
+~
+0 0 25256
+R M 0 25240 21 25240
+  R E 0 25233 0 12
+R M 0 25242 21 25240
+S
+#25241
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seems 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25243
+D1
+~
+~
+0 0 25242
+D2
+~
+~
+0 0 25240
+S
+#25242
+The Laughing Corpse~
+~
+A comedy club owned by Jean-Claude. It is one of the newest clubs in the 
+District. While your there, pick up one of their t-shirts: "The Laughing 
+Corpse - it's a scream." 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25241
+S
+#25243
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25249
+D1
+~
+~
+0 0 25245
+D2
+~
+~
+0 0 25241
+D3
+~
+~
+0 0 25244
+R M 0 25242 21 25243
+R M 0 25242 21 25243
+R M 0 25240 21 25243
+  R E 0 25233 0 12
+S
+#25244
+Church of Eternal Life~
+~
+At the Church of Eternal Life they promise just what the name says, eternal 
+life. And they can prove it. No leap of faith. No waiting around. No 
+questions left unanswered. How does it feel to be dead? Just ask a fellow 
+vampire church member! The Church is run by Master vampire Malcolm and 
+located far from the District. The Church doesn't like to be associated with 
+the riffraff. They think of themselves as mainstream undead. They recruit by 
+going door to door, like the Mormons and the Jehovah's Witnesses. A sign on 
+the door reads, "Enter Friend and be at Peace." 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25243
+R M 0 25237 1 25244
+S
+#25245
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D1
+~
+~
+0 0 25246
+D3
+~
+~
+0 0 25243
+S
+#25246
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25247
+D2
+~
+~
+0 0 25248
+D3
+~
+~
+0 0 25245
+R M 0 25240 21 25246
+  R E 0 25233 0 12
+R M 0 25242 21 25246
+S
+#25247
+Burnt Offerings~
+~
+Burnt Offerings is a bar and restaurant located far from the vampire 
+district. The waiters are either real vamps or just wannabes. As you walk 
+through the door there is a poster from 1970's movie Burnt Offerings. There 
+is a life size waxwork of Christopher Lee as Dracula in the bar. There is 
+one wall with framed caricatures of horror stars of the sixties and 
+seventies. It isn't uncommon to see clusters of visitors trying to identify 
+who is who. At midnight whoever has the most correct guesses gets a free 
+dinner for two. Try the Bela Lugosi burger while you're there - extra rare 
+unless otherwise requested! 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25246
+S
+#25248
+Old Abandoned Hospital~
+~
+All vampire victims are taken to the basement of the old St. Louis City 
+Hospital. The hospital was closed down but the morgue stayed open because 
+they couldn't afford to move the vampire room. It's a special vault room 
+with a steel reinforced everything and crosses laid on the outside of the 
+door. There's even a feeding tank to take the edge off that first blood 
+lust. Rats, rabbits, guinea pigs. Just a snack to calm the newly risen. 
+ 
+There is a set of stairs leading down here.
+~
+1 33554440 0
+D0
+~
+~
+0 0 25246
+D5
+~
+~
+0 0 25259
+S
+#25249
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25251
+D1
+~
+~
+0 0 25250
+D2
+~
+~
+0 0 25243
+S
+#25250
+The Leather Den~
+~
+The Leather Den has the honor of being the only bar in the country that is a 
+hangout for sadomasochistic gay men who happen to be shapeshifters. Yikes. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25249
+R M 0 25241 1 25250
+  R E 0 25237 0 16
+S
+#25251
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25252
+D2
+~
+~
+0 0 25249
+D3
+~
+~
+0 0 25253
+R M 0 25240 21 25251
+  R E 0 25233 0 12
+R M 0 25242 21 25251
+S
+#25252
+Circus of the Damned~
+~
+The Circus of the Damned is housed in an old warehouse. Its name is emblazoned across the roof in colored lights. Giant clown figurines dance around the words. If you look very closely at the clowns, you notice they have fangs.
+The sides of the building are strung with huge plastic banners. One banner shows a man being hung. Zombies crawl from a graveyard in another picture. A very bad drawing shows a man halfway between wolf and man shape. None of the banners look very wholesome. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25251
+R M 0 25235 1 25252
+  R E 0 25240 0 8
+S
+#25253
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D1
+~
+~
+0 0 25251
+D2
+~
+~
+0 0 25255
+D3
+~
+~
+0 0 25254
+S
+#25254
+Full Dark Beauty Salon~
+~
+The windows are blacked out, outlined in bloodred neon. You can get your 
+hair and nails done by a vampire, if you want to. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25253
+R M 0 25243 1 25254
+  R E 0 25239 0 5
+S
+#25255
+The Tenderloin~
+~
+The Tenderloin was originally the red light district on the Riverfront in 
+the 1800's. The night streets are neon-coated, sparking, flashing, 
+pulsing--colors. It looks like some sort of pornographic carnival. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25253
+R M 0 25236 1 25255
+  R E 0 25238 0 7
+S
+#25256
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D1
+~
+~
+0 0 25240
+D3
+~
+~
+0 0 25257
+S
+#25257
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D1
+~
+~
+0 0 25256
+D3
+~
+~
+0 0 25258
+R M 0 25240 21 25257
+  R E 0 25233 0 12
+R M 0 25242 21 25257
+S
+#25258
+Old Abandoned Cemetery~
+~
+The area is flat and there are about a dozen very old graves here. The 
+tombstones are crumbling as they age and all the grass has died long ago. 
+There is a single oak tree in the middle of the graves. 
+ 
+There is a large circle on the ground here. It looks like it is made with blood.
+~
+1 0 2
+D1
+~
+~
+0 0 25257
+R M 0 25231 1 25258
+  R E 0 25232 0 16
+  R E 0 25235 0 17
+S
+#25259
+The Vault~
+~
+This is a dark and dingy vault where all the newly risen vampires come from. 
+Beware! 
+~
+1 9 0
+D4
+~
+~
+0 0 25248
+R M 0 25238 1 25259
+S
+#25260
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D1
+~
+~
+0 0 25261
+D3
+~
+~
+0 0 25234
+S
+#25261
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25264
+D1
+~
+~
+0 0 25262
+D3
+~
+~
+0 0 25260
+S
+#25262
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D2
+~
+~
+0 0 25263
+D3
+~
+~
+0 0 25261
+S
+#25263
+Bloody Bones Bar and Grill~
+~
+The bar has tall wooden ceilings and wooden floors. There is a fancy bar 
+with stools in the rear of the bar. Several small tables are spread 
+throughout and they are all full of whispering patrons. Bloody Bones? What a 
+funny name for a bar. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25262
+R M 0 25244 1 25263
+  R E 0 25241 0 16
+S
+#25264
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25265
+D2
+~
+~
+0 0 25261
+S
+#25265
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D0
+~
+~
+0 0 25266
+D2
+~
+~
+0 0 25264
+S
+#25266
+The District~
+~
+The street is dimly lit by street lamps that barely work. There are trash 
+cans lining the street but it seems that nobody uses them. There is old 
+newspapers and trash crumbled at your feet. The whole district seemss 
+strange to you. 
+~
+1 0 1
+D2
+~
+~
+0 0 25265
+D3
+~
+~
+0 0 25240
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

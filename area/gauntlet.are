@@ -1,0 +1,883 @@
+#AREA        Gauntlet of Pain~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#4800
+Start of the Gauntlet~
+~
+The object is to escape the maze, with your life.  There are two ways out of 
+the gauntlet: Find the exit, or die trying.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4801
+S
+#4801
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4803
+D2
+~
+~
+0 0 4800
+D3
+~
+~
+0 0 4802
+R M 0 9808 10 4801
+S
+#4802
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4804
+D1
+~
+~
+0 0 4801
+S
+#4803
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D3
+~
+~
+0 0 4801
+R M 0 922 6 4803
+S
+#4804
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4805
+D2
+~
+~
+0 0 4802
+D3
+~
+~
+0 0 4806
+S
+#4805
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4831
+D3
+~
+~
+0 0 4804
+S
+#4806
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4804
+D2
+~
+~
+0 0 4807
+S
+#4807
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4806
+D3
+~
+~
+0 0 4808
+S
+#4808
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4809
+D1
+~
+~
+0 0 4807
+R M 0 9808 10 4808
+S
+#4809
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4810
+D2
+~
+~
+0 0 4808
+D3
+~
+~
+0 0 4814
+S
+#4810
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4811
+D2
+~
+~
+0 0 4809
+S
+#4811
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4812
+D3
+~
+~
+0 0 4810
+S
+#4812
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4813
+D3
+~
+~
+0 0 4811
+S
+#4813
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4815
+D2
+~
+~
+0 0 4815
+D3
+~
+~
+0 0 4812
+S
+#4814
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4816
+S
+#4815
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4813
+D2
+~
+~
+0 0 4813
+S
+#4816
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4820
+D1
+~
+~
+0 0 4814
+D2
+~
+~
+0 0 4817
+S
+#4817
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4816
+D1
+~
+~
+0 0 4819
+D3
+~
+~
+0 0 4818
+S
+#4818
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4817
+S
+#4819
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D3
+~
+~
+0 0 4817
+R M 0 9808 10 4819
+S
+#4820
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4821
+D2
+~
+~
+0 0 4816
+D3
+~
+~
+0 0 4822
+R M 0 9808 10 4820
+S
+#4821
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4827
+D1
+~
+~
+0 0 4823
+D3
+~
+~
+0 0 4820
+S
+#4822
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4826
+D1
+~
+~
+0 0 4820
+S
+#4823
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4825
+D2
+~
+~
+0 0 4824
+D3
+~
+~
+0 0 4821
+S
+#4824
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4823
+R M 0 9808 10 4824
+S
+#4825
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D2
+~
+~
+0 0 4823
+R M 0 9808 10 4825
+S
+#4826
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4827
+D2
+~
+~
+0 0 4822
+D3
+~
+~
+0 0 4828
+S
+#4827
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D2
+~
+~
+0 0 4821
+D3
+~
+~
+0 0 4826
+S
+#4828
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4830
+D1
+~
+~
+0 0 4826
+D2
+~
+~
+0 0 4829
+S
+#4829
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4828
+S
+#4830
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D2
+~
+~
+0 0 4828
+R M 0 9808 10 4830
+S
+#4831
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4832
+D1
+~
+~
+0 0 4833
+D2
+~
+~
+0 0 4805
+D3
+~
+~
+0 0 4834
+S
+#4832
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4838
+D2
+~
+~
+0 0 4831
+R M 0 922 6 4832
+S
+#4833
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D3
+~
+~
+0 0 4831
+R M 0 9808 10 4833
+S
+#4834
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4831
+D3
+~
+~
+0 0 4835
+R M 0 922 6 4834
+S
+#4835
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4836
+D1
+~
+~
+0 0 4834
+S
+#4836
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4837
+D2
+~
+~
+0 0 4835
+S
+#4837
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D3
+~
+~
+0 0 4836
+S
+#4838
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4839
+D3
+~
+~
+0 0 4832
+S
+#4839
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4840
+D1
+~
+~
+0 0 4841
+D2
+~
+~
+0 0 4838
+R M 0 9808 10 4839
+S
+#4840
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D2
+~
+~
+0 0 4839
+R M 0 922 6 4840
+S
+#4841
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4842
+D3
+~
+~
+0 0 4839
+S
+#4842
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4843
+D2
+~
+~
+0 0 4844
+D3
+~
+~
+0 0 4841
+S
+#4843
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D2
+~
+~
+0 0 4842
+R M 0 922 6 4843
+R M 0 9808 10 4843
+S
+#4844
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4842
+D1
+~
+~
+0 0 4848
+D2
+~
+~
+0 0 4845
+R M 0 922 6 4844
+S
+#4845
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4844
+D3
+~
+~
+0 0 4846
+R M 0 922 6 4845
+S
+#4846
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4845
+D2
+~
+~
+0 0 4847
+S
+#4847
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D0
+~
+~
+0 0 4846
+R M 0 922 6 4847
+S
+#4848
+In the Gauntlet~
+~
+The floor is paved with stone and covered in dried blood.  Several large 
+claw marks can be seen in the floor and walls.  
+~
+1 38281216 0
+D1
+~
+~
+0 0 4849
+D3
+~
+~
+0 0 4844
+S
+#4849
+End of the Gauntlet~
+~
+Congratulations, you have survived the gauntlet.  The town of Tulgard lies 
+down from here.  Congratulations, you have survived the gauntlet.  You can 
+recall from here.  
+~
+1 38274052 0
+D3
+~
+~
+0 0 4848
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

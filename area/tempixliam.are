@@ -1,0 +1,226 @@
+#AREA        Temple of Harpan~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7500
+priest priestess~
+a priest of `#`SHarpan`^~
+A priest of the temple is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+130 0 -100 13d16+630 13d17+84
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7503
+small rabbit~
+a rabbit with `YBIG `YSHARP `YPOINTY `YTEETH`x~
+A small rabbit is nibbling on a leaf here.
+~
+This small rabbit is brown in color and is quite fluffly.  It sits here 
+nibbling on a leaf.  
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7500
+altar~
+an altar to `#`SHarpan`^~
+An altar to `#`SHarpan`^ is here.~
+~
+12 16 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7501
+amulet harpan~
+an amulet of `SHarpan`x~
+A dark amulet with the symbol of a flaming skull lies here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7501 amulet ixliam~
+On the end of a the blackened chain is a metal skull with flames surrounding 
+it, the symbol of the God of Death and Destruction, Ixliam.  
+~
+#7502
+burning brazier~
+two large burning braziers~
+Two large burning braziers stand here, filled with `#`Rglowing red coals`^.~
+~
+12 16 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7503
+blackened mace~
+a blackened mace~
+A mace lies here, radiating an evil aura.~
+~
+5 16 4
+6 135 170 129 0 0 0
+1 4800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7500
+Before the Temple~
+~
+A large set of black marble steps up into the Temple of Harpan, the Goddess 
+of Death.  Dark smoke can be seen billowing into the air, as sacrifices are 
+made to the dark goddess.  Four large columns stand at the top of the short 
+flight of stairs into the temple, made from the blackest marble.  A large 
+symbol of a gutting hook is engraved around the decorative edge of the 
+temple, right below the roof.  Surronding the symbol and running around the 
+edge of the roof are skeletal figures in various forms of torment and 
+torture.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 7501
+D2
+~
+~
+0 0 27093
+R M 0 7500 10 7500
+  R E 0 7503 0 16
+  R E 0 7501 0 3
+R O 0 7502 0 7500
+S
+#7501
+Blacked Corridor~
+~
+Twelve large black fluted columns line this corridor running north and 
+south.  On the marble floor is a magnificent relief carving of a white skull 
+surrounded by red flame.  On each column a large brass scone grasps a 
+burning torch, filling the cooridor with flickering light.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 610
+D2
+~
+~
+0 0 7500
+R M 0 7500 10 7501
+  R E 0 7503 0 16
+  R E 0 7501 0 3
+S
+#7502
+Before the Altar~
+~
+An altar made from bloodstone lies before you, its surface covered with dark 
+blood.  A large greenish fire burns on the surface of it, sending the smoke 
+from the sacrifices into the air, and filling the area around the altar with 
+the sweet smell of burning bodies.
+~
+1 33554432 0
+D2
+~
+~
+0 0 610
+R M 0 7500 10 7502
+  R E 0 7503 0 16
+  R E 0 7501 0 3
+R O 0 7500 0 7502
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

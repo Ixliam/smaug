@@ -1,0 +1,60 @@
+#DEITY
+Filename       doreen~
+Name           Dorenne~
+Description    The principles of Dorenne's faith are simple. She holds three beliefs as 
+key and ignores most of the rest of her followers doings if they do not fall 
+within these simple ideas. 
+Death with purpose`^  Let no death be wasted. Each death should have a 
+purpose that is guided by need. Nature does not waste nor should those that 
+follow her. Even your own death should have a purpose. Do not allow yourself 
+to be struck without purpose. 
+Civilization is a creation of man and should never step beyond that simple 
+truth. Nature is of Dorenne and should be treated with the respect of any 
+God's will. To destroy the work of a God for the work of man is foolish. 
+Long after Civilization has fallen, Nature will still endure. Those that 
+follow Dorenne should always be mindful of this and value things 
+accordingly.
+ Nature does not control and man should not either. If something was not 
+meant to be in nature, it will not be. Any attempt by man to change this is 
+wrong. Life is free to live as life wishes to. That is the Nature of Life. 
+~
+Alignment      0
+Worshippers    1
+Flee           -1
+Flee_npcrace   -1
+Flee_npcfoe    0
+Kill           10
+Kill_npcrace   10
+Kill_npcfoe    10
+Kill_magic     10
+Sac            4
+Bury_corpse    2
+Aid_spell      2
+Aid            2
+Steal          -2
+Backstab       0
+Die            -2
+Die_npcrace    -1
+Die_npcfoe     -5
+Spell_aid      2
+Dig_corpse     0
+Scorpse        0
+Savatar        0
+Sdeityobj      0
+Srecall        0
+Race           -1
+Class          0
+Element        0
+Sex            -1
+Affected       0
+Npcrace        0
+Npcfoe         0
+Suscept        0
+Race2          0
+Susceptnum     0
+Elementnum     0
+Affectednum    0
+Objstat        0
+End
+
+#END

@@ -1,0 +1,1366 @@
+#AREA        Goblin Warrens~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#41700
+goblin guard~
+a goblin guard~
+A goblin guard is standing here with a blank look on his face.
+~
+This short green fellow has been posted here to guard the place.  He doesn't 
+look like he really knows what he is doing, however.
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41701
+carrion crawler~
+a carrion crawler~
+A disgusting carrion crawler is rooting through the garbage here.
+~
+This wormlike creature resembles a huge centipede, but is much nastier.  It 
+has long slimy tentacles.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41702
+goblin sergeant~
+a goblin sergeant~
+A goblin sergeant is here, bossing around the guards.
+~
+This goblin is somewhat larger than average.  He is fairly well armed and 
+looks pretty strong.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+9 0 2 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41703
+female goblin~
+a female goblin~
+A female goblin is here, staring stupidly at you.
+~
+This female goblin is every bit as ugly as the males.  She is wearing some 
+old rags, and is staring at you presently, with a stupid glazed look in her 
+eyes.
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41704
+goblin child~
+a goblin child~
+A goblin child is here, drooling all over itself.
+~
+This goblin is very young and weak.  It is small and naked, and at the moment 
+drooling al over the place.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41705
+goblin torturer~
+a goblin torturer~
+A goblin torturer is here, examining a torture device.
+~
+This goblin is dressed in black leather and has a sadistic leer on his face. 
+ He oblviously enjoys his work.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+10 0 2 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41706
+feylar prisoner~
+a feylar prisoner~
+A feylar prisoner is chained up here.
+~
+This feylar is haggard and covered by many scars.  It looks like he has been 
+here for a long time, and tortured constantly.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41707
+elf prisoner~
+an elf prisoner~
+An elf prisoner is here, chained to the wall.
+~
+This elf is convered by many scars, and his face is a bloody mess.  He 
+doesn't look too healthy at all.
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41708
+slime mold~
+a slime mold~
+A slime mold is clinging to the wall here.
+~
+This pile of grey ooze is alive, and is making its way toward you slowly.
+~
+0
+Clanname none~
+0
+0
+65 8 0 C
+6 0 3 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41709
+trainee goblin~
+a goblin trainee~
+A goblin is training to be a guard here.
+~
+This young goblin is quite well built (for a goblin) and is currently 
+practicing his weapon skills.
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41710
+goblin weaponmaster~
+a goblin weaponmaster~
+A goblin weaponmaster is here, instructing trainees.
+~
+This goblin is well armed, and looks like he knows what he is doign with his 
+weapons.  He is currently instructing the trainees.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+11 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41711
+bodyguard goblin~
+a goblin bodyguard~
+A goblin bodyguard is sharpening his weapon here.
+~
+This huge goblin is well armed and looks like one tough customer.  It is 
+obviously his job to guard someone or something.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41712
+huge goblin~
+a huge goblin leader~
+A huge goblin is here, barking orders at the guards.
+~
+This goblin is huge and powerful looking.  He has dark green skin, and small 
+fangs protrude from his mouth.  He is finely dressed (for a goblin) and well 
+armed.  He has an unusual gleam of intelligence in his eyes.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+12 1 -3 3d5+69 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41713
+goblin shaman~
+a goblin shaman~
+A goblin shaman is working his voodoo here.
+~
+This goblin seems fanatical about his religious beliefs.  He has bone
+ornaments all over him, and is shaking around a bone scepter.  Madness shows
+in his eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+12 0 0 2d5+55 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41714
+elf scar 41714 ex-prisoner~
+an elf covered with scars~
+An elf covered with scars is here.
+~
+This elf is convered by many scars, and his face is a bloody mess.  He 
+doesn't look too healthy at all.
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#41715
+scarred feylar 41715 ex-prisoner~
+a scarred feylar~
+A scarred feylar is here.
+~
+This feylar is haggard and covered by many scars.  It looks like he has been 
+tortured for a long time.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#41700
+studded leather armor~
+some studded leather armor~
+Some studded leather armor has been left here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41700 studded leather armor~
+A set of nice leather armor with metal studs.
+~
+#41701
+rusty old short sword~
+a rusty old shortsword~
+A rusty old shortsword has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41701 old rusty short sword~
+This old sword has seen better days.
+~
+#41702
+rusty old longsword sword~
+a `#`yrusty`^ old longsword~
+A `#`yrusty`^ old longsword has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41702 rusty old longsword~
+This longsword has seen better days.
+~
+#41703
+old rags~
+some old rags~
+Some old rags have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 7 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41703 old rags~
+Some old rags, formerly nice clothing, but now worthless.
+~
+#41704
+long leather whip~
+a long leather whip~
+A long leather whip has been left here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41704 long leather whip~
+This whip is made from leather and is very long.
+~
+#41705
+black leather vest~
+a `#`Sblack`^ leather vest~
+A `#`Sblack`^ leather vest has been left here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 205 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41705 black leather vest~
+A nice sturdy black leather vest.
+~
+#41706
+wooden sword~
+a wooden sword~
+A wooden sword has been left here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 60 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41706 wooden sword~
+A sturdy wooden sword, probably used for training.
+~
+#41707
+curved longsword sword~
+a curved longsword~
+A curved longsword has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 222 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41707 curved longsword~
+a curved longsword of fairly decent make.
+~
+#41708
+sharp broadsword sword~
+a sharp broadsword~
+A sharp broadsword has been left here.~
+~
+5 0 4
+1 14 24 8 0 0 0
+1 262 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41708 sharp broadsword~
+An extremely sharp broadsword.
+~
+#41709
+steel ringmail~
+a `#`Ssteel`^ ringmail~
+A `#`Ssteel`^ ringmail has been left here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 325 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41709 steel ringmail~
+A nicely made steel ringmail armor.
+~
+#41710
+jagged-edged sword~
+a jagged-edged sword~
+A jagged-edged sword has been left here.~
+~
+5 0 4
+2 7 16 8 0 0 0
+1 355 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41710 jagged-edged sword~
+This sword looks very deadly.
+~
+#41711
+pile coins~
+a pile of coins~
+A pile of coins lies here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41712
+old steel bracer~
+an old `#`ssteel`^ bracer~
+An old `#`Ssteel`^ bracer lies here.~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41712 old steel bracer~
+This old steel bracer is corroded but still looks usable.  It looks like
+it might have once been a fine peice of armor.  
+~
+#41713
+old steel neckguard~
+an old `#`Ssteel`^ neckguard~
+An old `#`Ssteel`^ neckguard has been left here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41714
+bone sceptre~
+a `#`Wbone`^ sceptre~
+A `#`Wbone`^ sceptre has been left here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 280 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41714 bone sceptre~
+A long heavy bone sceptre, the artifact of some barbaric religion.
+~
+#41715
+small sacrificial dagger~
+a small sacrificial dagger~
+A small sacrificial dagger has been left here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 222 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41715 small sacrificial dagger~
+This small dagger is covered with dried blood, and has small barbaric 
+religious symbols.  
+~
+#41716
+rusty old axe~
+a `#`yrusty`^ old axe~
+A `#`yrusty`^ old axe has been left here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41716 rusty old axe~
+A rusty old axe.  Nothign special about it.
+~
+#41717
+matrix ring~
+a matrix ring~
+A ring with interwoven gold threads lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 145 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41718
+polished silver earring~
+a `#`Spolished silver`^ earring~
+A `#`Spolished silver`^ earring is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 88 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41719
+black mask~
+a `#`Sblack`^ mask~
+A `#`Sblack`^ mask has been left here.~
+~
+11 16 8
+0 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41720
+arcane book forging~
+a wicked book of forging~
+A wicked book of forging lies here with a magical shield protecting it.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+41720 book wicked forging arcane~
+A book of forging lies here, going well with one skilled in forging.. or 
+forgery... 
+~
+#0
+
+
+#ROOMS
+#41700
+Cave~
+~
+You are just inside the entrance of a rough cave.  There is not much light 
+here from the outside, but a torch firmly attached to the wall provides 
+enough to see by.  You can go east, out of the cave, or west, deeper into the 
+earth.  You hear noises from that direction.
+~
+1 12 11
+D3
+Cave.
+~
+~
+0 0 41701
+E
+noises~
+Low voices in a strange language.
+~
+E
+torch~
+A mostly burnt torch is attached to the wall.
+~
+S
+#41701
+Cave~
+~
+The cave continues east here, or to the west opens up into a larger cavern. 
+You can hear noise and voices from that direction, while to the east it is 
+silent.  A torch is firmly attached to the wall, providing a little light.
+~
+1 8 11
+D1
+Cave.
+~
+~
+0 0 41700
+D3
+A wide cavern.
+~
+~
+0 0 41702
+R M 0 41700 18 41701
+  R E 0 41700 0 5
+  R E 0 41716 0 16
+R M 0 41700 18 41701
+  R E 0 41700 0 5
+  R E 0 41712 0 15
+  R E 0 41716 0 16
+E
+noise~
+Guttural voices and strange sounds.
+~
+E
+torch~
+An old torch is attached to the wall here.
+~
+S
+#41702
+Cavern~
+~
+You are in a huge cavern, which appears to be natural rather than created. 
+The walls are very rough, with many protrusions that cast strange shadows 
+from the torches placed here.  There is a small hole in the ceiling through 
+which smoke can escape, which is a good thing as there is a fire burning 
+brightly in the center of the room.  Scattered around on the floor is a lot 
+of garbage, including scraps of old meat, clothing, and armor.  There are
+exits to the west, northwest, north, northeast, east, and south.
+~
+1 8 11
+D0
+Cave.
+~
+~
+0 0 41704
+D1
+Cave.
+~
+A small cave.~
+0 0 41701
+D2
+Cave.
+~
+~
+0 0 41706
+D3
+Cave.
+~
+~
+0 0 41714
+D6
+Garbage Room.
+~
+~
+0 0 41703
+D9
+Cave.
+~
+~
+0 0 41716
+R M 0 41703 6 41702
+  R E 0 41703 0 5
+R M 0 41703 6 41702
+  R E 0 41703 0 5
+R M 0 41704 5 41702
+  R E 0 41703 0 5
+R M 0 41704 5 41702
+  R E 0 41703 0 5
+R M 0 41700 18 41702
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+E
+fire hole~
+A small hole is in the ceiling above the fire.
+~
+E
+noise~
+Voices and metal clanging.
+~
+E
+torch~
+A fire burns brightly in the center of the room.  You see some bones within 
+it.  There is a hole in the ceiling above to let out smoke.
+~
+S
+#41703
+Garbage Room~
+~
+This room appears to be where the inhabitants throw all their garbage. 
+It is more a pit than a room, and is full of all sorts of rotting and 
+disgusting things.  The only exit is southwest.
+~
+1 8 0
+D8
+Cavern.
+~
+A large cavern.~
+0 0 41702
+R M 0 41701 2 41703
+E
+garbage~
+Rotting meat, bones, scraps of cloth and metal.
+~
+S
+#41704
+Cave~
+~
+This short cave merely connects a small room to the north with a huge cavern 
+to the south.  The walls are rough, and it is illuminated by a 
+torch firmly attached to the wall.
+~
+1 8 11
+D0
+Barracks.
+~
+~
+0 0 41705
+D2
+Cavern.
+~
+~
+0 0 41702
+E
+torch~
+An old torch is firmly attached to the wall.
+~
+S
+#41705
+Barracks~
+~
+This relatively small room appears to be the quarters of whatever creatures 
+guard this place.  The walls are carved from the rough stone, and the room is 
+illuminated by a few torches.  You see about a dozen rough pallets made from 
+dirty straw and old rags, and there are a few odd weapon racks along the 
+walls.  The only exit is south.
+~
+1 8 0
+D2
+Cave.
+~
+A small cave.~
+0 0 41704
+R M 0 41700 18 41705
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+R M 0 41700 18 41705
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+R M 0 41702 2 41705
+  R E 0 41700 0 5
+  R E 0 41702 0 16
+R M 0 41709 4 41705
+  R E 0 41700 0 5
+  R E 0 41706 0 16
+E
+weapon racks~
+Old wooden racks for hanging weapons.  They are empty.
+~
+E
+pallets rags straw~
+Very dirty beds, made of old straw and rags.
+~
+S
+#41706
+Cave~
+~
+This short cave serves no purpose but to link the huge cavern to the north 
+with a smaller room to the south.  There is a torch on the wall.
+~
+1 8 11
+D0
+Cavern.
+~
+A large cavern is this way.~
+0 0 41702
+D2
+Torture Room.
+~
+~
+0 0 41707
+E
+torch~
+A torch is firmly attached to the wall.
+~
+S
+#41707
+Torture Room~
+~
+This appears the be the room in which the denizens of this foul place torture 
+the poor creatures that are unfortunate enough to fall into their clutches.  
+You see various painful-looking torture devices around the room. There are 
+several torches on the walls, and exits lead north and
+west.
+~
+1 8 0
+D0
+Cave.
+~
+A cave leads north.~
+0 0 41706
+D3
+Cave.
+~
+~
+0 0 41708
+R M 0 41705 2 41707
+  R E 0 41704 0 16
+  R E 0 41705 0 5
+  R E 0 41719 0 28
+E
+torch~
+A torch attached to the wall.
+~
+E
+torture device~
+A rack, and iron maiden, and various other devices.
+~
+S
+#41708
+Cave~
+~
+This small cave leads west into the darkness, or east into a larger room.  
+There are doors to the north and south.
+~
+1 8 11
+D0
+Cell.
+~
+cell door~
+1 0 41710
+D1
+Torture Room.
+~
+~
+0 0 41707
+D2
+Cell.
+~
+cell door~
+1 0 41713
+D3
+Cave.
+~
+A cave goes west into darkness.~
+0 0 41709
+E
+door~
+Rotting old doors.
+~
+S
+#41709
+Cave~
+~
+The small cave leads east into the darkness, but to the west runs into a dead 
+end.  There are doors on the north and south sides.
+~
+1 8 11
+D0
+Cell.
+~
+cell door~
+1 0 41711
+D1
+Cave.
+~
+~
+0 0 41708
+D2
+Cell.
+~
+cell door~
+1 0 41712
+S
+#41710
+Cell~
+~
+You are in a small cell carved from the stone.  There is nothing here but 
+some old bones.  The exit is south.
+~
+1 8 0
+D2
+Cave.
+~
+cell door~
+1 0 41708
+E
+bones~
+Old bones, of a human or something similar in build.
+~
+S
+#41711
+Cell~
+~
+You are in a small cell carved from the stone.  There is nothing here but 
+some old bones.  The exit is south.
+~
+1 8 0
+D2
+Cave.
+~
+cell door~
+1 0 41709
+R M 0 41707 2 41711
+  R E 0 41703 0 5
+E
+bones~
+Old bones, of some poor human.
+~
+S
+#41712
+Cell~
+~
+You are in a small cell carved from the stone.  There is nothing here but 
+some old bones.  The exit is north.
+~
+1 8 0
+D0
+Cave.
+~
+cell door~
+1 0 41709
+R M 0 41708 2 41712
+E
+bones~
+Old bones, from some poor creature.
+~
+S
+#41713
+Cell~
+~
+You are in a small cell carved from the stone.  There is nothing here but 
+some old bones.  The exit is north.
+~
+1 8 0
+D0
+Cave.
+~
+cell door~
+1 0 41708
+R M 0 41706 2 41713
+  R E 0 41703 0 5
+E
+bones~
+Old bones, from some poor creature.
+~
+S
+#41714
+Cave~
+~
+This short cave connects a huge cavern to the east with a smaller room to the 
+west.  There is a torch firmly attached to the wall.
+~
+1 8 11
+D1
+Cavern.
+~
+~
+0 0 41702
+D3
+Training Room.
+~
+~
+0 0 41715
+E
+torch~
+.
+~
+E
+bones~
+An old torch is attached firmly to the wall.
+~
+S
+#41715
+Training Room~
+~
+This appears to be a training room of some type.  There are some practice 
+dummies vaguely shaped like humans, with all the critical areas marked.  
+Broken wooden swords and other worthless garbage litter the floor.
+~
+1 8 0
+D1
+Cave.
+~
+~
+0 0 41714
+R M 0 41700 18 41715
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+R M 0 41709 4 41715
+  R E 0 41700 0 5
+  R E 0 41706 0 5
+R M 0 41709 4 41715
+  R E 0 41700 0 5
+  R E 0 41706 0 5
+R M 0 41710 2 41715
+  R E 0 41707 0 16
+  R E 0 41700 0 5
+S
+#41716
+Cave~
+~
+This narrow cave connects a large cavern to the southeast to a smaller
+room to the northwest.  A torch is firmly attached to the wall.  There is a
+door in the north wall.  
+~
+1 8 11
+D0
+~
+door~
+1 0 41720
+D7
+Cavern.
+~
+~
+0 0 41702
+D9
+Antechamber.
+~
+~
+0 0 41717
+S
+#41717
+Antechamber~
+~
+This small room is more nicely appointed, and has less garbage lying around 
+than the caverns to the southeast.  A few old tapestries cover the walls, and 
+the fur of some creature covers the ground.  Several torches provide 
+illumination.  You can exit to the southeast or northwest.
+~
+1 8 0
+D7
+Cave.
+~
+~
+0 0 41716
+D9
+Fine Quarters.
+~
+~
+0 0 41718
+R M 0 41700 18 41717
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+R M 0 41700 18 41717
+  R E 0 41700 0 5
+  R E 0 41701 0 16
+  R E 0 41712 0 15
+E
+fur~
+A carpet made form the hide of some huge hairy beast.
+~
+E
+torch~
+Old torches line the walls.
+~
+E
+tapestr~
+Old cloth tapestries.  They are a little rotten.
+~
+S
+#41718
+Fine Quarters~
+~
+This room is richly furnished in all ways.  There are nice fur rugs covering 
+the stone floor, and large tapestries cover the walls.  A few chairs are 
+placed around a wooden table, and a soft bed sits against the wall.  There 
+are curtains all along the northwest wall, and the only exit that you can see 
+is southeast.
+~
+1 8 0
+D7
+Antechamber.
+~
+~
+0 0 41717
+D9
+Secret Room.
+~
+curtain~
+1 0 41719
+R M 0 41711 5 41718
+  R E 0 41713 0 3
+  R E 0 41700 0 5
+  R E 0 41708 0 16
+R M 0 41711 5 41718
+  R E 0 41713 0 3
+  R E 0 41700 0 5
+  R E 0 41708 0 16
+R M 0 41712 2 41718
+  R E 0 41718 0 26
+  R E 0 41709 0 5
+  R E 0 41710 0 16
+R M 0 41703 6 41718
+  R E 0 41703 0 5
+E
+fur~
+Dark brown fur from some huge beast makes up these fine carpets.
+~
+E
+tapest~
+Fine tapestries cover the walls.
+~
+E
+torch~
+Dark brown fur from some huge beast makes up these fine carpets.
+~
+S
+#41719
+Secret Room~
+~
+This secret room apparently holds the wealth of the goblin leader.  It is 
+very plain, with no decorations or objects other than a few shelves. A 
+curtain blocks the way southeast.
+~
+1 8 0
+D7
+Fine Quarters.
+~
+curtain~
+1 0 41718
+R O 0 41711 0 41719
+E
+shelf shelves~
+Old wood shelves.
+~
+S
+#41720
+Small Quarters~
+~
+These quarters are small, but somewhat finely furnished.  There is some
+wooden furniture, including a bed and a few chairs, and a stone table.  A
+few barbaric looking religious items are lying around.  
+~
+1 8 0
+D2
+~
+door~
+1 0 41716
+R M 0 41713 1 41720
+  R E 0 41714 0 16
+  R G 0 41715 0
+R O 0 41720 0 41720
+E
+furniture wooden stone table chair bed~
+Plain wooden and stone furniture.
+~
+E
+barbaric religious items~
+Various items made from bone mostly.
+~
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

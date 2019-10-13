@@ -1,0 +1,1850 @@
+#AREA        Slime Kingdom~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12315
+small red slime~
+a small red slime~
+A small red slime lays here.
+~
+A small red slime looks right back at you with eyes that do not exist.  You 
+wonder if it really knows you're there and hope it isn't aggressive, as it 
+looks strangely dangerous.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+10 1 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12316
+medium red slime~
+a medium-sized red slime~
+A medium-sized, red slime sucking on a skull.
+~
+A medium-sized, slime sucking on his favourite skull which looks vaguely 
+familiar.  Maybe its one of your friends?  These red slime types seem to be 
+overly aggressive.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+15 1 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12317
+large red slime~
+a large red slime~
+A large red slime lies here ready to suck your brains out.
+~
+A large, red slime looks ready to jump and suck your brains out.  How a 
+slime jumps is beyond you but it looks like this slime could do it.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+16 2 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12318
+huge red slime~
+a huge red slime~
+A huge red slime sliding along the ground.
+~
+A huge red slime slides effortlessly towards you.  If slimes could smile 
+this one would, and he looks ready to slide over you.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+17 2 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12319
+enormous red slime~
+a enormous red slime~
+An enormous red slime sitting in its bowl.
+~
+An enormous red slime lays here in its bowl.  It looks somehow content and 
+all to sure of itself.  Almost like nothing has challenged this massive 
+blob of disgust for many years.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+34 4 -20 5d9+275 5d8+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12320
+small green slime~
+a small green slime~
+A small green slime lies here.
+~
+A small green slime lies here looking bored for a slime.  Maybe it just 
+wishes it could suck on your skull and wants to grow up to be as big as his 
+larger buddies.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+10 1 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12321
+medium-sized green slime~
+a medium-sized green slime~
+A medium-sized green slime oozing residue.
+~
+A medium-sized green slime is laying out a beautiful trail of residue 
+behind it and looks about ready to lay it right over your head.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+13 1 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12322
+large green slime~
+a large green slime~
+A large green slime looking disgusting.
+~
+A large green slime seems to think you'll taste great for lunch.  It is at 
+least double your size and seems to want to go for triple or nothing.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+18 2 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12323
+enormous green slime~
+a enormous green slime~
+An enormous green slime in its bowl.
+~
+An enormous green slime is laying in its bowl.  It looks rather content and 
+well fed.  For some reason it seems to be looking you over even though it 
+apparently has no sensory apparatus.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+36 4 -20 5d9+275 5d8+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12324
+huge green slime~
+a huge green slime~
+A huge green slime smelling bad.
+~
+A huge green slime seems to have no interest what so ever in its safety as 
+it just lazily moves around.  This is very scary for some reason to you.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+21 2 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12325
+small blue slime~
+a small blue slime~
+A small blue slime smiling like only a slime can.
+~
+A small blue slime is smiling at you with its non-existant mouth.  All 
+these slimes give you the creeps because of their nonchalant behaviour.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+10 1 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12326
+medium-sized blue slime~
+a medium-sized blue slime~
+A medium-sized blue slime, floating on the ground.
+~
+A medium-sized blue slime is effortlessly floating on the ground.  Actually 
+it is sliding but the lack of friction makes it look like it is floating.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+15 1 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12327
+large blue slime~
+a large blue slime~
+A large blue slime gurgling happily.
+~
+A large blue slime gurgles happily on some piece of flesh probably.  You 
+wonder how something so disgusting could do something that is usually 
+associated with being cute or funny.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+18 2 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12328
+huge blue slime~
+a huge blue slime~
+A huge blue slime sucking on a rib.
+~
+A huge blue slime seems to be contently picking at its teeth with a rib but 
+I guess it would help if the slime had teeth.  In fact all you see is a rib 
+floating inside the slime.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+25 2 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12329
+enormous blue slime~
+an enormous blue slime~
+An enormous blue slime laying in its bowl.
+~
+An enormous blue slime seems rather happy in its bowl.  Considering this 
+bowl it is in is rather wide and large you can see why. It seems proud of 
+the pile of bones beside it.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+46 4 -20 5d9+275 5d8+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12330
+small yellow slime~
+a small yellow slime~
+A small yellow slime serving the other slimes.
+~
+A small yellow slime seems to be the lowest rank in the chain of slimes.  
+This is the first slime you have seen that seems discontented.
+~
+0
+Clanname none~
+0
+0
+129 32 -400 C
+10 1 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12331
+medium-sized yellow slime~
+a medium-sized yellow slime~
+A medium-sized yellow slime looking unhappy for a slime.
+~
+This slime seems to you more like a big puddle of urine and smells the same 
+too.  You hope you don't accidently step on this slime.
+~
+0
+Clanname none~
+0
+0
+129 32 -400 C
+15 1 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12332
+large yellow slime~
+a large yellow slime~
+A large yellow slime acting as a slave.
+~
+A large yellow slime seems to be a slave only to the highest sized of the 
+slimes.  Most of the smaller slimes seem to be jealous.
+~
+0
+Clanname none~
+0
+0
+129 32 -400 C
+18 2 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12333
+huge yellow slime~
+a huge yellow slime~
+A huge yellow slime looking rather bored.
+~
+A huge yellow slime seems rather bored with its existence.  With nothing 
+eat currently it seems to use its time just sitting around taking up space.
+~
+0
+Clanname none~
+0
+0
+129 32 -400 C
+25 2 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12334
+enormous yellow slime~
+an enormous yellow slime~
+An enormous yellow slime lying in its bowl.
+~
+An enormous yellow slime master of the slave slimes seems to not mind its 
+job description too much.  With the pile of bones to its left its no wonder 
+this slime looks well fed.  
+~
+0
+Clanname none~
+0
+0
+129 32 -400 C
+44 4 -20 5d9+275 5d8+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12335
+king slime~
+the king slime~
+The king of the slimes lays here in its throne bowl.
+~
+The King of the Slimes is almost purely transparent and seems to be the 
+only one of its kind.  It looks smart for a slime and is easily the largest 
+creature you have ever seen.  This Slime by the looks of it could swallow 
+your city.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+90 5 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12336
+thing~
+the thing~
+A thing.
+~
+This thing is nothing but to be called a thing.  It has no eyes yet it 
+sees, no ears but it hears, its face has no features and it keeps making 
+this low frequency noise.  What is this thing?.
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+67 2 -46 8d11+390 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12337
+albino slime~
+an albino slime~
+An albino slime laying completely still.
+~
+This seems to be some weird breed of guard slime.  Sitting completely 
+motionless in its special bowl it has an air of something not to mess with.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+29 2 -12 5d6+215 4d7+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12315
+long handled bone key~
+a long handled bone key~
+A long handled bone key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12315 long handled bone key~
+This key is carved from bone, and is rather long.
+~
+#12316
+broken old statue~
+a broken old statue~
+A broken old statue is lying on its side here.~
+~
+15 0 8
+5 0 500 100 0 0 0
+40 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12316 broken old statue~
+The statue is old and broken.  It seems that the hand might be grasping 
+something, and can be opened.
+~
+#12317
+orb power~
+an `#`Corb of power`^~
+An `#`Corb of power`^ has been left here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12317 orb power~
+This large orb is seemingly made of enrgy, or raw magic.  It glows with a 
+near-blinding light.  
+~
+#0
+
+
+#ROOMS
+#12315
+Standing above a Hole in the Ground~
+~
+This field looks the same as any other except for the fact that there is a 
+hole just big enough for you to fit into in the ground.  It looks rather 
+dark and the smell is, well disgusting!  The plains stretch out to the west,
+while a forest lies just east.
+~
+1 0 2
+D5
+Inside the hole.
+~
+~
+0 0 12316
+S
+#12316
+Inside a Hole~
+~
+Splash, what is that smell?  The area around you reminds you of a river 
+except that this river is brown and has floating chunks of something you'd 
+rather not think about.  To the east and west lead tunnels to God knows 
+what?  Since your already smelling like this place you might as well head 
+in one of the directions.
+~
+1 9 0
+D1
+Eastern Tunnel.
+~
+~
+0 0 12317
+D3
+Western Tunnel.
+~
+~
+0 0 12322
+D4
+Standing above a hole in the ground.
+~
+~
+0 0 12315
+S
+#12317
+Eastern Tunnel~
+~
+The smell seems to be a little less harsh here and there aren't as many 
+chunks of that unknown smelly substance.  You spy a hole in the wall to the 
+far east of here.  You can head east or west.
+~
+1 9 0
+D1
+The tunnel continues.
+~
+~
+0 0 12318
+D3
+Inside the hole.
+~
+~
+0 0 12316
+S
+#12318
+Eastern Tunnel~
+~
+You can now take deep breaths without gagging and there are no more 
+floating chunks.  It seems kind of odd that the chunks just disappeared.  
+You can see light coming from a hole in the wall to the east.  You can also 
+head back west.
+~
+1 9 0
+D1
+The tunnel continues.
+~
+~
+0 0 12319
+D3
+Eastern Tunnel.
+~
+~
+0 0 12317
+R O 0 50050 0 12318
+S
+#12319
+Eastern Tunnel, Beside a Hole in the Wall~
+~
+Wow the smell is gone!  It appears to be fairly dry here and the light that 
+you saw before seems to have gone.  The hole seems to lead to a door which 
+looks rather large.  A sign is posted on the door but you're too far to read 
+it.
+~
+1 9 0
+D1
+A hole.
+~
+~
+0 0 12320
+D3
+Eastern Tunnel.
+~
+~
+0 0 12318
+S
+#12320
+Inside a Dark Passage~
+~
+Everything is black here and the whole room reaks of magic.  The walls 
+appear to be there when you touch them but once you take your hand away it's 
+as if your walking in darkness.  A huge iron bolted door is before you and 
+the sign appears to be half rusted away.  
+~
+1 9 0
+D1
+A door.
+~
+door~
+33 12315 12321
+D3
+Eastern Tunnel beside a hole in the wall.
+~
+~
+0 0 12319
+E
+sign~
+Ghargihg Nooan Freesnl!!!
+\/\/\/\/\/\/\/\/\/\/\/\/
+/\/\/\/\/\/\/\/\/\/\/\/\
+Ghargihg Nooan Freesnl!!!
+\/\/\/\/\/
+/\/\\
+Gha.
+~
+S
+#12321
+Inside the Prison Cell~
+~
+You in what appears to be a Prison Cell but everything in it seems rather 
+ancient.  A clay bowl which looks like it was used for serving food is 
+broken on the dirt floor and a set of shackles lay rusted and broken on a 
+nail.  What could possibly have deserved this horrible imprisonment?.
+~
+1 9 0
+D3
+Inside a Dark Passage.
+~
+door~
+33 12315 12320
+R M 0 12336 1 12321
+S
+#12322
+Western Tunnel~
+~
+The smell if this is possible seems to be getting worse.  You feel 
+something brush against you but it was probably just one of those chunks of 
+unknown substance.  You can continue west or head back east.
+~
+1 9 0
+D1
+Inside the hole.
+~
+~
+0 0 12316
+D3
+Split in the Tunnel.
+~
+~
+0 0 12323
+S
+#12323
+Split in the Tunnel~
+~
+It seems that out of nowhere this tunnel now splits to the northwest and 
+southwest.  The smell seems stronger to the southwest and a bluish light is 
+coming from the northwest.  You can also head back east.
+~
+1 9 0
+D1
+Western Tunnel.
+~
+~
+0 0 12322
+D8
+South-Western Tunnel.
+~
+~
+0 0 12324
+D9
+A tunnel.
+~
+~
+0 0 12326
+S
+#12324
+South-Western Tunnel~
+~
+The smell is causing you to wish you hadn't eaten recently and things keep 
+brushing against your body.  Slime is everywhere and in many different 
+colours and shades.  You can keep heading southwest or turn back northeast.
+~
+1 13 0
+D6
+Split in the Tunnel.
+~
+~
+0 0 12323
+D8
+The tunnel continues.
+~
+~
+0 0 12325
+S
+#12325
+Entrance to the Slime Kingdom~
+~
+You have entered what looks like a desert's worse nightmare.  Slime is 
+everywhere and its not just sitting and looking pretty, its moving and 
+seems to be intelligent.  All around you are blue, green, yellow and red 
+slimes and they don't look to pleased that your here.  You can feel 
+non-existant eyes on you.  At least it isn't dark anymore.
+~
+1 8 1
+D5
+Bowl of Slime.
+~
+~
+0 0 12328
+D6
+South-Western Tunnel.
+~
+~
+0 0 12324
+R M 0 12330 13 12325
+R M 0 12330 13 12325
+R M 0 12327 9 12325
+R M 0 12316 10 12325
+S
+#12326
+North-Western Tunnel~
+~
+The smell is completely gone, and you clean out your nasal cavities 
+thankfully.  This tunnel has the feeling of cleansiness which is odd 
+considering what you just walked through.  What looks like a temple 
+is to the west.
+~
+1 13 0
+D3
+A temple.
+~
+~
+0 0 12327
+D7
+Split in the Tunnel.
+~
+~
+0 0 12323
+S
+#12327
+Ancient Temple in Ruins~
+~
+You have entered a place that once was beautiful but now is ruins.  The 
+statue of some forgotten god lies broken on its side.  Its hand grasping 
+some unseen object.  This was obviously a place of worship and goodness but 
+now it is just a place of dust and time.  There are no exits except back 
+whence you came.
+~
+1 12 0
+D1
+North-Western Tunnel.
+~
+~
+0 0 12326
+R O 0 12316 0 12327
+  R P 0 12315 1 12316
+S
+#12328
+Bowl of Slime~
+~
+It seems that these slime creatures move around simple by sliding along 
+stone half-tunnels.  Slime is still everywhere and to the north you can see 
+a rather large mound of dirt covered in slime residue.  You can also head 
+east or west along the slime roads/half-tunnels.
+~
+1 8 1
+D0
+Northern Slime Road.
+~
+~
+0 0 12329
+D1
+Eastern Slime Road near the Wall.
+~
+~
+0 0 12334
+D3
+Western Slime Road near the Wall.
+~
+~
+0 0 12339
+D4
+A tunnel leads up.
+~
+~
+0 0 12325
+R M 0 12332 6 12328
+R M 0 12322 9 12328
+R M 0 12321 9 12328
+R M 0 12321 9 12328
+R M 0 12315 14 12328
+S
+#12329
+Northern Slime Road~
+~
+This Slime road seems to be a little wider then the rest and in the 
+distance you can see many different coloured slimes heading in and out of 
+the mound to the north.  You look up for the first time and notice that 
+there is no ceiling but just a lake bottom which is somehow magically held 
+in place?  You can keep heading north or head east into what looks like a 
+room of some sort in a smaller looking mound.
+~
+1 8 1
+D0
+Northern Slime Road #2.
+~
+~
+0 0 12331
+D2
+Bowl of Slime.
+~
+~
+0 0 12328
+R M 0 12317 5 12329
+R M 0 12325 15 12329
+R M 0 12325 15 12329
+R M 0 12321 9 12329
+R M 0 12330 13 12329
+S
+#12330
+Slime Eating Area~
+~
+You now have a pretty good idea of where the smell was coming from as you 
+see the decomposing bones of many different races lying in pile ontop of 
+pile in this mound.  There is not a piece of flesh anywhere but the stench 
+is definately there.  These slimes seem to have one purpose in life and 
+that is to eat you.  The exit is west.
+~
+1 8 0
+D3
+~
+~
+0 0 12331
+R M 0 12322 9 12330
+R M 0 12318 6 12330
+R M 0 12318 6 12330
+R M 0 12330 13 12330
+R M 0 12330 13 12330
+R M 0 12330 13 12330
+S
+#12331
+Northern Slime Road~
+~
+This is pretty much the same as to the south of you except for the fact 
+that the mound is a little closer.  To the west is a smaller mound and to 
+the north the road continues until it hits the large mound.
+~
+1 8 1
+D0
+Northern Slime Road #3.
+~
+~
+0 0 12333
+D1
+~
+~
+0 0 12330
+D2
+Northern Slime Road.
+~
+~
+0 0 12329
+D3
+Slime Reproduction Area.
+~
+~
+0 0 12332
+R M 0 12332 6 12331
+R M 0 12332 6 12331
+R M 0 12327 9 12331
+R M 0 12320 17 12331
+R M 0 12316 10 12331
+S
+#12332
+Slime Reproduction Area~
+~
+Ewwwwww!  This seems to be where some of the human flesh went.  It seems 
+that the slimes reproduce by laying baby slimes inside the heads of its 
+victims.  All around the room are the half decomposed heads of who knows 
+what with little slimes throbbing inside them.  You can exit east.
+~
+1 8 0
+D1
+Northern Slime Road #2.
+~
+~
+0 0 12331
+R M 0 12315 14 12332
+R M 0 12315 14 12332
+R M 0 12315 14 12332
+R M 0 12315 14 12332
+R M 0 12330 13 12332
+R M 0 12330 13 12332
+R M 0 12330 13 12332
+R M 0 12330 13 12332
+R M 0 12320 17 12332
+R M 0 12320 17 12332
+R M 0 12320 17 12332
+R M 0 12320 17 12332
+R M 0 12325 15 12332
+R M 0 12325 15 12332
+R M 0 12325 15 12332
+R M 0 12325 15 12332
+S
+#12333
+Northern Slime Road~
+~
+All the slimes seem to be gone now, either in the large mound or off 
+hunting for who knows what.  The smell seems rather strange now but you 
+can't put your finger on it.  Just to the north is the entrance to the 
+large mound and to the east and west lead separate slime roads.  You or 
+having second thoughts about entering this mound covered in slime because 
+it smells so DAMN BAD!.
+~
+1 8 1
+D0
+Entrance to Slime Palace.
+~
+~
+0 0 12361
+D2
+Northern Slime Road #2.
+~
+~
+0 0 12331
+S
+#12334
+Eastern Slime Road near the Wall~
+~
+You heading along one of the slime roads and to your immediate south is 
+some kind of hardened slime.  It looks fragile from a distance but when you 
+touch it you have second thoughts about its texture.  To the east the road 
+continues while north there seems to be a lot of red slime in a small 
+mound.
+~
+1 8 1
+D0
+Red Slime Mound.
+~
+~
+0 0 12335
+D1
+Eastern Slime Road near a Wall.
+~
+~
+0 0 12337
+D3
+Bowl of Slime.
+~
+~
+0 0 12328
+R M 0 12324 2 12334
+R M 0 12328 3 12334
+R M 0 12315 14 12334
+R M 0 12316 10 12334
+S
+#12335
+Red Slime Mound~
+~
+There is RED slime everywhere.  Its almost as if within the slime society 
+status is based on slime colour?  There are large and small slimes sliding 
+everywhere and some sort of doorway to the east.  You can leave south.
+~
+1 8 0
+D1
+Red Slime Room.
+~
+~
+0 0 12336
+D2
+Eastern Slime Road near the wall.
+~
+~
+0 0 12334
+R M 0 12317 5 12335
+R M 0 12316 10 12335
+R M 0 12316 10 12335
+R M 0 12316 10 12335
+S
+#12336
+Red Slime Room~
+~
+This seems to be where the head slime resides.  A huge bowl obviously meant 
+for a slime to sit, er rest, or whatever slimes do is in the middle of the 
+room.  The smell is not nearly as bad here and it seems that the bigger 
+slime is the more respect it gets.
+~
+1 8 0
+D3
+Red Slime Mound.
+~
+~
+0 0 12335
+R M 0 12319 3 12336
+S
+#12337
+Eastern Slime Road near the Wall~
+~
+Why does everything have to smell so bad?  The slimes seem very angered by 
+your presence and seem to travel in herds of their own colour or size.  You 
+can continue east or west.
+~
+1 8 1
+D1
+South-East Corner of Slime Kingdom.
+~
+~
+0 0 12338
+D3
+Eastern Slime Road near the wall.
+~
+~
+0 0 12334
+R M 0 12326 3 12337
+R M 0 12325 15 12337
+R M 0 12325 15 12337
+R M 0 12318 6 12337
+S
+#12338
+South-East Corner of Slime Kingdom~
+~
+You have reached a corner of the Slime Kingdom and it is very dark here as 
+for some reason the shadows seem to cross here.  There is slime residue of 
+a colour you don't recall seeing before and it appears to be almost black 
+and it feels very oily.  You can head north or west.
+~
+1 9 1
+D0
+Dry Path heading north.
+~
+~
+0 0 12351
+D3
+Eastern Slime Road near the Wall.
+~
+~
+0 0 12337
+R M 0 12337 4 12338
+S
+#12339
+Western Slime Road near the Wall~
+~
+This place stinks quite literally.  There seem to be more blue slimes in 
+this area and there is slime residue everywhere.  You spy a small mound to 
+the north and you can either head east or west along the slime road.
+~
+1 8 1
+D0
+~
+~
+0 0 12340
+D1
+Bowl of Slime.
+~
+~
+0 0 12328
+D3
+Western Slime Road near the Wall.
+~
+~
+0 0 12342
+R M 0 12325 15 12339
+R M 0 12320 17 12339
+R M 0 12331 8 12339
+R M 0 12332 6 12339
+S
+#12340
+Blue Slime Mound~
+~
+The Blue Slimes seem a lot more passive then the Red Slimes which were very 
+aggressive looking.  The smell seems very strange now. to the west is some 
+sort of doorway leading to an extension of the mound.  You can leave to the 
+south.
+~
+1 8 0
+D2
+~
+~
+0 0 12339
+D3
+Blue Slime Room.
+~
+~
+0 0 12341
+R M 0 12325 15 12340
+R M 0 12326 3 12340
+R M 0 12326 3 12340
+R M 0 12328 3 12340
+S
+#12341
+Blue Slime Room~
+~
+This seems to be where the head slime resides.  A huge bowl obviously meant 
+for a slime to sit, er rest, or whatever slimes do is in the middle of the 
+room.  The smell is not nearly as bad here and it seems that the bigger 
+slime is the more respect it gets.
+~
+1 8 0
+D1
+Blue Slime Mound.
+~
+~
+0 0 12340
+R M 0 12329 2 12341
+S
+#12342
+Western Slime Road near the Wall~
+~
+Why does everything have to smell so bad?  The slimes seem very angered by 
+your presence and seem to travel in herds of their own colour or size.  You 
+can continue east or west but its probably best to do so holding your nose.
+~
+1 8 1
+D1
+Western Slime Road near the Wall.
+~
+~
+0 0 12339
+D3
+South-West Corner of Slime Kingdom.
+~
+~
+0 0 12343
+R M 0 12331 8 12342
+R M 0 12322 9 12342
+R M 0 12320 17 12342
+R M 0 12315 14 12342
+R M 0 12317 5 12342
+S
+#12343
+South-West Corner of Slime Kingdom~
+~
+You have reached a corner of the Slime Kingdom and it is very dark here as 
+for some reason the shadows seem to cross here.  There is slime residue of 
+a colour you don't recall seeing before and it appears to be almost black 
+and it feels very oily.  You can head north or east.
+~
+1 9 1
+D0
+Slippery Path.
+~
+~
+0 0 12344
+D1
+Western Slime Road near the Wall.
+~
+~
+0 0 12342
+R M 0 12337 4 12343
+S
+#12344
+Slippery Path~
+~
+You are heading along a slippery path which seems to be coated in slime 
+residue.  To the north you can see some yellow slimes entering a small 
+mound to the west.  You can head north or south.
+~
+1 8 1
+D0
+Slippery Path beside a Small Mound.
+~
+~
+0 0 12345
+D2
+South-West Corner of Slime Kingdom.
+~
+~
+0 0 12343
+R M 0 12331 8 12344
+R M 0 12333 4 12344
+R M 0 12321 9 12344
+R M 0 12318 6 12344
+R M 0 12315 14 12344
+S
+#12345
+Slippery Path beside a Small Mound~
+~
+To you west you see the small mound the yellow slimes headed into and the 
+smell which is around you now faintly reminds you of human waste.  The path 
+continues north into darkness.
+~
+1 8 1
+D0
+Slippery Path near a Dark Corner.
+~
+~
+0 0 12348
+D2
+Slippery Path.
+~
+~
+0 0 12344
+D3
+Yellow Slime Mound.
+~
+~
+0 0 12346
+R M 0 12330 13 12345
+R M 0 12331 8 12345
+R M 0 12328 3 12345
+S
+#12346
+Yellow Slime Mound~
+~
+It is now pretty obvious to you that the Yellow Slimes are pretty much the 
+slave colour of slimes.  They all move away whenever you get close and they 
+seem a little smaller then the others.  To the north is some kind of 
+entrance way leading into another section of the mound.
+~
+1 8 0
+D0
+Yellow Slime Room.
+~
+~
+0 0 12347
+D1
+Slippery Path beside a Small Mound.
+~
+~
+0 0 12345
+R M 0 12333 4 12346
+R M 0 12331 8 12346
+R M 0 12331 8 12346
+R M 0 12332 6 12346
+S
+#12347
+Yellow Slime Room~
+~
+This seems to be where the head slime resides.  A huge bowl obviously meant 
+for a slime to sit,er rest or whatever slimes do is in the middle of the 
+room.  The smell is not nearly as bad here and it seems that the bigger 
+slime is the more respect it gets but in the case of the yellow slimes it 
+seems that the biggest one just gets to be head slave slime.
+~
+1 8 0
+D2
+Yellow Slime Mound.
+~
+~
+0 0 12346
+R M 0 12334 1 12347
+S
+#12348
+Slippery Path near a Dark Corner~
+~
+You are almost at the darkness to the north and everything has the aura of 
+rush and hurry.  You wish you knew what was going on.  Slimes seem very 
+intent on completing some goal which is not apparent to you right now.  You 
+also spy a square shaped mound to the east.
+~
+1 8 1
+D0
+North-West Corner of Slime Kingdom.
+~
+~
+0 0 12350
+D1
+Slime Prison.
+~
+~
+0 0 12349
+D2
+Slippery Path beside a Small Mound.
+~
+~
+0 0 12345
+R M 0 12325 15 12348
+R M 0 12318 6 12348
+R M 0 12327 9 12348
+R M 0 12325 15 12348
+R M 0 12325 15 12348
+S
+#12349
+Slime Prison~
+~
+It seems that this is where the Slimes keep their food until they eat it.  
+Unfortunately it seems they keep their food alive until then.  You spy 
+various races in horrible states of physical abuse and dehydration.  Some 
+don't even look like they are breathing.  Most look devoid of any hope and 
+the others don't look like they have function of their minds anymore.  You 
+notice that they are kept in place by some kind of slime residue similar to 
+the stuff that makes up the walls around the Kingdom.  You wonder how you 
+can possibly break it.
+~
+1 8 0
+D3
+Slippery Path near a Dark Corner.
+~
+~
+0 0 12348
+S
+#12350
+North-West Corner of Slime Kingdom~
+~
+You have reached a corner of the Slime Kingdom and it is very dark here as 
+for some reason the shadows seem to cross here.  There is slime residue of 
+a colour you don't recall seeing before and it appears to be almost black 
+and it feels very oily.  You can head south or east.
+~
+1 9 1
+D1
+A White Path.
+~
+~
+0 0 12359
+D2
+Slippery Path near a Dark Corner.
+~
+~
+0 0 12348
+R M 0 12337 4 12350
+S
+#12351
+Dry Path~
+~
+You are now travelling on a very dry path and this seems very odd 
+considering what you've seen so far.  It seems that only the green slimes 
+can travel on this dry path and the other slimes are avoiding this path as 
+well.  You can head north or south.
+~
+1 8 1
+D0
+Dry Path near a small mound.
+~
+~
+0 0 12352
+D2
+South-East Corner of Slime Kingdom.
+~
+~
+0 0 12338
+R M 0 12324 2 12351
+R M 0 12321 9 12351
+R M 0 12321 9 12351
+R M 0 12320 17 12351
+R M 0 12322 9 12351
+S
+#12352
+Dry Path near a Small Mound~
+~
+The path seems to be a little damper here and a small mound is just to the 
+west of you.  It seems as if some large slime of some type just dragged 
+itself over the dry part not giving a care about the dryness.  The smell is 
+horrible here.  The Green Slimes it seems smell the worst of all.  
+~
+1 8 1
+D0
+Dry Path almost at Dark Corner.
+~
+~
+0 0 12355
+D2
+Dry Path heading north.
+~
+~
+0 0 12351
+D3
+Green Slime Mound.
+~
+~
+0 0 12353
+R M 0 12320 17 12352
+R M 0 12320 17 12352
+R M 0 12330 13 12352
+S
+#12353
+Green Slime Mound~
+~
+It is now pretty apparent that the Green slimes are the most independant of 
+the slime creatures.  Maybe most of the other slimes just can't stand the 
+smell.  The greens seem to be larger then the other slimes and have a lot 
+more in total population.  To the north you spy an entrance to another 
+section of the mound.
+~
+1 8 0
+D0
+Green Slime Room.
+~
+~
+0 0 12354
+D1
+Dry Path near a small mound.
+~
+~
+0 0 12352
+R M 0 12322 9 12353
+R M 0 12320 17 12353
+R M 0 12320 17 12353
+R M 0 12321 9 12353
+R M 0 12321 9 12353
+S
+#12354
+Green Slime Room~
+~
+This seems to be where the head slime resides.  A huge bowl obviously meant 
+for a slime to sit, er rest, or whatever slimes do is in the middle of the 
+room.  The smell is the worst its ever been here and it seems that the 
+bigger slime is the more respect it gets.
+~
+1 8 0
+D2
+Green Slime Mound.
+~
+~
+0 0 12353
+R M 0 12323 3 12354
+S
+#12355
+Dry Path almost at Dark Corner~
+~
+It really isn't proper to call this a dry path anymore as the slime residue 
+from many slimes has rolled onto the dirt and created the most disgusting 
+form of mud you have ever stepped in or smelt before.  To the immediate 
+north is another dark corner.
+~
+1 8 1
+D0
+North-East Corner of Slime Kingdom.
+~
+~
+0 0 12356
+D2
+Dry Path near a small mound.
+~
+~
+0 0 12352
+R M 0 12316 10 12355
+R M 0 12318 6 12355
+R M 0 12315 14 12355
+R M 0 12315 14 12355
+R M 0 12322 9 12355
+S
+#12356
+North-East Corner of Slime Kingdom~
+~
+You have reached a corner of the Slime Kingdom and it is very dark here as 
+for some reason the shadows seem to cross here.  There is slime residue of 
+a colour you don't recall seeing before and it appears to be almost black 
+and it feels very oily.  You can head south or west.
+~
+1 9 1
+D2
+Dry Path almost at Dark Corner.
+~
+~
+0 0 12355
+D3
+A White Path.
+~
+~
+0 0 12357
+R M 0 12337 4 12356
+S
+#12357
+A White Path~
+~
+You are now on a White path which is extremely smooth and gleams of freshly 
+coated slime.  You wonder what material it could possibly be until you 
+realize that its bone.  You shudder a little at the thought and continue 
+on.  To the further west is the entrance to the large mound.
+~
+1 8 1
+D1
+North-East Corner of Slime Kingdom.
+~
+~
+0 0 12356
+D3
+A White Path.
+~
+~
+0 0 12358
+R M 0 12322 9 12357
+R M 0 12325 15 12357
+R M 0 12327 9 12357
+R M 0 12331 8 12357
+R M 0 12333 4 12357
+S
+#12358
+A White Path~
+~
+You are on the white path of bone and notice a raised platform type mound. 
+It seems not quite obvious that this mound is some sort of Slime Palace?  
+You can enter the raised platform to the north or head east or west.
+~
+1 8 1
+D0
+Slime Guard Mound.
+~
+~
+0 0 12363
+D1
+A White Path.
+~
+~
+0 0 12357
+D3
+Entrance to Slime Palace.
+~
+~
+0 0 12361
+R M 0 12327 9 12358
+R M 0 12322 9 12358
+R M 0 12320 17 12358
+R M 0 12320 17 12358
+S
+#12359
+A White Path~
+~
+You are on a strange white path which on second looks turns out to be made 
+of bone.  You realize its coated in slime and rather disgusting to think 
+about.  You see to the further east the entrance to the large mound.
+~
+1 8 1
+D1
+A White Path.
+~
+~
+0 0 12360
+D3
+North-West Corner of Slime Kingdom.
+~
+~
+0 0 12350
+R M 0 12331 8 12359
+R M 0 12333 4 12359
+R M 0 12325 15 12359
+R M 0 12320 17 12359
+R M 0 12316 10 12359
+S
+#12360
+A White Path~
+~
+Still on the bone path you notice a raised type platform to the north.  
+When you glance further east you also notice the same is on the east side 
+of the mound.  This large mound is obviously some sort of Slime Palace.  
+You can enter the raised platform to the north or go east or west.
+~
+1 8 1
+D0
+Slime Guard Mound.
+~
+~
+0 0 12362
+D1
+Entrance to Slime Palace.
+~
+~
+0 0 12361
+D3
+A White Path.
+~
+~
+0 0 12359
+R M 0 12317 5 12360
+R M 0 12315 14 12360
+R M 0 12315 14 12360
+R M 0 12330 13 12360
+R M 0 12332 6 12360
+S
+#12361
+Entrance to Slime Palace~
+~
+You are now standing in front of the Slime Palace which really is just a 
+large mound.  This is where all the slimes were heading and your determined 
+to find out why.  The whole palace seems to be made out of the same bone 
+stuff used to make the bone roads.  You can head north into the palace or 
+east, west or south.
+~
+1 8 1
+D0
+Tunnel leading further into Palace.
+~
+~
+0 0 12364
+D1
+A White Path.
+~
+~
+0 0 12358
+D2
+Northern Slime Road #3.
+~
+~
+0 0 12333
+D3
+A White Path.
+~
+~
+0 0 12360
+R M 0 12327 9 12361
+R M 0 12327 9 12361
+R M 0 12315 14 12361
+R M 0 12315 14 12361
+S
+#12362
+Slime Guard Mound~
+~
+This seems to be some sort of overlooking post.  You wonder how the slimes 
+manage to create these structures and wonder if it was magical?  It seems 
+that this is where the giant green slimes go to make sure no one 
+unauthorized goes into the Slime Palace.
+~
+1 8 0
+D2
+A White Path.
+~
+~
+0 0 12360
+R M 0 12323 3 12362
+R M 0 12323 3 12362
+R M 0 12319 3 12362
+S
+#12363
+Slime Guard Mound~
+~
+This seems to be some sort of overlooking post.  You wonder how the slimes 
+manage to create these structures and wonder if it was magical?  It seems 
+that this is where the giant green slimes go to make sure no one 
+unauthorized goes into the Slime Palace.
+~
+1 8 0
+D2
+A White Path.
+~
+~
+0 0 12358
+R M 0 12319 3 12363
+R M 0 12329 2 12363
+S
+#12364
+Tunnel leading further into Palace~
+~
+You are in a circular tunnel which is is made completely out of bone.  To 
+the north you can see a bright light which is definately magical.  There is 
+no smell at all anymore.  Everything smells very nothing like.  The place 
+although with no smell reeks of magic.  You can head north or back south.
+~
+1 8 0
+D0
+Tunnel inside Palace heading to a large room.
+~
+~
+0 0 12365
+D2
+Entrance to Slime Palace.
+~
+~
+0 0 12361
+R M 0 12320 17 12364
+R M 0 12320 17 12364
+R M 0 12321 9 12364
+R M 0 12317 5 12364
+S
+#12365
+Tunnel inside Palace heading to a Large Room~
+~
+You are getting annoyed at the fact that you can't smell anything by 
+magical means.  The whole bone tunnel is creepy and up ahead the room to 
+the north seems rather enormous considering how large the mound was from 
+the outside.  You hear some rumblings and it sounds like there is something
+`#`RHUGE `^living to the north!!!
+~
+1 8 0
+D0
+The Slime Throne.
+~
+~
+0 0 12366
+D2
+Tunnel leading further into Palace.
+~
+~
+0 0 12364
+R M 0 12327 9 12365
+R M 0 12327 9 12365
+R M 0 12322 9 12365
+R M 0 12316 10 12365
+R M 0 12316 10 12365
+S
+#12366
+The Slime Throne~
+~
+The room is enormous and is an exact sphere cut into the bone of what must 
+been from millions of corpses.  There is a huge path of slime residue 
+leading up to a huge bowl.  The room you realize is more a place of worship 
+then anything.  Countless smaller slimes come and pray and bow in reverence 
+to the Head Slime.  The light for this room comes from everywhere but 
+nowhere and the whole place is obviously a creation of powerful magic.
+~
+1 8 0
+D2
+Tunnel inside Palace heading to a large room.
+~
+~
+0 0 12365
+D5
+Secret Chamber beneath the Slime Throne.
+~
+secret~
+1 0 12367
+R M 0 12335 1 12366
+S
+#12367
+Secret Chamber beneath the Slime Throne~
+~
+You are now directly under where the bowl was placed and are staring 
+straight at a huge white sphere of pure magic.  There are runes of ancient 
+meaning all around the stand which is underneath the sphere, unfortunately 
+the runes are of a lanugage you do not recognize.  You now realize that the 
+magical power of the King Albino Slime was from this sphere of magic.  The 
+slimes seemed to have thought that the Albino Slime was born with magic but 
+in the truth of the matter its powers were derived from the sphere.  There 
+is a light humming of the sphere in the room and you feel enlightened by 
+the whole experience of seeing something obviously created by a god or an 
+extremely powerful magical being.
+~
+1 4726789 0
+D4
+The Slime Throne.
+~
+secret~
+1 0 12366
+R O 0 12317 0 12367
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

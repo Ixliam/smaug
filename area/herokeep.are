@@ -1,0 +1,1304 @@
+#AREA        Hero's Keep~
+
+
+
+#VERSION     11
+#AUTHOR      Ixliam~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12480
+sxcyr~
+sxcyr, the old wyrm~
+Sxcyr, the ancient wyrm is here.
+~
+Almost dead, Sxcyr has long outlasted her usefullness as a
+battledragon.  She now serves her new master as a visier, and gives advices
+on how to run her campaigns daily.  
+~
+0
+Clanname none~
+0
+0
+33 524288 -600 C
+80 20 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12481
+shade~
+a shade~
+An evil shade is lurking about.
+~
+Formed of nothingness, the shades torment the mortal realm looking for
+wealth.  It is believed that they think wealth is the key to life.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12482
+rugged battlerager~
+a rugged battlerager~
+A rugged battlerager is here standing watch.
+~
+Completely encased in armor, this fearsome looking battlerager is
+in deadly looking spikes.  From beneath his dark helm two red eyes are
+discernable.  
+~
+0
+Clanname none~
+0
+0
+3 4096 -600 C
+95 70 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12483
+footman dragonsoldier~
+a dragonsoldier footman~
+A DragonSoldier footman stands here, looking around impatiently.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12484
+captain dragonsoldiers~
+a dragonsoldier captain~
+A Captain of the DragonSoldiers stands here, ready to battle.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+88 0 -58 9d12+430 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12485
+metallic red dragon~
+a metallic red dragon~
+A metallic red dragon is here, sharpening its talons.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+79 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12486
+metallic blue dragon~
+a metallic blue dragon~
+A great dragon is here, with metallic blue scales.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12487
+saemoth priestess~
+Saemoth the Priestess~
+Saemoth, the Dark Priestess is here.
+~
+Saemoth is dressed in long flowing black robes.  About her neck is an unholy 
+symbol, that of the Goddess Harpan.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+113 0 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12488
+taesar dark mage~
+Taesar~
+Taesar the Dark Magi is here.
+~
+You see simply a tall man dressed in flowing black robes.  His only weapon 
+is a small dagger, which glows brightly with an unholy aura.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+88 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12493
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12480
+crowbar~
+a black crowbar~
+A crowbar is here on the ground.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12481
+battlerager helm~
+Spiked Helm of the Rager~
+A pitch black helm is here.~
+~
+9 128 8
+60 60 23 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12482
+spiked rager armor~
+Spiked Armor of the Rager~
+A pitch black suit of armor is here.~
+~
+9 128 8
+60 60 24 0 0 0 0
+2 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12483
+rager axe~
+Sharp Axe of the Rager~
+A deadly looking axe is here.~
+~
+5 16 4
+3 124 168 8328 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12485
+flowing black robes~
+Black Robes of Midnight~
+Some black robes are lying in a heap.~
+~
+15 64 8
+0 0 1000 -25 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12486
+unholy symbol key~
+an unholy symbol of Harpan~
+An unholy symbol is affixed to a chain here.~
+~
+18 16 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12487
+onyx effigy~
+an onyx effigy~
+An onyx effigy is here.~
+~
+15 0 8
+15 12486 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12488
+celestial dagger~
+Celestial Dagger~
+A dark unholy dagger burns the dirt it lies upon.~
+~
+5 64 4
+12 116 152 192 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12489
+dragon breastplate~
+a dragon breastplate~
+A breastplate engraved with multi-colored dragons is here.~
+~
+9 0 8
+60 60 20 0 0 0 0
+2 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12490
+dragon pike~
+a dragon pike~
+A long pike tipped with razor sharp barbs glistens here.~
+~
+5 0 4
+5 108 151 40 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12491
+flail souls~
+Flail of Souls~
+Ghosts circle the head of a flail on the ground.~
+~
+5 1256 4
+4 116 152 1029 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12492
+glittering diamond~
+a glittering diamond~
+A glittering diamond lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12493
+golden throne~
+a golden throne~
+A golden throne glitters brilliantly.~
+~
+12 1 8
+10000 1168 300 300 0 0 0
+1 50000000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12516
+whip anihilation~
+Whip of Anihilation~
+A whip lies here.~
+~
+5 128 4
+3 135 170 8208 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#12480
+Before the Battlerager~
+~
+An imposing fortress of metal looms before you.  Angry and rusted spikes 
+pierce through solid iron in crude patterns.  Impossibly heavy 
+reinforcements hang precariously from altogether too few rivets..  Squeeking 
+as they pivot.
+ 
+A RED SIGN is here.
+~
+1 0 0
+D0
+~
+~
+0 0 12481
+E
+red sign~
+(written in blood)
+This area was made to tax the strongest of the strong.
+Adventure at your own risk, and seek shelter in groups.
+Level 80 or above. Enter at your own risk!
+~
+S
+#12481
+Entrance hall~
+~
+As you pass beneath the jagged mouth of the fortress the smell of coal
+smoke assails your senses.  Black pitch covers everything with a thick coat
+of sticky goo.  You feel the hints of a warm breeze coming from the north. 
+It is not too late to turn back now!  
+~
+1 8193 0
+D0
+~
+~
+0 0 12482
+D2
+~
+~
+0 0 12480
+S
+#12482
+Dead end~
+~
+The cramped hallway comes to an abrupt end at an iron portcullis. 
+Through the rusted slats of the monstrosity only darkness can be seen.  A
+constant warm breeze flows through, and the black goo has been formed into
+little peaks.  Everything is covered in the slime, the walls, floor and
+manhole cover, and even the ceiling.  The only way out is the way you came. 
+~
+1 8193 0
+D2
+~
+~
+0 0 12481
+D5
+~
+trapdoor~
+33 12480 12483
+R M 0 12482 1 12482
+  R E 0 12480 0 17
+  R E 0 12481 0 6
+  R E 0 12482 0 5
+  R E 0 12483 0 16
+E
+portcullis~
+Shut fast, it doesn't look as if the portcullis has been opened for
+hundreds of years.  It is formed of wrought iron bars (rusted now)
+completely encased in sticky pitch.  Square holes that a man could of easily
+fit his arm through are now coated with oozing sludge and rust.  
+~
+E
+manhole cover~
+Formed of a heavy circular disk, the metal plate on the floor serves
+as a small door to a portal in the floor.  
+~
+S
+#12483
+Underground~
+~
+Any sounds of the outside are now gone.  It is dark, and the smell of
+coal pitch is putrid.  Occasionally you hear the sound of flapping feet
+wading through the quagmire of ooze on the floor...  Somewhere.  A small
+iron runged ladder leads up, and tiny tunnels lead off into blackness to
+either side.  
+~
+1 8193 0
+D1
+~
+~
+0 0 12484
+D3
+~
+~
+0 0 12486
+D4
+~
+~
+33 12480 12482
+R M 0 12481 8 12483
+S
+#12484
+Underground~
+~
+The tiny, dark and cramped passageway comes to an elbow here.  One
+tunnel leads north, the other west.  You can hear the sounds of giggling.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12485
+D3
+~
+~
+0 0 12483
+R M 0 12481 8 12484
+S
+#12485
+Underground~
+~
+The ooze on the floor gets deeper here, and it makes slurping sucking
+noises as you step out of it.  An oppressive heat is settling in, causing
+the sludge to become watery towards the north.
+~
+1 8193 0
+D0
+~
+~
+0 0 12487
+D2
+~
+~
+0 0 12484
+R M 0 12481 8 12485
+S
+#12486
+Underground whirlpool~
+~
+The sludge swirls fast and knocks you off of your feet!  You have no
+time to think before you are...  
+     S     D
+      U     O
+       C     W
+        K     N
+         E
+          D
+~
+1 8197 0
+S
+#12487
+Underground~
+~
+The sickly ooze on the floor is almost painfully warm.  It has the
+constitution of hot milk.  Occasionally a thick bubble will rise to the
+surface and pop spewing goo everywhere.  There is a ledge to the west, and
+darkness to the south.  
+~
+1 8193 0
+D2
+~
+~
+0 0 12485
+D3
+~
+~
+0 0 12488
+R M 0 12481 8 12487
+S
+#12488
+Hall of the gods~
+~
+Slate grey stone sanded by eons of religous cleaning has eerie swirls
+and patterns.  This polished stone forms the floor, walls and arching
+ceiling.  A set of similiar stone steps leads up into light.  A river of
+pitch black flowing from a grate starts to the east.  
+~
+1 8197 0
+D1
+~
+~
+0 0 12487
+D4
+~
+~
+0 0 12489
+S
+#12489
+On the grass~
+~
+You are atop a set of steps that leads down into darkness.  To the east
+lies a grandoise open air temple the likes of which only exist in a kender's
+wildest dreams.  Wealth and power are displayed flagrantly and excessively. 
+This is certainly not meant for mortal eyes!  
+~
+1 8193 2
+D0
+~
+~
+0 0 12490
+D2
+~
+~
+0 0 12506
+D5
+~
+~
+0 0 12488
+R M 0 12483 20 12489
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12490
+On the grass~
+~
+The corner of the temple lies directly north, and a you can see a dark
+hole in the ground to the south.  Directly to your east A set of HUGE marble
+pillars thrusts out of the glasslike floors of the temple.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12491
+D2
+~
+~
+0 0 12489
+S
+#12491
+On the grass~
+~
+From here you can see the northern and western sides of the enormous
+temple laid out to the southeast.  You can see intricate rain gutters formed
+of sterling silver trimming the edge of the roof, and ending in statuesque
+`Donyx gargoyles at each corner.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12492
+D2
+~
+~
+0 0 12490
+R M 0 12483 20 12491
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12492
+On the grass~
+~
+The northwest corner of the temple is directly west.  A luscious green
+lawn of grass forms a healthy walkway the entire circumferance of the
+temple, and it continues to the east.  Some HUGE pillars bar your passage
+into the temple, but it looks like there's a more official looking opening
+further on.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12493
+D3
+~
+~
+0 0 12491
+S
+#12493
+On the grass~
+~
+A gaping wide space between the support pillars starts here and goes
+clear through the temple to the south.  The grass path continues to the west
+and east.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12494
+D2
+~
+~
+0 0 12511
+D3
+~
+~
+0 0 12492
+S
+#12494
+On the grass~
+~
+The gaping wide space between the pillars seems to end towards the
+eastern end of the temple.  Through the space you can see fountains, rugs,
+and all sorts of unimaginable riches.  The green continues both to your east
+and west.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12495
+D2
+~
+~
+0 0 12512
+D3
+~
+~
+0 0 12493
+R M 0 12483 20 12494
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12495
+On the grass~
+~
+The northeast corner of the temple is directly east.  The green path
+you've been following continues both ways.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12496
+D3
+~
+~
+0 0 12494
+S
+#12496
+On the grass~
+~
+From here you can see the northern and eastern walls of the temple.  A
+laughing `Donyx gargoyle with a silver rain gutter passing through one ear
+and out the other looks down with a perpetual grin.  
+~
+1 8193 2
+D2
+~
+~
+0 0 12497
+D3
+~
+~
+0 0 12495
+R M 0 12483 20 12496
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12497
+On the grass~
+~
+You are on the eastern perimeter of the grandoise temple.  The grass
+strip that circles the temple leads north and south.  HUGE marble pillars
+bar entrance into the temple.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12496
+D2
+~
+~
+0 0 12498
+S
+#12498
+On the grass~
+~
+The sweet smell of flowers assails your senses.  Alongside the grass
+path a small bed of roses has been planted.  The path continues north and
+south.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12497
+D2
+~
+~
+0 0 12499
+R M 0 12483 20 12498
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12499
+On the grass~
+~
+You are on the eastern perimeter of the temple.  The grass strip that
+forms the circumvents the temple continues north and south.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12498
+D2
+~
+~
+0 0 12500
+S
+#12500
+On the grass~
+~
+From here you can make out the eastern and southern edges of the
+temple.  A big sad `Donyx gargoyle stares down at you, with a rain gutter
+shoved up his butt and continuing out of his mouth.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12499
+D3
+~
+~
+0 0 12501
+R M 0 12483 20 12500
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12501
+On the grass~
+~
+The southeast corner of the temple is directly east.  The luscious
+green lawn of grass continues to the west.  The HUGE marble pillars to the
+north are too close together to get through to the north.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12500
+D3
+~
+~
+0 0 12502
+S
+#12502
+On the grass~
+~
+A big gap in the large marble pillars that construct the temple opens
+to your north.  Through the gap you can see there is a similiar one on the
+other side.  You can smell something awful.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12508
+D1
+~
+~
+0 0 12501
+D3
+~
+~
+0 0 12503
+R M 0 12483 20 12502
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12503
+On the grass~
+~
+The density of the pillars slackens here enough to allow you access to
+the temple to your north.  You can smell something pretty awful coming out
+of the temple.  
+~
+1 8193 2
+D0
+~
+~
+0 0 12507
+D1
+~
+~
+0 0 12502
+D3
+~
+~
+0 0 12504
+S
+#12504
+On the grass~
+~
+The southwest corner of the temple is directly west.  The luscious
+green lawn of grass that you've been walking on appears to circle the entire
+temple.  Some HUGE pillars bar your passage into the temple here, but it
+looks like they open up more in other places.  
+~
+1 8193 2
+D1
+~
+~
+0 0 12503
+D3
+~
+~
+0 0 12505
+S
+#12505
+On the grass~
+~
+From here you can see the southern and western sides of the enormous
+temple laid out to the northeast.  Intricate rain gutters pounded from
+sterling silver trim the edge of the roof.  The rain gutters encompass the
+entire structure and exit via large `Donyx gargoyle statues at each of the
+four corners.  The particular statue here has a gruesome smile on his face. 
+~
+1 8192 2
+D0
+~
+~
+0 0 12506
+D1
+~
+~
+0 0 12504
+R M 0 12483 20 12505
+  R E 0 12489 0 5
+  R E 0 12490 0 16
+S
+#12506
+On the grass~
+~
+The southeast corner of the temple is directly south of you and a large
+pit of blackness is to the north.  Huge marble pillars rise to dizzying
+heights to your east.  
+~
+1 8192 2
+D0
+~
+~
+0 0 12489
+D2
+~
+~
+0 0 12505
+S
+#12507
+Temple steps~
+~
+White marble steps lead up and into the temple that is directly north.
+The sound of water splashing and birds singing comes from within.  The lush
+green lawn surrounding the temple does its thing south.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12510
+D1
+~
+~
+0 0 12508
+D2
+~
+~
+0 0 12503
+R M 0 12484 5 12507
+  R E 0 12491 0 16
+  R E 0 12489 0 5
+S
+#12508
+Temple steps~
+~
+White marble steps lead up and into the temple that lies directly
+north.  You can hear the sound of water trickling, and of birds singing from
+within.  The lush green lawn surrounding the temple is south.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12509
+D2
+~
+~
+0 0 12502
+D3
+~
+~
+0 0 12507
+S
+#12509
+In the pool~
+~
+This is the eastern end of the long pool.  Ivory fountains gush
+crystal clear water towards the arched ceilings of the temple.  A set of
+marble steps leads out of the pool to the east, and up to a throne of some
+sort.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12512
+D1
+~
+~
+0 0 12516
+D2
+~
+~
+0 0 12508
+D3
+~
+~
+0 0 12510
+R M 0 12484 5 12509
+  R E 0 12491 0 16
+  R E 0 12489 0 5
+S
+#12510
+In the pool~
+~
+A smooth pristine pool of water dominates the center of the temple. 
+Blue marble makes up the walls and floor of the pools, and stark white ivory
+forms the delicate fountains that feed them.  The temple continues in all
+directions.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12511
+D1
+~
+~
+0 0 12509
+D2
+~
+~
+0 0 12507
+D3
+~
+~
+0 0 12513
+R M 0 12484 5 12510
+  R E 0 12491 0 16
+  R E 0 12489 0 5
+S
+#12511
+Temple steps~
+~
+White marble steps lead up and into the temple that lies directly
+south.  You can hear the sound of water trickling, and of birds singing from
+within.  The lush green lawn surrounding the temple is north.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12493
+D1
+~
+~
+0 0 12512
+D2
+~
+~
+0 0 12510
+S
+#12512
+Temple steps~
+~
+White marble steps lead up and into the temple that is directly south.
+The sound of water splashing and birds singing comes from within.  The lush
+green lawn surrounding the temple does its thing north.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12494
+D2
+~
+~
+0 0 12509
+D3
+~
+~
+0 0 12511
+R M 0 12484 5 12512
+  R E 0 12491 0 16
+  R E 0 12489 0 5
+S
+#12513
+Inside the temple~
+~
+This is the western end of the temple.  HUGE marble pillars bar
+passage to the west, but there are two acloves to the north and south.  To
+the east the entire length of the temple is visible.  Beautiful pools fed by
+ivory fountains dominate the floor to the east.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12514
+D1
+~
+~
+0 0 12510
+D2
+~
+~
+0 0 12515
+R M 0 12484 5 12513
+  R E 0 12491 0 16
+  R E 0 12489 0 5
+S
+#12514
+Quiet corner~
+~
+You are surrounded by HUGE pillars to the east, south and west that
+seperate you from the rest of the temple.  A long chain hanging from the
+roof holds a lantern.  A strong smell pervades from underneath you, where
+strong iron bars hold something inside.  
+~
+1 8193 0
+D2
+~
+~
+0 0 12513
+D5
+~
+~
+0 0 12520
+R M 0 12485 12 12514
+R M 0 12486 12 12514
+S
+#12515
+Quiet corner~
+~
+This is the southwesternmost corner of the beautiful temple.  Secluded
+and sectioned off from the rest of the temple by HUGE pillars, it is very
+quiet...  And smelly.  A foul smell comes from the cage built into the
+floor.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12513
+D5
+~
+~
+0 0 12519
+R M 0 12485 12 12515
+R M 0 12486 12 12515
+S
+#12516
+Throne room~
+~
+Spotted animal furs cover marble steps that lead up to the glorius
+throne of gold.  A balmy perfumed breeze blows gently through, rustling the
+leaves of potted ferns.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12517
+D2
+~
+~
+0 0 12518
+D3
+~
+~
+0 0 12509
+R M 0 12488 1 12516
+  R E 0 12488 0 16
+  R E 0 12485 0 12
+R M 0 12487 1 12516
+  R E 0 12485 0 12
+  R E 0 12486 0 3
+  R E 0 12516 0 16
+R O 0 12493 0 12516
+S
+#12517
+Sxcyr's roost~
+~
+This is the roost of the kings very own dragon: Sxcyr.  Relatively
+neat for the living space of a dragon, there are only a few tufts of hair
+and fur laying about.  Of particular interest is the ceiling, where a
+mechanical device has been formed that can open up to allow Sxcyr to fly
+through.  
+~
+1 8193 0
+D2
+~
+~
+0 0 12516
+R O 0 12487 0 12517
+  R P 0 12492 3 12487
+R M 0 12480 1 12517
+S
+#12518
+Quiet corner~
+~
+This is the southeasternmost corner of the temple.  Rather plain
+compared to the throne room to the north, this small nook is rather sparcely
+furnished.  Only a squat marble pedestal stands here.  
+~
+1 8193 0
+D0
+~
+~
+0 0 12516
+R M 0 12485 12 12518
+R M 0 12486 12 12518
+S
+#12519
+Holding cell~
+~
+The beauty of the temple has no affect here.  The walls are pitch
+black and covered with mold.  The floor is cold, wet and slimy.  There are
+some bones of various animals strewn about on the floor.  
+~
+1 5 0
+S
+#12520
+Holding cell~
+~
+Dug beneath the temple floors, this dungeon is filthy!  Dripping wet
+slime falls from the overhead bars.  There doesn't appear any way to get
+out.  
+~
+1 5 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

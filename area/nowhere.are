@@ -1,0 +1,1324 @@
+#AREA        NoWhere Important~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#37000
+something~
+`#Something`^~
+Something is standing here.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#37001
+nothing~
+`#`YNothing`^~
+Nothing is standing here.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#37002
+shadow~
+a `#`sShadow`^~
+A being made of shadow is here.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+44 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#37003
+it~
+`#`BIT`^~
+IT is lurking about.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#37004
+invisible strange being~
+a `#`mstrange`^ being~
+A strange being is standing here.
+~
+~
+0
+clanname none~
+0
+0
+65 2 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#37005
+mist~
+`#`sa Mist`^~
+`#`sA mist is hovering here.`^
+~
+~
+0
+clanname none~
+0
+0
+65 32 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#37000
+shadow cloak~
+a `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `sShadow `wCloak`^~
+A `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `sShadow `wCloak`^ is lying here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 560 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#37000
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+1 0 37036
+D2
+~
+~
+0 0 37001
+S
+#37001
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37000
+D1
+~
+~
+0 0 37002
+D2
+~
+~
+0 0 37006
+D3
+~
+~
+0 0 37007
+R M 0 37003 25 37001
+S
+#37002
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37003
+D2
+~
+~
+0 0 37005
+D3
+~
+~
+0 0 37001
+S
+#37003
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37015
+D2
+~
+~
+0 0 37004
+D3
+~
+~
+0 0 37002
+R M 0 37003 25 37003
+S
+#37004
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37003
+D1
+~
+~
+0 0 37014
+D2
+~
+~
+0 0 37012
+D3
+~
+~
+0 0 37005
+S
+#37005
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37002
+D1
+~
+~
+0 0 37004
+D2
+~
+~
+0 0 37011
+D3
+~
+~
+0 0 37006
+R M 0 37000 20 37005
+S
+#37006
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37001
+D1
+~
+~
+0 0 37005
+D2
+~
+~
+0 0 37010
+D3
+~
+~
+0 0 37008
+S
+#37007
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37001
+D2
+~
+~
+0 0 37008
+S
+#37008
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37007
+D1
+~
+~
+0 0 37006
+D2
+~
+~
+0 0 37009
+S
+#37009
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37008
+D1
+~
+~
+0 0 37010
+R M 0 37000 20 37009
+S
+#37010
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37006
+D1
+~
+~
+0 0 37011
+D3
+~
+~
+0 0 37009
+S
+#37011
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37005
+D1
+~
+~
+0 0 37012
+D3
+~
+~
+0 0 37010
+R M 0 37000 20 37011
+S
+#37012
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37004
+D1
+~
+~
+0 0 37013
+D3
+~
+~
+0 0 37011
+S
+#37013
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37014
+D3
+~
+~
+0 0 37012
+D5
+~
+~
+0 0 37016
+R M 0 37000 20 37013
+S
+#37014
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37015
+D2
+~
+~
+0 0 37013
+D3
+~
+~
+0 0 37004
+R M 0 37004 20 37014
+S
+#37015
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D2
+~
+~
+0 0 37014
+D3
+~
+~
+0 0 37003
+S
+#37016
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D2
+~
+~
+0 0 37017
+D4
+~
+~
+0 0 37013
+S
+#37017
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37016
+D1
+~
+~
+0 0 37018
+D2
+~
+~
+0 0 37022
+D3
+~
+~
+0 0 37024
+R M 0 37001 20 37017
+S
+#37018
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37019
+D2
+~
+~
+0 0 37021
+D3
+~
+~
+0 0 37017
+S
+#37019
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D2
+~
+~
+0 0 37020
+D3
+~
+~
+0 0 37018
+S
+#37020
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37019
+D3
+~
+~
+0 0 37021
+R M 0 37001 20 37020
+S
+#37021
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37018
+D1
+~
+~
+0 0 37020
+D3
+~
+~
+0 0 37022
+R M 0 37005 10 37021
+S
+#37022
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37017
+D1
+~
+~
+0 0 37021
+D3
+~
+~
+0 0 37023
+S
+#37023
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37024
+D1
+~
+~
+0 0 37022
+D3
+~
+~
+0 0 37026
+R M 0 37004 20 37023
+S
+#37024
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37017
+D2
+~
+~
+0 0 37023
+D3
+~
+~
+0 0 37025
+R M 0 37003 25 37024
+S
+#37025
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37024
+D2
+~
+~
+0 0 37026
+D3
+~
+~
+0 0 37027
+R M 0 37005 10 37025
+S
+#37026
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37025
+D1
+~
+~
+0 0 37023
+D3
+~
+~
+0 0 37028
+R M 0 37001 20 37026
+S
+#37027
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37025
+D2
+~
+~
+0 0 37028
+R M 0 37001 20 37027
+S
+#37028
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37027
+D1
+~
+~
+0 0 37026
+D5
+~
+~
+0 0 37029
+R M 0 37003 25 37028
+S
+#37029
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D2
+~
+~
+0 0 37030
+D4
+~
+~
+0 0 37028
+S
+#37030
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37029
+D1
+~
+~
+0 0 37031
+D2
+~
+~
+0 0 37041
+R M 0 37002 30 37030
+  R E 0 37000 0 12
+S
+#37031
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37032
+D2
+~
+~
+0 0 37040
+D3
+~
+~
+0 0 37030
+S
+#37032
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37033
+D2
+~
+~
+0 0 37039
+D3
+~
+~
+0 0 37031
+R M 0 37002 30 37032
+  R E 0 37000 0 12
+S
+#37033
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D1
+~
+~
+0 0 37034
+D2
+~
+~
+0 0 37035
+D3
+~
+~
+0 0 37032
+S
+#37034
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D2
+~
+~
+0 0 37038
+D3
+~
+~
+0 0 37033
+R M 0 37004 20 37034
+S
+#37035
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37033
+D1
+~
+~
+0 0 37038
+D2
+~
+~
+0 0 37047
+D3
+~
+~
+0 0 37039
+R M 0 37004 20 37035
+S
+#37036
+Nowhere~
+~
+You land with a resounding thud.  Standing up you study your surroundings.  
+Looking up you see nothing but blackness.  To the south you see a thick 
+marble door.  
+~
+1 8 11
+D2
+~
+~
+1 0 37000
+D4
+~
+~
+0 0 37042
+R O 0 50050 0 37036
+S
+#37037
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37038
+D3
+~
+~
+0 0 37047
+R M 0 37005 10 37037
+S
+#37038
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37034
+D2
+~
+~
+0 0 37037
+D3
+~
+~
+0 0 37035
+R M 0 37002 30 37038
+  R E 0 37000 0 12
+S
+#37039
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37032
+D1
+~
+~
+0 0 37035
+D2
+~
+~
+0 0 37045
+D3
+~
+~
+0 0 37040
+R M 0 37002 30 37039
+  R E 0 37000 0 12
+S
+#37040
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37031
+D1
+~
+~
+0 0 37039
+D2
+~
+~
+0 0 37044
+D3
+~
+~
+0 0 37041
+R M 0 37003 25 37040
+S
+#37041
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37030
+D1
+~
+~
+0 0 37040
+D2
+~
+~
+0 0 37043
+R M 0 37005 10 37041
+S
+#37042
+Nowhere~
+~
+And fall......
+~
+1 8 11
+D4
+~
+~
+0 0 37046
+D5
+~
+~
+0 0 37036
+S
+#37043
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37041
+D1
+~
+~
+0 0 37044
+S
+#37044
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37040
+D1
+~
+~
+0 0 37045
+D3
+~
+~
+0 0 37043
+R M 0 37002 30 37044
+  R E 0 37000 0 12
+S
+#37045
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37039
+D1
+~
+~
+0 0 37047
+D3
+~
+~
+0 0 37044
+R M 0 37005 10 37045
+S
+#37046
+Nowhere~
+~
+And fall......
+~
+1 8 11
+D4
+~
+~
+0 0 37050
+D5
+~
+~
+0 0 37042
+S
+#37047
+Nowhere~
+~
+You are standing inside of a large room.  You do not know where you are.  
+You are nowhere.  There is something all around you yet you do not know what 
+it is.  Does the room look like it is getting smaller?  Are the walls caving 
+in?  Is the ceiling dropping?  Is that hot breath you feel on your back?  
+What is that noise?  There is something watching you!  
+~
+1 8 11
+D0
+~
+~
+0 0 37035
+D1
+~
+~
+0 0 37037
+D3
+~
+~
+0 0 37045
+R M 0 37002 30 37047
+  R E 0 37000 0 12
+S
+#37048
+Nowhere~
+~
+Whoops you slipped!
+ 
+You begin to fall.....
+~
+1 8 11
+D4
+~
+~
+0 0 57021
+D5
+~
+~
+0 0 37050
+S
+#37049
+Nowhere~
+~
+~
+1 12 11
+S
+#37050
+Nowhere~
+~
+And fall......
+~
+1 8 11
+D4
+~
+~
+0 0 37048
+D5
+~
+~
+0 0 37046
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

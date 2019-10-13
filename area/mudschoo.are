@@ -1,0 +1,3818 @@
+#AREA        Mud school~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7300
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7301
+unseen_resume_beginner_school_kal_on_login ~
+unseen_kal_loader~
+Unseen_kal_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+101 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7302
+young woman~
+a young woman~
+A young woman is here, looking a little sad.
+~
+This woman is young, perhaps in her early twenties.  She has soft, mousy 
+brown hair which falls to her shoulders.  She seems a little sad, as there 
+is a slight frown on her face.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7303
+citizen lance~
+a citizen~
+A citizen is walking past here.
+~
+A young man is here, walking along the streets.  He is tall with a good 
+posture.  His hair is short and neatly cut.  He has a slim build, and a 
+slight tan.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7304
+shopkeeper short man~
+a short man~
+A short man is tending to the customers here.
+~
+This man is short and stout.  He is balding and looks to be middle-aged.  He 
+has a cheerful voice and enjoys his work.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7305
+shopkeeper young man~
+a young man~
+A young man is polishing the blade of a sword here.
+~
+A young man sits here polishing a sword to a fine gleam.  His hair is swept 
+off his face, and he is clean-shaven.  His clothes are neatly pressed, and 
+he has a helpful manner.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7306
+pudgy middle-aged lady~
+a rather pudgy middle-aged lady~
+A rather pudgy middle-aged lady stands here, restocking the shelves.
+~
+This middle-aged woman has a warm, friendly face.  She seems a little on the 
+pudgy side, with little dimples showing on her cheeks, and arms.  She is 
+short, and has dull brown hair.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7307
+wise looking old man~
+a wise looking old man~
+A wise looking old man stands here, with a thick book in his hands.
+~
+The tell-tale signs of old-age are present on this silver-white haired old 
+man.  His body is slightly hunched and though it is now frail-looking he 
+still carries himself as if he were in his prime.  His eyes sparkle with 
+wisdom and understanding.  The book he carries is always open, whether he is 
+teaching from it or has fallen asleep with it in his lap.  
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+100 1 -50 5d10+999 8d6+100
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7308
+pesky mosquito~
+a pesky mosquito~
+A pesky mosquito buzzes in your ear.
+~
+This mosquito is small and black, but it sure is annoying.  It flies around 
+looking for a nice piece of flesh to sink its proboscis into, and buzzes 
+loudly.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7309
+leather plant~
+a leather plant~
+A leather plant has taken root here.
+~
+The leaves on this plant are made of a leathery texture, and probably used 
+to make leather items from.  It stands tall for a shrub, and looks fairly 
+sturdy.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7310
+little gnomish gnome inventor man~
+a little gnomish man~
+A little gnomish man is here tinkering away on some invention.
+~
+Fuzzy white hair sticks up all over this little gnomish man's head.  He 
+stands about 3 feet tall and has a round, ruddy red nose.  His cheeks seem a 
+little flushed as he busies himself with his latest invention.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 1 0 10d14+500 11d12+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7311
+little gnomish gnome woman~
+a little gnomish woman~
+A little gnomish woman is here running a little shop.
+~
+A bright, big smile adorns the face of this smallish female gnome.  Her hair 
+is fluffy and brown and she has a round nose and rosy cheeks.  She is 
+fussing over the fruit she's trying to sell, polishing them up nice and 
+shiny.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 1 0 10d14+500 11d12+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7312
+bee~
+a bee~
+A bee buzzes about, feasting on nectar.
+~
+This bee is black and yellow striped, with buzzing wings.  Its having the 
+time of its life feeding on all the pollen in this garden.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7313
+butterfly~
+a butterfly~
+A butterfly flits from flower to flower.
+~
+The wings on this butterfly are white, and delicately soft.  Its black 
+antennae twitch constantly as it flits from flower to flower.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7314
+sparrow~
+a sparrow~
+A sparrow chirps happily from high in the branches.
+~
+This sparrow is a dull brown, and hops about in the branches, chirping and 
+singing.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7315
+ball light sphere being suldar teacher 7315~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7316
+shopkeeper tall man~
+a tall shopkeeper~
+A tall man stocks the shelves in the shop here.
+~
+This man is tall and lean, with a clean-shaven face and neatly combed hair.  
+He has strong-looking hands, which seem handy for lifting things.  He runs 
+the stall here, serving the odd customer that comes in.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7317
+unseen_question_channels~
+unseen_question_channels~
+Unseen_question_channels
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7318
+unseen_question_swearing~
+unseen_question_swearing~
+Unseen_question_swearing
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7319
+unseen_question_multilogging~
+unseen_question_multilogging~
+Unseen_question_multilogging
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7320
+unseen_question_roleplay~
+unseen_question_roleplay~
+Unseen_question_roleplay
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7321
+unseen_question_setting~
+unseen_question_setting~
+Unseen_question_setting
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7322
+unseen_check_for_weapon~
+unseen_check_for_weapon~
+Unseen_check_for_weapon
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7323
+unseen_check_has_trained~
+unseen_check_has_trained~
+Unseen_check_has_trained
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7324
+unseen_new_flower_grows~
+unseen_new_flower_grows~
+Unseen_new_flower_grows
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7325
+unseen_close_door~
+unseen_close_door~
+Unseen_close_door
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7326
+unseen_grow_new_leather_plant~
+unseen_grow_new_leather_plant~
+Unseen_grow_new_leather_plant
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7327
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7328
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7329
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7330
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7331
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7332
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7333
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7334
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7335
+unseen_close_door~
+unseen_close_door~
+Unseen_close_door
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7370
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7371
+ball light sphere teacher being suldar~
+a being of light~
+A being of light beams radiantly here.
+~
+Before you is some kind of creature of light...  You have not seen anything 
+like it before, and it radiates light in a very unique way.  You feel as if 
+you should kneel for the radiance that comes from this being is very 
+overwhelming.  The color of light radiated changes from white to dark 
+purple through dark red, the whole spectrum of the rainbow.  Every now and 
+then, you think you get a glimpse of a form, almost human.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+101 0 -67 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7372
+friendly shopkeeper~
+a friendly shopkeeper~
+A friendly shopkeeper is here to help you.
+~
+Thick, dark hair is brushed neatly, and looks as if its been recently 
+trimmed, on this friendly middle-aged shopkeeper.  His complexion is fair, 
+and his build slight.  He has a friendly way about him, and seems more than 
+helpful.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7300
+token I-Have-A-Kal_Token~
+`#`WI-Have-A-Kal-Token`Y~
+`#`WI-Have-A-Kal-Token`Y~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7301
+wooden chest~
+a wooden chest~
+A wooden chest lies at the side of the path.~
+~
+15 0 8
+5 0 20 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7301 chest ~
+This small wooden chest looks a little weather-beaten, as if it had been 
+here for some time.  The lid is shut, though not locked as there is no sign 
+of a keyhole.  
+~
+#7302
+small onyx key~
+a small onyx key~
+A small key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7303
+bronze key~
+a bronze key~
+A bronze key lies here~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7304
+red flower~
+a `#`Rred`^ flower~
+A `#`Rred`^ flower grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7305
+yellow tall flower~
+a tall, `#`Yyellow`^ flower~
+A tall, `#`Yyellow`^ flower grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7306
+purple iris flower~
+a `#`mpurple`^ iris~
+A `#`mpurple`^ iris grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7307
+nice little bench~
+a nice little bench~
+A nice little bench.~
+~
+12 0 8
+99999 9362 105 105 0 0 0
+3 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7307 nice little bench~
+A comfortable little bench sits along the path here.
+~
+#7308
+plain dress~
+a plain dress~
+A plain dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7308 plain dress~
+This is a very plain looking dress, it isn't very revealing.
+~
+#7309
+token I_know_how_to_talk~
+`#`WI_know_how_to_talk`^~
+`#`WI_know_how_to_talk`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7310
+token I_know_how_to_follow_you~
+`#`WI_know_how_to_follow_you`^~
+`#`WI_know_how_to_follow_you`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7311
+well tailored pants~
+well tailored pants~
+A pair of well tailored pants lie here, folded neatly.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7312
+plain white shirt~
+a plain white shirt~
+A plain white shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7313
+small wooden shield~
+a small wooden shield~
+A small wooden shield is lying here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7313 A small wooden shield.~
+A standard wooden shield.  Nothing special about it.
+~
+#7314
+leather belt~
+a leather belt~
+A leather belt is lying here.~
+~
+9 0 8
+5 5 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7314 leather belt~
+A standard leather belt.  Nothing special about it.
+~
+#7315
+leather boots~
+leather boots~
+Leather boots are lying here.~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7315 leather boots~
+Standard leather boots.  Nothing special about them.
+~
+#7316
+leather leggings~
+leather leggings~
+Leather leggings are lying here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 48 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7316 leather leggings~
+Standard leather leggings.  Nothing special about them.
+~
+#7317
+leather vest~
+a leather vest~
+A leather vest is lying here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7317 leather vest~
+A standard leather vest.  Nothing special about it.
+~
+#7318
+leather gloves~
+leather gloves~
+Leather gloves are lying here.~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7318 leather gloves~
+Standard leather gloves. Nothing special about them.
+~
+#7319
+leather cap~
+a leather cap~
+A leather cap is lying here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 36 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7319 leather cap~
+A standard leather cap.  Nothing special about it.
+~
+#7320
+leather sleeves~
+leather sleeves~
+Leather sleeves are lying here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7320 leather sleeves~
+Standard leather sleeves.  Nothing special about them.
+~
+#7321
+small hand axe~
+a small hand axe~
+A small hand axe is lying here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7321 small hand axe~
+A small light axe.  Pretty standard as far as materials and crafstmanship.  
+~
+#7322
+halberd polearm~
+a halberd~
+A halberd is lying here.~
+~
+5 0 4
+1 14 24 32 0 0 0
+1 76 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7322 halberd~
+A standard halberd.  Nothing special about it.
+~
+#7323
+battlaxe axe~
+a battleaxe~
+A battleaxe is lying here~
+~
+5 0 4
+1 17 25 32 0 0 0
+1 71 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7323 battleaxe~
+A standard battleaxe.  Nothing special about it.  Looks like you'd need two 
+hands to wield this properly.  
+~
+#7324
+whip~
+a whip~
+A whip is lying here.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 51 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7324 whip~
+A standard whip.  Nothing special about it.
+~
+#7325
+spear~
+a spear~
+A spear is lying here.~
+~
+5 0 4
+1 7 16 32 0 0 0
+1 68 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7325 spear~
+A standard spear.  Nothing special about it.
+~
+#7326
+mace~
+a mace~
+A mace is lying here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7326 mace~
+A standard mace.  Nothing special about it.
+~
+#7327
+longsword sword~
+a longsword~
+A longsword is lying here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 57 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7327 longsword~
+A standard longsword.  Nothing special about it.
+~
+#7328
+shortsword sword~
+a shortsword~
+A shortsword is lying here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7328 shortsword sword~
+A standard shortsword.  Nothing special about it.
+~
+#7329
+dagger~
+a dagger~
+A dagger is lying here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7329 dagger~
+A standard dagger.  Nothing special about it.
+~
+#7330
+trash can~
+a trash can~
+A trash can.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7330 trash can~
+A wooden trash can, full of empty bottles.
+~
+#7331
+oil lamp~
+an oil lamp~
+An oil lamp is lying here.~
+~
+1 0 1
+0 160 0 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7332
+waterskin water skin~
+a waterskin~
+A waterskin is lying here.~
+~
+17 0 16
+70 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7333
+loaf bread~
+a loaf of bread~
+A loaf of bread is lying here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7334
+roast chicken~
+a roast chicken~
+A roast chicken is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7335
+small backpack pack~
+a small backpack~
+A small backpack has been left here.~
+~
+15 0 8
+1 0 35 95 0 0 0
+1 63 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7335 small backpack pack~
+A small leather backpack.
+~
+#7336
+bedroll~
+a bedroll~
+A bedroll has been left here.~
+~
+12 0 8
+9999 9362 115 115 0 0 0
+1 106 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7336 bedroll~
+This comfortable bedroll is made from thick cloth and is filled 
+with feathers or some soft material.  It would be great for
+those times when it's necessary to sleep in the wilderness.
+~
+#7337
+bowl stew~
+a bowl of stew~
+A bowl of stew is lying here.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7338
+fresh spring water~
+a spring of fresh water~
+A spring of fresh water flows from the ground here.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7339
+long white robe ~
+a long white robe~
+A long white robe lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7340
+gold shoelaces~
+some `#`ygold`^ shoelaces~
+Some `#`ygold`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7341
+silver shoelaces~
+some `#`Ssilver`^ shoelaces~
+Some `#`Ssilver`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7342
+cherry-red shoelaces~
+some `#`rcherry`R-red`^ shoelaces~
+Some `#`rcherry`R-red`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7343
+blueberry-blue shoelaces~
+some `#`Bblueberry-blue`^ shoelaces~
+Some `#`Bblueberry-blue`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7344
+hot-pink shoelaces~
+some `#`Mhot-pink`^ shoelaces~
+Some `#`Mhot-pink`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7345
+peppermint-green shoelaces~
+some `#`Cpeppermint`G-green`^ shoelaces~
+Some `#`Cpeppermint`G-green`^ shoelaces lie curled up here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7346
+beatafeet boots gold laces~
+some `#`Rb`Ye`Ba`Rt`Ya`Bf`Re`Ye`Bt`^ boots with `#`Ygold`^ laces~
+Some `#`Rb`Ye`Ba`Rt`Ya`Bf`Re`Ye`Bt`^ boots with `#`Ygold`^ laces have been left here.~
+~
+9 0 8
+60 60 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7346 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7347
+beatafeet boots silver laces~
+some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Ssilver`^ laces~
+Some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Ssilver`^ laces have been left here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7347 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7348
+beatafeet boots cherry-red laces~
+some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`rcherry`R-red`^ laces~
+Some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`rcherry`R-red`^ laces have been left here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7348 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7349
+beatafeet boots blueberry-blue laces~
+some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Bblueberry-blue`^ laces~
+Some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Bblueberry-blue`^ laces have been left here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7349 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7350
+beatafeet boots hot-pink laces~
+some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Mhot-pink`^ laces~
+Some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Mhot-pink`^ laces have been left here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7350 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7351
+beatafeet boots peppermint-green laces~
+some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Cpeppermint`G-green`^ laces~
+Some `#`Rb`Be`Ya`Rt`Ba`Yf`Re`Be`Yt`^ boots with `#`Cpeppermint`G-green`^ laces have been left here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7351 beatafeet boots gold laces~
+By the look of these boots, you can just tell they're some crazy gnomish 
+invention.  The leather seems to be made up of the strangest swirls of 
+color.  They seem very light, and have fantastic bright laces.  
+~
+#7352
+ripe pomegranate~
+a ripe pomegranate~
+A ripe pomegranate lies here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7353
+leaf leather plant~
+the `#`Gleaf`^ of a `#`Gleather plant`^~
+A leaf from a leather plant lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7354
+beatafeet gnomish half-finished contraption~
+a half-finished, gnomish contraption~
+A half-finished contraption stands here, constructed with odds'n'ends.~
+~
+13 0 8
+0 0 0 0 0 0 0
+2 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7354 half-finished gnomish beatafeet contraption~
+This odd looking contraption definitely comes from the imaginings of a 
+creative, perhaps even borderline insane, mind.  It appears to be only 
+half-finished, but what you can make of it is a hole on top of the thing, to 
+the left, a few odd buttons and wheels in the middle, and a sloping tray to 
+the other end.  One thing's for sure, if you get this thing cranked up, it 
+sure could make a lot of noise!  
+~
+#7355
+bunch bananas~
+a bunch of `#`Ybananas`^~
+A bunch of `#`Ybananas`^ lie here, rotting.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7356
+watermelon~
+a watermelon~
+A watermelon has been left here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7357
+bunch grapes~
+a bunch of `#`mgrapes`^~
+A bunch of `#`mgrapes`^ lie here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7358
+black cast-iron key~
+a black cast-iron key~
+A black cast-iron key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7359
+pile junk~
+a pile of junk~
+A pile of junk is heaped here.~
+~
+15 0 8
+0 0 50 0 0 0 0
+10 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7359 pile junk~
+A large pile of junk stands here.  Made up of old wooden wheels, mishapen 
+pieces of tin, pieces of wire, lengths of tangled rope, this collection is a 
+landmine for inventors..  And to others, just a pile of junk!  
+~
+#7360
+flowerbeds of sweetpeas~
+flowerbeds of `#`rs`mw`Me`Re`Yt`rp`Me`ra`Rs`^~
+Flowerbeds of `#`rs`mw`Me`Re`Yt`rp`Me`ra`Rs`^ fill the air with sweet scents.~
+~
+15 0 8
+0 0 2 0 0 0 0
+10 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7361
+fruit stall~
+a fruit stall~
+A fruit stall stands here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+2 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7362
+tin bucket~
+a tin bucket filled with an opaque liquid~
+A tin bucket filled with an opaque liquid is to the side of the stall.~
+~
+15 0 8
+0 0 1 0 0 0 0
+2 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7363
+lemon juice drink~
+a cup of home-made lemonade~
+A cup of home-made lemonade has been left here.~
+~
+17 0 16
+5 6 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7364
+flowerbed snow-white flowers~
+a flowerbed of `#`Wsnow-white`^ flowers~
+A flowerbed of `#`Wsnow-white`^ flowers attracts the bees and butterflies.~
+~
+15 0 8
+0 0 2 0 0 0 0
+10 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7365
+shelves shelf~
+some shelves~
+Rows of shelves line the shed wall.~
+~
+15 0 8
+0 0 50 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7366
+broken watering can~
+a broken watering can~
+A broken watering can has been left here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7367
+old spade~
+an old spade~
+An old spade has been left here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7367 old spade~
+This old spade is made of cast-iron and is quite heavy.  There seems to be 
+something gold tied to the top of the handle.  
+~
+#7368
+flowerbed tulips daisies poppies lobelias~
+`#`Rred tulips`^, `#`Yyellow daisies`^, `#`gtall poppies`^ and `#`Bblue lobelias`^~
+A flowerbed of `#`Rred tulips`^, `#`Yyellow daisies`^, `#`gtall poppies`^ and `#`Bblue lobelias`^ grows here.~
+~
+15 0 8
+0 0 2 0 0 0 0
+10 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7369
+garden of tangled wildflowers~
+a garden of tangled `#`mw`Mi`Yl`Md`mf`Yl`mo`Yw`Me`mr`Ys`^~
+A garden of tangled `#`mw`Mi`Yl`Md`mf`Yl`mo`Yw`Me`mr`Ys`^ covers the path.~
+~
+15 0 8
+0 0 2 0 0 0 0
+10 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7369 garden wildflowers~
+These wildflowers bloom with the colors of vivid crimsons and purples, and 
+vibrant yellows.  In the tangle of flowers, you notice something red caught 
+up in the stems.  
+~
+#7370
+willow tree~
+a willow tree~
+A willow tree sways in the gentle breeze here.~
+~
+15 0 8
+0 0 2 0 0 0 0
+10 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7371
+large grey boulder~
+a large `#`Sgrey`^ boulder~
+A large `#`Sgrey`^ boulder sits in the middle of the garden.~
+~
+12 0 8
+500 1170 0 0 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7372
+narrow stream~
+a narrow stream~
+A narrow stream trickles over the river stones here.~
+~
+25 0 16
+300000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7373
+bright yellow dress~
+a `#`Ybright yellow`^ dress~
+A `#`Ybright yellow`^ dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7374
+bright green overalls~
+some `#`Gbright green`^ overalls~
+Some `#`Gbright green`^ overalls lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7375
+narrow stream river~
+a stream~
+~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7376
+upturned flowerpot pot~
+an upturned flowerpot~
+An upturned flowerpot has been abandoned here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7377
+large parchment map world~
+a large world map~
+A large world map lies here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7377 map parchment world large~
+This map is not even close to scale. but general directions are accurate.
+On it you will find the large population centers, and a few new areas
+players might be interested in. There are also a few areas for new
+players right in Tulgard & Throytl.
+ 
+`#`CPLEASE TYPE 'AREAS' TO SEE A COMPLETE LIST OF EXISTING AREAS`^
+
+Visit our website at www.wotl.org 
+~
+E
+7377 reverse ~
+`RRed Areas    `Xmeans to avoid these areas, if not experienced.
+`YYellow Areas `Xmeans these are good hunting grounds, but 
+                 before you enter these hunting grounds type
+                 '`CArea [Areas's name]`X' An example of this
+                 is typing area goblin. this will show the area
+                 statistics on goblin warrens, and its level 
+                 range. make sure to check the level range before
+                 seeking it out.
+`WWhite Area `Xmeans these are the starting cities, and great places
+                 to find Roleplay or someone to help you.
+ 
+~
+#7378
+token gnome-has-greeted~
+gnome-has-greeted-token~
+Gnome-has-greeted~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7379
+token has-given-leaf~
+token has-given-leaf~
+Token has-given-leaf~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7380
+token has-given-pomegranate~
+token has-given-pomegranate~
+Token has-given-pomegranate~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7381
+token has-beatafeet-boots~
+token has-beatafeet-boots~
+Token has-beatafeet-boots~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7382
+small map Tulgard~
+a small map of Tulgard~
+A small map has been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7382 map small Tulgard~
+`C                           (Tulgard)                       `mLEGEND`+
+                `sIronmaul                                  `gGreen: Necessity`+
+                `sEstates <<                                `yTan: Travel`+
+           `CToys           `yNorth Gate                      `CCyan: Sight`+
+`x            |                 |                           `RRed: Guild`+
+`x +----------+-----------------+--------+--------+----------+ `+
+ |          |                 |        |        |          | `+
+ |         `CPets     Bed &   `x--+      `gPrison  Guard HQ      `x| `+
+ |           `CBakery Breakfast `x|  `CAuctions Tanner           `x| `+
+ | `CSilver`x       |      |      |      |      |              | `+
+ | `CPlatter`x------+------+------+------+------+-----`CJeweller `x| `+
+ |              |      |      |      |      |              | `+
+ |          `CFarmer's Arena    `x|    `gBath   `CMagic            `x| `+
+ |          `CMarket            `x|           `CShop             `x| `+
+ |                    `RTemple`x--+--`CPark                Maps`x--| `+
+ |                            |                            | `+
+ |                            |  `CDancing`x                   | `+
+ |                    `gHealer`x--+--`CDragon              `yJobs`x--| `+
+ |                            |  `CBar`x                       | `+
+ |       `gClothier  Supplies`x   |`C   Apothecary `gWeaponry`x      |`s >> Crossroads `+
+`yWest`x        |        |        |        |        |        `yEast `+
+Gate`x--------+--------+------`CPlaza`x------+--------+--------`yGate `+
+`x            |        |        |        |        |          | `+
+         `RArcanum   `gArmoury`x    |    `CJewellery `RFighters   `CMerchant `+
+                              `x|`C                          Office `+
+                        `RCove`x--+--`yStable `+
+`x                              |                         `YN `+
+`C                  Sunken      `x|                       `s..`B^`s.. `+
+`C                  Ship  `gBank`x--+--`CLocksmith            `s.`b\|/`s. `+
+`C                  Tavern`x      |                     `YW`B<`b-=`BO`b=-`B>`YE `+
+`x                     |        |                       `s'`b/|\`s' `+
+`y               Port`x--+--------+--`yBoats                `s''`Bv`s'' `+
+`x                              |                         `YS `+
+`y                        River Crossing `+
+`xAs of: Winter 1219 `+
+`+
+~
+#7383
+small map Throytl~
+a small map of Throytl~
+A small map has been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7383 map small Throytl~
+`C                               (Throytl)`m                  LEGEND `+
+         `YN                                                `gGreen: Necessity `+
+       `s..`B^`s..            Crossroads                        `yTan: Travel `+
+       `s.`b\|/`s.                ^                             `CCyan: Sight `+
+     `YW`B<`b-=`BO`b=-`B>`YE              `s^                             `RRed: Guild `+
+       `s'`b/|\`s'                  `x.-`yBoats `+
+       `s''`Bv`s''            `yNorth Gate `+
+         `YS                  `x| `+
+                            | `+
+                 `CBeastiary`x--+--`CCourier                `x+--`CTorture `+
+                            `x|  `CService                `x|  `CShack `+
+                    `CGems &  `x|                         | `+
+                     `CMisc.`x--+--`gBank         `RBuilding`x--+ `+
+                            |                         | `+
+`yCarriage Stable   `gButcher   `x|    `gWeaponry `RArcanum     `x|    `RNecromicon `+
+`x   |       |        |       |       |        |        |        | 
+`y  West`x-----+--------+-----`CSquare`x----+--------+--------+--------+--`sFortress `+
+`y  Gate`x     |        |       |       |        |        |        | `+
+               `x,-`gSupplies   `x|    `gArmoury  `RFighters`x    |     `RThieves `+
+`g        Clothing `x           |                         |    `R  Union `+
+`g                  Chaotica`x--+--`CPestilence      `RWagon`x--+ `+
+`x                            |  `CPit                 `x   | `+
+`x                            |                         | `+
+`x                 ,-`CTrellis`x--+--`CMetalworks`x             +  `s>> Lapis `+
+`C             Merchant`x       |                               `sCaves `+
+`C              Office`x        | `+
+                        `ySouth Gate`x `+
+As of: Winter 1219 `+
+`+
+ 
+~
+#7384
+token_has_completed_advanced_test~
+`#`Wtoken_has_completed_advanced_test`^~
+`#`Wtoken_has_completed_advanced_test`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7385
+pair reading glasses~
+a pair of reading glasses~
+A pair of glasses lie here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 111 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7386
+large sign~
+`#`RA HUGE RED SIGN IS POSTED HERE. YOU FEEL THAT YOUR LIFE DEPENDS ON YOU READING IT.`^~
+`#`RA HUGE RED SIGN IS POSTED HERE. YOU FEEL THAT YOUR LIFE DEPENDS ON YOU READING IT.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7386 large sign~
+`#`RPLEASE MAKE SURE THAT YOU READ THE HELPFILES.`+
+`+
+HELP FEATURES, HELP WEIRD AND HELP QUESTIONS (you must use questionS not 
+just question) or HELP FREQUENT.`+
+`+
+HELP QUESTIONS and HELP FREQUENT HAVE ALOT OF OTHER HELPFILES THAT ARE ALSO 
+VERY USEFUL IF YOU ARE NEW TO THIS MUD.`+
+`+
+`YTHE IMMORTALS AND NEWBIE HELPERS ARE ALWAYS GLAD TO ANSWER ANY QUESTIONS 
+THAT YOU HAVE.`+
+`+
+THANK YOU,`+
+`cTHE STAFF OF WOTL.`^ 
+~
+#0
+
+
+#ROOMS
+#7300
+Lesson 1 - How to Move~
+~
+The first lesson in the basics of mudding - movement.
+~
+1 33554432 1
+D1
+~
+~
+0 0 7301
+R M 0 7301 1 7300
+S
+#7301
+Lesson 2 - How to Look~
+~
+Lets create a typical scene of what its like in the ic (in character) world 
+of WOTL.  `1`1You walk down a quiet street, which has a `#`Sgate`^ leading to the north.  
+Colourful `#`Sflowers`^ grow along the street, and there is a `#`Ssignpost`^ up ahead.  
+~
+1 33554432 1
+D0
+~
+gate~
+0 0 7302
+E
+signpost ~
+The signpost points to the north, and reads:`1`1 `#`RThis way to lesson 3`^ 
+~
+E
+flowers ~
+Brightly coloured flowers of every shade, from deep red, to crimson to 
+vibrant pinks and yellows grow in abundance here.  They add a sweet scent to 
+the air, attracting butterflies and other small critters.  
+~
+E
+gate ~
+You set eyes upon a solid wooden gate.  There are intricate designs carved 
+in the wood and the hinges are rusting slightly.  It reaches the waist of an 
+average human, in height, and is left open.  
+~
+S
+#7302
+Lesson 3 - How to Open~
+~
+As you walk along this street, you come to what at first, seems like a dead 
+end.  Looking around though, you notice a door to the east.  However, unlike 
+the gate in the previous room, this door is closed.  
+~
+1 33554432 1
+D1
+~
+door~
+1 0 7303
+R M 0 7325 10 7302
+S
+#7303
+Lesson 4 - How to Unlock~
+~
+You continue along this street and see another closed `#`Sdoor`^ which heads to 
+the south.  
+~
+1 33554432 1
+D2
+~
+door~
+33 7302 7304
+R M 0 7335 10 7303
+E
+door ~
+The door which is firmly shut has a small keyhole near the handle.  There is 
+no key in the lock though.  
+~
+S
+#7304
+Lesson 5 - How to Get~
+~
+Heading along the street to the south, you come to a closed gate.  There is 
+a padlock with a small keyhole attached to the gate.  A weather-beaten chest 
+lies at the side of the path.  
+~
+1 33554432 1
+D2
+~
+gate~
+33 7303 7305
+R O 0 7301 0 7304
+  R P 0 7303 10 7301
+R O 0 7304 0 7304
+R O 0 7305 0 7304
+R O 0 7306 0 7304
+R M 0 7324 1 7304
+R M 0 7335 10 7304
+S
+#7305
+A summary of Lessons 1-5~
+~
+Keywords to revise about the topics you've covered so far:
+ 
+- How to Move -   `#`Sexit / direction (east or e for short)`^
+ 
+- How to Look -   `#`Slook / look <keyword> / look in <container>
+                  examine <keyword>`^
+ 
+- How to Open -   `#`Sopen <direction>`^
+ 
+- How to Unlock - `#`Sunlock <direction> / open <direction>`^
+ 
+- How to Get -    `#`Sget <keyword> / get <object> <container>
+                  get all / get all.<keyword>`^ 
+~
+1 33554432 1
+D1
+~
+~
+0 0 7306
+S
+#7306
+Lesson 6 - How to Give~
+~
+Lets imagine for a moment that you are in the ic (in character) world..  `1`1 You are in a central plaza with people coming and going.  The path is 
+cobbled with grey stones and there is a wooden bench here.  A street heads 
+off to the southeast.  
+~
+1 33554432 1
+D7
+~
+~
+0 0 7307
+R O 0 7307 0 7306
+R M 0 7302 1 7306
+  R E 0 7308 0 12
+S
+#7307
+Lesson 7 - How to Talk~
+~
+Lets create a typical scene where there are other people to interact with..  
+`1`1 You are on a side street, which comes off the plaza.  Citizens wander 
+about happily, and laborers walk past quickly getting on with their work.  
+~
+1 33554432 1
+D2
+~
+~
+0 0 7308
+R M 0 7303 1 7307
+S
+#7308
+Lesson 8 - Socials~
+~
+You head south, continuing along this small street.  The road turns a 
+corner, heading southeast up ahead.  
+~
+1 33554432 1
+D7
+~
+~
+0 0 7309
+S
+#7309
+Lesson 9 - Emotes~
+~
+The street you are on turns another corner here, heading to the east.  It's 
+a rather quiet little street, with not many travellers passing by.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 7310
+S
+#7310
+Lesson 10 - How to follow~
+~
+The quiet little street you on, turns a sharp bend and heads to the 
+northeast.  The road is narrow, with scarcely another person in sight.  
+~
+1 33554432 1
+D6
+~
+~
+0 0 7311
+S
+#7311
+A summary of lessons 6-10~
+~
+Keywords to revise about the topics you've covered so far:
+ 
+ - How to Give -        `#`Sgive <item> <keyword of player>
+                        give <item> <name of player>
+                        give all <player> / give all.<item> <player>`^
+ 
+ - How to Talk -        `#`Ssay <message> / 'message 
+                        sayto <player> <message> / '>player message`^
+ 
+ - How to use Socials - `#`Stype socials for a list available`^
+ 
+ - How to do Emotes -   `#`Semote <action> / ,action
+                        type help emote for more info`^  
+ 
+ - How to Follow -      `#`Sfollow <player> / beckon <player>
+                        follow self / nofollow`^ 
+                   
+~
+1 33554432 1
+D1
+~
+~
+0 0 7312
+S
+#7312
+Lesson 11 - How to Buy~
+~
+Lets create the sort of shop setting you'll find in the ic (in character) 
+world..  `1`1 You walk into a small shop.  Shelves line the walls and from them you can 
+see a range of clothing and armor garments.  A counter stands at the front 
+of the shop, and there is a short man standing behind it, tending to the 
+customers.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7313
+R M 0 7304 1 7312
+  R E 0 7311 0 7
+  R E 0 7312 0 5
+  R G 0 7313 0
+  R G 0 7314 0
+  R G 0 7315 0
+  R G 0 7316 0
+  R G 0 7317 0
+  R G 0 7318 0
+  R G 0 7319 0
+  R G 0 7320 0
+S
+#7313
+Lesson 11 - How to Buy Part 2~
+~
+This is another typical shop setting..  `1`1You walk into a narrow shop.  Weapons of all kinds are displayed on the 
+walls.  There are sparkling swords and daggers, solid axes and polearms, and 
+a special display case of exotic weapons.  A young man serves from behind 
+the counter at the side of the room.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 7314
+D3
+~
+~
+0 0 7312
+R M 0 7305 1 7313
+  R E 0 7311 0 7
+  R E 0 7312 0 5
+  R G 0 7326 0
+  R G 0 7327 0
+  R G 0 7328 0
+  R G 0 7329 0
+  R G 0 7321 0
+R M 0 7322 1 7313
+S
+#7314
+Lesson 12 - How to Wear and Wield~
+~
+Let's imagine you've just come out of the shop, and you're back on a small 
+street.  `1`1The road here is neatly cobbled, and wide enough to fit two carriages 
+widthways.  There is a small building to the south with display cases of 
+weapons, and to the east, the road continues to weave its way along.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 7315
+D2
+~
+~
+0 0 7313
+S
+#7315
+Lesson 13 - How to Hold~
+~
+Lets imagine you are in one of the main towns and you walk into one of the 
+shops..  `1`1You are inside what looks to be, a general store.  There are shelves lined 
+with packaged goods, and at the front of the room is a counter with loaves 
+of fresh bread sitting on top.  
+~
+1 33554432 0
+D6
+~
+~
+0 0 7316
+R O 0 7330 0 7315
+R M 0 7306 1 7315
+  R E 0 7308 0 5
+  R G 0 7331 0
+  R G 0 7332 0
+  R G 0 7333 0
+  R G 0 7334 0
+  R G 0 7335 0
+  R G 0 7336 0
+  R G 0 7337 0
+R O 0 7330 0 7315
+S
+#7316
+Lesson 14 - How to Eat and Drink~
+~
+Lets create a typical park scene, that you might see in the ic world..  `1`1A path heads off the main street to a small park filled with large, shady 
+trees and flowerbeds blooming with radiant colours.  Butterflies and 
+sparrows fly about in the cool air, it seems like the perfect place for a 
+picnic.  
+~
+1 33554432 2
+D9
+~
+~
+0 0 7317
+R O 0 7338 0 7316
+S
+#7317
+Lesson 15 - How to Rest and Sleep~
+~
+You are still in a typical park setting, that you might see in the ic world. 
+ `1`1Green grass grows lushly here, covering the ground in a carpet of soft 
+green.  Tall trees cast shade on the park, and their leaves wave gently in 
+the breeze.  Sparrows fly about in the sky above you, landing every so often 
+to hop about looking for worms.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 7318
+S
+#7318
+A summary of lessons 11-15~
+~
+Keywords from the topics you've covered so far:
+ 
+- How to buy - `#`Slist / buy <item> / 
+               buy 5.item (buy the fifth item on the list)
+               buy 5.leather (buy the fifth leather item on the list)
+               buy 5*item (buy 5 items of the same, ie. 5 chickens)
+               sell <item> / sell all`^
+ 
+- How to wear/wield - `#`Swear <item> / wear all / remove <item>
+               wield <weapon> / second <weapon>`^
+ 
+- How to hold/drop/put - `#`Shold <item> / drop <item>
+               drop all / put <item> <container>`^
+ 
+- How to eat/drink - `#`Seat <item> / fill <container>
+               drink <container>`^
+ 
+- How to rest/sleep - `#`Srest / sleep / sleep <furniture>`^
+ 
+                
+~
+1 33554432 1
+D9
+~
+~
+0 0 7319
+S
+#7319
+Lesson 16 - How to Train and Practice~
+~
+Lets create the atmosphere of a guild, your place of training.  `1`1 You are inside a large dusty room.  An old oak bookshelf stands against 
+one wall filled with dusty novels and manuscripts.  On the adjacent wall 
+hang a display of weapons in all shapes and sizes.  Judging by the lack of 
+sheen on the weapons you can tell that they are well used.  
+~
+1 33554432 0
+D9
+~
+~
+0 0 7321
+R M 0 7307 1 7319
+  R E 0 7339 0 12
+R M 0 7323 1 7319
+S
+#7320
+Lesson 18 - How to Consider and Flee~
+~
+You are somewhere deep in the middle of mudschool.  There is a murky pool of 
+mosquito infested water before you.  The stench of the stagnant water hangs 
+heavily in the air and you hear the endless drone of mosquitos buzzing in 
+the air.  
+~
+1 33554432 2
+D3
+~
+~
+0 0 7322
+R M 0 7308 1 7320
+S
+#7321
+Lesson 17 - Prompt and Score~
+~
+This room in the mudschool is a plain, white-washed square room.  It seems 
+rather dull, the carpet is dirt-tan in colour and there is only a single 
+window shedding light on the room.  There is an exit to the southwest and 
+another to the southeast.  
+~
+1 33554432 1
+D8
+~
+~
+0 0 7320
+S
+#7322
+Lesson 19 - Wimpy and Recovery~
+~
+You head along a road in the mud school.  The path is covered in tiny 
+pebbles and seems well-trodden.  Small clumps of flowers grow wildly at the 
+edge of the path on either side.  The path heads southwest up ahead.  
+~
+1 33554432 1
+D8
+~
+~
+0 0 7323
+S
+#7323
+Lesson 20 - How to Group~
+~
+You stand in a small classroom somewhere in the mudschool.  The wallpaper is 
+a mellow cream colour and several windows let rays of light inside.  
+~
+1 33554432 0
+D9
+~
+~
+0 0 7324
+S
+#7324
+A summary of lessons 16-20~
+~
+Keywords from the topics you've covered so far:
+ 
+- How to train and practice - `#`Spractice (prac) <skill/realm> eg. dagger, summer
+                              train (tr) <statistic> eg. me, hp
+                              gain <skill/realm>`^
+ 
+- How to consider -    `#`Scon <creature>`^
+ 
+- Prompt and Score -   `#`Shelp prompt
+                       help score`^
+ 
+- Wimpy and Recovery - `#`Srest / rest bed
+                       wimpy <number>`^                      
+ 
+- How to group -       `#`Sfollow <player>
+                       group <player>`^
+ 
+~
+1 33554432 1
+D0
+~
+~
+0 0 7348
+S
+#7325
+Advanced School, Lesson 1 - Who's Who?~
+~
+You walk into a large, well-lit room inside the mudschool.  A lush red 
+carpet is spread out on the polished wooden floor.  In the corner stands an 
+oak end table, adorned with a small lamp.  There is an open door to the 
+northwest leading into another room.  
+~
+1 33554432 0
+D9
+~
+~
+0 0 7326
+S
+#7326
+Adv. School, Lesson 2 - Rules~
+~
+You enter yet another room in the mudschool.  There is an open entrance way 
+on the western wall leading to what looks to be another class.  Plain walls 
+surround you, with polished wood covering the floor.  An open window lets in 
+a soft breeze which greets you as you enter.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 7327
+S
+#7327
+Adv. School, Lesson 3 - IC/OOC~
+~
+Four solid, white-washed walls surround you.  A polished wooden floor gleams 
+from one wall to the other, and immediately opposite the door you just came 
+through, is another exit to the west.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 7328
+S
+#7328
+Adv. School, Lesson 4 - Channels~
+~
+You enter a long, tidy room in the mud school which seems a little bare.  
+Apart from the rug on the floor, there are no other furnishings.  A panel of 
+windows along one wall sheds light into the room and there is an open 
+doorway to the east.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7329
+S
+#7329
+Adv. School, Lesson 5 - Responding to Tells~
+~
+Yet another room within the mudschool.  This room looks pretty much like the 
+last one, with a doorway to the east leading into another room.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7330
+S
+#7330
+Adv. School, Summary of Lessons 1-5~
+~
+Helpfiles from the topics you've covered so far:
+ 
+- Who's Who? - `#`SWho (to see who's currently on)
+               help who / help who-levels
+               wizlist / help council
+               help noble 
+               help area-building`^
+ 
+- Rules -      `#`Shelp rules
+               helplist policy`^
+ 
+- IC/OOC -     `#`Shelp in character / help out of character
+               help newbie`^ 
+ 
+- Channels -   `#`Shelp -channels`^
+ 
+- Sending/Receiving Tells - `#`Shelp tell`^
+~
+1 33554432 0
+D7
+~
+~
+0 0 7373
+S
+#7331
+Adv. School, Lesson 6 - Roleplay~
+~
+A seeming dull room, with four walls, wooden floorboards and a ceiling 
+surrounds you.  Three tall windows, almost the entire height of the room, 
+are positioned along the eastern wall.  To the northeast, is an open 
+entranceway.  
+~
+1 33554432 0
+D6
+~
+~
+0 0 7332
+S
+#7332
+Adv. School, Lesson 7 - Alignment~
+~
+This room seems a little lavish for a classroom in the mudschool.  Or 
+perhaps it is just the soft, maroon velvet curtains that give it the 
+impression of lavishness.  Other than the striking curtains, the floor is 
+made of the same wooden floorboards as every other room you've entered so 
+far.  A doorway leads off to the north.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 7333
+S
+#7333
+Adv. School, Lesson 8 - Letgains~
+~
+This room has been covered in a soft, cream wallpaper which goes nicely with 
+the polished wood floors and skirting boards.  A four-panelled window sheds 
+light into the room, and you notice an exit to the southwest.  
+~
+1 33554432 0
+D8
+~
+~
+0 0 7334
+S
+#7334
+Adv. School, Lesson 9 - Short and Long Descriptions~
+~
+Pale walls, broken only by the bay windows, surround you on all four sides.  
+An open doorway leads off the southwest, presumably into another classroom 
+within the mudschool.  
+~
+1 33554432 0
+D6
+~
+~
+0 0 7335
+D8
+~
+~
+0 0 7373
+S
+#7335
+Adv. School, Summary of Lessons 6-9~
+~
+Helpfiles from the topics you've covered so far:
+ 
+- Roleplay -  `#`Shelp role-playing
+              help ic / help ooc
+              help examplegood / help examplebad`^
+ 
+- Alignment - `#`Shelp alignment / help alignment definition`^
+ 
+- Letgains -  `#`Shelp letgain
+              help history / help history-requirements
+              help history-example
+              help rpsheet
+              help race / help mythos`^
+ 
+- Short/Long Descriptions - `#`Shelp long / help short
+              help description-editor
+              help race`^                
+ 
+~
+1 33587204 0
+S
+#7336
+Adv. School, Lesson 10 - Leveling~
+~
+You enter a smallish room within the mudschool.  Polished wooden floors 
+glisten silently and rays of light shine in from the windows along the 
+western wall.  A doorway opens into another room to the southeast.  
+~
+1 33554432 0
+D7
+~
+~
+0 0 7337
+S
+#7337
+Adv. School, Lesson 11 - Guilds~
+~
+Peachy-cream wallpaper decorates the walls in this mudschool classroom.  A 
+matching peach-cream lampshade hangs from a light in the ceiling.  Panels of 
+polished wood glisten on the floor, and there is an exit to the east of this 
+room.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7338
+S
+#7338
+Adv. School, Lesson 12 - Races and Classes~
+~
+The classroom you enter is brightly lit.  Four windows along the wall 
+stretch from the floor to the ceiling, and fill the room with light.  A door 
+heads out of the room to the north.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 7339
+S
+#7339
+Adv. School, Lesson 13 - Mythos~
+~
+A striped peppermint green wallpaper decorates the walls in this room.  The 
+ceiling is tall with banisters of solid wood stretching across it.  Polished 
+wooden floorboards shine beneath your feet.  There is a door to the west, 
+leading into another classroom.  
+~
+1 33554432 0
+D3
+~
+~
+0 0 7340
+S
+#7340
+~
+~
+Helpfiles and keywords from the topics you've covered so far:
+ 
+- Leveling - `#`Sgain experience (xp) through:
+              roleplay / moot rewards / killing monsters
+              part of a group killing monsters /
+              increase skills through use`^
+ 
+- Guilds -   `#`STulgard / Throtyl / Crossroads / Silver temple
+             train <st qu pr em in co ag sd me re hp mana>
+             practice <skill>
+             gain <skill>`^
+ 
+- Races & Classes - `#`Shelp race-list / help racial-skills
+             help race-overview / help race-<race_name>
+             help race-myths
+             help class_name`^
+ 
+- Mythos and Setting - `#`Shelp mythos / help god-pantheon`^
+ 
+~
+1 33554432 0
+D9
+~
+~
+0 0 7373
+S
+#7341
+Adv. School, Lesson 14 - Areas~
+~
+This is a relatively small classroom, with four adjacent windows.  A dullish 
+cream paint covers the walls, and skirting boards.  To the southwest, a door 
+leads out of the classroom.  
+~
+1 33554432 0
+D8
+~
+~
+0 0 7342
+S
+#7342
+Adv. School, Lesson 15 - Maps~
+~
+Cream wallpaper with tiny swirls of light grey has been slathered on the 
+walls in this room within the mudschool.  The room is large but mostly 
+empty.  On the southern wall, a solid wood door stands, and probably leads 
+into another room much like this one.  
+~
+1 33554432 0
+D2
+~
+~
+0 0 7343
+S
+#7343
+Adv. School, Lesson 16 - Things to get involved in~
+~
+This room is narrow and long, and dimly lit.  Small windows high up on the 
+walls let in very little light, and the curtains are half-shut.  The 
+polished wooden floors seem dull in this light.  There is an exit to the 
+east.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7344
+S
+#7344
+Adv. School, Lesson 17 - Helpfiles~
+~
+You enter a large room, with fine, polished wood floors.  The frames on the 
+windows are also fine, polished wood with little gold latches.  The walls 
+are barren, and painted a mildew green colour, though the paint seems to be 
+a little faded now.  A door leads out of the room to the north.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 7345
+S
+#7345
+Adv. School, Summary of Lessons 14-17~
+~
+Helpfiles and keywords from the topics you've covered so far:
+ 
+- Areas -  `#`Sareas`^
+ 
+- Maps -   `#`Slook map`^
+ 
+- Things to get involved in - `#`Shelp clan / help politic
+           help ic-houses / help jobs
+           help pkill
+           help autoquest`^        
+ 
+- Helpfiles - `#`Shelplist <keyword>`^     
+~
+1 33554432 0
+D6
+~
+~
+0 0 7373
+S
+#7346
+Adv. School, The Big Test: Question 1~
+~
+The keywords you'll need:
+ 
+   - `#`Shelp rules`^
+~
+1 33554436 0
+R M 0 7317 1 7346
+S
+#7347
+A shop of all-sorts~
+~
+This is the last shop before entering the ic world.  It is stocked with a 
+hodge-podge of goods, from armor, to weapons, to food, and other useful 
+items.  A door leads south back out of the shop, into the classrooms.  
+~
+1 33587204 0
+R M 0 7316 1 7347
+  R E 0 7311 0 7
+  R E 0 7312 0 5
+  R G 0 7313 0
+  R G 0 7314 0
+  R G 0 7315 0
+  R G 0 7316 0
+  R G 0 7317 0
+  R G 0 7318 0
+  R G 0 7319 0
+  R G 0 7320 0
+  R G 0 7321 0
+  R G 0 7322 0
+  R G 0 7323 0
+  R G 0 7324 0
+  R G 0 7325 0
+  R G 0 7326 0
+  R G 0 7327 0
+  R G 0 7328 0
+  R G 0 7329 0
+  R G 0 7331 0
+  R G 0 7332 0
+  R G 0 7333 0
+  R G 0 7334 0
+  R G 0 7335 0
+  R G 0 7336 0
+  R G 0 7337 0
+S
+#7348
+A junkyard~
+~
+You stumble across a junkyard, filled with every odd bit of scrap metal and 
+wood and old wheels that you could find.  Its piled high and almost entirely 
+surrounds you.  In front of you stands a strange looking contraption which 
+looks to be only half finished.  Oddly enough, leading out of this curious 
+little spot, you notice a path heading into a garden of flowers and trees to 
+the north, and another smaller path pushes its way through the piles of junk 
+to the east.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 7349
+D1
+~
+~
+0 0 7350
+R O 0 7354 0 7348
+R O 0 7359 0 7348
+  R P 0 7341 20 7359
+R M 0 7310 1 7348
+  R E 0 7374 0 12
+S
+#7349
+A delightful garden~
+~
+The sweet scent of sweatpeas in bloom wafts through the air.  This garden is 
+divided into small flower beds filled with rambling sweetpeas and colourful 
+stocks.  The garden has been recently weeded and each flower bed has been 
+carefully edged with small grey stones.  The grassy path heads off in 
+several directions, to the west it looks like some sort of stall, and to the 
+east and north, more delightful flower gardens.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 7353
+D1
+~
+~
+0 0 7352
+D2
+~
+~
+0 0 7348
+D3
+~
+~
+0 0 7351
+R O 0 7360 0 7349
+  R P 0 7376 10 7360
+  R P 0 7358 10 7376
+S
+#7350
+A tranquil garden~
+~
+This garden is serene and tranquil garden with only the quiet, and 
+infrequent sounds of a bird twittering in the willow trees above.  A piece 
+of string seems to be tangled in the branches of one of the trees.  The 
+grass is soft and lush, a perfect place to take an afternoon nap in the sun. 
+ To the west, you see a pile of odds'n'ends which contrasts strongly with 
+this delightful garden, and the other gardens to the east and north.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 7352
+D1
+~
+~
+0 0 7357
+D3
+~
+~
+0 0 7348
+R O 0 7370 0 7350
+  R P 0 7345 10 7370
+R M 0 7314 10 7350
+S
+#7351
+A fruit stall~
+~
+Set in the corner of the garden is a small stall, stocked with bunches of 
+fruit.  The stall barely comes to the height of a human knee, and would suit 
+being run by someone small such as a gnome.  On the wooden stall, which is 
+decorated with red and orange flags, are plates of grapes, pomegranates, 
+bananas and watermelons.  There is a container made of tin to the side of 
+the stall and is filled with an opaque, lemony liquid.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 7349
+R O 0 7361 0 7351
+R O 0 7362 0 7351
+R M 0 7311 1 7351
+  R G 0 7355 0
+  R G 0 7356 0
+  R G 0 7357 0
+  R G 0 7352 0
+  R G 0 7363 0
+  R E 0 7373 0 12
+S
+#7352
+A garden brimming with flowers~
+~
+The path seems hard to find as flowers of every colour imaginable spread 
+across the garden in no logical pattern.  Bright red tulips, soft yellow 
+daisies, tall poppies, crimson and blue lobelias, blue string, the garden is 
+full of them.  The mingling scents fill the air with a fruit salad of 
+aromas.  Grassy paths head off to the north, south and east to more gardens. 
+ 
+~
+1 33554432 2
+D0
+~
+~
+0 0 7355
+D1
+~
+~
+0 0 7356
+D2
+~
+~
+0 0 7350
+D3
+~
+~
+0 0 7349
+R O 0 7368 0 7352
+  R P 0 7343 10 7368
+S
+#7353
+A quiet garden ~
+~
+Flowerbeds brimming with flowers in bloom line the path through this garden. 
+ The flowerbeds are home to many small bedding plants, with delicate blooms. 
+ The predominant colour is snow-white, with the occasional deep blue and 
+crimson red.  Butterflies and bees flit about in the breeze stopping to soak 
+up the nectar of these little flowers.  A small shed stands to the north of 
+the garden, and the garden continues to the east and south.  
+~
+1 33554432 2
+D0
+~
+shed door~
+33 7358 7354
+D1
+~
+~
+0 0 7355
+D2
+~
+~
+0 0 7349
+R O 0 7364 0 7353
+R M 0 7312 10 7353
+R M 0 7313 10 7353
+S
+#7354
+A small shed~
+~
+A small tin shed stands here, filled with shelves of gardening tools and old 
+spades and broken watering cans.  A tiny glass window on the eastern wall 
+sheds pale light into the room, enabling you to at least get your bearings.  
+The shelves are covered in dust, and looking a little closer, you notice 
+cobwebs starting to take over the corners of the ceiling.  The door to the 
+south opens into the garden.  
+~
+1 33554432 0
+D2
+~
+door~
+33 7358 7353
+R O 0 7365 0 7354
+  R P 0 7366 10 7365
+  R P 0 7331 10 7365
+R O 0 7367 0 7354
+  R P 0 7340 10 7367
+S
+#7355
+A garden of native plants~
+~
+The garden here is filled with shrubs and trees, the myriad of greens and 
+olives blending together to create a native and natural setting.  Grasses 
+and mosses grow along the ground, and at the edge of the paths, while 
+taller, sturdier bushes and shrubs grow at the edge of the garden.  To the 
+southeast you see a garden of wildflowers and to the west and south, more 
+gardens filled with flowers.  
+~
+1 33554432 2
+D2
+~
+~
+0 0 7352
+D3
+~
+~
+0 0 7353
+D7
+~
+~
+0 0 7356
+R M 0 7309 10 7355
+R M 0 7326 1 7355
+S
+#7356
+A romantic garden of wildflowers~
+~
+The path almost disappears beneath a garden of tangled wildflowers.  The 
+sweet scent of the rainbow of flowers attracts bees and butterflies, which 
+bob about on the flowerheads, feasting on the nectar.  You can barely make 
+out a path through the flowers to the south and another to the northwest.  
+~
+1 33554432 2
+D2
+~
+~
+0 0 7357
+D3
+~
+~
+0 0 7352
+D9
+~
+~
+0 0 7355
+R O 0 7369 0 7356
+  R P 0 7342 10 7369
+R M 0 7312 10 7356
+R M 0 7313 10 7356
+S
+#7357
+A quiet, secluded garden~
+~
+This quiet, secluded garden is set in amongst several trees and in the 
+middle is a large, comfortable looking boulder, perfect for lazing on.  
+Birds flit about in the branches, enjoying the cool, gentle breeze which 
+blows through the leaves.  To the east you hear the sound of a trickling 
+stream, and to the west and north the garden continues.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 7356
+D1
+~
+~
+0 0 7358
+D3
+~
+~
+0 0 7350
+R O 0 7371 0 7357
+R M 0 7314 10 7357
+S
+#7358
+A garden by the river~
+~
+At the edge of the garden a narrow stream trickles past at a sleepy pace.  
+The bank is covered in long lush grass and clumps of wildflowers.  The only 
+sound you hear is of the water bumbling over small river stones, and a 
+straggling piece of string, as it flows along.  Heading west leads back to 
+the central garden.  
+~
+1 33554432 2
+D3
+~
+~
+0 0 7357
+R O 0 7372 0 7358
+R O 0 7375 0 7358
+  R P 0 7344 10 7375
+S
+#7359
+New Player Recall Point~
+~
+As a new player you recall to this room until level six.  After that point
+in time, you will recall to the standard recall location for your class & 
+race combination.  In order to explore the world, you must be letgained, see 
+`#`Yhelp letgain`^ for more information.  Remember up to level 5 you can type 
+`#`Youtfit`^ for a free set of newbie gear.  `+
+`+
+There are exits from this room in the various directions.  `+
+`+
+`WNorth `S- `cTakes you to Mud School`+
+`WSouth `S- `cTakes you to the Cave of Beginnings`+
+`WEast `s- `cTakes you to the Newbie Arena`+
+`WWest `s- `cTakes you to the High Clerists Tower`+
+`WDown `g- `cTakes you to the Tulgard Square
+`x `+
+`+
+`#`YTo ask for help or communicate with others use the newbie channel. Type 
+NEWBIE and what you wish to say. You will be unable to use the other 
+channels until you are letgained even though you can see them.`^ `+
+`+
+`#`RMAKE SURE THAT YOU SHEATH YOUR WEAPONS WHEN YOU RECALL OUT OF HERE. `+
+`+
+ALSO, DO NOT KILL ANY HUMANOID MOBS IN ANY OF THE MAIN TOWNS OR YOU WILL BE 
+PUT ON THE TOPCRIME AND POSSIBLY BE HUNTED BY PC BOUNTY HUNTERS.`^ 
+~
+1 33555468 0
+D0
+~
+~
+0 0 7371
+D1
+~
+~
+0 0 4032
+D3
+~
+~
+0 0 45331
+D4
+~
+~
+0 0 7372
+D5
+~
+~
+0 0 3000
+D6
+~
+~
+0 0 15101
+R O 0 3076 0 7359
+R M 0 20172 1 7359
+R O 0 7386 0 7359
+S
+#7360
+Adv. School, The Big Test: Question 2~
+~
+The keywords you'll need:
+ 
+`#`S   - help rules`^
+~
+1 4 0
+R M 0 7318 1 7360
+R M 0 7328 2 7360
+S
+#7361
+Adv. School, The Big Test: Question 3~
+~
+The keywords you'll need:
+ 
+   `#`S- help rules`^
+~
+1 4 0
+R M 0 7319 1 7361
+R M 0 7328 2 7361
+S
+#7362
+Adv. School, The Big Test: Question 4~
+~
+The keywords you'll need:
+ 
+   `#`S- help rules`^
+~
+1 4 0
+R M 0 7320 1 7362
+R M 0 7329 1 7362
+S
+#7363
+Adv. School, The Big Test: Question 5~
+~
+The keywords you'll need:
+ 
+`#`S   - help rules`^
+~
+1 4 0
+R M 0 7321 1 7363
+R M 0 7330 1 7363
+S
+#7370
+Welcome to WOTL II!~
+~
+`#Type `YOUTFIT`^ to get a set of newbie gear.  Then say `YYES`^ or `YNO`^ if you have 
+played here before.  If you are not familiar with DOT muds or especially 
+this one, I suggest you go through mud school.  You may be an expert mudder, 
+but there are features and things you will need to be aware of here.  You 
+can type `YHELP FEATURES`^ to see the more interesting things we have here.  
+~
+1 843088900 0
+R M 0 7370 1 7370
+S
+#7371
+Welcome to Mud School~
+~
+This school is set up to teach you the basics of mudding, and about topics 
+which are unique to Whispers of Times Lost II.
+~
+1 0 0
+D2
+~
+~
+0 0 7359
+R M 0 7371 1 7371
+S
+#7372
+Newbies-R-Us Trading Inc.~
+~
+This spacious shop seems to sell a collection of plain, yet practical items, 
+such as basic armour and weaponry.  A friendly shopkeeper runs the place, 
+and seems more than willing to help you find the right item to suit you.  
+~
+1 0 0
+D5
+~
+~
+0 0 7359
+R M 0 7372 1 7372
+  R G 0 3026 0
+  R G 0 3107 0
+  R E 0 7312 0 5
+  R E 0 7311 0 7
+  R G 0 7313 0
+  R G 0 7314 0
+  R G 0 7315 0
+  R G 0 7316 0
+  R G 0 7317 0
+  R G 0 7318 0
+  R G 0 7319 0
+  R G 0 7320 0
+  R G 0 7326 0
+  R G 0 7321 0
+  R G 0 7323 0
+  R G 0 7327 0
+  R G 0 7329 0
+  R G 0 3059 0
+  R G 0 7328 0
+  R G 0 39159 0
+S
+#7373
+Welcome to Advanced School~
+~
+Advanced school is organised into four series, based on similar topics. Choose a direction to get started.
+ 
+North - Advanced Lessons 1-5
+East  - Advanced Lessons 6-10
+South - Advanced Lessons 11-13
+West  - Advanced Lessons 14-17
+Up    - Advanced Test 
+~
+1 0 0
+D0
+~
+~
+0 0 7325
+D1
+~
+~
+0 0 7331
+D2
+~
+~
+0 0 7336
+D3
+~
+~
+0 0 7341
+D4
+~
+~
+0 0 7346
+R M 0 7332 10 7373
+S
+#0
+
+
+#SHOPS
+ 7304    9  0  0  0  0   105 100         0 23    ; a short man
+ 7305    5  0  0  0  0   105 100         0 23    ; a young man
+ 7306    0  0  0  0  0   105 100         0 23    ; a rather pudgy middle-aged lady
+ 7311    0  0  0  0  0   105 100         0 23    ; a little gnomish woman
+ 7316    0  0  0  0  0   105 100         0 23    ; a tall shopkeeper
+ 7372    0  0  0  0  0   105 100         0 23    ; a friendly shopkeeper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

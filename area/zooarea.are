@@ -1,0 +1,1310 @@
+#AREA        The Zoo~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#3670
+chimpanzee~
+a chimpanzee~
+A `#`ychimpanzee`^ plays in the trees here.`^
+~
+These apes have a thick black coat and a flat bare face. Their arms dangle 
+at their sides, longer than the legs. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+72 0 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3671
+baboon~
+a baboon~
+A `#`sbaboon`^ is here, cleaning itself.
+~
+These monkeys have long, dense, silky fur which is gray in males and 
+brownish in females. Mature males have a silver-gray cape or mane over the 
+head, neck and shoulders. All adults have red, hairless skin on the face and 
+rump. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3672
+gorilla~
+a gorilla~
+A `#`ygorilla`^ stands here, looking proud.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3673
+orangutan~
+an orangutan~
+An `#`yorangutan`^ is here, watching you.
+~
+These apes have long reddish-brown hair, very long arms and a large, heavy 
+body. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+74 0 -44 7d11+375 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3674
+red kangaroo~
+a red kangaroo~
+A `#`rred Kangaroo`^ is here hopping up and down.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3675
+panda bear~
+a panda bear~
+A `#`sp`wa`sn`wd`sa bear`^ is here eating on some leaves.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+71 0 -41 7d11+360 8d8+35
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3676
+grizzly bear~
+a grizzly bear~
+A large `#`sgrizzly bear`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3677
+polar bear~
+a polar bear~
+A large `#`Wpolar bear`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3678
+red fox~
+a red fox~
+A `#`rred fox`^ is here pacing in the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3679
+grey wolf~
+a grey wolf~
+A `#`sgrey wolf`^ is here pacing in the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3680
+spotted hyena~
+a spotted hyena~
+A `#`wsp`so`wt`st`we`sd h`wy`se`wn`sa`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+72 0 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3681
+hippopotamus~
+a hippopotamus~
+A `#`whippopotamus`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+76 0 -46 8d11+380 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3682
+elephant~
+a large elephant~
+A large `#`welephant`^ is here eating peanuts.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3683
+lizard~
+a lizard~
+A `#`glizard`^ is here slinking about his cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+72 0 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3684
+stripped snake~
+a stripped snake~
+A `#`ss`rt`sr`ri`sp`rp`se`rd `ssnake`^ is slithering around here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+71 0 -41 7d11+360 8d8+35
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3685
+large crocodile~
+a large crocodile~
+A large `#`gcrocodile`^ is here slinking about the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+78 0 -48 8d11+390 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3686
+rhino~
+a rhino~
+A huge `#`wrhino`^ is here pacing in the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+78 0 -48 8d11+390 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3687
+lynx~
+a lynx~
+A `#`wlynx`^ is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3688
+jaguar~
+a jaguar~
+A large `#`sjaguar`^ is here pacing the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3689
+large lion~
+a large lion~
+A large `#`ylion`^ is here letting out a loud roar.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+76 0 -46 8d11+380 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3690
+tiger~
+a tiger~
+A large `#`ytiger`^ is here pacing in the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+76 0 -46 8d11+380 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3691
+leopard~
+a leopard~
+A large `#`wleopard`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+74 0 -44 7d11+375 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3692
+cheetah~
+a cheetah~
+A `#`ycheetah`^ is here pacing in the cage.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3693
+giraffe~
+a tall giraffe~
+A tall `#`ygiraffe`^ stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3694
+zoo customer~
+a zoo customer~
+A customer of the zoo is here enjoying the animals.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3670
+sign~
+a large wooden sign~
+`#`yA large wooden sign is stuck in the ground here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3670 sign ~
+Welcome to the Calontir Zoo! Please enjoy your stay and do not feed the 
+animals. `-signed`- The Zoo Staff 
+~
+#0
+
+
+#ROOMS
+#3670
+Zoo Entrance~
+~
+You have found the zoo. The rumble of different animals can be distintcly 
+heard here. The cobbled path is worn and often used. A sprinkling of straw 
+litters it here and there, the occasional wrapper or stray cup to join. The 
+east leads deeper into the zoo. 
+~
+1 0 0
+D1
+~
+~
+0 0 3671
+S
+#3671
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main entrance appears 
+to be to the west while the main path continues on towards the east. 
+~
+1 8 0
+D1
+~
+~
+0 0 3672
+D3
+~
+~
+0 0 3670
+S
+#3672
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main entrance appears 
+to be to the west while the main path continues on to the northeast and 
+southeast. The wild call of the primates can be heard from the east. 
+~
+1 8 0
+D1
+~
+~
+0 0 3673
+D3
+~
+~
+0 0 3671
+D6
+~
+~
+0 0 3677
+D7
+~
+~
+0 0 3689
+R M 0 3694 18 3672
+S
+#3673
+The Chimpanzee Cage~
+~
+A divider stretches to the sides and over head almost like a large trellis. 
+The roar of the primates is almost deafening as they shriek and call out as 
+you pass under. The chimps can be seen swinging on hanging vines or hanging 
+from the limbs of trees. 
+~
+1 8 0
+D1
+~
+~
+0 0 3674
+D3
+~
+~
+0 0 3672
+R M 0 3670 3 3673
+S
+#3674
+Baboons~
+~
+A divider stretches to the sides and over head almost like a large trellis. 
+The baboons watch closely as you pass underneath, as if you were the one put 
+on display here. Other times they ignore you completely. 
+~
+1 8 0
+D1
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3673
+R M 0 3671 3 3674
+S
+#3675
+The Gorilla Cage~
+~
+A divider stretches to the sides and over head almost like a large trellis. 
+The sound of large fists pounding on chests define this section as the 
+gorilla home. They sit in groups, cleaning each other or idly playing. 
+~
+1 8 0
+D1
+~
+~
+0 0 3676
+D3
+~
+~
+0 0 3674
+R M 0 3672 4 3675
+S
+#3676
+The Orangutan Pin~
+~
+A divider stretches to the sides and over head almost like a large trellis. 
+The orangutans lope about or sit and watch as you pass by. 
+~
+1 8 0
+D3
+~
+~
+0 0 3675
+R M 0 3673 3 3676
+S
+#3677
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The path continues to the 
+northeast and southwest and to the east is the open pin for the giraffes. 
+~
+1 8 0
+D1
+~
+~
+0 0 3709
+D6
+~
+~
+0 0 3678
+D8
+~
+~
+0 0 3672
+S
+#3678
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. Everywhere you look are 
+different sized pins caging the different felines. 
+~
+1 8 0
+D0
+~
+~
+0 0 3708
+D1
+~
+~
+0 0 3679
+D8
+~
+~
+0 0 3677
+R M 0 3694 18 3678
+S
+#3679
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. Everywhere you look are 
+different sized pins caging the different felines. 
+~
+1 8 0
+D0
+~
+~
+0 0 3706
+D1
+~
+~
+0 0 3680
+D2
+~
+~
+0 0 3707
+D3
+~
+~
+0 0 3678
+S
+#3680
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. Everywhere you look are 
+different sized pins caging the different felines. 
+~
+1 8 0
+D0
+~
+~
+0 0 3705
+D1
+~
+~
+0 0 3681
+D2
+~
+~
+0 0 3704
+D3
+~
+~
+0 0 3679
+S
+#3681
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. Everywhere you look are 
+different sized pins caging the different felines. 
+~
+1 8 0
+D0
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 3680
+D7
+~
+~
+0 0 3682
+R M 0 3694 18 3681
+S
+#3682
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the northwest and the south. The rhinos can be found to the west. 
+~
+1 8 0
+D2
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3702
+D9
+~
+~
+0 0 3681
+S
+#3683
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the north and south. An open walkway leads east into what can only be 
+described as the reptile den. To the west is a large pit housing the 
+elephants. 
+~
+1 8 0
+D0
+~
+~
+0 0 3682
+D1
+~
+~
+0 0 3698
+D2
+~
+~
+0 0 3684
+D3
+~
+~
+0 0 3699
+R M 0 3694 18 3683
+S
+#3684
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the north and southwest. Westward is a large pit that seems to be the 
+home of a fittingly large hungry-hippo. 
+~
+1 8 0
+D0
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3697
+D8
+~
+~
+0 0 3685
+S
+#3685
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. To the south the chaotic 
+laughter of some beast can be heard, but the main path continues to the west 
+and on to the northeast. 
+~
+1 8 0
+D2
+~
+~
+0 0 3696
+D3
+~
+~
+0 0 3686
+D6
+~
+~
+0 0 3684
+R M 0 3694 18 3685
+S
+#3686
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. To the south is the foxes 
+lair and the north is the home of wolves. The main path continues on to the 
+west and east. 
+~
+1 8 0
+D0
+~
+~
+0 0 3694
+D1
+~
+~
+0 0 3685
+D2
+~
+~
+0 0 3695
+D3
+~
+~
+0 0 3687
+S
+#3687
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the west and the east. You seem to have found yourself at the bear den. 
+~
+1 8 0
+D0
+~
+~
+0 0 3692
+D1
+~
+~
+0 0 3686
+D2
+~
+~
+0 0 3693
+D3
+~
+~
+0 0 3688
+S
+#3688
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the northwest and on to the east. You seem to have found yourself at the 
+bear den. 
+~
+1 8 0
+D1
+~
+~
+0 0 3687
+D2
+~
+~
+0 0 3691
+D9
+~
+~
+0 0 3689
+R M 0 3694 18 3688
+S
+#3689
+Main Walkway~
+~
+The rumble of different animals can be distintcly heard here. The cobbled 
+path is worn and often used. A sprinkling of straw litters it here and 
+there, the occsional wrapper or stray cup to join. The main path continues 
+to the northwest and southeast while to the east the area for the kangaroos 
+can be found. 
+~
+1 8 0
+D1
+~
+~
+0 0 3690
+D7
+~
+~
+0 0 3688
+D9
+~
+~
+0 0 3672
+S
+#3690
+Red Kangaroo~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D3
+~
+~
+0 0 3689
+R M 0 3674 2 3690
+S
+#3691
+Panda Bears~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3688
+R M 0 3675 3 3691
+S
+#3692
+Polar Bears~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3687
+R M 0 3677 3 3692
+S
+#3693
+Grizzly Bears~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3687
+R M 0 3676 3 3693
+S
+#3694
+Grey Wolf~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3686
+R M 0 3679 3 3694
+S
+#3695
+Red Fox~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3686
+R M 0 3678 3 3695
+S
+#3696
+Spotted Hyena~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3685
+R M 0 3680 3 3696
+S
+#3697
+Hippopotamuses~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D1
+~
+~
+0 0 3684
+R M 0 3681 3 3697
+S
+#3698
+Turtles~
+~
+You've found yourself in the Reptile Den. Built into the walls are panels of 
+glass cages of all shapes and sizes. A myriad of species and types of 
+turtles can be found here. 
+~
+1 8 0
+D0
+~
+~
+0 0 3700
+D1
+~
+~
+0 0 3710
+D2
+~
+~
+0 0 3701
+D3
+~
+~
+0 0 3683
+S
+#3699
+Elephant Cage~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D1
+~
+~
+0 0 3683
+R M 0 3682 3 3699
+S
+#3700
+Snakes~
+~
+You've found yourself in the Reptile Den. Snakes.. are everywhere. Not much 
+seperates you from these venomous creatures. Housed by glass-panels built 
+into the walls, you can easily observe as they slither about or soak up the 
+sun. 
+~
+1 8 0
+D2
+~
+~
+0 0 3698
+R M 0 3684 3 3700
+S
+#3701
+Lizards~
+~
+You've found yourself in the Reptile Den. Lizards of all kinds can be seen 
+here not doing much of anything. They pretty much just lay there in there 
+glassed-in cages. You would think they were dead ...almost. 
+~
+1 8 0
+D0
+~
+~
+0 0 3698
+R M 0 3683 3 3701
+S
+#3702
+Rhinos~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D1
+~
+~
+0 0 3682
+R M 0 3686 3 3702
+S
+#3703
+Lynx~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3681
+R M 0 3687 3 3703
+S
+#3704
+Jaguars~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3680
+R M 0 3688 3 3704
+S
+#3705
+Lions~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3680
+R M 0 3689 3 3705
+S
+#3706
+Leopards~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3679
+R M 0 3691 3 3706
+S
+#3707
+Tigers~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D0
+~
+~
+0 0 3679
+R M 0 3690 3 3707
+S
+#3708
+Cheetah~
+~
+You are inside of a large animal cage. The floor is made of stone and there 
+is a layer of straw covering it. A large water hole is in one corner of the 
+cage and in the other corner is a large container of food. 
+~
+1 8 0
+D2
+~
+~
+0 0 3678
+R M 0 3692 3 3708
+S
+#3709
+Giraffes~
+~
+This large area is reserved for the giraffes. Three to four can be usually 
+found here as they go about there daily business. They can be seen moseying 
+along or stretching to eat the leaves from the trees that grow inside. 
+~
+1 8 0
+D3
+~
+~
+0 0 3677
+R M 0 3693 3 3709
+S
+#3710
+Crocodiles~
+~
+You've found yourself in the Reptile Den. This area is sectioned off around 
+a pond big enough to house two to three crocodiles. 
+~
+1 8 0
+D3
+~
+~
+0 0 3698
+R M 0 3685 3 3710
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

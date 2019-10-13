@@ -1,0 +1,5860 @@
+#AREA        Briarlea Faerie Ring~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#39120
+door~
+a door mob~
+A door mob is here holding a tape measure.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39121
+fly~
+a fly mob~
+A fly mob is here reminding faeries to use their wings.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39122
+fly~
+a fly mob~
+A fly mob is here reminding faeries to use their wings.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39123
+fly~
+a fly mob~
+A fly mob is here reminding faeries to use their wings.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39124
+Tillillie busy faerie daisy~
+a busy faerie with a daisy tucked behind her ear~
+A busy faerie with a daisy tucked behind her ear serves cups of tea.
+~
+A faerie lady busies herself serving cups of tea to the customers.  She 
+keeps her purple-toned wings out of the way somehow as she bustles amongst 
+the tables.  A bright yellow daisy is tucked cheerfully behind her left ear. 
+ 
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39125
+kaylie slightly chubby faerie pink cheeks~
+a slightly chubby faerie with pink cheeks~
+A slightly chubby faerie with pink cheeks is ready to serve the customers.
+~
+A slightly chubby faerie fusses over the customers as they drool over the 
+delectable treats for sale.  She looks as if she's sampled a few herself, 
+but who could resist such delights?  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39126
+Beren green-haired faerie~
+a green-haired faerie~
+A green-haired faerie is sorting herbs into piles, and is serving customers at the same time.
+~
+This male faerie has an unusual shade of green in his hair, perhaps natural, 
+or perhaps it is dyed using some of the herbs he sells.  He seems to know 
+his herbs well, and is ready to help you with any herbal needs.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39127
+Salvian tall faerie~
+a tall faerie~
+A tall faerie demonstrates how to use the instruments here.
+~
+A tall male faerie demonstrates how to use the varied instruments on sale.  
+He seems like a talented musician, being able to pick up any instrument and 
+play a sweet melody on it.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39128
+millissa faerie flamboyant hat~
+a faerie dressed in a flamboyant hat~
+A faerie dressed in a flamboyant hat greets you warmly.
+~
+A faerie dressed in a flamboyant hat greets you warmly and shows you around 
+her little store.  She seems very proud of her creations, and takes delight 
+in seeing a happy customer walk out with one of them.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39129
+Ibrellen plump faerie~
+a plump faerie~
+A plump faerie is polishing up a pair of slippers.
+~
+This faerie man is a little on the plump side, but just enough to make him 
+adorable.  He busies himself polishing shoes and helping customers find just 
+the right fit for their faerie foot.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39130
+Jilessa faerie tiny spectacles~
+a faerie with tiny spectacles~
+A faerie with tiny spectacles is putting leaf dockets on the books.
+~
+A faerie with dainty spectacles is tending to the bookstore.  She takes 
+particular care when displaying the well-loved books, as if they were her 
+favourite.  But she looks the type to know about all of the books she sells. 
+ 
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39131
+Melistre faerie sparkly hair~
+a faerie with sparkly hair~
+A faerie with sparkly hair is pouring faeriedust into a small pouch.
+~
+The faerie who owns this shop has sparkly hair, probably from the faerie 
+dust she works with all day long.  She has dusty fingers which sparkle a 
+little too.  She knows all about faeriedust and would be more than happy to 
+help you.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39132
+Tetril curious-looking faerie fuzzy hair~
+a curious-looking faerie with fuzzy hair~
+A curious-looking faerie with fuzzy hair would love to help you find the trinket you're after.
+~
+The faerie who works in this shop is a curious-looking fellow.  He has fuzzy 
+hair, and his eyes are a little glazed over, as if he were daydreaming about 
+something.  Perhaps an adventure where he found one of his knickknacks, or 
+his next adventure in search of an odd trinket.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39133
+Kestalla finely dressed faerie~
+a finely dressed faerie~
+A finely dressed faerie is ready to help you find the right garment.
+~
+This faerie is finely dressed, in a beautiful handsewn and original dress of 
+auburn rose petals.  Her hair is intricately styled and a colourful scarf 
+adorns her neck, giving her a touch of added flair.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39134
+Kristilla faerie ribbons hair~
+a faerie with beautiful ribbons in her hair~
+A faerie with beautiful ribbons in her hair is cutting lengths of ribbon.
+~
+This faerie has a flair for doing delightful things with ribbons.  Today she 
+has weaved ribbons of every shade of pink and peach through her hair, and 
+tied them into dazzling bows at the ends.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39135
+Avriel faerie humming bird~
+a faerie with a hummingbird perched on his shoulder~
+A faerie with a hummingbird perched on his shoulder is taking care of the pets.
+~
+This faerie man seems to have a natural bond with almost any creature, being 
+able to tame even the wildest of them.  The little hummingbird on his 
+shoulder sits there quietly, obviously happy with its surroundings.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39136
+Galiial scruffy faerie~
+a scruffy faerie~
+A scruffy faerie is crafting a new piece of furniture.
+~
+A scruffy faerie here, has tousled hair with bits of sawdust all through it, 
+and old, patched overalls.  Despite his appearance, he seems to know his 
+trade well, and takes a lot of joy from it.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39137
+angelfish fish clamshell~
+an `#`Ya`Sn`Yg`Se`Yl `Sf`Yi`Ss`Yh`^~
+An `#`Ya`Sn`Yg`Se`Yl `Sf`Yi`Ss`Yh`^ swims happily in its clamshell tank.
+~
+Inside its clamshell tank, swims an angel fish with black and bright yellow 
+stripes.  It has a black dorsal fin, and black eyes, with a rippling yellow 
+tail.  
+~
+0
+clanname none~
+0
+0
+129 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39138
+green aphid~
+a `#`Ggreen`^ aphid~
+A `#`Ggreen`^ aphid flies about happily.
+~
+This is a little green bug, which loves feeding on leafs and other 
+vegetables.  It has two wings on its back, and two antennae on its head 
+which twitch constantly.  
+~
+0
+clanname none~
+0
+0
+129 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39139
+man lady-bug~
+a man `#`Rl`Sa`Rd`Sy`R-`Sb`Ru`Sg`^~
+A man `#`Rl`Sa`Rd`Sy`R-`Sb`Ru`Sg`^ flits about looking for a spot to land.
+~
+This is a little man lady-bug.  You can tell, because his spots are larger 
+than that of a female's.  He has two curved wings tucked into his back, and 
+just loves munching his way through leaves.  
+~
+0
+clanname none~
+0
+0
+129 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39140
+furry white mouse~
+a furry `#`Wwhite`^ mouse~
+A furry `#`Wwhite`^ mouse cleans its whiskers here.
+~
+A furry white mouse sits here cleaning its whiskers.  It has tiny paws which 
+it first licks, and then rubs over its head and face.  Of course it would 
+stop cleaning, at the first smell of cheese.  
+~
+0
+clanname none~
+0
+0
+129 0 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39141
+hummingbird~
+a hummingbird~
+A hummingbird beats its wings furiously here.
+~
+This hummingbird is forever beating its wings, so fast that it often seems 
+like a blur of something resembling wings.  It has a long black beak, and 
+bright black eyes.  It has a weakness for nectar and honey.  
+~
+0
+clanname none~
+0
+0
+129 524288 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39142
+venus flytrap~
+a `#`Gvenus`^ `#`mfly-trap`^~
+A `#`Gvenus`^ `#`mfly-trap`^ snaps at flys here.
+~
+A venus flytrap sits in its turtleshell pot snapping at anything that 
+resembles a fly.  Actually, anything smaller than itself that moves would 
+do.  It has a dripping mouth of spiky teeth and a plump red tongue which 
+lolls about inside its mouth.  It is bright green in colour, with a purple 
+head.  
+~
+0
+clanname none~
+0
+0
+129 524288 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39143
+racing snail~
+a racing snail~
+A racing snail sits here with a saddle on its back.
+~
+A snail, bred for racing sits here with a saddle strapped to its back, and a 
+bit in its mouth.  When it gets moving it gets up to speeds fast enough to 
+blow you hair into a haystack.  
+~
+0
+clanname none~
+0
+0
+129 524288 0 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39144
+starfish clamshell~
+a `#`Rstarfish`^~
+A `#`Rstarfish`^ sits in its clamshell tank, looking adorable.
+~
+Inside this clamshell tank, is a red starfish.  It has tiny little ridges 
+along its legs and on each ridge are many smaller ridges, like little 
+mountains.  It looks adorable, for a starfish.  
+~
+0
+clanname none~
+0
+0
+129 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39145
+fluffy yellow chick~
+a fluffy `#`Yyellow`^ chick~
+A fluffy `#`Yyellow`^ chick sits here, looking soft and cuddly.
+~
+A fluffy yellow chick pecks about quietly, either exploring or in search of 
+food.  It feels soft to the touch, and makes little peeping noises every so 
+often.  It looks very cuddly.  
+~
+0
+clanname none~
+0
+0
+129 524288 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39146
+silvie faerie party hat~
+a faerie wearing a party hat~
+A faerie wearing a party hat is serving the customers.
+~
+The faerie working here looks as if she were about to head off to a party 
+herself.  She's dressed in a bright, almost tutu-like dress, with shiny 
+slippers and a party hat on her head.  Every so often she picks up a bottle 
+of bubble mix and blows some more bubbles around the shop.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39147
+jasmine blue winged faerie~
+a delicate blue-winged female faerie~
+A delicate blue-winged female faerie is here.
+~
+A delicate looking female faerie is here.  She has large translucent blue 
+wings that is bigger than she is.  She flies about happily, stopping once in 
+a while to rest on a toadstool or mushroom nearby.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+30 0 -9 5d5+130 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39148
+sharelli druid faerie~
+a druid faerie~
+A druid faerie is here, fussing over passersby.
+~
+This faerie has a gentle looking face and soft tender hands.  She has a 
+soothing voice and looks like just the faerie to take of one when one is not 
+feeling so good.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39149
+wise-looking faerie storytelling corillie~
+a storytelling faerie~
+A wise-looking faerie is here telling faerie-tales.
+~
+This faerie is one of the older ones in the mushroom ring, yet still has 
+eyes filled with life and laughter.  She spends her time telling 
+faerie-tales to the younger ones, and of course any innocent passersby.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39150
+load a drop of dew~
+`#`WI load a drop of dew`^~
+`#`WI load a drop of dew`^
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39151
+alila olive skinned faerie ranger~
+an olive skinned male faerie~
+An olive skinned male faerie is here.
+~
+An olive skinned male faerie is here, dressed in a brown tunic.  He flits 
+about with his short brown wings, resting amongst plants, almost totally 
+camouflaged.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+30 0 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39152
+laetha green speckled wing faerie~
+a female faerie with green speckled wings~
+A female faerie with green speckled wings is here.
+~
+A slender female faerie with green speckled wings stands here demurely.  She 
+is very quite and looks about very interested in the events around her.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39153
+secret lair, nightime lights, borrowed treasure~
+the multipurpose mob~
+The multipurpose mob sits here, doing several jobs at once.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39154
+secret lair mob #2~
+exit from the queen's lair~
+I'll shut the door after you.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39155
+handsome faerie attendant ileth~
+a faerie attendant~
+A handsome faerie attendant waits on the queen.
+~
+This attendant to the queen is a handsome faerie with golden hair tucked 
+neatly under a royal cap.  He has deep blue wings with silvery swirls which 
+flutter softly behind him as he waits on the queen.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39156
+wiliondl guard faerie regal~
+a guard faerie~
+A regal male faerie stands here, guarding the queen.
+~
+The young male faerie on duty as a guard to the faerie queen, takes his job 
+very seriously.  He stands at attention for hours on end, his wings barely 
+twitching.  His uniform is kept spick and span, everything is neatly pressed 
+and in order.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+42 0 -14 5d7+242 3d12+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39157
+verili rugged looking male faerie~
+a rugged looking male faerie~
+A rugged looking male faerie is here, looking serious.
+~
+A rugged looking male faerie is here looking serious. For a faerie. Rugged, in faerie terms, that is. He holds his weapons expertly, and his armour is well worn but in good condition.
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+30 0 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39158
+lilila nondescript female faerie black wings~
+a nondescript female faerie with black wings~
+A nondescript female faerie with black wings is here.
+~
+A nondescript female faerie with black wings hides here in the shadows.  A 
+perpetual mischevious grin plays across her innocent face as she flits 
+around.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+30 0 -9 5d5+130 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39159
+arylili female faerie silky green hair~
+a female faerie with silky green hair~
+A female faerie with silky green hair is here.
+~
+A cheerful looking female faerie with green hair is here, engaging everyone 
+around her in noisy chatter.  She holds a flute in her hand, stopping her 
+chatter once in a while to play a lilting scale.  She seems to be able to 
+capture everyone's attention to herself all the time, effortlessly and 
+non-obstructively.  
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+1 0 9 1d4+1 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#39166
+faerie queen adraeli~
+a faerie queen with a magnificent crown~
+A faerie queen with a magnificent crown is here, smiling happily.
+~
+The beautiful faerie queen is here surrounded by dozens of other faeries. She wears a grand ballgown and a magnificent crown is perched precariously on her head.
+~
+0
+clanname none~
+0
+0
+65 524288 400 C
+45 0 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#39120
+a colourful scarf~
+a `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ scarf~
+A `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ scarf is here, looking delicate.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39120 colourful scarf~
+A `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ scarf about the length of 12 inches and width of 4 inches lies 
+here carelessly.  It is made of fine spidersilk and thistledown.  The 
+material seems to have been treated to make it more durable.  It is 
+extremely light and the edges of the scarf has little tassles all along it.  
+~
+#39121
+toadstool stool~
+a `#`Wwhite`^ spotted `#`Rred`^ toadstool stool~
+A `#`Wwhite`^ spotted `#`Rred`^ toadstool stool is here looking comfortable.~
+~
+12 0 8
+500 140434 105 105 0 0 0
+1 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39122
+smallish silver spotted toadstool~
+a smallish `#`Ssilver`^ spotted toadstool~
+A smallish `#`Ssilver`^ spotted toadstool grows here, in the grass.~
+~
+13 0 8
+0 0 0 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39123
+violet topped mushroom~
+a `#`mviolet`^ topped mushroom~
+A `#`mviolet`^ topped mushroom grows among the tufts of grass.~
+~
+29 0 16
+0 0 39158 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39124
+crystal blue spotted mushroom~
+a `#`Ccrystal blue`^ spotted mushroom~
+A `#`Ccrystal blue`^ spotted mushroom grows here.~
+~
+29 0 16
+0 0 39157 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39126
+large cyan mushroom~
+a large `#`ccyan`^ mushroom~
+A large `#`ccyan`^ mushroom grows in the grass here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39127
+bright blue toadstool~
+a `#`Cbright blue`^ toadstool~
+A `#`Cbright blue`^ toadstool stands in the middle of the path here.~
+~
+29 0 16
+0 0 39165 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39128
+smallish green toadstool~
+a smallish `#`Ggreen`^ toadstool~
+A smallish `#`Ggreen`^ toadstool grows here in the grass.~
+~
+29 0 16
+0 0 39168 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39129
+large yellow mushroom~
+a large `#`Yyellow`^ mushroom~
+A large `#`Yyellow`^ mushroom with a thick stalk grows here.~
+~
+29 0 16
+0 0 39150 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39130
+purple and white toadstool~
+a `#`mpurple`^ and `#`Wwhite`^ toadstool~
+A `#`mpurple`^ and `#`Wwhite`^ toadstool stands here in the tufts of grass.~
+~
+29 0 16
+0 0 39166 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39131
+deep blue toadstool~
+a `#`bdeep blue`^ toadstool~
+A `#`bdeep blue`^ toadstool stands among the tufts of grass here.~
+~
+29 0 16
+0 0 39167 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39132
+mushroom light green spots~
+a mushroom with `#`Glight green`^ spots~
+A mushroom with `#`Glight green`^ spots grows here.~
+~
+29 0 16
+0 0 39159 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39133
+tall blue toadstool~
+a tall `#`Bblue`^ toadstool~
+A tall `#`Bblue`^ toadstool grows here.~
+~
+29 0 16
+0 0 39160 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39136
+pink mushroom tall stalk~
+a `#`Mpink`^ mushroom with a tall stalk~
+A `#`Mpink`^ mushroom with a tall stalk grows on the path.~
+~
+29 0 16
+0 0 39161 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39137
+bright purple toadstool~
+a bright `#`mpurple`^ toadstool~
+A bright `#`mpurple`^ toadstool grows here.~
+~
+29 0 16
+0 0 39162 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39138
+large toadstool thick green stalk~
+a large toadstool with a thick, `#`Ggreen`^ stalk~
+A large toadstool with a thick, `#`Ggreen`^ stalk grows here.~
+~
+29 0 16
+0 0 39163 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39139
+brilliant yellow mushroom~
+a brilliant `#`Yyellow`^ mushroom~
+A brilliant `#`Yyellow`^ mushroom grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39140
+orange toadstool~
+an `#`Rorange`^ toadstool~
+An `#`Rorange`^ toadstool grows at the edge of the path.~
+~
+29 0 16
+0 0 39154 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39141
+red white toadstool~
+a `#`Rred`^ and `#`Wwhite`^ toadstool~
+A `#`Rred`^ and `#`Wwhite`^ toadstool grows on the path.~
+~
+29 0 16
+0 0 39164 0 0 0 0
+20 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39142
+lusciously soft patch moss~
+a lusciously soft patch of moss~
+A lusciously soft patch of moss.~
+~
+12 0 8
+5000 1170 100 100 0 0 0
+20 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39143
+mossy patch grass~
+a mossy patch of grass~
+A mossy patch of grass grows here.~
+~
+12 0 8
+5000 1170 100 100 0 0 0
+20 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39144
+comfy tulip chairs~
+some comfy `#`Rtulip`^ chairs~
+Some comfy `#`Rtulip`^ chairs.~
+~
+12 0 8
+5000 1168 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39145
+button mushroom tables~
+some button mushroom tables~
+Some button mushroom tables.~
+~
+12 0 8
+1000 8192 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39146
+honeycomb shelves~
+some honeycomb shelves~
+Some honeycomb shelves are filled with candies and sweets.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39147
+racks bramble dried herbs~
+dried herbs hanging from racks of bramble~
+Bundles of dried herbs hang from racks of bramble.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39148
+walnut shell models display hats~
+walnut shell models displaying hats~
+Walnut shell models display the selection of impressive hats.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39149
+fluffy rug~
+a fluffy `#`Wwhite`^ rug~
+A fluffy `#`Wwhite`^ rug is spread out here.~
+~
+12 0 8
+9999 140306 120 120 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39150
+tortoise shell tables display books~
+several tortoise shell tables displaying books~
+Several tortoise shell tables display collections of books for sale.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39151
+coral clothes hooks handsewn garments~
+coral clothes hooks displaying handsewn garments~
+Coral clothes hooks display the selection of handsewn garments.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39152
+crystal gem throne~
+a crystal throne studded with gems~
+A crystal throne studded with gems is here, right in the middle of the hall.~
+~
+12 2 8
+9999 140434 115 115 0 0 0
+2 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39152 crystal throne gems~
+The throne of the faerie queen is made of delicate crystal, and is studded 
+with glistening gems.  The seat of the throne is covered with a lush gold 
+silk, woven with intricate designs.  The arms of the throne are fragile and 
+thin, and each arm is laced with tiny `#`rruby`^, `#`Bsapphire`^, `#`Gemerald`^ and `#`mamethyst`^ 
+gems.  At the end of the left arm, is a solitary `#`Wdiamond`^, which captures the 
+hues of the rainbow in its many sides.  The throne stands regally, in the 
+middle of the hall.  
+~
+#39153
+candy cane~
+a `#`Rc`Wa`Rn`Wd`Ry`^ cane~
+A `#`Rc`Wa`Rn`Wd`Ry`^ cane is here, looking deliciously minty.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39154
+silver bells~
+some `#`Ssilver`^ bells~
+Some `#`Ssilver`^ bells have been left here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39154 silver bells~
+Two quaint silver bells hand on a silver cord of webbing.  They make a sweet 
+sound when they jingle, like raindrops landing on a leaf.  
+~
+#39155
+gold bells~
+some `#`Ygold`^ bells~
+Some `#`Ygold`^ bells have been left here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39155 gold bells~
+Two quaint gold bells hand on a gold cord of webbing.  They make a sweet 
+sound when they jingle, like raindrops landing on a leaf.  
+~
+#39156
+bamboo recorder~
+a bamboo recorder~
+A recorder made from bamboo lies here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 68 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39156 bamboo recorder~
+Out of a bamboo stalk, has been crafted a recorder with seven faerie-finger 
+sized holes, and a mouthpiece at one end.  When played by a talented 
+musician, it makes some beautiful sounding melodies.  
+~
+#39157
+reed flute~
+a `#`greed`^ flute~
+A reed flute has been left here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 58 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39157 reed flute~
+A wide reed has been carefully wrapped into a tube, and has five holes cut 
+out it along the length.  By blowing into one end, and holding one's fingers 
+over various holes, a musician can create a melody of raspy sounds.  
+~
+#39158
+pan flute~
+a pan flute~
+A pan flute has been left here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 78 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39158 pan flute~
+This pan flute is carved out of sandalwood and shaped into a long flute, 
+with a leaf attached for the mouthpiece.  Small holes are carved out of the 
+flute, letting the musician play a myriad of melodies on this sweet, mellow 
+sounding instrument.  
+~
+#39159
+walnut shell lute~
+a walnut shell lute~
+A walnut shell lute lies here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 120 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39159 walnut shell lute~
+A walnut shell has been used to make this lute.  Silkworm silk has been 
+strung across the nutshell for strings, six in all.  This gentle sounding 
+instrument is perfect for accompanying any budding singer.  
+~
+#39160
+acorn nut mortar~
+an acorn nut mortar~
+An acorn nut mortar sits here, waiting to be used.~
+~
+37 0 32
+0 0 100 0 0 0 0
+1 23 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39161
+stone pestle~
+a stone pestle~
+A stone pestle lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 67 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39162
+crystal dousing flask~
+a `#`Ccrystal`^ dousing flask~
+A `#`Ccrystal`^ dousing flask lies here.~
+~
+17 0 16
+0 52 0 0 0 0 0
+1 61 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39163
+rose petal pouch~
+a `#`rrose petal`^ pouch~
+A `#`rrose petal`^ pouch has been left here.~
+~
+15 0 8
+1 0 50 2 0 0 0
+1 24 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39164
+woven leaf pouch~
+a woven `#`gleaf`^ pouch~
+A woven `#`gleaf`^ pouch has been left here.~
+~
+15 0 8
+1 0 50 2 0 0 0
+1 24 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39165
+snailshell cauldron~
+a snailshell cauldron~
+A snailshell cauldron sits here.~
+~
+38 0 32
+0 0 500 0 0 0 0
+1 125 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39166
+cupcake pink iced~
+a `#`Mpink`^ iced cupcake~
+A `#`Mpink`^ iced cupcake is here, waiting to be eaten.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 17 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39167
+lemon yellow iced cupcake~
+a `#`Ylemon yellow`^ iced cupcake~
+A `#`Ylemon yellow`^ iced cupcake is here, waiting to be eaten.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 17 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39168
+crimson-purple sea-blue stripes cupcake~
+a `#`mcrimson-purple`^ cupcake with `#`csea-blue`^ stripes~
+A `#`mcrimson-purple`^ cupcake with `#`csea-blue`^ stripes looks very tempting here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 24 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39169
+acorn cup nectar~
+an acorn cup of nectar~
+An acorn cup of nectar is here, smelling sweet.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39170
+acorn cup mixed sweets~
+an acorn cup of mixed sweets~
+An acorn cup of mixed sweets is here, looking very tempting.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 65 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39171
+big bag toffees~
+a big bag of toffees~
+A big bag of toffees is here, smelling sweetly.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 59 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39172
+crystallized raindrops~
+a handful of `#`Wcrystallised`^ raindrops~
+A handful of `#`Wcrystallised`^ raindrops lie scattered here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 39 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39173
+leafcone honeyed dew~
+a leafcone of `#`Yhoneyed`^ dew~
+A leafcone of `#`Yhoneyed`^ dew looks delicious here.~
+~
+17 0 16
+5 43 0 0 0 0 0
+1 26 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39174
+tinderbox bed~
+`#`wa `ytinderbox `wbed`^~
+A tinderbox bed lies here, looking cosy.~
+~
+12 0 8
+500 2336 120 120 0 0 0
+1 90 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39175
+fluffy pillow~
+`#`Wa `Cf`cl`Cu`cf`Cf`cy `Wpillow`^~
+A fluffy pillow is here, looking very soft.~
+~
+12 0 8
+500 1168 120 120 0 0 0
+1 20 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39176
+buttercup armchair~
+a `#`Ybuttercup`^ armchair~
+A `#`Ybuttercup`^ armchair sits here, looking comfy.~
+~
+12 0 8
+500 144 120 120 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39177
+turtle shell table~
+a turtle shell table~
+A turtle shell table is here.~
+~
+12 0 8
+500 8396800 120 120 0 0 0
+1 55 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39178
+walnut shell lamp lampshade light~
+a lamp with a walnut shell lampshade~
+A lamp with a walnut shell lampshade glows with a soft light here.~
+~
+1 64 1
+0 100 0 0 0 0 0
+1 19 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39179
+faerie floss~
+a stick of faerie floss~
+A stick of faerie floss has been left here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39180
+collection cupcake recipes~
+a collection of `#`Mc`Cu`Bp`Gc`Ra`rk`ce`^ recipes~
+A collection of `#`Mc`Cu`Bp`Gc`Ra`rk`ce`^ recipes have been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39180 collection cupcake recipes~
+`#`MC`Cu`Bp`Gc`Ra`rk`ce `mR`Me`gc`Bi`Cp`Ye`Ws`R!`^
+ 
+`#`MIngredients:`^ a smidgen of butter
+             a handful of sugar
+             2 eggs
+             a smattering of flour
+             a little milk
+ 
+`#`CMix:`^ everything in a bowl, and cook in a warm oven for a little bit, until golden.
+ 
+`#`YIce:`^ with brightly coloured icing (icing sugar, mixed with coloured dye).
+ 
+     pink icing   - strawberry dye
+     red icing    - rasberry dye
+     orange icing - orange rind dye
+     yellow icing - lemon rind dye
+     blue icing   - blueberry dye
+     green icing  - lime rind dye 
+ 
+`#`BSprinkle:`^ with faerie dust for extra delight.
+~
+#39181
+selenia's book of wise sayings~
+`#`CS`^elenia's `#`BB`^ook of `#`MW`^ise `#`rS`^ayings~
+`#`CS`^elenia's `#`BB`^ook of `#`MW`^ise `#`rS`^ayings has been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 51 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39181 selenia's book wise sayings~
+`#`GS`^elenia's `#`CB`^ook of `#`rW`^ise `#`MS`^ayings
+ 
+`#`MN`^othing brighten's one's day better, than a cupcake!
+ 
+`#`BA`^ friend is one who always has a sweet in their pocket for you.
+ 
+`#`GS`^urprise a friend by doing a few home improvements for them while they are out.
+ 
+`#`rA`^ spoonful of sugar helps the medicine go down.
+ 
+`#`CT`^he best things in life are like the forgotten bag of faerie dust waiting to be 
+found at the back of the cupboard.
+ 
+`#`mC`^upcakes don't grow new cupcakes when planted in the ground.
+ 
+`#`YB`^lustery days should be avoided by small creatures.
+ 
+`#`RI`^f it isn't broken.. don't fix it.
+ 
+`#`GI`^f its broken really badly.. don't fix it either.
+ 
+`#`MB`^eing stepped on by a troll, hurts!
+~
+#39182
+basket sandwiches~
+a basket of sandwiches~
+A basket of sandwiches have been left here.~
+~
+19 0 16
+7 0 0 0 0 0 0
+1 111 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39182 basket sandwiches~
+A small basket lined with a red napkin is filled with a collection of 
+assorted sandwiches.  There are jam sandwiches, honey sandwiches, salad 
+sandwiches, faerie sprinkle sandwiches, anything you could put in a 
+sandwich, is in here.  Its the perfect picnic basket!  
+~
+#39183
+bunch grapes~
+a bunch of `#`mgrapes`^~
+A bunch of `#`mgrapes`^ look delicious here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 21 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39184
+purple berries~
+some `#`mpurple`^ berries~
+Some `#`mpurple`^ berries lie here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 17 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39185
+cup nectar tea~
+a cup of sweet nectar tea~
+A cup of sweet nectar tea smells delightful here.~
+~
+17 0 16
+5 46 0 0 0 0 0
+1 22 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39186
+honey lemon tea~
+a cup of honey lemon tea~
+A cup of honey lemon tea smells delicious here.~
+~
+17 0 16
+5 46 0 0 0 0 0
+1 22 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39187
+sandwich faerie sprinkles~
+a sandwich with `#`Mf`Ca`Be`Rr`Yi`re `ms`Bp`Cr`Gi`Yn`rk`Ml`me`Cs`^~
+A sandwich with `#`Mf`Ca`Be`Rr`Yi`re `ms`Bp`Cr`Gi`Yn`rk`Ml`me`Cs`^ looks extremely delicious here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 11 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39188
+chocolate dipped strawberry~
+a chocolate dipped `#`Rstrawberry`^~
+A chocolate dipped `#`Rstrawberry`^ looks so tempting here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 9 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39189
+sunflower seeds~
+some sunflower seeds~
+Some sunflower seeds are scattered here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39191
+sparkly silver glitter make-up~
+sparkly `#`Ss`Xi`Sl`Xv`Se`Xr`^ glitter~
+Some sparkly `#`Ss`Xi`Sl`Xv`Se`Xr`^ glitter is scattered here.~
+~
+11 1 8
+0 0 0 0 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39192
+sparkly petal-pink glitter make-up~
+sparkly `#`Mp`me`Mt`ma`Ml`m-`Mp`mi`Mn`mk`^ glitter~
+Some sparkly `#`Mp`me`Mt`ma`Ml`m-`Mp`mi`Mn`mk`^ glitter is scattered here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39193
+sparkly petal-pink glitter make-up~
+sparkly `#`Ge`gm`Ge`gr`Ga`gl`Gd`g-`Gg`gr`Ge`ge`Gn`^ glitter~
+Some sparkly `#`Ge`gm`Ge`gr`Ga`gl`Gd`g-`Gg`gr`Ge`ge`Gn`^ glitter is scattered here.~
+~
+11 1 8
+0 0 0 0 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39194
+sparkly sun-gold glitter make-up~
+sparkly `#`Ys`yu`Yn`y-`Yg`yo`Yl`yd`^ glitter~
+Some sparkly `#`Ys`yu`Yn`y-`Yg`yo`Yl`yd`^ glitter is scattered here.~
+~
+11 1 8
+0 0 0 0 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39195
+tiny heart sticky gem heart-shaped~
+a tiny `#`Rheart-shaped`^ sticky gem~
+A tiny `#`Rheart-shaped`^ sticky gem has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39196
+tiny crescent moon sticky gem~
+a tiny `#`Screscent-moon`^ shaped sticky gem~
+A tiny `#`Screscent-moon`^ shaped sticky gem has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39197
+tiny star-shaped sticky gem~
+a tiny `#`Ystar-shaped`^ sticky gem~
+A tiny `#`Ystar-shaped`^ sticky gem has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39198
+lovely purple hat~
+a lovely `#`mpurple`^ hat~
+A lovely `#`mpurple`^ hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 105 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39199
+wreath flowers~
+a wreath of pretty `#`Mf`Yl`mo`Rw`re`yr`cs`^~
+A wreath of pretty `#`Mf`Yl`mo`Rw`re`yr`cs`^ lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 32 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39200
+winter bonnet~
+a `#`Wwinter`^ bonnet~
+A `#`Wwinter`^ bonnet has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 370 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39201
+maroon velvet bonnet~
+a `#`rmaroon`^ velvet bonnet~
+A `#`rmaroon`^ velvet bonnet has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39202
+beaded backpack~
+a `#`Rb`Be`ga`Yd`re`cd`^ backpack~
+A `#`Rb`Be`ga`Yd`re`cd`^ backpack sparkles here.~
+~
+15 0 8
+1 0 1000 100 0 0 0
+1 42 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39203
+butterfly hairclip~
+`#`ca `Cb`cu`Yt`yt`Ce`cr`Yf`yl`Cy `chairclip`^~
+A butterfly hairclip lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 24 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39203 butterfly hairclip~
+A delicate hairclip made from silver has a silver butterfly attached at one 
+end.  Crafted into the butterfly are sparkling tiny, blue gems.  
+~
+#39204
+coloured silk scarf~
+a `#`?c`?o`?l`?o`?u`?r`?e`?d`^ silk scarf~
+A `#`?c`?o`?l`?o`?u`?r`?e`?d`^ silk scarf lies in a heap here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 108 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39204 coloured silk scarf~
+A magical scarf made from a rainbow of spidersilk colours, shimmers with 
+every moment.  The colours shift and blend, reds and blues melting into 
+purples, yellows and blues melting into greens.  
+~
+#39205
+embroidered gloves~
+a pair of embroidered gloves~
+Some embroidered gloves have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 111 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39205 embroidered gloves~
+These soft, warm gloves made from rose petals, have been embroidered with 
+spidersilk.  On the top of each glove, is an embroidered rose, which weaves 
+into vines sewn along each finger.  
+~
+#39206
+pretty lace cuff~
+a pretty `#`Wlace`^ cuff~
+A pretty `#`Wlace`^ cuff has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 97 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39206 pretty lace cuff~
+Fine lace, sewn with tender hands, in the patterns of tiny flowers has been 
+made into a delicate cuff, the perfect finish to a beautiful dress or 
+outfit.  
+~
+#39207
+rose petal cloak~
+a `#`rrose petal`^ cloak~
+A `#`rrose petal`^ cloak has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 350 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39207 rose petal cloak~
+Out of soft, sweet-smelling rose petals, a cloak has been carefully made.  
+It is layered with many petals, much like feathers on a bird, each 
+overlapping, to create a truly beautiful, warm cloak.  
+~
+#39208
+dancing slippers~
+a pair of `#`Cd`ca`wn`Wc`wi`cn`Cg`^ slippers~
+A pair of slippers lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 88 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39208 dancing slippers~
+These slippers are made from the finest silk.  They feel soft and light, 
+perfect for dancing in!  
+~
+#39209
+bedtime slippers feathers down~
+a pair of `#`Wbedtime`^ slippers~
+A pair of slippers here, are made from feathers' down.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 66 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39209 bedtime slippers feathers down~
+These plush slippers are made from the softest feathers' down.  They are 
+snug to wear, just the thing to keep one's feet warm before bedtime.  
+~
+#39210
+hazelnut clogs ~
+a pair of `#`yhazelnut`^ clogs~
+A pair of clogs made from hazelnuts are here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39210 hazelnut clogs~
+These clogs have been carved out of hazelnuts.  They are solid and 
+practical, and are ideal for playing in.  
+~
+#39211
+dainty velvet slippers~
+a pair of dainty `#`mvelvet`^ slippers~
+A pair of dainty `#`mvelvet`^ slippers have been left.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 660 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39211 velvet slippers dainty~
+This soft pair of slippers have been sewn from velvet.  They are dainty, 
+with pointed toes, and would be perfect for any special occasion.  
+~
+#39212
+mapleleaf woven slippers~
+a pair of woven `#`ymapleleaf`^ slippers~
+A pair of slippers, made from leaves, have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 480 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39212 mapleleaf slippers woven~
+These shiny slippers are made from maple leaves sewn carefully together.  
+The leaves weave over each other in criss-cross pattern, across the bridge 
+of the foot.  
+~
+#39213
+delicate crystal vase~
+a delicate `#`Ccrystal`^ vase~
+A delicate crystal vase stands here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 39 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39214
+pouch coloured confetti~
+a pouch of `#`?c`?o`?l`?o`?u`?r`?e`?d`^ confetti~
+A pouch lies here, with confetti spilling out of it.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 11 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39215
+pink paper plate~
+a `#`Mpink`^ paper plate~
+A `#`Mpink`^ paper plate has been left here.~
+~
+12 0 8
+10 8192 0 0 0 0 0
+1 8 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39216
+yellow paper plate~
+a `#`Yyellow`^ paper plate~
+A `#`Yyellow`^ paper plate has been left here.~
+~
+12 0 8
+10 8192 0 0 0 0 0
+1 8 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39217
+paper napkin pink~
+a `#`Mpink`^ paper napkin~
+A `#`Mpink`^ paper napkin has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 6 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39218
+yellow paper napkin~
+a `#`Yyellow`^ paper napkin~
+A `#`Yyellow`^ paper napkin has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 6 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39219
+bright yellow tablecloth~
+a `#`Ybright yellow`^ tablecloth~
+A `#`Ybright yellow`^ tablecloth is spread out here.~
+~
+12 0 8
+1000 144 0 0 0 0 0
+1 58 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39220
+party whistle~
+a party whistle~
+A party whistle has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 13 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39221
+colourful party hat~
+a `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ party hat~
+A `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ party hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39222
+bag party treats~
+a bag of party treats~
+A bag of party treats has been left here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 28 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39223
+bottle of bubble mixture~
+a bottle of `#`Rb`ru`Yb`Gb`Bl`Me`^ mixture~
+A bottle of `#`Rb`ru`Yb`Gb`Bl`Me`^ mixture is spilled here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 20 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39224
+purple balloon~
+a `#`mpurple`^ balloon~
+A `#`mpurple`^ balloon floats here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 21 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39225
+blue balloon~
+a `#`Bblue`^ balloon~
+A `#`Bblue`^ balloon floats here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 21 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39226
+orange balloon~
+an `#`Rorange`^ balloon~
+An `#`Rorange`^ balloon floats here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 21 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39227
+dazzling watery blue wand~
+a dazzling `#`Cwatery blue`^ wand~
+A dazzling `#`Cwatery blue`^ wand has been left here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39228
+splendid yellow gold-flecked wand~
+a splendid `#`Yye`yl`Yl`yow a`Yn`yd `Ygol`yd`^ wand~
+A splendid `#`Yye`yl`Yl`yow a`Yn`yd `Ygol`yd`^ wand has been left here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39229
+glowing sapphire wand~
+a glowing `#`Bsapphire`^ wand~
+A glowing `#`Bsapphire`^ wand has been left here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39230
+glossy auburn wand~
+a glossy `#`yauburn`^ wand~
+A glossy `#`yauburn`^ wand has been left here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39231
+radiant scarlet wand~
+a radiant `#`Rscarlet`^ wand~
+A radiant `#`Rscarlet`^ wand has been left here~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39232
+crown baby rose buds~
+a crown of baby `#`r`Wr`Mo`Ws`re `Mb`ru`Wd`rs`^~
+A crown of baby `#`r`Wr`Mo`Ws`re `Mb`ru`Wd`rs`^ has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 22 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39233
+blue white edged ribbon~
+a thick `#`bblue`^ ribbon with a `#`Wwhite`^ edge~
+A thick `#`bblue`^ ribbon with a `#`Wwhite`^ edge rests prettily here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39234
+thin pink ribbon~
+a thin `#`mpink`^ ribbon~
+A thin `#`mpink`^ ribbon is here, curling prettily.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39235
+flat green ribbon sequins~
+a flat `#`ggreen`^ ribbon with tiny sequins~
+A flat `#`ggreen`^ ribbon with tiny sequins sparkles prettily here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39236
+music box~
+a music box~
+A music box has been left here, with the lid closed.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 82 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39236 music box~
+This little music box is made of sterling silver.  The sides have tiny 
+sparkling gems which weave their way along an engraved vine.  On the lid is 
+a cluster of gems in the shape of a rose.  When you open the box, a little 
+faerie doll pops up and slowly turns as a sweet melody plays from within the 
+box.  
+~
+#39237
+delicate white lace ribbon~
+a delicate `#`Wwhite`^ lace ribbon~
+A delicate `#`Wwhite`^ lace ribbon is here, looking sweet.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 420 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39238
+narrow silver gilt braid~
+a narrow `#`ssilver`^ gilt braid~
+A narrow `#`ssilver`^ gilt braid gleams prettily here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 80 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39239
+glittering ball light~
+a glittering ball of light~
+A glittering ball of light shimmers here.~
+~
+1 64 1
+0 50 0 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39240
+pink glass ring~
+a `#`mpink`^ glass ring~
+A `#`mpink`^ glass ring is here, shining prettily.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 680 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39241
+scarf white~
+a `#`Wwhite`^ scarf~
+A `#`Wwhite`^ scarf is here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 700 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39242
+blue silk dress~
+a `#`Bblue`^ silk dress~
+A `#`Bblue`^ silk dress is here, lying crumpled on the floor.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39243
+blue crystal bracelet~
+a `#`Bblue`^ cystal bracelet~
+A `#`Bblue`^ cystal bracelet gleams prettily here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 690 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39244
+dainty blue silk slippers~
+some dainty `#`Bblue`^ silk slippers~
+A pair of dainty `#`Bblue`^ silk slippers lie side by side, here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 720 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39245
+thin glass dagger~
+a thin glass dagger~
+A thin glass dagger is here, looking sharp.~
+~
+5 64 4
+2 35 50 0 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39246
+blue metal wand~
+a `#`Bblue`^ metal wand~
+A `#`Bblue`^ metal wand is here, looking innocent.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39247
+tiny blue seashell earrings~
+a tiny `#`Bblue`^ seashell earring~
+A tiny `#`Bblue`^ seashell earring is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39248
+rose-scented petal dress~
+a `#`Mrose-scented`^ petal dress~
+A dress made from `#`Mrose petals`^ has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 120 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39249
+rose petal cape~
+a cape of soft `#`Wrose petals`^~
+A `#`Wrose petal`^ cape has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39250
+soft clover-leaf leggings~
+some soft `#`Gclover-leaf`^ leggings~
+Some soft `#`Gclover-leaf`^ leggings have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 99 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39251
+spun silk sleeves~
+some `#`ws`Wp`Yu`yn `ws`Wi`Yl`yk`^ sleeves~
+Some sleeves made from `#`ws`Wp`Yu`yn `ws`Wi`Yl`yk`^ lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 145 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39252
+crystal blue silk sleeves~
+some `#`Ccrystal blue`^ silk sleeves~
+Some `#`Ccrystal blue`^ silk sleeves have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 850 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39253
+daisy-chain belt~
+a `#`Yd`Wa`Yi`Ws`Yy`W-`Yc`Wh`Ya`Wi`Yn`^ belt~
+A `#`Yd`Wa`Yi`Ws`Yy`W-`Yc`Wh`Ya`Wi`Yn`^ belt lies here wilting.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 35 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39254
+leggings green spidersilk~
+some `#`Ggreen`^ spidersilk leggings~
+Some `#`Ggreen`^ spidersilk leggings have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39255
+purple petal jacket~
+a `#`mpurple petal`^ jacket~
+A `#`mpurple petal`^ jacket has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39256
+brown mapleleaf jacket~
+a `#`ybrown mapleleaf`^ jacket~
+A `#`ybrown mapleleaf`^ jacket has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39257
+ornate gown sunset-coloured petals~
+an ornate gown of `#`ms`Mu`rn`Rs`Ye`Ct`m-`Mc`ro`Rl`Yo`Cu`mr`Me`rd`^ petals~
+An ornate gown of `#`ms`Mu`rn`Rs`Ye`Ct`m-`Mc`ro`Rl`Yo`Cu`mr`Me`rd`^ petals has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39258
+beautiful ribbons rainbow shades~
+some beautiful ribbons from every colour in the `#`Rr`ra`Yi`Gn`Cb`Mo`mw`^~
+Some beautiful ribbons of every colour of the `#`Rr`ra`Yi`Gn`Cb`Mo`mw`^ have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39259
+soft pink petal dress~
+a soft `#`Mpink petal`^ dress~
+A soft `#`Mpink petal`^ dress has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39260
+dyed blue petal jacket~
+a `#`Bdyed-blue petal`^ jacket~
+A `#`Bdyed-blue petal`^ jacket has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39261
+yellow petal jacket~
+a `#`Yyellow petal`^ jacket~
+A `#`Yyellow petal`^ jacket has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39262
+woven green blue leggings~
+some woven `#`Gg`Br`Ge`Be`Gn`^ and `#`Gb`Bl`Gu`Be`^ leggings~
+Some woven `#`Gg`Br`Ge`Be`Gn`^ and `#`Gb`Bl`Gu`Be`^ leggings have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39263
+flamboyant hat grapes bananas feathers~
+a flamboyant hat decorated with `#`mgrapes`^, `#`Ybananas`^ and `#`rf`Re`ra`Rt`rh`Re`rr`Rs`^~
+A flamboyant hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39264
+pale blue slippers~
+some `#`Cpale blue`^ slippers~
+Some `#`Cpale blue`^ slippers have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39265
+tiny glass spectacles~
+some tiny `#`Cg`Wl`Ca`Ws`Cs `Cs`sp`Ce`sc`Ct`sa`Cc`sl`Ce`ss`^~
+Some tiny glass spectacles have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39266
+bright tutu dress~
+a `#`Mb`Wright tut`Mu`^ dress~
+A `#`Mb`Wright tut`Mu`^ dress has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39267
+shiny silver slippers~
+some shiny `#`Ssilver`^ slippers~
+Some shiny `#`Ssilver`^ slippers have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39268
+colourful party hat~
+a `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ party hat~
+A `#`?c`?o`?l`?o`?u`?r`?f`?u`?l`^ party hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39269
+light purple petal dress~
+a `#`mlight purple`^ petal dress~
+A `#`mlight purple`^ petal dress has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39270
+bright yellow daisy~
+a `#`Ybright yellow`^ `#`Wdaisy`^~
+A `#`Ybright yellow`^ `#`Wdaisy`^ lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 140 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39271
+handful faerie dust~
+`#`Wf`Sa`Me`Sr`Bi`We `Sd`Wu`Ms`St`^~
+Some `#`Wf`Sa`Me`Sr`Bi`We `Sd`Wu`Ms`St`^ has been scattered here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 350 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39272
+silver pin~
+a `#`Ssilver pin`^~
+A `#`Ssilver pin`^ lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 103 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39273
+golden needles~
+some `#`Ygolden needles`^~
+Some `#`Ygolden needles`^ are here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 232 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39274
+silk pin cushion~
+a `#`Rsilk`^ pin cushion~
+A `#`Rsilk`^ pin cushion has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 670 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39275
+thimble~
+a `#`Sthimble`^~
+A `#`Sthimble`^ lies upturned here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 149 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39276
+pink purple buttons~
+some `#`Mpink`^ and `#`mpurple`^ buttons~
+Some `#`Mpink`^ and `#`mpurple`^ buttons are here, scattered about.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 110 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39277
+glittering red jewel~
+a glittering `#`Rred`^ jewel~
+A glittering `#`Rred`^ jewel is here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 943 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39278
+shiny seashell~
+a shiny `#`yseashell`^~
+A shiny `#`yseashell`^ lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 240 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39279
+dragonfly wings~
+some `#`Gd`Brag`Gon`Bf`Gly wi`Bn`Gg`Bs`^~
+Some `#`Gd`Brag`Gon`Bf`Gly wi`Bn`Gg`Bs`^ are here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 350 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39280
+hatbox~
+a `#`yhatbox`^~
+A `#`yhatbox`^ is here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 35 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39281
+magic tablecloth~
+a `#`Rm`ra`wg`Wi`rc `Rt`ra`Wb`Wl`re`Rc`rl`Wo`Wt`Rh`^~
+A `#`Rm`ra`wg`Wi`rc `Rt`ra`Wb`Wl`re`Rc`rl`Wo`Wt`Rh`^ is spread out on the ground here.~
+~
+15 256 8
+0 0 10 0 0 0 0
+1 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39281 magic tablecloth~
+This tablecloth is a magical one, making delightful edible treats for the 
+owner all day long, keeping the belly full for as long as the owner has the 
+tablecloth.  Its covered in bright red and white chequed squares and makes a 
+quiet humming noise.  
+~
+#39282
+collection delightful drinks drink~
+a collection of `#`m"`WDelightful Drinks to Drink`m"`^~
+A collection of `#`m"`WDelightful Drinks to Drink`m"`^ has been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39282 collection delightful drinks drink~
+.
+`#`RD`relightfu`ml `RD`rrink`ms to `RD`rrin`mk`^
+ 
+`#`rRose Petal Wine`^
+ 
+`#`RIngredients`^: 5 pink roses
+           a little bit of water
+           a nice amount of sugar
+           2 lovely yellow lemons
+           a little pinch of yeast
+ 
+`#`mMethod`^: Mix everything up and leave it in the sun for a little while.
+ 
+`#`rHot Honey Lemonade`^
+ 
+`#`RIngredients`^: 4 tsps lemon juice
+             4 honeycombs
+             2 pitchers water
+ 
+`#`mMethod`^: Mix it all over something nice and warm.
+ 
+`#`rFaerie Wine`^
+ 
+`#`RIngredients`^: a pouring of milk
+             a delicious lick of honeycomb
+             a swirl of vanilla
+             an inkling of cinnamon
+ 
+`#`mMethod`^: Mix it all up and drink immediately.
+~
+#39283
+wheat plant~
+a `#`Ywheat`^ plant~
+A `#`Ywheat`^ plant fills the field.~
+~
+15 0 8
+0 0 10 0 0 0 0
+5 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39284
+grain wheat~
+a grain of `#`Ywheat`^~
+A grain of `#`Ywheat`^ is here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39285
+started_magic_tablecloth_quest~
+`#`rstarted_magic_tablecloth_quest`^~
+`#`rstarted_magic_tablecloth_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39286
+apple seed~
+an apple seed~
+An apple seed lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39287
+leaf tree~
+a `#`Gtree leaf`^~
+A `#`Gtree leaf`^ grows on the tree here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39288
+drop dew~
+a `#`Wdrop of dew`^~
+A `#`Wdrop of dew`^ is collected here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39289
+leaf tree~
+a `#`Gtree leaf`^~
+A `#`Gleaf`^ collects `#`Wdew`^ here.~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39290
+appleseed_given_for_magic_tablecloth_quest~
+`#`rappleseed_given_for_magic_tablecloth_quest`^~
+`#`rappleseed_given_for_magic_tablecloth_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39291
+wheat_given_for_magic_tablecloth_quest~
+`#`rwheat_given_for_magic_tablecloth_quest`^~
+`#`rwheat_given_for_magic_tablecloth_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39292
+faeriedust_given_for_magic_tablecloth_quest~
+`#`rfaeriedust_given_for_magic_tablecloth_quest`^~
+`#`rfaeriedust_given_for_magic_tablecloth_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39293
+dew_given_for_magic_tablecloth_quest~
+`#`rdew_given_for_magic_tablecloth_quest`^~
+`#`rdew_given_for_magic_tablecloth_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39294
+strawberry-topped cupcake~
+a `#`Rstrawberry-topped`^ cupcake~
+A `#`Rstrawberry-topped`^ cupcake smells delicious here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 34 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39295
+crispy-fresh green apple~
+a `#`Gcrispy-fresh green`^ apple~
+A `#`Gcrispy-fresh green`^ apple is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 13 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39296
+chicken salad sandwich~
+a chicken salad sandwich~
+A chicken salad sandwich is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 40 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39297
+cup sweet lemonade~
+a cup of `#`Wsweet lemonade`^~
+A cup of `#`Wsweet lemonade`^ is here.~
+~
+17 0 16
+10 6 0 0 0 0 0
+1 45 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39298
+faerie floss~
+some `#`Mfaerie floss`^~
+Some `#`Mfaerie floss`^ looks tempting here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 33 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39299
+tiny silvery key~
+a tiny silver key~
+A tiny silvery key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39300
+firefly~
+a firefly~
+A firefly glows brightly here.~
+~
+1 1 1
+0 20 0 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39301
+brown tunic~
+a brown tunic~
+A brown tunic is here, crumpled in a heap.~
+~
+9 0 8
+30 30 8 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39302
+brown furry boots~
+some brown furry boots~
+A pair of brown furry boots are here.~
+~
+9 0 8
+30 30 5 0 0 0 0
+1 650 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39303
+muddied sword~
+a muddied sword~
+A muddied sword is here.~
+~
+5 0 4
+2 35 50 8 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39304
+pure white dress~
+a pure `#`Wwhite`^ dress~
+A pure `#`Wwhite`^ dress is here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39305
+glass earrings~
+a glass earring~
+A glass earring is here, shining prettily.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39306
+white mace~
+a brand new `#`Wwhite`^ mace~
+A brand new `#`Wwhite`^ mace lies here, barely used.~
+~
+5 64 4
+3 35 50 256 0 0 0
+1 900 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39307
+gold-trimmed jacket tails~
+a `#`Ygold-trimmed`^ jacket with tails~
+A `#`Ygold-trimmed`^ jacket with tails has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39308
+royal blue leggings~
+a pair of `#`broyal-blue`^ leggings~
+A pair of `#`broyal-blue`^ leggings have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1050 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39309
+gold trimmed cap~
+a `#`Ygold-trimmed`^ cap~
+A `#`Ygold-trimmed`^ cap has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1020 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39310
+gold trimmed boots~
+a pair of `#`Ygold-trimmed`^ boots~
+A pair of `#`Ygold-trimmed`^ boots have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39311
+fancy white cuff~
+a fancy `#`Wwhite`^ cuff~
+A fancy `#`Wwhite`^ cuff has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39312
+starch white collar~
+a `#`Wstarch white`^ collar~
+A `#`Wstarch white`^ collar has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39313
+velveteen jacket~
+a `#`cvelveteen`^ jacket~
+A `#`cvelveteen`^ jacket has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39314
+forest green leggings~
+a pair of `#`cforest green`^ leggings~
+A pair of `#`cforest green`^ leggings have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39315
+polished black-laced boots~
+a pair of polished `#`Sblack-laced`^ boots~
+A pair of polished `#`Sblack-laced`^ boots have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39316
+gold-white vest~
+a `#`Ygold-`Wwhite`^ vest~
+A `#`Ygold-`Wwhite`^ vest has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 980 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39317
+glass-handled sword~
+a `#`Wglass-handled`^ sword~
+A `#`Wglass-handled`^ sword has been left here.~
+~
+5 0 4
+4 54 68 64 0 0 0
+1 1250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39318
+thin steel neckguard~
+a thin steel neckguard~
+A thin steel neckguard is here.~
+~
+9 0 8
+30 30 4 0 0 0 0
+1 700 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39319
+thin steel breastplate~
+a thin steel breastplate~
+A thin steel breastplate is here.~
+~
+9 0 8
+30 30 8 0 0 0 0
+1 750 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39320
+thin steel leggings~
+some thin steel leggings~
+Some thin steel leggings are here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 640 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39321
+thin steel sleeves~
+thin steel sleeves~
+Some thin steel sleeves are here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 620 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39322
+slightly curved longsword~
+a slightly curved longsword~
+A slightly curved longsword~
+~
+5 0 4
+3 35 50 32 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39323
+short black dress~
+a short `#`Sblack`^ dress~
+A short `#`Sblack`^ dress is here, hidden in the shadows.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 780 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39324
+black leggings~
+some `#`Sblack`^ leggings~
+Some `#`Sblack`^ leggings are here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 640 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39325
+short dagger~
+a short dagger~
+A short dagger is here.~
+~
+5 0 4
+2 35 50 16 0 0 0
+1 780 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39326
+bluebell~
+a `#`Bbluebell`^~
+A solitary `#`Bbluebell`^ grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39327
+started_aarislan_quest~
+`#`mstarted_aarislan_quest`^~
+`#`mstarted_aarislan_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39328
+daydream_to_aarislan_quest~
+`#`mdaydream_to_aarislan_quest`^~
+`#`mdaydream_to_aarislan_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39329
+wants_to_goto_aarislan~
+`#`mwants_to_goto_aarislan`^~
+`#`mwants_to_goto_aarislan`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39330
+watermellong_given_for_blue_paint_quest~
+`#`Bwatermelon_given_for_blue_paint_quest`^~
+`#`Bwatermelon_given_for_blue_paint_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39331
+ballon_given_for_blue_paint_quest~
+`#`Bballoon_given_for_blue_paint_quest`^~
+`#`Bballoon_given_for_blue_paint_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39332
+fragile blue shard~
+a fragile `#`Bblue`^ shard~
+A fragile `#`Bblue`^ shard glows here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 2400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39333
+plain green dress~
+a plain `#`ggreen`^ dress~
+A plain `#`ggreen`^ dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 780 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39334
+I_killed_the_faerie_queen~
+`#`RI_killed_the_faerie_queen`^~
+`#`RI_killed_the_faerie_queen`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39335
+tangled ball faerie lights~
+a tangled ball of faerie lights~
+A tangled ball of faerie lights glows brightly here.~
+~
+1 64 1
+0 225 0 0 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39336
+translucent pink glass ring~
+a translucent `#`mpink`^ glass ring~
+A translucent `#`mpink`^ glass ring is here, glittering prettily.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 750 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39337
+string blue pearls~
+a string of `#`cblue`^ pearls~
+A string of `#`cblue`^ pearls is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39338
+pink ball gown long train~
+a `#`mpink`^ ball gown with a long train~
+A `#`mpink`^ ball gown with a long train is here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39339
+magnificent crown~
+a magnificent crown~
+A magnificent crown lies gleaming brightly here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 2000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39340
+wand thousand wishes~
+a `#`WWand `wof a `WThousand Wishes`^~
+A Wand of a Thousand Wishes is here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 800 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#39341
+token_trillilath_queen_mp39164~
+token_trillilath_queen_mp39164~
+Token_trillilath_queen_mp39164~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39343
+shimmering magic portal 39343~
+a magic portal~
+A magic portal `#`Ws`Ch`ci`Wm`cm`Ce`cr`Ws`^ here.~
+~
+29 64 16
+0 0 39171 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39344
+book aarisland legend lost children~
+a beautiful, leather-bound book~
+A leather-bound book has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 55 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+39344 leather-bound book beautiful~
+Opening the book you read:
+ 
+           `#`rAarislan, Legend of the Lost Children`^
+ 
+A tale is sometimes told to children, by their parents, desperate to instill fear in an effort to make their child pay more attention, that if one were to daydream too often, their very souls would be taken to another land, a land that is far above the clouds, where the daydreams of children can run rampant, and a land where there would be no return if a child were ever to go there. It is said that the faeries, who take a natural liking to children, fly about looking for children who spend their days and nights daydreaming, and when one is spotted, it is then that their faerie magic takes the child to this new, and mysterious land.
+ 
+Of course, that is only the parents' version and the tales children tell amongst themselves about this land, are indeed quite a different story. In fact, many children, for the very reason of living in a land without parents to tell them what to do, will often spend their time daydreaming about such a place. A place where they can eat all the sweets in the world, and dance with faeries, and ride ponies all day long. For them, this wonderful tale is a constant longing to be made into a reality.
+ 
+But then, it is only a tale, for could it really be true, that such a place, filled with lost children and sugar faeries could really exist? Is there really a land above the skies, called Aarislan, and if you were not a child, would it still be possible to find it? Perhaps if you ask one of the wise faeries, they might know how to find it.
+~
+#39345
+brew green liquid revigoration~
+a brew of revigoration~
+A brew of green liquid is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#39346
+brownish-yellow liquid brew antidote poison~
+a brew to antidote poison~
+A brew of brownish-yellow liquid is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 125 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#39347
+get_water_aarislan_quest~
+`mneed_holy_water_aarislan_quest`x~
+`#`mneed_holy_water_aarislan_quest`^~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39348
+ask_for_holy_water~
+ask_for_holy_water~
+Ask_for_holy_water~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#39349
+got_holy_water~
+got_holy_water~
+Got_holy_water~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#39120
+A `#`RRed`^ and `#`WWhite`^ Toadstool~
+~
+A red and white spotted toadstool grows on the path here to the south of the 
+giant toadstool.  The toadstool here has a thick white stalk and at its 
+base, tufts of soft grass surround it.  Dainty windows peep out on either 
+side of the stalk and are painted bright red.  A woodshaving sign hangs over 
+the round `#`Rred door`^ and is painted with bright white letters, reading: `1`1 `#`WFaraeriedust and WaLLandLes`^ 
+~
+1 0 0
+D0
+~
+~
+0 0 39123
+D8
+~
+~
+0 0 39121
+R O 0 39141 0 39120
+E
+red door~
+The red door is rounded at the top, and is made of brightly painted wooden 
+panels.  There is a white doorhandle which you can turn to `#`Senter`^ the 
+`#`Stoadstool`^.  
+~
+S
+#39121
+A `#`CCrystal Blue`^ Spotted Mushroom~
+~
+A beautiful crystal blue mushroom grows here, amongst the grass to the 
+southeast of the giant toadstool.  The stalk is plump with a stout crown.  A 
+little chimney pokes out on the right side of the crown, somewhat crookedly. 
+ Two windows adorned with bright yellow curtains are placed on opposite 
+sides of the blue mushroom top, and one is wide open with delightful smells 
+wafting out of it.  A `#`Cblue, wooden door`^ at the base of the mushroom is swung 
+open on its hinge.  A woodshaving sign hangs above the door with the words: `1`1 `#`CTiLLiLLie's Teashop`^ 
+~
+1 0 0
+D6
+~
+~
+0 0 39120
+D8
+~
+~
+0 0 39144
+D9
+~
+~
+0 0 39153
+R O 0 39124 0 39121
+E
+blue wooden door~
+The blue, wooden door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a light blue doorhandle which you can turn to `#`Senter`^ 
+the `#`Smushroom`^.  
+~
+S
+#39122
+A Large `#`cCyan`^ Mushroom~
+~
+A large mushroom, with a cyan crown grows in the grass here, to the west of 
+the giant toadstool.  Looking up, you see underneath is a deeper cyan shade, 
+almost green in colour.  A crooked chimney stands at a leanto on the 
+leftside of the crown, and a small window is on the rightside.  There is a 
+little door at the base of the stalk, with a bright cyan doorknob.  Just 
+above the door is another window, which is ajar.  
+~
+1 0 0
+D0
+~
+~
+0 0 39151
+D1
+~
+~
+0 0 39144
+D2
+~
+~
+0 0 39171
+D3
+~
+~
+0 0 39135
+R O 0 39126 0 39122
+S
+#39123
+A `#`CBright Blue`^ Toadstool~
+~
+A fantastic bright blue toadstool stands in the middle of the path which 
+leads to the west, heading towards the giant toadstool.  The crown is plump, 
+and the stalk is solid in shape.  Little daisies grow all around the stalk, 
+up to a `#`Cbright blue door`^.  Bright blue curtains decorate two little windows 
+either side of the door.  Above the door hangs a woodshaving sign with the 
+words: `1`1 `#`CTrealleasures and Trillinkets`^ 
+~
+1 0 0
+D0
+~
+~
+0 0 39124
+D2
+~
+~
+0 0 39120
+D3
+~
+~
+0 0 39148
+R O 0 39127 0 39123
+E
+bright blue door~
+The bright blue door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a blue doorhandle which you can turn to `#`Senter`^ the 
+`#`Stoadstool`^.  
+~
+S
+#39124
+A Smallish `#`gGreen`^ Toadstool~
+~
+A green toadstool, rather small in size, grows here in the grass to the west 
+of the giant toadstool.  A thin, copper chimney stands uncertainly at the 
+tip of the crown.  There is only one small window poking through the stalk, 
+and it has a painted green sill.  At the base of the stalk, is a `#`Yyellow 
+arched door`^ with a green doorknob.  A garden of bluebells grow wildly around 
+the stalk's base and barely leave room for the door.  A sign hangs over the 
+door and spells the words:`1`1 `#`GDomesticaLated DaLLarLLings`^ 
+~
+1 0 0
+D2
+~
+~
+0 0 39123
+D9
+~
+~
+0 0 39125
+R M 0 39151 1 39124
+  R E 0 39300 0 0
+  R E 0 39301 0 5
+  R E 0 39302 0 8
+  R E 0 39303 0 23
+R O 0 39128 0 39124
+E
+yellow arched door~
+The yellow arched door is rounded at the top, and is made of brightly 
+painted wooden panels.  There is a green doorhandle which you can turn to 
+`#`Senter`^ the `#`Stoadstool`^.  
+~
+S
+#39125
+A Large `#`YYellow`^ Mushroom~
+~
+A large yellow mushroom with a thick stalk grows here to the northeast of 
+the giant toadstool.  The crown of the mushroom has faint white spots, but 
+they are barely visible from the ground.  On the stalk are two round windows 
+on the sunny side, and two on the shady side, each with a different coloured 
+set of frilly curtains.  The `#`mdoor`^ at the base of the stalk, is yet another 
+colour, being a brilliant purple with a cherry-red doorhandle.  A 
+woodshaving sign hangs over the door with the printed words: `1`1 `#`YFineLLie FurLurnitureLLie`^ 
+~
+1 0 0
+D7
+~
+~
+0 0 39124
+D8
+~
+~
+0 0 39143
+D9
+~
+~
+0 0 39126
+R O 0 39129 0 39125
+E
+door ~
+The purple door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a cherry-red doorhandle which you can turn to `#`Senter`^ 
+the `#`Smushroom`^.  
+~
+S
+#39126
+A `#`mPurple`^ and `#`WWhite`^ Toadstool~
+~
+A purple toadstool with great big white spots stands here, in the tufts of 
+grass to the north of the giant toadstool.  At the top of the toadstool is a 
+bent chimney, in the shape of a windy road.  Three windows, one atop of the 
+other, are peep out of the stalk.  Each window is painted brightly, and 
+decorated with floral curtains.  A round `#`mwooden door`^ at the base of the 
+stalk stands under a woodshaving sign which reads: `1`1 `#`mGaLLoLLorious Garments`^ 
+~
+1 0 0
+D3
+~
+~
+0 0 39145
+D7
+~
+~
+0 0 39125
+R O 0 39130 0 39126
+E
+wooden door~
+The wooden door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a purple doorhandle which you can turn to `#`Senter`^ the 
+`#`Stoadstool`^.  
+~
+S
+#39128
+A Tall `#`BBlue`^ Toadstool~
+~
+A tall toadstool, a bright blue one, grows here on the northern path around 
+the giant toadstool.  This toadstool has a brilliant blue crown and pure 
+white stalk.  It is nestled in the tufts of grass, and bunches of yellow and 
+white daisies which have been planted in no orderly fashion around the 
+toadstool.  A woodshaving sign hangs over a `#`Bblue door`^ at the base of the 
+toadstool.  Blue letters are painted on the sign and read: `1`1`#`BMusicaLiLLicaL Instrumementies`^ 
+~
+1 0 0
+D1
+~
+~
+0 0 39145
+D8
+~
+~
+0 0 39141
+R M 0 39159 1 39128
+  R E 0 39333 0 5
+  R G 0 39121 0
+  R E 0 39157 0 17
+R O 0 39133 0 39128
+E
+blue door~
+The blue door is rounded at the top, and is made of brightly painted wooden 
+panels.  There is a dark blue doorhandle which you can turn to `#`Senter`^ the 
+`#`Stoadstool`^.  
+~
+S
+#39131
+A `#`MPink`^ Mushroom with a Tall Stalk~
+~
+A pink mushroom grows on the western path of the giant toadstool.  This 
+mushroom has an extraordinarily long stalk and is dotted with several 
+pink-framed windows with matching pink curtains.  A tin chimney leans 
+slightly, from its position near the tip of the mushroom top.  An arched 
+`#`Mpink door`^ stands at the base of the tall stalk.  A sign swings above it, and 
+is painted with pink letters which reads: `1`1 `#`MMillissa's Millillillinery`^ 
+~
+1 0 0
+D2
+~
+~
+0 0 39132
+D6
+~
+~
+0 0 39141
+R O 0 39136 0 39131
+E
+pink door~
+The pink door is rounded at the top, and is made of brightly painted wooden 
+panels.  There is a pink doorhandle which you can turn to `#`Senter`^ the 
+`#`Smushroom`^.  
+~
+S
+#39132
+A Bright `#`mPurple`^ Toadstool~
+~
+Where the path to the giant toadstool meets the western ring, a bright 
+purple toadstool grows.  The toadstool is the colour of grapes, and the 
+stalk is a shade of light cream.  Perched on the crown like birds, are two 
+round windows, painted with bright purple sills.  At the base of the purple 
+toadstool, is a `#`mbright purple door`^, with a cream painted doorknob.  Above 
+the door swings a woodshaving sign with printed letters, reading:`1`1`#`mSiLiLken SLiLLiLLipers`^ 
+~
+1 0 0
+D0
+~
+~
+0 0 39131
+D1
+~
+~
+0 0 39138
+D2
+~
+~
+0 0 39133
+R O 0 39137 0 39132
+E
+bright purple door~
+The bright purple door is rounded at the top, and is made of brightly 
+painted wooden panels.  There is a cream painted doorhandle which you can 
+turn to `#`Senter`^ the `#`Stoadstool`^.  
+~
+S
+#39133
+A Large Toadstool with a Thick, `#`GGreen`^ Stalk~
+~
+A large toadstool grows on the western side of the giant toadstool.  The 
+thick green stalk on this toadstool is the same colour as the tufts of grass 
+surrounding it, which makes the bright red windows and doors stand out 
+dramatically.  There are three windows which weave up the stalk in a 
+diagonal fashion, and there is a `#`Rred door`^ at the base of the stalk.  A 
+woodshaving sign hangs above it and reads: `1`1 `#`RBookooklle Bargains`^ 
+~
+1 0 0
+D0
+~
+~
+0 0 39132
+D7
+~
+~
+0 0 39134
+R O 0 39138 0 39133
+E
+red door~
+The red door is rounded at the top, and is made of brightly painted wooden 
+panels.  There is a green doorhandle which you can turn to `#`Senter`^ the 
+`#`Stoadstool`^.  
+~
+S
+#39134
+A Brilliant `#`YYellow`^ Mushroom~
+~
+On the southwestern side of the giant toadstool, grows a brilliant yellow 
+mushroom.  A path heads northeast from here towards the giant toadstool.  
+The yellow mushroom has several windows dotted randomly across the crown of 
+the mushroom, each with a set of bright yellow curtains and bright yellow 
+windowsills.  At the foot of the mushroom, there is a bright yellow door.  
+Bright yellow daisies have been planted neatly around the stalk of the 
+mushroom.  
+~
+1 0 0
+D6
+~
+~
+0 0 39136
+D7
+~
+~
+0 0 39135
+D9
+~
+~
+0 0 39133
+R M 0 39158 1 39134
+  R E 0 39325 0 23
+  R E 0 39324 0 7
+  R E 0 39323 0 5
+R O 0 39139 0 39134
+S
+#39135
+An `#`ROrange`^ Toadstool~
+~
+At the edge of the path, on the southern side of the giant toadstool, grows 
+a brilliant orange toadstool.  A copper chimney pipe, bent in several places 
+pokes out of the orange crown of the toadstool.  At the edge of the crown, 
+and rather feebly placed, is a large round window with bright orange 
+curtains, tied with big ribbons.  A `#`Rwooden-panelled door`^ stands at the base 
+of the toadstool, amidst a patches of vibrant green moss.  Above it hangs a 
+sign which reads `1`1 `#`RBaLLooLLans and BuLLubLes`^ 
+~
+1 0 0
+D1
+~
+~
+0 0 39122
+D9
+~
+~
+0 0 39134
+R O 0 39140 0 39135
+E
+wooden-panelled door~
+The wooden-panelled door is rounded at the top, and is made of brightly 
+painted wooden panels.  There is a red doorhandle which you can turn to 
+`#`Senter`^ the `#`Stoadstool`^.  
+~
+S
+#39136
+A Smallish Path before the Giant Toadstool~
+~
+A smallish path heads northeast to the looming giant toadstool, and 
+southwest to the outer mushroom ring.  Bunches of daisies grow wild along 
+the edge of the path, dotting the path with yellow and white splotches of 
+colour.  As you get closer to the giant toadstool, it really does seem huge. 
+ There is a door in the northeastern side of the stalk.  
+~
+1 0 0
+D6
+~
+~
+0 0 39137
+D8
+~
+~
+0 0 39134
+S
+#39137
+First Floor in the Giant Toadstool~
+~
+This large hall is bustling with activity with dozens of busy faeries in all 
+sizes and colours.  The tall ceiling is covered with a beautiful brightly 
+coloured mural, depicting a bouquet of beautiful roses.  Looking closer at 
+the mural, there is a exit to the second floor hidden in one of the roses.  
+There are rounded wooden doors, lined all along the sides of the hall.  
+~
+1 0 0
+D0
+~
+~
+1 0 39147
+D1
+~
+~
+1 0 39149
+D2
+~
+~
+1 0 39152
+D3
+~
+~
+1 0 39140
+D4
+~
+~
+0 0 39155
+D6
+~
+~
+0 0 39143
+D7
+~
+~
+0 0 39153
+D8
+~
+~
+0 0 39136
+D9
+~
+~
+0 0 39142
+R M 0 39121 1 39137
+R M 0 39147 1 39137
+  R E 0 39247 0 26
+  R E 0 39247 0 27
+  R E 0 39244 0 8
+  R E 0 39242 0 5
+  R E 0 39240 0 1
+  R E 0 39239 0 0
+  R E 0 39241 0 3
+  R E 0 39243 0 14
+  R E 0 39245 0 23
+  R E 0 39246 0 17
+S
+#39138
+A Straight Little Path~
+~
+A straight little path leads east towards the giant toadstool, and west to 
+the outer mushroom ring.  Shiny pebbles and colourful rocks line up all 
+along the neatly kept pathway.  Looking east, a giant mushroom looms over 
+the surrounding area.  
+~
+1 0 0
+D1
+~
+~
+0 0 39140
+D3
+~
+~
+0 0 39132
+S
+#39140
+A Straight Little Path before the Giant Toadstool~
+~
+A straight little path leads east towards the giant toadstool, and west to 
+the outer mushroom ring.  The well kept pathway is decorated on both sides 
+with a variety of colourful rocks and shiny pebbles.  The giant toadstool 
+stands majestically over the area, towering at an impressive height, more 
+than double the height of the other mushrooms.  How tall it is, almost four 
+faeries high.  There is a rounded wooden door in the eastern side of the 
+stalk.  
+~
+1 0 0
+D1
+~
+~
+1 0 39137
+D3
+~
+~
+0 0 39138
+S
+#39141
+A `#`bDeep Blue`^ Toadstool~
+~
+A toadstool the colour of the deepest blue velvet, stands amongst the tufts 
+of grass here to the north of the giant toadstool.  A round window pokes 
+through the crown on the leftside, and on the sill is a thimble flowerpot 
+with a bunch of forget-me-nots inside.  At the base of the stalk, is a `#`bdeep 
+blue wooden door`^, with an acorn for a doorknob.  Above the door hangs a 
+woodshaving sign with the printed words:`1`1 `#`BReeLLoLLies of Ribbons`^ 
+~
+1 0 0
+D6
+~
+~
+0 0 39128
+D7
+~
+~
+0 0 39142
+D8
+~
+~
+0 0 39131
+R O 0 39131 0 39141
+R M 0 39157 1 39141
+  R E 0 39322 0 16
+  R E 0 39321 0 10
+  R E 0 39320 0 7
+  R E 0 39319 0 5
+  R E 0 39318 0 3
+E
+deep blue wooden door~
+The deep blue wooden door is rounded at the top, and is made of brightly 
+painted wooden panels.  There is an acorn doorhandle which you can turn to 
+`#`Senter`^ the `#`Stoadstool`^.  
+~
+S
+#39142
+A Tiny Path before the Giant Toadstool~
+~
+The path heading southeast to the giant toadstool and northwest to the outer 
+mushroom ring, is tiny, barely fitting one faerie widthways.  Wild 
+forget-me-nots grow at the edge of the path, adding dashes of blue to the 
+grassy green path.  The giant toadstool, as you get nearer, seems awefully 
+big from where you stand.  There is an arched door in the southeastern side 
+of the stalk.  
+~
+1 0 0
+D7
+~
+~
+0 0 39137
+D9
+~
+~
+0 0 39141
+S
+#39143
+A Minute Path before the Giant Toadstool~
+~
+A minute path leads southwest towards the giant toadstool, and northeast to 
+the outer mushroom ring.  The path is decorated with clumps of daisies, 
+growing at the edge of the grassy walkway.  As you near the giant toadstool, 
+you notice how tall it is, almost four faeries high.  There is a rounded 
+wooden door in the southwestern side of the stalk.  
+~
+1 0 0
+D6
+~
+~
+0 0 39125
+D8
+~
+~
+0 0 39137
+S
+#39144
+A `#`mViolet`^ Topped Mushroom~
+~
+In the tufts of grass, to the south of the giant toadstool, grows a mushroom 
+with a violet coloured crown.  The top of the mushroom is large and 
+underneath, it is a soft lavendar shade.  Two round windows with pink 
+windowsills peer out on either side of the stalk.  There is a `#`Mtiny pink door`^ 
+at the base of the mushroom and above hangs a wood shaving sign, with some 
+printed letters which read: `1`1`#`MDeLightfuLLoLLie SweetiLLies`^ 
+~
+1 0 0
+D3
+~
+~
+0 0 39122
+D6
+~
+~
+0 0 39121
+R O 0 39123 0 39144
+E
+tiny pink door~
+The tiny pink door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a white doorhandle which you can turn to `#`Senter`^ the 
+`#`Smushroom`^.  
+~
+S
+#39145
+A Mushroom with `#`GLight Green`^ Spots~
+~
+A mushroom grows here, where a path heading south to the giant toadstool 
+meets the outer ring.  The crown of the mushroom is covered in light 
+apple-green spots, and its stalk is a lighter shade of green.  Poking out of 
+the stalk are several bright green windows with dark green curtains, tied 
+with green ribbons.  A `#`Glight green door`^ stands at the base of the stalk 
+under a sign which reads:`1`1 `#`GHerLLerbaL Rememedies`^ 
+~
+1 0 0
+D1
+~
+~
+0 0 39126
+D2
+~
+~
+0 0 39146
+D3
+~
+~
+0 0 39128
+R M 0 39152 1 39145
+  R E 0 39306 0 23
+  R E 0 39305 0 26
+  R E 0 39305 0 27
+  R E 0 39304 0 5
+R O 0 39132 0 39145
+E
+light green door~
+The light green door is rounded at the top, and is made of brightly painted 
+wooden panels.  There is a dark green doorhandle which you can turn to `#`Senter`^ 
+the `#`Smushroom`^.  
+~
+S
+#39146
+A Small Path~
+~
+A small path heads south towards the giant toadstool, and north to the outer 
+mushroom ring.  At the side of the path, is a mossy patch of grass, perfect 
+for sitting and listening to a story from the storyteller who has settled 
+here.  
+~
+1 0 0
+D0
+~
+~
+0 0 39145
+D2
+~
+~
+0 0 39147
+R O 0 39143 0 39146
+R M 0 39149 1 39146
+  R E 0 39269 0 5
+  R E 0 39264 0 8
+  R G 0 39281 0
+    R P 0 39294 50 39281
+    R P 0 39295 50 39281
+    R P 0 39296 50 39281
+    R P 0 39297 50 39281
+    R P 0 39298 50 39281
+S
+#39147
+A Small Path Leading to a Giant Toadstool~
+~
+A small path leads south towards the giant toadstool, and north to the outer 
+mushroom ring.  Two neatly kept rows of sunflowers as tall as faeries line 
+the sides of the path of well kept grass.  The tall toadstool looms up in 
+front, towering over everything else, at an impressive height of almost four 
+faeries high.  There is a rounded wooden door in the southern side of the 
+stalk.  
+~
+1 0 0
+D0
+~
+~
+0 0 39146
+D2
+~
+~
+1 0 39137
+S
+#39148
+A Miniature Path~
+~
+Brightly coloured pebbles and stones line the path leading west to the giant 
+toadstool and east to the outer ring of mushrooms.  The giant toadstool 
+seems to loom high above all the other mushrooms, and from here, looks to be 
+taller than four faeries high.  
+~
+1 0 0
+D1
+~
+~
+0 0 39123
+D3
+~
+~
+0 0 39149
+S
+#39149
+A Miniature Path before the Giant Toadstool~
+~
+A path leads up to the giant toadstool, and heads east to the outer ring.  
+The toadstool stretches high before you, and you can't even see the top of 
+it to tell what colour it is.  Dashes of brightly coloured pebbles and 
+stones colour the edge of the path.  There is a wooden door built into the 
+western side of the stalk.  
+~
+1 0 0
+D1
+~
+~
+0 0 39148
+D3
+~
+~
+1 0 39137
+S
+#39150
+FineLLie FurLurnitureLLie~
+~
+Entering this mushroom, you see cluttered stacks of finely crafted 
+furniture.  There are tiny delicate lamps, and small soft beds with fluffy 
+pillows and dainty chairs.  In fact, there's just about anything one could 
+wish to buy for one's own mushroom house.  There's a faerie covered in wood 
+shavings polishing a piece of furniture that he's recently crafted near the 
+counter.  
+~
+1 0 0
+D8
+~
+~
+0 0 39125
+R M 0 39136 1 39150
+  R G 0 39174 0
+  R G 0 39175 0
+  R G 0 39176 0
+  R G 0 39177 0
+  R G 0 39178 0
+  R E 0 39256 0 5
+  R E 0 39254 0 7
+S
+#39151
+A Miniscule Path~
+~
+A path, miniscule in size, heads north towards the giant toadstool and south 
+to the outer mushroom ring.  There is a lusciously soft patch of moss at the 
+side of the path, and a druid faerie seems to have taken to using the spot 
+for tending to the hurt and needy.  
+~
+1 0 0
+D0
+~
+~
+0 0 39152
+D2
+~
+~
+0 0 39122
+R O 0 39142 0 39151
+R M 0 39148 1 39151
+  R E 0 39256 0 5
+  R E 0 39254 0 7
+S
+#39152
+A Miniscule Path before the Giant Toadstool~
+~
+A path heads to the giant toadstool to the north, and to the outer ring to 
+the south.  Looking up at the giant toadstool, you can't even tell what 
+colour the crown is, its so high up.  Being this close to the toadstool, it 
+seems a lot bigger than it did from the outer ring.  There is an arched 
+doorway built into the northern side of the stalk.  
+~
+1 0 0
+D0
+~
+~
+1 0 39137
+D2
+~
+~
+0 0 39151
+S
+#39153
+A small path before the giant toadstool~
+~
+A path barely two faerie feet wide, heads towards the northwest to the giant 
+toadstool and southeast to the outer ring.  Heading in the direction of the 
+giant toadstool it seems a whole lot bigger than it did from the outer ring. 
+ It almost towers over you, and from here you can see it is at least three 
+or four faeries tall.  There is a wooden doorway in the northwestern side of 
+the stalk.  
+~
+1 0 0
+D7
+~
+~
+0 0 39121
+D9
+~
+~
+0 0 39137
+S
+#39154
+BaLLooLLans and BuLLubLes~
+~
+Walking into this toadstool is like walking into a dream.  Delicate rainbow 
+coloured bubbles float all about you, as balloons bob about on stands, every 
+colour and shape imaginable.  As you look around you see all sorts of party 
+things, from little toys to napkins and plates, and decorations.  There is a 
+faerie with a party hat, serving the customers.  
+~
+1 0 0
+D6
+~
+~
+0 0 39135
+R M 0 39146 1 39154
+  R G 0 39214 0
+  R G 0 39215 0
+  R G 0 39216 0
+  R G 0 39217 0
+  R G 0 39218 0
+  R G 0 39219 0
+  R G 0 39220 0
+  R G 0 39221 0
+  R G 0 39222 0
+  R G 0 39223 0
+  R G 0 39224 0
+  R G 0 39225 0
+  R G 0 39226 0
+  R E 0 39266 0 5
+  R E 0 39267 0 8
+  R E 0 39268 0 6
+S
+#39155
+Second Floor in the Giant Toadstool~
+~
+Large stained windows line the sides of this large throne room, letting in 
+the light from outside into the hall in a prism of multicoloured rainbow 
+colours.  The domed ceiling is an intricate mosiac of shiny gems and silver 
+with a little hexagonal shaped exit leading up, right in the middle of it.  
+There is a round hole with a velvet banister in the smooth marbled floor 
+leading down to the first floor.  
+~
+1 0 0
+D4
+~
+~
+0 0 39156
+D5
+~
+~
+0 0 39137
+D6
+~
+~
+33 39299 39170
+R M 0 39122 1 39155
+R M 0 39153 1 39155
+  R G 0 39299 0
+R M 0 39155 1 39155
+  R E 0 39312 0 3
+  R E 0 39311 0 14
+  R E 0 39310 0 8
+  R E 0 39309 0 6
+  R E 0 39308 0 7
+  R E 0 39307 0 12
+R M 0 39156 1 39155
+  R E 0 39313 0 12
+  R E 0 39314 0 7
+  R E 0 39315 0 8
+  R E 0 39316 0 5
+  R E 0 39317 0 23
+R M 0 39166 1 39155
+  R E 0 39340 0 17
+  R E 0 39337 0 3
+  R E 0 39336 0 1
+  R E 0 39335 0 0
+  R E 0 39338 0 5
+  R E 0 39339 0 6
+R O 0 39152 0 39155
+S
+#39156
+Third Floor in the Giant Toadstool~
+~
+The crown of this giant toadstool is so big, the surface seems almost flat.  
+Standing on it, you can look over the whole faerie circle, and all of the 
+surrounding mushrooms.  A fluffy rug is spread here, making this a fantastic 
+picnic spot!  
+~
+1 0 0
+D5
+~
+~
+0 0 39155
+R M 0 39123 1 39156
+R O 0 39149 0 39156
+S
+#39157
+TiLLiLLie's Teashop~
+~
+A bustling little teashop, is filled with faeries sharing secrets over cups 
+of nectar tea, and nibbling on slices of honeydew.  Sets of comfy tulip 
+chairs around button mushroom tables are placed in cosy corners of the room. 
+ Delightful, hand painted pictures of well-known faeries hang from pinhooks, 
+and colourful curtains are tied neatly with bows at the edges of the 
+windows.  A busy faerie with a daisy tucked behind her ear, is serving cups 
+of tea.  
+~
+1 0 0
+D9
+~
+~
+0 0 39121
+R O 0 39144 0 39157
+R O 0 39145 0 39157
+R M 0 39124 1 39157
+  R G 0 39182 0
+  R G 0 39183 0
+  R G 0 39184 0
+  R G 0 39185 0
+  R G 0 39186 0
+  R G 0 39187 0
+  R G 0 39188 0
+  R G 0 39189 0
+  R E 0 39269 0 5
+  R E 0 39270 0 26
+S
+#39158
+DeLightfuLLoLLie SweetiLLies~
+~
+Inside this small mushroom are dozens of honeycomb shelves filled with 
+assortments of candies and chocolates, and of course..  Cupcakes!  There are 
+cupcakes iced with every hue of the rainbow, and combinations, like 
+crimson-purple with sea-blue stripes, and cupcakes with faeriedust 
+sprinkles.  This shop is a dream for any sweet-toothed faerie!  A slightly 
+chubby faerie with pink cheeks holds an acorn in her hand, ready to pile 
+sweets into it, for the next tempted customer.  
+~
+1 0 0
+D9
+~
+~
+0 0 39144
+R O 0 39146 0 39158
+R M 0 39125 1 39158
+  R G 0 39153 0
+  R G 0 39166 0
+  R G 0 39167 0
+  R G 0 39168 0
+  R G 0 39169 0
+  R G 0 39170 0
+  R G 0 39171 0
+  R G 0 39172 0
+  R G 0 39173 0
+  R G 0 39179 0
+  R E 0 39269 0 5
+S
+#39159
+Herbal Remedies~
+~
+Inside this toadstool, its almost like being in the forest.  From the 
+ceiling, on racks of bramble, hang bundles and clutches of dried herbs of 
+every variation, from long strangly ones, to short stubby ones, to burnt 
+amber ones, to ones that smell like the sea-air.  Lining the walls are an 
+assortment of snailshell cauldrons, and clamshell mortars, and other handy 
+items for herbalists.  A green-haired faerie is sorting a recent forage into 
+piles behind a bench, made from an upturned jar.  
+~
+1 0 0
+D2
+~
+~
+0 0 39145
+R O 0 39147 0 39159
+R M 0 39126 1 39159
+  R G 0 39165 0
+  R G 0 39162 0
+  R G 0 39161 0
+  R G 0 39160 0
+  R G 0 39164 0
+  R G 0 39163 0
+  R E 0 39260 0 5
+  R E 0 39254 0 7
+  R G 0 39345 0
+  R G 0 39346 0
+S
+#39160
+MusicaLiLLicaL Instrumementies~
+~
+A sweet melody wafts over to you when you enter this mushroom, and you 
+notice a slender faerie playing on one of the reed flutes for sale.  
+Hand-crafted instruments are displayed on lily leafs in this shop.  There 
+are all kinds of flutes, and tiny gold and silver bells, and bamboo 
+recorders, and walnut shell lutes.  A tall faerie demonstrates how to use a 
+set of seashell chimes to one of the customers, and seems willing to help 
+the customers with any instrument that takes their fancy.  
+~
+1 0 0
+D2
+~
+~
+0 0 39128
+R M 0 39127 1 39160
+  R G 0 39159 0
+  R G 0 39158 0
+  R G 0 39157 0
+  R G 0 39156 0
+  R G 0 39155 0
+  R G 0 39154 0
+  R E 0 39261 0 5
+  R E 0 39262 0 7
+S
+#39161
+Millissa's Millillillinery ~
+~
+A faerie dressed in a flamboyant hat topped with berries and nuts, greets 
+you warmly.  She must be Millissa, the faerie who makes all the wonderful 
+creations in this shop.  Displayed on walnut shell models are extravagant, 
+richly decorated hats, and plain yet practical caps, and dainty bonnets, and 
+caps made of leaves and floral wreathes.  The burst of colour and texture on 
+the selection is really quite impressive.  
+~
+1 0 0
+D7
+~
+~
+0 0 39131
+R O 0 39148 0 39161
+R M 0 39128 1 39161
+  R G 0 39198 0
+  R G 0 39199 0
+  R G 0 39200 0
+  R G 0 39201 0
+  R G 0 39232 0
+  R E 0 39259 0 5
+  R E 0 39263 0 6
+  R G 0 39280 0
+S
+#39162
+SiLiLken SLiLLiLLipers~
+~
+Inside this quaint mushroom is a selection of handmade, delicately sewn, 
+slippers.  On display, you can see dancing slippers made from fine silk, and 
+bedtime slippers made from featherdown, and hazelnut clogs for playing in, 
+and dainty velvet slippers for special occasions.  A plump faerie is 
+polishing up a pair of woven mapleleaf slippers, and looks like the one to 
+talk to about finding the right size slipper.  
+~
+1 0 0
+D1
+~
+~
+0 0 39132
+R M 0 39129 1 39162
+  R G 0 39208 0
+  R G 0 39209 0
+  R G 0 39210 0
+  R G 0 39211 0
+  R G 0 39212 0
+  R E 0 39262 0 7
+  R E 0 39256 0 5
+  R E 0 39264 0 8
+S
+#39163
+Bookooklle Bargains~
+~
+Upon several tortoise shell tables are displayed collections of novels, 
+faerie-tales, and other fantastical literary delights.  Looking over the 
+collection, you notice some of the books have shiny, new covers, and others 
+have dull, slightly tattered ones.  A small note on leaf paper beside these 
+ones reads `#`W"Well-loved books - Half Price"`^.  A faerie with tiny spectacles 
+is putting leaf dockets on the books, and looks wise enough to recommend a 
+worthy book to read.  
+~
+1 0 0
+D6
+~
+~
+0 0 39133
+R O 0 39150 0 39163
+R M 0 39130 1 39163
+  R G 0 39180 0
+  R G 0 39181 0
+  R E 0 39265 0 28
+  R E 0 39259 0 5
+  R G 0 39282 0
+  R G 0 39344 0
+S
+#39164
+Faraeriedust and WaLLandLes~
+~
+As you enter, a shower of silver dust scatters, floating into the air, and 
+slowly drifting to settle on the ground.  After the dust clears, you make 
+out tiny pouches of different colours displayed in neat rows.  Each pouch 
+has a handsewn label with its ingredients listed, and recommended use.  
+There are also a selection of glittering wands for sale.  A faerie with 
+sparkly hair is pouring a buttercup of dust into a new pouch, and looks like 
+the faerie to talk to about the magic of faeriedust.  
+~
+1 0 0
+D9
+~
+~
+0 0 39120
+R M 0 39131 1 39164
+  R G 0 39192 0
+  R G 0 39191 0
+  R G 0 39193 0
+  R G 0 39194 0
+  R G 0 39227 0
+  R G 0 39228 0
+  R G 0 39229 0
+  R G 0 39230 0
+  R G 0 39231 0
+  R E 0 39259 0 5
+  R G 0 39271 0
+S
+#39165
+Trealleasures and Trillinkets~
+~
+You barely fit through the door, as you realise that blocking the way is an 
+assortment of antiques, collectables and trinkets piled almost as high as 
+the ceiling.  There is scarcely space to move inside this shop of treasures, 
+and looking around, your eyes can hardly take it all in at once.  There are 
+marvellous and strange articles, and difficult to reach articles, and bright 
+shiny articles, and dull and dusty articles.  Its a wonder the faerie with 
+the most unusual hat can find anything as he helps the customers, but if you 
+asked, I'm sure he'd know just where it was in this muddle of trinkets and 
+treasure.  
+~
+1 0 0
+D3
+~
+~
+0 0 39123
+R M 0 39132 1 39165
+  R G 0 39202 0
+  R G 0 39203 0
+  R G 0 39197 0
+  R G 0 39196 0
+  R G 0 39195 0
+  R G 0 39213 0
+  R G 0 39236 0
+  R E 0 39262 0 7
+  R E 0 39256 0 5
+S
+#39166
+GaLLoLLorious Garments~
+~
+On coral clothes hooks, hang a selection of handsewn garments for all 
+occasions, inside this shop.  Made of rose-petals, there are pretty pink, 
+red and white dresses for faerie lasses.  And from flax, jackets and vests 
+have been woven for faerie lads.  For evening wear, these is a selection of 
+fine spidersilk garments, and for casual wear, a selection of mapleleaf 
+garments.  A finely dressed faerie looks ready to help the customers with 
+any garment that catches their eye.  
+~
+1 0 0
+D8
+~
+~
+0 0 39126
+R O 0 39151 0 39166
+R M 0 39133 1 39166
+  R G 0 39204 0
+  R G 0 39205 0
+  R G 0 39206 0
+  R G 0 39207 0
+  R G 0 39248 0
+  R G 0 39249 0
+  R G 0 39250 0
+  R G 0 39251 0
+  R G 0 39252 0
+  R G 0 39253 0
+  R E 0 39257 0 5
+S
+#39167
+ReeLLoLLies of Ribbons~
+~
+This little shop is full of lovely ribbons.  Blue ribbons, made of the mist 
+that hangs on faraway hills, and sea-green ribbons embroidered with diamond 
+sparkles that glitter like sunny water.  There are big broad ribbons of 
+shiny silk and tiny delicate ribbons of frosted spider silk.  The whole shop 
+is practically spilling over with rolls and rolls, and unrolled ribbons.  
+There is a rounded door to the south.  
+~
+1 0 0
+D7
+~
+~
+0 0 39141
+R M 0 39134 1 39167
+  R G 0 39238 0
+  R G 0 39235 0
+  R G 0 39234 0
+  R G 0 39233 0
+  R G 0 39237 0
+  R E 0 39258 0 6
+  R E 0 39259 0 5
+S
+#39168
+DomesticaLated DaLLarLLings~
+~
+As soon as you walk into this shop, you hear a soft pitter patter of feet 
+scurrying about, and the mingled chatter of insects and little creatures as 
+they peer out at you from their giant oyster shell cages.  As you walk 
+closer to the shells you see inside all sorts of little insects..  Creatures 
+with wings, creatures with fluffy fur or feathers, creatures with gills, and 
+all sizes too, of course they're all smaller than a faerie in size.  A 
+faerie with a hummingbird perched on her shoulder looks willing to help the 
+customers find the perfect darling.  
+~
+1 4096 0
+D8
+~
+~
+0 0 39124
+R M 0 39135 1 39168
+  R E 0 39254 0 7
+  R E 0 39255 0 5
+S
+#39169
+Pet Storage~
+~
+~
+1 1085444 0
+R M 0 39142 200 39169
+R M 0 39143 200 39169
+R M 0 39141 200 39169
+R M 0 39145 200 39169
+R M 0 39140 200 39169
+R M 0 39139 200 39169
+R M 0 39137 200 39169
+R M 0 39138 200 39169
+R M 0 39144 200 39169
+S
+#39170
+The Faerie Queen's Lair~
+~
+The room you've managed to find your way into, is cram-packed with odd bits 
+and pieces, glittering jewels, shiny shells, sparkling needles and thimbles, 
+colourful buttons and patches of material.  This is where the queen faerie 
+has been keeping her collection of "borrowed" trinkets and ornaments.  There 
+seems to be no order to the room, with each new addition being piled 
+randomly onto the almost toppling collection.  
+~
+1 4 0
+D8
+~
+~
+33 39299 39155
+R O 0 39272 0 39170
+R O 0 39273 0 39170
+R O 0 39274 0 39170
+R O 0 39275 0 39170
+R O 0 39276 0 39170
+R O 0 39277 0 39170
+R O 0 39278 0 39170
+R O 0 39279 0 39170
+R M 0 39154 1 39170
+  R G 0 39299 0
+S
+#39171
+A Glade of Silver Birch Trees~
+~
+A canopy of silver leaves dance gently over the grassy path, as a wind 
+rustles through the silver birch trees which grace the edge of the path.  
+Patches of moss clump around the roots of the trees and brightly coloured 
+pebbles are sprinkled across the grass like a lolly scramble.  Up ahead, to 
+the south, the path leads into a forest of oak trees.  Glancing north, 
+colourful mushrooms grow in a ring.  
+~
+1 0 3
+D0
+~
+~
+0 0 39122
+D1
+~
+~
+0 0 58252
+D2
+~
+~
+0 0 58331
+D3
+~
+~
+0 0 58250
+S
+#0
+
+
+#SHOPS
+ 39124    0  0  0  0  0   110  90         0 23    ; a busy faerie with a daisy tucked behind her ear
+ 39125    0  0  0  0  0   110  90         0 23    ; a slightly chubby faerie with pink cheeks
+ 39126    0  0  0  0  0   110  90         0 23    ; a green-haired faerie
+ 39127    0  0  0  0  0   110  90         0 23    ; a tall faerie
+ 39128    0  0  0  0  0   110  90         0 23    ; a faerie dressed in a flamboyant hat
+ 39129    0  0  0  0  0   110  90         0 23    ; a plump faerie
+ 39130    0  0  0  0  0   110  90         0 23    ; a faerie with tiny spectacles
+ 39131    0  0  0  0  0   110  90         0 23    ; a faerie with sparkly hair
+ 39132    0  0  0  0  0   110  90         0 23    ; a curious-looking faerie with fuzzy hair
+ 39133    0  0  0  0  0   110  90         0 23    ; a finely dressed faerie
+ 39134   11  0  0  0  0   110  90         0 23    ; a faerie with beautiful ribbons in her hair
+ 39135    0  0  0  0  0   110  90         0 23    ; a faerie with a hummingbird perched on his shoulder
+ 39136    0  0  0  0  0   110  90         0 23    ; a scruffy faerie
+ 39146    0  0  0  0  0   110  50         0 23    ; a faerie wearing a party hat
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

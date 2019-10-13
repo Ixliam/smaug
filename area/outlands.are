@@ -1,0 +1,1000 @@
+#AREA        The Outlands~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#33000
+healer avian green plumage~
+a male avian with dark green plumage~
+A male avian with dark green plumage is perched upon a branch here.
+~
+This avian looks at you with small, beady eyes.  Although small in size they 
+hint towards possession of great wisdom and knowledge.  Dark green feathers 
+in several shades cover it's body and also line the edges and tips of his 
+wings.  Sharp claws and beak look like this bird can give as good as he 
+gets.  
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+60 2 -75 5d20+500 8d20+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33001
+outlands barbarian guildguard oafish human male~
+an oafish human male of gigantic proportions~
+An oafish human male of gigantic proportions hunches over here.
+~
+Standing about 7 feet tall and 4 feet wide, this human form could simply be 
+described as a wall of muscle. His unproportioned upper body causes him to 
+hunch over slightly. This gives the barbarian a oafish, perhaps stupid look. 
+But what he lacks in intelligence he more than makes up for in stupidity. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33002
+outlands barbarian guildguard oafish human male~
+an oafish human male of gigantic proportions~
+An oafish human male of gigantic proportions hunches over here.
+~
+Standing about 7 feet tall and 4 feet wide, this human form could simply be 
+described as a wall of muscle. His unproportioned upper body causes him to 
+hunch over slightly. This gives the barbarian a oafish, perhaps stupid look. 
+But what he lacks in intelligence he more than makes up for in stupidity. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33003
+outlands barbarian guildguard oafish human male~
+an oafish human male of gigantic proportions~
+An oafish human male of gigantic proportions hunches over here.
+~
+Standing about 7 feet tall and 4 feet wide, this human form could simply be 
+described as a wall of muscle. His unproportioned upper body causes him to 
+hunch over slightly. This gives the barbarian a oafish, perhaps stupid look. 
+But what he lacks in intelligence he more than makes up for in stupidity. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33004
+unseen_barbarianO_guildguard_loader~
+unseen_barbarianO_guildguard_loader~
+Unseen_barbarianO_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33005
+outlands ranger guildguard tall voadkyn female~
+a tall voadkyn female~
+A tall, voadkyn female stands concealed amongst the trees.
+~
+From behind a heavy cloak, two almost black eyes peer at you.  Aware of your 
+every move, they follow you.  Aside from the heavy cloak what you can see of 
+this female ranger is that she is tall, and reasonably strong.  
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33006
+outlands ranger guildguard tall voadkyn female~
+a tall voadkyn female~
+A tall, voadkyn female stands concealed amongst the trees.
+~
+From behind a heavy cloak, two almost black eyes peer at you.  Aware of your 
+every move, they follow you.  Aside from the heavy cloak what you can see of 
+this female ranger is that she is tall, and reasonably strong. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33007
+outlands ranger guildguard tall voadkyn female~
+a tall voadkyn female~
+A tall, voadkyn female stands concealed amongst the trees.
+~
+From behind a heavy cloak, two almost black eyes peer at you.  Aware of your 
+every move, they follow you.  Aside from the heavy cloak what you can see of 
+this female ranger is that she is tall, and reasonably strong.
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33008
+unseen_rangerO_guildguard_loader~
+unseen_rangerO_guildguard_loader~
+Unseen_rangerO_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33009
+outlands druid guildguard hunchbacked feylar male~
+a hunchbacked feylar~
+A hunchbacked feylar stands here chanting.
+~
+Looking almost crippled under the weight of his hunched back, the fur covering this feylar's flesh is like the colour of burnt leaves. His eyes, recessed and shadowed, rarely meet yours, but instinctively you know there is little he misses.
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33010
+outlands druid guildguard hunchbacked feylar male~
+a hunchbacked feylar~
+A hunchbacked feylar stands here chanting.
+~
+Looking almost crippled under the weight of his hunched back, the fur 
+covering this feylar's flesh is like the colour of burnt leaves.  His eyes, 
+recessed and shadowed, rarely meet yours, but instinctively you know there 
+is little he misses.  
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33011
+outlands druid guildguard hunchbacked feylar male~
+a hunchbacked feylar~
+A hunchbacked feylar stands here chanting.
+~
+Looking almost crippled under the weight of his hunched back, the fur 
+covering this feylar's flesh is like the colour of burnt leaves. His eyes, 
+recessed and shadowed, rarely meet yours, but instinctively you know there 
+is little he misses. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33012
+unseen_druidO_guildguard_loader~
+unseen_druidO_guildguard_loader~
+Unseen_druidO_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33013
+barbarian guild master dark furred gnoll~
+a dark furred, snarling gnoll male~
+A dark furred, snarling gnoll male stands here.
+~
+This gnoll appears to be the size of a small cottage. Well, perhaps a very 
+small cottage, but he is big to say the least. Beneath his fur large bulges 
+betray muscles that have been trained steadily over the years. He casts a 
+slightly vacant glance, but looks like he knows alot about what he does 
+best. Smashing things to small crumbs. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 1 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33014
+ranger guild master dark green cloaked drow~
+a dark-green cloaked male drow~
+A dark-green cloaked male drow assumes a wide stance here.
+~
+This drow, although not very tall as is usual for it's race, stands ready. 
+He has assumed a wide stance, and gives the impression that a blade would be 
+in his hands within seconds of trouble arrising. The dark green cloak he 
+wears looks like it would offer warmth, yet would not hinder the drow's 
+movement. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 1 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33015
+druid guild master loosely robed feylar female~
+a loosely robed, female feylar~
+A loosely robed, female feylar stands here.
+~
+This female feylar carries herself with a certain grace, her form is lean 
+although the thin, white robe she has draped loosely around herself does not 
+confirm this with any certainty. Her fur is silver in colour and shimmers 
+softly when it catches the light. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#33000
+token33000 token_barbarianO_guildguard_warned_before~
+token33000 token_barbarianO_guildguard_warned_before~
+Token33000 token_barbarianO_guildguard_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33001
+token 33001 token_rangerO_guildguard_warned_before~
+token 33001 token_rangerO_guildguard_warned_before~
+Token 33001 token_rangerO_guildguard_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33002
+token33002 token_druidO_guildguard_warned_before~
+token33002 token_druidO_guildguard_warned_before~
+Token33002 token_druidO_guildguard_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33003
+small grassy knoll~
+a small, grassy knoll~
+A small, grassy knoll has risen up from the ground.~
+~
+12 0 8
+10000 1168 110 110 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33004
+fresh-water brook fresh water~
+a fresh-water brook~
+A fresh-water brook runs along the western side of the clearing.~
+~
+25 0 16
+100000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33004 fresh water brook fresh-water~
+A small brook runs along the western side of this clearing. The water looks 
+clear and refreshing. 
+~
+#33005
+small torch~
+a small torch~
+A small torch lies here.~
+~
+1 0 1
+0 10 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33006
+battlaxe axe~
+a battleaxe~
+A battleaxe is lying here~
+~
+5 0 4
+1 17 25 32 0 0 0
+1 71 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33006 battleaxe~
+A standard battleaxe.  Nothing special about it.  Looks like you'd need two 
+hands to wield this properly.  
+~
+#33007
+mace~
+a mace~
+A mace is lying here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33007 mace~
+A standard mace.  Nothing special about it.
+~
+#33008
+small whetstone~
+a small whetstone~
+A small whetstone is lying here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33008 small whetstone~
+This is a small stone used for sharpening blades.
+~
+#33009
+sturdy shovel~
+a sturdy shovel~
+A sturdy shovel has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 39 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33009 sturdy shovel~
+This sturdy shovel has a steel blade and a thick wooden handle.
+~
+#33010
+frying pan~
+a frying pan~
+A frying pan is lying here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 33 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33010 frying pan~
+A steel frying pan.  Nothing special about it.
+~
+#33011
+bedroll~
+a bedroll~
+A bedroll has been left here.~
+~
+12 0 8
+9999 9362 115 115 0 0 0
+1 106 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33011 bedroll~
+This comfortable bedroll is made from thick cloth and is filled 
+with feathers or some soft material.  It would be great for
+those times when it's necessary to sleep in the wilderness.
+~
+#33012
+waterskin water skin~
+a waterskin~
+A waterskin is lying here.~
+~
+17 0 16
+70 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33013
+bowl stew~
+a bowl of stew~
+A bowl of stew is lying here.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33014
+granite stone~
+a granite stone~
+A granite stone floats here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33015
+horned helmet~
+a horned helmet~
+A horned helmet lies here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33016
+glistening stone~
+a glistening stone~
+A glistening stone floats here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33017
+empty potion bottle~
+an empty potion~
+A potion bottle is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#33018
+stone mortar~
+a stone mortar~
+A stone mortar has been left here.~
+~
+37 0 32
+0 0 100 0 0 0 0
+1 190 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33019
+bound parchment fresh water~
+a bound parchment~
+A bound parchment is lying here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 222 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#33020
+shimmering stone~
+a shimmering stone~
+A shimmering stone floats here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33021
+tanned leather cloak~
+a tanned leather cloak~
+A tanned leather cloak lies here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#33000
+A Path Amongst the Trees~
+~
+There is a stillness to this path that is at once comforting and unsettling. 
+The thick trunks of the trees combined with the heavy undergrowth make it 
+difficult to see far in any direction off of the path. The path itself seems 
+well used, and is free of weeds and plants. The path splits into two seperate
+paths leading north and east. Both look equally well-trodden.
+~
+1 0 3
+D8
+~
+~
+0 0 33001
+S
+#33001
+A Path Amongst the Trees~
+~
+The trees surrounding this path grow strong and tall, their branches 
+reaching and meeting overhead. The foliage allows only a bit of light to 
+filter through, creating dancing shadows on the ground with each whisper of 
+the wind. It's strangely quiet, and though you can hear the occasional 
+rustle indicating the passage of a small animal, there are no sounds of 
+birds in the trees. The trail curves almost gently, extending to the south 
+and northeast. 
+~
+1 0 3
+D2
+~
+~
+0 0 33002
+D6
+~
+~
+0 0 33000
+D9
+~
+~
+0 0 42418
+S
+#33002
+A Small Clearing~
+~
+This small clearing is more the connection of several trails than a true 
+clearing. The ground has been worn  smooth with the passage of many feet. 
+The variety of trees bordering the clearing grow closely together preventing 
+you from seeing very far into the undergrowth. Five trails lead off from 
+this clearing, to the north, the northwest, the west, the southwest and the
+south. 
+~
+1 33554432 3
+D0
+~
+~
+0 0 33001
+D2
+~
+~
+0 0 33004
+D3
+~
+~
+0 0 33003
+D8
+~
+~
+0 0 33005
+D9
+~
+~
+0 0 33006
+R O 0 33003 0 33002
+R O 0 33004 0 33002
+R O 0 7510 0 33002
+S
+#33003
+Beside the Standing Stones~
+~
+The trees have been cleared from this area, or perhaps they never grew here. 
+Before you stand a series of large, stones arranged roughly in a circle. 
+Each stone is about twenty feet high, and five feet in depth. One cannot 
+help but wonder how these stones came to be here, or who created this place.
+~
+1 33554432 3
+D1
+~
+~
+0 0 33002
+D3
+~
+~
+0 0 33009
+R M 0 33012 1 33003
+S
+#33004
+Before a Small Cave~
+~
+The forest path has led to a small embankment, which banks a sparkling 
+brook. The trees are as thick here as elsewhere near by, growing so closely 
+together that you cannot see through them deeper than a few feet. In the 
+embankment itself, you notice a small opening in the earth supported by 
+roughly hewn timbers, the entrance to a cave. 
+~
+1 33554432 3
+D0
+~
+~
+0 0 33002
+D8
+~
+~
+0 0 33007
+R M 0 33004 1 33004
+S
+#33005
+Before the Oak Tree~
+~
+The path ends abruptly at the base of a huge oak tree. Towering hundreds of 
+feet above your head, the tree's trunk is enormous and the bark is gnarled 
+and withered. Some sort of moss hangs from the branches brushing the ground 
+and creating a secluded area, free from prying eyes. Some crude steps lead
+up to a large hole in the tree. The hole is more than spacious enough to 
+climb inside.
+~
+1 33554432 3
+D4
+~
+~
+0 0 33008
+D6
+~
+~
+0 0 33002
+R M 0 33008 1 33005
+S
+#33006
+The Grove of Giving~
+~
+You find yourself in a small cultivated wood.  The trees around you are in 
+excellent shape.  Their leaves have a luscious green shine to them and none 
+of the firm branches seem out of place.  One larger branch stands out and 
+crosses the lane that leads into this grove.  It seems right here, as if the 
+tree it belongs to placed it there for some reason or for some purpose.  
+~
+1 33554432 3
+D7
+~
+~
+0 0 33002
+R M 0 33000 1 33006
+  R G 0 33005 0
+  R G 0 33013 0
+  R G 0 33012 0
+  R G 0 33011 0
+  R G 0 33010 0
+  R G 0 33009 0
+  R G 0 33008 0
+  R G 0 33007 0
+  R G 0 33006 0
+  R G 0 3055 0
+  R G 0 3054 0
+R O 0 19 0 33006
+S
+#33007
+A Low-ceilinged Cave~
+~
+This cave, dug into the earth of the hillside, is roughly circular though it 
+doesn't seem that whoever created it gave a lot of thought to aesthetics. 
+The ceiling is low and torches that cast more smoke than light have been 
+attached to the walls. Through the dim light you can make out some broken 
+axes and swords, cast aside and left where they were dropped. 
+~
+1 33554440 11
+D6
+~
+~
+0 0 33004
+R M 0 33013 1 33007
+  R G 0 33014 0
+  R G 0 33008 0
+  R G 0 33015 0
+S
+#33008
+Inside the Oak Tree~
+~
+This fairly large, circular room looks quite inhabited, despite it being the 
+inside of an oak tree. The walls, it's bark, are smooth and light brown in 
+colour and are riddled with roots and vein-like twigs growing up them. There 
+is no obvious source of light in here, but the walls just seem to glow 
+softly. The floor is like a chopped off tree and shows the circles of the 
+tree stump. Counting them would take years, yet a mere fraction of the time 
+this tree has stood here. 
+~
+1 33554440 0
+D5
+~
+~
+0 0 33005
+R M 0 33014 1 33008
+  R G 0 33020 0
+  R G 0 33011 0
+  R G 0 33021 0
+S
+#33009
+The Standing Stones~
+~
+Surrounded by towering stones, any sounds in this glade seem muted. The 
+stones themselves are arranged in a circle, thirteen of them in total. You 
+notice that three of them, the largest of the thirteen, are grouped closer 
+together at the western edge of the circle. How the stones were brought here 
+is unclear, but it is certain that this is no natural formation. 
+~
+1 33554432 3
+D1
+~
+~
+0 0 33003
+R M 0 33015 1 33009
+  R G 0 33016 0
+  R G 0 33017 0
+  R G 0 33018 0
+  R G 0 33019 0
+S
+#0
+
+
+#SHOPS
+ 33000    0  0  0  0  0   100   0         0 23    ; a male avian with dark green plumage
+ 33013   36  0  0  0  0   130  65         0 23    ; a dark furred, snarling gnoll male
+ 33014   21  0  0  0  0   130  65         0 23    ; a dark-green cloaked male drow
+ 33015   38 21 37 36  0   130  65         0 23    ; a loosely robed, female feylar
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

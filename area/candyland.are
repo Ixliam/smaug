@@ -1,0 +1,2135 @@
+#AREA        Candy Land~
+
+
+
+#AUTHOR      delandria~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#5800
+chocolate cupcake dragon~
+a chocolate cupcake dragon~
+`#`wA `yChocolate Cupcake `wDragon is here.`^
+~
+~
+64 524288 0 C
+113 0 -95 13d16+605 13d17+80
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5801
+member apple dumpling game~
+a member of the apple dumpling gang~
+A member of the `#`yApple Dumpling Gang`^ stands here looking for apples.
+~
+~
+64 524288 -600 C
+92 0 -68 10d13+470 10d13+53
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5802
+gummy fish~
+a gummy fish~
+`#`wA `?G`?u`?m`?m`?y `?F`?i`?s`?h `wswims here.`^
+~
+~
+64 0 -400 C
+90 0 -60 9d12+440 10d11+45
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5803
+strawberry shortcake~
+strawberry Shortcake~
+`#`wA bubbly looking young girl named `RS`rt`Rr`ra`Rw`rb`Re`rr`Rr`ry Shortcake `wis standing here.`^
+~
+~
+64 512 0 C
+88 0 -62 9d13+445 10d11+47
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5804
+marshmellow man~
+a large marshmellow man~
+`#`wA large `Wmarshmellow `wman`^ is standing here.
+~
+~
+64 512 0 C
+98 0 -67 10d13+465 10d13+52
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5805
+blueberry muffin~
+blueberry Muffin~
+`#`wA giggling little girl named `BB`blue`Bb`berry `BM`buffin `wis standing here.`^
+~
+~
+64 512 0 C
+88 0 -62 9d13+445 10d11+47
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5806
+puppy pupcake dog~
+`#`wPupcake`^~
+`#`MP`mu`Mp`mc`Ma`mk`Me`^, a happy litte puppy is standing here wagging his tail.
+~
+~
+64 0 0 C
+90 0 -60 9d12+440 10d11+45
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5807
+rock candy golem~
+a rock candy golem~
+`#`wA `?r`?o`?c`?k `?c`?a`?n`?d`?y `wgolem stands here looking large.`^
+~
+~
+64 128 0 C
+95 0 -65 9d13+460 10d12+50
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5809
+gloppy shopkeeper~
+`#`wGloppy`^~
+`#`yGloppy`w, a huge glob of chocolate is here.`^
+~
+~
+64 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5810
+gingerbread man~
+a gingerbread man~
+A `#`ygingerbread`^ man is standing here
+~
+~
+64 512 -400 C
+90 0 -60 9d12+440 10d11+45
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5811
+syrup ooze~
+a glob of syrup~
+A glob of `#`ysticky syrup`^ is here.
+~
+~
+64 32 0 C
+85 0 -55 8d12+420 10d10+42
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#5812
+munchkin~
+a tiny munchkin~
+A tiny `#`ymunchkin`^ is here bouncing around happily.
+~
+~
+64 512 400 C
+90 0 -60 9d12+440 10d11+45
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#5800
+lemon yellow marble fountain~
+a lemon yellow marble fountain~
+`#`wA `Yyellow `wmarble fountain with a huge `Ylemon `wsculpture on top.`^~
+~
+25 0 16
+30000 6 0 0
+300 1 1
+E
+5800 fountain lemon~
+This fountain is at least 10 feet tall and it is made out of the brightest 
+lemon yellow colored marble you have ever seen. There is a huge sculpture of 
+a lemon on the top of it. 
+~
+#5801
+apple dumpling~
+`#`yAn Apple Dumpling`^~
+`#`yAn Apple Dumpling is laying here.`^~
+~
+19 0 16
+25 0 0 0
+0 620 1
+#5802
+chocolate icing cupcake~
+`#`wa cupcake with `ychocolate `wicing`^~
+`#`wa cupcake with `ychocolate `wicing is here.`^~
+~
+19 0 16
+10 0 0 0
+0 10 1
+#5803
+strawberry red fruit punch fountain~
+a red marble fountain~
+`#`wA `Rred `wmarble fountain with a huge `?f`?r`?u`?i`?t `wbasket sculpture on top.`^~
+~
+25 0 16
+30000 39 0 0
+300 1 1
+E
+5803 fountain fruit~
+This fountain is at least 10 feet tall and it is made out of the brightest 
+strawberry red colored marble you have ever seen. There is a huge sculpture 
+of a fruit basket on the top of it. 
+~
+#5804
+strawberry shortcake~
+`#`wa piece of `Rs`rt`Rr`ra`Rw`rb`Re`rr`Rr`ry shortcake`^~
+`#`wa piece of `Rs`rt`Rr`ra`Rw`rb`Re`rr`Rr`ry shortcake `wis laying here.`^~
+~
+26 0 16
+0 0 0 0
+0 34 1
+#5805
+toasted marshmellow~
+`#`wa hot t`so`wa`ss`wt`se`wd marshmellow`^~
+`#`wA hot t`so`wa`ss`wt`se`wd marshmellow has been dropped here.`^~
+~
+19 0 16
+10 0 0 0
+0 10 1
+#5806
+blueberry muffin~
+a `#`Bblueberry`^ muffin~
+A `#`Bblueberry`^ muffin is here.~
+~
+19 0 16
+11 0 0 0
+0 16 1
+E
+5806 blueberry muffin~
+A tasty muffin with blueberries baked in.
+~
+#5807
+rock candy~
+`#`wa stick of `?r`?o`?c`?k `?c`?a`?n`?d`?y`^~
+`#`wA stick of `?r`?o`?c`?k `?c`?a`?n`?d`?y `whas been dropped here.`^~
+~
+26 0 16
+0 0 0 0
+0 59 1
+#5808
+chocolate frog~
+`#`ya chocolate frog`^~
+A large chunk of chocolate shaped like a frog is laying here.~
+~
+19 0 16
+10 0 0 0
+0 10 1
+E
+5808 chocolate frog~
+This is a large solid chunk of chocolate in the shape of a frog. 
+~
+#5809
+chocolate butterfly~
+`#`ya chocolate butterfly`^~
+A large chunk of chocolate shaped like a butterfly is laying here.~
+~
+19 0 16
+10 0 0 0
+0 10 1
+E
+5809 chocolate butterfly~
+This is a large solid chunk of chocolate in the shape of a butterfly. 
+~
+#5810
+heart shaped cherry lollipop sucker~
+`#`wa heart `wshaped `Rc`rh`Re`rr`Rr`ry `Rl`rollipop`^~
+`#`wA heart `wshaped `Rc`rh`Re`rr`Rr`ry `Rl`rollipop `whas been dropped here.`^~
+~
+19 0 16
+10 0 0 0
+0 10 1
+#5811
+candy sprinkles~
+`#`wa handful of candy `?s`?p`?r`?i`?n`?k`?l`?e`?s`^~
+`#`wA handful of candy `?s`?p`?r`?i`?n`?k`?l`?e`?s `wis laying here.`^~
+~
+19 0 16
+10 0 0 0
+0 10 1
+#5812
+cherry~
+`#`ra cherry`^~
+`#`ra cherry`^ is laying here on the ground.~
+~
+19 0 16
+4 0 0 0
+0 10 1
+#5813
+branch cherry tree~
+cherry tree branch~
+A branch from the cherry tree hangs low here.~
+~
+15 0 8
+0 0 100 100
+0 0 1
+#5814
+banana split sundae~
+`#`wa `Yb`ya`Yn`ya`Yn`ya `wsplit sundae`^~
+`#`wa `Yb`ya`Yn`ya`Yn`ya `wsplit sundae is here.`^~
+~
+19 0 16
+10 0 0 0
+0 10 1
+#0
+
+#ROOMS
+#5800
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5801
+S
+#5801
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5802
+D3
+~
+~
+0 0 5800
+S
+#5802
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5801
+S
+#5803
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5804
+D3
+~
+~
+0 0 5802
+S
+#5804
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5803
+S
+#5805
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5804
+S
+#5806
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5805
+S
+#5807
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5806
+S
+#5808
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5854
+D2
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5809
+S
+#5809
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5810
+D1
+~
+~
+0 0 5808
+S
+#5810
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5809
+S
+#5811
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5812
+D2
+~
+~
+0 0 5810
+S
+#5812
+Moosetrack Trail~
+~
+1 33554440 15
+D2
+~
+~
+0 0 5811
+D3
+~
+~
+0 0 5813
+S
+#5813
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5920
+D1
+~
+~
+0 0 5812
+D2
+~
+~
+0 0 5814
+S
+#5814
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5813
+D3
+~
+~
+0 0 5815
+S
+#5815
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5814
+D3
+~
+~
+0 0 5816
+S
+#5816
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5817
+D1
+~
+~
+0 0 5815
+S
+#5817
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5818
+D2
+~
+~
+0 0 5816
+S
+#5818
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5819
+D2
+~
+~
+0 0 5817
+D4
+~
+~
+0 0 5888
+S
+#5819
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5818
+S
+#5820
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5819
+S
+#5821
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5820
+S
+#5822
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5821
+S
+#5823
+Moosetrack Trail~
+~
+1 33554440 15
+D2
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5822
+D4
+~
+~
+0 0 5907
+S
+#5824
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5823
+D1
+~
+~
+0 0 5825
+S
+#5825
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5826
+D1
+~
+~
+0 0 5866
+D3
+~
+~
+0 0 5824
+S
+#5826
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5827
+D2
+~
+~
+0 0 5825
+S
+#5827
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5828
+D2
+~
+~
+0 0 5826
+S
+#5828
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5829
+D3
+~
+~
+0 0 5827
+S
+#5829
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5919
+D2
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5830
+S
+#5830
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5831
+D1
+~
+~
+0 0 5829
+S
+#5831
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5832
+D2
+~
+~
+0 0 5830
+S
+#5832
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5842
+D2
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5833
+S
+#5833
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5834
+S
+#5834
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5835
+S
+#5835
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5834
+D2
+~
+~
+0 0 5836
+S
+#5836
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5835
+D2
+~
+~
+0 0 5837
+S
+#5837
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5836
+D2
+~
+~
+0 0 5838
+S
+#5838
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5839
+S
+#5839
+Moosetrack Trail~
+~
+1 33554440 15
+D1
+~
+~
+0 0 5838
+D3
+~
+~
+0 0 5840
+S
+#5840
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5841
+D1
+~
+~
+0 0 5839
+S
+#5841
+Moosetrack Trail~
+~
+1 33554440 15
+D0
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5840
+S
+#5842
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5849
+D1
+~
+~
+0 0 5843
+D2
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5832
+S
+#5843
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5847
+D1
+~
+~
+0 0 5844
+D2
+~
+~
+0 0 5852
+D3
+~
+~
+0 0 5842
+S
+#5844
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5845
+D2
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5843
+S
+#5845
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5844
+D3
+~
+~
+0 0 5847
+S
+#5846
+Icee Mountain~
+~
+1 33554440 13
+D2
+~
+~
+0 0 5845
+D3
+~
+~
+0 0 5848
+S
+#5847
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5848
+D1
+~
+~
+0 0 5845
+D2
+~
+~
+0 0 5843
+D3
+~
+~
+0 0 5849
+S
+#5848
+Icee Mountain~
+~
+1 33554440 13
+D1
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5847
+D3
+~
+~
+0 0 5850
+S
+#5849
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5850
+D1
+~
+~
+0 0 5847
+D2
+~
+~
+0 0 5842
+S
+#5850
+Icee Mountain~
+~
+1 33554440 13
+D1
+~
+~
+0 0 5848
+D2
+~
+~
+0 0 5849
+S
+#5851
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5844
+D3
+~
+~
+0 0 5852
+S
+#5852
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5843
+D1
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5853
+S
+#5853
+Icee Mountain~
+~
+1 33554440 13
+D0
+~
+~
+0 0 5842
+D1
+~
+~
+0 0 5852
+S
+#5854
+Dessert Desert~
+~
+1 33554440 10
+D1
+~
+~
+0 0 5855
+D2
+~
+~
+0 0 5861
+D3
+~
+~
+0 0 5808
+S
+#5855
+Dessert Desert~
+~
+1 33554440 10
+D1
+~
+~
+0 0 5856
+D2
+~
+~
+0 0 5860
+D3
+~
+~
+0 0 5854
+S
+#5856
+Dessert Desert~
+~
+1 33554440 10
+D1
+~
+~
+0 0 5857
+D2
+~
+~
+0 0 5859
+D3
+~
+~
+0 0 5855
+S
+#5857
+Dessert Desert~
+~
+1 33554440 10
+D2
+~
+~
+0 0 5858
+D3
+~
+~
+0 0 5856
+S
+#5858
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5857
+D2
+~
+~
+0 0 5865
+D3
+~
+~
+0 0 5859
+S
+#5859
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5856
+D1
+~
+~
+0 0 5858
+D2
+~
+~
+0 0 5864
+D3
+~
+~
+0 0 5860
+S
+#5860
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5855
+D1
+~
+~
+0 0 5859
+D2
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5861
+S
+#5861
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5854
+D1
+~
+~
+0 0 5860
+D2
+~
+~
+0 0 5862
+S
+#5862
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5861
+D1
+~
+~
+0 0 5863
+S
+#5863
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5860
+D1
+~
+~
+0 0 5864
+D3
+~
+~
+0 0 5862
+S
+#5864
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5859
+D1
+~
+~
+0 0 5865
+D3
+~
+~
+0 0 5863
+S
+#5865
+Dessert Desert~
+~
+1 33554440 10
+D0
+~
+~
+0 0 5858
+D3
+~
+~
+0 0 5864
+S
+#5866
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5874
+D1
+~
+~
+0 0 5867
+D2
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5825
+S
+#5867
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5873
+D1
+~
+~
+0 0 5868
+D2
+~
+~
+0 0 5870
+D3
+~
+~
+0 0 5866
+D5
+~
+~
+0 0 5911
+S
+#5868
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5867
+S
+#5869
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5870
+S
+#5870
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5867
+D1
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5871
+S
+#5871
+Pudding Pond~
+~
+1 33554440 7
+D0
+~
+~
+0 0 5866
+D1
+~
+~
+0 0 5870
+S
+#5872
+Pudding Pond~
+~
+1 33554440 7
+D2
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5873
+S
+#5873
+Pudding Pond~
+~
+1 33554440 7
+D1
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5867
+D3
+~
+~
+0 0 5874
+S
+#5874
+Pudding Pond~
+~
+1 33554440 7
+D1
+~
+~
+0 0 5873
+D2
+~
+~
+0 0 5866
+S
+#5875
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5880
+D1
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 5841
+D3
+~
+~
+0 0 5884
+S
+#5876
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5879
+D1
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5875
+S
+#5877
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5878
+D3
+~
+~
+0 0 5876
+S
+#5878
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5879
+S
+#5879
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5882
+D1
+~
+~
+0 0 5878
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5880
+S
+#5880
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5881
+D1
+~
+~
+0 0 5879
+D2
+~
+~
+0 0 5875
+D3
+~
+~
+0 0 5885
+S
+#5881
+Sugary Swamp~
+~
+1 33554440 8
+D1
+~
+~
+0 0 5882
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5886
+S
+#5882
+Sugary Swamp~
+~
+1 33554440 8
+D1
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5879
+D3
+~
+~
+0 0 5881
+S
+#5883
+Sugary Swamp~
+~
+1 33554440 8
+D2
+~
+~
+0 0 5878
+D3
+~
+~
+0 0 5882
+S
+#5884
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5885
+D1
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5887
+S
+#5885
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5886
+D1
+~
+~
+0 0 5880
+D2
+~
+~
+0 0 5884
+S
+#5886
+Sugary Swamp~
+~
+1 33554440 8
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5885
+S
+#5887
+Sugary Swamp~
+~
+1 33554440 8
+D0
+~
+~
+0 0 5884
+S
+#5888
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5891
+D1
+~
+~
+0 0 5890
+D2
+~
+~
+0 0 5892
+D3
+~
+~
+0 0 5889
+D5
+~
+~
+0 0 5818
+S
+#5889
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5888
+S
+#5890
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5893
+D3
+~
+~
+0 0 5888
+S
+#5891
+In the Cherry Trees~
+~
+1 8 3
+D2
+~
+~
+0 0 5888
+S
+#5892
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5888
+S
+#5893
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5894
+D3
+~
+~
+0 0 5890
+S
+#5894
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5895
+D1
+~
+~
+0 0 5897
+D2
+~
+~
+0 0 5896
+D3
+~
+~
+0 0 5893
+S
+#5895
+In the Cherry Trees~
+~
+1 8 3
+D2
+~
+~
+0 0 5894
+S
+#5896
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5894
+S
+#5897
+In the Cherry Trees~
+~
+1 8 3
+D2
+~
+~
+0 0 5898
+D3
+~
+~
+0 0 5894
+S
+#5898
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5897
+D2
+~
+~
+0 0 5899
+S
+#5899
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5898
+D1
+~
+~
+0 0 5900
+S
+#5900
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5899
+S
+#5901
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5902
+D3
+~
+~
+0 0 5900
+S
+#5902
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5903
+D2
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5904
+S
+#5903
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5905
+D1
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5902
+S
+#5904
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5902
+S
+#5905
+In the Cherry Trees~
+~
+1 8 3
+D2
+~
+~
+0 0 5903
+S
+#5906
+In the Cherry Trees~
+~
+1 8 3
+D1
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5903
+S
+#5907
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5909
+D1
+~
+~
+0 0 5908
+D2
+~
+~
+0 0 5910
+D3
+~
+~
+0 0 5906
+D5
+~
+~
+0 0 5823
+S
+#5908
+In the Cherry Trees~
+~
+1 8 3
+D3
+~
+~
+0 0 5907
+S
+#5909
+In the Cherry Trees~
+~
+1 8 3
+D2
+~
+~
+0 0 5907
+S
+#5910
+In the Cherry Trees~
+~
+1 8 3
+D0
+~
+~
+0 0 5907
+S
+#5911
+Dark Cave~
+~
+1 8 11
+D0
+~
+~
+0 0 5918
+D1
+~
+~
+0 0 5912
+D4
+~
+~
+0 0 5867
+S
+#5912
+Dark Cave~
+~
+1 8 11
+D0
+~
+~
+0 0 5917
+D1
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 5911
+S
+#5913
+Dark Cave~
+~
+1 8 11
+D0
+~
+~
+0 0 5916
+D1
+~
+~
+0 0 5914
+D3
+~
+~
+0 0 5912
+S
+#5914
+Dark Cave~
+~
+1 8 11
+D0
+~
+~
+0 0 5915
+D3
+~
+~
+0 0 5913
+S
+#5915
+Dark Cave~
+~
+1 8 11
+D2
+~
+~
+0 0 5914
+D3
+~
+~
+0 0 5916
+S
+#5916
+Dark Cave~
+~
+1 8 11
+D1
+~
+~
+0 0 5915
+D2
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 5917
+S
+#5917
+Dark Cave~
+~
+1 8 11
+D1
+~
+~
+0 0 5916
+D2
+~
+~
+0 0 5912
+D3
+~
+~
+0 0 5918
+S
+#5918
+Dark Cave~
+~
+1 8 11
+D1
+~
+~
+0 0 5917
+D2
+~
+~
+0 0 5911
+S
+#5919
+Lemonade Fountain~
+~
+1 33554440 1
+D2
+~
+~
+0 0 5829
+S
+#5920
+Fruit Punch Fountain~
+~
+1 33554440 1
+D2
+~
+~
+0 0 5813
+S
+#0
+
+#RESETS
+O 0 5813 0 5889
+P 0 5812 20 5813 5
+O 0 5813 0 5897
+P 0 5812 20 5813 5
+O 0 5813 0 5904
+P 0 5812 20 5813 5
+O 0 5813 0 5908
+P 0 5812 20 5813 5
+M 0 5800 1 5914 1
+G 0 5802 0
+G 0 5802 0
+O 0 5800 0 5919
+O 0 5803 0 5920
+S
+
+#SHOPS
+ 5809   0 0 0 0 0   100 100        0 23    ; gloppy shopkeeper
+0
+
+
+
+
+
+#$

@@ -1,0 +1,700 @@
+#AREA        Cave of Trials~
+
+
+
+#VERSION     11
+#AUTHOR      rudrik ardayne~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1350
+dai~
+dai~
+A small baby feylar is here, crawling around.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1351
+spirit of lich bohr~
+spirit of the lich of bohr~
+The lich of Bohr, the magi, is here, practicing his arcane arts.
+~
+You see a tall corpse of the Magi Bohr. He is wearing a red robe with the 
+sign of the magi and some rings. His decayed flesh is showing, yellow 
+glowing veins are running through his pale, white skin. Flies and small 
+insects keep running through his unliving flesh, feeding off them just as 
+they regenerate. 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+96 10 -69 10d13+475 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1352
+spirit of the shadow kephlen~
+spirit of the shadow of kephlen~
+You see the shadow of Kephlen, high General of Bohr, sitting in the throne.
+~
+You look at a shadow, no more than the dark outline of a shadow. However,
+looking closer, you notice that you can see him with extradordinary detail,
+even though it's pitch dark. Only then, you realize that this being is darker
+than darkness itself. He is tall, has very long dark hair, is clad in full
+plate armor and bears the ingisnia of the Magi in his chest. You can't make
+out his face, but you obviously notice he is Kephlen, High general of the 
+forces of Bohr, the magi, because of the amazing similarity in his armor, and
+the one you saw two rooms behind, in a great painting on the wall.
+All you can see inside of his helmet, are two yellow glowing eyes gazing at
+you coldly.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+98 8 -69 10d14+480 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1353
+spirit of ramses the damned~
+spirit of ramses the damned~
+You have awakened the mighty servant to the pharoahs, Ramses.
+~
+As your light spills over his face and body, you can see his features begin
+to fill out, swell, and harden, until an apparently healthy man stands before
+you, clad only in the raiments he was left in when he last slept.  His hair is
+a soft black, his skin a deep chocolate, and his tall frame is totally still, 
+his chest not even moving to breathe.
+~
+0
+Clanname none~
+0
+0
+33 4096 -600 C
+96 8 -70 10d14+480 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1354
+spirit of the bugbear leader~
+spirit of the bugbear leader~
+`#`wThe leader of the `yBugbears `wsits here by the fire.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+98 8 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1355
+spirit general verbesch man stern older~
+the spirit of the general~
+A stern older man glares at you as you enter his tent.
+~
+This man looks fairly old, with stark white hair and a wrinkly face.  He is 
+very large, though, and his frame looks powerful despite his age.  His 
+eyes, too, shine clearly from within his withered form, attesting to the 
+knowledge and burning personality of this stern figure.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+98 8 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1356
+spirit fire giant king huge noble black skinned giant~
+spirit of the fire giant king~
+A huge, noble looking black skinned giant is sitting here.
+~
+Before you stands huge, noble looking fire giant.  The giant is tall at
+more than 20 feet, but squat and bulky.  He looks something like an
+oversized dwarf.  The fire giant has large, corded muscles and coal black
+skin.  The scowl on his face and bright orange hair make him look very mean.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+98 8 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1357
+spirit void black dragon~
+spirit of `#`sVoid the Black Dragon`^~
+`#`sVoid `wthe `sBlack Dragon `wis here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+98 8 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1358
+old hairy woman~
+an old hairy woman~
+An old hairy woman stands here with a basket of cookies.
+~
+An old hairy woman stands here with a basket of cookies.
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1359
+prismatic wraith~
+a prismatic wraith~
+A slightly transparent wraith is floating just above the ground here.
+~
+This wraith looks almost like a rainbow.  It looks as though you can just 
+about see right though him.  From his actions you would think he had a very 
+rough life. 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+90 2 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1367
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1350
+gleaming crystallized armor~
+the `#Gleaming`^ `CC`Wrys`Ctall`Wize`Cd`^ armor~
+A strong breast plate of gleaming crystallized armor is lying here.~
+~
+9 0 8
+60 60 22 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1351
+gleaming crystallized bracer~
+a `#Gleaming `CC`Wrys`Ctall`Wize`Cd`^ bracer~
+`#a strong gleaming crystallized bracer is lying here.~
+~
+9 0 8
+60 60 10 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1352
+gleaming crystallized helm~
+the `#Gleaming `CC`Wrys`Ctall`Wize`Cd`^ helm~
+A strong gleaming crystallized helm is lying here.~
+~
+9 0 8
+60 60 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1353
+gleaming crystallized boots~
+the Gleaming `#`CC`Wrys`Ctall`Wize`Cd`^ boots~
+A heavy pair of gleaming crystallized boots are lying here.~
+~
+9 0 8
+60 60 15 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1354
+gleaming crystallized neck guard~
+the gleaming `#`CC`Wrys`Ctall`Wize`Cd`^ neck guard~
+A gleaming crystallized neck guard is lying here.~
+~
+9 0 8
+60 60 11 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1355
+gleaming crystallized leggings~
+the Gleaming `#`CC`Wrys`Ctall`Wize`Cd`^ leggings~
+A pair of heavy gleaming crystallized leggings are lying here.~
+~
+9 0 8
+60 60 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1356
+gleaming crystallized gloves~
+`#the Gleaming `CC`Wrys`Ctall`Wize`Cd`^ gloves~
+A heavy pair of gleaming crystallized gloves are lying here.~
+~
+9 0 8
+60 60 15 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1357
+gleaming crystalized vambraces~
+`#the Gleaming `CC`Wrys`Ctall`Wize`Cd`^ vambraces~
+Some heavy crystallized vambraces are lying here.~
+~
+9 0 8
+60 60 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1358
+gleaming crystallized scabbard~
+`#the Gleaming `CC`Wrys`Ctall`Wize`Cd`^ scabbard~
+A heavy gleaming crystallized scabbard is lying here.~
+~
+9 0 8
+60 60 13 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1365
+portal gate~
+a gate out of here~
+You see a gate out of here, you wonder where it leads. Who cares it's out of here!~
+~
+29 0 16
+0 32 55566 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1366
+Cookie~
+a yummy cookie~
+A yummy cookie is here, you notice a hair in it.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#0
+
+
+#ROOMS
+#1350
+Cave of Trials~
+~
+You enter a deep dark cave with no lights anywhere. You see a sign that 
+reads: `1 Welcome to the cave of Trials.  This is where you can prove you have what 
+it takes to be a hero of the land.  If you are not ready to die please `#`Rturn 
+back now!`^ 
+~
+1 8201 11
+D0
+~
+~
+1 0 1351
+S
+#1351
+Cave of Trials~
+~
+You enter deeper into the cave and you notice a dimly lit sign that reads: `1 `#`RThis is your last warning turn back now.  Once you go though that door you 
+may not turn back!`^ 
+~
+1 8201 11
+D2
+~
+~
+1 0 1350
+D6
+~
+~
+1 0 1352
+S
+#1352
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D0
+~
+~
+0 0 1353
+R M 0 1359 8 1352
+S
+#1353
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D0
+~
+~
+0 0 1354
+R M 0 1359 8 1353
+S
+#1354
+Cave of trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D8
+~
+~
+0 0 1355
+R M 0 1354 1 1354
+  R E 0 1351 0 14
+  R E 0 1351 0 15
+S
+#1355
+Cave of trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D9
+~
+~
+0 0 1356
+R M 0 1359 8 1355
+S
+#1356
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D1
+~
+~
+0 0 1357
+R M 0 1355 1 1356
+  R E 0 1357 0 10
+S
+#1357
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D9
+~
+~
+0 0 1358
+R M 0 1359 8 1357
+S
+#1358
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D1
+~
+~
+0 0 1359
+R M 0 1352 1 1358
+  R E 0 1354 0 3
+S
+#1359
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D6
+~
+~
+0 0 1360
+R M 0 1359 8 1359
+S
+#1360
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D0
+~
+~
+0 0 1361
+R M 0 1356 1 1360
+  R E 0 1355 0 7
+S
+#1361
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D7
+~
+~
+0 0 1362
+R M 0 1359 8 1361
+S
+#1362
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D6
+~
+~
+0 0 1363
+R M 0 1357 1 1362
+  R E 0 1358 0 13
+S
+#1363
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D3
+~
+~
+0 0 1364
+R M 0 1353 1 1363
+  R G 0 1353 0
+  R G 0 1356 0
+S
+#1364
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D0
+~
+~
+1 0 1365
+R M 0 1351 1 1364
+  R E 0 1352 0 6
+  R E 0 1350 0 5
+S
+#1365
+Cave of Trials~
+~
+You find yourself in a very dark cave, it's so bad you can't see your hand 
+in front of your face.  You see eyes all over watching you.  It seems the 
+walls are alive. 
+~
+1 8201 11
+D2
+~
+~
+1 0 1364
+R M 0 1358 1 1365
+R O 0 1365 0 1365
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

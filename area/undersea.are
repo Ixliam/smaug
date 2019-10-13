@@ -1,0 +1,1759 @@
+#AREA        Arachnid~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#48200
+black widow spider~
+the `#`sBla`rc`sk Wi`rd`sow`^~
+A Black Widow Spider lurks here waiting for her next prey.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+98 0 -79 11d14+525 11d14+64
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48201
+jumping spider~
+a `#`yju`smp`yin`sg s`ypi`sde`yr`^~
+A jumping spider leaps at you from nowhere!
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+91 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48202
+wolf spider~
+a `#`ywo`sl`yf spi`sd`yer`^~
+A wolf spider waits here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+86 0 -68 10d13+470 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48203
+huntsman spider~
+the `#`WHu`sn`yts`sm`Wan`^~
+A huntsman spider creeps here, looking for it's next victim.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+83 0 -75 11d14+505 11d13+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48204
+guardian spider~
+a guardian~
+A guardian spider is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+81 0 -75 11d14+505 11d13+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48205
+prisoner draconian~
+a draconian prisoner~
+A beaten draconian prisoner is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+93 0 -73 10d14+495 11d13+58
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48206
+slythris prisoner~
+a slythris prisoner~
+A slythris prisoner lies here, weakened.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+91 0 -69 10d13+475 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48207
+harvestman spider~
+a `#`YH`sa`Yrv`ses`Ytm`sa`Yn`^ spider~
+A harvestman roams here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+82 0 -72 10d14+490 11d12+57
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48208
+hairy tarantula~
+a hairy `#`star`want`sula`^~
+A hairy tarantula crawls about here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+107 0 -81 11d15+535 12d14+66
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48209
+brown recluse~
+a `#`ybrown `sr`yecluse`^~
+A brown recluse scurries here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+89 0 -73 10d14+495 11d13+58
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48210
+dwarven warrior~
+a dwarven warrior~
+A dwarven warrior is here, caught in the web.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+94 0 -68 10d13+470 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48211
+drained elven noble~
+a drained elven noble~
+This elven noble appears drained of all blood, but is amazingly enough still alive.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+91 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48212
+dagorst woman~
+a dagorst woman~
+A captured dagorst woman is here, completely covered in webbing.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+91 0 -63 9d13+450 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#48200
+skull key~
+a `#`Wskull `skey`^~
+A skull key lies here, glowing slightly.~
+~
+18 1 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48201
+a dusty chest~
+a dusty chest~
+A chest is here, obscured by dust and webbing.~
+~
+15 0 8
+15 48200 50 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48202
+a pile of gold~
+a pile of `#`Ygold`^~
+A pile of gold lies here temptngly.~
+~
+20 0 16
+42 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48203
+tusk black widow~
+`#`sTusk`^ of the `sBla`rc`sk Wi`rd`sow`^~
+A tusk of the black widow lies here, it's point gleaming with venom.~
+~
+5 1 4
+8 10 28 10368 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#48200
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48209
+D1
+~
+~
+0 0 48210
+D2
+~
+~
+0 0 48211
+D3
+~
+~
+0 0 48212
+D5
+~
+~
+1 0 48265
+S
+#48201
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48213
+D3
+~
+~
+0 0 48210
+D8
+~
+~
+0 0 48202
+D9
+~
+~
+0 0 48208
+S
+#48202
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48201
+D8
+~
+~
+0 0 48203
+S
+#48203
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48211
+D2
+~
+~
+0 0 48222
+D6
+~
+~
+0 0 48202
+D9
+~
+~
+0 0 48204
+S
+#48204
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48203
+D9
+~
+~
+0 0 48205
+R M 0 48211 1 48204
+S
+#48205
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48212
+D3
+~
+~
+0 0 48219
+D6
+~
+~
+0 0 48206
+D7
+~
+~
+0 0 48204
+S
+#48206
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48207
+D8
+~
+~
+0 0 48205
+R M 0 48208 3 48206
+S
+#48207
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48216
+D2
+~
+~
+0 0 48209
+D7
+~
+~
+0 0 48208
+D8
+~
+~
+0 0 48206
+S
+#48208
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48201
+D9
+~
+~
+0 0 48207
+R M 0 48212 1 48208
+R M 0 48202 5 48208
+S
+#48209
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48207
+D2
+~
+~
+0 0 48200
+D7
+~
+~
+0 0 48210
+D8
+~
+~
+0 0 48212
+S
+#48210
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48201
+D3
+~
+~
+0 0 48200
+D8
+~
+~
+0 0 48211
+D9
+~
+~
+0 0 48209
+R M 0 48210 1 48210
+S
+#48211
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48200
+D2
+~
+~
+0 0 48203
+D6
+~
+~
+0 0 48210
+D9
+~
+~
+0 0 48212
+S
+#48212
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 0 9
+D1
+~
+~
+0 0 48200
+D3
+~
+~
+0 0 48205
+D6
+~
+~
+0 0 48209
+D7
+~
+~
+0 0 48211
+S
+#48213
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48226
+D3
+~
+~
+0 0 48201
+D8
+~
+~
+0 0 48224
+D9
+~
+~
+0 0 48214
+S
+#48214
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48213
+D9
+~
+~
+0 0 48215
+S
+#48215
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48214
+D9
+~
+~
+0 0 48216
+S
+#48216
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48227
+D2
+~
+~
+0 0 48207
+D7
+~
+~
+0 0 48215
+D8
+~
+~
+0 0 48217
+S
+#48217
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48216
+D8
+~
+~
+0 0 48218
+S
+#48218
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48217
+D8
+~
+~
+0 0 48219
+S
+#48219
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48205
+D3
+~
+~
+0 0 48228
+D6
+~
+~
+0 0 48218
+D7
+~
+~
+0 0 48220
+S
+#48220
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48221
+D9
+~
+~
+0 0 48219
+S
+#48221
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D7
+~
+~
+0 0 48222
+D9
+~
+~
+0 0 48220
+S
+#48222
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 0 9
+D0
+~
+~
+0 0 48203
+D2
+~
+~
+0 0 48225
+D6
+~
+~
+0 0 48223
+D9
+~
+~
+0 0 48221
+R M 0 48209 3 48222
+S
+#48223
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48224
+D8
+~
+~
+0 0 48222
+R M 0 48201 5 48223
+S
+#48224
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D6
+~
+~
+0 0 48213
+D8
+~
+~
+0 0 48223
+S
+#48225
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D0
+~
+~
+0 0 48222
+S
+#48226
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D3
+~
+~
+0 0 48213
+S
+#48227
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D2
+~
+~
+0 0 48216
+S
+#48228
+caught in the web~
+~
+You find yourself caught in a huge spider's web. Silken web clutches at you 
+as you make your precarious way around it, searching for your escape. Bodies 
+and what's left over can be seen here and there, their demise only too 
+obvious. Each movement you make shakes the web, letting your presence be 
+known to all that occupy this sticky trap. 
+~
+1 9 9
+D1
+~
+~
+0 0 48219
+S
+#48229
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 13 11
+D4
+~
+~
+0 0 48262
+D5
+~
+~
+0 0 48230
+S
+#48230
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D4
+~
+~
+0 0 48229
+D8
+~
+~
+0 0 48231
+R M 0 48204 5 48230
+S
+#48231
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D6
+~
+~
+0 0 48230
+D7
+~
+~
+0 0 48232
+R M 0 48207 5 48231
+S
+#48232
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D1
+~
+~
+0 0 48233
+D2
+~
+~
+0 0 48254
+D5
+~
+~
+0 0 48237
+D9
+~
+~
+0 0 48231
+R M 0 48203 5 48232
+S
+#48233
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+webbing~
+33 48200 48236
+D1
+~
+~
+0 0 48234
+D3
+~
+~
+0 0 48232
+R M 0 48204 5 48233
+  R E 0 48200 0 17
+S
+#48234
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+webbing~
+33 48200 48235
+D3
+~
+~
+0 0 48233
+S
+#48235
+a webbed cell~
+~
+This cell is made completely of webbed spider silk. It covers every inch of 
+the small room and there seems to be no escaping. 
+~
+1 9 11
+D2
+~
+~
+33 48200 48234
+R M 0 48206 1 48235
+S
+#48236
+a webbed cell~
+~
+This cell is made completely of webbed spider silk. It covers every inch of 
+the small room and there seems to be no escaping. 
+~
+1 9 11
+D2
+~
+~
+33 48200 48233
+R M 0 48205 1 48236
+S
+#48237
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 8 11
+D4
+~
+~
+0 0 48232
+D5
+~
+~
+0 0 48238
+S
+#48238
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 8 11
+D0
+~
+~
+0 0 48239
+D4
+~
+~
+0 0 48237
+R M 0 48203 5 48238
+S
+#48239
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 8 11
+D0
+~
+~
+0 0 48240
+D2
+~
+~
+0 0 48238
+R M 0 48207 5 48239
+S
+#48240
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 8 11
+D0
+~
+~
+0 0 48241
+D2
+~
+~
+0 0 48239
+R M 0 48203 5 48240
+S
+#48241
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 12 11
+D2
+~
+~
+0 0 48240
+D4
+~
+~
+0 0 48242
+S
+#48242
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 8 11
+D4
+~
+~
+0 0 48243
+D5
+~
+~
+0 0 48241
+S
+#48243
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the west as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D3
+~
+~
+0 0 48244
+D5
+~
+~
+0 0 48242
+R M 0 48203 5 48243
+S
+#48244
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the west as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D1
+~
+~
+0 0 48243
+D3
+~
+~
+0 0 48245
+R M 0 48207 5 48244
+S
+#48245
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the south as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D1
+~
+~
+0 0 48244
+D2
+~
+~
+0 0 48246
+R M 0 48204 5 48245
+S
+#48246
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the south as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D0
+~
+~
+0 0 48245
+D2
+~
+~
+0 0 48247
+S
+#48247
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the east as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D0
+~
+~
+0 0 48246
+D1
+~
+~
+0 0 48248
+S
+#48248
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the east as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D1
+~
+~
+0 0 48249
+D3
+~
+~
+0 0 48247
+S
+#48249
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the east as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D1
+~
+~
+0 0 48250
+D3
+~
+~
+0 0 48248
+R M 0 48204 5 48249
+S
+#48250
+a musty passage~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the north as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 8 11
+D0
+~
+~
+0 0 48251
+D3
+~
+~
+0 0 48249
+S
+#48251
+a dark passageway~
+~
+The path is difficult to continue on here, as each step seems to cling to 
+you forcing you to struggle on your way. A rustling sound can be heard on 
+towards the west as if something were crawling towards you. Something moves 
+in the webbing covering the walls and upon closer observation millions of 
+tiny spiders can be seen scurrying amongst it. 
+~
+1 4 11
+D2
+~
+~
+0 0 48250
+D3
+~
+~
+0 0 48252
+S
+#48252
+before the lair~
+~
+Silken strands of web completely cover the entrance here. A lifeless clump 
+of bones seems to be in the corner, mummified by the suffocating web around 
+it. A quitness hums in the air expectantly, it's own silence as loud as a 
+scream. 
+~
+1 8 11
+D1
+~
+~
+0 0 48251
+D3
+~
+~
+0 0 48253
+S
+#48253
+the lair~
+~
+The smell of death fills this room, the rotting bones and tidbits left over 
+only making the nauseous odor worse. Overhead a bulbous sheer pouch can be 
+seen, it's surface seeming to ripple and move if studied long enough. Spider 
+silk covers every inch of the room with various animals and humanoids 
+skeletons remaining. 
+~
+1 8 11
+D1
+~
+~
+0 0 48252
+R M 0 48200 1 48253
+S
+#48254
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debri can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48232
+D2
+~
+~
+0 0 48255
+S
+#48255
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48254
+D7
+~
+~
+0 0 48256
+S
+#48256
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+33 48200 48258
+D2
+~
+~
+0 0 48257
+D9
+~
+~
+0 0 48255
+R M 0 48203 5 48256
+S
+#48257
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 13 11
+D0
+~
+~
+0 0 48256
+D2
+~
+~
+0 0 48260
+R M 0 48204 5 48257
+S
+#48258
+a dark hall~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D2
+~
+~
+33 48200 48256
+D6
+~
+~
+1 0 48259
+S
+#48259
+a deadend~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D8
+~
+~
+1 0 48258
+R O 0 48201 0 48259
+  R P 0 48202 1 48201
+S
+#48260
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48257
+D5
+~
+~
+0 0 48261
+S
+#48261
+a dark entrance~
+~
+This dark opening is dank and musty, the stench of decay and death is almost 
+overpowering. The sound of crumbling bone and debris can be heard under foot 
+as you continue onward. A silver substance seems to cover every inch of 
+these walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D4
+~
+~
+0 0 48260
+S
+#48262
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D4
+~
+~
+0 0 48263
+D5
+~
+~
+0 0 48229
+R M 0 48207 5 48262
+S
+#48263
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D2
+~
+~
+0 0 48264
+D5
+~
+~
+0 0 48262
+S
+#48264
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48263
+D2
+~
+~
+0 0 48265
+R M 0 48207 5 48264
+S
+#48265
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48264
+D2
+~
+~
+0 0 48266
+D4
+~
+webbing~
+1 0 48200
+R M 0 48204 5 48265
+S
+#48266
+a sticky path~
+~
+The stench of decay and death is almost overpowering in this narrow cave. 
+The sound of crumbling bone and debris can be heard under foot as you 
+continue onward. A silver substance seems to cover every inch of these 
+walls. Tendrils of it hang loosely from the ceiling, stirring in a 
+nonexistent breeze. It seems to clutch at you and cling. 
+~
+1 9 11
+D0
+~
+~
+0 0 48265
+D5
+~
+~
+0 0 48267
+S
+#48267
+the harvestman's horde~
+~
+You're trapped now. There seems to be no escaping from this large weaving of 
+web. You've had the unfortunate luck of being captured by the Harvestman. One 
+can only imagine what happens now. 
+~
+1 150995085 11
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

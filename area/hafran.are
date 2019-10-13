@@ -1,0 +1,2264 @@
+#AREA        Army of Hafran~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1900
+guard red cloaked~
+a red cloaked guard~
+A guard swathed in a red cloak and uniform stands at attention here.
+~
+This tall human male is dressed completely in red armor and a red cape, and 
+he stands stiffly at attention.  His eyes continually scan the approach to 
+the canyon, searching for any intruders.  He looks fairly young, his skin 
+unmarred by scars or wrinkles.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+48 2 -22 5d9+290 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1901
+horse~
+a horse~
+A horse has been cobbled and tied in a stall here.
+~
+This horse appears well-care for, if a little overly restrained.  It has a 
+freshly brushed, glossy brown coat, and is currently munching on a bucket 
+of oats.  It is cobbled and also tied by a rope around the neck to a wooden 
+post planted in the ground at the back of its roped-off stall.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1902
+soldier half-dresses~
+a soldier~
+A half-dressed soldier looks at you in surprise.
+~
+This tall young man is currently in the process of adorning his uniform and 
+various pieces of armor.  He is unarmed, and stares at you warily while 
+making motions to retrieve his weapons before you can approach.  He is 
+quite muscular, with sandy brown hair and brown eyes.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+49 1 -21 5d9+285 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1903
+prison guard~
+a prison guard~
+A guard stands at attention before one of the tents here.
+~
+This guard stands before the doorway to one of the tents that lie just off 
+the path here.  He has a stern expression on his face, and he glares at you 
+as he sees you scrutinizing him.  It is hard to tell what he looks like 
+under the armor he wears, but he looks like a big fellow.
+~
+0
+Clanname none~
+0
+0
+65 8 -200 C
+56 2 -26 5d10+345 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1904
+helpless avian prisoner~
+an avian prisoner~
+A helpless avian lies on the floor with its wings clipped and hands bound.
+~
+This avian is a sad representative of its noble race.  It is missing an 
+eye, and its feathers are bedraggled and dirty.  To make matters worse, 
+it's wings have been painfully clipped, and it's hands and feet are bound 
+by rusty chains.  It's thin ribs are sticking out prominently from hunger, 
+and several of the slender bones appear to be broken.
+~
+0
+Clanname none~
+0
+0
+65 524288 400 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1905
+thin halfling prisoner~
+a halfling prisoner~
+A thin halfling is chained to a stake in the ground.
+~
+This halfing looks as if he once were quite stout and well-off, judging by 
+the loose folds of skin hanging from him and the tattered but once-fine 
+clothing he wears, but he is now very thin and in terrible condition.  His 
+curly hair is falling out of his head, and he is missing several teeth.  He 
+lies here in abject misery.
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+47 0 -17 5d8+260 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1906
+draconian prisoner~
+a draconian prisoner~
+A draconian lies unconscious on the ground here.
+~
+This draconian looks like he may have once belonged in the service of the 
+army.  He is naked except for a tattered breech cloth, and lies on the 
+floor in a daze.  His body is covered with oozing wounds, and his scales 
+are dirty and chipped.  The spines on his back are bent or broken, and his 
+wings are tattered and torn.
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+49 1 -19 5d9+275 4d10+18
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1907
+acolyte hafran young~
+a young acolyte~
+A young acolyte of Hafran is here, praying.
+~
+This young man is dressed in golden robes trimmed with red.  He kneels 
+before the altar and prays loudly, seemingly unconcerned with your 
+presence.  He wears his blond hair very short, almost shaven, and has a 
+dark tan.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+53 2 -23 5d9+290 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1908
+priest hafran~
+a priest of Hafran~
+A priest shouts angrily at your intrusion.
+~
+This man looks to be slightly older than most of the others in this camp, 
+perhaps middle-aged.  He is dressed in flowing, voluminous robes and 
+carries himself with an air of authority and power.  His dark hair is 
+starting to grey on the edges, but his body is in good shape and he looks 
+an experienced combatant.
+~
+0
+Clanname none~
+0
+0
+65 4096 -200 C
+61 2 -31 5d11+385 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1909
+officer senior~
+a senior officer~
+A senior officer seems startled at your intrusion.
+~
+This man looks rather older than the majority of the men here.  He has 
+thick dark hair and wears a mustache on his upper lip.  He glares at you in 
+surprise and anger when you enter, and prepares to do away with this threat 
+his men could not.
+~
+0
+Clanname none~
+0
+0
+65 8 -400 C
+57 2 -31 6d10+335 8d6+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1910
+elite guard~
+an elite guard~
+An elite guard mills about here, protecting the tent.
+~
+This guardsman looks like death on two feet.  He continually scans the area 
+about, looking for any potential threat.  His hands never stray far from 
+the hilts of his weapons, and his thickly corded muscles are tense, ready 
+to explode into action at any moment.  He has a grim expression on his 
+smoothly shaven face, as if he expects trouble at any moment.
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+62 1 -31 6d10+325 8d7+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1911
+general Verbesch man stern older~
+the general~
+A stern older man glares at you as you enter his tent.
+~
+This man looks fairly old, with stark white hair and a wrinkly face.  He is 
+very large, though, and his frame looks powerful despite his age.  His 
+eyes, too, shine clearly from within his withered form, attesting to the 
+knowledge and burning personality of this stern figure.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+67 2 -38 7d10+365 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1912
+soldier drunken~
+a drunken soldier~
+A drunken soldier stumbles about here, singing at the top of his lungs.
+~
+This man has a slack expression on his face, and looks a little ill, but he 
+seems determined to make it back to his tent.  His ebon skin is flushed as 
+he shouts at the top of his lungs in an incoherent manner.  Most of the 
+other soldiers around seem to be ignoring him.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+45 0 -25 5d10+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1913
+soldier guard sleeping~
+a soldier~
+A soldier lies wrapped in his bedroll here, fast asleep.
+~
+This man is wrapped up tightly in his bedroll, snoring loudly.  His stringy 
+black hair lies plastered to his face as he tosses about, apparently in the 
+throes of some nightmare.  His sallow skin is flushed with the heat of the 
+tent, but he nonetheless clutches the bedroll tightly to himself.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+55 1 -27 5d10+355 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1914
+soldier cook~
+the cook~
+The head cook is here stirring a pot of soup.
+~
+This soldier has been given the permanent duty of overseeing the cooking 
+operations, since the soldiers like his cooking so well.  He has grown a 
+little large with the easy duty, but he still retains much of his former 
+fighting edge.  His reddish hair is worn very short, and he has a short 
+beard on his fair face.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+55 1 -27 5d10+355 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1915
+soldier bathing swimming~
+a soldier~
+A soldier swims around here, bathing himself.
+~
+This man is completely naked, and is currently swimming around, splashing 
+his fellows and diving beneath the surface now and then.  His long brown 
+hair is plastered to his back, and waves out like a fan when he dives 
+beneath the surface.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+57 1 -27 5d10+365 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1916
+grithnek form shadowy~
+a grithnek~
+A shadowy form lurks in the dark depths of the pool.
+~
+This strange looking beast hides down deep in the murky waters at the 
+bottom of the lake.  It has a large, tooth-filled maw and two small, beady 
+eyes.  Four long, sinuous tentacles sprout from it's back, waving around 
+lazily.  It's forelimbs are long and contain three clawed, webbed fingers, 
+while it's legs are joined together to form a fin-tipped tale.  It is 
+covered with thick, hard scales.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+68 2 -40 7d11+380 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1917
+quarter master~
+the quartermaster~
+The quartermaster is here, repairing a coat of mail at the forge.
+~
+This tall, burly man serves as the quartermaster for this troop.  He issues 
+goods to those who need them, and is in charge of finding new supplies in 
+the lands the group passes through.  He also appears to have skill at 
+blacksmithing, evident by his thick muscles and the task he is currently 
+engaged in.  His thick, curly black hair is plastered to his face from the 
+heat of the forge.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+57 1 -29 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1918
+scout spy small figure~
+a scout~
+A small figure dressed in brown and black leathers crouches in the shadows.
+~
+This person is obviously taking great pains to conceal themselves.  They 
+are dressed in brown, black and green dyed leathers, which help conceal 
+them rather nicely from prying eyes.  They crouch motionless here, and it 
+is hard to tell what they are planning to do.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+57 2 -31 6d10+325 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1919
+figure red firewalker~
+a firewalker~
+A figure wrapped in a heavy red cloak stands here.
+~
+This person must be protected by magic or else insane.  They are wrapped in 
+a heavy red wool cloak, and yet they are still standing very close to the 
+fire.  Since they are covered from head to toe with cloth, you can tell 
+nothing about them, other than there is definitely something about this 
+person that isn't right.
+~
+0
+Clanname none~
+0
+0
+65 8 0 C
+60 2 -30 6d10+335 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1920
+assassin dark figure~
+an assassin~
+A dark figure stands here, his weapons readied.
+~
+This figure stands perfectly motionless, and is almost impossible to see in 
+the murk that permeates this tent.  The person is small and lithe, though 
+they appear strong as well.  It is hard to tell much about them, due to 
+their extensive covering, but they appear dangerous.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+64 2 -34 6d10+340 8d7+31
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1921
+icewalker man blue tattooed~
+an icewalker~
+A blue-tattooed man glares at you icily as you enter the tent.
+~
+This man is covered from head to toe with many intricate blue tattoos.  He 
+is bare to the waist, and does not seem to be bothered by the cold in here 
+at all.  His head and face are smoothly shaven, and it appears the rest of 
+his body is as well.  He glares at you as you enter his tent, not pleased 
+with your intrusion.
+~
+0
+Clanname none~
+0
+0
+65 8 -400 C
+62 1 -32 6d10+335 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1922
+thunderwalker man wild~
+a thunderwalker~
+A wild-eyed man stands here, grinning wickedly.
+~
+This strange fellow appears to be quite young, but his hair is solid white. 
+ His eyes, too, are quite strange, seeming to be almost all white, with 
+only a small pupil.  His short hair stands up on it's ends, though whether 
+it is from style or the electricity it is hard to say.  He is quite 
+muscular, and wears a short beard and mustache.
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+62 1 -32 6d10+335 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1923
+one-eyed avian 1923 ex-prisoner~
+an one-eyed avian~
+An one-eyed avian is here.
+~
+This avian is a sad representative of its noble race.  It is missing an 
+eye, and its feathers are bedraggled and dirty.  It's thin ribs are sticking 
+out prominently from hunger, and several of the slender bones appear to be 
+broken.  
+~
+0
+Clanname none~
+0
+0
+65 524288 400 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1924
+thin halfling 1924 ex-prisoner~
+a thin halfling~
+A thin halfling is here.
+~
+This halfing looks as if he once were quite stout and well-off, judging by 
+the loose folds of skin hanging from him and the tattered but once-fine 
+clothing he wears, but he is now very thin and in terrible condition.  His 
+curly hair is falling out of his head, and he is missing several teeth.  He 
+lies here in abject misery.
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+47 0 -17 5d8+260 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1925
+DELETE ME!~
+dELETE ME!~
+A draconian lies unconscious on the ground here.
+~
+This draconian looks like he may have once belonged in the service of the 
+army.  He is naked except for a tattered breech cloth, and lies on the 
+floor in a daze.  His body is covered with oozing wounds, and his scales 
+are dirty and chipped.  The spines on his back are bent or broken, and his 
+wings are tattered and torn.
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+49 1 -19 5d9+275 4d10+18
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1900
+small severed hand~
+a small severed hand~
+A small, severed hand lies rotting here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1901
+pool blood~
+a `#`rpool of blood`^~
+A `#`rpool of blood `^congeals here in a small puddle.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1902
+corpse headless~
+a headless corpse~
+A headless corpse has been hastily hidden beneath some dead grass.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1902 corpse headless~
+This corpse has furry feet and is rather overweight.  It appears to be the
+remains of an older halfling male.
+~
+#1903
+cape red~
+a `#`Rred `^cape~
+A fine red cape trimmed in gold lies in a pile here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 1040 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1904
+copper leggings~
+a pair of `#`ycopper`^ leggings~
+A pair of `#`ycopper`^ leggings have been left here.~
+~
+9 0 8
+45 45 10 0 0 0 0
+1 1050 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1905
+chain mail vest red~
+a `#`Rred `^chain vest~
+A vest of chainmail made of a strange red metal lies here.~
+~
+9 0 8
+35 35 13 0 0 0 0
+1 1065 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1906
+red leather boots~
+a pair of `#`Rred `^leather boots~
+A pair of boots made from fine red leather lie here.~
+~
+9 0 8
+45 45 9 0 0 0 0
+1 1045 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1907
+halberd bronze red polearm~
+a `#`ybronze`^ bladed halberd~
+A `#`ybronze`^ bladed halberd lies here.~
+~
+5 0 4
+11 62 76 32 0 0 0
+1 1055 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1908
+red iron bracer~
+a `#`Rred `^iron bracer~
+A stout bracer made of red painted iron lies here.~
+~
+9 0 8
+40 40 5 0 0 0 0
+1 1035 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1909
+sunburst ring~
+a `#`Ysunburst`^ ring~
+A small ring topped with an engraved golden sunburst lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1133 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1910
+necklace sunburst~
+a `#`Ygolden `^sunburst necklace~
+A golden sunburst emblem hanging from a thin golden chain lies here~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1122 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1911
+red copper sleeves~
+a pair of `#`ycopper`^ sleeves~
+A pair of `#`ycopper`^ sleeves lie here.~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 1044 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1912
+cruel leather whip~
+a cruel leather whip~
+A long leather whip with bits of glass embedded in it lies coiled on the ground here.~
+~
+5 16 4
+2 70 85 0 0 0 0
+1 1120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1913
+robe scarlet~
+a gold trimmed `#`Rscarlet `^robe~
+A fine scarlet robe trimmed with golden cloth lies crumpled here.~
+~
+9 64 8
+45 45 18 0 0 0 0
+1 1111 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1914
+small flail three headed~
+a small three headed flail~
+A small flail with three spiked iron heads lies here.~
+~
+5 0 4
+2 65 85 0 0 0 0
+1 1085 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1915
+mace steel shining~
+a shining `#`Ssteel`^ mace~
+A brightly shining `#`Ssteel`^ mace lies here.~
+~
+5 64 4
+8 78 101 256 0 0 0
+1 1220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1916
+black steel leggings~
+a pair of `#`Sblack`^ steel leggings~
+A pair of `#`Sblack`^ steel leggings lie here.~
+~
+9 0 8
+50 50 12 0 0 0 0
+1 1225 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1917
+black steel breastplate~
+a black steel breastplate~
+A breastplate made of beaten black steel lies here.~
+~
+9 0 8
+50 50 15 0 0 0 0
+1 1230 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1918
+long sword gleaming~
+a gleaming long sword~
+A well-oiled and carefully cared for long sword lies on the ground here.~
+~
+5 16 4
+7 81 117 8 0 0 0
+1 1235 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1919
+red copper helmet~
+a `#`Rred `^copper helmet~
+A sturdy helmet made of gleaming reddish copper lies here.~
+~
+9 0 8
+45 45 10 0 0 0 0
+1 1040 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1920
+black steel helmet~
+a `#`Sblack`^ steel helmet~
+A `#`Sblack`^ steel helmet lies here.~
+~
+9 16 8
+50 50 12 0 0 0 0
+1 1222 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1921
+black steel shield~
+a `#`Sblack`^ steel shield~
+A `#`Sblack`^ steel shield lies here.~
+~
+9 0 8
+50 50 15 0 0 0 0
+1 1234 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1922
+black scimitar wicked~
+a wicked `#`Sblack`^ scimitar~
+A `#`Sblack`^ scimitar with a curving, serrated blade lies here.~
+~
+5 16 4
+3 89 118 16 0 0 0
+1 1366 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1923
+small wooden mug foul alcohol cup grog~
+a cup of grog~
+A small wooden mug filled with a foul smelling alcohol lies here.~
+~
+17 0 16
+10 7 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1924
+apron leather~
+a leather apron~
+A leather apron covered with scorch marks lies on the ground here.~
+~
+9 64 8
+40 40 6 0 0 0 0
+1 1145 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1925
+heavy iron hammer~
+a heavy iron hammer~
+A large, heavy iron hammer lies here.~
+~
+5 0 4
+7 78 101 0 0 0 0
+1 1140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1926
+brown black green leather vest chameleon~
+a chameleon vest~
+A leather vest dyed random shades of brown, black and green lies here.~
+~
+9 64 8
+45 45 17 0 0 0 0
+1 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1927
+brown black green leather leggings chameleon~
+a pair of chameleon leggings~
+A pair of leggings dyed a random pattern of brown, black, and green lie here.~
+~
+9 64 8
+45 45 12 0 0 0 0
+1 1245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1928
+small black dagger~
+a small `#`Sblack`^ dagger~
+A small `#`Sblack`^ dagger lies here.~
+~
+5 16 4
+5 81 117 128 0 0 0
+1 1245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1929
+concealing black cloak~
+a concealing `#`Sblack`^ cloak~
+A concealing `#`Sblack`^ cloak lies here.~
+~
+9 16 8
+45 45 12 0 0 0 0
+1 1244 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1930
+wicked black shortsword~
+a wicked `#`Sblack`^ shortsword~
+A wicked `#`Sblack`^ shortsword lies here.~
+~
+5 16 4
+2 81 117 0 0 0 0
+1 1275 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1931
+thick red cloak~
+a thick `#`Rred `^cloak~
+A thick red woolen cloak lies here.~
+~
+9 0 8
+45 45 12 0 0 0 0
+1 1275 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1932
+red hot axe~
+a `#`Rred`^ hot axe~
+An axe that has been heated cherry red by some unkown magic lies here.~
+~
+5 64 4
+5 78 101 33 0 0 0
+1 1255 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1933
+leather pants frost covered~
+a pair of `#`wfrost`^ covered leather pants~
+A pair of leather pants covered with a layer of frost lies here.~
+~
+9 64 8
+45 45 12 0 0 0 0
+1 1275 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1934
+frost covered steel axe~
+a `#`wfrost `^covered steel axe~
+A large axe lies here, gleaming under a layer of frost.~
+~
+5 128 4
+5 81 117 34 0 0 0
+1 1255 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1935
+steel pole spear~
+a sharp steel pole~
+A sharp steel pole lies here.  Flashes of electricity occasionally run over it.~
+~
+5 64 4
+4 81 117 96 0 0 0
+1 1255 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1936
+small steel key~
+a small steel key~
+A small steel key lies forgotten in the dirt here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1937
+silk scroll~
+a silk scroll marked with ancient sigils~
+A silk scroll marked with ancient sigils lays here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#0
+
+
+#ROOMS
+#1900
+A Trampled Path in the Plains~
+~
+The little grass that exists here has been trampled down by the feet of many 
+men and horses.  It appears as if a large group of people moved through here 
+recently.  The path is a muddy brown scar on the otherwise plain landscape of
+the windswept plain.  To the east the path continues, growing wider where 
+apparently more people began to tread on it, while to the west it abruptly 
+vanishes completely.
+~
+1 0 2
+D1
+A Trampled Path in the Plains.
+~
+~
+0 0 1901
+S
+#1901
+A Trampled Path in the Plains~
+~
+The rolling, windswept plains are marred here by a freshly made path.  It 
+apparently was trampled down by a force of many men and horses, who 
+appeared to be heading east.  The path is very wide, and quite muddy from
+the churning hooves of many horses.  A smaller path leads north from this
+one, while to the east the path begins to enter the rising foothills.  The
+path also leads back west, where it begins to grow smaller.
+
+~
+1 0 2
+D0
+A Blood-Filled Hollow.
+~
+~
+0 0 1902
+D1
+Entering a Large Canyon.
+~
+~
+0 0 1903
+D3
+A Trampled Path in the Plains.
+~
+~
+0 0 1900
+S
+#1902
+A Blood-Filled Hollow~
+~
+You enter this small dip in the smooth landscape and are immediately 
+greeted by the overwhelming stench of blood and rotting flesh.  The leaves 
+of small, twisted trees and the hearty shoots of prairie grass are covered 
+with bits of flesh and drying blood.  It looks as if not only was a battle 
+fought here, but the losers torn limb from limb by the victors.  A small 
+path leads southward, away from this horrible scene.
+
+~
+1 0 2
+D2
+A Trampled Path in the Plains.
+~
+~
+0 0 1901
+R O 0 1900 0 1902
+R O 0 1901 0 1902
+R O 0 1902 0 1902
+S
+#1903
+Entering a Large Canyon~
+~
+The northeastern foothills begin to rise steeply here, putting an abrupt 
+end to the plains.  A large canyon also begins to open up between two 
+craggy hills here, and a wide, trampled path leads east in to it.  Next to
+the path a stake has been placed in the ground, topped by the rotting head
+of a dead elf.  Something has been hastily scrawled on the smooth face
+of a craggy rock that thrusts from the ground next to the stake.  You can
+see many plumes of smoke rising from within the canyon, and the hoarse 
+cries of men and the neighs of horses.  To the west the path descends back 
+to the plains.
+
+~
+1 0 4
+D1
+Within the Narrow Entrance to the Canyon.
+~
+~
+0 0 1904
+D3
+A Trampled Path in the Plains.
+~
+~
+0 0 1901
+E
+stake rock writing scrawl smooth face~
+In human, elven, and dwarven runes:
+    "Beware, lest ye too fall victim to the evil that has been visited
+      upon us.  Venture within at your own risk."
+~
+S
+#1904
+Within the Narrow Entrance to the Canyon~
+~
+You find yourself within the narrow walls of a large canyon. Just beyond 
+where you are presently located it seems the walls open up a great deal, 
+but at this location they are very narrow.  This point would be very easily 
+defendable by any force that decided to camp within.  You can hear the 
+sounds, and smell the smells, of many men located within; perhaps you are 
+not the first to realize the defensive value of this place.
+
+~
+1 0 4
+D1
+A Large Camp.
+~
+~
+0 0 1905
+D3
+Entering a Large Canyon.
+~
+~
+0 0 1903
+R M 0 1900 2 1904
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1907 0 16
+  R E 0 1908 0 14
+  R E 0 1919 0 6
+S
+#1905
+A Large Camp~
+~
+You find yourself within a large campsite set within an easily defensible 
+canyon.  Many tents are set up all around you, and it appears that 
+thousands of men could easily stay here- and probably do.  Most of the 
+tents are white in color with banners of red and gold waving from their 
+tops.  A path trampled through the grass in the base of the canyon leads 
+east further in to the camp and westward out of the camp.  The tent to the 
+north serves as the stables, by the smell of things, while the large tent 
+to the south appears to be a barracks of sorts.
+
+~
+1 0 2
+D0
+A Large, Smelly Stable.
+~
+~
+0 0 1906
+D1
+The Center of the Camp.
+~
+~
+0 0 1908
+D2
+A Crowded Tent.
+~
+~
+0 0 1907
+D3
+Within the Narrow Entrance to the Canyon.
+~
+~
+0 0 1904
+R M 0 1900 2 1905
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1907 0 16
+  R E 0 1908 0 14
+  R E 0 1919 0 6
+S
+#1906
+A Large, Smelly Stable~
+~
+This large tent appears to serve as the stable for the men camping here.  
+Many stalls have been roped off to serve to house the horses in here.  It 
+does not appear as if there are enough mounts to serve the entire group, so 
+only a small number of them must be mounted.  The only exit in here appears 
+to be to the south.
+
+~
+1 8 0
+D2
+A Large Camp.
+~
+~
+0 0 1905
+R M 0 1901 4 1906
+R M 0 1901 4 1906
+S
+#1907
+A Crowded Tent~
+~
+This large, spacious tent appears to serve as a common sleeping area or 
+barracks for the force encamped here.  Many bedrolls are laid out on the 
+ground, and a few enterprising souls have constructed rickety cots to 
+elevate themselves from the hard earth.  The bedrolls are all neatly made 
+and laid out, and small packs of personal effects lie on each.  To the 
+north and south the tent flaps have been propped up, letting the breeze in 
+and allowing you a way out.
+
+~
+1 8 0
+D0
+A Large Camp.
+~
+~
+0 0 1905
+D2
+A Large Barracks Tent.
+~
+~
+0 0 1922
+R M 0 1902 1 1907
+  R E 0 1904 0 7
+  R E 0 1906 0 8
+S
+#1908
+The Center of the Camp~
+~
+You stand in a large clearing in the forest of tents, which appears to be 
+the center of the camp.  A large bonfire burns in the middle, which appears 
+to provide no practical purpose.  To the east a large boulder rises from 
+the ground, and a small path snakes past the boulder towards several large 
+tents that are rather removed from the rest.  To the north the path heads 
+to another group of tent that stand off from the main body of the camp, as 
+well as one building that appears to be a more permanent construction.  To 
+the south a path winds through the main body of the camp.
+
+~
+1 0 2
+D0
+On the Northern Path.
+~
+~
+0 0 1909
+D1
+A Narrow Path in the Camp.
+~
+~
+0 0 1915
+D2
+A Wide Path in the Camp.
+~
+~
+0 0 1920
+D3
+A Large Camp.
+~
+~
+0 0 1905
+E
+fire bonfire~
+This fire is fairly low now, so you can see that it indeed may have once
+served a practical purpose.  You see several faintly humanoid forms lying
+still within the flames, and bleached bones poke out here and there.
+Perhaps this is how the soldiers dispose of their dead, or their enemies...
+~
+S
+#1909
+On the Northern Path~
+~
+This small path leaves the hubub of the main encampment and heads northward 
+towards a collection of smaller tents and one large building that is being 
+constructed using stone and wood from the canyon itself.  To the west you 
+see a large tent with a foul odor coming from it, and to the east, in the 
+distance, you spy some other tents.  South a large bonfire burns low in the 
+center of the camp.
+
+~
+1 0 2
+D0
+On the Northern Path.
+~
+~
+0 0 1910
+D2
+The Center of the Camp.
+~
+~
+0 0 1908
+S
+#1910
+On the Northern Path~
+~
+You are walking on a path that leads northward from the main collection of 
+tents to the south.  To the west and east you see small, heavily guarded 
+tents surrounded by stout wooden fences.  To the north the partially 
+completed structure of what appears to be a temple rises, and behind that 
+the tall, steep wall of the canyon looms above you.
+
+~
+1 0 2
+D0
+Shrine of Eros.
+~
+~
+0 0 1913
+D1
+A Dank, Crowded Tent.
+~
+fence~
+33 1936 1912
+D2
+On the Northern Path.
+~
+~
+0 0 1909
+D3
+A Dank, Crowded Tent.
+~
+fence~
+33 1936 1911
+R M 0 1903 2 1910
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1912 0 16
+  R E 0 1908 0 14
+  R E 0 1919 0 6
+  R E 0 1911 0 10
+  R E 0 1936 0 17
+R M 0 1903 2 1910
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1912 0 16
+  R E 0 1908 0 14
+  R E 0 1919 0 6
+  R E 0 1911 0 10
+S
+#1911
+A Dank, Crowded Tent~
+~
+This tent is small and dark, and the floor is nothing but churned mud and 
+the waste of its inhabitants.  Many people are chained here, lying on the 
+floor in misery.  The walls are merely canvas, but the stout fence that 
+circles the tent and the iron chains that bind the prisoners make this an 
+effective prison indeed.
+
+~
+1 0 0
+D1
+On the Northern Path.
+~
+fence~
+33 1936 1910
+R M 0 1904 1 1911
+R M 0 1905 1 1911
+S
+#1912
+A Dank, Crowded Tent~
+~
+This small tent is apparently used by the soldiers here for holding 
+prisoners.  The walls are merely canvas, but the stout fence encircling the 
+structure and the iron bands that bind the residents make this place as 
+secure as any stone cell.  The floor is muddy from spilled water and the 
+excrement of the prisoners, and is covered by a few strands of moldy straw.
+
+~
+1 8 0
+D3
+On the Northern Path.
+~
+fence~
+33 1936 1910
+R M 0 1906 1 1912
+S
+#1913
+Shrine of Hafran~
+~
+You are in a partially completed stone structure that looks as if it is 
+going to serve as some sort of temple.  Half assembled pews rest on the 
+floor in front of a large altar that is the color of burnished gold.  A 
+large golden disk hangs on the wall behind the altar.  It has been placed 
+so as to catch the rays of the sun and reflect them into the eyes of those 
+who enter, and as such it is hard to study closely.  To the south you can 
+exit this temple, while to the west a small passageway leads further into 
+the shrine.
+
+~
+1 8 0
+D2
+On the Northern Path.
+~
+~
+0 0 1910
+D3
+Cleric's Sanctum.
+~
+~
+0 0 1914
+R M 0 1907 1 1913
+  R E 0 1909 0 1
+  R E 0 1910 0 3
+  R E 0 1913 0 12
+  R E 0 1914 0 16
+E
+altar~
+This altar is covered with a thin sheet of beaten and polished copper.
+The copper has been engraved in several places, showing scenes of elves,
+gnomes, and other non-humans burning under the light of the sun.
+~
+S
+#1914
+Cleric's Sanctum~
+~
+This small chamber contains several neatly made cots, as well as a few 
+personal effects.  On several places on the walls you see sunbursts carved 
+of wood or made of beaten metal.  The floor is made of freshly cut stone 
+and is covered with a thick layer of sweet-smelling rushes.
+
+~
+1 8 0
+D1
+Shrine of Eros.
+~
+~
+0 0 1913
+R M 0 1908 1 1914
+  R E 0 1909 0 1
+  R E 0 1910 0 3
+  R E 0 1913 0 12
+  R E 0 1915 0 16
+S
+#1915
+A Narrow Path in the Camp~
+~
+This small path leads eastward from the large bonfire, past a large boulder 
+and towards a collection of tents that has been set off to the east.  The 
+path does not look traveled as frequently as the others in the camp, and is 
+really more of an indentation in the tall grass than a path.  To the north 
+you spy a small tent with a red and black standard haning in front of it, 
+and to the south lies a tent with a gold and black standard in front.  To 
+the east is a heavily guarded large tent.
+
+~
+1 0 2
+D0
+An Officer's Tent.
+~
+flap~
+1 0 1916
+D1
+Outside a Large Tent.
+~
+~
+0 0 1918
+D2
+An Officer's Tent.
+~
+flap~
+1 0 1917
+D3
+The Center of the Camp.
+~
+~
+0 0 1908
+S
+#1916
+An Officer's Tent~
+~
+This tent, though small, is richly furnished.  The floor is covered with 
+freshly cut rushes, and a few rugs have been laid here and there.  A large, 
+comfortable cot sits towards the back of the tent.  A small table with 
+several maps laid out on it sits in one corner of the tent.  The only exit 
+appears to be to the south.
+
+~
+1 8 0
+D2
+A Narrow Path in the Camp.
+~
+flap~
+1 0 1915
+R M 0 1909 2 1916
+  R E 0 1916 0 7
+  R E 0 1917 0 5
+  R E 0 1918 0 16
+  R E 0 1920 0 6
+  R E 0 1903 0 12
+  R E 0 1906 0 8
+E
+table maps~
+Several maps are laid out on this table.  The uppermost one is of the
+immediate region, centered on Mekali. It shows several marks around the
+city, apparently marking future troop formations.
+~
+S
+#1917
+An Officer's Tent~
+~
+This tent, though small, is richly furnished.  The floor is covered with 
+several thick carpets and the large cot, in the back, has several pillows 
+and cushions piled on top of it.  A large table in the center of the room 
+contains a few dishes from a half-eaten meal.  The only exit appears to be 
+to the north.
+
+~
+1 8 0
+D0
+A Narrow Path in the Camp.
+~
+flap~
+1 0 1915
+R M 0 1909 2 1917
+  R E 0 1916 0 7
+  R E 0 1917 0 5
+  R E 0 1918 0 16
+  R E 0 1920 0 6
+  R E 0 1903 0 12
+  R E 0 1906 0 8
+S
+#1918
+Outside a Large Tent~
+~
+You find yourself in a small clearing in the grass before a large red tent. 
+The tent itself is very fancy, with gold trim on the edges and a small 
+pennant in red and gold flying from the top.  A flap in the tent leads to 
+the space within while the path you are standing on leads back west.
+ 
+~
+1 0 2
+D1
+The General's Quarters.
+~
+flap~
+1 0 1919
+D3
+A Narrow Path in the Camp.
+~
+~
+0 0 1915
+R M 0 1910 2 1918
+  R E 0 1916 0 7
+  R E 0 1917 0 5
+  R E 0 1918 0 16
+  R E 0 1920 0 6
+  R E 0 1903 0 12
+  R E 0 1906 0 8
+  R E 0 1921 0 11
+R M 0 1910 2 1918
+  R E 0 1916 0 7
+  R E 0 1917 0 5
+  R E 0 1918 0 16
+  R E 0 1920 0 6
+  R E 0 1903 0 12
+  R E 0 1906 0 8
+  R E 0 1921 0 11
+S
+#1919
+The General's Quarters~
+~
+This tent, which seemed so large from the outside, seems even larger on the 
+inside due to the spare furnishings that may be found within.  The floor is 
+bare dirt, except for a small rug near the utilitarian cot near the north 
+wall.  On the south wall several leather cords hang, and from each one the 
+dried and rotting ears of non-human victims hang.  There must be thousands 
+in all, some barely recognisable they are so old.  The only exit from this 
+room appears to be the way you came in.
+
+~
+1 8 0
+D3
+Outside a Large Tent.
+~
+flap~
+1 0 1918
+R M 0 1911 1 1919
+  R E 0 1916 0 7
+  R E 0 1917 0 5
+  R E 0 1922 0 16
+  R E 0 1920 0 6
+  R E 0 1903 0 12
+  R E 0 1906 0 8
+  R E 0 1921 0 11
+S
+#1920
+A Wide Path in the Camp~
+~
+This path leads southward from a large clearing with a bonfire to the 
+north.  It is very wide already, due to the large amount of traffic it 
+apparently receives.  The main collection of tents lies to the south, while 
+to the east you see a small field with a little white tent in the 
+background.  To the west you see the blank white wall of one of the large 
+barracks tents.
+
+~
+1 0 2
+D0
+The Center of the Camp.
+~
+~
+0 0 1908
+D2
+The Wide Path in the Camp.
+~
+~
+0 0 1921
+S
+#1921
+The Wide Path in the Camp~
+~
+This path leads north and south through the large encampment you are in.  
+It is very wide and a little muddy, due to the large amount of traffic to 
+be found here.  To the south and north the path continues, while to the 
+east lies a huge tent with a delicious aroma wafting from it.  To the west 
+you see the open entrance to a large barracks tent.
+
+~
+1 0 2
+D0
+A Wide Path in the Camp.
+~
+~
+0 0 1920
+D1
+The Mess Tent.
+~
+~
+0 0 1923
+D2
+The Wide Path in the Camp.
+~
+~
+0 0 1925
+D3
+A Large Barracks Tent.
+~
+~
+0 0 1922
+R M 0 1912 2 1921
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1923 0 17
+R M 0 1912 2 1921
+  R E 0 1903 0 12
+  R E 0 1904 0 7
+  R E 0 1905 0 5
+  R E 0 1906 0 8
+  R E 0 1923 0 17
+S
+#1922
+A Large Barracks Tent~
+~
+This large tent apparently serves to house a great deal of the common 
+soldiers in the camp.  Many bedrolls are laid out on the floor, most of 
+them neatly made, though a few are being slept in.  The floor is grass, 
+covered here and there with a few rushes.  To the north, south, and east 
+the doors of the tent have been let open to let a little breeze in.
+
+~
+1 8 0
+D0
+A Crowded Tent.
+~
+~
+0 0 1907
+D1
+The Wide Path in the Camp.
+~
+~
+0 0 1921
+D2
+A Large Barracks Tent.
+~
+~
+0 0 1926
+R M 0 1913 1 1922
+S
+#1923
+The Mess Tent~
+~
+This huge tent contains several trestle tables, and many open cooking 
+fires, where those soldiers who have the duty for the day cook the meals.  
+Right now it appears there is no meal going on, for no soldiers are 
+present.  Over the fires several spits of meat roast, and a few pots of 
+stew have been left to simmer.  To the east the tent flap has been left 
+open and you can spy a small, crystal clear lake.  To the west the open 
+tent flap leads out to the wide path through the camp.
+
+~
+1 8 0
+D1
+The Small Mountain Lake.
+~
+~
+0 0 1924
+D3
+The Wide Path in the Camp.
+~
+~
+0 0 1921
+R M 0 1914 1 1923
+S
+#1924
+The Small Mountain Lake~
+~
+This small, clear little lake is apparently serving as a water supply and 
+bathing area for the soldiers.  Several are in here now, splashing and 
+lathering soap over themselves.  A small stream leads from the lake towards 
+the south, while it is unclear where the water in this lake comes from.  
+The only real exit from this place is back into the mess tent to the west. 
+While the top of the water is very clear, it gets very dark and murky 
+towards the bottom, and it is hard to tell what is down there.
+
+~
+1 0 7
+D3
+The Mess Tent.
+~
+~
+0 0 1923
+R M 0 1915 1 1924
+R M 0 1916 1 1924
+E
+deep water murky ~
+It seems the water is so cloudy because it is so deep.  You must be looking
+down hundreds of meters, because the water is so clear only a great depth
+could cause such a murky area.  It almost looks like something is down there,
+but it could be a trick of the light.
+~
+S
+#1925
+The Wide Path in the Camp~
+~
+You are on a large north-south path leading through the camp.  It is very 
+wide, and a little muddy, from the constant traffic it sees.  To the east 
+lies the entrance to a large tent full of boxes and crates.  To the west 
+lies another large barracks tent.  The path itself continues north and 
+south.
+
+~
+1 0 2
+D0
+The Wide Path in the Camp.
+~
+~
+0 0 1921
+D1
+The Supply Tent.
+~
+~
+0 0 1927
+D2
+The Wide Path in the Camp.
+~
+~
+0 0 1928
+D3
+A Large Barracks Tent.
+~
+~
+0 0 1926
+S
+#1926
+A Large Barracks Tent~
+~
+This roomy tent is apparently given over to housing a portion of the common 
+soldiers of this troop.  The floor is covered with many neatly made 
+bedrolls, and a few enterprising soldiers have constructed cots for 
+themselves.  The floor is made of matted down grass, though it has been 
+worn to the dirt in a few places.  Tent flaps to the north and east have 
+been let open to allow a little breeze in, and appear to be the only exits.
+
+~
+1 8 0
+D0
+A Large Barracks Tent.
+~
+~
+0 0 1922
+D1
+The Wide Path in the Camp.
+~
+~
+0 0 1925
+S
+#1927
+The Supply Tent~
+~
+This tent contains many of the supplies for the army, things they cannot 
+find easily on their route.  Many crates, bags, and boxes are stacked here 
+in neat rows.  Towards the back of the tent a small forge has been set up, 
+allowing the soldiers to repair their weapons and armor should they become 
+damaged.  The only exit from this tent appears to be back to the west.
+
+~
+1 8 0
+D3
+The Wide Path in the Camp.
+~
+~
+0 0 1925
+R M 0 1917 1 1927
+  R E 0 1924 0 12
+  R E 0 1925 0 16
+  R E 0 1904 0 7
+  R E 0 1906 0 8
+E
+crate box bag~
+These crates and bags contain a wide vareity of goods.  Some contain
+foodstuffs, such as flour and dried bacon.  Others have goods ranging from
+bars of iron, to candles, to coils of rope.  There are also several bolts of
+cloth lying about, which allow the men to make repairs to their uniforms,
+tents, and standards.
+~
+S
+#1928
+The Wide Path in the Camp~
+~
+You find yourself on a large, wide path travelling north and south through 
+the camp.  The path itself is rather muddy already, due to the amount of 
+traffic it sees.  To the east you see a large, red tent with an eerie glow 
+coming from inside.  To the west you see a small, low white tent.
+
+~
+1 0 2
+D0
+The Wide Path in the Camp.
+~
+~
+0 0 1925
+D1
+A Sweltering Tent.
+~
+~
+0 0 1930
+D2
+The Wide Path in the Camp.
+~
+~
+0 0 1931
+D3
+A Small White Tent.
+~
+flap~
+1 0 1929
+S
+#1929
+A Small White Tent~
+~
+This small tent is almost unnoticeable where it sits, and is also rather 
+unremarkable on the inside.  A few empty cots lie here, they look as if 
+they haven't been used in days.  The grass on the ground here also looks as 
+if it hasn't seen nearly the amount of wear and tear that the terrain in 
+the rest of the camp has.
+
+~
+1 8 0
+D1
+The Wide Path in the Camp.
+~
+flap~
+1 0 1928
+R M 0 1918 1 1929
+  R E 0 1926 0 5
+  R E 0 1927 0 7
+  R E 0 1928 0 16
+S
+#1930
+A Sweltering Tent~
+~
+The inside of this red tent is even stranger than the outside.  The 
+temperature in here is almost unbearable.  You break out in a sweat almost 
+as soon as you enter.  The reason seems to be the numerous braziers of 
+coals placed about the room, as well as a roaring fire that has been built 
+in the center of the tent.  Around the fire, very close to it in fact, 
+several red-colored bedrolls have been laid.  Whoever sleeps in here must be 
+mad.
+
+~
+1 8 0
+D3
+The Wide Path in the Camp.
+~
+~
+0 0 1928
+R M 0 1919 1 1930
+  R E 0 1931 0 12
+  R E 0 1932 0 16
+S
+#1931
+The Wide Path in the Camp~
+~
+This wide path leads north and south through the large camp.  It is muddy 
+from the heavy traffic it seems to get, though someone has spread some 
+gravel hear and there to help alleviate the problem.  To the west you see a 
+black tent that has been set off to one side, while to the east a large 
+blue tent sends a shiver down your spine.  The path itself continues to the 
+north and the south.
+
+~
+1 0 2
+D0
+The Wide Path in the Camp.
+~
+~
+0 0 1928
+D1
+The Blue Tent.
+~
+~
+0 0 1933
+D2
+The End of the Wide Path.
+~
+~
+0 0 1934
+D3
+The Black Tent.
+~
+flap~
+1 0 1932
+S
+#1932
+The Black Tent~
+~
+This tent has been set off to one side, perhaps because those in the main 
+body of the camp do not wish to associate themselves with the men who live 
+here.  The inside is also dark and gloomy, though it is dimly lit by a 
+small lamp hung from the ceiling.  A few unmade cots rest about the room, 
+though they don't look like they have been slept on in a while.  A small 
+table in the center of the room contains a few parchment pages tacked down 
+by a small knife.
+
+~
+1 8 0
+D1
+The Wide Path in the Camp.
+~
+flap~
+1 0 1931
+R M 0 1920 1 1932
+  R E 0 1929 0 12
+  R E 0 1930 0 16
+  R E 0 1928 0 19
+E
+table parchment knife~
+"...the gnome chief must die as well.  His people will be easy to conquer,
+and will show the locals we mean business.  The hardest will be the wood elf
+king, but I am sure the lot of you can take him, if you make it past his
+guards and are your usual resourceful selves.  Remember, Hafran knows of your
+mission and sends his blessing."
+~
+S
+#1933
+The Blue Tent~
+~
+The air in this tent almost knocks you off your feet as you enter, it is so 
+cold.  You cannot seem to tell where this chill is coming from, but it 
+makes this tent colder than the highest mountain peaks in the dead of 
+winter.  A few sparse bedrolls lie on the floor here, they don't seem like 
+they could even keep you warm on a cool summer night, let alone in here.  
+Whoever sleeps in this tent must be mad.
+
+~
+1 8 0
+D3
+The Wide Path in the Camp.
+~
+~
+0 0 1931
+R M 0 1921 1 1933
+  R E 0 1933 0 7
+  R E 0 1934 0 16
+S
+#1934
+The End of the Wide Path~
+~
+You find yourself on a wide path that leads through the camp here.  It is 
+wide and muddy from constant traffic, but it appears someone has taken the 
+time to spread gravel on it, to help with the problem.  The path heads 
+northward; to the south it ends abruptly as the large cliff wall rises 
+steeply.  To the west the wall of the cliff rises as well.  To the east the 
+cliff wall is a little farther back and a yellow tent has been set between 
+it and the path.
+
+~
+1 0 2
+D0
+The Wide Path in the Camp.
+~
+~
+0 0 1931
+D1
+Inside the Yellow Tent.
+~
+~
+0 0 1935
+S
+#1935
+Inside the Yellow Tent~
+~
+As you enter this tent you begin to feel a tingling sensation and you 
+notice that your hair is standing up on it's ends.  The air in here seems 
+to be supercharged with some sort of electricity, much as if a lightning 
+bolt was about to strike.  Indeed, there does seem to be some sort of 
+lightning in here, as two iron poles set up in the back of the room 
+occasionally flash a miniaturized bolt of the substance between each other. 
+A few bedrolls lie on the floor here.  Whoever would sleep in such an 
+obviously dangerous place must be insane.
+
+~
+1 8 0
+D3
+The End of the Wide Path.
+~
+~
+0 0 1934
+R M 0 1922 1 1935
+  R E 0 1935 0 16
+  R E 0 1904 0 7
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

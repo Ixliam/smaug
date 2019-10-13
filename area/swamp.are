@@ -1,0 +1,1729 @@
+#AREA        Maelndo~
+
+
+
+#VERSION     11
+#AUTHOR      mahinae~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80646
+skinny brown mutt dog~
+a skinny brown mutt~
+A skinny brown mutt is standing here begging for food.
+~
+This little mutt has seen better days. Its unremarkable brown body quivers 
+excited when someone nears it. It seems to have figured out that cocking its 
+ears forward and whining pathetically is the best way to get food. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80647
+lriec~
+lriec~
+Lriec sits here, halfway enveloped by shadows.
+~
+Lriec lounges here. His dark eyes are sharp and calculating. His long curly 
+black hair has been pulled back in a tight ponytail at the nape of his neck 
+and held by leather strands. His leather is well oiled and worked. He moves 
+slowly but the rippling muscles seen on his arms display his controlled 
+strength. You feel uncomfortable as he shrewdly looks you over. You think he 
+may be a dangerous person to attempt to deal with. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80648
+young child~
+a young child~
+A young child wanders about, looking for something to do.
+~
+A young child plays here in the dirt. His raggedy clothes are covered in 
+filth. He looks up and smirks at you as you pass. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80649
+ulerian~
+ulerian~
+Ulerian leans against his counters here.
+~
+This short, fat angrak has greasy, limp red hair. When he spreads his mouth 
+in an evil grin, gaps between his teeth are visible. When he speaks he makes 
+sucking noises through the gaps. All in all he looks like a very unsavory 
+character. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80650
+ziulo~
+ziulo~
+Ziulo sits here with his feet propped up on the desk.
+~
+Ziulo, the proprietor of the tiny inn, is here. His greasy black hair comes 
+down in ringlets which get in the way of his beady eyes. His girth is large. 
+He looks like he makes a tidy profit turning over the rooms. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80651
+surly prostitute~
+a surly prostitute~
+A surly prostitute strolls along here.
+~
+This woman has seen better days. Her body is gaunt and her features are 
+hard. It's hard to guess the woman's age from the early wrinkles and sickly 
+body. Her smile and language are calculated to draw the males but it seems 
+she'd had little luck in her profession judging by her shabby clothes. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80652
+prostitute~
+a prostitute~
+A prostitute mills here.
+~
+Traces of beauty still exist on this female's face. Her is curled around her 
+face, and her corset is laced tightly to show off her figure. She appears to 
+be new to soliciting and is slowly starting show the fatigue and hardness. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80653
+black bird~
+a large black bird~
+A large black bird is flapping overhead.
+~
+This bird's feathers are a glossy black that shines under the light. From 
+its beak dangles a scrap of flesh. As it looks down at you, you imagine you 
+can see a gleam of wickedness in its eye. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80665
+old man~
+an old man~
+An old man stands here with his back to the wall.
+~
+This old man has pure white hair. It is dirty and looks like chunks of it 
+have been literally ripped out of his head. His scalp is bloody and full of 
+sores. His eyes are wild and crazed. As he turns to you he screams, "You 
+don't know what I see! You don't know! Don't know! Don't KNOW!" 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+130 0 -100 13d16+630 13d18+85
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80686
+frail hunchback man~
+a frail looking hunchback~
+A frail looking hunchback peers closely at a corpse.
+~
+This little old man ignores you as you approach. His hands are gnarled with 
+arthritis and are covered in darkened splatters. His eyes are a blurred 
+silver blue but he manages to move his knife over the body with ease. His 
+back has a large hump on it as if the weight of all his years has dragged 
+him down. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80687
+young beautiful woman~
+a young beautiful woman~
+A young beautiful woman stands here.
+~
+A young, beautiful woman is before you. Her face is disturbingly devoid of 
+all emotions. When she speaks she sounds like a little old woman. She reeks 
+of sulphur, and a curious light fills her eyes when you near her potions. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80688
+calysia~
+calysia~
+Calysia stands here behind the counter.
+~
+Calysia stands before you. She is swaddled in a long black velvet robe 
+knotted tightly at her waist. Her hair has been cut short and curls down to 
+just below the robe's collar. A heavy pendant lies upon her breast. It is 
+the only adornment she wears. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80689
+thin slythris banker~
+a thin slythris banker~
+A thin slythris banker stands here.
+~
+This banker looks very bored with his job but his eyes light up with greed 
+when someone hands him a large deposit. He spends his days counting the 
+precious gold coins that pass through his hands. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80690
+beggar child~
+a beggar child~
+A little beggar child stands here.
+~
+This little beggar child looks like all of the rest. His clothes are 
+basically dirty scraps that have been tied around him. His ribs protrude 
+obscenely from underneath the thin garments. His dirtied toes peek out from 
+half rotted shoes. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80691
+silent bartender~
+a silent bartender~
+A silent bartender stands behind the counter.
+~
+This slight male bartender stands before you in complete silence. His eyes 
+lack vitality, and he seems resigned to his fate. Upon closer inspection, 
+you realize he will tell no one's secrets for his tongue has been violently 
+cut out. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80692
+scorpion~
+a scorpion~
+A scorpion is curled here.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80659
+crackling bonfire~
+a crackling `#`Rb`Yo`Rn`Yf`Ri`Yr`Re`^~
+A crackling `#`Rb`Yo`Rn`Yf`Ri`Yr`Re`^ has been built here.~
+~
+1 0 1
+0 -1 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80660
+cadaver corpse table~
+a cadaver laid out on a table~
+A cadaver is laid out here on a granite table.~
+~
+15 0 8
+1 0 100 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80660 pad ~
+"Subject appeared to live as a strolling minstrel until entering my abode. 
+He is approximately 56 inches in height and 185 pounds, hair color red, eyes 
+black. Cause of death was a blow to the head. Future reference: rocks seem 
+to make a good weapon." 
+~
+E
+80660 cadaver ~
+The deceased seems to have become an experiment for the doctor. The body 
+been thoroughly dissected in parts and the discoveries noted on a small pad 
+near the left foot. The poor man's chest seems to be able to be popped open 
+at the breastplate. 
+~
+#80661
+hunchback book~
+a bound diary~
+~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+80661 book ~
+Subject suffered from an open head wound immediately before death. Cause of 
+this head wound was my quartz paperweight. Subject had many bizarre 
+utterances before he died completely. The spell was completed immediately 
+after his death with satisfactory results. 
+~
+#80662
+massive stone altar~
+a massive stone altar~
+A massive stone altar has been erected here.~
+~
+12 0 8
+300 196752 -10 -50 0 0 0
+200 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80663
+slender birch branch~
+a slender birch branch encased in ice~
+A slender birch branch encased in ice has fallen here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#80664
+short humming maple branch~
+a short humming maple branch~
+A short humming maple branch has been left here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+80664 short humming maple branch~
+This branch vibrates with pure power. It pulses as if a life is trapped 
+inside it. It almost singes your fingers as you touch it. 
+~
+#80665
+blackened wand~
+a `#`sblackened`^ wand~
+A blackened wand is here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+80665 blackened wand~
+The outside of this wand is black and ashy. The tip of it glows brilliantly 
+as if a hot substance is slowly churning inside it. 
+~
+#80666
+broken skull~
+a broken skull~
+A broken skull hovers in the air.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80666 broken skull~
+The left eye socket of this skull has been crushed downwards. Its grin is 
+riddled with missing teeth. A tentative touch reveals the skull is covered 
+in a light slimey substance. 
+~
+#80667
+queer colored dr. bogual's pick-me-up elixir~
+a `#`?q`?u`?e`?e`?r`^ colored elixir~
+A `#`?q`?u`?e`?e`?r`^ colored elixir has been left here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 155 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+80667 queer colored exlir dr. bogual's pick-me-up~
+Dr. Bogual's Pick-me-up elixir has been left here. The colors inside the 
+bottle are metallic looking and emit a funny smell. 
+~
+#80668
+potion greatness prayer lucidity~
+a potion of `#`Ygreatness`^~
+A potion of `#`Ygreatness`^ glows here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80669
+short pink potion resist weapon battle rage~
+a short `#`Mpink`^ potion~
+A short `#`Mpink`^ potion has been left here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80670
+blackened jade necklace~
+a blackened jade necklace~
+A blackened jade necklace is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80670 blackened jade necklace~
+Thin but strong black chains support the heavy chunk of jade that swings 
+from this necklace. The oval of jade has been scorched badly. A deeply 
+etched rune has been set on the back of the jade. 
+~
+#80671
+serpent slave bracelet~
+a `#`gs`Ge`gr`Gp`ge`Gn`gt`^ slave bracelet~
+A `#`gs`Ge`gr`Gp`ge`Gn`gt`^ slave bracelet has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80671 serpent slave bracelet~
+The lithe form of a serpent coiling forms the wrist part of this slave 
+bracelet. The serpent's tongue curls out until the tips of it attach to a 
+thin golden wire that runs along the top of the wearer's hand. This chain 
+connects to an engraved ring worn on the middle finger. 
+~
+#80672
+set of flexible wristguards~
+a set of flexible wristguards~
+A set of flexible wristguards have been left here.~
+~
+9 0 8
+5 5 6 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80672 flexible wristguard~
+This set of wristguards is made up of strips of leather that wrap neatly 
+around the wrist. The leather is a well oiled dark brown. Small straps poke 
+out at the end. It looks as if you lace them together and tie them so the 
+guards will stay on. 
+~
+#80673
+goblet red liquid~
+a goblet of red liquid~
+A goblet of red liquid is here.~
+~
+17 0 16
+4 37 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80674
+jug of spiced tea~
+a jug of spiced tea~
+A jug of spiced tea is here.~
+~
+17 0 16
+10 46 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80675
+a mug of beer~
+a mug of beer~
+A mug of beer is here.~
+~
+17 0 16
+4 1 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80676
+chef's special~
+the chef's special~
+The chef's special sits here.~
+~
+19 0 16
+10 0 1 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80677
+meat and potato dish~
+a meat and potato dish~
+A meat and potato dish sits here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80678
+oak table chair~
+a wooden chair~
+Chairs are spread out around the table.~
+~
+12 0 8
+400 16777802 15 0 0 0 0
+50 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#80646
+Swamp~
+~
+The water here has turned a bright green from the pollen. Peat moss drapes 
+over the large trees and trails down into the water. Some of the trees have 
+broken off at various sections of the trunk and have fallen into the water. 
+Sometimes faint rustles can be heard overhead, usually preceding a snake 
+dropping into the warm water. The air here is humid and heavy. 
+~
+1 0 8
+D1
+~
+~
+0 0 80647
+S
+#80647
+Swamp~
+~
+The water here has turned a bright green from the pollen. Peat moss drapes 
+over the large trees and trails down into the water. Some of the trees have 
+broken off at various sections of the trunk and have fallen into the water. 
+Sometimes faint rustles can be heard overhead, usually preceding a snake 
+dropping into the warm water. The air here is humid and heavy. The channel 
+seems to widen up ahead. 
+~
+1 0 8
+D1
+~
+~
+0 0 80648
+D3
+~
+~
+0 0 80646
+S
+#80648
+Swamp~
+~
+The water here has turned a bright green from the pollen. Peat moss drapes 
+over the large trees and trails down into the water. Some of the trees have 
+broken off at various sections of the trunk and have fallen into the water. 
+Sometimes faint rustles can be heard overhead, usually preceding a snake 
+dropping into the warm water. The air here is humid and heavy. 
+~
+1 0 8
+D0
+~
+~
+0 0 80651
+D1
+~
+~
+0 0 80649
+D3
+~
+~
+0 0 80647
+S
+#80649
+Swamp~
+~
+The water here has turned a bright green from the pollen. Peat moss drapes 
+over the large trees and trails down into the water. Some of the trees have 
+broken off at various sections of the trunk and have fallen into the water. 
+Sometimes faint rustles can be heard overhead, usually preceding a snake 
+dropping into the warm water. The air here is humid and heavy. 
+~
+1 0 8
+D0
+~
+~
+0 0 80650
+D3
+~
+~
+0 0 80648
+S
+#80650
+Swamp~
+~
+The water here has turned a bright green from the pollen. Peat moss drapes 
+over the large trees and trails down into the water. Some of the trees have 
+broken off at various sections of the trunk and have fallen into the water. 
+Sometimes faint rustles can be heard overhead, usually preceding a snake 
+dropping into the warm water. The air here is humid and heavy. 
+~
+1 0 8
+D2
+~
+~
+0 0 80649
+D3
+~
+~
+0 0 80651
+S
+#80651
+Swamp~
+~
+The water darkens in this area momentarily as the depth increases. Up ahead 
+the bayou begins to curl lazily through the thickening trees. Something 
+large can be heard flapping its wings. A turtle is suddenly snatched off one 
+a piece of driftwood and snapped in half by a large black bird. 
+~
+1 0 8
+D1
+~
+~
+0 0 80650
+D2
+~
+~
+0 0 80648
+D9
+~
+~
+0 0 80652
+R M 0 80653 1 80651
+S
+#80652
+Swamp~
+~
+Twisting and turning up into a boggy area. Stone buildings laid out in a 
+star. 
+ 
+ Small graveyard with ghosts. 
+ 
+ Ask Bo if he wants any specific items. 
+ 
+ hehe ask about Zandramas the necromancer 
+~
+1 0 8
+D1
+~
+~
+0 0 80653
+D7
+~
+~
+0 0 80651
+S
+#80653
+Swamp~
+~
+As you paddle slowly through the water, fallen dead trees and other debris 
+block any possible passages except directly forward and backward. A 
+cottonmouth is barely visible as it skims through the water. Silver fish can 
+be seen darting hastily away from the snake as it disrupts them. 
+~
+1 0 8
+D0
+~
+~
+0 0 80654
+D3
+~
+~
+0 0 80652
+S
+#80654
+Swamp~
+~
+Overhead the trees form a canopy.  Snatches of sky are seen briefly as the 
+trees bend under the breezes. The air is still and oppressive. Nothing seems 
+to be living in this stretch of the hot water. As you travel forwards, your 
+boat gently scrapes against the remains of trees under the water. 
+~
+1 0 8
+D0
+~
+~
+0 0 80655
+D2
+~
+~
+0 0 80653
+S
+#80655
+Swamp~
+~
+You can see a small stretch of muddy shore to your east. A long dull white 
+object protrudes from the mud. The mud curiously bulges upwards in one 
+section near the object as if something was hidden under it. Something large 
+has left long streaks of tracks in the sucking mud. 
+~
+1 0 8
+D2
+~
+~
+0 0 80654
+D9
+~
+~
+0 0 80656
+S
+#80656
+Swamp~
+~
+The water abruptly stops here at a muddy shore. An alligator lies silently 
+in a far corner and watches you. A long copper pole has been stabbed into 
+the mud and anchored in place somehow for you to tie your boat to. As you 
+exit the boat, mud sucks at your feet and threatens to trap you in place. 
+~
+1 0 8
+D3
+~
+~
+0 0 80657
+D7
+~
+~
+0 0 80655
+S
+#80657
+On the shore~
+~
+The shore slopes up sharply, and it is difficult to keep your footing as the 
+mud pulls at you. A dead fish rots at the edge of the water. One of its eyes 
+has fallen out onto the surface and flies surround it. Darkly colored frogs 
+sit at various places and croak out their displeasure at your intrusion. 
+~
+1 0 8
+D0
+~
+~
+0 0 80661
+D1
+~
+~
+0 0 80656
+D3
+~
+~
+0 0 80658
+S
+#80658
+Away from the water~
+~
+The land here begins to slowly firm up as you move away from the water. 
+Large predatory birds circle overhead, and the smell of death lingers in the 
+air. Looking around you see the remains of a small animal as two buzzards 
+fight over the remains. 
+~
+1 0 8
+D0
+~
+~
+0 0 80662
+D1
+~
+~
+0 0 80657
+D3
+~
+~
+0 0 80659
+S
+#80659
+Before a bonfire~
+~
+The heavy smell of smoke in the air chokes you as you enter this clearing. 
+Wood has been piled up in the center to make a towering bonfire. Large rocks 
+have been placed in a circle around the bonfire. They look as if they are 
+used for seating. 
+~
+1 33554432 8
+D0
+~
+~
+0 0 80663
+D1
+~
+~
+0 0 80658
+D3
+~
+~
+0 0 80660
+R O 0 80659 0 80659
+S
+#80660
+Before an altar~
+~
+A colossal stone altar dominates the area here. The stone has been scorched 
+badly by something. Dark stains mar the level surface of the altar. On the 
+sides of the altar, circles and figures have been crudely engraved. The 
+grass has been trampled down and only sparse sprouts grace the hard packed 
+ground. 
+~
+1 0 8
+D1
+~
+~
+0 0 80659
+R O 0 80662 0 80660
+S
+#80661
+Corner of the swamp~
+~
+To the south of you lies the quiet dark water. Ahead to your northwest lies 
+a small path into the woods. Through the trees you can see a large clearing 
+with some stone structures. Every once in a while you hear a voice travel on 
+the wind. 
+~
+1 0 8
+D2
+~
+~
+0 0 80657
+D3
+~
+~
+0 0 80662
+D9
+~
+~
+0 0 80664
+S
+#80662
+Before a path~
+~
+The trees crowd tightly together and forces you to choose between a path 
+directly ahead of you or back to the open area from which you came. The path 
+seems to be of finely ground rocks and sand. It is slightly squishy 
+underfoot. 
+~
+1 0 8
+D0
+~
+~
+0 0 80664
+D1
+~
+~
+0 0 80661
+D2
+~
+~
+0 0 80658
+D3
+~
+~
+0 0 80663
+S
+#80663
+Swamp~
+~
+To the south of you you can see tendrils of smoke curling through the trees. 
+The glint of water is visible beyond the massive bonfire. To your northeast 
+lies a path to what looks like a small village. 
+~
+1 0 8
+D1
+~
+~
+0 0 80662
+D2
+~
+~
+0 0 80659
+D6
+~
+~
+0 0 80664
+S
+#80664
+Into the pathway~
+~
+finely ground something or other as the path
+ 
+bleak stone buildings with carvings from what looks like acid etching, pitted in places
+~
+1 0 8
+D0
+~
+~
+0 0 80665
+D2
+~
+~
+0 0 80662
+D7
+~
+~
+0 0 80661
+D8
+~
+~
+0 0 80663
+S
+#80665
+Pathway~
+~
+The path slowly opens up into a wide, cleared area ahead of you. The trees 
+are thinned out and the path is marked with heavy black boulders on each 
+side. Ahead you can see a large stone structure rising up above the tree 
+tops. 
+~
+1 4 8
+D0
+~
+~
+0 0 80666
+D2
+~
+~
+0 0 80664
+S
+#80666
+Before a building~
+~
+Directly ahead of you is a large stone building. It seems primitively built 
+but sturdy. The ground here is soft, and you can see evidence of where the 
+building has slowly sunk into the ground a bit farther as time passes. The 
+path curves around the building to the east and west and directly into the 
+building. 
+~
+1 33554432 1
+D0
+~
+~
+0 0 80669
+D1
+~
+~
+0 0 80667
+D2
+~
+~
+0 0 80665
+D3
+~
+~
+0 0 80668
+R M 0 80690 10 80666
+S
+#80667
+Faint Path~
+~
+To your west lies a stone building. To your east lies the swamp. A faint 
+trail is visible heading off into the east, only detectable by the 
+disruption of foliage. Periodic screeching can be heard from a nearby area. 
+~
+1 0 8
+D1
+~
+~
+0 0 80674
+D3
+~
+~
+0 0 80666
+S
+#80668
+West of a building~
+~
+This path leads west from a large stone building and the exit from the 
+village. The path has been cleared away by rough strokes of a machette and 
+is not very aesthetically pleasing. Up ahead you can see the tops of a few 
+small huts. The path continues on to the north to the heart of the small 
+village 
+~
+1 33554432 1
+D0
+~
+~
+0 0 80677
+D1
+~
+~
+0 0 80666
+D3
+~
+~
+0 0 80670
+S
+#80669
+Inside a building~
+~
+The heavy stench of decay fills your nostrils in this building.  A large 
+granite slab table is the prominent feature in this one room building. A 
+cadaver seems to be displayed on the table. Bent over the table is a small 
+man hard at work. He carves at the corpse then scribbles in a small book. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 80666
+R M 0 80686 1 80669
+R O 0 80660 0 80669
+R O 0 80661 0 80669
+S
+#80670
+On a path~
+~
+The ground around these huts is muddy and filthy. Meal scraps and other 
+trash is heaped outside of the various huts. Flies swarm over the decay, and 
+a few children who seem not to care about the filth are playing outdoors. 
+~
+1 33554432 1
+D0
+~
+~
+0 0 80671
+D1
+~
+~
+0 0 80668
+D2
+~
+~
+0 0 80673
+D3
+~
+~
+0 0 80672
+R M 0 80648 1 80670
+S
+#80671
+Inside a hut~
+~
+This hut seems to double as a store and a home. A low counter runs along one 
+side of the room. Carefully laid out on it are various skulls, wands, and 
+other instruments. A creaky rocking chair sits at the end of the counter. It 
+seems to be where you pay. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 80670
+R M 0 80649 1 80671
+  R G 0 80663 0
+  R G 0 80664 0
+  R G 0 80665 0
+S
+#80672
+Inside a hut~
+~
+This large hut's roof is sagging under the weight of collected rainwater. A 
+big black stove dominates one corner of the room. Wobbley tables have been 
+erected, and various foods and potions steam on them. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 80670
+R M 0 80687 1 80672
+  R G 0 80667 0
+  R G 0 80668 0
+  R G 0 80669 0
+R M 0 80646 3 80672
+S
+#80673
+Inside a hut~
+~
+This one room hut is almost completely bare aside from a few essentials. A 
+thin pallet has been constructed under the hut's window. A small table and 
+stool sit across from it. Eating utinsels have been carefully spaced out on 
+the table. Clothing has been neatly folded and set on a shelf. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 80670
+S
+#80674
+In a swamp~
+~
+Overhead the branches lace together tightly, effectively blocking out any 
+possible sunlight.  The plants that grow here are sparse and few animals 
+stop to nibble at them. The air is heavy and sweat slides down the back of 
+your shirt. A general unease has settled over the area. 
+~
+1 1 8
+D1
+~
+~
+0 0 80675
+D3
+~
+~
+0 0 80667
+S
+#80675
+Before a cave~
+~
+The faint path ends abruptly in front of a darkened cave front to the east. 
+Terrible noises are emitted from inside the cave. The area around it is 
+completely void of animals. Plants and trees grow here but seem wilted and 
+dead. Brittle branches clack loudly against one another as they move in an 
+unfelt wind. 
+~
+1 1 8
+D1
+~
+~
+0 0 80676
+D3
+~
+~
+0 0 80674
+S
+#80676
+Inside a cave~
+~
+The room in this small cave is freezing. The stone walls are streaked with 
+crusted blood handprints. A path has been worn from one side of the room to 
+the other as if someone has been pacing back and forth. One of the walls is 
+defaced with writing possibly painted on with blood. 
+~
+1 1 11
+D3
+~
+~
+0 0 80675
+R M 0 80665 1 80676
+  R E 0 80666 0 18
+S
+#80677
+West of Webb Street~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 80678
+D2
+~
+~
+0 0 80668
+S
+#80678
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 80679
+D2
+~
+~
+0 0 80677
+D3
+~
+~
+0 0 80681
+S
+#80679
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 80680
+D2
+~
+~
+0 0 80678
+S
+#80680
+Calysia's Wares~
+~
+This storefront is paneled with rich, dark wood. A low counter has been 
+polished neatly and velvet squares have been laid out to display various 
+wares. A stern guard stands at attention near the doorway and keeps track of 
+all who enter. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 80679
+R M 0 80688 1 80680
+  R G 0 80670 0
+  R G 0 80671 0
+  R G 0 80672 0
+S
+#80681
+Shalia Lane~
+~
+As you walk into Shalia Lane you notice that the buildings here are in 
+better condition. Those that walk along the neatly trimmed path are quiet 
+and keep their distance from each other. They seem more relaxed as if this 
+is a protected area. 
+~
+1 0 1
+D1
+~
+~
+0 0 80678
+D3
+~
+~
+0 0 80682
+S
+#80682
+Shalia Lane~
+~
+~
+1 0 1
+D0
+~
+~
+1 0 80684
+D1
+~
+~
+0 0 80681
+D3
+~
+~
+0 0 80683
+S
+#80683
+Shalia Lane~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 80682
+D3
+~
+~
+0 0 80685
+R M 0 80690 10 80683
+S
+#80684
+The Scorpion's Tail~
+~
+Dozens of small laterns have been strung up along the ceiling of this bar. 
+The light flickers softly against the polished wood walls. The tables and 
+chairs speak of quiet comfort rather than utility. Along the bar, there is a 
+gap in the row of stools to show an emblem etched into the bar. 
+~
+1 33554440 0
+D2
+~
+~
+1 0 80682
+D5
+~
+~
+33 0 80696
+R M 0 80691 1 80684
+  R G 0 80673 0
+  R G 0 80674 0
+  R G 0 80675 0
+  R G 0 80676 0
+  R G 0 80677 0
+E
+emblem scorpion shahansha~
+A large coiled scorpion poised to attack has been etched deeply into the 
+bar.  The outline has been painted over in a deep red. Under the scorpion 
+reads the word "Brother." 
+~
+S
+#80685
+Shalia Lane~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 80683
+D3
+~
+~
+0 0 80686
+S
+#80686
+First Maelndo Bank~
+~
+This bank's working area is small and cramped. Papers are everywhere, and 
+there seems to be no rhyme or reason to their filing system. A small counter 
+is at the far end of the room. Patrons quietly line up at the counter and 
+hug their money bags close to their chests. 
+~
+1 1096 1
+D1
+~
+~
+0 0 80685
+R M 0 80689 1 80686
+S
+#80687
+Shahansha Hold~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 80688
+S
+#80688
+Shahansha Hold~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 80689
+D3
+~
+~
+0 0 80687
+S
+#80689
+~
+~
+~
+1 0 0
+D0
+~
+~
+0 0 80693
+D1
+~
+~
+0 0 80690
+D3
+~
+~
+0 0 80688
+S
+#80690
+~
+~
+~
+1 0 0
+D0
+~
+~
+0 0 80692
+D2
+~
+~
+0 0 80691
+D3
+~
+~
+0 0 80689
+S
+#80691
+~
+~
+~
+1 0 0
+D0
+~
+~
+0 0 80690
+S
+#80692
+~
+~
+~
+1 0 0
+D2
+~
+~
+0 0 80690
+D3
+~
+~
+0 0 80693
+S
+#80693
+~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 80692
+D2
+~
+~
+0 0 80689
+D3
+~
+~
+0 0 80694
+S
+#80694
+~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 80693
+D9
+~
+~
+1 0 80695
+S
+#80695
+Strategy Room~
+~
+The walls of this spacious room seem to be cluttered with random papers. 
+Closer inspect reveals maps, ledgers, and other information. Along the 
+northern wall, accurate sketchings of various items and people paper the 
+wall. A hardened oak table sits in the middle of the room. 
+~
+1 0 0
+D7
+~
+~
+1 0 80694
+R O 0 80678 0 80695
+S
+#80696
+~
+~
+The enclosed area is stifling and something skitters softly in the darkness. 
+Spiderwebs sweep across your face as you move through the room, yet you can 
+see faint tracks leading to the southern wall then stopping suddenly. 
+~
+1 8 0
+D4
+~
+~
+33 0 80684
+R M 0 80692 2 80696
+S
+#0
+
+
+#SHOPS
+ 80649    0  0  0  0  0   100  75         0 23    ; ulerian
+ 80687    0  0  0  0  0   100  75         0 23    ; a young beautiful woman
+ 80688    0  0  0  0  0   100  75         0 23    ; calysia
+ 80691    0  0  0  0  0   105 100         0 23    ; a silent bartender
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

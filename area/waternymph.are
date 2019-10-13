@@ -1,0 +1,705 @@
+#AREA        Water Nymphs~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#29800
+water nymph~
+the water nymph~
+A water nymph dances playfully here.
+~
+The nymph is a young and beautifull girl who is one with
+the water.  She giggles when she notices you looking at
+her, and skirts off into the water.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+16 2 -5 4d5+90 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29801
+giant frog~
+the giant frog~
+A giant `#`sblack-skinned`^ frog is resting here.
+~
+The frog is massive, just about the size of a bull.  It is covered in glossy 
+black skin and has two large eyes on either side of it's head.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+18 -1 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29802
+giant albino frog king~
+the frog king~
+A giant `#`Walbino`^ frog is sitting atop a rock here.
+~
+This mammoth frog is covered in milk-white skin.  He is a bit bigger than 
+the other frogs around here.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+24 1 -6 4d5+105 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29803
+dryad~
+the dryad~
+A dryad is here, keeping an eye on the nymphs.
+~
+The skin of the dryad is a powdery blue, and her braided hair is emerald 
+green.  She has a magic aura around her that glows a faint pink.  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+26 0 -8 4d5+120 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#29800
+crystal rod~
+a short `#`Cc`cr`Cy`cs`Ct`ca`Cl`^ rod~
+A short rod made of translucent crystal is lying here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#29801
+shiny bead necklace~
+a small `#`Rb`Me`Ba`Cd`^ necklace~
+A small string of colorful beads is lying here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29802
+gemstone shard~
+a `#`sg`ce`Cm`Wst`Co`cn`se`^ shard~
+The small shard of a gemstone is lying here.~
+~
+5 0 4
+3 14 24 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29803
+potion flask lesser healing refresh cure light poison~
+a potion of lesser `#`whealing`^ and `#`crefresh`^~
+A flask containing a clear liquid is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29804
+wooden buckler~
+a wooden buckler~
+A small wooden buckler is lying here.~
+~
+9 64 8
+10 10 9 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29805
+tiny pearl~
+a tiny `#`Wpearl`^~
+A tiny pearl is lying here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 60 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29806
+pile coins~
+a small pile of coins~
+A small pile of coins is lying here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29807
+rune rock~
+a `#`Mr`mu`Mn`me`M-`me`Mt`mc`Mh`me`Md`^ rock~
+A rock covered in odd runes is lying here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 130 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29808
+knotted dryad club~
+a dryad club~
+A knotted wooden club is lying here.~
+~
+5 256 4
+4 30 50 256 0 0 0
+1 210 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29809
+topaz amulet~
+a `#`ytopaz`^ amulet~
+An amulet made of `#`ytopaz`^ is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#29800
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29801
+D1
+~
+~
+0 -1 29803
+D3
+~
+~
+0 -1 29804
+R M 0 29800 12 29800
+R M 0 29803 1 29800
+  R E 0 29808 0 16
+  R E 0 29809 0 3
+S
+#29801
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29806
+D1
+~
+~
+0 -1 29802
+D2
+~
+~
+0 -1 29800
+D3
+~
+~
+0 -1 29805
+R M 0 29800 12 29801
+S
+#29802
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D2
+~
+~
+0 -1 29803
+D3
+~
+~
+0 -1 29801
+R M 0 29800 12 29802
+S
+#29803
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29802
+D3
+~
+~
+0 -1 29800
+R M 0 29800 12 29803
+R O 0 39288 0 29803
+S
+#29804
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29805
+D1
+~
+~
+0 -1 29800
+R M 0 29800 12 29804
+S
+#29805
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D1
+~
+~
+0 -1 29801
+D2
+~
+~
+0 -1 29804
+R M 0 29800 12 29805
+R O 0 39288 0 29805
+S
+#29806
+Lake~
+~
+You are standing waist deep in a shallow lake without a current.  A warm 
+spring bubbles forth here and you feel relaxed as the magic of the lake 
+takes over your sences.  
+~
+1 0 6
+D0
+~
+~
+0 -1 29807
+D1
+~
+~
+0 0 29812
+D2
+~
+~
+0 -1 29801
+R M 0 29800 12 29806
+S
+#29807
+Lake~
+~
+You are standing waist deep in a shallow lake without a current.  
+A warm spring bubble forth here and you feel relaxed as the magic
+of the lake takes over your sences.
+~
+1 0 6
+D0
+~
+~
+0 -1 29808
+D2
+~
+~
+0 -1 29806
+R M 0 29800 12 29807
+S
+#29808
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29809
+D1
+~
+~
+0 -1 29819
+D2
+~
+~
+0 -1 29807
+D3
+~
+~
+0 -1 29820
+R M 0 29800 12 29808
+R M 0 29800 62 29808
+S
+#29809
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29810
+D1
+~
+~
+0 -1 29817
+D2
+~
+~
+0 -1 29808
+D3
+~
+~
+0 -1 29818
+R M 0 29800 12 29809
+R M 0 29801 10 29809
+S
+#29810
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D0
+~
+~
+0 -1 29811
+D1
+~
+~
+0 -1 29815
+D2
+~
+~
+0 -1 29809
+D3
+~
+~
+0 -1 29816
+R M 0 29800 12 29810
+R M 0 29801 10 29810
+S
+#29811
+Lake~
+~
+You are standing knee deep in a shallow lake without a current.  As the
+water soaks in around your ankles, a pleasent tingling feeling fills
+your body.  You feel that the magic of the lake is all around you,
+watching with curiosity.
+~
+1 0 6
+D1
+~
+~
+0 -1 29813
+D2
+~
+~
+0 -1 29810
+D3
+~
+~
+0 -1 29814
+R M 0 29800 12 29811
+R M 0 29802 1 29811
+S
+#29812
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D3
+~
+~
+0 0 29806
+S
+#29813
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D3
+~
+~
+0 -1 29811
+R M 0 29801 10 29813
+R O 0 29800 0 29813
+S
+#29814
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D1
+~
+~
+0 -1 29811
+R M 0 29801 10 29814
+R O 0 29801 0 29814
+S
+#29815
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D3
+~
+~
+0 -1 29810
+R M 0 29801 10 29815
+R O 0 29803 0 29815
+S
+#29816
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D1
+~
+~
+0 -1 29810
+R M 0 29801 10 29816
+R O 0 29802 0 29816
+S
+#29817
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D3
+~
+~
+0 -1 29809
+R M 0 29801 10 29817
+R O 0 29805 0 29817
+S
+#29818
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D1
+~
+~
+0 -1 29809
+R M 0 29801 10 29818
+R O 0 29804 0 29818
+S
+#29819
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D3
+~
+~
+0 -1 29808
+R M 0 29801 10 29819
+R O 0 29807 0 29819
+S
+#29820
+Tall Grass~
+~
+You are standing in tall grass that leads to a slope into the
+forests surrounding the lake.  You hear the happy shouts of
+water nymphs all around you.
+~
+1 0 8
+D1
+~
+~
+0 -1 29808
+R M 0 29801 10 29820
+R O 0 29806 0 29820
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

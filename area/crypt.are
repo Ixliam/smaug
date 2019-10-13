@@ -1,0 +1,1352 @@
+#AREA        The Crypt~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2901
+vicar~
+the Vicar~
+The vicar sleeps happily here, better not wake him up.
+~
+The vicar look happy when he sleeps, better not wake him.
+~
+0
+Clanname none~
+0
+0
+3 4096 600 C
+48 3 -18 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2902
+nun~
+a Nun~
+A nun smiles at you. 
+~
+The nun smiles and looks back at you.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+25 -1 -7 4d5+110 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2903
+Settra tomb king~
+settra the Tomb King~
+The Tomb King stands here looking at you behind his rotting bandage.
+~
+Those bandages are becoming a bit old, not mentioning his breath, phew!
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+50 3 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2904
+Heinrich count~
+heinrich Count of Death~
+`GHeinrich The Count of Death draws his weapon and laughs.`x
+~
+Heinrich looks back at you with his terrible green eyes.
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+50 5 -19 5d9+275 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2905
+skeleton~
+a Skeleton~
+The skeleton stands here grinning and champing with its teeth.
+~
+The skeleton shouts and points at you with a bony finger.
+~
+0
+Clanname none~
+0
+0
+33 0 -200 C
+25 5 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2906
+mummy~
+a Mummy~
+A mummy stands here breathing through its decomposing chest.
+~
+The rotting veins creaks as the mummy turns his head to look at you 
+with its empty eye sockets.
+~
+0
+Clanname none~
+0
+0
+1 512 -200 C
+38 1 -13 5d6+230 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2907
+zombie~
+a Zombie~
+A Zombie walks towards you with its hands aiming for your throat.
+~
+The sight of worms burrowing through its rotting eyes makes you want 
+to run away.
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+18 -1 -3 3d5+82 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2908
+bat~
+a Bat~
+A giant bat dives towards you showing his sharp white teeth.
+~
+The giant bat almost the size of a dog, with white razor sharp teeth
+and black leathery wings. The bat dives at you neck! Take cover!
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+28 1 -8 5d5+125 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2909
+snake~
+a Snake~
+A long enormous snake slithers across the floor in hunt of rats.
+~
+The snake looks back at you with its pale eyes.
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+24 -1 -6 4d5+105 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2910
+spider~
+a Spider~
+A giant hairy spider hangs in a web just above you.
+~
+The spider looks back at you with its eight eyes.
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+18 5 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2911
+black rat~
+a Black Rat~
+A giant black rat scuttles over the floor as you approaches.
+~
+The rat looks back at you with his red eyes, before showing its yellow teeth.
+~
+0
+Clanname none~
+0
+0
+5 512 0 C
+17 -1 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2912
+ghost~
+a Ghost~
+A ghost is hovering before you making a scary grimace. 
+~
+Oh well that's it, you'll have nightmares for the rest of your life.
+~
+0
+Clanname none~
+0
+0
+1 512 -200 C
+22 1 -5 4d5+100 4d4+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2913
+bell-ringer~
+the Bell-ringer~
+The bell-ringer stands here waiting eagerly to strike the bell.
+~
+The bell ringer looks a lot like Marty Feldman, if you know who that is...
+~
+0
+Clanname none~
+0
+0
+129 0 200 C
+38 1 -13 5d6+230 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2914
+necromancer~
+a Necromancer~
+A necromancer stands here preparing to cast a spell on you.
+~
+The necromancer's dark evil eyes examines you closely.
+~
+0
+Clanname none~
+0
+0
+1 512 -400 C
+40 -1 -13 5d6+230 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2915
+stork~
+a large stork~
+A large stork is defending his nest from intruders like you.
+~
+The stork dives towards you in anger.
+~
+0
+Clanname none~
+0
+0
+33 524288 0 C
+17 -1 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2916
+ghoul~
+a ghoul~
+A ghoul is leaning over a dead body, chewing on its head.
+~
+The goul looks back at you and wants you as breakfast.
+~
+0
+Clanname none~
+0
+0
+5 512 -400 C
+27 1 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2917
+zombie dragon~
+the Zombie Dragon~
+The zombie dragon lies here.
+~
+The dragon looks at you with its empty eyes sockets,
+the sight almost makes you want to throw up.
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+50 5 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2918
+believer~
+a believer~
+A believer sits here praying.
+~
+The believer is too busy to notice you.
+~
+0
+Clanname none~
+0
+0
+5 0 600 C
+21 -1 -5 4d5+90 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2919
+adventurer~
+an adventurer~
+An adventurer just like you is here searching for treasures.
+~
+The adventurer appears to be quite insane.
+~
+0
+Clanname none~
+0
+0
+129 0 200 C
+38 1 -13 5d6+230 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2920
+gardener~
+the Gardener~
+The gardener does some gardening.
+~
+The gardener shows you one of his favorite flowers, awwww ain't it nice.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+36 5 -13 5d6+235 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2901
+sword bones~
+`#`wa Sword of `WB`wo`Wn`we`Ws`^~
+A weapon made of yellow bone lies here.~
+~
+5 1 4
+4 62 76 64 0 0 0
+1 1231 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2902
+mace vicar~
+`#`wThe `WVicar's `sMace`^~
+A white mace with a cross on it lies here.~
+~
+5 256 4
+1 62 76 256 0 0 0
+1 1234 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2903
+sword bloodbane~
+`#`sThe `rBlood`sbane`^~
+A black sword is lying in a pool of blood.~
+~
+5 16 4
+3 62 76 0 0 0 0
+1 1324 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2904
+club~
+a brass club~
+A heavy looking club made of brass lies here.~
+~
+5 0 4
+2 46 59 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2905
+book bible holy scriptures~
+a book of holy scriptures~
+A nice looking holy book lies here.~
+~
+8 0 8
+2 2 4 0 0 0 0
+1 1234 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2906
+scimitar~
+a rusty scimitar~
+A rusty scimitar lies here.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 1234 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2907
+ring~
+heinrich's ring~
+A great ruby ring with small bat wings set around it lies here.~
+~
+8 0 8
+9 9 9 0 0 0 0
+1 782 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2908
+flail~
+a rusty flail~
+A rusty flail lies here.~
+~
+5 2 4
+4 17 25 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2909
+mace~
+`#`wa `rr`su`rn`se `wcovered `smace`^~
+A mace covered with lots of strange runes on it lies here.~
+~
+5 128 4
+5 46 59 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2910
+armour death plate thorax~
+`#`sthe `sdeath plate`^~
+The thorax of some giant bird lies here.~
+~
+9 32 8
+40 40 12 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2911
+key~
+a small golden key~
+A small golden key lies here.~
+~
+18 1 16
+0 0 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2912
+holy symbol~
+`#`wa `Yg`yo`Yl`yd`Ye`yn `Wh`wo`Wl`wy `wsymbol`^~
+A golden holy symbol lies here.~
+~
+8 1 8
+6 6 7 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2913
+key~
+a rusty key~
+A rusty key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2914
+mushroom~
+white mushrooms~
+Some small white mushrooms are here.~
+~
+19 0 16
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2915
+sword hope~
+`#`wthe `ssword `wof `Rh`rope`^~
+A sword with a heart at it's pommel lies here.~
+~
+5 1 4
+2 46 59 64 0 0 0
+1 765 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2916
+secateurs~
+a pair of secateurs~
+A pair of secateurs lies here.~
+~
+5 0 4
+4 38 51 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2901
+Church entrance.~
+~
+You are stand at an open gate. Beyond the gate a path leads eastward 
+to a small stone church with a square tower and a slate roof. A rare 
+species of ivy crawls over sections of the wall framing the coloured 
+glass windows with ragged patches of green. To the south you see a 
+ancient churchyard with its tombstones and white monuments.
+~
+1 1024 2
+D1
+A path towards the church goes to the east
+~
+~
+0 -1 2902
+D2
+A path stretches south to the churchyard
+~
+~
+0 -1 2930
+D3
+~
+~
+0 0 3098
+S
+#2902
+Path.~
+~
+You are standing in the path between the gate and the church.
+~
+1 0 2
+D1
+A path 
+~
+~
+0 -1 2903
+D3
+A path goes to the church entrance
+~
+~
+0 -1 2901
+R M 0 2920 1 2902
+  R E 0 2905 0 16
+R M 0 2920 1 2902
+  R E 0 2916 0 16
+S
+#2903
+Vestibule~
+~
+You are standing in the vestibule of the church. To the west the 
+way leads out to a path. To the east some doors lead out to the nave 
+and to the north. The odor of candle wax and wood polish flows out 
+from the nave.
+~
+1 8 0
+D0
+To the stairs
+~
+~
+1 -1 2931
+D1
+Entrance to the nave
+~
+~
+0 -1 2904
+D3
+A path leads out of the church
+~
+~
+0 -1 2902
+S
+#2904
+West Nave.~
+~
+You are standing in the west end of the nave, coloured light filters 
+through the windows and splashes among pews and columns. Most of the 
+walls are covered by ancient wall paintings picturing all sorts of 
+heavenly creatures.
+~
+1 8 0
+D1
+The east nave
+~
+~
+0 -1 2905
+D3
+Entrance to the vestibule
+~
+~
+0 -1 2903
+R M 0 2918 5 2904
+S
+#2905
+East Nave.~
+~
+You are standing in the east end of the nave.
+A transept wing opens to the north. A platform with an altar rises 
+to the east. You see a large cross hanging above the altar.
+~
+1 8 0
+D1
+The altar.
+~
+~
+0 -1 2906
+D3
+The west nave
+~
+~
+0 -1 2904
+R M 0 2902 2 2905
+  R E 0 2905 0 17
+R M 0 2918 3 2905
+S
+#2906
+The Altar.~
+~
+You are standing on a platform and upon it stands a stone altar under a 
+large bright coloured window. The nave stretches out to the west. Narrow 
+openings are in the walls to north and south.
+~
+1 8 0
+D0
+A corridor
+~
+~
+0 -1 2907
+D2
+The staircase down to the crypt
+~
+~
+0 -1 2909
+D3
+The east nave
+~
+~
+0 -1 2905
+S
+#2907
+A dimly lit corridor.~
+~
+You are standing in a dim curving corridor. You hear a loud snoring 
+behind a door to the north. A large wool carpet covers the chilly 
+stone floor.
+~
+1 8 0
+D0
+The vicar's room
+~
+~
+0 -1 2908
+D2
+The altar
+~
+~
+0 -1 2906
+S
+#2908
+Vicar's Room~
+~
+You are standing in a small room cluttered with small cute trappings.
+A man with a long black robe sits asleep on a comfortable couch, 
+snoring very loudly. He must be the vicar. The only exit is to the 
+south.
+~
+1 8 0
+D2
+A corridor
+~
+~
+0 -1 2907
+R M 0 2901 1 2908
+  R E 0 2902 0 16
+  R E 0 2912 0 17
+S
+#2909
+In a Staircase~
+~
+You are in a cylindrical room containing a spiral stone staircase.
+Lots of small white candles light up the room. You see a narrow opening 
+to the north.
+~
+1 8 0
+D0
+You see a altar to the north
+~
+~
+0 -1 2906
+D5
+Staircase to the crypt
+~
+~
+0 -1 2910
+S
+#2910
+The Cellar~
+~
+You are at the bottom of a spiral stone staircase. You see a narrow 
+curving passage leads into darkness to the north. A cold musty odour 
+flows out from the darkness.
+~
+1 9 0
+D0
+The Crypt entrance
+~
+~
+0 -1 2911
+D4
+Staircase to the church
+~
+~
+0 -1 2909
+S
+#2911
+Crypt Entrance~
+~
+You are standing in the crypt entrance. There is a narrow passage 
+leading south. An ancient steel door blocks your way to the north.
+There are dark chambers off to the east and west.
+~
+1 9 0
+D0
+You see a door to the north
+~
+~
+1 2911 2914
+D1
+Side chamber
+~
+~
+0 -1 2912
+D2
+Side chamber
+~
+~
+0 -1 2910
+D3
+Staircase to the church
+~
+~
+0 -1 2913
+S
+#2912
+Side Chamber.~
+~
+You are standing in a side chamber of the crypt next to a huge 
+sarcophagus. Cob webs covers the mossy stone walls. The only exit 
+is to the west.
+~
+1 9 0
+D3
+Crypt entrance
+~
+~
+0 -1 2911
+R M 0 2909 1 2912
+S
+#2913
+Side Chamber.~
+~
+You are standing in a sidechamber of the crypt next to a huge sarcophagus.
+Cob webs covers the mossy stone walls. The only exit is to the east.
+~
+1 9 0
+D1
+Crypt entrance
+~
+~
+0 -1 2911
+S
+#2914
+Central aisle.~
+~
+You are standing in the central aisle of the crypt, surrounded by an eerie 
+darkness. Green moss covers the ancient stone walls. There are dark chambers 
+off to the west and east.
+~
+1 9 0
+D0
+You see a hall to the north
+~
+~
+0 -1 2915
+D1
+You see a dark chamber to the east
+~
+~
+0 -1 2918
+D2
+Crypt entrance
+~
+~
+1 -1 2911
+D3
+You see a dark chamber to the east
+~
+~
+0 -1 2917
+R M 0 2919 1 2914
+  R E 0 2915 0 16
+S
+#2915
+Hall.~
+~
+You are standing in a large room. Moldering hangings cover the chill walls.
+From a wall an enormous portrait of an tall and elegantly clad man glares
+down at you. There's a brass plate under the painting. You see a stone 
+staircase going down and a way to the south.
+~
+1 9 0
+D2
+Central aisle
+~
+~
+0 -1 2914
+D5
+You see the beginning of a corridor at the end of the stairs
+~
+~
+0 -1 2916
+R M 0 2907 2 2915
+  R E 0 2908 0 16
+R M 0 2912 1 2915
+E
+brass plate~
+You rub away the dust from the plate and read:
+
+ `D Heinrich von Liech - Count of Death`x~
+E
+portrait~
+The count looks like a handsome man, but there's something feral and 
+predatory about his features. On his fingers you see a great ruby ring 
+set among black bat wings.
+~
+S
+#2916
+A gloomy corridor.~
+~
+You are standing in a gloomy corridor. Yellow boned skeletons stand 
+alongside the grey withering stone walls. You can go east or up the 
+stairs. You think you see some light further ahead...You hear some 
+chanting to the east. 
+~
+1 8 0
+D1
+You see some light to the east
+~
+~
+0 -1 2919
+D4
+Stairs to hall
+~
+~
+0 -1 2915
+R M 0 2910 5 2916
+  R E 0 2906 0 16
+S
+#2917
+Side Chamber~
+~
+You are standing in a side chamber of the crypt next to a huge 
+sarcophagus. You try to open it but the lid remains closed. The 
+only exit is to the east. Small mushrooms grow in a dark and moist 
+corner of the room.
+~
+1 9 0
+D1
+Central aisle
+~
+~
+0 -1 2914
+R O 0 2914 0 2917
+S
+#2918
+Side Chamber~
+~
+You are standing in a sidechamber of the crypt next to a huge 
+sarcophagus. You try to open it but the lid remains closed. The 
+only exit is to the west.
+~
+1 9 0
+D3
+Central aisle
+~
+~
+0 -1 2914
+R M 0 2909 1 2918
+S
+#2919
+Sacrificial room.~
+~
+You are standing in a room, black candles are placed alongside the 
+walls spreading their yellow sick light. A black stone altar rises 
+at the northern end of the room. A staircase leads down into utter 
+darkness. A corridor stretches to the west. A foul stench of decay 
+and corruption rises out from the darkness.
+~
+1 8 0
+D3
+You see a corridor to the west
+~
+~
+0 -1 2916
+D5
+A staircase into darkness...
+~
+~
+0 -1 2920
+R M 0 2914 1 2919
+  R G 0 2913 0
+S
+#2920
+Staircase.~
+~
+You stand on the top of the staircase, leading down into utter darkness,
+you wonder what hideous things live down there. The foul stench gets 
+stronger.
+~
+1 8 0
+D4
+You see some light at the beginning of the stairs
+~
+~
+0 -1 2919
+D5
+Down into darkness...
+~
+~
+0 -1 2921
+S
+#2921
+The Bottom of the Staircase.~
+~
+You stand at the bottom of this giant staircase. A pair of rats looks at 
+you with their glowing small red eyes. A foul stench flows from the east. 
+You see a door to the north.
+~
+1 9 0
+D0
+You see a door to the north
+~
+~
+1 -1 2922
+D1
+Side chamber
+~
+~
+0 -1 2924
+D4
+Up the stairs
+~
+~
+0 -1 2920
+R M 0 2911 3 2921
+S
+#2922
+Hall~
+~
+You are standing in enormous hall. Firmly mounted torches expose the wet 
+and moldy walls. You hear water drip from some unseen roof. Large statues 
+of long forgotten kings look upon you with their stony gaze. It smells like 
+smoke in here.
+~
+1 8 0
+D0
+You see a large metal door to the north
+~
+~
+1 2913 2923
+D2
+To the stairs
+~
+~
+0 -1 2921
+R M 0 2917 1 2922
+S
+#2923
+Heinrich's Chamber~
+~
+You are in chamber of Heinrich, the Count of Death. A huge throne made of
+skulls and other bone parts sits in the centre of the room and upon it rests 
+Heinrich. He doesn't notice you at first, but your trembling makes him 
+annoyed. 
+~
+1 8 0
+D2
+You see a large hall to the south
+~
+~
+0 -1 2922
+R M 0 2904 1 2923
+  R E 0 2903 0 16
+  R E 0 2910 0 5
+  R E 0 2907 0 2
+S
+#2924
+Side Chamber.~
+~
+You stand in a sidechamber of the crypt next to a sarcophagus. The stench 
+of decay is overwhelming. The remains of a poor unfortunate adventurer like 
+you lies scattered on the ground. Small mushrooms grow in a dark corner of 
+the room. The only exit is to the west. There's a light breeze from the 
+north...
+~
+1 9 0
+D0
+~
+~
+1 -1 2925
+D3
+To the bottom of the stairs
+~
+~
+0 -1 2921
+R M 0 2907 2 2924
+  R E 0 2908 0 16
+S
+#2925
+A secret passage.~
+~
+You are standing in a secret passage going north. Cobwebs and moss covers 
+the grey stone walls. A thick layer of dust covers the floor making the air 
+stuffy and dry. The passage stretches further north.
+~
+1 9 0
+D0
+The passage stretches further north
+~
+~
+0 -1 2926
+D2
+To the side chamber
+~
+~
+0 -1 2924
+R M 0 2910 1 2925
+S
+#2926
+A secret passage.~
+~
+You have come to a point where the passage splits in two directions:
+to the east and to the west. You see some light to the west.
+~
+1 9 0
+D2
+Another passage
+~
+~
+0 -1 2925
+D3
+and another
+~
+~
+0 -1 2927
+R M 0 2908 1 2926
+R M 0 2910 1 2926
+S
+#2927
+A secret passage.~
+~
+You are standing in a passage, there is a light in front of you. Strange 
+ancient hieroglyphics are engraved in the walls. You hear sounds of 
+scampering rats. There are exits to the east and north.
+~
+1 9 0
+D0
+The Tomb
+~
+~
+0 -1 2929
+D1
+You see a passage to the east
+~
+~
+0 -1 2926
+R M 0 2911 2 2927
+S
+#2929
+The Tomb.~
+~
+You are standing in a tomb.
+Red sick light radiates from a large black chandelier hanging in the 
+ceiling. A huge sarcophagus stands in the middle of the room. The ceiling 
+is covered with black bats looking down at you with their blood red eyes.
+As you walk forth the lid of the sarcophagus is thrown away by some magical 
+force, and out of it rises a mummy so big that he casts you in shadows.
+You feel a very strong motivation to run away.
+~
+1 8 0
+D2
+You see a passage to the south
+~
+~
+0 -1 2927
+R M 0 2903 1 2929
+  R E 0 2901 0 16
+R M 0 2908 6 2929
+R M 0 2906 2 2929
+  R E 0 2909 0 16
+S
+#2930
+The Churchyard.~
+~
+You are in the churchyard. Lots of beautiful flowers decorate the dull 
+tombstones and monuments. There are some nuns here taking care of the 
+graves. The only exit is to the north.
+~
+1 0 2
+D0
+You see a path that leads to the church entrance
+~
+~
+0 -1 2901
+R M 0 2902 3 2930
+  R E 0 2905 0 17
+S
+#2931
+Staircase.~
+~
+You are standing in a cylindrical room containing a spiral staircase 
+going up to the tower bell. A wooden door leads out to the vestibule.
+~
+1 8 0
+D2
+You see an open door that leads out to the vestibule
+~
+~
+1 -1 2903
+D4
+You see a staircase going upwards
+~
+~
+0 -1 2932
+S
+#2932
+The tower.~
+~
+You are standing in the tower. What a view! A large bell made of brass 
+hangs here. You see some nuns in the churchyard below. A large stork 
+have it's nest here and doesn't like your intrusion.
+~
+1 0 0
+D5
+You see some stairs going down
+~
+~
+0 -1 2931
+R M 0 2913 1 2932
+  R E 0 2904 0 16
+R M 0 2915 1 2932
+  R G 0 2911 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

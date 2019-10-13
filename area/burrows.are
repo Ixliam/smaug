@@ -1,0 +1,887 @@
+#AREA        The Outland Burrows~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#42400
+large turkey gobbling~
+a gobbling turkey~
+A gobbling turkey waddles about here.
+~
+This wild turkey has a dark, iridescent body.  Its feathers are black with 
+brown stripes and are barred with white.  It has red wattles, a caruncle, 
+and a blackish breast tuft.  It waddles about, making gobbling sounds.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+11 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42401
+pheasant~
+a pheasant~
+A pheasant pecks at the ground.
+~
+This pheasant has red wattles on the sides of itss face and has a strong 
+beak.  Its feathers are a rainbow of brilliant reds and golden yellows with 
+a white chest.  It pecks at the ground, foraging for food.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+11 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42402
+no name~
+a ground squirrel~
+A ground squirrel scurries over the hill.
+~
+This ground squirrel is small with brown fur and nine rows of squarish white 
+spots on its back.  It has a whitish belly, small, round ears and a bushy 
+tail.  It scurries over the hills looking for food.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42403
+brown hare~
+a brown hare~
+A brown hare hops about inside its burrow.
+~
+This hare has especially long ears and large hind feet.  Its are furry and 
+its upper body is greyish brown, while the underparts are lighter colored.  
+It hops about inside its burrow.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42404
+black mole~
+a black mole~
+A black mole is burrowing into the ground.
+~
+This black mole has a long, tapering snout and has small, barely noticeable 
+eyes.  It has a short neck, and muscular forelegs with heavily clawed feet.  
+It is digging a hole in the ground.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42405
+furry opossum~
+a furry opossum~
+A furry opossum hangs upside down from a tree.
+~
+This furry opossum has a long, scaly tail and short, black, leathery ears.  
+Its snout is long and slender.  It hangs from a tree, upside down, peering 
+about with large brown eyes.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42406
+short-tailed shrew~
+a short-tailed shrew~
+A short-tailed shrew digs a tunnel in the dirt.
+~
+This shrew has an unusually short tail, and has a brown back with a slightly 
+lighter underbelly.  It has a relatively short, broad nose.  Using its sharp 
+claws, it digs a tunnel through the dirt.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42407
+sly fox~
+a sly fox~
+A fox stealthily creeps through the long grass.
+~
+The hair along the middle of the fox's back and tail is tipped in black and 
+has the appearance of a black mane.  It has a grey tail and white 
+under-belly.  It stealthily creeps through the long grass looking for prey.  
+
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#42408
+grey-fox grey fox~
+a grey fox~
+A grey fox sleeps in the long grass.
+~
+This small fox has greyish-red fur and yellowish brown ears.  Its tail is a 
+buff grey with a black tip.  It sleeps, curled into a ball, in the long 
+grass.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#42400
+tall oak tree~
+a tall oak tree~
+A tall oak tree casts patterns of shade across the field.~
+~
+12 0 8
+0 7340032 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42401
+plucked large turkey~
+a large turkey~
+A plucked turkey lies here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42402
+opossum hat fur~
+an `#`Sopossum fur`^ hat~
+An `#`Sopossum fur`^ hat lies here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42403
+pair fox skin boots~
+a pair of `#`yfox skin`^ boots~
+A pair of `#`yfox skin`^ boots lie here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 85 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42404
+grey fox fur cloak~
+a `#`Sgrey fox`^ fur cloak~
+A `#`Sgrey fox`^ fur cloak lies here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 92 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42405
+hare hide pouch~
+a `#`yhare-hide`^ pouch~
+A `#`yhare-hide`^ pouch has been left here.~
+~
+15 0 8
+1 0 5 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+42405 pouch~
+This pouch is a small one, very small.
+~
+#42406
+pheasant plucked~
+a small pheasant~
+A plucked pheasant is here, ready to be roasted.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42407
+acorn nuts~
+some acorn nuts~
+Some acorn nuts lie scattered here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#42400
+Standing Over a Wide Mole Hill~
+~
+You stand on a hill where a large hole has been dug, probably by a mole.  
+Creatures move through the long grass, some stalking prey, others burrowing 
+out holes to live in.  A warm breeze blows over the hills, ruffling the long 
+grass, and making the leaves on the trees tremble slightly.  The hole leads 
+downwards.  
+~
+1 0 2
+D1
+~
+~
+0 0 42403
+D2
+~
+~
+0 0 42405
+D5
+~
+~
+0 0 42417
+D8
+~
+~
+0 0 42402
+S
+#42401
+Standing Over a Large Mole Hill~
+~
+Hills, carpeted with green, stretch before you.  Creatures move through the 
+long grass, some stalking prey, others burrowing out holes to live in.  A 
+warm breeze blows over the hills, ruffling the long grass, and making the 
+leaves on the trees tremble slightly.  A hole has been dug in the ground 
+here, and is probably the home of a mole.  
+~
+1 0 2
+D0
+~
+~
+0 0 42402
+D1
+~
+~
+0 0 42404
+D5
+~
+~
+0 0 42416
+S
+#42402
+A Grass-Swept Hill~
+~
+Hills swept with grass stretch out in all directions.  Creatures move 
+through the long grass, some stalking prey, others burrowing out holes to 
+live in.  A warm breeze blows over the hills, ruffling the long grass, and 
+making the leaves on the trees tremble slightly.  
+~
+1 0 2
+D1
+~
+~
+0 0 42405
+D2
+~
+~
+0 0 42401
+D6
+~
+~
+0 0 42400
+R M 0 42402 2 42402
+  R G 0 42407 0
+S
+#42403
+A Grass-Carpeted Hill~
+~
+A grass-carpeted hill stretches before you.  Creatures move through the long 
+grass, some stalking prey, others burrowing out holes to live in.  A warm 
+breeze blows over the hills, ruffling the long grass, and making the leaves 
+on the trees tremble slightly.  
+~
+1 0 2
+D1
+~
+~
+0 0 42406
+D2
+~
+~
+0 0 42408
+D3
+~
+~
+0 0 42400
+R M 0 42402 2 42403
+  R G 0 42407 0
+S
+#42404
+Standing Over a Wide Tunnel~
+~
+A tunnel has been burrowed into the ground on this hill.  Creatures move 
+through the long grass, some stalking prey, others burrowing out holes to 
+live in.  A warm breeze blows over the hills, ruffling the long grass, and 
+making the leaves on the trees tremble slightly.  The tunnel leads 
+downwards, into the soil.  
+~
+1 0 2
+D0
+~
+~
+0 0 42405
+D1
+~
+~
+0 0 42407
+D3
+~
+~
+0 0 42401
+D5
+~
+~
+0 0 42415
+D7
+~
+~
+0 0 42421
+S
+#42405
+A Small Hill~
+~
+You stand upon a small hill, and looking out, you see a vast stretch of 
+thick green hills.  Creatures move through the long grass, some stalking 
+prey, others burrowing out holes to live in.  A warm breeze blows over the 
+hills, ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42400
+D1
+~
+~
+0 0 42408
+D2
+~
+~
+0 0 42404
+D3
+~
+~
+0 0 42402
+R M 0 42400 3 42405
+  R G 0 42401 0
+R M 0 42400 3 42405
+R M 0 42400 3 42405
+S
+#42406
+A Hilly Tussock~
+~
+The hilly tussock you stand on is covered with thick, long green grass.  
+Creatures move through the grass, some stalking prey, others burrowing out 
+holes to live in.  A warm breeze blows over the hills, ruffling the long 
+grass, and making the leaves on the trees tremble slightly.  
+~
+1 0 2
+D2
+~
+~
+0 0 42411
+D3
+~
+~
+0 0 42403
+D7
+~
+~
+0 0 42420
+R M 0 42407 2 42406
+  R G 0 42403 0
+S
+#42407
+A Grassy Meadow~
+~
+A vast meadow stretches before you, covering the land with curves of thick 
+green.  Creatures move through the long grass, some stalking prey, others 
+burrowing out holes to live in.  A warm breeze blows over the hills, 
+ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42408
+D1
+~
+~
+0 0 42410
+D2
+~
+~
+0 0 42421
+D3
+~
+~
+0 0 42404
+R M 0 42401 3 42407
+  R G 0 42406 0
+R M 0 42401 3 42407
+S
+#42408
+Standing Over a Small Hole~
+~
+Looking at the ground on this hill you notice a small hole has been dug into 
+the soil.  Creatures move through the long grass, some stalking prey, others 
+burrowing out holes to live in.  A warm breeze blows over the hills, 
+ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42403
+D1
+~
+~
+0 0 42411
+D2
+~
+~
+0 0 42407
+D3
+~
+~
+0 0 42405
+D5
+~
+~
+0 0 42414
+S
+#42409
+Over the Hill~
+~
+You stand in a slight valley between two hills.  In all directions the grass 
+grows green and thick.  Creatures move through the long grass, some stalking 
+prey, others burrowing out holes to live in.  A warm breeze blows over the 
+hills, ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42410
+D1
+~
+~
+0 0 42418
+D3
+~
+~
+0 0 42421
+S
+#42410
+Standing Over a Mole Hill~
+~
+A mole hill stands on the hill here, and you hear snuffling sounds coming 
+from beneath it.  Creatures move through the long grass, some stalking prey, 
+others burrowing out holes to live in.  A warm breeze blows over the hills, 
+ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42411
+D1
+~
+~
+0 0 42419
+D2
+~
+~
+0 0 42409
+D3
+~
+~
+0 0 42407
+D5
+~
+~
+0 0 42413
+R M 0 42401 3 42410
+S
+#42411
+Standing Over a Narrow Burrow~
+~
+On this hill of lush green grass, a burrow for a rabbit or hare has been dug 
+into the side of the hill.  Creatures move through the long grass, some 
+stalking prey, others burrowing out holes to live in.  A warm breeze blows 
+over the hills, ruffling the long grass, and making the leaves on the trees 
+tremble slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42406
+D1
+~
+~
+0 0 42420
+D2
+~
+~
+0 0 42410
+D3
+~
+~
+0 0 42408
+D5
+~
+~
+0 0 42412
+R M 0 42408 1 42411
+  R G 0 42404 0
+S
+#42412
+Inside a Hare's Burrow~
+~
+~
+1 4 11
+D4
+~
+~
+0 0 42411
+R M 0 42403 2 42412
+S
+#42413
+Inside a Mole Hill~
+~
+~
+1 4 11
+D4
+~
+~
+0 0 42410
+R M 0 42404 4 42413
+S
+#42414
+Inside a Hare's Burrow~
+~
+~
+1 4 11
+D4
+~
+~
+0 0 42408
+R M 0 42403 2 42414
+  R G 0 42405 0
+S
+#42415
+Inside a Tunnel~
+~
+~
+1 4 11
+D3
+~
+~
+0 0 42416
+D4
+~
+~
+0 0 42404
+D5
+~
+~
+0 0 80564
+R M 0 42406 1 42415
+R M 0 80545 2 42415
+S
+#42416
+Inside a Mole Hill~
+~
+~
+1 4 11
+D1
+~
+~
+0 0 42415
+D4
+~
+~
+0 0 42401
+R M 0 42404 4 42416
+R M 0 42404 4 42416
+S
+#42417
+Inside a Mole Hill~
+~
+~
+1 4 11
+D4
+~
+~
+0 0 42400
+R M 0 42404 4 42417
+S
+#42418
+A Crop of Hills~
+~
+A vast crop of hills stretch before you, covering the land with curves of 
+thick green.  Creatures move through the long grass, some stalking prey, 
+others burrowing out holes to live in.  A warm breeze blows over the hills, 
+ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42419
+D3
+~
+~
+0 0 42409
+D7
+~
+~
+0 0 33001
+S
+#42419
+A Stretch of Hills~
+~
+You stand on a stretch of hills covering the land with curves of thick 
+green.  Creatures move through the long grass, some stalking prey, others 
+burrowing out holes to live in.  A warm breeze blows over the hills, 
+ruffling the long grass, and making the leaves on the trees tremble 
+slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42420
+D2
+~
+~
+0 0 42418
+D3
+~
+~
+0 0 42410
+R M 0 42407 2 42419
+S
+#42420
+A Grass-Covered Hill~
+~
+A tall oak tree casts patterns of shade across the field.  Creatures move 
+through the long grass, some stalking prey, others burrowing out holes to 
+live in.  A warm breeze blows over the hills, ruffling the long grass, and 
+making the leaves on the trees tremble slightly.  
+~
+1 0 2
+D2
+~
+~
+0 0 42419
+D3
+~
+~
+0 0 42411
+D9
+~
+~
+0 0 42406
+R M 0 42405 1 42420
+  R G 0 42402 0
+R O 0 42400 0 42420
+S
+#42421
+A Small Hill~
+~
+You stand on a small hill, overlooking a stretch of more hills.  Creatures 
+move through the long grass, some stalking prey, others burrowing out holes 
+to live in.  A warm breeze blows over the hills, ruffling the long grass, 
+and making the leaves on the trees tremble slightly.  
+~
+1 0 2
+D0
+~
+~
+0 0 42407
+D1
+~
+~
+0 0 42409
+D9
+~
+~
+0 0 42404
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

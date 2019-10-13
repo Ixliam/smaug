@@ -1,0 +1,962 @@
+#AREA        Tulgard Park~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#4400
+goldfish~
+a goldfish~
+A shimmering goldfish darts about the water.
+~
+This small fish is bright shiny gold in color, and has big round eyes.  It 
+is swimming happily about the small pond.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4401
+park caretaker~
+the caretaker~
+The park caretaker is here, tending to his work.
+~
+This middle aged human man has a few days growth of beard, and is wearing 
+dirty clothing.  He appears to be responsible for taking care of the park.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4402
+ferocious little badger~
+a ferocious little badger~
+A ferocious little badger sits here, guarding its burrow. 
+~
+This creature is small, but nvertheless looks quite tough.  It is glaring ar 
+you now, and baring its sharp teeth.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4403
+butterfly~
+a butterfly~
+A butterfly flutters about from flower to flower.
+~
+This gold and silver butterfly is flitting around from flower to flower. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4404
+bluebird bird~
+a bluebird~
+A bluebird is perched here.
+~
+This bird is mostly blue in color, but with a little black and white also.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4405
+small rabbit~
+a small rabbit~
+A small rabbit is nibbling on a leaf here.
+~
+This small rabbit is brown in color and is quite fluffly.  It sits here 
+nibbling on a leaf.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+3 0 7 1d5+3 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4406
+small brown sparrow bird~
+a small brown sparrow~
+A small brown sparrow hops about here looking for seeds.
+~
+This small brown bird is hopping about looking for a snack.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4407
+black ant~
+a black ant~
+A black ant is here, to ruin the picnic.
+~
+This tiny black ant looks fairly harmless, though it can bite.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4408
+butterfly~
+a butterfly~
+A butterfly flutters about from flower to flower.
+~
+This gold and butterfly is flitting around, from flower to flower.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#4400
+nice little bench~
+a nice little bench~
+A nice little bench.~
+~
+12 0 8
+99999 9362 105 105 0 0 0
+3 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4400 nice little bench~
+A comfortable little bench sits along the path here.
+~
+#4401
+garden rake~
+a garden rake~
+A garden rake has been left here.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4401 garden rake~
+A sturdy garden rake.
+~
+#4402
+garden spade~
+a garden spade~
+A garden spade has been left here.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4402 garden spade~
+A small metal spade, for digging in the garden.  
+~
+#4403
+wheelbarrow~
+a wheelbarrow~
+A wheelbarrow has been left here.~
+~
+12 0 8
+9999 18724 95 95 0 0 0
+4 44 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4403 wheelbarrow ~
+A large container with wheels for moving heavy loads.
+~
+#4404
+dirty coveralls~
+some dirty coveralls~
+Some dirty coveralls have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4404 dirty coveralls~
+This dirty cotton piece of clothing has seen better days.  It is a bit 
+ragged in several places.  
+~
+#4405
+broken rake handle~
+a broken rake handle~
+A broken rake handle has been left here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 96 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4405 broken rake handle~
+This long handle was broken off just before the metal end, and is now quite 
+sharp.  It could serve as a spear in a pinch.  
+~
+#4406
+white marble statue skeel graceful woman flowing long hair~
+`#a `Wmarble statue`^ of a sleek graceful woman, with flowing long hair~
+`#`gA`^ `#`Wmarble statue`^ `#`gof a sleek graceful woman, with long flowing hair.`^~
+~
+12 0 8
+50000 66120 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4406 white marble statue sleek graceful woman flowing long hair~
+.
+The statue depicts a sleek graceful woman, with long flowing hair, sitting in a quaint garden. She is wearing a simple white gown, its subtle folds flow loosely behind her as if caught in a gentle breeze. A straw hat is cocked back on her head in a carefree manner. A small wicker basket is clutched in her hands, its brim overfilled with various wildflowers. her radiant face is turned towards the sky, a pleasant smile set firmly on her face. A small plaque is set into the base of the statue it reads:
+ 
+`W***********************************************************************
+`W*                                                                     *
+`W*    `cFarewell Hope, may our darkest hours be lit with your memory.    `W*
+`W*                                                                     *
+`W***********************************************************************
+~
+#4407
+a pearl white rose~
+a pearl `#`Wwhite`^ rose~
+A pearl `#`Wwhite`^ rose grows here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4407 pearl white rose~
+This rose blooms all along the sides of the cobblestone pathway.  Its petals 
+are a pearlish `W`#`W`#`Wwhite`^`X`^`^ `Xand glisten with a sense of radiance.  Almost holy in 
+nature it one seem, nonetheless your sure the cathedral is full of such 
+roses of this radiance.  
+~
+#0
+
+
+#ROOMS
+#4400
+Just Outside the Park Entrance~
+~
+A short brick-paved road leads east here from the main road to what looks to 
+be a nice little fenced-in park.  The decorative gates stand wide open, and 
+within you see the road become a path and split in two directions.  
+~
+1 0 1
+D1
+~
+~
+0 0 4401
+D3
+~
+~
+0 0 3055
+E
+brick road~
+A nicely made brick road.
+~
+E
+gates decorative~
+Thin metal gates, more decorative than protective.
+~
+S
+#4401
+Inside the Park Entrance~
+~
+You are just inside the decorative gates of a small park.  A brick road 
+leads east out of the park, and wide paths wander northeast and southeast 
+from here.  
+~
+1 0 1
+D1
+~
+~
+0 0 3972
+D3
+~
+~
+0 0 4400
+D6
+~
+~
+0 0 4402
+D7
+~
+~
+0 0 4403
+R O 0 2036 0 4401
+E
+wide paths~
+Neatly maintained dirt paths.
+~
+E
+gates decorative~
+Thin metal gates, more decorative than protective.
+~
+S
+#4402
+Dirt Path~
+~
+The dirt path runs southwest and north through the flowers.  A few nicely 
+trimmed trees are placed here and there.  
+~
+1 0 1
+D0
+~
+~
+0 0 4404
+D8
+~
+~
+0 0 4401
+E
+flowers trees~
+The flowers and trees are healthy and well taken care of.  
+~
+S
+#4403
+Dirt Path~
+~
+The dirt path runs northwest and south through the flowers.  A few nicely 
+trimmed trees are placed here and there.  
+~
+1 0 1
+D2
+~
+~
+0 0 4411
+D9
+~
+~
+0 0 4401
+R M 0 4404 2 4403
+E
+flowers trees~
+The flowers and trees are healthy and well taken care of.  
+~
+S
+#4404
+Dirt Path~
+~
+You are on a dirt path in a park.  Colorful flowers and trees surround you.  
+The path here turns south and east.  
+~
+1 0 1
+D1
+~
+~
+0 0 4405
+D2
+~
+~
+0 0 4402
+R M 0 4403 2 4404
+R O 0 4400 0 4404
+E
+colorful flowers trees~
+The plants are all well cared for and healthy.  
+~
+S
+#4405
+Dirt Path~
+~
+The dirt path runs east and west through the park.  Bushes and trees line 
+the northern side, while to the south is a shallow pond.  
+~
+1 0 1
+D1
+~
+~
+0 0 4406
+D2
+~
+~
+0 0 4416
+D3
+~
+~
+0 0 4404
+E
+shallow pond~
+A shallow pool full of shiny goldfish.
+~
+E
+bushes trees~
+The plant life is all very well maintained and neatly trimmed.  
+~
+S
+#4406
+Dirt Path~
+~
+You are on a dirt path in a park.  Colorful flowers and trees surround you.  
+The path here goes on towards the east and west, as well as forking south.  
+You notice that the bushes to the north appear disturbed, as if someone had 
+recently pushed their way through.  
+~
+1 0 1
+D0
+~
+bushes~
+1 0 4417
+D1
+~
+~
+0 0 4419
+D2
+~
+~
+0 0 4407
+D3
+~
+~
+0 0 4405
+R M 0 4404 2 4406
+R O 0 4400 0 4406
+E
+bushes ~
+The bushes are fairly thick along the north side of the path here, and it 
+looks like someone has forced their way through.  
+~
+E
+colorful flowers trees~
+The plants are all well cared for and healthy.  
+~
+S
+#4407
+Path Alongside the Pond~
+~
+The dirt path runs along the edge of a shallow pond to the west.  In the 
+water you can see many small fish swimming, mostly golden in color.  
+~
+1 0 1
+D0
+~
+~
+0 0 4406
+D2
+~
+~
+0 0 4408
+D3
+~
+~
+0 0 4416
+E
+shallow pond fish goldfish~
+Just a simple goldfish pond, only a few inches deep.
+~
+S
+#4408
+Path Alongside the Pond~
+~
+The dirt path runs along the edge of a shallow pond to the west.  In the 
+water you can see many small fish swimming, mostly golden in color.  
+~
+1 0 1
+D0
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4415
+E
+shallow pond fish goldfish~
+Just a simple goldfish pond, only a few inches deep.
+~
+S
+#4409
+Dirt Path~
+~
+You are on a dirt path in a park.  Colorful flowers and trees surround you.  
+The path here turns north and west.  A small grassy clearing is east.  
+~
+1 0 1
+D0
+~
+~
+0 0 4408
+D1
+~
+~
+0 0 4418
+D2
+~
+~
+0 0 4414
+D3
+~
+~
+0 0 4410
+R O 0 4400 0 4409
+E
+colorful flowers trees~
+The plants are all well cared for and healthy.  
+~
+S
+#4410
+Park Path, Just Outside a Shed~
+~
+The dirt path leads east-west through the park here.  Flowerbeds and trees 
+surround it, and to the south is a small wooden shed.  A shallow pond is 
+north.  
+~
+1 0 1
+D0
+~
+~
+0 0 4415
+D1
+~
+~
+0 0 4409
+D2
+~
+~
+1 0 4412
+D3
+~
+~
+0 0 4411
+R M 0 4406 2 4410
+E
+shallow pond~
+A shallow goldfish pond.
+~
+E
+flowerbeds trees~
+Pretty flowers of all colors, and nice little trees.  
+~
+E
+small wooden shed~
+The shed is south of here, why dont you go in and check it out?  
+~
+S
+#4411
+Dirt Path~
+~
+You are on a dirt path in a park.  Colorful flowers and trees surround you.  
+The path here turns north and east.  
+~
+1 0 1
+D0
+~
+~
+0 0 4403
+D1
+~
+~
+0 0 4410
+D2
+~
+~
+0 0 4413
+R M 0 4405 2 4411
+R O 0 4400 0 4411
+E
+colorful flowers trees~
+The plants are all well cared for and healthy.  
+~
+S
+#4412
+Caretaker's Shed~
+~
+Tools and garden implements hang all over the walls inside this small shed.  
+There is only one small window in the east wall, and the only exit is 
+through the door to the north.  
+~
+1 8 0
+D0
+~
+~
+1 0 4410
+R O 0 4401 0 4412
+R O 0 4402 0 4412
+R O 0 4403 0 4412
+R M 0 4401 1 4412
+  R E 0 4404 0 7
+  R E 0 4405 0 16
+E
+window small~
+A small window.  A rosebush has grown over the outside of it and you can't 
+see much.  
+~
+E
+tools garden implements~
+Rakes, hoes, and other garden tools.
+~
+S
+#4413
+Flowerbed~
+~
+You are in the middle of a flowerbed.  Color red and purple flowers surround 
+you, as well as a few small trees.  A shed is just to the east, but the door 
+is not on this side.  The dirt path is just north.  
+~
+1 0 0
+D0
+~
+~
+0 0 4411
+E
+shed ~
+A small wooden shed.
+~
+E
+flower red purple trees~
+The flowers and trees are all quite healthy and well cared for.  
+~
+S
+#4414
+Flowerbed~
+~
+You are in the middle of a flowerbed.  Color white and yellow flowers 
+surround you, as well as a few small trees.  A shed is just to the west, but 
+the door is not on this side.  The dirt path is just north.  
+~
+1 0 1
+D0
+~
+~
+0 0 4409
+R M 0 4403 2 4414
+E
+shed ~
+A small wooden shed.  
+~
+E
+flower white yellow trees.~
+The flowers and trees all seem to be well cared for.
+~
+S
+#4415
+Shallow Pond~
+~
+You are standing in a shallow goldfish pond.  The water is only a few inches 
+deep and is full of shiny fish.  A path travels along the edge of the pond 
+to the east and south.  
+~
+1 0 1
+D0
+~
+~
+0 0 4416
+D1
+~
+~
+0 0 4408
+D2
+~
+~
+0 0 4410
+R M 0 4400 3 4415
+E
+goldfish shiny fish~
+Small fish dart about the pool, trying to avoid you.
+~
+E
+water ~
+The clear water is quite shallow.
+~
+S
+#4416
+Shallow Pond~
+~
+You are standing in a shallow goldfish pond.  The water is only a few inches 
+deep and is full of shiny fish.  A path travels along the edge of the pond 
+to the east and north.  
+~
+1 0 1
+D0
+~
+~
+0 0 4405
+D1
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4415
+R M 0 4400 3 4416
+R M 0 4400 3 4416
+E
+goldfish shiny fish~
+Small fish dart about the pool, trying to avoid you.
+~
+E
+water ~
+The clear water is quite shallow.
+~
+S
+#4417
+Small Clearing Behind some Bushes~
+~
+You are in a small cleared area behind some bushes.  Petite trees grow in 
+such a way as to shield this area from sight from the main path.  There is a 
+hole leading down into the burrow of some animal.  
+~
+1 0 1
+D2
+~
+bushes~
+1 0 4406
+R M 0 4402 1 4417
+E
+hole burrow~
+A foot-wide hole leadining into the earth.
+~
+E
+bushes ~
+You could probably force your way through them to the south.
+~
+E
+petite trees~
+Nice little trees.
+~
+S
+#4418
+Grassy Meadow~
+~
+This small grassy area looks like a great spot for a picnic.  There is even 
+a leafy tree in the middle to provide some shade.  A path runs by a bit to 
+the west.  A luscious green meadow spreads out in the distance.  
+~
+1 0 2
+D3
+~
+~
+0 0 4409
+R M 0 4407 6 4418
+R M 0 4407 6 4418
+R M 0 4407 6 4418
+R M 0 4407 6 4418
+R M 0 4407 6 4418
+R M 0 4407 6 4418
+E
+path ~
+A dirt path, to the west.
+~
+E
+leafy tree~
+A big maple tree.
+~
+S
+#4419
+Dirt Path~
+~
+Trees and bushes surround the edge of this narrow dirt path.  The path here 
+turns south and west.  You notice what looks like a small grove just over 
+the horizon towards the south.  Birds can be heard all around singing their 
+songs in the distance.  
+~
+1 0 1
+D2
+~
+~
+0 0 4420
+D3
+~
+~
+0 0 4406
+S
+#4420
+A Beautiful Grove~
+~
+A beautiful myriad of flowers bloom in this small grove, their magnificent 
+appearance seem to flow with a gentle grace against the wind's soft touch.  
+Tree's of ancient origin grow along the rims in an embracing circle as if 
+protecting the inside of this grove, with their strong trunks.  The rustle 
+of the leaves high in the tree's seem to sing a song with their words 
+brushly gliding through in the soothing wind.  In the center of the grove 
+you notice a large marble statue standing proudly.  A small opening is to 
+the north, leading to a small road just up ahead.  
+~
+1 0 1
+D0
+~
+~
+0 0 4419
+R M 0 4408 2 4420
+R O 0 4406 0 4420
+R O 0 4407 0 4420
+E
+carving ~
+Finding my swords was a small test.. now show you're the best of the best.  
+Seek the book that allows the blade to be tempered..you'd be one of the 
+best, perhaps even remembered. 
+~
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

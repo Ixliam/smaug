@@ -1,0 +1,1978 @@
+#AREA        Kralthraz Prison~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#10200
+gate guard prison~
+gate guard~
+A large, well armed prison guard stands here, watching the door closely.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10201
+prison receptionist~
+prison receptionist~
+A receptionist sits here behind a large wooden desk.
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10202
+prison guard~
+a prison guard~
+A large, well-armed prison guard stands here, keeping order.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10203
+parole officer rozalyn~
+the parole officer~
+Rozalyn the parole officer is here to listen to your plea.
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10204
+prison guard~
+a prison guard~
+A large, burly prison guard is here, watching over the prisoners.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10205
+a rock~
+a rock~
+A rock sits here, waiting to be broken.
+~
+A rock is here, just waiting to be broken up.  `1Use the `RBreak Rock`x command.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10300
+unseen_cell_guard~
+a prison guard~
+Unseen Prison Cell Watcher
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10301
+unseen_door_opener~
+unseen door opener~
+Unseen Door Opener
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10302
+unseen_prison_opener~
+unseen prison opener~
+Unseen_prison_opener
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#10200
+ratty bed flea-ridden mattres~
+a ratty bed~
+A small flea-ridden mattress lies here.~
+~
+12 0 8
+999 1170 140 140 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10201
+prison key~
+a prison key~
+A intricate prison key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10202
+water bowl~
+a water bowl~
+A small stone bowl is in the corner full of water.~
+~
+25 0 16
+1000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10203
+prison pants~
+`#`sblack `cand `Wwhite `ss`wt`sr`wi`sp`we`sd `cprisoner pants`^~
+A pair of `#`sblack `cand `Wwhite `ss`wt`sr`wi`sp`we`sd `cprisoner pants`^ are here.~
+~
+11 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+10203 prison pants~
+PROPERTY OF KRALTHRAZ PRISON
+ 
+         CONVICT
+ 
+IF FOUND OUTSIDE PRISON
+ 
+ KILL OR REPORT THEM
+~
+#10204
+prison shirt~
+`#`sblack `cand `Wwhite `ss`wt`sr`wi`sp`we`sd `cprisoner shirt`^~
+A `#`sblack `cand `Wwhite `ss`wt`sr`wi`sp`we`sd `cprisoner's shirt`^ is here.~
+~
+11 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+10204 prison shirt~
+PROPERTY OF KRALTHRAZ PRISON
+ 
+         CONVICT
+ 
+IF FOUND OUTSIDE PRISON
+ 
+ KILL OR REPORT THEM
+~
+#10205
+prison rules sheet~
+a sheet of prison rules~
+A sheet of paper from Kralthraz Prison is here.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+10205 prison rules sheet~
+Rules of Kralthraz Prison - Disobedience Could be Death
+ 
+1. All prisoners will maintain peace and order while in the prison.
+2. Any attempt at escape will result in execution.
+3. If you are found with anything contraband (weapons, items) you
+   will be put in solitary confinement (i.e. The Hole).
+You will also be allowed to meet with your parole officer during
+   in your cell before the doors close or you will be punished severely.
+5. You will be required to work in the rock fields busting rocks for new
+   road construction. The doors will open to the rock fields, so plan on
+   being in there when they do.
+6. You will be allowed to exercise in the excercise pen. The doors will
+   open to that area at the appropriate time.
+7. You will also be allowed to meet with your parole officer and 
+   normal hours. 
+8. Visitors may be allowed provided the warden is allowing it at that time.
+ 
+Welcome to the Kralthraz Prison Complex. Making your life a living Hell.
+~
+#10206
+crate box wooden~
+a hammer crate~
+A large box with no top lies here.~
+~
+15 0 8
+0 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10207
+hammer sledge rock~
+a sledge hammer~
+A large, heavy hammer lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#10240
+Northern Wall of Prison~
+~
+The wall stretches up towards the sky with many barred windows on it.  The 
+pitch blackness of water is beneath you and the black sky is above you.  
+Lightning and thunder rip through the sky but no rain begins to fall.  
+~
+1 0 1
+D1
+~
+~
+0 0 10241
+S
+#10241
+Northern Wall of Prison~
+~
+The wall stretches up towards the sky with many barred windows on it.  The 
+pitch blackness of water is beneath you and the black sky is above you.  
+Lightning and thunder rip through the sky but no rain begins to fall.  
+~
+1 0 1
+D1
+~
+~
+0 0 10242
+D3
+~
+~
+0 0 10240
+S
+#10242
+Northern Wall of Prison~
+~
+The wall stretches up towards the sky with many barred windows on it.  The 
+pitch blackness of water is beneath you and the black sky is above you.  
+Lightning and thunder rip through the sky but no rain begins to fall.  
+~
+1 0 1
+D1
+~
+~
+0 0 10243
+D3
+~
+~
+0 0 10241
+S
+#10243
+Northern Corner of Prison~
+~
+Your floating at the northern corner of the prison.  The two stone walls 
+meet here and look to stretch for eternity in either direction.  The water 
+beneath you is black and ripples can be seen.  
+~
+1 0 1
+D3
+~
+~
+0 0 10242
+S
+#10244
+Inside the Prison~
+~
+You've just made it past the large gates.  On your left and right are 
+offices full of armed guards.  To the north is a hallway extends quite a bit 
+before branching off.  At the end of the hallway is a large metal door.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10247
+D1
+~
+~
+0 0 10245
+D3
+~
+~
+0 0 10246
+R M 0 10200 1 10244
+S
+#10245
+Guard Office~
+~
+You've entered a large office with stone walls.  There are torches placed on 
+the walls to light the room.  Spears, Swords, and armor are hanging nearby 
+on racks looking like they are just dying to be used.  There are some chairs 
+around the and a window with a quiver and bow nearby.  
+~
+1 8396800 0
+D3
+~
+~
+0 0 10244
+S
+#10246
+Receptionist Desk~
+~
+You walk into a medium sized room with many torches on the walls.  The walls 
+are covered in wooden panels and there is no window.  The walls are barren 
+and sometimes a rat can be seen scampering across the floor.  
+~
+1 8396800 0
+D1
+~
+~
+0 0 10244
+S
+#10247
+Hallway~
+~
+Your inside a large stone hallway thats not very well lit.  The floor is 
+very hard and rough, as are the walls.  They are made of grey stone and 
+there are doorways on the east and west side.  There is a large metal door 
+north of you, it is black and looks very rusted.  
+~
+1 46145544 0
+D0
+~
+door~
+33 10201 10250
+D1
+~
+~
+33 0 10248
+D2
+~
+~
+0 0 10244
+D3
+~
+~
+1 0 10249
+S
+#10248
+Storage Room~
+~
+You've entered a large stone room with many lockers placed about.  There are 
+shelves of various objects like bows and swords all locked behind a wooden 
+wall.  
+~
+1 8396800 0
+D3
+~
+~
+33 0 10247
+S
+#10249
+Change Room~
+~
+You've entered a small stone room with metal shelves attach to the walls.  
+On the shelves are many orange coloured jumpsuits.  In the center of the 
+room is a large stone bench.  There are 2 torches in the room on the north 
+and south walls that provide dim lighting.  
+~
+1 8396800 0
+D1
+~
+~
+1 0 10247
+S
+#10250
+Ground floor inside prison~
+~
+Your on the ground level of a huge stone prison.  Directly infront of you is 
+a fenced off area where the is no roof.  The only light from the sky that 
+can be seen are flashes of lightning.  To your east and west are walkways 
+with many prisoner cells on each side.  
+~
+1 46145544 0
+D1
+~
+~
+0 0 10252
+D2
+~
+door~
+33 10201 10247
+D3
+~
+~
+0 0 10251
+S
+#10251
+Ground Level~
+~
+Your on the ground level of the prison, behind you, there is a prison cell.  
+There is a walkway east and west from where you are.  The bars on the cell 
+are black and rusted.  You can see the outdoor just to the north, fenced 
+off.  
+~
+1 46145544 0
+D1
+~
+~
+0 0 10250
+D2
+~
+door~
+33 10201 10288
+D3
+~
+~
+0 0 10254
+R M 0 10202 20 10251
+S
+#10252
+Ground Level~
+~
+Your on the ground level of the prison, behind you, there is a prison cell.  
+There is a walkway east and west from where you are.  The bars on the cell 
+are black and rusted.  You can see the outdoor just to the north, fenced 
+off.  
+~
+1 46145544 0
+D1
+~
+~
+0 0 10253
+D2
+~
+door~
+33 10201 10291
+D3
+~
+~
+0 0 10250
+R M 0 10202 20 10252
+S
+#10253
+Ground Level~
+~
+Your on the ground level of the prison, behind you, there is a prison cell.  
+There is a walkway east and west from where you are.  The bars on the cell 
+are black and rusted.  You can see the outdoor just to the north, fenced 
+off.  
+~
+1 46145544 0
+D1
+~
+~
+0 0 10256
+D2
+~
+door~
+33 10201 10292
+D3
+~
+~
+0 0 10252
+S
+#10254
+Ground Level~
+~
+Your on the ground level of the prison, behind you, there is a prison cell.  
+There is a walkway east and west from where you are.  The bars on the cell 
+are black and rusted.  You can see the outdoor just to the north, fenced 
+off.  
+~
+1 46145544 0
+D1
+~
+~
+0 0 10251
+D2
+~
+door~
+33 10201 10289
+D3
+~
+~
+0 0 10255
+S
+#10255
+Turn on Walkway~
+~
+The walkway your currently on turns to the north.  On the south and west 
+walls are more prison cells.  They have rusted black bars, you can see much 
+of the outdoor field from here, despite some parts being blocked by the 
+metal fencing.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10257
+D1
+~
+~
+0 0 10254
+D2
+~
+door~
+33 10201 10290
+D3
+~
+door~
+33 10201 10310
+R M 0 10202 20 10255
+S
+#10256
+Turn on the Walkway~
+~
+The walkway you are on currently turns north.  To the east and south are 
+prison cells with rusted black bars.  The ground beneath you is hard and 
+cold.  You can see the fenced off outdoor field, but it is blocked off by 
+metal fencing.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10261
+D1
+~
+door~
+33 10201 10294
+D2
+~
+door~
+33 10201 10293
+D3
+~
+~
+0 0 10253
+R M 0 10202 20 10256
+S
+#10257
+Ground Level~
+~
+The walkway runs north and south from here.  To the east is an open field 
+thats been fenced off and to your west is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10258
+D2
+~
+~
+0 0 10255
+D3
+~
+door~
+33 10201 10309
+S
+#10258
+Ground Level~
+~
+The walkway runs north and south from here.  To the east is an open field 
+thats been fenced off and to your west is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10257
+D3
+~
+door~
+33 10201 10308
+R M 0 10202 20 10258
+S
+#10259
+Ground Level~
+~
+The walkway runs north and south from here.  To the east is an open field 
+thats been fenced off and to your west is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10266
+D2
+~
+~
+0 0 10258
+D3
+~
+door~
+33 10201 10307
+S
+#10261
+Ground Level~
+~
+The walkway runs north and south from here.  To the west is an open field 
+thats been fenced off and to your east is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10262
+D1
+~
+door~
+33 10201 10295
+D2
+~
+~
+0 0 10256
+S
+#10262
+Ground Level~
+~
+The walkway runs north and south from here.  To the west is an open field 
+thats been fenced off and to your east is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10263
+D1
+~
+door~
+33 10201 10296
+D2
+~
+~
+0 0 10261
+R M 0 10202 20 10262
+S
+#10263
+Ground Level~
+~
+The walkway runs north and south from here.  To the west is an open field 
+thats been fenced off and to your east is a prison cell.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10265
+D1
+~
+door~
+33 10201 10297
+D2
+~
+~
+0 0 10262
+S
+#10265
+Ground Level~
+~
+You've reached another turn in the walkway.  To the north and east are 
+prison cells that overlook the exercise pen.  The stone walkway continues 
+west.  
+~
+1 46145536 0
+D0
+~
+door~
+33 10201 10299
+D1
+~
+door~
+33 10201 10298
+D2
+~
+~
+0 0 10263
+D3
+~
+~
+0 0 10271
+R M 0 10202 20 10265
+S
+#10266
+Ground Level~
+~
+You've reached another turn in the walkway.  To the north and west are 
+prison cells that overlook the exercise pen.  The stone walkway continues 
+east.  
+~
+1 46145544 0
+D0
+~
+door~
+33 10201 10305
+D1
+~
+~
+0 0 10267
+D2
+~
+~
+0 0 10259
+D3
+~
+door~
+33 10201 10306
+R M 0 10202 20 10266
+S
+#10267
+Along the walkway~
+~
+The walkway continues east and west.  To your north is a prison cell and the 
+south is the exercise pen.  The walkway continues east and west.  To your 
+north is the office of the Parole officer.  
+~
+1 46145544 0
+D0
+~
+~
+0 0 10304
+D1
+~
+~
+0 0 10268
+D3
+~
+~
+0 0 10266
+S
+#10268
+Along the walkway~
+~
+The walkway continues east and west.  To your north is a prison cell and the 
+south is the exercise pen.  
+~
+1 46145544 0
+D0
+~
+door~
+33 10201 10303
+D1
+~
+~
+0 0 10269
+D3
+~
+~
+0 0 10267
+R M 0 10202 20 10268
+S
+#10269
+Gates to Excercise Pen~
+~
+To the north lies the rock fields where prisoners are allowed to break rocks 
+for the future road construction projects throught the world.  To the south 
+lies the exercise pen, and the walkway continues east and west 
+~
+1 46146568 0
+D0
+~
+~
+33 10201 10320
+D1
+~
+~
+0 0 10270
+D2
+~
+door~
+33 10201 10272
+D3
+~
+~
+0 0 10268
+R M 0 10301 2 10269
+  R E 0 10201 0 17
+S
+#10270
+Along the walkway~
+~
+The walkway continues east and west.  To your north is a prison cell and the 
+south is the exercise pen.  
+~
+1 180363272 0
+D0
+~
+door~
+33 10201 10301
+D1
+~
+~
+0 0 10271
+D3
+~
+~
+0 0 10269
+S
+#10271
+Along the walkway~
+~
+The walkway continues east and west.  To your north is a prison cell and the 
+south is the exercise pen.  
+~
+1 46145544 0
+D0
+~
+door~
+33 10201 10300
+D1
+~
+~
+0 0 10265
+D3
+~
+~
+0 0 10270
+S
+#10272
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396804 2
+D0
+~
+~
+33 10201 10269
+D1
+~
+~
+0 0 10273
+D2
+~
+~
+0 0 10286
+D3
+~
+~
+0 0 10274
+D7
+~
+~
+0 0 10285
+D8
+~
+~
+0 0 10287
+S
+#10273
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D1
+~
+~
+0 0 10276
+D2
+~
+~
+0 0 10285
+D3
+~
+~
+0 0 10272
+D7
+~
+~
+0 0 10284
+D8
+~
+~
+0 0 10286
+S
+#10274
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D1
+~
+~
+0 0 10272
+D2
+~
+~
+0 0 10287
+D3
+~
+~
+0 0 10275
+D7
+~
+~
+0 0 10286
+D8
+~
+~
+0 0 10277
+S
+#10275
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D1
+~
+~
+0 0 10274
+D2
+~
+~
+0 0 10277
+D7
+~
+~
+0 0 10287
+S
+#10276
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D2
+~
+~
+0 0 10284
+D3
+~
+~
+0 0 10273
+D8
+~
+~
+0 0 10285
+S
+#10277
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10275
+D1
+~
+~
+0 0 10287
+D2
+~
+~
+0 0 10278
+D6
+~
+~
+0 0 10274
+D7
+~
+~
+0 0 10280
+S
+#10278
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10277
+D1
+~
+~
+0 0 10280
+D6
+~
+~
+0 0 10287
+S
+#10280
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10287
+D1
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10278
+D6
+~
+~
+0 0 10286
+D9
+~
+~
+0 0 10277
+S
+#10281
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10286
+D1
+~
+~
+0 0 10282
+D3
+~
+~
+0 0 10280
+D6
+~
+~
+0 0 10285
+D9
+~
+~
+0 0 10287
+S
+#10282
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10285
+D1
+~
+~
+0 0 10283
+D3
+~
+~
+0 0 10281
+D6
+~
+~
+0 0 10284
+D9
+~
+~
+0 0 10286
+S
+#10283
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10284
+D3
+~
+~
+0 0 10282
+D9
+~
+~
+0 0 10285
+S
+#10284
+Exercise Pen~
+~
+Your on the edge of the excercise pen, fenced off from the prison cells.  
+The sky is dark and sometimes flashes of lightning can be seen.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10276
+D2
+~
+~
+0 0 10283
+D3
+~
+~
+0 0 10285
+D8
+~
+~
+0 0 10282
+D9
+~
+~
+0 0 10273
+S
+#10285
+Inside Exercise Pen~
+~
+Your inside a large pen, fenced off from the rest of the prison.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10273
+D1
+~
+~
+0 0 10284
+D2
+~
+~
+0 0 10282
+D3
+~
+~
+0 0 10286
+D6
+~
+~
+0 0 10276
+D7
+~
+~
+0 0 10283
+D8
+~
+~
+0 0 10281
+D9
+~
+~
+0 0 10272
+S
+#10286
+Inside Exercise Pen~
+~
+Your inside a large pen, fenced off from the rest of the prison.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10272
+D1
+~
+~
+0 0 10285
+D2
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10287
+D6
+~
+~
+0 0 10273
+D7
+~
+~
+0 0 10282
+D8
+~
+~
+0 0 10280
+D9
+~
+~
+0 0 10274
+S
+#10287
+Inside Exercise Pen~
+~
+Your inside a large pen, fenced off from the rest of the prison.  
+~
+1 8396800 2
+D0
+~
+~
+0 0 10274
+D1
+~
+~
+0 0 10286
+D2
+~
+~
+0 0 10280
+D3
+~
+~
+0 0 10277
+D6
+~
+~
+0 0 10272
+D7
+~
+~
+0 0 10281
+D8
+~
+~
+0 0 10278
+D9
+~
+~
+0 0 10275
+S
+#10288
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D0
+~
+door~
+33 10201 10251
+R M 0 10300 200 10288
+  R E 0 10201 0 17
+R O 0 10202 0 10288
+R O 0 10200 0 10288
+S
+#10289
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699976 0
+D0
+~
+door~
+33 10201 10254
+R M 0 10300 200 10289
+  R E 0 10201 0 17
+R O 0 10202 0 10289
+R O 0 10200 0 10289
+S
+#10290
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D0
+~
+door~
+33 10201 10255
+R M 0 10300 200 10290
+  R E 0 10201 0 17
+R O 0 10202 0 10290
+R O 0 10200 0 10290
+S
+#10291
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D0
+~
+door~
+33 10201 10252
+R M 0 10300 200 10291
+  R E 0 10201 0 17
+R O 0 10202 0 10291
+R O 0 10200 0 10291
+S
+#10292
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D0
+~
+door~
+33 10201 10253
+R M 0 10300 200 10292
+  R E 0 10201 0 17
+R O 0 10202 0 10292
+R O 0 10200 0 10292
+S
+#10293
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D0
+~
+door~
+33 10201 10256
+R M 0 10300 200 10293
+  R E 0 10201 0 17
+R O 0 10202 0 10293
+R O 0 10200 0 10293
+S
+#10294
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D3
+~
+door~
+33 10201 10256
+R M 0 10300 200 10294
+  R E 0 10201 0 17
+R O 0 10202 0 10294
+R O 0 10200 0 10294
+S
+#10295
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D3
+~
+door~
+33 10201 10261
+R M 0 10300 200 10295
+  R E 0 10201 0 17
+R O 0 10202 0 10295
+R O 0 10200 0 10295
+S
+#10296
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D3
+~
+door~
+33 10201 10262
+R M 0 10300 200 10296
+  R E 0 10201 0 17
+R O 0 10202 0 10296
+R O 0 10200 0 10296
+S
+#10297
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D3
+~
+door~
+33 10201 10263
+R M 0 10300 200 10297
+  R E 0 10201 0 17
+R O 0 10202 0 10297
+R O 0 10200 0 10297
+S
+#10298
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D3
+~
+door~
+33 10201 10265
+R M 0 10300 200 10298
+  R E 0 10201 0 17
+R O 0 10202 0 10298
+R O 0 10200 0 10298
+S
+#10299
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D2
+~
+door~
+33 10201 10265
+R M 0 10300 200 10299
+  R E 0 10201 0 17
+R O 0 10202 0 10299
+R O 0 10200 0 10299
+S
+#10300
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D2
+~
+door~
+33 10201 10271
+R M 0 10300 200 10300
+  R E 0 10201 0 17
+R O 0 10202 0 10300
+R O 0 10200 0 10300
+S
+#10301
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D2
+~
+door~
+33 10201 10270
+R M 0 10300 200 10301
+  R E 0 10201 0 17
+R O 0 10202 0 10301
+R O 0 10200 0 10301
+S
+#10303
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D2
+~
+door~
+33 10201 10268
+R M 0 10300 200 10303
+  R E 0 10201 0 17
+R O 0 10202 0 10303
+R O 0 10200 0 10303
+S
+#10304
+Parole Office~
+~
+You are inside a small, grungy prison cell.  The walls are barren and grey.  
+A few scratch marks can be seen, and a series of lines.  The office is stark 
+and sparingly decorated.  A large desk is here, covered with papers and 
+sketches of criminals.  The floor is covered with a dark green carpet, and a 
+large oil lantern mounted on the wall fills the room with light.  
+~
+1 180626504 0
+D2
+~
+~
+0 0 10267
+R M 0 10203 1 10304
+S
+#10305
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D2
+~
+door~
+33 10201 10266
+R M 0 10300 200 10305
+  R E 0 10201 0 17
+R O 0 10202 0 10305
+R O 0 10200 0 10305
+S
+#10306
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D1
+~
+door~
+33 10201 10266
+R M 0 10300 200 10306
+  R E 0 10201 0 17
+R O 0 10202 0 10306
+R O 0 10200 0 10306
+S
+#10307
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D1
+~
+door~
+33 10201 10259
+R M 0 10300 200 10307
+  R E 0 10201 0 17
+R O 0 10202 0 10307
+R O 0 10200 0 10307
+S
+#10308
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D1
+~
+door~
+33 10201 10258
+R M 0 10300 200 10308
+  R E 0 10201 0 17
+R O 0 10202 0 10308
+R O 0 10200 0 10308
+S
+#10309
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D1
+~
+door~
+33 10201 10257
+R M 0 10300 200 10309
+  R E 0 10201 0 17
+R O 0 10202 0 10309
+R O 0 10200 0 10309
+S
+#10310
+Prison Cell~
+~
+Your inside a small, grungy prison cell.  The walls are barren and grey.  A 
+few scratch marks can be seen, and a series of lines.  
+~
+1 79699980 0
+D1
+~
+door~
+33 10201 10255
+R M 0 10300 200 10310
+  R E 0 10201 0 17
+R O 0 10202 0 10310
+R O 0 10200 0 10310
+S
+#10311
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 46145536 2
+D0
+~
+~
+0 0 10312
+D1
+~
+~
+0 0 10318
+D2
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 10314
+S
+#10312
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D0
+~
+~
+0 0 10313
+D1
+~
+~
+0 0 10319
+D2
+~
+~
+0 0 10311
+D3
+~
+~
+0 0 10315
+R M 0 10205 20 10312
+S
+#10313
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D1
+~
+~
+0 0 10317
+D2
+~
+~
+0 0 10312
+D3
+~
+~
+0 0 10316
+R M 0 10205 20 10313
+S
+#10314
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D0
+~
+~
+0 0 10315
+D1
+~
+~
+0 0 10311
+R M 0 10205 20 10314
+S
+#10315
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D0
+~
+~
+0 0 10316
+D1
+~
+~
+0 0 10312
+D2
+~
+~
+0 0 10314
+R M 0 10205 20 10315
+S
+#10316
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 8396800 2
+D1
+~
+~
+0 0 10313
+D2
+~
+~
+0 0 10315
+R M 0 10205 20 10316
+S
+#10317
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 46145544 2
+D2
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10313
+R O 0 10202 0 10317
+R M 0 10205 20 10317
+S
+#10318
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D0
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10311
+R M 0 10205 20 10318
+S
+#10319
+Rock Yard~
+~
+You've entered yet another open area with lots of rocks of all shapes and 
+sizes on the ground.  
+~
+1 41951232 2
+D0
+~
+~
+0 0 10317
+D2
+~
+~
+0 0 10318
+D3
+~
+~
+0 0 10312
+R M 0 10205 20 10319
+S
+#10320
+Rock Supplies~
+~
+You've entered a large room with many large boxes placed there and there.  
+The floors are cold and grey.  To the north is a large work yard, piled up 
+with many rocks.  
+~
+1 8396800 0
+D0
+~
+~
+0 0 10311
+D2
+~
+~
+33 10201 10269
+R M 0 10204 1 10320
+R O 0 10206 0 10320
+  R P 0 10207 20 10206
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

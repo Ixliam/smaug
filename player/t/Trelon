@@ -1,0 +1,473 @@
+#PLAYER
+Version      6
+Name         Trelon~
+Sex          1
+Class        1
+Secondclass  -1
+Thirdclass   -1
+Race         1
+Age          0 5 0 938
+Languages    1 1
+Level        7
+Firstlevel   0
+Secondlevel  0
+Thirdlevel   0
+Played       25621
+Room         16010
+HpManaMove   523 513 326 316 734 634
+BaseHp       0 
+Blood        47 47
+Money         0 113 1036 1119 977 -1
+Exp           133696
+Firstexp      0
+Secondexp     0
+Thirdexp      0
+Height        60
+Weight        110
+Act           570426968&68161602&2
+Channels      chat say ooc shout yell icc wartalk event music info ask answer swear flirt hint osay reunion auction~
+Speed         32
+Position      115
+Style         2
+Practice      0
+SavingThrows  0 0 0 0 0
+Alignment     1000
+AppBlood      0
+Hitroll       0
+Damroll       0
+Armor         100
+Resistant     2
+Mentalstate   0
+Password      366afde076d77181ee7c1667bec8cbd728587bd23138fd915466170e408b5510~
+Title          of the Wood~
+Lastip         192.168.1.64~
+RECAST          0
+Tradelevel          1
+Tradeclass          22
+Failsafe     6
+Account         trelon~
+Bio          Trelon has no memories of his biological parents. He was found wrapped in his swaddling blanket hidden inside of a shallow cave by a wizened old human druid when he was only days old. He was raised by the old man and taught the ways of the woods.
+~
+AuthedBy     Ixliam~
+KeepAlive      5
+GetsDExp     0
+LDExpUpdate  1508545637
+tmpsecond -1
+tmpthird -1
+Textspeed          5
+PotionTimer        1508106387 1508106134 0
+FirstExpR          0
+SecondExpR         0
+ThirdExpR          0
+MartialArts        0
+UsedTrade          0
+Faith              0
+ChanInvite         0
+QuestCurr          5
+QuestAccum         5
+MobCount           0
+ObjCount           0
+ArenaWins          0
+ArenaLoss          0
+MapToggle          0
+MapSize            0
+MapDescToggle      0
+MapNameToggle      0
+MapType            0
+FoundArea       Paleon Sewer~
+FoundArea       Paleon Atheneum ~
+FoundArea       Under Sewer~
+FoundArea       Miden'nir~
+FoundArea       Merchant Discovery~
+Deity	     Dorenne~
+Htown      Paleon City~
+Flags        163842
+Bardtimer    0
+Bardsn       0
+PKills       0
+PDeaths      0
+MKills       168
+MDeaths      2
+IllegalPK    0
+AttrPerm     14 21 18 20 12 16 10
+AttrMod      0 0 0 0 0 0 0
+Condition    0 50 112 17
+Site         192.168.1.64
+LastNews     1479250459
+Holdbreath 0
+Frostbite 0
+Adjust 0
+NNSpell       50 0 'nettle skin' 0 0
+NNSkill       45 0 'dodge' 0 0
+NNSkill       29 0 'forest' 0 0
+NNSkill       10 0 'hunt' 0 0
+NNSkill       36 0 'parry' 0 0
+NNSkill       62 0 'punch' 0 0
+NNSkill       15 0 'scan' 0 0
+NNSkill       20 0 'sharpen' 0 0
+NNSkill       50 0 'slice' 0 0
+NNSkill       10 0 'tan' 0 0
+NNWeapon      92 0 '1h short blades' 0 0
+NNWeapon      66 0 'staves' 0 0
+NNWeapon      39 0 'whips' 0 0
+NNTongue      95 0 'common' 0 0
+NNTongue      95 0 'elven' 0 0
+Killed       2769
+Killed       2769
+Killed       2763
+Killed       2769
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+Killed       8370
+THYQuestN 1 16 0 0 1 0
+THYQuestN 8 10 0 0 1 0
+THYQuestN 33 4 0 0 1 0
+THYQuestN 88 4 0 0 1 0
+THYQuestN 102 3 0 0 1 0
+THYQuestN 103 3 0 0 1 0
+THYQuestN 109 5 0 0 1 0
+MaxColors    111
+Colors       0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 31 22 27 17 23 28 18 24 29 19 25 30 20 26 16 21 8 8 4 9 0 5 8 8 14 8 8 8 4 8 8 11 2 8 8 4 8 8 8 3 8 4 10 8 8 14 8 8 1 4 3 8 8 9 11 11 1 8 3 8 11 3 4 3 2 14 10 11 10 5 4 4 4 9 8 9 9 14 13 9 10 11 2 3 5 4 11 2 6 3 11 9 8 9 5 
+Portalstonelag     0
+End
+
+#OBJECT
+Vnum         67
+WearLoc      0
+Currtype     1
+Color        14
+Size   0
+Values       0 0 -1 0 0 0 0
+End
+
+#OBJECT
+Vnum         4
+WearLoc      5
+Level        1
+Currtype     1
+Color        1
+Size   77
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         27
+WearLoc      5
+Level        1
+Currtype     1
+Color        13
+Size   0
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         40
+WearLoc      14
+Currtype     1
+Color        1
+Size   77
+Values       2 2 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         68
+WearLoc      22
+Currtype     2
+Color        2
+Size   0
+Values       300 0 0 6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         16079
+Level        1
+Currtype     1
+Color        1
+Size   3
+Values       2 2 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5101
+Level        99
+Currtype     3
+Color        5
+Size   3
+End
+
+#OBJECT
+Nest         1
+Vnum         139
+Currtype     4
+Color        5
+Size   0
+End
+
+#OBJECT
+Nest         1
+Vnum         16008
+Level        1
+Currtype     3
+Color        3
+Size   3
+Values       10 38 -1 -1 0 1 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         16038
+Currtype     4
+Color        1
+Size   3
+Values       30 30 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         16048
+Currtype     4
+Color        14
+Size   3
+Values       10 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         16008
+Level        1
+Currtype     3
+Color        3
+Size   0
+Values       10 38 -1 -1 0 1 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         16008
+Level        1
+Currtype     3
+Color        3
+Size   0
+Values       10 38 -1 -1 0 1 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         16008
+Level        1
+Currtype     3
+Color        3
+Size   0
+Values       10 38 -1 -1 0 1 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Currtype     4
+Color        8
+Size   0
+Values       12 1 5 2 2 1 73
+End
+
+#OBJECT
+Vnum         5103
+WearLoc      1
+Level        1
+Currtype     4
+Color        9
+Size   3
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         16005
+WearLoc      2
+Level        1
+Currtype     2
+Color        4
+Size   0
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         40
+WearLoc      15
+Currtype     1
+Color        1
+Size   0
+Values       2 2 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         16003
+WearLoc      24
+Level        2
+Currtype     2
+Color        9
+Size   0
+Values       2 2 0 0 0 2 0
+End
+
+#OBJECT
+Vnum         16010
+WearLoc      3
+Level        1
+Currtype     3
+Color        4
+Size   0
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         16074
+WearLoc      12
+Level        1
+Currtype     3
+Color        3
+Size   0
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         5105
+WearLoc      17
+Level        1
+Currtype     2
+Color        4
+Size   3
+Values       45 153 -1 -1 0 1 0
+Spell 1      'restore mana'
+End
+
+#OBJECT
+Vnum         16065
+WearLoc      13
+Level        1
+Currtype     3
+Color        4
+Size   0
+Values       2 2 0 0 0 1 0
+End
+
+#OBJECT
+Vnum         2764
+WearLoc      8
+Level        6
+Currtype     4
+Color        1
+Size   77
+Values       5 5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2780
+WearLoc      10
+Level        5
+Currtype     4
+Color        13
+Size   77
+Values       5 5 0 0 0 5 0
+End
+
+#OBJECT
+Vnum         16003
+WearLoc      25
+Level        2
+Currtype     2
+Color        9
+Size   0
+Values       2 2 0 0 0 2 0
+End
+
+#OBJECT
+Vnum         2782
+WearLoc      9
+Level        5
+Currtype     2
+Color        13
+Size   77
+Values       5 5 0 0 0 5 0
+End
+
+#OBJECT
+Vnum         2783
+WearLoc      6
+Level        5
+Currtype     3
+Color        13
+Size   0
+Values       5 5 0 0 0 5 0
+End
+
+#OBJECT
+Vnum         2788
+WearLoc      19
+Level        5
+Currtype     3
+Color        13
+Size   77
+Values       5 5 0 0 0 5 0
+End
+
+#OBJECT
+Vnum         2787
+WearLoc      19
+Level        5
+Currtype     3
+Color        13
+Size   77
+Values       5 5 0 0 0 5 0
+End
+
+#OBJECT
+Vnum         2760
+WearLoc      7
+Level        5
+Currtype     4
+Color        1
+Size   0
+Values       5 5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         16245
+Cost         6
+Currtype     4
+Color        1
+Size   0
+End
+
+#VARIABLE
+Type    1
+Flags   0
+Vnum    8371
+Ctime   1508115951
+Mtime   1508115951
+Rtime   0
+Timer   549
+Tag     money~
+Int     0
+End
+
+#END

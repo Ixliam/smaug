@@ -1,0 +1,541 @@
+#AREA        Adventurer's Hall~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#5700
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5701
+tall male angrak shopkeeper~
+a tall male angrak~
+A tall male angrak stands here waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5702
+half elf male healer~
+a half-elven male~
+A young half-elven male is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5703
+tall male angrak shopkeeper~
+a tall male angrak~
+A tall male angrak stands here waiting to serve you.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5704
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5705
+half elf male healer~
+a half-elven male~
+A young half-elven male is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#5700
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5701
+empty potion~
+an empty potion~
+A potion bottle is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5702
+blank scroll~
+a blank scroll~
+A blank scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5703
+marble fountain~
+a`#`W marble`^ fountain~
+A `#`Wmarble`^ fountain is here.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5704
+table mahogany rows chairs~
+a chair resting by a small mahogany table~
+Rows of small mahogany tables with chairs line the walls here.~
+~
+12 0 8
+20000 72 100 100 0 0 0
+5 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5705
+long wooden bench~
+a long wooden bench~
+A long wooden bench.~
+~
+12 0 8
+10000 9360 110 110 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5705 long wooden bench~
+This bench is crafted from oak wood and is finely made.  It is long enough to support four
+people confortably, and looks quite strong.
+~
+#5706
+small wooden keg~
+a small wooden keg~
+A small wooden keg.~
+~
+17 0 16
+150 1 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5707
+side meat beef~
+a `#`yside`^ of `ybeef`^~
+A side of beef is here on the floor.~
+~
+19 0 16
+24 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5708
+slice chocolate cake~
+`#`wa slice of `ychocolate cake`^~
+A slice of cake has been dropped here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5709
+chunk hot steamy garlic bread~
+`#`wa chunk of hot `Wsteamy `ygarlic `Wbread`^~
+A chunk of bread has been dropped here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5710
+cup sweet lemonade~
+a cup of `#`Wsweet lemonade`^~
+A cup of `#`Wsweet lemonade`^ is here.~
+~
+17 0 16
+10 6 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5711
+brass oil lamp lantern~
+`#`wa `ybrass `wlantern`^~
+A brass lantern is resting here.~
+~
+1 0 1
+0 200 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#5700
+Adventurer's Hall~
+~
+You find yourself inside of a very large building. It looks like a mini-mall 
+as there are several different stores located inside of this one building. 
+Straight to your east is a large flowing fountain and the exit to the street 
+is to your west. 
+~
+1 37749768 0
+D1
+~
+~
+0 0 5701
+D3
+~
+~
+0 0 3020
+S
+#5701
+Main hall~
+~
+You are standing in the main area of the building. The ceiling is over 10 
+feet tall here and has a large dome made of beautiful stained glass. The 
+floor is made of multi-colored marble. 
+~
+1 37749768 0
+D0
+~
+~
+0 0 5702
+D1
+~
+~
+0 0 5704
+D2
+~
+~
+0 0 5703
+D3
+~
+~
+0 0 5700
+R O 0 5703 0 5701
+R O 0 5705 0 5701
+S
+#5702
+The Purple Dragon ~
+~
+The floor here is made up of multi-colored stones and hanging from the 
+ceiling is a large candelabra. There are racks of different things to buy 
+for everyday use here. 
+~
+1 37749768 0
+D2
+~
+~
+0 0 5701
+R M 0 5700 1 5702
+  R G 0 5702 0
+  R G 0 5701 0
+  R G 0 5700 0
+  R G 0 5711 0
+S
+#5703
+Healer's Corner~
+~
+There is a light scent in the air of fresh herbs. It creates a calming 
+effect. The floor is made up of multi-colored stones and hanging from the 
+ceiling is a large candelabra. 
+~
+1 37749768 0
+D0
+~
+~
+0 0 5701
+R M 0 5702 1 5703
+S
+#5704
+The Wyvern's Tail Tavern~
+~
+Wooden barrels of ale are piled against almost every open wall in this 
+tavern. The place is not overly large and there is a couple of tables and 
+chairs here. The floor here is made up of multi-colored stones and hanging 
+from the ceiling is a large candelabra. 
+~
+1 37749768 0
+D3
+~
+~
+0 0 5701
+R O 0 5704 0 5704
+R M 0 5701 1 5704
+  R G 0 5709 0
+  R G 0 5708 0
+  R G 0 5707 0
+  R G 0 5706 0
+  R G 0 5710 0
+S
+#5705
+Adventurer's Hall~
+~
+You find yourself inside of a very large building. It looks like a mini-mall 
+as there are several different stores located inside of this one building. 
+Straight to your east is a large flowing fountain and the exit to the street 
+is to your west. 
+~
+1 33555464 0
+D0
+~
+~
+0 0 812
+D1
+~
+~
+0 0 5708
+D2
+~
+~
+0 0 5706
+D3
+~
+~
+0 0 5707
+R O 0 5705 0 5705
+R O 0 5703 0 5705
+S
+#5706
+Healer's Corner~
+~
+There is a light scent in the air of fresh herbs. It creates a calming 
+effect. The floor is made up of multi-colored stones and hanging from the 
+ceiling is a large candelabra. 
+~
+1 33555464 0
+D0
+~
+~
+0 0 5705
+R M 0 5705 1 5706
+S
+#5707
+The Wyvern's Tail Tavern~
+~
+Wooden barrels of ale are piled against almost every open wall in this 
+tavern. The place is not overly large and there is a couple of tables and 
+chairs here. The floor here is made up of multi-colored stones and hanging 
+from the ceiling is a large candelabra. 
+~
+1 33555464 0
+D1
+~
+~
+0 0 5705
+R M 0 5703 1 5707
+  R G 0 5710 0
+  R G 0 5709 0
+  R G 0 5708 0
+  R G 0 5707 0
+R O 0 5704 0 5707
+S
+#5708
+The Purple Dragon ~
+~
+The floor here is made up of multi-colored stones and hanging from the 
+ceiling is a large candelabra. There are racks of different things to buy 
+for everyday use here. 
+~
+1 33555464 0
+D3
+~
+~
+0 0 5705
+R M 0 5704 1 5708
+  R G 0 5701 0
+  R G 0 5700 0
+  R G 0 5702 0
+  R G 0 5711 0
+S
+#0
+
+
+#SHOPS
+ 5700    0  0  0  0  0   100  50         0 23    ; a short plump female malkatar
+ 5701    0  0  0  0  0   100  50         0 23    ; a tall male angrak
+ 5702    0  0  0  0  0   100  50         0 23    ; a half-elven male
+ 5703    0  0  0  0  0   100  50         0 23    ; a tall male angrak
+ 5704    0  0  0  0  0   100  50         0 23    ; a short plump female malkatar
+ 5705    0  0  0  0  0   100  50         0 23    ; a half-elven male
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

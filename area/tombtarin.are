@@ -1,0 +1,172 @@
+#AREA        Tombs of Tarin~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#11600
+Inside the Mountain~
+~
+You are in front of a beautiful golden cave carved into the side of the 
+mountain.  An area of ten feet around the cave has been cleared to prevent 
+any hostile creatures from entering.  When you look down the stairs in the 
+cave, you notice from the thick layer of dust upon them that they have not 
+been used much recently.  On the northern end of the cave there is a large 
+golden gate.  
+~
+1 5 11
+D5
+~
+~
+0 0 11601
+S
+#11601
+Entrance to the Tombs of Tarin~
+~
+The marble stairs lead into the Tombs of Tarin.  Large boulders from the 
+roof have destroyed part of the stairs, but it seems safe enough to climb 
+down the next few feet.  A bronze plate has been nailed to the roof above 
+the stairs.  You can go up and down from here.  
+~
+1 5 11
+D4
+~
+~
+0 0 11600
+D5
+~
+~
+0 0 11602
+S
+#11602
+Upper Half of the Broken Stairs~
+~
+You find yourself standing at the edge of what once was the marble stairs 
+leading into the tomb.  Enormous boulders have wrecked the stairs below, and 
+if you decide to take the jump down, it seems impossible to get up again.  
+You can go down and up from here.  
+~
+1 1 11
+D4
+~
+~
+0 0 11601
+D5
+~
+~
+0 0 11603
+S
+#11603
+Lower Half of the Broken Stairs~
+~
+You decide to take the jump down the stairs, well aware that it seems 
+impossible to climb back up this way.  The only thing that troubles you is 
+the speed you fly with....  
+                          Woooo
+                               oooo
+                                   oo
+                                     o
+                                      o
+                                      o
+                                      owwwww. Your heart skips a few
+beats, then relaxes as you find yourself safely landed on the lower stairs. 
+The only way from here is down.
+~
+1 1 11
+D5
+~
+~
+0 0 11605
+S
+#11604
+Vault of Heros~
+~
+You enter a huge hall occupied with stone statues of long forgotten heroes.  
+The statues seem indestructible, and hanging from each one is a small gold 
+plate with some writing on it.  Besides the dust and the dry air, this room 
+amazes you with its beauty.  
+~
+1 1 11
+D3
+~
+~
+0 0 11605
+S
+#11605
+Entrance Hall of Tarin~
+~
+Below the stairs you find this beautiful hall made out of stone.  Large 
+banners hang from the roof and on each banner an eagle is painted.  In the 
+middle of the hall you find a well springing with crystal clear water.  
+Around the well there are small bottles hanging with ropes attached to them. 
+ To the east you see a pair of large bronze doors leading into the vault of 
+heroes.  And to the west, there is a large door that opens with a gate that 
+lifts.  The hall continues into the darkness to the north and to the south.  
+
+~
+1 1 11
+D1
+~
+~
+0 0 11604
+D4
+~
+~
+0 0 11603
+S
+#11606
+~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

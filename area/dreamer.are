@@ -1,0 +1,1590 @@
+#AREA        Dreamer's Cottage~
+
+
+
+#VERSION     11
+#AUTHOR      kyarra reath~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80251
+small malkatar girl~
+a small malkatar girl~
+A small malkatar girl sleeps here, whimpering occasionally.
+~
+~
+0
+Clanname none~
+0
+0
+65 131072 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80252
+unseen_dream_watcher_80252~
+unseen_dream_watcher_80252~
+UNSEEN_DREAM_WATCHER_80252
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80253
+sleeper hazy body~
+a hazy body~
+A hazy body sleeps on the cot.
+~
+~
+0
+Clanname none~
+0
+0
+65 131072 0 C
+1 200 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80254
+girlish doll~
+a small girlish doll~
+A small doll sits at the table politely.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+92 200 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80255
+matronly doll~
+a tall matronly doll~
+A tall matronly doll prepares something imaginary at a play oven.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+94 0 -64 9d13+455 10d12+49
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80256
+mannered daughter~
+a mannered daughter~
+A mannered daughter sits here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+96 0 -66 10d13+460 10d12+51
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80257
+caring mother~
+a caring mother~
+A caring mother serves breakfast here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+97 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80258
+battered malkatar girl~
+a battered malkatar girl~
+A battered little malkatar girl huddles in a corner.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+97 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80259
+frightened malkatar girl~
+a frightened malkatar girl~
+A fightened little girl huddles here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+99 0 -69 10d13+475 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80260
+chittering rats_quest~
+a pack of chittering rats~
+A pack of chittering rats scurries underfoot.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+99 0 -69 10d13+475 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80267
+plagued man messenger~
+a plagued man~
+A plagued man darts to and fro.
+~
+Here a plagued man edges around a corner carrying a small parchment clutched 
+at his breast. His eyes dart in every direction as he is wracked with 
+coughs. 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+86 10 -55 8d12+420 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80290
+girlish doll~
+a small girlish doll~
+A small doll stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+108 200 -80 20d20+1000 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80291
+turbo ninja monkey team~
+the turbo ninja monkey team~
+The turbo ninja monkey team builds their robot here!
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1000 200 -80 20d20+1000 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80295
+demon warrior_1~
+a demonic warrior~
+A demonic warrior slithers through here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+60 0 -30 6d9+500 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80300
+unseen_dream_giver~
+unseen_dream_giver~
+Unseen_Dream_Giver
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80251
+simple wooden desk~
+a simple wooden desk~
+A simple wooden desk resides here, a parchment resting on it.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80251 parchment ~
+.            `#`y-=========================================-`^ `1 For Those Who May Be Drawn Here, `1You've probably come because of the dreams. They follow you. They watch you 
+and stalk you like prey. Dreams of this place. Dreams of something dark... 
+something evil.`1 If you are anything like the many that have come before, you have dreamed 
+of the darkness at the top of the stairs. You've dreamed of the sadness and 
+hatred there perhaps? It is not what you think.`1 At the top of those stairs, you will not find a dragon to battle. You will 
+not find a demon to slay. You will find something far more terrifying. You 
+will find a small girl, the light of my life, asleep.`1 Since writing this letter, she has slept like that for three years. For 
+three years, I have watched her slumber and slept fitful nights in this 
+house. Three years I have been haunted with dreams much like yours I am 
+sure... telling me to come... to do something. It tears me apart that I am 
+unable to figure out what she wants.`1 Some thought the answer lie in sleeping next to her... sharing her dream. 
+I have carted away countless victims, souls who face the same dark dreams as 
+she faces. My own husband, an archmagus, has claimed to break this spell is 
+beyond his ability, Gods above help us. If you are wise, you will turn back.`1 If you are not... or perhaps more wise than any before you, I implore 
+you... help my daughter. Help her. Save her soul as I cannot. Though I come 
+each day and tend her, I can do no more. For a mothers eternal love, Help my 
+child. `1`1                                    Mirna                         `1            `#`y-=========================================-`^ 
+~
+#80252
+cot~
+a cot~
+A cot has been set up near the bed.~
+~
+12 0 8
+0 1024 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80254
+weapon_2~
+a `#`ys`Yp`we`Ya`yr`^ of `wbl`Wazi`wng`^ `yl`Yi`wg`Yh`yt`^~
+A spear of blazing light~
+~
+5 64 4
+6 20 6 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80255
+armor_2~
+a `#`ym`Ya`wnt`Yl`ye`^ of light~
+A `#`ym`Ya`wnt`Yl`ye`^ of light~
+~
+9 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80256
+arrow light weapon_3~
+an `#`Ya`yr`Wr`yo`Yw`^ of light~
+An arrow of light shouldn't be here.~
+~
+5 64 4
+10 10 3 16 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80257
+hole~
+a small hole~
+~
+~
+29 0 16
+0 64 80260 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80258
+book scriptures power innocence~
+(no short description 80258)~
+(no description 80258)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80267
+black parchment ~
+a black parchment~
+A black parchment lies here~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80276
+token_mob_10_80276~
+token_mob_10_80276~
+Token_mob_10_80276~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80277
+token_mob_20_80277~
+token_mob_20_80277~
+Token_mob_20_80277~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80278
+token_mob_30_80278~
+token_mob_30_80278~
+Token_mob_30_80278~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80279
+token_mob_40_80279~
+token_mob_40_80279~
+Token_mob_40_80279~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80280
+token_mob_50_80280~
+token_mob_50_80280~
+Token_mob_50_80280~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80281
+token_mob_60_80281~
+token_mob_60_80281~
+Token_mob_60_80281~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80282
+token_mob_70_80282~
+token_mob_70_80282~
+Token_mob_70_80282~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80283
+token_mob_80_80283~
+token_mob_80_80283~
+Token_mob_80_80283~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80284
+token_mob_90_80284~
+token_mob_90_80284~
+Token_mob_90_80284~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80285
+token_mob_100_80285~
+token_mob_100_80285~
+Token_mob_100_80285~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80286
+token_plr_10_80286~
+token_plr_10_80286~
+Token_plr_10_80286~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80287
+token_plr_20_80287~
+token_plr_20_80287~
+Token_plr_20_80287~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80288
+token_plr_30_80288~
+token_plr_30_80288~
+Token_plr_30_80288~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80289
+token_plr_40_80289~
+token_plr_40_80289~
+Token_plr_40_80289~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80290
+token_plr_50_80290~
+token_plr_50_80290~
+Token_plr_50_80290~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80291
+token_plr_60_80291~
+token_plr_60_80291~
+Token_plr_60_80291~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80292
+token_plr_70_80292~
+token_plr_70_80292~
+Token_plr_70_80292~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80293
+token_plr_80_80293~
+token_plr_80_80293~
+Token_plr_80_80293~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80294
+token_plr_90_80294~
+token_plr_90_80294~
+Token_plr_90_80294~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80295
+token_plr_100_80295~
+token_plr_100_80295~
+Token_plr_100_80295~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80296
+token_attack_mode_2~
+token_attack_mode_2~
+Token_attack_mode_2~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80297
+token_attack_mode_3~
+token_attack_mode_3~
+Token_attack_mode_3~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80299
+token_80299_dreamer_watcher~
+token_80299_dreamer_watcher~
+Token_80299_dreamer_watcher~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80300
+token_80300_dream_watch~
+token_80300_dream_watch~
+Token_80300_dream_watch~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#80251
+A Small Entryway~
+~
+Though obviously lovingly tended, this sparse entryway has been neglected 
+recently, leaves from the outside strewn carelessly everywhere. A simple red 
+mat resides in the center of this small room, adding to the homey touches 
+apparent everywhere. 
+~
+1 0 0
+D2
+~
+~
+0 0 80252
+S
+#80252
+A Cramped House~
+~
+Though cramped with broken and useless clutter, there is an ordered sense to 
+the chaos surrounding a small desk in the center of the room. Fresh flowers 
+have been cast across the floor in an effort to remove the stuffy smell 
+apparent in the space. It is by far and large, a wasted effort. A small 
+staircase along the east wall leads upstairs. 
+~
+1 0 0
+D0
+~
+~
+0 0 80251
+D4
+~
+~
+0 0 80253
+R O 0 80251 0 80252
+S
+#80253
+A Small Bedroom~
+~
+Smaller than the room downstairs, this bedroom has had a recent cleaning and 
+a lantern set into the wall keeps the area well lit. A bed, overflowing with 
+fancifully embroidered quilts and downed pillows, faces the largest of the 
+three windows that dominate the north wall. Faint whimpers sound from within 
+the bedding. 
+~
+1 8 0
+D5
+~
+~
+0 0 80252
+R M 0 80251 1 80253
+R O 0 80252 0 80253
+S
+#80254
+A Doll House~
+~
+Redone in pastel colors, this room resembles the bedroom quite closely if 
+one had seen it in better days. A playful hand has decorated almost every 
+space with light flowers and draped cloth. If not for the broken toys that 
+litter much of the room, this might be a small child's dream. 
+~
+1 8196 0
+R M 0 80254 1 80254
+R M 0 80255 1 80254
+S
+#80255
+Outside A Cottage~
+~
+Not a bird chirps in this somber clearing and little more than the trickle 
+of water coming from a small well breaks the silence. Trees squeeze together 
+too close to allow even sight of anything beyond clearing. A cottage to the 
+south provides the only respite from this utter tranquility. 
+~
+1 8192 0
+D2
+~
+~
+0 0 80256
+R M 0 80252 50 80255
+S
+#80256
+An Ornate Foyer~
+~
+This foyer is resplendant with homey touches, from the vase of fresh 
+wildflowers to the sprig of holly hanging at the doorstep. Wood paneling 
+worn down beyond the varnish in many places absorbs the little sound that 
+comes across. A second arch leads into the house proper, the smell of fresh 
+cooking leading an appetizing trail. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80255
+D2
+~
+~
+0 0 80257
+R M 0 80252 50 80256
+S
+#80257
+An All-purpose Room~
+~
+A small set of chairs obviously serves as a makeshift 'sitting room' while a 
+set of chairs gathered around a dining set are the eating place nearest to 
+the kitchen. Obviously space is precious in this small room. Still, nothing 
+is out of place and everything has been meticulously ordered; no more than a 
+hint of dust can be seen on anything standing out. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80256
+D4
+~
+~
+0 0 80258
+D5
+~
+~
+1 0 80259
+R M 0 80257 1 80257
+R M 0 80252 50 80257
+R M 0 80256 1 80257
+S
+#80258
+A Child's Bedroom~
+~
+This was obviously meant to be a young child's bedroom but everything has 
+found it's way to being put away perfectly. Eery silence and cold drafts 
+crisscross through this perfectly straightened room. Though brimming with 
+colors, everything is of a sedate hue. 
+~
+1 8192 0
+D5
+~
+~
+0 0 80257
+R M 0 80252 20 80258
+S
+#80259
+A Dank Cellar~
+~
+A small cellar, cold with stale air circulating it lies at the bottom of the 
+stairs. Moisture has caused mold to grow on almost every available surface 
+and the wood supports have begun to give away under the decay. A hole is 
+prominent in one of the wooden walls. 
+~
+1 8192 0
+D4
+~
+~
+1 0 80257
+R M 0 80258 1 80259
+R M 0 80252 50 80259
+R O 0 80257 0 80259
+S
+#80260
+Behind the Wall~
+~
+Though dark, this area is not nearly as dank as the cellar itself. Faceless 
+stone lies to the south while decaying wooden panels stand as a wall to the 
+north providing little space here. To the east and west the passage 
+continues. 
+~
+1 8192 0
+D1
+~
+~
+0 0 80261
+D3
+~
+~
+0 0 80268
+R M 0 80259 1 80260
+R M 0 80252 50 80260
+S
+#80261
+A Hole In the Wall~
+~
+A jagged hole torn into the wood by decades of water freely running across 
+the back of the wooden paneling here has provided an opening to cross 
+between the cellar proper and this small passageway behind the walls. Rat 
+droppings litter almost all of the available space on the floor behind the 
+walls. Water has begun to pool around the base of the hole. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80269
+D1
+~
+~
+0 0 80262
+D3
+~
+~
+0 0 80260
+R M 0 80252 50 80261
+S
+#80262
+Behind the Wall~
+~
+This stone corner in the corridor has been eroded by water until it forms a 
+smooth curve. Though musky and moss-ridden, the area here has obviously been 
+inhabitted by small animals recently; droppings are apparent and small teeth 
+marks along the wooden planks forming walls to the northwest can be spotted. 
+The path continues along narrow corridors to the north and west. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80263
+D3
+~
+~
+0 0 80261
+R M 0 80252 50 80262
+S
+#80263
+Behind the Wall~
+~
+This section of the corridor has begun to fall apart. The planks here have 
+been reinforced multiple times but water damage is even now eroding them 
+away yet again. To the west the wall, damaged again, is beginning to 
+crumble. To the east is a stone wall covered in moss and a steady trickle of 
+water. North and south the path continues narrowly. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80264
+D2
+~
+~
+0 0 80262
+R M 0 80252 50 80263
+S
+#80264
+Behind the Wall~
+~
+Carved into the surrounding stone at sharp angles, this turn branches to the 
+south and east. The ground has been littered with rat droppings and small 
+wood chips. Trickles of water can be seen running down the wall and across 
+the floor towards meeting of two wooden walls to the southwest. To the sound 
+a narrow path continues and to the west the path broadens a bit. 
+~
+1 8192 0
+D2
+~
+~
+0 0 80263
+D3
+~
+~
+0 0 80265
+R M 0 80252 50 80264
+S
+#80265
+Behind the Wall~
+~
+This area, much larger than either of the cavities to the east or west, has 
+been carved out of the stone foundations. Smoothed into a semicircle behind 
+the wooden planks that form a wall to the south, two corridors branch out 
+east and west. Small creaks and chirping sounds echo quietly through the 
+area and cold breezes blow in. 
+~
+1 8192 0
+D1
+~
+~
+0 0 80264
+D3
+~
+~
+0 0 80266
+R M 0 80252 50 80265
+S
+#80266
+Behind the Wall~
+~
+The stone in this area of the wall has begun to crumble and holes in the 
+lower portion seem similar to small dens. To the south a small passage opens 
+to another corner while to the east the entire passage widens. Little 
+scurrying noises echo through the entire passageway. 
+~
+1 8192 0
+D1
+~
+~
+0 0 80265
+D2
+~
+~
+0 0 80267
+R M 0 80252 50 80266
+S
+#80267
+Behind the Wall~
+~
+This extremely thin passage is littered with rat droppings. Wood paneling 
+well past it's prime peels and cracks to the east while eroded stone to the 
+west braces the structure overhead. To the north and south bends in this 
+dismally lit passage might be seen. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80266
+D2
+~
+~
+0 0 80268
+R M 0 80252 50 80267
+S
+#80268
+Behind the Wall~
+~
+This corner has long been eroded by water. Mold has seeped into almost every 
+space that it can gain a foothold in and the smell is nothing short of 
+deathly. Everywhere faint creaks and chirps echo. To the east and north the 
+thin passage continues. 
+~
+1 8192 0
+D0
+~
+~
+0 0 80267
+D1
+~
+~
+0 0 80260
+R M 0 80252 50 80268
+S
+#80269
+A Dank Cellar~
+~
+A small cellar, cold with stale air circulating it lies at the bottom of the 
+stairs. Moisture has caused mold to grow on almost every available surface 
+and the wood supports have begun to give away under the decay. A hole is 
+prominent in one of the wooden walls. 
+~
+1 8192 0
+D2
+~
+~
+0 0 80261
+R M 0 80252 50 80269
+S
+#80270
+A Huge Study~
+~
+Man studying
+a book - Ghaa'thmada's Sciptures of Innocence and Power
+Small note at bottom marks various astrological information and possibly a birthdate.
+~
+1 8192 0
+D0
+~
+~
+0 0 80273
+D1
+~
+~
+0 0 80274
+D2
+~
+~
+0 0 80271
+D3
+~
+~
+0 0 80272
+R M 0 80252 50 80270
+S
+#80271
+A Small Nook~
+~
+Girl pretending to sleep... whispering about daddy's plans
+~
+1 8192 0
+D0
+~
+~
+0 0 80270
+R M 0 80252 50 80271
+S
+#80272
+A Set of Bookshelves~
+~
+Books on demonology
+~
+1 8192 0
+D1
+~
+~
+0 0 80270
+R M 0 80252 50 80272
+S
+#80273
+A Set of Bookshelves~
+~
+Books on the mind
+~
+1 8192 0
+D2
+~
+~
+0 0 80270
+R M 0 80252 50 80273
+S
+#80274
+A Set of Bookshelves~
+~
+Books on curses
+ A Blessing is like a beacon, beautiful and glorious; meant to be seen. A curse is like a fog, dark and dreary; it is so insidious because it hides.
+~
+1 8192 0
+D3
+~
+~
+0 0 80270
+R M 0 80252 50 80274
+S
+#80275
+Outside A Dark Tower~
+~
+~
+1 8192 0
+D1
+~
+~
+0 0 80276
+R M 0 80252 50 80275
+S
+#80276
+Within A Dark Tower~
+~
+~
+1 8192 0
+D3
+~
+~
+0 0 80275
+D5
+~
+~
+0 0 80277
+R M 0 80252 50 80276
+S
+#80277
+Within the First Circle~
+~
+Students rushing about (kids) - need Journeymaster's robe to continue on - Buttwhooped by a guard if you're missin it.
+~
+1 8192 0
+D4
+~
+~
+0 0 80276
+D5
+~
+~
+0 0 80280
+D6
+~
+~
+0 0 80278
+D7
+~
+~
+0 0 80279
+R M 0 80252 50 80277
+S
+#80278
+An Experiment Room~
+~
+~
+1 8192 0
+D8
+~
+~
+0 0 80277
+R M 0 80252 50 80278
+S
+#80279
+A Study~
+~
+~
+1 8192 0
+D9
+~
+~
+0 0 80277
+R M 0 80252 50 80279
+S
+#80280
+Within The Second Circle~
+~
+Students rushing about (young) - need 3 pieces this time - buttwhooped by 2 guards!
+~
+1 8192 0
+D4
+~
+~
+0 0 80277
+D5
+~
+~
+0 0 80283
+D8
+~
+~
+0 0 80282
+D9
+~
+~
+0 0 80281
+R M 0 80252 50 80280
+S
+#80281
+A Study~
+~
+~
+1 8192 0
+D7
+~
+~
+0 0 80280
+R M 0 80252 50 80281
+S
+#80282
+An Experiment Room~
+~
+~
+1 8192 0
+D6
+~
+~
+0 0 80280
+R M 0 80252 50 80282
+S
+#80283
+Within The Third Circle~
+~
+Students rushing about - need 5 pieces this time - buttwhooped by 3 guards!
+~
+1 8192 0
+D1
+~
+~
+0 0 80285
+D3
+~
+~
+0 0 80284
+D4
+~
+~
+0 0 80280
+D5
+~
+~
+0 0 80286
+R M 0 80252 50 80283
+S
+#80284
+A Huge Library~
+~
+~
+1 8192 0
+D1
+~
+~
+0 0 80283
+R M 0 80252 50 80284
+S
+#80285
+A Small Library~
+~
+~
+1 8192 0
+D3
+~
+~
+0 0 80283
+R M 0 80252 50 80285
+S
+#80286
+The Council Room~
+~
+Oh... you walked in lookin like daddy... this is gonna hurt somethin special...
+~
+1 8192 0
+D4
+~
+~
+0 0 80283
+R M 0 80252 50 80286
+S
+#80287
+A Hall of Mirrors~
+~
+Time to play the "how much were YOU paying attention game!"
+~
+1 8192 0
+D0
+~
+~
+0 0 80288
+D1
+~
+~
+0 0 80290
+D2
+~
+~
+0 0 80289
+D3
+~
+~
+0 0 80291
+D6
+~
+~
+0 0 80294
+D7
+~
+~
+0 0 80295
+D8
+~
+~
+0 0 80293
+D9
+~
+~
+0 0 80292
+R M 0 80252 50 80287
+S
+#80288
+Before A Mirror~
+~
+Angry Reflection - Want me free? Bring me a Broken Dream.
+~
+1 8192 0
+D2
+~
+~
+0 0 80287
+R M 0 80252 50 80288
+S
+#80289
+Before A Mirror~
+~
+Afraid - Want me free? Bring me a Dark Memory
+~
+1 8192 0
+D0
+~
+~
+0 0 80287
+R M 0 80252 50 80289
+S
+#80290
+Before A Mirror~
+~
+Blissfully Unaware - Want me free? Bring me a Cold Truth
+~
+1 8192 0
+D3
+~
+~
+0 0 80287
+R M 0 80252 50 80290
+S
+#80291
+Before A Mirror~
+~
+Sad - Want me free? Bring me a Reason to Live
+~
+1 8192 0
+D1
+~
+~
+0 0 80287
+R M 0 80252 50 80291
+S
+#80292
+Before A Mirror~
+~
+Coldly Logical - Want me free? Bring me a Secret Wish
+~
+1 8192 0
+D7
+~
+~
+0 0 80287
+R M 0 80252 50 80292
+S
+#80293
+Before A Mirror~
+~
+Animal - Want me free? Bring me a Glimmer of Humanity
+~
+1 8192 0
+D6
+~
+~
+0 0 80287
+R M 0 80252 50 80293
+S
+#80294
+Before A Mirror~
+~
+Saint - Want me free? Bring me a Little Girl's Pain
+~
+1 8192 0
+D8
+~
+~
+0 0 80287
+R M 0 80252 50 80294
+S
+#80295
+Before A Mirror~
+~
+Insane - Want me free? Bring me a Thirst for Knowledge
+~
+1 8192 0
+D9
+~
+~
+0 0 80287
+R M 0 80252 50 80295
+S
+#80296
+~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

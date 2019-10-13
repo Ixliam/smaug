@@ -1,0 +1,1330 @@
+#AREA        Throtyl Sewers~
+
+
+
+#VERSION     11
+#AUTHOR      ius mir~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#33450
+decrepit old orcish man~
+a decrepit old orcish man~
+A decrepit old orcish man is here hunched over holding his back.
+~
+Before you is a decrepit old man. He seems to have once been a city guard 
+due to several Throtyl markings on his arms. He seems to be of orcish 
+decent as his crusty teeth stick out of his mouth. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+18 0 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33451
+tiny red jelly~
+`#a tiny `Rred`^ jelly~
+`#A tiny `Rred`^ jelly sludges around.
+~
+This reddish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33452
+tiny green jelly~
+`#a tiny `Ggreen`^ jelly~
+`#A tiny `Ggreen`^ jelly sludges around.
+~
+This greenish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33453
+tiny yellow jelly~
+`#a tiny `Yyellow`^ jelly~
+`#A tiny `Yyellow`^ jelly sludges around.
+~
+This yellowish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33454
+small red jelly~
+`#a small `Rred`^ jelly~
+`#A small `Rred`^ jelly sludges around.
+~
+This reddish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+11 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33455
+small green jelly~
+`#a small `Ggreen`^ jelly~
+`#A small `Ggreen`^ jelly sludges around.
+~
+This greenish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33456
+small yellow jelly~
+`#a small `Yyellow`^ jelly~
+`#A small `Yyellow`^ jelly sludges around.
+~
+This yellowish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33457
+big red jelly~
+`#a big `Rred`^ jelly~
+`#A big `Rred`^ jelly sludges around.
+~
+This reddish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33458
+big green jelly~
+`#a big `Ggreen`^ jelly~
+`#A big `Ggreen`^ jelly sludges around.
+~
+This greenish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33459
+big yellow jelly~
+`#a big `Yyellow`^ jelly~
+`#A big `Yyellow`^ jelly sludges around.
+~
+This yellowish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33460
+immense red jelly~
+`#an immense `Rred`^ jelly~
+`#An immense `Rred`^ jelly sludges here.
+~
+This reddish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+19 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33461
+immense green jelly~
+`#an immense `Ggreen`^ jelly~
+`#An immense `Ggreen`^ jelly sludges here.
+~
+This greenish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+17 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33462
+immense yellow jelly~
+`#an immense `Yyellow`^ jelly~
+`#An immense `Yyellow`^ jelly sludges here.
+~
+This yellowish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+17 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33463
+colossal red jelly~
+a colossal `#`Rred`^ jelly~
+`#A colossal `Rred`^ jelly sludges here.
+~
+This reddish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+24 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33464
+colossal green jelly~
+`#a colossal `Ggreen`^ jelly~
+`#A colossal `Ggreen`^ jelly sludges here.
+~
+This greenish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33465
+colossal yellow jelly~
+`#a colossal `Yyellow`^ jelly~
+`#A colossal `Yyellow`^ jelly sludges here.
+~
+This yellowish colored jelly appears to have no bones inside it's being at all.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+22 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33466
+stinking rat~
+a stinking rat~
+A stinking rat scurries around here.
+~
+This little bitty rat smells of trash and garbage. It has small red eyes 
+when it is awake and scrambling around. 
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33467
+small stinking green kobold~
+a small stinking green kobold~
+A small stinking green kobold sits at the oaken table.
+~
+This small green kobold is close to 4 feet tall and has a foul odor coming 
+from it's being. His skinny arms protrude from his warted body. He has 
+pointy facial features, and a small patch of black hair on top of his head. 
+
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+28 0 -8 5d5+125 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33468
+small pudgy kobold fat~
+a fat pudgy kobold~
+A small pudgy kobold sits at the oaken table.
+~
+This pudgy kobold has small rolls of sweaty fat that seem to carry a unique 
+odor with him. His small beaty red eyes glow when his eyes are open. Small 
+stubby limbs protrude out from his body. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33469
+stout muscular kobold~
+a stout, muscular kobold~
+A stout and muscular kobold sits at the oaken table.
+~
+This kobold stands a little over 4 and a half feet tall, which is rather 
+large for the normal kobold. His muscles are irregulary well formed and his 
+limbs are the size of small tree trunks. His skin is a dark brown color and 
+he has a grey patch of hair on his head. 
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+34 0 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33470
+sly female kobold~
+a sly looking female kobold~
+A sly looking female kobold sits at the oaken table.
+~
+This female kobold appears to be a young adult and is around 4 feet in tall 
+and rather skinny but toned. Her facial features are quite attractive for 
+her race, as they appear to be elvish in nature, but she is no doubt a 
+kobold. 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+26 0 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33471
+blob enormous goo~
+an enormous blob of goo~
+An enormous blob of goo oozes around here.
+~
+This enormous blob of green and red colors appears to have no bones holding 
+it together. This nasty creature just seems to ooze around in a lifelike 
+manner. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#33472
+rat gigantic furry~
+a gigantic furry rat~
+A gigantic furry rat scurries around here.
+~
+This giant rat is several feet in length and has to weight over 100 pounds. 
+Its hair is soaked in grease and its paws are black with mud. It's large 
+red eyes gleam in the darkness when it is awake. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+32 0 -10 5d6+160 6d4+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#33450
+rusty chipped iron sword~
+a `#`yrusty`^ chipped iron sword~
+An old chipped iron sword covered in rust has been left here.~
+~
+5 0 4
+3 17 25 128 0 0 0
+2 85 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33451
+rusty iron bracer~
+a `#`yrusty iron`^ bracer~
+An iron bracer covered in rust has been left here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33452
+black iron lantern~
+a `#`Sblack iron`^ lantern~
+A `#`Sblack iron`^ lantern has been left here.~
+~
+1 0 1
+0 90 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33453
+torn heavy woolen cloak~
+a torn heavy woolen cloak~
+A heavy woolen cloak torn in several places is here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33454
+old mouldy wood table~
+an old mouldy wooden table~
+An old mouldy wooden table with several chairs has been placed here.~
+~
+15 0 8
+0 0 0 0 0 0 0
+10 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33455
+deck symbolic cards~
+a deck of symbolic cards~
+A deck of symbolic holding cards has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33456
+small pile gold coins~
+a small pile of gold coins~
+A small pile of gold coins has been left here.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33457
+small shining dagger~
+a small shining dagger~
+A small dagger that shines has been left here.~
+~
+5 16 4
+2 35 50 8 0 0 0
+1 430 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33458
+silver onyx embedded ring~
+a `#`Ssilver`^, onyx embedded ring~
+A `#`Ssilver`^ ring with a small onyx stone embedded on it is here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33459
+stained studded leather vest~
+a stained studded leather vest~
+A studded leather vest with a brown stain tanned on it is here.~
+~
+9 0 8
+30 30 7 0 0 0 0
+2 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33460
+inscribed mahogany staff~
+an inscribed mahogany staff~
+A mahogany staff with many inscriptions upon it has been left here.~
+~
+5 2 4
+3 35 50 32 0 0 0
+1 470 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33461
+black small bandanna~
+a small `#`Sblack`^ bandanna~
+A small `#`Sblack`^ bandanna has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 46 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33462
+rotted wooden sandals~
+a pair of rotted wooden sandals~
+A pair of rotted sandals made of wood have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33463
+stained studded leather leggings~
+some stained studded leather leggings~
+Some studded leather leggings tailored with stain have been left here.~
+~
+9 0 8
+20 20 5 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33464
+smelling grey cloth pants~
+a pair of smelling grey cloth pants~
+A pair of grey cloth pants giving off odor has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33465
+blue steel short-sword~
+a `#`cblue steel`^ short-sword~
+A short-sword made of `#`cbluish steel`^ has been left here.~
+~
+5 2 4
+3 38 51 8 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33466
+ivory-bone collar~
+an `#`wivory-bone`^ collar~
+A collar made of `#`wivory`^ and `#`wbone`^ has been left here.~
+~
+9 64 8
+30 30 4 0 0 0 0
+1 475 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33467
+gleaming green quartz stone~
+a gleaming `#`Ggreen`^ quartz~
+A gleaming stone made of `#`Ggreen quartz`^ floats here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33468
+dark woolen cloak~
+a dark woolen cloak~
+A dark cloak made of wool has been left here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 425 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33469
+ring band small silver~
+a small `#`Ssilver`^ band~
+A small ring-band of `#`Ssilver`^ has been left here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33470
+skirt black leather~
+a `#`Sblack leather`^ skirt~
+A `#`Sblack leather`^ skirt has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33471
+top black leather~
+a `#`Sblack leather`^ top~
+A `#`Sblack leather`^ top has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33472
+collar large spiked dog~
+a large spiked dog collar~
+A large dog collar with spikes in it have been left here.~
+~
+9 0 8
+30 30 4 0 0 0 0
+1 320 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#33499
+small twisted silver necklace~
+a small twisted `#`Ssilver`^ necklace~
+A small necklace made of twisted strands of `#`Ssilver`^ is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#33450
+A Dark, Damp Sewer Tunnel~
+~
+Down in the sewer there is about 3 inches of filthy water on the bottom of 
+the tunnel. Around you there is slime dripping down the walls from the 
+waste of the city above. Through the darkness you can see many shadows 
+moving around, and amongst them you can hear faint whispers. There are 
+tunnels leading off in many direction, but each of them are as dark as the 
+other. 
+~
+1 8 0
+D0
+~
+~
+0 0 33466
+D1
+~
+~
+0 0 33459
+D2
+~
+~
+0 0 33451
+D3
+~
+~
+0 0 33463
+D4
+~
+door~
+1 0 27040
+R M 0 33450 1 33450
+  R E 0 33450 0 16
+  R E 0 33451 0 15
+  R E 0 33451 0 14
+  R E 0 33452 0 0
+  R E 0 33453 0 12
+S
+#33451
+A Dark, Damp Sewer Tunnel~
+~
+Below you there are several inches of murky water covering the tunnel that 
+gives off an awful smell. Around you there is slime dripping down the 
+walls from some waste above. Through the darkness, shadows seem to move all 
+about. The musky tunnel appears to lead off to the north and to the east. 
+~
+1 0 0
+D0
+~
+~
+0 0 33450
+D1
+~
+~
+0 0 33452
+R M 0 33466 6 33451
+S
+#33452
+A Dark, Damp Sewer Tunnel~
+~
+Below you is a `#`sgrate`^ where water is flowing down into the darkness.  All 
+around you the walls are gunked with a slimey gel that radiates in the dark 
+tunnel.  Through the darkness, the shadows seem to move all about.  The 
+musky tunnel appears to lead off to the west.  
+~
+1 0 0
+D3
+~
+~
+0 0 33451
+D5
+~
+grate~
+1 0 33453
+E
+grate ~
+The grate appears to be movable.
+~
+S
+#33453
+Below a Grate in a Dark, Damp Sewer Tunnel~
+~
+Above you is a `#`sgrate`^ where water is flowing down to the floor of the tunnel. 
+ There is multi-colored gel caked on the walls that radiates in the 
+darkness.  Peering into the blackness around you, the shadows seem to move 
+all about.  The musky tunnel appears to lead off to the east.  
+~
+1 0 0
+D1
+~
+~
+0 0 33454
+D4
+~
+door~
+1 0 33452
+R M 0 33466 6 33453
+E
+grate ~
+The grate appears to be moveable.
+~
+S
+#33454
+A Tunnel Full of Gel Caked Walls~
+~
+There is a slimey green water below you that fills the bottom of the tunnel. 
+ A flare of gels caked on the wall appear to radiate light into the room. 
+Peering around you the tunnel leads off west into the darkness, but several 
+other turns in the tunnel in other directions seem to radiate the same light 
+as this room does. 
+~
+1 33554432 0
+D1
+~
+~
+0 0 33456
+D2
+~
+~
+0 0 33455
+D3
+~
+~
+0 0 33453
+R M 0 33451 2 33454
+R M 0 33452 2 33454
+R M 0 33453 2 33454
+S
+#33455
+A Tunnel Full of Gel Caked Walls~
+~
+There is a slimey green water below you that fills the bottom of the tunnel. 
+ A flare of gels caked on the wall appear to radiate light into the room. 
+Peering around you the tunnel leads off to the north and east, and both 
+rooms seem to radiate with the same colorful light that this room does. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 33454
+D1
+~
+~
+0 0 33457
+R M 0 33454 2 33455
+R M 0 33455 2 33455
+R M 0 33456 2 33455
+S
+#33456
+A Tunnel Full of Gel Caked Walls~
+~
+There is a slimey green water below you that fills the bottom of the tunnel. 
+ A flare of gels caked on the wall appear to radiate light into the room. 
+Peering around you the tunnel leads off to the west and south, and both 
+rooms seem to radiate with the same colorful light that this room does. 
+~
+1 33554432 0
+D2
+~
+~
+0 0 33457
+D3
+~
+~
+0 0 33454
+R M 0 33457 2 33456
+R M 0 33458 2 33456
+R M 0 33459 2 33456
+S
+#33457
+A Tunnel Full of Gel Caked Walls~
+~
+There is a slimey green water below you that appears to be flowing down 
+through a `sgrate`x. A flare of gels caked on the wall appear to radiate light 
+into the room. Peering around you the tunnel leads off to north and west, 
+and both rooms seem to radiate with the same colorful light that this room 
+does. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 33456
+D3
+~
+~
+0 0 33455
+D5
+~
+grate~
+1 0 33458
+R M 0 33460 2 33457
+R M 0 33461 2 33457
+R M 0 33462 2 33457
+E
+grate ~
+The grate appears to be moveable.
+~
+S
+#33458
+A Flooded Pit~
+~
+This room's floor has about 2 feet of water in it, where there appears to be 
+cracks in the floor in the northeast corner where the water is slowly 
+draining out into the unknown.  The walls are completely covered in 
+colorful, flaring gel that lights up the room like a dozen torches.  The 
+water is very putrid and it reeks of waste and feces.  The water also 
+appears to be steaming a little in the damp pit.  The only way out of this 
+room appears to be a `sgrate`x with a ladder built into the wall leading upward. 
+ A strange smell comes from the north.  
+~
+1 33554432 0
+D4
+~
+~
+1 0 33457
+R M 0 33463 2 33458
+R M 0 33464 2 33458
+R M 0 33465 2 33458
+E
+grate ~
+The grate appears to be moveable.
+~
+S
+#33459
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is several inches of murkey water covering the tunnel that 
+gives off an aweful smell. Around you there is slime dripping down the 
+walls from some waste above. Through the darkness, the shadows seem to move 
+all about. The musky tunnel appears to lead westward and off to the 
+northeast. 
+~
+1 0 0
+D3
+~
+~
+0 0 33450
+D6
+~
+~
+0 0 33460
+R M 0 33466 6 33459
+S
+#33460
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is several inches of murky water covering the tunnel that 
+gives off an awful smell. Around you there is slime dripping down the 
+walls from some waste above. Through the darkness, the shadows seem to move 
+all about. The musky tunnel appears to lead to the southwest and off to the 
+east. 
+~
+1 0 0
+D1
+~
+~
+0 0 33462
+D8
+~
+~
+0 0 33459
+S
+#33462
+A Large and Thick Nest~
+~
+This part of the tunnel is completely covered with trash and straw type 
+material that has been structured into some sort of nest. There is some 
+water that has leaked up next to the nest, but it has not entered the nest. 
+There is a reaking smell coming from the nest, and there is also some fur 
+ontop of it. Through the darkness, the shadows seem to move all about. The 
+musky tunnel appears to lead to the west. 
+~
+1 0 0
+D3
+~
+~
+0 0 33460
+R M 0 33472 1 33462
+  R E 0 33472 0 3
+S
+#33463
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is several inches of murkey water covering the tunnel that 
+gives off an aweful smell. The water seems to be moving in a current to the 
+northwest. Around you there is slime dripping down th walls from some waste 
+above. Through the darkness, shadows seem to move all about. The musky 
+tunnel appears to lead off to the northwest and to the east. 
+~
+1 0 0
+D1
+~
+~
+0 0 33450
+D9
+~
+~
+0 0 33464
+S
+#33464
+A Dark, Damp Sewer Tunnel~
+~
+Below you is several inches of murkey water that drain down into an open 
+sewer hole in the floor. There looks to be a ladder built into the tunnel 
+that leads down with the tunneled hole. Around you there is slime dripping 
+down the walls from some waste above. Through the darkness, shadows seem to 
+move all about. The musky tunnel appears to lead downward into the unknown 
+and off to the southeast. 
+~
+1 0 0
+D5
+~
+~
+0 0 33465
+D7
+~
+~
+0 0 33463
+S
+#33465
+A Nasty Sewer Dump~
+~
+This room is completely enveloped in murky water and mounds of trash and 
+waste. There is a most aweful smell that rises from this room as insect and 
+other things grovel in the waste. The shadows all around seem to move as 
+the dump you are in only appears to exit through a small hole in the ceiling 
+of which a ladder is attached to the wall that leads up and through the 
+opening. 
+~
+1 0 0
+D4
+~
+~
+0 0 33464
+R M 0 33471 1 33465
+S
+#33466
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is several inches of murkey water covering the tunnel floor 
+that gives off an aweful smell. Around you there is slime dripping down the 
+walls from some waste above. Through the darkness, the shadows seem to move 
+all about. The musky tunnel appears to lead to the northeast and off to the 
+south. 
+~
+1 0 0
+D2
+~
+~
+0 0 33450
+D6
+~
+~
+0 0 33467
+S
+#33467
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is several inches of murkey water covering the tunnel floor 
+that gives off an aweful smell. Around you there is slime dripping down the 
+walls from some waste above. Through the darkness, the shadows seem to move 
+all about. To the west there is a beaten up oaken door blocking the tunnel 
+passage. To the northwest the tunnel leads on into the unknown. 
+~
+1 0 0
+D3
+~
+oak door~
+1 0 33469
+D8
+~
+~
+0 0 33466
+D9
+~
+~
+0 0 33468
+R M 0 33466 4 33467
+S
+#33468
+A Dark, Damp Sewer Tunnel~
+~
+Below you there is some water near the exit of the tunnel, but the northwest 
+corner of the tunnel appears to be dry, as the current is leading 
+southeastward and not to the north. The walls are covered in dripping slime 
+coming from some waste above. Peering around the shadows seem to dance 
+everywhere. This tunnel appears to be nothing more than a dead end. The 
+tunnel leads to the southeast. 
+~
+1 0 0
+D7
+~
+~
+0 0 33467
+S
+#33469
+A Room Built into the Sewer Tunnel~
+~
+This room appears to be an old dead end of the sewer tunnels. The floor is 
+free of water, but is caked with mud by the door. The walls are covered 
+with animal furs, and several torches hang on the wall. The ceiling has old 
+mold on it as this tunnel is damp, and there seems to be moisture in the 
+air. To the east is an oak door that has been built onto the tunnel. 
+
+~
+1 33554432 0
+D1
+~
+oak door~
+1 0 33467
+R O 0 33454 0 33469
+  R P 0 33456 1 33454
+  R P 0 33455 1 33454
+R M 0 33467 1 33469
+  R E 0 33457 0 23
+  R E 0 33463 0 7
+  R E 0 33458 0 1
+  R E 0 33459 0 5
+R M 0 33468 1 33469
+  R G 0 33460 0
+  R E 0 33461 0 6
+  R E 0 33462 0 8
+  R E 0 33464 0 7
+R M 0 33469 1 33469
+  R E 0 33465 0 23
+  R E 0 33466 0 3
+  R E 0 33467 0 18
+  R E 0 33468 0 12
+R M 0 33470 1 33469
+  R E 0 33499 0 3
+  R E 0 33469 0 2
+  R E 0 33470 0 7
+  R E 0 33471 0 5
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

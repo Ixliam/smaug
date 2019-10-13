@@ -1,0 +1,1096 @@
+#AREA        Newbie Arena~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#4009
+rabbit~
+the rabbit~
+A rabbit is bouncing around here.
+~
+The rabbit smiles at you, completely harmless!
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4010
+lizard~
+the lizard~
+A lizard slithers up to you.
+~
+It smiles at you, and tries to eat your leg.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4011
+boar~
+the boar~
+A boar tries to run you over.
+~
+It grunts at you.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+3 1 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4012
+fox~
+the fox~
+A fox is here staring at you.
+~
+It's fur might be worth money.
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+1 1 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4013
+snail~
+the snail~
+A snail is trying to get out of your way.
+~
+You don't see much but slime about it.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4014
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+5 1 5 2d5+4 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4015
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 1 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4016
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#4022
+South Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4029
+D1
+~
+~
+0 0 4025
+D3
+~
+~
+0 0 4023
+D4
+~
+~
+0 0 4060
+S
+#4023
+South Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4028
+D1
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4024
+D4
+~
+~
+0 0 4060
+S
+#4024
+South West Corner of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4027
+D1
+~
+~
+0 0 4023
+D4
+~
+~
+0 0 4060
+R M 0 4013 5 4024
+S
+#4025
+South Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4030
+D1
+~
+~
+0 0 4026
+D3
+~
+~
+0 0 4022
+D4
+~
+~
+0 0 4060
+S
+#4026
+South East Corner of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4031
+D3
+~
+~
+0 0 4025
+D4
+~
+~
+0 0 4060
+R M 0 4012 3 4026
+S
+#4027
+West Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4032
+D1
+~
+~
+0 0 4028
+D2
+~
+~
+0 0 4024
+D4
+~
+~
+0 0 4060
+S
+#4028
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4033
+D1
+~
+~
+0 0 4029
+D2
+~
+~
+0 0 4023
+D3
+~
+~
+0 0 4027
+D4
+~
+~
+0 0 4060
+S
+#4029
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4034
+D1
+~
+~
+0 0 4030
+D2
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4028
+D4
+~
+~
+0 0 4060
+S
+#4030
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4035
+D1
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4025
+D3
+~
+~
+0 0 4029
+D4
+~
+~
+0 0 4060
+S
+#4031
+East Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4036
+D2
+~
+~
+0 0 4026
+D3
+~
+~
+0 0 4030
+D4
+~
+~
+0 0 4060
+S
+#4032
+West Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4037
+D1
+~
+~
+0 0 4033
+D2
+~
+~
+0 0 4027
+D3
+~
+~
+0 0 7359
+D4
+~
+~
+0 0 4060
+S
+#4033
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4038
+D1
+~
+~
+0 0 4034
+D2
+~
+~
+0 0 4028
+D3
+~
+~
+0 0 4032
+D4
+~
+~
+0 0 4060
+S
+#4034
+Center of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+1 8 0
+D0
+~
+~
+0 0 4039
+D1
+~
+~
+0 0 4035
+D2
+~
+~
+0 0 4029
+D3
+~
+~
+0 0 4033
+D4
+~
+~
+0 0 4060
+D5
+You see a dark murky dungeon below.
+~
+grate~
+1 -1 4048
+R M 0 4009 4 4034
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+S
+#4035
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4040
+D1
+~
+~
+0 0 4036
+D2
+~
+~
+0 0 4030
+D3
+~
+~
+0 0 4034
+D4
+~
+~
+0 0 4060
+S
+#4036
+East Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4041
+D2
+~
+~
+0 0 4031
+D3
+~
+~
+0 0 4035
+D4
+~
+~
+0 0 4060
+S
+#4037
+West Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4042
+D1
+~
+~
+0 0 4038
+D2
+~
+~
+0 0 4032
+D4
+~
+~
+0 0 4060
+S
+#4038
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4043
+D1
+~
+~
+0 0 4039
+D2
+~
+~
+0 0 4033
+D3
+~
+~
+0 0 4037
+D4
+~
+~
+0 0 4060
+S
+#4039
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4044
+D1
+~
+~
+0 0 4040
+D2
+~
+~
+0 0 4034
+D3
+~
+~
+0 0 4038
+D4
+~
+~
+0 0 4060
+S
+#4040
+Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4045
+D1
+~
+~
+0 0 4041
+D2
+~
+~
+0 0 4035
+D3
+~
+~
+0 0 4039
+D4
+~
+~
+0 0 4060
+S
+#4041
+East Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D0
+~
+~
+0 0 4046
+D2
+~
+~
+0 0 4036
+D3
+~
+~
+0 0 4040
+D4
+~
+~
+0 0 4060
+S
+#4042
+North West Corner of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D1
+~
+~
+0 0 4043
+D2
+~
+~
+0 0 4037
+D4
+~
+~
+0 0 4060
+R M 0 4010 3 4042
+S
+#4043
+North Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+~
+1 8 0
+D1
+~
+~
+0 0 4044
+D2
+~
+~
+0 0 4038
+D3
+~
+~
+0 0 4042
+D4
+~
+~
+0 0 4060
+S
+#4044
+North Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D1
+~
+~
+0 0 4045
+D2
+~
+~
+0 0 4039
+D3
+~
+~
+0 0 4043
+D4
+~
+~
+0 0 4060
+S
+#4045
+North Wall of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D1
+~
+~
+0 0 4046
+D2
+~
+~
+0 0 4040
+D3
+~
+~
+0 0 4044
+D4
+~
+~
+0 0 4060
+S
+#4046
+North East Corner of Arena~
+~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+1 8 0
+D2
+~
+~
+0 0 4041
+D3
+~
+~
+0 0 4045
+D4
+~
+~
+0 0 4060
+R M 0 4011 3 4046
+S
+#4048
+The Center of the Dungeon~
+~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+1 8 0
+D0
+You see the north wall.
+~
+~
+0 0 4050
+D1
+You see the east wall.
+~
+~
+0 0 4053
+D2
+You see the south wall.
+~
+~
+0 0 4055
+D3
+You see the west wall.
+~
+~
+0 0 4052
+D4
+You see safety!
+~
+grate~
+1 -1 4034
+S
+#4049
+The North West Corner of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D1
+You see the north wall.
+~
+~
+0 0 4050
+D2
+You see the south wall.
+~
+~
+0 0 4052
+R M 0 4014 1 4049
+S
+#4050
+The North Wall of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D1
+You see the north east corner.
+~
+~
+0 0 4051
+D2
+You see the center of the dungeon.
+~
+~
+0 0 4048
+D3
+You see the north west corner.
+~
+~
+0 0 4049
+S
+#4051
+The North East Corner of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D2
+You see the east wall.
+~
+~
+0 0 4053
+D3
+You see the north wall.
+~
+~
+0 0 4050
+R M 0 4015 2 4051
+S
+#4052
+The West Wall of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D0
+You see the north west corner.
+~
+~
+0 0 4049
+D1
+You see the center of the dungeon.
+~
+~
+0 0 4048
+D2
+You see the south west corner.
+~
+~
+0 0 4054
+S
+#4053
+The East Wall of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D0
+You see the north east corner.
+~
+~
+0 0 4051
+D2
+You see the south east corner.
+~
+~
+0 0 4056
+D3
+You see the center of the dungeon.
+~
+~
+0 0 4048
+S
+#4054
+The South West Corner of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D0
+You see the north wall.
+~
+~
+0 0 4052
+D1
+You see the south wall.
+~
+~
+0 0 4055
+R M 0 4016 2 4054
+S
+#4055
+The South Wall of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D0
+You see the center of the dungeon.
+~
+~
+0 0 4048
+D1
+You see the south east corner.
+~
+~
+0 0 4056
+D3
+You see the south west corner.
+~
+~
+0 0 4054
+S
+#4056
+The South East Corner of the Dungeon~
+~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+1 9 0
+D0
+You see the east wall.
+~
+~
+0 0 4053
+D3
+You see the south wall.
+~
+~
+0 0 4055
+S
+#4060
+A Safe Room~
+~
+You are in a safe room, away from all the mean rabbits and snails of the 
+Arena.  You can rest here, and go up to go back to the Newbie Recall Point.  
+
+~
+1 12 0
+D4
+~
+~
+0 0 7359
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,2198 @@
+#AREA        Coral Reef~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#4725
+trigger~
+`x~
+`x 
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+200 0 -24 14d132+1100 7d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4726
+trigger~
+`x~
+`x 
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+200 0 -24 14d132+1100 7d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4727
+seahorse~
+a large `#`yseahorse`^~
+A large `#`yseahorse`^ drifts here.
+~
+A seahorse, large for his breed, looks at you expectantly.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+50 50 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4728
+wolffish~
+`bAn immense fish`x~
+`bAn immense wolffish lies in wait for prey. `x 
+~
+`bAn immense fish almost 60 feet in length, it's massive jaws yaw
+toothily as it sees you entering the cavern. It's body is monochromatic
+grey, with immense eyes that track your every movement. It's fins are
+serrated and it's tail short, and obviously powerful. The body is striped in
+two different `Dgreys`b. `x 
+~
+0
+Clanname none~
+0
+0
+33 65536 0 C
+50 50 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4729
+starfish~
+a large starfish~
+A large starfish hides within the crevice.
+~
+Hiding inside the crevice, the starfish preys upon the coral colonies.  
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+40 40 -13 5d6+235 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4730
+seahorse~
+`WThe Old`x `ySeahorse`x~
+`WA wizened, old`x `ySeahorse`x `Wdrifts here. `x 
+~
+`wA`x `yseahorse`x`w, wizened and tired, drifts here. `x 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 50 -19 5d9+275 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4731
+damselfish~
+`MThe Damselfish in Distress`x~
+`MA Damselfish darts quickly about. `x 
+~
+`MSwimming erratically, the Damselfish tries to avoid the sea's
+predators. `x 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 40 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4732
+starfish crown thorns~
+a large starfish~
+A `#`ycrown-of-thorns starfish`^ rests upon his throne. 
+~
+Luxuriating amidst his wealth, the Crown-of-Thorns regally watches you.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 50 -19 5d9+275 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4733
+octopus~
+a `Wlarge Octopus`x~
+`DA large Octopus guards his treasures. `x 
+~
+`DThe Octopus jealously guards his horde of treasures hidden within his
+garden. `x 
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+50 50 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4734
+jellyfish~
+a jellyfish~
+`DA jellyfish floats through the waters. `x 
+~
+`DA grey mass of jelly floats in the sea. Its tentacles sweeping in its
+wake. `x 
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+26 30 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4735
+clam~
+a `#`Bclam`^~
+A clam rests here.
+~
+An immense clam rests along the sea floor.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+30 30 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4736
+clownfish~
+a `#`Rc`Yl`Ro`Yw`Rn`Yf`Ri`Ys`Rh`^~
+A `#`Rc`Yl`Ro`Yw`Rn`Yf`Ri`Ys`Rh`^ swims amidst the coral. 
+~
+A brightly colored fish darts among the waters of the sea.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+35 35 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4737
+firefish~
+a `#`rfirefish`^~
+A `#`rfirefish`^ swims gracefully in the ocean waters.
+~
+Swimming gracefully, this red fish terrorizes the deep.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 40 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4738
+lionfish~
+a lionfish~
+The lionfish glides through the waters.
+~
+Lurking within the depths, the lionfish awaits his prey.  
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+45 45 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4739
+trigger~
+~
+`
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+200 200 -134 411d67+8081 67d2+140
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#4725
+sponge~
+a small `#`msponge`^~
+A small sponge has broken away from the reef.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4726
+babelfish~
+a small `#`Mbabelfish`^~
+A small babelfish swims here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4727
+algae~
+a small piece of `#`Galgae`^~
+A small piece of `#`Galgae`^ clings to the coral.~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4728
+black coral~
+a sprig of `#`sblack coral`^~
+A small piece of `#`sblack coral`^ rests here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4729
+coral key~
+a small piece of `#`wcoral`^~
+`RA small piece of coral rests here.`x~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4730
+questdone~
+`wDamselfish Quest Done Token`x~
+`X~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4731
+scale shield~
+a `MDamselfish scale`x~
+`MA scale of the Damselfish rests here.`x~
+~
+9 0 8
+8 8 8 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4732
+coral key~
+`RA small piece of coral`x~
+`RA small piece of coral rests here.`x~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4733
+sand dollar~
+a `#`ysand dollar`^~
+`yA sand dollar floats here.`x~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 980 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4734
+mp4746~
+the `wSeahorse's Quest Token`x~
+`x~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4735
+mp47M35~
+`wTimer Token`x~
+`x~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4736
+damselfish tunic~
+a `W"I found the `MDamselfish`W" tunic`x~
+`WA tunic lies here.`x~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4737
+pearl~
+`Wa small pearl`x~
+`WA small pearl lies here.`x~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4738
+pearl ring~
+`Wa pearl ring`x~
+`WA small pearl ring lies here.`x~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4738 ring~
+`WEtched with distinctive markings, it looks as though this ring was once worn 
+by a powerful magic user.  `x 
+~
+#4739
+pearl bracelet~
+`Wa small pearl bracelet`x~
+`WA pile of small pearls lies here.`x~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4740
+ship stern galley~
+the ship's stern~
+The battered stern of an ancient galley is nestled upon the ocean's floor.~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4741
+gold~
+a pile of `#`Ygold`^~
+A pile of `#`Ygold`^ is scattered here.~
+~
+20 0 16
+15 0 0 0 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4742
+statue~
+`ra`x `Dsmall`x `rstatue`x~
+`DA statue of a small `reel`x `Dlies here.`x~
+~
+3 0 2
+0 0 0 -1 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#0
+
+
+#ROOMS
+#4725
+The Coral Reef~
+~
+Coral reefs of all the colours of the rainbow can be seen here
+reflecting the light, which filters through. Fish of unknown 
+origins swim in and out of the reef slowly, adding a sense of 
+serenity. Air bubbles float gently from the reefs to the 
+surface, giving the coral an appearance of breathing.
+~
+1 0 12
+D1
+The coral reef continues.
+~
+~
+0 0 4726
+R M 0 4734 5 4725
+S
+#4726
+The Coral Reef~
+~
+Shafts of light twinkle in the stillness of the deep blue water.  A
+large cylindrical reef rises from the ocean floor, it's surface 
+dominated by smaller coral colonies.  Beautifully colored and 
+exotically shaped fish swim among the colonies.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4727
+D3
+The coral reef continues.
+~
+~
+0 0 4725
+S
+#4727
+The Coral Reef~
+~
+A cylindrical reef rises from the ocean floor exhibiting the many
+colors of the rainbow. Coral colonies dominate the surface of the reef,
+where large numbers of fish swim among them.  Starfish, intent on their
+own business, slowly make their way, as a group of exotic seahorses 
+swim in and around the reef. Further travel into the depths is blocked 
+by an overhanging of coral below.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4728
+D2
+The coral reef continues.  
+~
+~
+0 0 4726
+R M 0 4736 5 4727
+S
+#4728
+The Coral Reef~
+~
+The forms of the stony Coral colonies of the reef closely resemble
+a sculptor's workshop.  As beautifully colored fish swim through
+the deep blue water, seahorses dart in and out of the Coral
+formations along the reef.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4731
+D3
+The coral reef continues.  
+~
+~
+0 0 4727
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4729
+S
+#4729
+Along The Ocean Floor~
+~
+Along the ocean's floor, the stony coral formations have given way 
+to soft coral colonies, which were hidden beneath the formations.
+Giant clams, starfish, and a colorful variety of sedentary fish lie
+about the sea's floor.  The huge cylindrical reef allows exit only
+to the north or up towards the surface.
+~
+1 8 12
+D0
+You can continue along the ocean floor.  
+~
+~
+0 0 4730
+D4
+The coral reef continues.  
+~
+~
+0 0 4728
+R M 0 4735 5 4729
+  R G 0 4737 0
+S
+#4730
+Along The Ocean Floor~
+~
+At this depth, larger forms of life can be seen gliding through The
+deep blue waters. Here, the harder coral formations have given way 
+to softer varieties.  Giant crabs and larger starfish hang about 
+under Coral overhangings, while at the edges, seasnakes find holes
+to hide within.
+~
+1 8 12
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4734
+D2
+You can continue along the ocean floor.  
+~
+~
+0 0 4729
+D4
+The coral reef continues.  
+~
+~
+0 0 4731
+S
+#4731
+The Coral Reef~
+~
+The stony coral colonies are exotic in their many and varied forms, as
+if sculpted by sentient hands. The beauty of the many shapes almost takes
+attention away from the myriad and colorful forms of the small fish that
+swim in and around the coral. Among the many other forms of sea life found 
+here are playful seahorses that dart in and out of the formations and many 
+armed starfish that slowly make their way across the reef. 
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4732
+D2
+The coral reef continues.  
+~
+~
+0 0 4728
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4730
+R M 0 4734 5 4731
+S
+#4732
+The Coral Reef~
+~
+Continuing to glide through the deep waters, you are surrounded by all
+the wonders of the sea. The Coral formations are criss-crossed by
+shafts of light that pierce the warm ocean water. The reef
+seems almost alive as air bubbles float from it to the surface.  
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4733
+D3
+The coral reef continues.  
+~
+~
+0 0 4731
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4734
+R O 0 4727 0 4732
+S
+#4733
+The Coral Reef~
+~
+Beautifully colored fish swim in and about The Coral
+formations, which appear to have been sculpted by sentient beings. The
+cylindrical reef, rising from the ocean floor, exhibits the many colors of
+the rainbow.  Further travel into the ocean depths is blocked by an
+outcropping of the Coral reef.  
+~
+1 0 12
+D0
+The coral reef continues.
+~
+~
+0 0 4789
+D1
+A whirlpool attempts to pull you towards it.  
+~
+~
+0 0 4735
+D2
+The coral reef continues.
+~
+~
+0 0 4790
+D3
+The coral reef continues.  
+~
+~
+0 0 4732
+S
+#4734
+Along The Ocean Floor~
+~
+The ocean's floor is a coral kaleidoscope of shapes and colors.  
+An overhanging formation of coral offers a shadowy hiding place 
+for fish, which glide through the waters.  A large coral colony 
+blocks all exits, except to the west or up towards the water's 
+surface.
+~
+1 8 12
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4730
+D4
+The coral reef continues.  
+~
+~
+0 0 4732
+R M 0 4738 1 4734
+S
+#4735
+A Whirlpool~
+~
+The current begins to froth and churn as it rushes towards
+the center of the whirlpool!  Although the grasp of the 
+vortex is strong, breaking free might be possible!
+~
+1 4 12
+D1
+An escape from the whirlpool opens up to the east.  
+~
+~
+0 0 4740
+D5
+~
+~
+0 0 4736
+R M 0 4725 1 4735
+S
+#4736
+A Whirlpool~
+~
+Sucked further down in to the fierce maelstrom, there seems
+to be no avenue of escape!  With any luck, the turbulent 
+waters will not dash you into pieces against the Coral
+reef!
+~
+1 12 12
+R M 0 4726 1 4736
+R O 0 4725 0 4736
+S
+#4737
+The Sea Floor~
+~
+The sea floor is cluttered with debris that has been battered 
+against the stony coral formation, which has created a small 
+cave-like room.  The water from the whirlpool above rushes 
+through the small cave, threatening to batter all within it's 
+path.
+~
+1 8 12
+D0
+You see a strange looking boulder coral sitting to the north.  
+~
+boulder~
+33 4725 4745
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4746
+R M 0 4735 5 4737
+  R G 0 4739 0
+S
+#4738
+A Small Outcropping of Coral~
+~
+A small island, created by ancient Coral formations, is
+surrounded by clear, blue waters. Able to support only 
+minimal flora and fauna, there is very little to see 
+here. Gazing into The waters, a plethora of colors and 
+shapes can be seen. 
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4741
+D3
+The coral reef continues.  
+~
+~
+0 0 4789
+D5
+There seems to be a loose piece of Coral.  
+~
+coral~
+33 4727 4768
+R O 0 4727 0 4738
+S
+#4739
+The Coral Reef~
+~
+Gliding along the reef, an amazing number of exotic fish 
+dart in and about the coral formation. The coral, sponges, 
+and the colorful brilliance of the reef fish are breathtaking. 
+The patter of wavelets above combines with the chirps, 
+squeaks, whistles, and croaks of the marine life to create 
+a cacophony of sound.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4791
+D3
+The coral reef continues.  
+~
+~
+0 0 4790
+R M 0 4737 5 4739
+S
+#4740
+The Coral Reef~
+~
+The colors of the cylindrical reef compete with the exotic 
+coloring of the fish to attempt to overwhelm the senses.
+Not even the most lavish of mainland gardens can compare
+with the beauty found here along the coral reef.  The upward
+pull of the current is too strong to allow deeper exploration.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4792
+D3
+A whirlpool attempts to pull you towards it.  
+~
+~
+0 0 4735
+S
+#4741
+The Coral Reef~
+~
+Shafts of light stream through the deep blue waters.  Coral
+colonies dominate the surface of the reef, as fish of every
+shape, size, and color dart around you.  Outcroppings of 
+the reef block travel in all directions, but east and south.
+
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4742
+D2
+The coral reef continues.  
+~
+~
+0 0 4738
+R M 0 4736 5 4741
+S
+#4742
+The Coral Reef~
+~
+The coral colonies along the cylindrical reef appear exotically 
+sculpted, as if sentient beings once toiled in the oceans depths.
+Air bubbles drift towards the water's surface from the depths
+of the reef, as the marine life scuttles, swims, and clings to
+the only universe they've known.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4743
+D3
+The coral reef continues.  
+~
+~
+0 0 4741
+S
+#4743
+The Coral Reef~
+~
+Branching and boulder-shaped Coral colonies dominate The
+surface of the reef, as a variety of beautifully colored 
+fish swim among them. Outcroppings of The Coral formations
+block all directions, except west and down, which leads
+into the ocean's depths.
+~
+1 0 12
+D3
+The coral reef continues.  
+~
+~
+0 0 4742
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4744
+S
+#4744
+A Tunnel Through The Coral Reef~
+~
+Surrounded by the Coral colonies, a small passage opens among
+them, allowing passage through the cylindrical reef. Lionfish,
+stonefish, and others pass through the tunnel going about 
+their business.  The picturesque qualities of the reef and 
+its inhabitants are reminiscent of The most lavish mainland gardens.
+~
+1 2056 12
+D1
+A small tunnel leads through the coral reef.  
+~
+~
+0 0 4748
+D4
+The coral reef continues.  
+~
+~
+0 0 4743
+S
+#4745
+The Seahorse Stables~
+~
+Set into the Coral reef is a small cavern. Its floor is covered
+in kelp. Plankton has been piled in a neat row down the wall to your
+left and, before you, within smaller caverns, are several seahorses,
+which seem to have been stabled here.
+~
+1 1032 12
+D0
+A small boulder coral blocks entrance to the north.  
+~
+~
+33 4729 4747
+D2
+A large boulder coral blocks the exit to the south.  
+~
+boulder~
+33 4725 4737
+R M 0 4727 1 4745
+  R G 0 4726 0
+  R E 0 4729 0 17
+S
+#4746
+Along The Ocean Floor~
+~
+A kaleidoscope of shapes and colors assaults the senses,
+along the base of the Coral reef.  Outcroppings prevent 
+further travel to the east, north, and south.. Fish of 
+exotic colors dart in and around the reef.  Along the 
+ocean floor, debris is strewn haphazardly, almost
+spoiling the beauty of the reef.
+~
+1 8 12
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4737
+D4
+Fighting the current, you can just make it to the reef.  
+~
+~
+0 0 4740
+S
+#4747
+A Small Stable~
+~
+Having passed through a small boulder coral doorway, you 
+stand within a very small cavern. It's dimensions are just 
+barely able to hold you and it's occupant.  Kelp covers 
+the floor and a stack of plankton has been piled against 
+the back wall.
+~
+1 520 12
+D2
+A small boulder coral blocks the exit to the south.  
+~
+~
+33 0 4745
+R M 0 4730 1 4747
+  R E 0 4729 0 17
+S
+#4748
+Along The Ocean Floor~
+~
+You pass along the bottom of the sea, below the coral. To the west,
+lies a dark tunnel, while above, the reef holds sway. Fish school in
+colorful abandon to all sides. Larger predatory fish scythe among the
+schools of smaller fish. An occasional porpoise can be seen from time to
+time and the haunting songs of whales can be heard in mournful song amidst
+the water.  
+~
+1 8 12
+D2
+You can continue along the ocean floor.  
+~
+~
+0 0 4749
+D3
+A small tunnel leads through the coral reef.  
+~
+~
+0 0 4744
+D4
+The coral reef continues.  
+~
+~
+0 0 4754
+R O 0 4727 0 4748
+S
+#4749
+Along The Ocean Floor~
+~
+The seafloor is jumbled here, the stone of the bottom covered with a
+deep layer of sediment. Above, many different types of fish can be seen
+schooling. An occasional predator wreaks havoc among the smaller fish, as it
+rushes through the schools. Crustaceans of many shapes and sizes crawl
+amongst the stones of the bottom, including many starfish and
+sanddollars.  
+~
+1 8 12
+D0
+You can continue along the ocean floor.  
+~
+~
+0 0 4748
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4752
+D4
+The coral reef continues.  
+~
+~
+0 0 4750
+R M 0 4735 5 4749
+  R G 0 4737 0
+S
+#4750
+The Coral Reef~
+~
+The reef is spread out in all it's glory. Coral of many
+shapes sizes and colors grow in riotous profusion. Anenomes 
+grow upon the coral, with many brightly colored clownfish 
+nestling in their haven.  Countless varieties of colorful 
+fish glide effortlessly through coral forests.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4754
+D1
+The coral reef continues.  
+~
+~
+0 0 4751
+D5
+The ocean depths lie below you.  
+~
+~
+0 0 4749
+R M 0 4734 5 4750
+S
+#4751
+The Coral Reef~
+~
+Gliding through the gently rocking waters, along the
+the coral outcroppings, are sponges, firefish, and 
+skunk-striped anemonefish, which add to the profusion 
+of colors along the reef.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4753
+D3
+The coral reef continues.  
+~
+~
+0 0 4750
+D5
+The ocean depths lie below you.  
+~
+~
+0 0 4752
+S
+#4752
+Along The Ocean Floor~
+~
+The sea's floor lies near, while the reef holds sway in the upper 
+reaches of this underwater land.  The growth of the coral colonies
+blocks all exits, save west, up towards the surface, or down towards
+a dark gulf, leading towards uncharted depths. Fish swim here in 
+small schools, while an occasional eel can be seen fluidly gliding
+through the deep blue waters.
+~
+1 8 12
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4749
+D4
+The coral reef continues.  
+~
+~
+0 0 4751
+D5
+A dark shaft leads further down.  
+~
+~
+0 0 4760
+S
+#4753
+The Coral Reef~
+~
+The rough reef surrounds this cranny.  Coral of many 
+shapes, sizes, and colors grow in profusion. Anenomes 
+grow upon the coral, with many brightly colored clownfish 
+nestling in their haven. Countless varieties of colorful 
+fish glide effortlessly through the coral structures. 
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4755
+D2
+The coral reef continues.  
+~
+~
+0 0 4751
+R M 0 4736 5 4753
+S
+#4754
+The Coral Reef~
+~
+The Coral outcroppings block further passage, save for down and
+south. The walls of the many-colored Coral teem with fish and
+other exotic forms of sea life. The gently rocking waters and the 
+air bubbles, which drift slowly upwards from the cylindrical reef, 
+coalesce into a sense of serenity. 
+~
+1 0 12
+D2
+The coral reef continues.  
+~
+~
+0 0 4750
+D5
+The ocean depths lie below you.  
+~
+~
+0 0 4748
+S
+#4755
+The Coral Reef~
+~
+The Coral flourishes here in many shades and hues of pure
+vibrant color. Fish of many sizes and shapes swim here. 
+Anemones grow upon The coral, hosting a multitude of smaller 
+fish within their protective grasp. An occasional predator 
+flashes through, scattering The fish, who soon resume their 
+aimless wanderings.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4756
+D2
+The coral reef continues.  
+~
+~
+0 0 4753
+R O 0 4727 0 4755
+S
+#4756
+The Coral Reef~
+~
+The reef is spectacular here in its multitude of hues 
+and colors. Fish and other sea life glide through Coral 
+masses and the other sedentary creatures that grow from 
+it's surface.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4759
+D2
+The coral reef continues.  
+~
+~
+0 0 4755
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4757
+S
+#4757
+Along The Ocean Floor~
+~
+The harder Coral colonies have given way to softer corals, 
+which hide under the overhanging formations. Their branches
+sway with the gently rocking waters, as if trees caught in 
+a breeze.  Outcroppings block further travel, allowing only
+east or up, towards the surface, as exits.
+~
+1 8 12
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4758
+D4
+The coral reef continues.  
+~
+~
+0 0 4756
+S
+#4758
+Along The Ocean Floor~
+~
+Exotic colored fish dart in and around The Coral formation,
+as other marine life clings to the reef's surface. Outcroppings 
+of the cylindrical reef curl around you, allowing passage only
+to the west and up towards the surface.
+~
+1 8 12
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4757
+D4
+The coral reef continues.  
+~
+~
+0 0 4759
+S
+#4759
+The Coral Reef~
+~
+Large schools of fish glide through the deep blue waters
+along the coral reef.  The coral colonies along the reef
+display every color under the rainbow, lending itself as
+a useful camouflage for the exotically colored fish.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4764
+D2
+The coral reef continues.  
+~
+~
+0 0 4793
+D3
+The coral reef continues.  
+~
+~
+0 0 4756
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4758
+R M 0 4734 5 4759
+S
+#4760
+A dark shaft below the sea~
+~
+The narrow walls of the shaft enclose the darkness which
+reigns in this natural sink below the ocean's floor.  The 
+brightly colored fish, of the upper regions of the sea,
+give way to the monochromatic life that exists in darkness.
+An occasional spark of light can be seen, as phosphorescent
+marine life hunts it's varied prey.  The walls of the shaft
+are limestone, covered with the drifting silt of ages.
+~
+1 9 12
+D4
+The floor of the ocean lies above.  
+~
+~
+0 0 4752
+D5
+A shaft into darkness continues further.  
+~
+~
+0 0 4761
+S
+#4761
+A shaft into darkness~
+~
+The shaft continues below, but the opening is blocked by fallen 
+stone and rubble of what appears to be several ancient ships. 
+To the west, a natural alcove lies in the shaft.
+~
+1 9 12
+D3
+An rocky natural alcove lies this way.  
+~
+~
+0 0 4763
+D4
+A dark shaft continues further above.  
+~
+~
+0 0 4760
+S
+#4762
+A Small Outcropping of Coral~
+~
+Ancient Coral outcroppings have formed the small island you stand
+upon. Although surrounded by crystal, blue waters, the island is
+unable to support much life. Seagulls swoop above the outcropping,
+in their endless search for food. It might be best to travel with 
+care, to avoid damaging this fragile reef.
+~
+1 0 0
+D0
+The coral reef continues.  
+~
+~
+0 0 4764
+D2
+The coral reef continues.  
+~
+~
+0 0 4766
+D3
+The coral reef continues.  
+~
+~
+0 0 4793
+D5
+There seems to be a loose piece of Coral.  
+~
+coral~
+33 4727 4767
+R O 0 4727 0 4762
+S
+#4763
+Wolf's Lair~
+~
+A dark cave has been created off of the chasm that pierces the 
+ocean floor.  The water is amazingly clear of marine life, save 
+for the odd plankton that drifts within the water. The walls of 
+the cave are covered with a layer of silt.
+~
+1 9 12
+D1
+A dark shaft in the water lies here.  
+~
+~
+0 0 4761
+R M 0 4728 1 4763
+S
+#4764
+The Coral Reef~
+~
+Light filters through the waters, casting shadows in its wake. The
+multitude of fish and other marine life, who spend their lives within 
+the reef's shadow, create a kaleidoscope of color against the already 
+colorful coral. The gently rocking waters attempt to lull you into a 
+dangerous sense of serenity.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4772
+D2
+The coral reef juts above the water.  
+~
+~
+0 0 4762
+D3
+The coral reef continues.  
+~
+~
+0 0 4759
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4771
+R M 0 4738 1 4764
+S
+#4765
+The Coral Reef~
+~
+The cylindrical reef is covered by corals  of many shapes,
+sizes and colors. Brain corals, sea fans, organ-pipe corals 
+and corals resembling the tendrils and leaves of plants are 
+among those seen here.  Small colorful fish dart in and about 
+the reef.
+~
+1 0 12
+D0
+The coral reef juts above the water.  
+~
+~
+0 0 4793
+D1
+The coral reef continues.  
+~
+~
+0 0 4766
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4769
+R M 0 4737 5 4765
+S
+#4766
+The Coral Reef~
+~
+The Coral formations are overwhelming in their shapes, the 
+riot of colors and the astonishing variety of life. Jellyfish 
+pump along, as schools of fish part, to allow them to pass 
+through, quickly closing ranks again.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4762
+D3
+The coral reef continues.  
+~
+~
+0 0 4765
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4770
+S
+#4767
+A Large Cavern Within The Coral~
+~
+The floor of the cavern is covered with a deep, soft carpet 
+of kelp. Tapestries of multi-colored algae hang upon The
+curved, rough walls of The Coral reef. A large throne, 
+covered with mother-of-pearl, stands against the far wall.
+~
+1 9 12
+D4
+There seems to be a loose piece of Coral.  
+~
+coral~
+33 4727 4762
+R O 0 4727 0 4767
+R M 0 4732 1 4767
+S
+#4768
+A Small Cavern Within The Coral~
+~
+The floor of the small cavern is covered with algae. Protruding
+Coral formations pierce the rough walls of the reef, where slimy
+pieces of kelp hang in greasy disarray.  
+~
+1 9 12
+D4
+There seems to be a loose piece of Coral.  
+~
+coral~
+33 4727 4738
+R O 0 4727 0 4768
+R M 0 4729 1 4768
+S
+#4769
+Along The Ocean Floor~
+~
+The sea floor is covered in a deep layer of sediment, through 
+which discarded bits and pieces of debris peek. The scattered 
+timbers of a wrecked ship can be seen, tossed as a child's game 
+of Pick Up Sticks. Giant clams and other sedentary marine life 
+have made their homes here amid the clutter.
+~
+1 8 12
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4770
+D4
+The coral reef continues.  
+~
+~
+0 0 4765
+R M 0 4738 5 4769
+R O 0 4740 0 4769
+  R P 0 4741 1 4740
+S
+#4770
+Along The Ocean Floor~
+~
+Covered in debris, the sea floor is cluttered and jumbled. The 
+soft Coral colonies sway in the gently rocking waters. Colorful 
+and exotic fish can be seen darting in and about The cylindrical 
+reef.
+~
+1 8 12
+D0
+You can continue along the ocean floor.  
+~
+~
+0 0 4771
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4769
+D4
+The coral reef continues.  
+~
+~
+0 0 4766
+S
+#4771
+Along The Ocean Floor~
+~
+The coral's colorful brilliance is breathtakingly beautiful.
+Chirps, whistles, squeaks, and croaks, of the marine life, 
+combine with the sounds of the water's gentle waves to create 
+a symphony of sound.
+~
+1 8 12
+D1
+You can continue along the ocean floor.  
+~
+~
+0 0 4773
+D2
+You can continue along the ocean floor.  
+~
+~
+0 0 4770
+D4
+The coral reef continues.  
+~
+~
+0 0 4764
+S
+#4772
+The Coral Reef~
+~
+The cylindrical reef, rising from the ocean floor, is covered 
+by colorful Coral colonies. An amazing number of exotically 
+shaped and beautifully colored fish dart in amongst them.  Light
+filters through the warm ocean waters, casting ominous shadows about.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4774
+D3
+The coral reef continues.  
+~
+~
+0 0 4764
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4773
+R M 0 4737 1 4772
+S
+#4773
+Along The Ocean Floor~
+~
+Exotically colored fish swim in schools darting in and out
+of the coral reef. The coral colonies protrude from the reef, 
+creating a small niche. Broken pieces of coral and other 
+debris litter the ocean floor.
+~
+1 8 12
+D3
+You can continue along the ocean floor.  
+~
+~
+0 0 4771
+D4
+The coral reef continues.  
+~
+~
+0 0 4772
+R M 0 4735 5 4773
+  R G 0 4738 0
+S
+#4774
+The Coral Reef~
+~
+The reef continues, turning towards the north and east. The 
+water is extremely shallow here, the coral sloping sharply 
+towards the surface. A veritable carpet of spiny sea urchins 
+lines the ocean floor. Small fish in many colors swim placidly 
+above and even through the carpet of shellfish.
+
+~
+1 0 12
+D2
+The coral reef continues.  
+~
+~
+0 0 4775
+D3
+The coral reef continues.  
+~
+~
+0 0 4772
+R M 0 4736 5 4774
+R M 0 4739 2 4774
+S
+#4775
+The Coral Reef~
+~
+Passage here is treacherous, as the walls of the reef are 
+covered with a veritable carpet of sea urchins.  Small fish 
+dart in and around the coral, carefully avoiding the stinging 
+spines.  A passage leads further down into the ocean depths. 
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4774
+D1
+The coral reef continues.  
+~
+~
+0 0 4777
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4776
+R M 0 4739 2 4775
+S
+#4776
+Along The Ocean Floor~
+~
+Crustaceans of many sizes and shapes make their way along the 
+sea's floor, which is covered in a deep layer of sediment. 
+Broken pieces of Coral and other odds and ends of debris lie 
+scattered about. The reef's formations block all travel, save 
+for the north and up towards the surface of the waters.
+~
+1 8 12
+D0
+You can continue along the ocean floor.  
+~
+~
+0 0 4778
+D4
+The coral reef continues.  
+~
+~
+0 0 4775
+R M 0 4735 5 4776
+  R G 0 4737 0
+S
+#4777
+The Coral Reef~
+~
+The Coral continues here in multi-colored, variegated hues.
+Colorful clownfish swim among the anemones that grow upon 
+the reef. The stony, Coral formations could have come 
+straight from the most talented sculptor's workshop.
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4779
+D3
+The coral reef continues.  
+~
+~
+0 0 4775
+D5
+The ocean floor lies below you.  
+~
+~
+0 0 4778
+R M 0 4734 5 4777
+S
+#4778
+Along The Ocean Floor~
+~
+The coral colonies of this pocket of the reef impede 
+further travel in all directions, except south and up
+towards the sea's surface.  Scattered bits of debris 
+lie partially immersed within the sediment along the 
+ocean's floor.
+~
+1 8 12
+D2
+The ocean floor lies below you.  
+~
+~
+0 0 4776
+D4
+The coral reef continues.  
+~
+~
+0 0 4777
+R M 0 4737 5 4778
+S
+#4779
+The Coral Reef~
+~
+The reef grows colorful and bountiful. Variegated and 
+multicolored fish of all sizes swim here, among the many 
+different types of coral. To The west, a superb stand of 
+black coral grows to the height of several men standing 
+upon each other's shoulders. A chasm opens up beneath you. 
+~
+1 0 12
+D1
+The coral reef continues.  
+~
+~
+0 0 4786
+D3
+The coral reef continues.  
+~
+~
+0 0 4777
+D5
+A giant chasm opens up below you.  
+~
+~
+0 0 4780
+R O 0 4728 0 4779
+S
+#4780
+A Giant Chasm~
+~
+Between the cliffs of the coral reef, there is a large 
+undersea canyon. The depth of the ocean is brought into 
+focus as the world seems to fold away from any light.
+~
+1 9 12
+D4
+The coral reef continues.  
+~
+~
+0 0 4779
+D5
+The giant chasm leads further into the murky depths.  
+~
+~
+0 0 4781
+S
+#4781
+Inside The Giant Chasm~
+~
+Darkness envelopes the waters within the canyon; however
+the multitude of colors has not been muted, due to The
+phosphorescence of the life within the chasm.  The 
+coral seems to grow almost with a purpose, a much less
+haphazard arrangement than seen before.
+~
+1 9 12
+D1
+You can continue through the giant chasm.  
+~
+~
+0 0 4782
+D4
+The chasm opens upward.  
+~
+~
+0 0 4780
+S
+#4782
+Further Into The Chasm~
+~
+The Coral formations seem to take on an even greater 
+purpose, coalescing into almost recognizable shapes 
+and forms. Brightly colored fish swim in small schools, 
+oblivious to your presence. The sea floor lies an
+unreachable depth below you.
+~
+1 9 12
+D2
+The chasm leads further to the south.  
+~
+~
+0 0 4783
+D3
+The chasm leads further to the west.  
+~
+~
+0 0 4781
+S
+#4783
+Further Into The Chasm~
+~
+Amazingly clear of any debris, the sea floor rises almost 
+vertically from the north, allowing you to once again walk 
+upon the surface of the ocean's floor. The brightly colored 
+coral colonies resemble neat rows of hedges, underwater trees, 
+and clusters of flowers. A coral latticed trellis arches 
+over an entrance to the east.
+~
+1 9 12
+D0
+The sea floor drops almost vertically to the north.  
+~
+~
+0 0 4782
+D1
+A latticed archway of Coral leads to the east.  
+~
+~
+0 0 4784
+S
+#4784
+The Octopus' Garden~
+~
+Passing through the lattice arch, you step into a small grotto. The
+coral colonies form an almost solid wall in this round room. Small
+statues of the marine life have been formed from brightly colored
+Coral. Starfish, sanddollars, clownfish, clams and shrimp are among
+those represented by the statues. Kelp creates a thick lawn underfoot.
+ 
+~
+1 9 12
+D0
+There seems to be a loose piece of Coral.  
+~
+boulder~
+33 4732 4785
+D3
+A latticed archway of Coral leads to the west.  
+~
+~
+0 0 4783
+R M 0 4733 1 4784
+  R E 0 4732 0 17
+  R G 0 4742 0
+S
+#4785
+A Hidden Chamber~
+~
+A small chamber formed by the Coral hides the Octopus' treasures.
+~
+1 521 12
+D2
+There seems to be a loose piece of Coral.  
+~
+boulder~
+33 0 4784
+R M 0 4731 1 4785
+S
+#4786
+The Coral Reef~
+~
+North and west, the coral reef continues. Fish swim in 
+placid erratic paths, as they look for food. Small shrimp 
+and crustaceans swarm over the surface of the coral. On 
+occasion, a porpoise and even small whales are seen 
+flashing near this underwater garden.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4787
+D3
+The coral reef continues.  
+~
+~
+0 0 4779
+S
+#4787
+The Coral Reef~
+~
+The Coral formations create a shelf upon which small
+crustaceans seem almost to be sunning themselves.  Fish
+swim through the gently rocking waters seemingly oblivious 
+to your presence. The patter of the wavelets above 
+combines with the other sounds from the depths to 
+create an lulling symphony of sound.
+~
+1 0 12
+D2
+The coral reef continues.  
+~
+~
+0 0 4786
+R M 0 4737 5 4787
+R M 0 4736 5 4787
+S
+#4789
+The Coral Reef~
+~
+Coral reefs of all the colours of the rainbow can be seen here
+reflecting the light, which filters through. Fish of unknown 
+origins swim in and out of the reef slowly, adding a sense of 
+serenity. Air bubbles float gently from the reefs to the 
+surface, giving the coral an appearance of breathing.
+~
+1 0 12
+D1
+~
+~
+0 0 4738
+D2
+~
+~
+0 0 4733
+S
+#4790
+The Coral Reef~
+~
+Beautifully colored fish swim in and about The Coral 
+formations, which appear to have been sculpted by 
+sentient beings. The cylindrical reef, rising from 
+the ocean floor, exhibits the many colors of the rainbow.  
+Further travel into the ocean depths is blocked by an
+outcropping of the Coral reef.
+~
+1 0 12
+D0
+~
+~
+0 0 4733
+D1
+~
+~
+0 0 4739
+S
+#4791
+The Coral Reef~
+~
+Gliding further along the reef, you watch an amazing 
+number of exotic fish darting in and about the formation. 
+The coral, sponges, and the colorful brilliance of the 
+reef fish are breathtaking. The patter of wavelets above 
+combines with the chirps, squeaks, whistles, and croaks 
+of the marine life to create a cacophony of sound.  
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4740
+D3
+The coral reef continues.  
+~
+~
+0 0 4739
+R M 0 4737 5 4791
+S
+#4792
+The Coral Reef~
+~
+Light filters through the waters, casting shadows in its wake. The
+multitude of fish and other marine life, who spend their lives within 
+the reef's shadow, create a kaleidoscope of color against the already 
+colorful coral. The gently rocking waters attempt to lull you into a 
+dangerous sense of serenity.
+~
+1 0 12
+D2
+The coral reef continues.  
+~
+~
+0 0 4740
+D3
+The coral reef continues.  
+~
+~
+0 0 4738
+S
+#4793
+The Coral Reef~
+~
+The reef is spread out in all it's glory. Coral of many
+shapes sizes and colors grow in riotous profusion. Anenomes 
+grow upon the coral, with many brightly colored clownfish 
+nestling in their haven.  Countless varieties of colorful 
+fish glide effortlessly through coral forests.
+~
+1 0 12
+D0
+The coral reef continues.  
+~
+~
+0 0 4759
+D1
+The coral reef continues.  
+~
+~
+0 0 4762
+D2
+The coral reef continues.  
+~
+~
+0 0 4765
+R M 0 4737 5 4793
+S
+#0
+
+
+#SHOPS
+ 4727   32  0  0  0  0   100  30         0 23    ; a large `#`yseahorse`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

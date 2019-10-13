@@ -1,0 +1,655 @@
+#AREA        Amulets & Misc Items~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#60000
+demon~
+a demon enveloped in `#`Rflames`^~
+A massive demon with `#`Ssmoking skin`^ enveloped in `Rflames`^ is here.
+~
+This demon is huge and is covered with a smoking black skin.  His eyesockets 
+are filled with blazing fire, and what would be hair atop his head is 
+instead long whisps of flames.  He stands well over fifteen feet tall, and 
+must weigh as much as 5 trolls.  
+~
+0
+Clanname none~
+0
+0
+129 4096 -600 C
+52 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60001
+Tulgard elite elite guard~
+an elite guard~
+An elite guard stands at rigid attention here.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+0
+Clanname none~
+0
+0
+65 32 600 C
+125 2 -95 13d16+610 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60002
+tulgard soldier man~
+`#`RMelkor, `cCaptain `wof the `cTulgard `cArmy`^~
+`#`RMelkor, `cCaptain `wof the `cTulgard `cArmy`^ is here.
+~
+This soldier appears very powerful and well-trained. His equipment is 
+freshly polished, and he appears ready for battle. 
+~
+0
+Clanname none~
+0
+0
+1 4096 600 C
+100 2 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60003
+werewolf~
+`#`wa `Sw`we`Sr`we`Sw`wo`Sl`wf`^~
+A large `#`Sw`we`Sr`we`Sw`wo`Sl`wf`^ is prowling about here.
+~
+Covered with hair and standing over 6 foot tall, the werewolf is a 
+terrifying creature.  A powerful body with a large wolf-like head, with 
+sharp canine teeth protruding from its mouth.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60004
+vampire bat~
+a `#`rvampire`^ bat~
+A `#`rvampire `sbat`^ grins evilly at you.
+~
+Extraordinarily large with unusually piercing eyes, this bat looks
+hungry. In fact, it isn't the type to turn down a feast of blood at any time
+of the day or night.... 
+~
+0
+Clanname none~
+0
+0
+1 524288 -600 C
+55 220 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60005
+huge black wolf~
+a huge black wolf~
+A huge black wolf stalks about here.
+~
+This black wolf is much larger than most wolves, standing well over three 
+feet at the shoulders.  Intense black eyes look out at the world, seeming 
+to regard everything as prey.
+~
+0
+Clanname none~
+0
+0
+1 512 -600 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60006
+mist~
+a cloud of mist~
+A cloud of mist is floating through the air.
+~
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60007
+elf~
+a handsome male elf~
+An attractive male elf is here.
+~
+Before you is a very slender elf.
+~
+0
+Clanname none~
+0
+0
+1 32768 600 C
+40 37 -13 5d6+230 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60008
+elf~
+an attractive female elf~
+An attractive female elf is here.
+~
+Before you is a very slender elf.
+~
+0
+Clanname none~
+0
+0
+1 32768 600 C
+40 37 -13 5d6+230 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60009
+tulgard soldier man~
+a soldier of `#`cTulgard`^~
+A soldier of `#`cTulgard`^ is here, ready for battle.
+~
+This soldier appears very powerful and well-trained. His equipment is 
+freshly polished, and he appears ready for battle. 
+~
+0
+Clanname none~
+0
+0
+1 32 600 C
+50 2 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60010
+black ant~
+a black ant~
+A black ant is here, to ruin the picnic.
+~
+This tiny black ant looks fairly harmless, though it can bite.
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60011
+angel seandac~
+a `#`WHoly `CAngel `Yof `WSeandac`^~
+A `#`WHoly `CAngel `Yof `WSeandac`^ is looking for evil to destroy.
+~
+This angel is 15' tall, and very muscular. Large white feathered wings 
+spring from their back, and white robes clothe them. 
+~
+0
+Clanname none~
+0
+0
+1 524288 600 C
+75 0 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60012
+ugly goblin raider~
+a goblin raider~
+An ugly goblin is here, looking for spoils.
+~
+~
+0
+Clanname none~
+0
+0
+5 512 0 C
+20 260 -4 3d5+82 2d7+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60060
+gate guardian~
+a large guard~
+A large guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained. He is wearing the insignia 
+of his master on his tunic. 
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+95 2 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#60000
+gold~
+drop this and pick up for 1 gold~
+A gold piece is here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60001
+tulgard breastplate steel~
+`#`cTulgardian `cBreastplate`^~
+A steel breastplate with fancy engraving is lying here.~
+~
+9 0 8
+12 13 10 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60002
+puddle~
+a small rain puddle~
+A small rain puddle is here.~
+~
+17 0 16
+2 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60003
+snow~
+a blanket of snow~
+A layer of `#`Wwhite snow`^ covers the ground.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60004
+dagger judgement quest maeol~
+the `#`wDagger of `YJ`Su`Yd`Sg`Ye`Sm`Ye`Sn`Yt`^~
+An extremly sharp dagger belonging to Maeol is here.~
+~
+5 1 4
+11 8 11 2068 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+60004 judgement dagger~
+This dagger is sharp beyond belief. It's blade shimmers with ever-changing 
+colors. There is a golden cross etched into one side of the handle. On the 
+other side, there is a black skull. 
+~
+#60005
+cloud~
+a `#`Wfluffy white cloud`^~
+A `#`Wfluffy white cloud`^ drifts through the air.~
+~
+12 0 8
+10000 165010 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60010
+transform_token~
+transform_token~
+Transform_token~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60011
+deck_transform_token~
+deck_transform_token~
+Deck_transform_token~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60025
+amulet anacor~
+`CA`cmulet `wof `CA`cnacor`x~
+An amulet with the symbol of balance scales is here.~
+~
+9 128 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60026
+amulet venalena~
+`CA`cmulet `wof `CV`cenalena`x~
+An amulet with the symbol of young woman nursing a child is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60027
+amulet seandac~
+`WA`cmulet `wof `WS`ceandac`x~
+An amulet with the symbol of a white shield is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60028
+amulet kreav~
+`YA`cmulet `wof `YK`creav`x~
+An amulet with the symbol of a compass is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60029
+amulet jivanor~
+`CA`cmulet `wof `CJ`civanor`x~
+An amulet with the symbol of theater masks is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60030
+amulet dorenne~
+`GA`cmulet `wof `GD`corenne`x~
+An amulet with the symbol of a tree is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60031
+amulet graal~
+`SA`cmulet `wof `SG`craal`x~
+An amulet with the symbol of a black shield is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60032
+amulet harpan~
+`SA`cmulet `wof `SH`carpan`x~
+An amulet with the symbol of a gutting hook is here.~
+~
+9 0 8
+9 9 9 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60050
+ixliam sawed-off shotgun~
+a `#`csawed-off `ydouble-barrel `cshotgun`^~
+A sawed-off double-barrel shotgun is lying here.~
+~
+5 128 4
+1000 1000 40 10292 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60059
+headstone memorial~
+a memorial~
+A large headstone is here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+60059 memorial headstone~
+May the memories of those who died in service of Tulgard not go unnoticed. 
+May Seandac carry their souls to the great above, and may they find peace in 
+his arms. 
+~
+#0
+
+
+#ROOMS
+#60000
+Inside the Spaceship~
+~
+Strange flashing lights blind you overhead. The entire room you are in is 
+metallic silver in color. Mutterings in an unknown language can be heard 
+faintly in the distance. A large steel table dominates the center of the 
+room. 
+~
+1 843587592 0
+D2
+~
+~
+0 0 60001
+S
+#60001
+A Rundown Crack House Full of Ho's~
+~
+~
+1 172490760 0
+D0
+~
+~
+0 0 60000
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,7560 @@
+#AREA        Tulgard~
+
+
+
+#AUTHOR      none~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#3000
+laborer~
+a laborer~
+A laborer is here, trying to get his work done.
+~
+This human is very large and muscular.  He is dressed in workman's clothes 
+and has some tools hanging on his belt.  He is busy at the moment trying to 
+get his work done as quickly as possible.
+~
+64 0 400 C
+5 0 5 2d5+1 1d6+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3001
+a Tulgard guard~
+a guard~
+A guard is here, keeping an eye out for trouble.
+~
+This tall human guard is patrolling the city, looking for trouble.  He seems 
+to be well equipped and handles his weapons with confidence.  
+~
+64 32 400 C
+60 1 -30 6d9+320 8d6+27
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3002
+healer old man~
+an old white-robed man~
+An old white-robed man sits here, peering intently at you.
+~
+This old human has a long white beard and hair, and is clothed in a white 
+robe.  He is sitting here on a stone block.  Perhaps he might give you a hand 
+if you asked? <type heal>.
+~
+64 32 600 C
+60 2 -75 5d20+500 8d20+50
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3003
+guild amster ranger~
+a cloaked ranger~
+A cloaked ranger stands here, instructing pupils on the finer points of 
+woodlore.
+~
+This tall thin human has black hair and a deep penetrating stare.  He is 
+here to instruct young rangers on woodlore and other ranger skills.  
+~
+64 32 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3004
+white robed priest master guild~
+a priest~
+A white robed priest is here, studying a religious tome.
+~
+This male human looks very old and wise.  He is dressed in long white robes, 
+and is looking over a religious tome while periodically saying something to 
+the other passing priests.
+
+~
+64 32 600 C
+100 1 -30 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3005
+dwarf warrior fighter guild master~
+a lightly armored dwarf~
+A lightly armored dwarf is here, sparring with the other fighters.
+~
+Here is one of the few non-humans you have seen in the town.  This dwarf is 
+middle-aged, as dwarves go, and is wearing light armor only.  He seems to be 
+the instructor here, as the other fighters are listening closely and 
+following his example.
+
+~
+64 512 0 C
+100 1 -30 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3006
+mage wizard guild master red~
+a red robed mage~
+A red-robed mage is here, waving around a magical tome as he yells at the 
+students.
+~
+This old human is clad in red robes, and looks very wise.  He is busy 
+instructing the young magic students on the proper way to cast a number of 
+spells.  And not only does he teach, but it also looks like he has a few 
+things for sale.
+~
+64 32 0 C
+100 1 -50 9d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3007
+thief assasin cloaked figure~
+a cloaked figure~
+A cloaked figure slips from the shadows as you enter.
+~
+You can't make out much about this person except that they are tall, thin, 
+and wearing a black cloak.  A flash of metal from within that cloak should 
+make you think twice about messing with him, though.
+~
+64 32 -600 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3008
+large well-armed guard Tulgard captain Tulgardcaptain~
+the guard captain~
+An especially large and well-armed guard is here.
+~
+This human guard is larger and better equipped than the others.  From the 
+insignias on his armor, it looks like he is the captain.
+
+~
+64 0 400 C
+78 3 -51 8d12+405 9d10+42
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3009
+suspicious looking cloaked figure thief~
+a suspicious looking cloaked figure~
+A suspicious looking cloaked figure is here.
+~
+~
+128 65536 -600 C
+13 0 -5 4d5+90 4d4+5
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3010
+citizen~
+a citizen~
+A citizen is here, looking about stressfully.
+~
+This citizen has a big smile on their face, and seems very happy to be part 
+of this nice new settlement.  They are, however, having a difficult time 
+avoiding all the workers who are still about.
+
+~
+128 0 400 C
+4 0 6 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3011
+stubby feylar shopkeeper~
+`#`YS`ytubby the `YA`yrmorsmith`^~
+A chestnut-brown furred feylar polishes a piece of armor behind the counter.
+~
+The shopkeeper is a big middle-aged feylar.  He is standing behind the 
+counter, polishing a piece of armour.  Perhaps if you typed <list> he might 
+tell you what was for sale.  Other things he understands include <buy>, 
+<value>, and <sell>.
+ 
+He can also repair items, type <repair> or <evaluate>.
+~
+64 0 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3012
+gorth shopkeeper man~
+`#`yGorth `wthe `YWeaponsmith`^~
+A distinguished man with golden-blond hair, runs a whetstone along a blade.
+~
+This distinguished looking man, in his mid-thirties, has an ernest look upon 
+his face.  His golden-blond hair hangs over his forehead as he runs a 
+whetstone along a blade.  
+~
+64 0 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3013
+bartender shopkeeper~
+the bartender~
+A bartender is behind the bar, serving drinks.
+~
+This young human is behind the bar, serving drinks.  He is very dextrous and 
+handles the bottles quite well.  He is also quite large, and looks like he 
+could handle himself in a brawl.
+~
+64 0 200 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3014
+slender feylar smokey-grey fur~
+a slender feylar with smokey-grey fur~
+A slender feylar with smokey-grey fur brews a potion behind the counter.
+~
+This thin human has a mustache and black hair.  He has apparently an expert 
+The slender feylarish man with smokey-grey fur carefully concocts a brew at 
+the back of the shop.  Judging from the number of potions and elixirs on the 
+shelves, he seems to be an expert at his work.  
+~
+64 524288 200 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3015
+half-elven jeweler shopkeeper~
+a half-elven jeweler~
+A half-elven jeweler is behind the counter, closely examining a gemstone.
+~
+The jeweler is dressed in fine crimson robes, and is wearing plenty of 
+jewelry himself.  There is a jeweler's glass hanging on a chain from 
+his neck, which he is currently holding up to his eye to examing a 
+gemstone.
+~
+64 512 0 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3016
+sailor seller~
+the sailor~
+A sailor stands along the water here, trying to sell the boats.
+~
+What this sailor is doing so far inland you don't know.  He is dressed in the 
+typical sailor's outfit, and is currently trying to sell the boats that are 
+bobbing just offshore here.  You can see what is available by typing <list>.
+
+~
+64 0 200 C
+111 6 -75 5d10+999 10d20+150
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3017
+storyteller old man~
+the storyteller~
+An old man sits here, telling stories to children.
+~
+This old man is wearing tattered old clothes, but doesn't seem to mind.  He 
+is sitting on the low wall here, telling stories to any children and even 
+adults who will stop to listen.  He also has a loaf of bread, which he is 
+slowly feeding to the birds.  Maybe if you asked him for a story he would
+have some interesting things to say.
+~
+64 0 600 C
+4 0 6 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3018
+child~
+a child~
+A young child is here, looking bored.
+~
+A young human child is here, trying to play with the birds.  Not having any 
+luck catching one, though.  
+~
+64 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3019
+dog mangy~
+a mangy dog~
+A mangy dog is here, sniffing around for something to eat.
+~
+This mangy dog is full of fleas, and doesn't look particularly well-fed.  It 
+is sniffing everything it comes across, hoping to find some food.
+
+~
+64 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3020
+alley cat~
+an alley cat~
+An alley cat is here.
+~
+This cat is grey and black striped, and fairly small.  It is just lying 
+around mostly, hoping someone will stop to pet it maybe.
+
+~
+64 512 0 C
+1 0 9 1d4+1 1d4+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3021
+fat human shopkeeper~
+a fat markian shopkeeper~
+A fat male shopkeeper packs flour into a sack as he sits at the counter.
+~
+The shopkeeper is an extremely fat human man.  He sits on a stool
+behind the counter trying to squeeze every silver piece he can get
+out of his customers.
+~
+64 512 200 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3022
+clothier shopkeeper~
+the shopkeeper~
+The shopkeeper is behind the counter, attaching tags to merchendise.
+~
+The shopkeeper is a thin, finely dressed human.  He is currently
+busy tagging various pieces of his merchandise.
+~
+64 0 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3023
+woman nice calyn~
+`#`cCalyn`^~
+An nice-looking young woman is behind the counter here.
+~
+~
+64 512 200 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3024
+spellfilcher thief assasin cloaked figure~
+a cloaked figure~
+A cloaked figure sits at a small table here.
+~
+You can't make out much about this person except that they are tall,
+thin, and wearing a black cloak.  A flash of metal from within that cloak
+should make you think twice about messing with him, though.  
+~
+64 32 -600 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3025
+stablemaster~
+the stablemaster~
+The stablemaster is here, tending to the horses.
+~
+The stablemaster is a male human, dressed in dirty but comfortable
+clothing.  He is moving about tending to the horses.  Perhaps you should
+speak to him if you are in need of a mount.  
+~
+64 0 400 C
+100 4 -15 20d90+999 20d20+200
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3026
+small bay mare~
+a small `#`ybay mare`^~
+A small `#`ybay mare`^ stands here.
+~
+This relatively small horse looks well fed and healthy.  It should make a good mount.
+~
+64 0 0 C
+5 0 0 2d5+1 1d6+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3027
+light brown quarterhorse~
+a `#`ylight brown`^ quarterhorse~
+A `#`ylight brown`^ quarterhorse stands here.
+~
+This medium sized quarterhorse looks well fed and healthy.  It should make a good mount.
+~
+64 0 0 C
+10 0 0 2d5+18 2d4+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3028
+large white stallion~
+a large `#`Wwhite`^ stallion~
+A large `#`Wwhite`^ stallion stands here.
+~
+This large white horse looks well fed and healthy.  It should make a good mount.
+~
+64 0 0 C
+15 0 0 3d5+60 2d6+3
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3029
+cute little kitten~
+a cute little kitten~
+A cute little kitten is here.
+~
+This cute little kitten looks quite delicate.  It has grey fluffy fur.
+~
+64 512 0 C
+1 0 0 1d4+1 1d4+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3030
+pet store owner bobu~
+the pet store owner~
+The pet store owner is here, taking care of his animals.
+~
+The pet store owner is a small wiry man, with black hair and a thin black
+goatee.  He is hurrying about the store taking care of his many animals. 
+Type <list> to see whats for sale today.  
+~
+64 32 400 C
+100 5 -15 10d13+600 10d15+200
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3031
+grey black cat~
+a grey and black cat~
+A grey and black cat is here.
+~
+This short-haired feline has grey and black hair, and pale golden eyes.
+~
+64 512 0 C
+2 0 0 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3032
+beagle~
+a beagle~
+A beagle is here.
+~
+This small dog has short hair, and is mostly brown and white.  Despite his size he 
+looks like he could be quite ferocious in a fight.
+~
+64 0 0 C
+3 0 0 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3033
+large grey wolf~
+a large grey wolf~
+A large grey wolf is here.
+~
+This wolf looks pretty tame.  It has thick grey fur and golden eyes.  
+~
+64 0 0 C
+6 0 0 2d5+4 1d7+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3034
+jet-black raven~
+a jet-black raven~
+A jet-black raven is here.
+~
+This bird has glossy jet-black feathers and a short black beak.
+~
+64 524288 0 C
+2 0 0 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3035
+brown white flecked falcon~
+a brown and white flecked falcon~
+A brown and white flecked falcon is here.
+~
+This powerful looking bird has sharp claws and bright eyes.  Its feathers
+are flecked with brown and white.  
+~
+64 524288 0 C
+3 0 0 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3036
+fierce hawk~
+a fierce hawk~
+A fierce hawk is here.
+~
+This hawk has feathers of various shades of brown.  It has a sharp beak and claws.
+~
+64 524288 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3037
+majestic eagle~
+a majestic eagle~
+A majestic eagle is here.
+~
+This majestic bird looks very powerful, as birds go.  It has a sharp beak
+and talons.  
+~
+64 524288 0 C
+5 0 0 2d5+1 1d6+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3038
+baby roc~
+a baby roc~
+A baby roc is here.
+~
+This bird is already huge, and is just a baby!  It is mostly brown and black in color.
+~
+64 524288 0 C
+7 0 0 2d5+5 1d8+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3039
+linx~
+a linx~
+A linx is here.
+~
+This version of mountain lion is small but feisty.  It has mottled grey
+fur and sharp claws.  
+~
+64 512 0 C
+7 0 0 2d5+5 1d8+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3040
+mountain lion~
+a mountain lion~
+A mountain lion is here.
+~
+This large mountain cat looks pretty tough, for a feline at least.  It
+has a silky grey coat, and sharp claws.  
+~
+64 512 0 C
+8 0 0 2d5+8 1d7+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3041
+striped tiger~
+a striped tiger~
+A striped tiger is prowling here.
+~
+This tiger is very large and powerful.  Its fur is orange and black striped.
+~
+64 512 0 C
+10 0 0 2d5+18 2d4+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3042
+grey fox~
+a grey fox~
+A grey fox is here.
+~
+A little grey-furred fox.  A bit larger than a red fox.
+~
+64 0 0 C
+3 0 0 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3043
+red fox~
+a red fox~
+A red fox is here.
+~
+A little red-furred fox.  A bit smaller than a grey fox.
+~
+64 0 0 C
+2 0 0 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3044
+spirited badger~
+a badger~
+A spirited little badger is here.
+~
+This badger is small but ferocious.  It has short grey fur with some
+black here and there.  
+~
+64 0 0 C
+3 1 0 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3045
+small black bear~
+a small black bear~
+A small black bear is here.
+~
+This small bear is covered with scruffy black hair.  It doesn't look very
+tough, and in fact has a playful look on its face.  
+~
+64 0 0 C
+8 0 0 2d5+8 1d7+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3046
+chimpanzee~
+a chimpanzee~
+A chimpanzee is here.
+~
+This small monkey is covered with long brown hair.  It has a strangely
+thoughful look on its face.  
+~
+64 0 0 C
+2 0 0 1d4+2 1d5+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3047
+small ape~
+a small ape~
+A small ape is here.
+~
+This creature is small as far as apes go, but large in relation to other
+primates.  It is covered with thick black hair.  
+~
+64 0 0 C
+6 0 0 2d5+4 1d7+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3048
+colorful faerie dragon~
+a colorful faerie dragon~
+A colorful faerie dragon is here.
+~
+This tiny relative of the dragon family is basically a minature version. 
+This one is multicolored, and is very pretty.  
+~
+64 524288 0 C
+9 0 0 2d5+12 1d8+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3049
+Tulgardelite elite guard~
+an elite guard~
+An elite guard stands at rigid attention here.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 32 600 C
+70 2 -41 7d11+365 8d8+35
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3050
+minor bureaucrat~
+a minor bureaucrat~
+A minor bureaucrat is here, shuffling papers.
+~
+This middle aged man is dressed in fancy robes and seems to be a minor
+politician of some type.  He is here shuffling papers and trying to look
+busy.  
+~
+64 0 400 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3051
+cloaked figure~
+a cloaked figure~
+A cloaked figure is lurking here.
+~
+This thin figure is cloaked in black.  You can barely see the face
+underneath, but do manage to make out slanted eyes and pointy ears.  
+~
+64 512 -400 C
+26 0 -9 5d5+140 4d6+8
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3052
+prison guard~
+a prison guard~
+A prison guard sits here filling out paperwork.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 32 600 C
+64 2 -41 7d11+365 8d8+35
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3053
+old avian deep blue plummage shopkeeper~
+an old avian with deep blue plummage~
+An old avian with deep blue plummage stands behind one of his display counters.
+~
+This elderly avian has a plummage of deep blue feathers, which have lost 
+their sheen.  He is wearing a fine robe, tied with an ornate antique buckle. 
+ 
+~
+64 524288 0 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3054
+willowy half-elven man shopkeeper~
+a willowy half-elven man~
+A willowy half-elven man patches a hole in a leather garment.
+~
+The half-elven man, patching a hole in a leather garment, is tall with a 
+willowy build.  His raven-black hair is cropped short, and his crystal-green 
+eyes glimmer with tranquility, as he contentedly goes about his work.  
+~
+64 512 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3055
+red robed old man~
+a red robed old man~
+A red robed old man is here, muttering to himself as he sorts spell components.
+~
+This old human is clad in red robes, and looks very wise.  He is busy 
+instructing the young magic students on the proper way to cast a number of 
+spells.  And not only does he teach, but it also looks like he has a few 
+things for sale.  
+~
+64 32 0 C
+125 1 -94 12d16+600 12d16+77
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3056
+auctioneer~
+the auctioneer~
+The auctioneer stands here, looking over some goods.
+~
+The auctioneer is a middle aged human male, pretty well built and with black 
+hair and eyes.  (**NOTE** He doesn't work yet, please auction things 
+yourself until we get him coded properly.)  
+~
+64 0 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3057
+towel boy~
+a towel boy~
+A towel boy is here, charging admission to the bath and handing out towels.
+~
+This young man is carryig a pile of white towels.  He has been working 
+around the bath and water glistens on his skin.  To get in, you need to pay 
+him.  
+~
+64 32 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3058
+baker~
+a halfling baker~
+A halfling baker spreads icing on some fresh pastries.
+~
+This halfling woman is middle-aged and rather plump.  She is wearing a 
+comfortable pink dress and hums to herself as she works.  
+~
+64 512 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3059
+pretty flower girl~
+a flower girl~
+A pretty girl is selling flowers here.
+~
+This pretty young human girl has blue eyes and long blond hair tied back 
+with a short piece of leather.  She is carrying a basket full of flowers.  
+~
+64 0 400 C
+3 0 8 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3060
+innkeeper~
+an innkeeper~
+The innkeeper is here, looking at some papers on the desk.
+~
+This female human looks to be about 50 years old.  She has black hair which 
+appears to be partially greying, and soft brown eyes.  She seems preoccupied 
+with the work in front of her on the desk.  
+~
+64 0 400 C
+26 0 -7 4d5+115 3d7+7
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3061
+bartender~
+a bartender~
+The bartender is here, wiping out a glass with a towel.
+~
+This tall burly human stands behind the bar and serves drinks for the inn's 
+guests.  He is dressed finely, but looks like he could take care of any 
+troublemakers.  
+~
+64 32 400 C
+28 0 -8 5d5+130 2d12+8
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3062
+waitress young girl~
+a waitress~
+A young girl is going from table to table, taking orders.
+~
+This young human girl is moving table to table, pouring drinks and taking 
+orders.  She has long blond hair tied back, and is wearing an old patched 
+dress.  (Type 'list' to see today's menu) 
+~
+128 0 400 C
+3 0 7 1d5+3 1d6+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3063
+bartender~
+a bartender~
+A dirty old bartender is here, watching you greedily.
+~
+This tall burly human stands behind the bar and serves drinks for the inn's 
+patrons.  He has on old clothes and is dirty, but looks pretty tough.  
+~
+64 32 400 C
+28 0 -8 5d5+130 2d12+8
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3064
+a drunken sailor~
+a drunken sailor~
+A drunken sailor is here, being obnoxious.
+~
+This middle-aged male human looks and smells like he has been drinking for 
+days.  His clothing is old and worn, and has a few stains.  His eyes are 
+glassy, and it looks like he can barely stay on his stool.  He is raving 
+about a sea dragon he claims to have seen.  
+~
+64 0 0 C
+14 0 0 2d5+55 1d12+3
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3065
+huge bouncer~
+a huge bouncer~
+A huge bouncer is standing by the door, cracking his knuckles.
+~
+This human is huge and muscular.  He has quite a few scars, and a patch over 
+one eye.  Doesn't look like someone to screw with really, eh?  
+~
+64 512 0 C
+35 1 -11 5d6+215 4d7+11
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3066
+winsome elven lady~
+a winsome elven lady~
+A winsome elven lady polishes an apple till it gleams.
+~
+An attractive elven lass, perhaps in her late twenties, is selling fruit and 
+vegetables hair.  Her shiny golden hair is tied loosely with a rose-red 
+ribbon, and her cheeks are flushed a bright pink.  
+~
+128 0 400 C
+10 0 4 2d5+18 2d4+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3067
+sailor mate seasoned well dressed~
+a well dressed sailor~
+A rather seasoned looking and well dressed sailor is here.
+~
+The sailor is the 1st mate of some ship which apparently carries passengers 
+to other destinations.  Perhaps if you told him your destination, he could 
+provide you with a speedy journey, or at least direct you to a different 
+ship.  
+~
+64 32 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3068
+plump black bearded human markian male~
+a plump black bearded male markian~
+A plump black bearded human male is here.
+~
+This fairly large human male sits behind his desk, scribbling away with his 
+quill and pen on some parchment.  He smells with week old body odour and his 
+beard looks like it actually has his left over dinner stuck in it.  
+~
+64 32 0 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3069
+cheerful gnomish lady shopkeeper~
+a cheerful gnomish lady~
+A cheerful gnomish lady sits behind the counter, sewing clothes for a doll.
+~
+The shopkeeper is a big middle-aged human male.  He is standing behind the 
+counter, playing with a small yo-yo.  Perhaps if you typed <list> he might 
+<value>, and <sell>.  
+~
+64 512 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3070
+huge white stallion~
+a huge `#`Wp`we`Wa`wr`Wl w`wh`Wi`wt`We`^ stallion~
+A huge `#`Wp`we`Wa`wr`Wl w`wh`Wi`wt`We`^ stallion stands here.
+~
+This large white horse looks well fed and healthy.  It should make a good mount.
+~
+64 0 0 C
+15 0 0 3d5+60 2d6+3
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3071
+middle-aged man jalken anzon~
+a middle-aged man, anzon~
+A middle-aged man sits here, looking down at his hands.
+~
+This man is in his mid-forties.  He has a long black beard and hair, and is 
+clothed in a white robe.  His big nose is placed over a large mouth.  He 
+seems to be always looking down, never raising his eyes.  He has a kind 
+face, though.  Perhaps he might give you a hand if you asked?  <type heal>.  
+~
+64 512 600 C
+140 2 -110 14d17+680 14d20+94
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3072
+unseen_meals_on_wheels~
+`#A prison guard~
+(no default description)
+~
+~
+64 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3073
+Tulgard mage guildguard~
+a podgy, grey robed man~
+A podgy, grey robed man stands here with weary glance.
+~
+This robed man redefines the word podgy. His robes, that may sway from 
+another body, seem on the verge of ripping from their seems. He casts a 
+weary eyed gaze around him. 
+~
+64 128 200 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3074
+Tulgard mage guildguard~
+a podgy, grey robed man~
+A podgy, grey robed man stands here with weary glance.
+~
+This robed man redefines the word podgy. His robes, that may sway from 
+another body, seem on the verge of ripping from their seems. He casts a 
+weary eyed gaze around him. 
+~
+64 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3075
+Tulgard mage guildguard~
+a podgy, grey robed man~
+A podgy, grey robed man stands here with weary glance.
+~
+This robed man redifines the word podgy. His robes, that may sway from 
+another body, seem on the verge of ripping from their seems. He casts a 
+weary eyed gaze around him. 
+~
+64 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3076
+unseen_mage_guildguard_loader~
+unseen_mage_guildguard_loader~
+Unseen_mage_guildguard_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3077
+Tulgard cleric guildguard emaciated white furred feylar~
+an emaciated, white furred feylar~
+An emaciated, white furred feylar stands here in quiet contemplation.
+~
+The hood of this slight woman's robe is drawn over her head, casting most of 
+her features into shadow. The folds of her robe do little to disguise her 
+frailty. She stand with her hands folded before her. 
+~
+64 512 200 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3078
+Tulgard cleric guildguard emaciated white furred feylar~
+an emaciated, white furred feylar~
+An emaciated, white furred feylar stands here in quiet contemplation.
+~
+The hood of this slight woman's robe is drawn over her head, casting most of 
+her features into shadow. The folds of her robe do little to disguise her 
+frailty. She stand with her hands folded before her. 
+~
+64 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3079
+Tulgard cleric guildguard emaciated white furred feylar~
+an emaciated, white furred feylar~
+An emaciated, white furred feylar stands here in quiet contemplation.
+~
+The hood of this slight woman's robe is drawn over her head, casting most of 
+her features into shadow. The folds of her robe do little to disguise her 
+frailty. She stand with her hands folded before her. 
+~
+64 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3080
+unseen_cleric_guildguard_loader~
+unseen_cleric_guildguard_loader~
+Unseen_cleric_guildguard_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3081
+thief assasin cloaked figure~
+a cloaked figure~
+A cloaked figure slips from the shadows as you enter.
+~
+You can't make out much about this person except that they are tall, thin, 
+and wearing a black cloak.  A flash of metal from within that cloak should 
+make you think twice about messing with him, though.
+~
+64 32 -600 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3082
+Tulgard thief guildguard lanky elf~
+a tall, lanky elf~
+A tall, lanky elf leans against a wall.
+~
+Dressed in a long, loose cloak that reaches down to the ground, this tall 
+elf leans against the wall, looking around inconspicuously from behind his 
+pulled-down hood.  
+~
+64 512 200 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3083
+Tulgard thief guildguard lanky elf~
+a tall, lanky elf~
+A tall, lanky elf leans against a wall.
+~
+Dressed in a long, loose cloak that reaches down to the ground, this tall elf
+leans against the wall, looking around inconspicuously from behind his
+pulled-down hood.
+~
+64 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3084
+Tulgard thief guildguard lanky elf~
+a tall, lanky elf~
+A tall, lanky elf leans against a wall.
+~
+Dressed in a long, loose cloak that reaches down to the ground, this tall elf
+leans against the wall, looking around inconspicuously from behind his
+pulled-down hood.
+~
+64 512 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3085
+unseen_thief_guildguard_loader~
+unseen_thief_guildguard_loader~
+Unseen_thief_guildguard_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3086
+Tulgard warrior guildguard fierce male human~
+a fierce-looking male human~
+A fierce-looking male human stands here.
+~
+This thickly armoured individual stands before you with a grin almost as 
+broad as his shoulders. He has assumed a rigid stance, with his chest out, 
+shoulders back and his chin up. He is well built, even for a warrior, 
+although the lack of scars might hint that he has seen very little battle. 
+~
+64 512 200 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3087
+Tulgard warrior guildguard fierce male human~
+a fierce-looking male human~
+A fierce-looking male human stands here.
+~
+This thickly armoured individual stands before you with a grin almost as 
+broad as his shoulders. He has assumed a rigid stance, with his chest out, 
+shoulders back and his chin up. He is well built, even for a warrior, 
+although the lack of scars might hint that he has seen very little battle.
+~
+64 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3088
+Tulgard warrior guildguard fierce male human~
+a fierce-looking male human~
+A fierce-looking male human stands here.
+~
+This thickly armoured individual stands before you with a grin almost as 
+broad as his shoulders. He has assumed a rigid stance, with his chest out, 
+shoulders back and his chin up. He is well built, even for a warrior, 
+although the lack of scars might hint that he has seen very little battle.
+~
+64 512 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3089
+Unseen_warrior_guildguard_loader~
+unseen_warrior_guildguard_loader~
+Unseen_warrior_guildguard_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3090
+man in full plate armour Jaklin~
+a man in full plate armour~
+A man in full plate armour is here, practicing with a large broadsword.
+~
+This towering man gleams proudly in his brightly polished full plate armour. 
+ Neatly kept grey hair tells of years of experience and knowledge.  His 
+strong jawline makes him look dashingly boyish.  He expertly swings his 
+large broadsword, stopping only to explain the finer ways of executing a 
+move.  
+~
+64 128 600 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3091
+a young man in full plate armour jenson~
+a young man in full plate armour~
+A young man in full plate armour is standing guard here.
+~
+You see a strapping young man here, resplendent in shiny full plate armour.  
+He is dark haired and sports a very neat vandyke.  He stands up straight, 
+his hands resting of the pommel of his great sword, his steely grey eyes 
+scanning the room carefully.  
+~
+64 512 600 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3092
+unseen_paladin_guildhouse_loader~
+unseen_paladin_guildhouse_loader~
+Unseen_paladin_guildhouse_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3093
+a young man in full plate armour jenson~
+a young man in full plate armour~
+A young man in full plate armour is standing guard here.
+~
+You see a strapping young man here, resplendent in shiny full plate armour.  
+He is dark haired and sports a very neat vandyke.  He stands up straight, 
+his hands resting of the pommel of his great sword, his steely grey eyes 
+scanning the room carefully.  
+~
+64 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3094
+a young man in full plate armour jenson~
+a young man in full plate armour~
+A young man in full plate armour is standing guard here.
+~
+You see a strapping young man here, resplendent in shiny full plate armour.  
+He is dark haired and sports a very neat vandyke.  He stands up straight, 
+his hands resting of the pommel of his great sword, his steely grey eyes 
+scanning the room carefully.  
+~
+64 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3095
+Tulgard warrior guildguard obsequious looking halfling dirrin~
+an obsequious looking halfling~
+An obsequious-looking halfling stands here, tinkering with a lock.
+~
+If smirking were a fine art, then this halfling would certainly be an 
+artist. Whether talking, walking or even frowning, that is what this 
+halfling is good at. Examining the rest of him shows you he likes his food 
+and is quite chubby all over. Except his hands. They are small and his 
+fingers move around very deftly. 
+~
+64 512 200 C
+100 0 -71 10d13+475 10d11+46
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3096
+Tulgard warrior guildguard obsequious looking halfling dirrin~
+an obsequious looking halfling~
+An obsequious-looking halfling stands here, tinkering with a lock.
+~
+If smirking were a fine art, then this halfling would certainly be an 
+artist. Whether talking, walking or even frowning, that is what this 
+halfling is good at. Examining the rest of him shows you he likes his food 
+and is quite chubby all over. Except his hands. They are small and his 
+fingers move around very deftly.
+~
+64 0 200 C
+110 0 -81 10d15+600 10d16+70
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3097
+Tulgard warrior guildguard obsequious looking halfling dirrin~
+an obsequious looking halfling~
+An obsequious-looking halfling stands here, tinkering with a lock.
+~
+If smirking were a fine art, then this halfling would certainly be an 
+artist. Whether talking, walking or even frowning, that is what this 
+halfling is good at. Examining the rest of him shows you he likes his food 
+and is quite chubby all over. Except his hands. They are small and his 
+fingers move around very deftly.
+~
+64 512 200 C
+120 0 -90 10d17+700 10d17+75
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3098
+unseen_spellfilcher_guildguard_loader~
+unseen_spellfilcher_guildguard_loader~
+Unseen_spellfilcher_guildguard_loader
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3099
+elderly feylar lady shopkeeper potter~
+an elderly feylar potter~
+An elderly feylar lady moulds and shapes a clay pot here.
+~
+A grey-furred feylar lady carefully moulds a piece of clay into an 
+artistically shaped pot.  Her paws are covered with drying clay, and there 
+is a smear on her left cheek.  
+~
+64 0 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3100
+youthful avian lad shopkeeper~
+a youthful avian lad~
+A youthful avian lad is polishing a piece of oakwood furniture.
+~
+This brilliant white feathered avian is still in his youth, barely 20 
+perhaps.  He makes soft chirping sounds as he polishes an oakwood chair.  
+~
+64 524288 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3101
+distinguished elven man shopkeeper~
+a distinguished elven man~
+A distinguished elven man, who is finely dressed, arranges a picnic hamper.
+~
+This fine looking elven man is in his early thirties, and has an alluring 
+air, which is a combination of his deep brown eyes, and chiselled features.  
+He is preparing a hamper of food paying great attention to the finer 
+details.  
+~
+64 512 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3102
+glamourous elven lady shopkeeper~
+a glamourous elven lady~
+A glamourous elven lady gracefully moves through the shop, adjusting displays.
+~
+This slim elven lady carries herself with an air of gracefulness, and her 
+elegant dress compliments her figure.  Her jewellery sparkles as she moves, 
+and a warm smile adorns her face as she adjusts a display.  
+~
+128 512 400 C
+100 0 -70 10d14+480 10d13+55
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3103
+well-dressed man elven elf shopkeeper~
+a well-dressed man of elven descent~
+A well-dressed man, of elven descent, waits on the customers.
+~
+This finely dressed elven man has chiseled cheekbones, and a solid frame.  
+His tone is always polite, as he waits on the customers trying garments on.  
+
+~
+64 512 400 C
+100 1 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3104
+banker~
+the banker~
+A banker is here, ready to do business.
+~
+~
+2 32 0 C
+90 0 -60 9d12+440 10d11+45
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3105
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+128 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3106
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3107
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3108
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3109
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+128 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3110
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3111
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3112
+Tulgard town guard gate~
+a town guard~
+A town guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+130 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3113
+cat~
+a calico cat~
+A pretty calico cat is sitting by the entrance.
+~
+~
+64 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3114
+hassan mayor~
+`#`RHassan the `RMayor`^~
+`#`RHassan, `CM`cayor `wof `CT`wulgard`^ is here, keeping the peace.
+~
+Hassan stands almost 7' tall with his face covered with an executioners 
+hood.  Black robes cover his muscular body, and the stench of death is 
+around him.  In several places on his robes are the stains of old blood.  
+His sharpened axe has many notches on the handle, probably from the number 
+of victims he has found.  
+~
+64 4096 0 C
+125 0 -95 13d16+605 13d17+80
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3115
+alton license man fat dealer~
+`#`YAlton`^~
+A short, fat man is here going over paperwork at his desk.
+~
+Type 'LICENSE' to see what is available for purchase.
+~
+64 32 0 C
+135 0 -105 14d17+660 13d19+90
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3116
+Unseen_Bonfire_Guarder~
+unseen_Bonfire_Guarder~
+Unseen_Bonfire_Guarder
+~
+~
+64 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3117
+unseen_trashman~
+unseen_trashman~
+Unseen_trashman
+~
+~
+64 512 0 C
+100 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3118
+shifty eye shopkeep~
+a shifty-eyed shopkeep~
+A shifty-eyed hobgoblin shopkeep stands upon the counter.
+~
+~
+2 512 0 C
+149 0 -119 15d18+725 14d22+104
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3119
+judge salzar~
+`#`yJudge `ySalzar`^~
+`#`yJudge `ySalzar`^ sits here, judging those brought in for trial.
+~
+This is the High Judge of Tulgard.  He is known as being fair in his 
+judgement.  
+~
+2 512 -600 C
+173 0 -25 3000d3+1000 100d100+1000
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3120
+cheerful gnomish lady shopkeeper~
+a cheerful gnomish lady~
+A cheerful gnomish lady sits behind the counter, sewing clothes for a doll.
+~
+The shopkeeper is a big middle-aged human male.  He is standing behind the 
+counter, playing with a small yo-yo.  Perhaps if you typed <list> he might 
+<value>, and <sell>.  
+~
+64 512 0 C
+100 0 -50 5d10+999 8d6+100
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3172
+unseen_meals_on_wheels~
+`#A prison guard~
+(no default description)
+~
+~
+64 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3198
+Tulgard town guard gate~
+a town guard~
+A town guard is here, patrolling the streets.
+~
+This guard looks very powerful and well-trained.  He is wearing the
+standard armours of the town, but does have a special insignia on his chest
+identifying him.  
+~
+64 128 600 C
+124 2 -100 13d17+635 13d18+85
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#3199
+black ant~
+a blank ant~
+A black ant is here, to ruin the picnic.
+~
+~
+64 512 0 C
+115 0 -95 13d16+605 13d17+80
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3000
+sturdy hammer~
+a sturdy hammer~
+A sturdy hammer has been left here.~
+~
+5 0 4
+1 10 7 0
+0 100 1
+#3001
+old shirt~
+an old shirt~
+An old shirt is lying here.~
+~
+11 0 8
+0 0 0 0
+0 16 1
+#3002
+pair old pants~
+a pair of old pants~
+A pair of old pants is lying here.~
+~
+11 0 8
+0 0 0 0
+0 18 1
+#3003
+steel sword~
+a steel sword~
+An ordinary steel sword is lying here.~
+~
+5 0 4
+2 12 3 0
+0 400 1
+#3004
+heavy steel chainmail~
+a heavy steel chainmail~
+A suit of heavy steel chainmail is lying here.~
+~
+9 0 8
+7 7 5 0
+1 400 1
+#3005
+steel helm~
+a steel helm~
+A steel helm is lying here.~
+~
+9 0 8
+4 4 3 0
+0 300 1
+#3006
+old white robes~
+an old `#`Wwhite`^ robe~
+Old `#`Wwhite`^ robes are lying here.~
+~
+11 0 8
+0 0 0 0
+0 16 1
+#3007
+dark cloak~
+a dark cloak~
+A dark cloak is lying here.~
+~
+9 0 8
+1 1 1 0
+0 30 1
+#3008
+fine white robe~
+a fine `#`Wwhite`^ robe~
+A fine `#`Wwhite`^ robe is lying here.~
+~
+11 0 8
+0 0 0 0
+0 90 1
+#3009
+studded leather armor~
+some studded leather armor~
+Studded leather armor is lying here.~
+~
+9 0 8
+2 1 1 0
+0 100 1
+#3010
+red robes~
+a `#`Rred`^ robe~
+Some `#`Rred robes`^ are lying here.~
+~
+11 0 8
+0 0 0 0
+0 60 1
+#3011
+full suit leather armor~
+a full suit of leather armor~
+A full suit of leather armor is lying here.~
+~
+9 0 8
+4 4 3 0
+0 200 1
+#3012
+amethyst ring~
+an `#`mamethyst`^ ring~
+An `#`mamethyst`^ ring is lying here.~
+~
+33 64 32
+0 0 0 0
+0 1075 1
+#3013
+deadly longsword sword~
+a deadly longsword~
+A deadly longsword is lying here.~
+~
+5 0 4
+4 12 3 8
+1 1050 1
+#3014
+short dagger~
+a short dagger~
+A short dagger is lying here.~
+~
+5 0 4
+2 7 11 0
+0 380 1
+#3015
+light brown cloak~
+a light brown cloak~
+A light brown cloak is lying here.~
+~
+9 0 8
+4 4 3 0
+0 333 1
+#3016
+cloth tunic~
+a cloth tunic~
+A cloth tunic is lying here.~
+~
+11 0 8
+0 0 0 0
+0 10 1
+#3017
+a nice white shirt~
+a nice `#`Wwhite`^ shirt~
+A nice `#`Wwhite`^ shirt is lying here.~
+~
+11 0 8
+0 0 0 0
+0 20 1
+#3018
+pair black pants~
+a pair of `#`Sblack`^ pants~
+A pair of `#`Sblack`^ pants are here.~
+~
+11 0 8
+0 0 0 0
+0 25 1
+#3019
+dark red robe~
+a dark red robe~
+A dark red robe is lying here.~
+~
+11 0 8
+0 0 0 0
+0 950 1
+#3020
+plain grey robes~
+some plain `#`Sgrey`^ robes~
+Some plain `#`Sgrey`^ robes are lying here.~
+~
+11 0 8
+0 0 0 0
+0 14 1
+#3021
+small dirty shirt~
+a small dirty shirt~
+A small dirty shirt is lying here.~
+~
+11 0 8
+0 0 0 0
+0 5 1
+#3022
+dog collar~
+a dog collar~
+A dog collar is lying here.~
+~
+9 0 8
+1 1 1 0
+0 10 1
+#3023
+roast chicken~
+`#`ya roast chicken`^~
+A roast chicken is lying here.~
+~
+19 0 16
+30 0 0 0
+0 23 1
+#3024
+loaf bread~
+`wa `yloaf `wof `ybread`^~
+A loaf of bread is lying here.~
+~
+19 0 16
+20 0 0 0
+0 13 1
+#3025
+bowl stew~
+a bowl of `#`ystew`^~
+A bowl of stew is lying here.~
+~
+19 0 16
+15 0 0 0
+0 17 1
+#3026
+a waterskin~
+`wa `cwater`yskin`^~
+A waterskin is lying here.~
+~
+17 0 16
+70 0 0 0
+0 32 1
+#3027
+oil lamp~
+`wan `yoil `rlamp`^~
+An oil lamp is lying here.~
+~
+1 0 1
+0 160 0 0
+0 26 1
+#3028
+small scroll identify~
+a small scroll~
+A small scroll is lying here.~
+~
+2 0 2
+0 0 0 0
+0 222 1
+#3029
+small raft~
+a small raft~
+A small raft is here.~
+~
+22 0 16
+0 0 0 0
+2 235 1
+#3030
+canoe~
+a canoe~
+A canoe is here.~
+~
+22 0 16
+0 0 0 0
+2 340 1
+#3031
+small rowboat~
+a small rowboat~
+A small rowboat is here.~
+~
+22 0 16
+0 0 0 0
+3 425 1
+#3032
+potion vial brown liquid resist poison~
+a vial of immunity to poison~
+A vial of brown liquid is here.~
+~
+10 64 8
+0 0 0 0
+0 1125 1
+#3033
+potion remedy drunkeness alcohol purge~
+a remedy for drunkeness~
+A potion bottle lies here.~
+~
+10 64 8
+0 0 0 0
+0 777 1
+#3034
+potion fly~
+a potion of flying~
+A potion of flying is lying here.~
+~
+10 64 8
+0 0 0 0
+0 335 1
+#3035
+potion armor~
+a potion of armor~
+A potion of armor is lying here.~
+~
+10 64 8
+0 0 0 0
+0 425 1
+#3036
+potion elixir healing~
+an elixer of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+An elixir of healing is here.~
+~
+10 0 8
+0 0 0 0
+0 300 1
+#3037
+elixir cure disease potion~
+an elixir of cure disease~
+An elixir of cure disease is lying here.~
+~
+10 0 8
+0 0 0 0
+0 490 1
+#3038
+elixir cure blindness potion~
+an elixir of cure blindness~
+An elixir of cure blindness is here.~
+~
+10 0 8
+0 0 0 0
+0 490 1
+#3039
+bottle poison~
+a bottle of poison~
+A bottle of poison is lying here.~
+~
+17 0 16
+15 26 0 0
+0 185 1
+#3040
+small diamond~
+a small diamond~
+A small diamond is lying here.~
+~
+32 0 32
+0 0 0 0
+0 5000 1
+#3041
+mug ale~
+a mug of ale~
+A frosty mug of ale is here.~
+~
+17 0 16
+2 3 0 0
+0 15 1
+#3042
+cup honey mead~
+a cup of honey mead~
+A cup of honey mead is here.~
+~
+17 0 16
+3 20 0 0
+0 20 1
+#3043
+glass red wine~
+a glass of `#`rred`^ wine~
+A glass of `#`rred`^ wine is here.~
+~
+17 0 16
+3 2 0 0
+0 30 1
+#3044
+shot whisky~
+a shot of whisky~
+A shot of whisky is here.~
+~
+17 0 16
+1 5 0 0
+0 50 1
+#3045
+bottle rum~
+a bottle of rum~
+A bottle of dark rum.  There is a picture of a pirate captain on its side.~
+~
+17 0 16
+10 34 0 0
+0 200 1
+#3046
+leather sleeves~
+some `#`yleather`^ sleeves~
+Leather sleeves are lying here.~
+~
+9 0 8
+2 2 2 0
+0 62 1
+E
+3046 leather sleeves~
+Standard leather sleeves.  Nothing special about them.
+~
+#3047
+leather cap~
+a `#`yleather`^ cap~
+A leather cap is lying here.~
+~
+9 0 8
+2 2 1 0
+0 36 1
+E
+3047 leather cap~
+A standard leather cap.  Nothing special about it.
+~
+#3048
+leather gloves~
+some `#`yleather`^ gloves~
+Leather gloves are lying here.~
+~
+9 0 8
+2 2 1 0
+0 35 1
+E
+3048 leather gloves~
+Standard leather gloves. Nothing special about them.
+~
+#3049
+leather vest~
+a `#`yleather`^ vest~
+A leather vest is lying here.~
+~
+9 0 8
+3 3 1 0
+0 56 1
+E
+3049 leather vest~
+A standard leather vest.  Nothing special about it.
+~
+#3050
+leather leggings~
+some `#`yleather`^ leggings~
+Leather leggings are lying here.~
+~
+9 0 8
+2 2 2 0
+0 48 1
+E
+3050 leather leggings~
+Standard leather leggings.  Nothing special about them.
+~
+#3051
+leather boots~
+some `#`yleather`^ boots~
+Leather boots are lying here.~
+~
+9 0 8
+1 2 1 0
+0 28 1
+E
+3051 leather boots~
+Standard leather boots.  Nothing special about them.
+~
+#3052
+leather belt~
+a `#`yleather`^ belt~
+A leather belt is lying here.~
+~
+9 0 8
+2 1 0 0
+0 28 1
+E
+3052 leather belt~
+A standard leather belt.  Nothing special about it.
+~
+#3053
+small wooden shield~
+a `#`ssmall `ywooden `sshield`^~
+A small wooden shield is lying here.~
+~
+9 0 8
+3 3 2 0
+0 50 1
+E
+3053 A small wooden shield.~
+A standard wooden shield.  Nothing special about it.
+~
+#3054
+shortsword~
+a shortsword~
+A shortsword lies here.~
+~
+5 0 4
+1 6 3 8
+0 65 1
+#3055
+longsword sword~
+a longsword~
+A longsword is lying here.~
+~
+5 0 4
+1 7 3 0
+0 57 1
+E
+3055 longsword~
+A standard longsword.  Nothing special about it.
+~
+#3056
+dagger~
+a dagger~
+A dagger is lying here.~
+~
+5 0 4
+1 4 11 0
+0 45 1
+E
+3056 dagger~
+A standard dagger.  Nothing special about it.
+~
+#3057
+mace~
+a mace~
+A mace is lying here.~
+~
+5 0 4
+1 6 27 0
+0 62 1
+E
+3057 mace~
+A standard mace.  Nothing special about it.
+~
+#3058
+spear~
+a spear~
+A spear is lying here.~
+~
+5 0 4
+1 9 11 32
+0 68 1
+E
+3058 spear~
+A standard spear.  Nothing special about it.
+~
+#3059
+whip~
+a whip~
+A whip is lying here.~
+~
+5 0 4
+1 5 26 0
+0 51 1
+E
+3059 whip~
+A standard whip.  Nothing special about it.
+~
+#3060
+battleaxe axe~
+a battleaxe~
+A battleaxe is lying here~
+~
+5 0 4
+1 9 1 32
+0 71 1
+E
+3060 battleaxe~
+A standard battleaxe.  Nothing special about it.  Looks like you'd need two 
+hands to wield this properly.  
+~
+#3061
+halberd polearm~
+a halberd~
+A halberd is lying here.~
+~
+5 0 4
+1 14 34 32
+0 76 1
+E
+3061 halberd~
+A standard halberd.  Nothing special about it.
+~
+#3062
+potion sight~
+a potion of sight~
+A potion of sight is lying here.~
+~
+10 0 8
+0 0 0 0
+0 1200 1
+#3063
+chicken leg~
+a `#`ychicken leg`^~
+A cooked `#`ychicken leg`^ is lying here.~
+~
+19 0 16
+10 0 0 0
+0 24 1
+E
+3063 chicken leg~
+A cooked chicken leg.
+~
+#3064
+spiced potatoes~
+an order of spiced potatoes~
+An order of spiced potatoes is here.~
+~
+19 0 16
+13 0 0 0
+0 32 1
+E
+3064 spiced potatoes order~
+An order of yummy spiced potatoes.
+~
+#3065
+bowl tomato soup~
+a bowl of `#`Rtomato`^ soup~
+A bowl of `#`Rtomato`^ soup is lying here.~
+~
+19 0 16
+11 0 0 0
+0 26 1
+E
+3065 bowl tomato soup~
+A bowl of yummy tomato soup.
+~
+#3066
+ruby~
+a dazzling `#`rruby`^~
+A `#`rruby`^ has been left here.~
+~
+32 0 32
+0 0 0 0
+0 3000 1
+E
+3066 small ruby~
+A small red gemstone.
+~
+#3067
+sapphire~
+a gleaming `#`Bsapphire`^~
+A `#`Bsapphire`^ has been left here.~
+~
+32 0 32
+0 0 0 0
+0 4000 1
+E
+3067 sapphire~
+A small blue gemstone.
+~
+#3068
+emerald~
+a sparkling `#`Gemerald`^~
+An `#`Gemerald`^ has been left here.~
+~
+32 0 32
+0 0 0 0
+0 2000 1
+E
+3068 emerald~
+A small green emerald.
+~
+#3069
+fragile painted vase~
+a fragile `#`Wpa`ri`Rn`rt`Wed`^ vase~
+A fragile `#`Wpa`ri`Rn`rt`Wed`^ vase is here.~
+~
+15 0 8
+0 0 10 0
+0 98 1
+#3070
+fancy cotton tunic~
+`#`wa `Bf`ba`Bn`bc`By `wcotton tunic`^~
+`#`wa `Bf`ba`Bn`bc`By `wcotton tunic has been left here.`^~
+~
+11 0 8
+0 0 0 0
+0 62 1
+E
+3070 fancy cotton tunic~
+The tunic is made from cotten and dyed a bright red.  There are fancy symbols 
+stitched into it.
+~
+#3071
+green cotton pants~
+`#`wsome `ggreen c`wotton pants`^~
+`#`wsome `ggreen `wcotton pants have been left here.`^~
+~
+11 0 8
+0 0 0 0
+0 30 1
+#3072
+red silk shirt~
+`#`wa `rred silk `wshirt`^~
+`#`wa `rred silk `wshirt is lying here.`^~
+~
+11 0 8
+0 0 0 0
+0 36 1
+#3073
+thin leather gloves~
+some thin leather gloves~
+Thin leather gloves have been left here.~
+~
+11 0 8
+0 0 0 0
+0 45 1
+E
+3073 thin leather gloves~
+These gloves would not offer much protection, but do look good.
+~
+#3074
+thin leather boots~
+some thin leather boots~
+Thin leather boots have been left here.~
+~
+11 0 8
+0 0 0 0
+0 41 1
+E
+3074 thin leather boots~
+Not very protective, but at least they look good.
+~
+#3075
+dark crimson robes~
+`#`wsome `rdark crimson `wrobes`^~
+`#`wsome `rdark crimson `wrobes are lying here.`^~
+~
+11 0 8
+0 0 0 0
+0 51 1
+E
+3075 light blue robes.~
+These light blue robes are thin, but well made.
+~
+#3076
+deep well~
+a deep well~
+A deep well is here, with a bucket for drawing water.~
+~
+25 0 16
+30000 52 0 0
+300 1 1
+E
+3076 deep well bucket~
+A deep well has been dug here.  It has a bucket on a rope for getting water.
+~
+#3077
+zaradine~
+a `#`wz`Wa`wr`Wa`wd`Wi`wn`We`^~
+A `#`wz`Wa`wr`Wa`wd`Wi`wn`We`^ sparkles here.~
+~
+32 0 32
+0 0 0 0
+0 10000 1
+E
+3077 zaradine~
+A light purple gemstone that glows with an inner light of its own.
+~
+#3078
+tall bar stool~
+a tall bar stool~
+A tall bar stool.~
+~
+12 0 8
+2000 146 110 110
+0 10 1
+E
+3078 tall bar stool~
+This bar stool is finely crafted from oak wood, and is just tall emough to sit 
+comfortably by the bar.
+~
+#3079
+tall bar stool~
+a tall bar stool~
+A tall bar stool.~
+~
+12 0 8
+2000 146 110 110
+0 10 1
+E
+3079 tall bar stool~
+This bar stool is finely crafted from oak wood, and is just tall emough to sit comfortably by the bar.
+~
+#3080
+long wooden bench~
+a long wooden bench~
+A long wooden bench sits here.~
+~
+12 0 8
+10000 9362 110 110
+20 1 1
+E
+3080 tulgard-benches ~
+Lightly carved into the bench and barely visible, the words of 'seek the 
+seven swords' can be seen. 
+~
+E
+3080 long wooden bench~
+This bench is crafted from oak wood and is finely made.  It is long enough to support four
+people comfortably, and looks quite strong.
+ 
+~
+#3081
+trash can pit~
+a trash can~
+A trash can.~
+~
+15 0 8
+0 0 100 100
+1 10 1
+E
+3081 trash can~
+A wooden trash can, full of empty bottles.
+~
+#3082
+small backpack pack~
+a `#`ssmall `rbackpack`^~
+A small backpack has been left here.~
+~
+15 0 8
+1 0 35 95
+0 63 1
+E
+3082 small backpack pack~
+A small leather backpack.
+~
+#3083
+bedroll~
+a `#`rbedroll`^~
+A bedroll has been left here.~
+~
+12 0 8
+9999 9362 115 115
+0 106 1
+E
+3083 bedroll~
+This comfortable bedroll is made from thick cloth and is filled 
+with feathers or some soft material.  It would be great for
+those times when it's necessary to sleep in the wilderness.
+~
+#3084
+scorched scroll fubar~
+a scorched scroll~
+A scorched scroll is here.~
+~
+2 0 2
+0 0 0 0
+0 795 1
+E
+3084 scorched scroll fubar~
+This scroll is made of parchment, and has strange writing on it.  The writing
+seems to spell out the word 'FUBAR.'  The edges are a little burnt.
+~
+#3085
+small wooden keg~
+a small wooden keg~
+A small wooden keg.~
+~
+17 0 16
+150 1 0 0
+0 300 1
+#3086
+ornament tiger clay~
+a `#`ytiger`^ ornament~
+A `#`ytiger`^ ornament is here.~
+~
+8 0 8
+0 0 0 0
+0 65 1
+#3087
+empty potion~
+an empty potion~
+A potion bottle is here.~
+~
+10 0 8
+0 0 0 0
+0 70 1
+#3088
+blank scroll~
+a blank scroll~
+A blank scroll is here.~
+~
+2 0 2
+0 0 0 0
+0 70 1
+#3089
+small elven-made dresser~
+a small, elven-made dresser~
+A small, elven-made dresser stands here.~
+~
+12 0 8
+0 49152 0 0
+0 650 1
+#3090
+wobbly gnomish chair one leg~
+a wobbly gnomish chair with one leg~
+A gnomish chair with only one leg wobbles here.~
+~
+12 0 8
+9999 144 105 105
+0 720 1
+#3091
+wooden chair~
+an old wooden chair~
+An old wooden chair.~
+~
+12 0 8
+9999 1170 105 105
+0 1 1
+E
+3091 old wooden chair~
+An old, well-used, wooden chair.  
+~
+#3092
+iron key tulgard jail~
+`#`wTulgard `sJail `wKey`^~
+An iron key has been left here.~
+~
+31 128 16
+0 0 0 0
+0 1 1
+E
+3092 iron key~
+An old iron key.
+~
+#3093
+silver wedding band~
+`Wa `Ssilver `Ww`we`Wd`wd`Wi`wn`Wg band`^~
+`Wa `ssilver `Ww`we`Wd`wd`Wi`wn`Wg band lies here.`^~
+~
+33 0 32
+0 0 0 0
+0 900 1
+E
+3093 silver wedding band~
+A finely made silver wedding band.  Maybe if you ask nicely an immortal will 
+restring this description to reflect your wedding date etc.  
+~
+#3094
+gold wedding band~
+`Wa `Yg`yo`Yl`yd`Ye`yn `Ww`we`Wd`wd`Wi`wn`Wg band`^~
+`Wa `Yg`yo`Yl`yd`Ye`yn `Ww`we`Wd`wd`Wi`wn`Wg band has been left here.`^~
+~
+33 0 32
+0 0 0 0
+0 1000 1
+E
+3094 gold wedding band~
+A finely made gold wedding band.  Maybe if you ask nicely an immortal will 
+restring this description to reflect your wedding date etc.  
+~
+#3095
+diamond necklace~
+`#`wa d`Wi`sa`wm`Wo`sn`wd necklace`^~
+A diamond necklace has been left here.~
+~
+33 0 32
+0 0 0 0
+0 1000 1
+E
+3095 diamond necklace~
+A small but very finely cut diamond hangs from this thin golden chain.
+~
+#3096
+bloodstone pendant~
+a `#`Rbloodstone`^ pendant~
+A `#`Rbloodstone`^ pendant has been left here.~
+~
+33 0 32
+0 0 0 0
+0 750 1
+E
+3096 bloodstone pendant~
+A large blood red stone hanging from a golden chain.
+~
+#3097
+small scroll~
+a small scroll~
+A small scroll has been left here.~
+~
+2 0 2
+0 0 0 0
+0 76 1
+E
+3097 small scroll~
+A small scroll, upon which are scribed magic runes.
+~
+#3098
+sturdy oak staff~
+a sturdy oak staff~
+A sturdy oak staff has been left here.~
+~
+4 0 4
+0 0 0 0
+0 190 1
+E
+3098 sturdy oak staff~
+A plain but sturdy oak staff.
+~
+#3099
+huge steaming pool~
+a huge steaming pool~
+`ca huge `Csteaming pool`^~
+~
+12 0 8
+99999 18724 250 250
+99 0 1
+E
+3099 huge steaming pool~
+A wide pool of hot water for bathing.  It is not clear how it is heated.
+~
+#3100
+white towel~
+a `#`Wwhite`^ towel~
+A `#`Wwhite`^ towel is here.~
+~
+11 0 8
+0 0 0 0
+0 10 1
+E
+3100 white towel~
+A plain old white towel.
+~
+#3101
+comfortable pink dress~
+a comfortable `#`Mpink`^ dress~
+A comfortable `#`Mpink`^ dress is lying here.~
+~
+11 0 8
+0 0 0 0
+0 34 1
+E
+3101 comfortable pink dress~
+This old dress has been patched a few times, but is in decent shape.  It 
+looks comfortable.  
+~
+#3102
+birthday cake~
+a `#`Mb`Yi`Wr`Yt`Mh`Yd`Wa`Yy`^ cake~
+A `#`Mb`Yi`Wr`Yt`Mh`Yd`Wa`Yy`^ cake is here.~
+~
+19 0 16
+18 0 0 0
+0 22 1
+E
+3102 birthday cake~
+A nice frosted cake, made specially for someone's birthday.  (Maybe if you 
+ask an immortal nicely they'll add a nice birthday wish to this 
+description.)  
+~
+#3103
+jelly donut~
+a `#`rjelly`^ donut~
+A `#`rjelly`^ donut is here.~
+~
+19 0 16
+8 0 0 0
+0 11 1
+E
+3103 jelly donut~
+This donut is filled with strawberry flavored jelly.  Yumm!
+~
+#3104
+sweetcake~
+a sweetcake~
+A sweetcake has been left here.~
+~
+19 0 16
+10 0 0 0
+0 14 1
+E
+3104 sweetcake ~
+This small cake is very sweet, must have lots of sugar in there.
+~
+#3105
+blueberry muffin~
+a `#`Bblueberry`^ muffin~
+A `#`Bblueberry`^ muffin is here.~
+~
+19 0 16
+11 0 0 0
+0 16 1
+E
+3105 blueberry muffin~
+A tasty muffin with blueberries baked in.
+~
+#3106
+egg bagel~
+an egg bagel~
+An egg bagel has been left here.~
+~
+19 0 16
+9 0 0 0
+0 13 1
+E
+3106 egg bagel~
+A fresh bagel, made with eggs.
+~
+#3107
+loaf white bread~
+a loaf of `#`Wwhite`^ bread~
+A loaf of white bread has been left here.~
+~
+19 0 16
+14 0 0 0
+0 17 1
+E
+3107 loaf bread~
+A fresh load of bread.
+~
+#3108
+loaf wheat bread~
+a loaf of wheat bread~
+A loaf of wheat bread has been left here.~
+~
+19 0 16
+14 0 0 0
+0 17 1
+E
+3108 loaf bread~
+A fresh load of bread.
+~
+#3109
+long hard load bread~
+a long hard loaf of bread~
+A loaf of wheat bread has been left here.~
+~
+19 0 16
+17 0 0 0
+0 21 1
+E
+3109 long hard loaf bread~
+A long hard bread.   Looks like it would stay fresh for a while.
+~
+#3110
+white rose~
+a `#`Wwhite`^ rose~
+A `#`Wwhite`^ rose is lying here.~
+~
+13 0 8
+0 0 0 0
+0 13 1
+E
+3110 white rose~
+A nice white rose.
+~
+#3111
+pink rose~
+a `#`Mpink`^ rose~
+A `#`Mpink`^ rose is lying here.~
+~
+13 0 8
+0 0 0 0
+0 12 1
+E
+3111 pink rose~
+A nice pink rose.
+~
+#3112
+red rose~
+a `#`Rred`^ rose~
+A `#`Rred`^ rose is here.~
+~
+13 0 8
+0 0 0 0
+0 14 1
+E
+3112 red rose~
+A nice red rose.
+~
+#3113
+white carnation~
+a `#`Wwhite`^ carnation~
+A `#`Wwhite`^ carnation is here.~
+~
+13 0 8
+0 0 0 0
+0 10 1
+E
+3113 white carnation~
+A nice white flower.
+~
+#3114
+pink carnation~
+a `#`Mpink`^ carnation~
+A `#`Mpink`^ carnation is here.~
+~
+13 0 8
+0 0 0 0
+0 9 1
+E
+3114 pink carnation~
+A pretty pink flower.
+~
+#3115
+red carnation~
+a `#`Rred`^ carnation~
+A `#`Rred`^ carnation is here.~
+~
+13 0 8
+0 0 0 0
+0 11 1
+E
+3115 red carnation~
+A pretty red flower.
+~
+#3116
+morning lily flower~
+a morning `#`Wlily`^ flower~
+A morning `#`Wlily`^ flower is here.~
+~
+13 0 8
+0 0 0 0
+0 17 1
+E
+3116 morning lily flower~
+A pretty white flower with a long stem.
+~
+#3117
+blue yellow iris flower~
+a `#`Bb`Yl`Bu`Ye`^ and `#`Yy`Be`Yl`Bl`Yo`Bw`^ iris flower~
+A `#`Bb`Yl`Bu`Ye`^ and `#`Yy`Be`Yl`Bl`Yo`Bw`^ iris flower is here.~
+~
+13 0 8
+0 0 0 0
+0 15 1
+E
+3117 blue yellow iris flower~
+A pretty flower with blue leaves with streaks of yellow.
+~
+#3118
+orange orchid flower~
+an `#`Rorange`^ orchid flower~
+An `#`Rorange`^ orchid flower is here.~
+~
+13 0 8
+0 0 0 0
+0 14 1
+E
+3118 orange orchid flower~
+A pretty flower with orange petals.
+~
+#3119
+daisy~
+a daisy~
+A daisy is lying here.~
+~
+13 0 8
+0 0 0 0
+0 9 1
+E
+3119 daisy ~
+A yellow flower.
+~
+#3120
+dragonburger cheese~
+a `#`rdragonburger`^ with `#`Ycheese`^~
+A `#`rdragonburger`^ with `#`Ycheese`^ is lying here.~
+~
+19 0 16
+17 0 0 0
+0 25 1
+E
+3120 dragonburger burger cheese~
+This hamburger gets it's name from the cooking style - it is very well done 
+and looks like it got in the way of a red dragon.  It has cheese and a soft 
+roll and does look quite good.  
+~
+#3121
+order spicy chicken~
+an order of spicy chicken~
+An order of spicy chicken~
+~
+19 0 16
+11 0 0 0
+0 31 1
+E
+3121 imi's famous chaos chicken~
+This chicken has been cooked extremely well in some sort of heavy sauce 
+which leaves a crispy burnt shell around the chicken.  When cracked open the 
+chicken has black streaks throughout.  Kinda looks like someone cast 'chain 
+lightning' on it.  
+~
+#3122
+tossed salad~
+a `#`Gtoss`ged `Gs`gal`Gad`^~
+A `#`Gtoss`ged `Gs`gal`Gad`^ has been left here.~
+~
+19 0 16
+11 0 0 0
+0 17 1
+E
+3122 tossed salad~
+A salad with lettuce, tomatoes, carrots, cheese, and your choice of 
+dressing.  
+~
+#3123
+bowl rabbit stew~
+a bowl of rabbit stew~
+A bowl of rabbit stew has been left here.~
+~
+19 0 16
+14 0 0 0
+0 22 1
+E
+3123 bowl rabbit stew~
+A bowl of spiced rabbit stew.  Besides rabbit meat, it has carrots and some 
+other vegetables.  
+~
+#3124
+devilfish fish sandwich~
+a devilfish sandwich~
+A devilfish sandwich is lying here.~
+~
+19 0 16
+18 0 0 0
+0 26 1
+E
+3124 devilfish fish sandwich~
+A grilled fish sandwich with tartar sauce.  It must have been a pretty big 
+fish.  
+~
+#3125
+glass white wine~
+a glass of `#`Wwhite`^ wine~
+A glass of `#`Wwhite`^ wine has been left here.~
+~
+17 0 16
+3 18 0 0
+0 25 1
+#3126
+banana~
+a ripe `#`Ybanana`^~
+A `#`Ybanana`^ smells good here.~
+~
+19 0 16
+2 0 0 0
+0 5 1
+E
+3126 banana ~
+You see a small banana, smelling sweetly.  It is all covered with black 
+dots, showing that it is perfect to be eaten.  
+~
+#3127
+strawberry~
+a juicy `#`Rstrawberry`^~
+A strawberry looks delicious here.~
+~
+19 0 16
+1 0 0 0
+0 3 1
+E
+3127 strawberry ~
+You see a delicious looking strawberry, its vivid red color and delicate 
+texture sum with a wonderful smell, making the fruit look a true delicacy.  
+~
+#3128
+orange~
+a `#`rred orange`^~
+A `#`rred orange`^ is here.~
+~
+19 0 16
+2 0 0 0
+0 5 1
+E
+3128 orange ~
+You see a delicious looking orange, perfectly round and with a unique 
+reddish color.  
+~
+#3129
+pineapple~
+a `#`ypineapple`^~
+A `#`ypineapple`^ smells wonderfully here.~
+~
+19 0 16
+5 0 4 0
+0 15 1
+E
+3129 pineapples ~
+You see a great pineapple, its green leaves have sharp ends, but the smell 
+coming from it shows that it is sweeter than it looks.  
+~
+#3130
+earthenware pot~
+an `#`yearthenware`^ pot~
+An `#`yearthenware`^ pot lies here.~
+~
+15 0 8
+0 0 10 0
+0 40 1
+#3131
+order pancakes~
+an order of pancakes~
+An order of pancakes has been left here.~
+~
+19 0 16
+14 0 0 0
+0 21 1
+E
+3131 order pancakes~
+A pile of pancakes with butter and syrup 
+~
+#3132
+plate french toast~
+a plate of french toast~
+A plate of french toast.~
+~
+19 0 16
+13 0 0 0
+0 20 1
+E
+3132 french toast plate~
+A plate full of slices of french toast.
+~
+#3133
+sausage link~
+a sausage link~
+A sausage link has been left here.~
+~
+19 0 16
+12 0 0 0
+0 20 1
+E
+3133 sausage link~
+A fried sausage link.
+~
+#3134
+frying pan~
+a frying `#`span`^~
+A frying pan is lying here.~
+~
+13 0 8
+0 0 0 0
+0 33 1
+E
+3134 frying pan~
+A steel frying pan.  Nothing special about it.
+~
+#3135
+small hand axe~
+a small hand axe~
+A small hand axe is lying here.~
+~
+5 0 4
+1 6 1 0
+0 62 1
+E
+3135 small hand axe~
+A small light axe.  Pretty standard as far as materials and crafstmanship.  
+~
+#3136
+glittering crystal~
+a `#`Cg`cl`Ci`ct`Ct`ce`Cr`ci`Cn`cg`^ crystal~
+A glittering crystal floats here.~
+~
+32 64 32
+0 0 0 0
+0 99 1
+E
+3136 glittering crystal~
+A small round crystal, well polished and glittering with an inner light.  
+~
+#3137
+sturdy shovel~
+`wa sturdy `sshovel`^~
+A sturdy shovel has been left here.~
+~
+13 0 8
+0 0 0 0
+0 39 1
+E
+3137 sturdy shovel~
+This sturdy shovel has a steel blade and a thick wooden handle.
+~
+#3138
+ships boats~
+ships boats~
+Several boats and a few small ships are moored here.~
+~
+13 0 8
+0 0 0 0
+50 1 1
+E
+3138 ships boats~
+Most of the ship do not have a crew on board, probably off in some tavern 
+somewhere.  If you need a ride, perhaps you would be better off finding one 
+of the ship captains.  
+~
+#3139
+red leather tunic~
+a red leather tunic~
+A red leather tunic lies here.~
+~
+11 0 8
+0 0 0 0
+0 16 1
+#3140
+trendy sailor pants~
+trendy sailor pants~
+A trendy pair of sailor pants lies neatly folded here.~
+~
+11 0 8
+0 0 0 0
+0 18 1
+#3141
+small whetstone~
+`wa small `swhetstone`^~
+A small whetstone is lying here.~
+~
+13 0 8
+0 0 0 0
+0 65 1
+E
+3141 small whetstone~
+This is a small stone used for sharpening blades.
+~
+#3142
+fine black suit~
+`#`wa fine `sblack s`wuit`^~
+A fine black suit has been left here.~
+~
+11 0 8
+0 0 0 0
+0 250 1
+#3143
+a small pouch~
+a small pouch~
+A small pouch lies here.~
+~
+15 0 8
+1 0 50 100
+0 0 1
+#3144
+small parchment~
+a small parchment~
+A small parchment lies here.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+3144 small parchment~
+The Druid's list of needed roots and herbs are as follows:
+ 
+Mandrake Root
+Sunblossom 
+Flaxweed
+Doilan Buds
+Featherfew
+Wolf Moss
+Ruthin
+Fiend's Breath
+Aloe
+~
+#3145
+druid parchment token3145~
+druid_parchment token~
+Druid_parchment token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3146
+druid pay token3146~
+druid pay_token~
+Druid pay_token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3147
+druid remember token3147~
+druid remember_token~
+Druid remember_token~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3148
+small leather backpack~
+a small leather backpack~
+A small leather backpack lies here.~
+~
+15 0 8
+0 0 30 100
+0 0 1
+#3149
+small black parchment~
+a small black parchment~
+A small black parchment lies here.~
+~
+13 0 8
+0 0 0 0
+0 0 1
+E
+3149 small black parchment~
+The components needed for the Mages are as follows:
+ 
+a severed elven hand
+a turtle skull
+a fang from a blue dragon
+a honeycomb
+a skull
+a gryphon's egg
+a spider egg
+a piece of wood
+a rabbit's foot
+~
+#3150
+Mage_parchment token3150~
+mage_parchment token3150~
+Mage_parchment token3150~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3151
+Mage pay token3151~
+mage pay token3151~
+Mage pay token3151~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3152
+Mage remember token3152~
+mage remember token3152~
+Mage remember token3152~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3153
+small red yo-yo~
+`#a small `Rred`^ yo-yo~
+`#a small `Rred`^ yo-yo lies here.~
+~
+13 0 8
+0 0 0 0
+0 100 1
+E
+3153 small red yo-yo~
+This small device is two pieces of wood that has been carved in circles and 
+a small wooden peg has been hammered through them to keep it together.  Thin 
+white yarn has been wrapped around around the peg, and a loop hole from the 
+yarn dangles at the end of it.  
+~
+#3154
+large blue kite~
+`#a large `Bblue`^ kite`^~
+`#a large `Bblue`^ kite lies here.`^~
+~
+13 0 8
+0 0 0 0
+0 200 1
+E
+3154 large blue kite~
+This large kite is made from some sort of thin silk like material that has 
+been dyed to a bright blue.  Pieces of wood have been assembled and strung 
+to it to support the silk and shape it out in a triangle like pattern.  Yarn 
+has been tied to the end of the silk and it lowers itself down into a spool 
+of yarn.  
+~
+#3155
+small green ball~
+`#a small `Ggreen`^ ball`^~
+`#a small `Ggreen`^ ball`^ lies here.~
+~
+13 0 8
+0 0 0 0
+0 100 1
+E
+3155 small green ball~
+This small ball has been made from some sort of animal hide and has been 
+dyed to a bright green.  It seems to be filled with something likes beans or 
+maybe rice, its unknown.  
+~
+#3156
+small wooden doll yellow dress~
+`#a small wooden doll`^~
+`#a small wooden doll in a `Yyellow`^ dress lies here.~
+~
+13 0 8
+0 0 0 0
+0 500 1
+E
+3156 small wooden doll yellow dress~
+This small wooden doll is carved out of some sort of soft white wood.  
+Carved with pretty decent description and wearing a yellow dress made from 
+cotton, it looks rather expensive.  
+~
+#3157
+ball purple yarn~
+`#a ball of `mpurple`^ yarn~
+`#a ball of `mpurple`^ yarn lies here.~
+~
+13 0 8
+0 0 0 0
+0 75 1
+E
+3157 ball purple yarn~
+This purple yarn has been bundled up into a large ball.  Maybe a small kid 
+would have lots of fun playing with this yarn.
+~
+#3158
+hand puppet~
+a hand puppet~
+A hand puppet lies here.~
+~
+13 0 8
+0 0 0 0
+0 135 1
+E
+3158 hand puppet~
+This small hand puppet seems to fit over your hands, and you put your 
+fingers where its arms and head is.  Not exactly made into the shape of any 
+certain race its circular head has a smile sewed into it and its nose and 
+eyes are buttons.  
+~
+#3159
+Reputation3159-Token-Newbies-ONE~
+reputation3159-Token-Newbies-ONE~
+Reputation3159-Token-Newbies-ONE~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3160
+reputation3160-Token-High-Levels-ONE~
+reputation3160-Token-High-Levels-ONE~
+Reputation3160-Token-High-Levels-ONE~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3161
+table mahogany rows chairs~
+a chair resting by a small mahogany table~
+Rows of small mahogany tables with chairs line the walls here.~
+~
+12 0 8
+20000 72 100 100
+5 1000 1
+#3162
+puddle water~
+a dirty puddle~
+A murky puddle of water fills a small hollow in the ground here.~
+~
+25 0 16
+1000 0 0 0
+0 0 1
+#3163
+token3163 token_mage_guild_warned_before~
+token3163 token_mage_guild_warned_before~
+Token3163 token_mage_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3164
+stale dry bread~
+a small piece of stale bread~
+A small piece of dry, stale bread lies here.~
+~
+19 0 16
+18 0 0 0
+0 4 1
+#3165
+token3165 token_cleric_guild_warned_before~
+token3165 token_cleric_guild_warned_before~
+Token3165 token_cleric_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3166
+token3166 token_thief_guild_warned_before~
+token3166 token_thief_guild_warned_before~
+Token3166 token_thief_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3167
+token3167 token_warrior_guild_warned_before~
+token3167 token_warrior_guild_warned_before~
+Token3167 token_warrior_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3168
+token3168 token_paladin_guild_warned_before~
+token3168 token_paladin_guild_warned_before~
+Token3168 token_paladin_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3169
+token3169 token_spf_guild_warned_before~
+token3169 token_spf_guild_warned_before~
+Token3169 token_spf_guild_warned_before~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3170
+token_key_cutter~
+token_key_cutter~
+Token_key_cutter~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3171
+token3071 token_attempted_to_kill_healer~
+token_attempted_to_kill_healer~
+Token_attempted_to_kill_healer~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3172
+token3172 token_warning_about_killing_the_healer~
+token_warning_about_killing_the_healer~
+Token_warning_about_killing_the_healer~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3173
+bound scroll analyse~
+a bound scroll~
+A bound scroll is lying here.~
+~
+2 0 2
+0 0 0 0
+0 222 1
+#3174
+sparkling crystal~
+`ra `Rs`rp`Ra`rr`Rk`rl`Ri`rn`Rg `rcrystal`^~
+A sparkling crystal floats here.~
+~
+32 64 32
+0 0 0 0
+0 99 1
+#3175
+simple white robes~
+`wa simple `Wwhite `wrobe`^~
+A simple white robe has been left here.~
+~
+11 0 8
+0 0 0 0
+0 95 1
+#3176
+opaque crystal~
+`wan `Wop`ca`Wque `wcrystal`^~
+An opaque crystal floats here.~
+~
+32 64 32
+0 0 0 0
+0 99 1
+#3177
+hooded cloak~
+`wa hooded `scloak`^~
+A hooded cloak has been left here.~
+~
+11 0 8
+0 0 0 0
+0 95 1
+#3178
+polished stone~
+a polished stone~
+A polished stone floats here.~
+~
+32 0 32
+0 0 0 0
+0 99 1
+#3179
+thick leather wristbands~
+some thick leather wristbands~
+Some thick leather wristbands have been left here.~
+~
+9 0 8
+0 0 0 0
+0 95 1
+#3180
+crystal shard~
+`wa `Ccr`cy`Cstal `cshard`^~
+A crystal shard floats here.~
+~
+32 64 32
+0 0 0 0
+0 99 1
+#3181
+luminous crystal~
+`wa `Cl`cu`Cm`ci`Cn`co`Cu`cs `ccrystal`^~
+A luminous crystal floats here.~
+~
+32 64 32
+0 0 0 0
+0 99 1
+#3182
+royal blue tunic~
+a `#`broyal blue`^ tunic~
+A `#`broyal blue`^ tunic has been left here.~
+~
+11 0 8
+0 0 0 0
+0 95 1
+#3183
+holy pendant~
+`ca `Wh`wo`Wl`wy `cpendant`^~
+A pendant lies discarded here.~
+~
+33 64 32
+0 0 0 0
+0 128 1
+E
+3183 holy pendant~
+Turning the polished pendant over in your hands, you read the inscription`1`1`#`SMy Honour and Life are One,`1Take Honour from Me,`1And I am Done.  `^ 
+~
+#3184
+troll-sized bed~
+a troll-sized bed~
+A troll-sized bed is here.~
+~
+12 0 8
+5000 66706 100 100
+15 1350 1
+E
+3184 king-size bed~
+This huge bed, could fit at least two people with ease.  It has a rich 
+mahogany coloured frame, and the headboard has elegantly designed patterns 
+of birds on it.  The bed is covered in luxurious sheets and an expensive 
+looking quilt.  
+~
+#3185
+green striped shirt~
+a `#`Gg`gr`Ge`ge`Gn `gs`Gt`gr`Gi`gp`Ge`gd`^ shirt~
+A `#`Gg`gr`Ge`ge`Gn `gs`Gt`gr`Gi`gp`Ge`gd`^ shirt is lying here.~
+~
+11 0 8
+0 0 0 0
+0 20 1
+#3186
+pair brown plaid trousers~
+a pair of `#`yb`wr`Yo`Sw`yn `wp`Yl`Sa`yi`wd`^ trousers~
+A pair of `#`yb`wr`Yo`Sw`yn `wp`Yl`Sa`yi`wd`^ trousers lie here.~
+~
+11 0 8
+0 0 0 0
+0 25 1
+#3187
+shoes holes~
+some shoes with holes in them~
+Some shoes with holes in them lie here.~
+~
+11 0 8
+0 0 0 0
+0 11 1
+#3188
+floppy hat gaudy pink green feathers~
+a floppy hat with `#`Mg`ma`Gu`Md`ry `Gp`gi`Mn`gk `ma`Gn`cd `rg`gr`Me`Ge`mn`^ feathers~
+A `#`Mg`ma`Gu`Md`ry`^ hat with feathers is here.~
+~
+11 0 8
+0 0 0 0
+0 17 1
+#3189
+blunt spade~
+a blunt spade~
+A blunt spade has been left here.~
+~
+13 0 8
+0 0 0 0
+0 12 1
+E
+3189 garden spade~
+A small metal spade, for digging in the garden.  
+~
+#3190
+green red polker dot bow-tie~
+a `#`Rgr`gee`Rn a`gnd `Rre`gd`^ polker dot bow-tie~
+A `#`Rgr`gee`Rn a`gnd `Rre`gd`^ polker dot bow-tie lies here.~
+~
+11 0 8
+0 0 0 0
+0 7 1
+#3191
+ornate copper lamp~
+an ornate copper lamp~
+An ornate copper lamp is here.~
+~
+1 0 1
+0 10 0 0
+0 250 1
+#3192
+porcelain washbasin~
+a `#`Wporcelain`^ washbasin~
+A `#`Wporcelain`^ washbasin sits here.~
+~
+13 0 8
+0 0 0 0
+0 100 1
+#3193
+antique locket~
+`#`yan `Rantique `ylocket`^~
+An `#`yantique`^ locket lies here.~
+~
+33 0 32
+0 0 0 0
+0 1500 1
+#3194
+blue watermelon~
+a `#`Bblue`^ watermelon~
+A `#`Bblue`^ watermelon lies here.~
+~
+19 0 16
+1 0 0 0
+1 12 1
+E
+3194 blue watermelon~
+You see a `#`Bblue`^ watermelon.  It looks juicy and smells good.  
+~
+#3195
+flail~
+a flail~
+A flail is lying here.~
+~
+5 0 4
+1 6 27 0
+0 62 1
+E
+3195 flail ~
+A standard flail. There is nothing special about it.
+~
+#3196
+sickle~
+a sickle~
+A sickle is lying here.~
+~
+5 0 4
+1 6 3 0
+0 62 1
+E
+3196 sickle ~
+A standard sickle. There is nothing special about it.
+~
+#3197
+cup coffee~
+a cup of coffee~
+A steaming cup of fresh coffee is here.~
+~
+17 0 16
+4 12 0 0
+0 15 1
+#3198
+token_under_arrest~
+token_under_arrest~
+Token_under_arrest~
+~
+35 0 32
+0 0 0 0
+0 0 1
+#3199
+parchment letter note~
+a piece of parchment~
+A piece of parchment has been left here.~
+~
+14 0 8
+0 0 2 0
+0 10 1
+#0
+
+#ROOMS
+#3072
+Perfume & Soap Shop~
+Smells of spice and flowers fill the air of the Perfume & Soap shop. 
+Assorted colored soaps and scented perfume bottles line large wooden shelves 
+along the walls. A small oak counter lines the south wall. 
+~
+1 33817608 0
+D0
+~
+~
+0 0 3095
+S
+#3073
+Common Room~
+This common room is not as large as most, but then again the entire inn 
+seems to be on the small side.  What it lacks in size, however, seems to be 
+made up for in comfort.  There are padded chairs all around the tables, and 
+all of the furnishings and decorations look quite expensive.  A finely 
+polished wooden bar dominates the west wall, and a large brick fireplace is 
+set in the east.  There is an exit back to the reception area to the north, 
+and stairs leading up to the guest rooms.  
+~
+1 262152 0
+D0
+~
+~
+0 0 3067
+D4
+~
+~
+0 0 3069
+E
+brick fireplace~
+A large fireplace, in which a fire is burning.
+~
+E
+wooden bar~
+A wooden bar, behind which are some barrels and bottles.
+~
+E
+padded chairs tables furnishings decorations~
+All of the furniture and decorations look quite nice and expensive.
+~
+S
+#3074
+Public Baths~
+This large round room is very warm, no doubt heated by the huge steaming 
+pool that takes up most of it.  There are hooks on the wall, some taken by 
+towels and clothing.  It is not clear how the water is kept hot from where 
+you are.  The only exit is west.  
+~
+1 262156 0
+D3
+~
+~
+0 0 3066
+E
+hooks clothiong towel~
+Wooden hooks are places about, for hanging clothes and towels.
+~
+S
+#3075
+Captured Devotion~
+This building is spilling at the sides with used items and cheap and nasty 
+bits and pieces.  Most of the items look as if they would barely survive 
+being used once, before breaking.  This shop is obviously where people come 
+to sell their unwanted belongings, but if you look close enough, you might 
+find something useful.  There is a boldly painted sign hanging over the 
+counter.  
+~
+1 262152 0
+D2
+~
+~
+0 0 3100
+E
+sign ~
+/\
+`Y+=================================+
+|         `WOne person's junk       `Y|
+|   `WIs another person's treasure  `Y|
++=================================+
+~
+S
+#3076
+The Sunken Ship Tavern~
+Rundown is definitely the word to use for this old place.  There are lots of 
+tables and chairs around, but most are broken in some way, and quite dirty.  
+A filthy wooden bar stands alongside the west wall, but there doesn't appear 
+to be much to drink behind it.  Just a few old barrels, and seven swords in 
+an odd shape, hanging from the wall. There are windows, but they are greasy 
+and broken.  The exit to the street is south. 
+~
+1 262152 0
+D2
+~
+~
+0 0 3081
+E
+seven-swords ~
+Upon closer examination, the words 'property of a sleek graceful woman, with 
+long flowing hair' can be seen `#`RCARVED`^ into the hilts. 
+~
+E
+filthy dirty wooden bar chair table window~
+Everything is broken and dirty.
+~
+S
+#3077
+A Small River Port~
+A moderately busy but small river port is bustling with activity here.  
+Small to medium sized boats are busily navigating the river. Some laborers
+can be seen hauling cargo off the boats into small warehouses along the city 
+wall which lines the north and west right up to the water's edge.  
+Several boats can be seen anchored along the wharfs here.
+~
+1 262144 0
+D0
+~
+~
+0 0 3109
+S
+#3078
+Just North of the Plaza~
+The street runs north-south here and is covered with crushed grey stone.  
+There are small stone buildings up ahead to the east and west.  A wide 
+square is just to the south.  The city well is here for thirsty travellers 
+and passersby, and is covered by an awning.
+~
+1 262152 1
+D0
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 3000
+S
+#3079
+Just South of the Plaza~
+You are on a street made of crushed grey stone, just to the south of a large 
+square.  A `#`Ssign`^ hangs above the door to the west.  You can travel north into 
+the square, or south along the roadway.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3000
+D1
+~
+~
+0 0 3091
+D2
+~
+~
+0 0 3004
+E
+sign ~
+Tulgard Housing Entrance.
+
+`cIf you wish to have a home here, please see the Housing Authority Merchant to the east and have reached level 20.`x
+~
+S
+#3080
+Old Main Street~
+A street made of crushed grey stone runs north and south here.  There is a 
+small stone building to the west and a partially covered one to the east.  
+Off to the south you see lights reflecting off of a wide river.  There is a 
+sign to either side of the road.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3005
+D1
+~
+~
+0 0 3043
+D2
+~
+~
+0 0 3006
+D3
+~
+~
+0 0 3068
+E
+sign ~
+To the East:
+==================================
+         |        |
+   ---------------------
+  |     City Stables    |
+   ---------------------
+ 
+To the West:
+==================================
+        |          |
+   ---------------------
+  |     Auction Hall    |
+   ---------------------
+~
+S
+#3081
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  You hear drunken shouts 
+coming from the tavern to the north, and you see many boats and canoes 
+docked just to the south of here.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3076
+D1
+~
+~
+0 0 3026
+D2
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3109
+S
+#3082
+Main Street~
+The street runs east and west here, and is one of the busier parts of the 
+city.  Shops line the north and south edges, both here and to the east.  
+There are large gates just to the west of here.  The two buildings to the 
+north and south look especially interesting, and there are signs on both.  
+Trees and bushes are growing at even intervals, and add a nice touch to the 
+street.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3065
+D1
+~
+~
+0 0 3012
+D2
+~
+~
+0 0 3085
+D3
+~
+~
+0 0 3013
+E
+sign ~
+To the north:
+ =======================================
+           |         |
+     ------------------------
+    |  Merk's Magic Kingdom  |
+     ------------------------
+ 
+To the south:
+ =======================================
+          |          |
+      -------------------
+     | Yagro's Toy Store |
+      -------------------
+~
+S
+#3083
+On deck - approaching Markrist~
+Your vessel travels up northwards and you notice a deserted lighthouse at 
+the edge of a cliff, along the coast to your west.  The lighthouse looks 
+deserted.  After a while, the vessel changes course again and heads east.  
+~
+1 273920 0
+S
+#3084
+A Dirty Office~
+A small wooden desk sits in the northeastern corner of this office.  Papers 
+and books litter the top of the wooden desk in an unkept fashion.  On the 
+western wall of the office you see a large book shelf that has rows upon 
+rows of books in all shapes and sizes.  The air is filled with the scent of 
+leather and dust that lingers about.  A `#`Slarge sign`^ has been nailed to the 
+northern wall of the office.  
+~
+1 262156 0
+D2
+~
+~
+0 0 3102
+E
+large sign~
+`#`y=================================`RJOBS`y======================================`^ `1`1 `W1)`^ The `SDark Circle`^ is in dire need of spell components to further their 
+growthin the arcane rites of passage.  This is not a job for the weak 
+stomach forthe magi of this circle, ask for some gruesome components to 
+further their shadow studies in necromancy.  The `Yreward`^ on this job is 
+superb indeed.  Ask the desk clerk about the `cmage list`^ to get the list on 
+what components they are in search of.  `1`1 `W2)`^ The `GDruids`^ are in need of help locating a few herbs.  If you think 
+you're up to the challenge of travelling the realm and locating all of these 
+herbs then ask the desk clerk about the `cdruid list`^.  He'll give you a list 
+of all the herbs that are needed.  All you have to do is return with them to 
+be generously `Yrewarded`^.  `1 
+`y=============================================================================-
+`^ 
+~
+S
+#3085
+Yagro's Toy Store~
+This small building is covered with shelves upon shelves of dolls, wooden 
+toys, and other sorts of childish things.  At the end of the store you 
+notice a small wooden counter covered with papers.  Everything seems to be 
+neatly placed and the smell of fresh wood lingers in the air.  
+~
+1 262156 0
+D0
+~
+~
+0 0 3082
+S
+#3086
+A Dusty Shop~
+The air in this small, cramped room is extremely dusty. A large sweeping 
+broom that rests in the corner is covered in a layer of dust that would make 
+a cleaning servant scream and run for cover. Along the walls empty shelves 
+are stacked to the ceiling. A small counter stands near the far wall, 
+situated infront of a comfortable swivel chair. 
+~
+1 262152 0
+D0
+~
+~
+0 0 3012
+D2
+~
+~
+0 0 3019
+S
+#3087
+A Quiet Room of Reflection~
+There is an air of quiet in this small tidy room. A few bookcases, filled 
+with tightly rolled scrolls have been placed against the walls. The walls 
+have no ornamentation, and a single, thick candle stands at the centre of 
+the room, bathing the room in a warm glow. Heavy curtains, drawn and held in 
+place by a simple cord, frame the doorway that leads to the west. 
+~
+1 262152 0
+D1
+~
+~
+0 0 3002
+D3
+~
+~
+0 0 3014
+S
+#3088
+A Dimly Lit Storeroom~
+Several bulky crates are piled upon each other and litter this dimly lit 
+room.  Layers of dust cover some, others seem to have been placed here more 
+recently.  Some cobwebs add to the eery atmosphere in this cellar-like room. 
+ A dark curtain, that fades in with the colour of the wall, is draped along 
+the south wall.  
+~
+1 262152 0
+D2
+~
+~
+0 0 3089
+D3
+~
+~
+1 0 3063
+S
+#3089
+The Thieves Union~
+As new as the city is, it looks like a guild of thieves has already 
+organized and set up shop here hidden from the streets. The room is far from 
+fancy - all you see is some excercise mats and a few tables and chairs. 
+Maybe there is more than meets the eye. To the north you see what looks like
+a small storeroom filled with crates and boxes.
+~
+1 262152 0
+D0
+~
+~
+0 0 3088
+S
+#3090
+A Hall of Meditation and Valor~
+This large hall has large open windows letting in a cool breeze into the 
+room.  The walls of the hall is tiled with marble and the high domed ceiling 
+is held up with large circular columns.  The floor is black marbled and 
+polished to a mirror finish.
+~
+1 262152 0
+D1
+~
+~
+0 0 3005
+D3
+~
+~
+0 0 3093
+S
+#3091
+Housing Merchant~
+This cozy shop sells deeds to the Tulgard houses located in town, along with 
+furniture. Various items of furniture are stacked against the walls and rugs 
+and tapestries are rolled up, all available for purchase. Several tables and 
+comfortable chairs are arranged here. The exit lies to the west. 
+~
+1 262152 0
+D3
+~
+~
+0 0 3079
+E
+chairs tables comfortable~
+Comfortable wooden furniture.
+~
+S
+#3092
+Tulgard Pigeon Courier and Locksmith~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+To send gold, type GTRANSFER.
+~
+1 262152 0
+D1
+~
+door~
+1 0 3042
+D3
+~
+~
+0 0 3005
+E
+sign ~
+A small sign stands near the counter. It reads: 
+ 
+`B/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\`^
+`B\                                                          /`^
+`B/                                                          \`^
+`B\          `YThe fee for cutting keys is 10 gold.            `B/`^
+`B/                                                          \`^
+`B\  `YWe are not responsible for keys being harmed in any way `B/`^
+`B/            `Yor for any harm done to the buyer.            `B\`^
+`B\                                                          /`^
+`B/                                                          \`^
+`B\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/`^
+~
+S
+#3093
+Paladins' Guild~
+This large sparse room is brightly lit.  The walls of the room are free from 
+adornments and painted a soothing light blue.  There are some chairs neatly 
+arranged at one end of the room.  A large bookshelf filled with tomes and 
+books of religious and theoretical manuals line the south wall of the room.  
+A large platinum `#`ssign`^ hangs prominantly on the west wall.  There is a small 
+battle arena in the middle of the room, ready for practicing on.  
+~
+1 262152 0
+D1
+~
+~
+0 0 3090
+E
+sign ~
+The neatly carved platinum sign gleams brightly, the letterings etched neatly.
+ 
+       `#`W+=============================+
+       |                             |
+       | `#`sMy Honour and Life are One,`^ `#`W|
+       |    `#`sTake Honour from Me,`^     `#`W|
+       |       `#`sAnd I am Done.`^        `#`W|
+       |                             |
+       +=============================+`^   
+~
+S
+#3094
+The Courthouse~
+The courtroom before you is quite impressive.  White marble lines the floor, 
+and six large white stone columns rise to the ceiling, supporting the roof.  
+Several wooden benches stand before the judgement seat, where various judges 
+preside over the criminals of Tulgard.  
+~
+1 38543372 0
+D8
+~
+~
+0 0 3000
+S
+#3095
+Main Street~
+The street runs east and west here, and is one of the busier parts of the 
+city.  Shops line the north and south edges, both here and to the west.  The 
+two buildings to the north and south look especially interesting, and there 
+are signs on both.  Trees and bushes are growing at even intervals, and add 
+a nice touch to the street.  Just to the east of here are the eastern gates. 
+ A perfume and soap shop lies south of here. 
+~
+1 262144 1
+D0
+~
+~
+0 0 3035
+D1
+~
+~
+0 0 3010
+D2
+~
+~
+0 0 3072
+D3
+~
+~
+0 0 3009
+E
+sign ~
+To the north:
+ =======================================
+          |          |
+     -----------------------
+    |  Maps and Parchments  |
+     -----------------------
+To the south:
+ =======================================
+          |          |
+     ----------------------
+    | Hoss's Leather Goods |
+     ----------------------
+~
+S
+#3097
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and stone structures to the east.  There is the sound of splashing 
+coming from the east, and a sign stands outside the door.  A large 
+wrought-iron archway allows passage west into a courtyard.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3037
+D1
+~
+~
+0 0 3066
+D2
+~
+~
+0 0 3098
+D3
+~
+~
+0 0 7549
+E
+sign ~
+=========================
+      |        |
+  ------------------
+ |  Public Baths    |
+  ------------------
+~
+S
+#3098
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and just to the south of here are the western gates of the city.  
+To the east lies a large church, its yard filled with monks and nuns.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3097
+D1
+~
+~
+0 0 2901
+D2
+~
+~
+0 0 3013
+S
+#3099
+Hammond Street~
+The street runs east and west here.  It is bordered by the city walls not to 
+far off to the north.  A large fancy shop is to the south with a sign hanging by the door.
+~
+1 262144 1
+D0
+~
+~
+0 0 3116
+D1
+~
+~
+0 0 3041
+D2
+~
+~
+0 0 3117
+D3
+~
+~
+0 0 3040
+E
+sign ~
+To the north:
+================================
+            |     |
+    --------------------------
+   |  Pottery and Earthenware |
+    --------------------------
+ 
+To the south:
+================================
+           |        |
+   --------------------------
+  |  Foreign-Made Furniture  |
+   --------------------------
+~
+S
+#3100
+Hammond Street~
+The street runs east and west here.  It is bordered by the city walls not to 
+far off to the north.  A large shop is to the north with brightly coloured 
+flags hanging from the windows to attract attention.  A sign is posted 
+nearby.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3075
+D1
+~
+~
+0 0 3031
+D3
+~
+~
+0 0 3030
+E
+sign ~
+=====================================
+             |       |
+  ----------------------------
+ |    Backstreet Bargains     |
+  ----------------------------
+~
+S
+#3101
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  The road continues to 
+the east and west.  
+~
+1 262144 1
+D0
+~
+~
+0 0 7560
+D1
+~
+~
+0 0 3102
+D3
+~
+~
+0 0 3006
+S
+#3102
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  There is a small 
+building to the north of here.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3084
+D1
+~
+~
+0 0 3103
+D3
+~
+~
+0 0 3101
+S
+#3103
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  The road heads east and 
+west.  An armor & weapons forge lies to the north. 
+~
+1 262144 1
+D0
+~
+~
+0 0 3023
+D1
+~
+~
+0 0 3104
+D3
+~
+~
+0 0 3102
+S
+#3104
+Corner of Collier Street and River Road~
+On this corner, Collier Street and River Road meet.  Heading north, the road 
+heads towards the eastern gate.  To the west, the road heads along the 
+river's edge. 
+~
+1 262144 1
+D0
+~
+~
+0 0 3105
+D3
+~
+~
+0 0 3103
+S
+#3105
+Collier Street~
+The street runs north and south along the city walls here.  To the south, 
+the path turns a corner, and to the north the road leads back to town.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3104
+S
+#3106
+Collier Street~
+The street runs north and south along the city walls here.  There is a solid 
+structure to the west with bars where windows should be.  There is a roughly 
+painted sign posted in front of it.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3107
+D2
+~
+~
+0 0 3105
+D3
+~
+~
+0 0 3051
+E
+sign ~
+=====================================
+              |      |
+        -------------------
+       |   Tulgard Prison   |
+        -------------------
+~
+S
+#3107
+Collier Street~
+The street runs north and south along the city walls here.  Little clumps of 
+flowers have begun to spring up along the inner side of the wall, adding a 
+touch of colour to the greystone.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3108
+D2
+~
+~
+0 0 3106
+S
+#3108
+Collier Street~
+The street runs north and south along the city walls here.  Birds from trees 
+east of here, fly overhead, stopping occasionally when they spot a crumb on 
+the road.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3010
+D2
+~
+~
+0 0 3107
+S
+#3109
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  South of here you can 
+see the tips of what must be masts on small boats.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3957
+D1
+~
+~
+0 0 3081
+D2
+~
+~
+0 0 3077
+D3
+~
+~
+0 0 3110
+S
+#3110
+Corner of River Road and Winchester Street~
+At this corner, River Road joins up to Winchester Street.  Up to the north, 
+are the western gates of the city, and to the east, the path heads along the 
+riverside.  There is a stone walkway leading off to your west that goes to a 
+large house surrounded by a tall stone wall. 
+~
+1 262144 1
+D0
+~
+~
+0 0 3111
+D1
+~
+~
+0 0 3109
+D3
+~
+~
+0 0 1640
+S
+#3111
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and stone structures up ahead to the east.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3112
+D2
+~
+~
+0 0 3110
+S
+#3112
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and stone structures up ahead to the east.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3113
+D2
+~
+~
+0 0 3111
+S
+#3113
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and a large stone structures to the east.  A sign hangs over the 
+doorway and many visitors enter and leave the structure.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3114
+D1
+~
+~
+0 0 3067
+D2
+~
+~
+0 0 3112
+E
+sign ~
+====================================
+            |         |
+   ------------------------------
+  |  Bouuga's Bed and Breakfast  |
+   ------------------------------
+~
+S
+#3114
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and up ahead to the north are the western gates of the city.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3013
+D2
+~
+~
+0 0 3113
+S
+#3116
+Pottery and Earthernware~
+This shop is filled with large ceramic pots, some painted, some glazed.  
+There are decorative vases, cooking pots, and ornaments all made from clay.  
+A counter stands at the west side of the shop.  A mysterious deck of cards 
+lies on the counter.  
+ 
+Type PULL for information on the Deck of Fate.
+~
+1 38010892 0
+D2
+~
+~
+0 0 3099
+S
+#3117
+Foreign-Made Furniture~
+Inside this rather cramped and cluttered shop, are displays of furniture, 
+some of which are quite unusual, and others which are more common.  The 
+pieces of furniture haven't been made locally, but have been shipped in from 
+distant parts of the land.  There are elven-made dressers, gnomish 
+contraptions, and pieces of furniture large enough for a troll.  
+~
+1 262152 0
+D0
+~
+~
+0 0 3099
+S
+#3118
+Karrusmon's Custom Creations~
+As you enter the doorway, the aroma of exotic pipeweeds fill your head with 
+thier heavy scents.  There are about a dozen little beakers and bottles with 
+some concoction or another boiling away in them, heated from some unseen 
+magiks.  The interior of this shop is impecibly clean and organized.  There 
+are many shelves behind the main desk which are very neatly lined with 
+countless spell components, empty bottles, and blank sheets of paper.  
+Hanging on the walls there are some weapons that emit strange vibrations 
+into the air.
+~
+1 33554440 0
+D0
+~
+~
+0 0 3031
+S
+#3000
+Large Plaza~
+You are in the middle of a wide square plaza, with streets running in all 
+directions.  Crushed grey stone has been spread around on the ground to 
+cover the dirt.  In the middle of the square is a huge stone disk, upon 
+which stands the statue of a regal looking dwarf.  There are some trees and 
+bushes along the edges of the plaza.  Small shops line the streets in all 
+directions, and you see and hear many people in those directions. A large 
+set of stairs go up to the Hall of Rememberance from here. 
+~
+1 262144 1
+D0
+~
+~
+0 0 3078
+D1
+A busy street lies east of here, running past some small shops.
+~
+~
+0 0 3008
+D2
+~
+~
+0 0 3079
+D3
+A busy street lies west of here, running past some small shops.
+~
+~
+0 0 3011
+D4
+~
+~
+0 0 11300
+D6
+~
+~
+0 0 3094
+S
+#3001
+Old Main Street~
+The street runs north-south here and is covered with crushed grey stone.  
+There are small stone buildings to the east and west, each with signs 
+hanging from them.  You can enter either, or travel north or south on the 
+street.  A wide square is to the distant south.  
+~
+1 262144 1
+D0
+The road continues north.
+~
+~
+0 0 3002
+D1
+There is a small building to the east, upon which is hanging a small sign.
+~
+~
+0 0 3016
+D2
+~
+~
+0 0 3078
+D3
+There is a nice stone building to the west.
+~
+~
+0 0 3015
+E
+street crushed grey stone~
+The street runs north and soutn, and is covered with crushed grey stone.
+~
+E
+building wooden frame~
+Both buildings are relatively small, and made of grey stone.
+~
+E
+sign~
+To the East:
+==================================
+       |        |   
+       |        |
+  /--------------------\
+ /                      \
+ |  The Dancing Dragon  |
+ \                      /
+  \--------------------/
+ 
+To the West:
+==================================
+       |        |
+  /--------------------\
+ /                      \
+ |  The Healing Touch   |
+ \                      /
+  \--------------------/
+~
+S
+#3002
+Old Main Street~
+The street runs north and south here.  There is a small building to the 
+west, and a smaller, rather quaint building to the east.  To the south, you 
+see the town well, and to the north, more buildings and shops.  There are 
+signs posted at either side of the road.  
+~
+1 262144 1
+D0
+There is some heavy construction to the north.
+~
+~
+0 0 3055
+D1
+~
+~
+0 0 3063
+D2
+The street runs south.
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 3087
+E
+sign~
+To the east:
+================================
+           |       |
+  ---------------------------
+ | Antiques and Collectables |
+  ---------------------------
+ 
+To the west:
+===========================
+     |        |
+ ------------------
+|   |
+|  Cleric's Home   |
+|                  |
+ ------------------
+ 
+~
+E
+building~
+A small building is west.  There is a sign on the front.
+~
+E
+tower~
+A tall tower, from which you hear people yelling and metal clanging.
+~
+S
+#3003
+Misc Donation Room~
+This small storage room is covered in dirt and dust from the street.  
+Discared junk lies in one corner, while several storage shelves can be seen 
+on the south wall.  A small sign on the wall reads 'If you need something, 
+take it.  If you don't need it, leave it for another.  ' 
+~
+1 33817608 0
+D0
+~
+~
+0 0 3068
+E
+window ~
+Long windows of blurred glass.
+~
+E
+benches ~
+Simple wooden benches.
+~
+S
+#3004
+Old Main Street~
+You are on a street made of crushed grey stone.  You can travel north into 
+to the main square, or south along the roadway.  A small wooden structure is 
+to your west, and a larger one with sweet smells drifting out is to the 
+east.  There is a sign hanging outside each structure.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3079
+D1
+~
+~
+0 0 3061
+D2
+The street continues south.
+~
+~
+0 0 3005
+D3
+~
+~
+0 0 3029
+E
+sign ~
+To the east:
+=====================================
+           |        |
+    ----------------------
+   |  Bakery of Delights  |
+    ----------------------
+ 
+To the west:
+=====================================
+          |         |
+    ----------------------
+   |      Tulgard Bank     |
+    ----------------------
+~
+E
+crushed grey stone street~
+The street is covered with grey stone that has been crushed into tiny bits.
+~
+E
+structure building~
+A small wooden building is to the west.  There is a tiny sign on it.
+~
+S
+#3005
+Old Main Street~
+A street made of crushed grey stone runs north and south here.  There is a 
+nice looking stone building to the west and a wooden framed one to the east. 
+ A short wall is along the eastern edge of the street, which looks from the 
+mess to be a favorite perch for the local birds.  Off to the south you see 
+lights reflecting off of a wide river.  There is a sign to either side of 
+the road.  
+~
+1 262144 1
+D0
+The street runs north from here.
+~
+~
+0 0 3004
+D1
+~
+~
+0 0 3092
+D2
+~
+~
+0 0 3080
+D3
+~
+~
+0 0 3090
+E
+sign ~
+To the East:
+==================================
+      |         |
+ ------------------------
+| Dirrin's House of Keys |
+ ------------------------
+ 
+To the West:
+==================================
+     |           |
+ ------------------------
+|   Honourable Knights   |
+ ------------------------
+~
+E
+crushed grey stone streets~
+The streets are made up of tiny particles of some grey stone.
+~
+E
+birds~
+Some small birds scatter as you get near.
+~
+E
+lights wide river~
+A wide river flows by a little to the south.
+~
+S
+#3006
+Before the Southern Gate~
+You are along the north side of a mighty river that is flowing slowly from 
+west to east.  It is mostly calm at this point, with only a small ripple 
+here and there.  Off to the west you can see some small rafts, canoes, and 
+boats bobbing up and down in the water.  You can go in that direction or 
+follow the river east.  There is a bridge spanning the water, but it is 
+rather flimsy looking.  You might be taking a chance crossing over to the 
+south side.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3080
+D1
+~
+~
+0 0 3101
+D2
+~
+~
+0 0 55645
+D3
+You can follow the river edge west.
+~
+~
+0 0 3026
+E
+river water calm ripple~
+A wide and deep river, flowing slowly from west to east.
+~
+E
+rafts, canoes, boats~
+Watercraft of all types are bobbing offshore to the east.
+~
+E
+bridge flimsy~
+A flimsy wooden bridge spans the river to the south side.  It looks like
+it was built with speed rather than quality in mind.
+~
+S
+#3007
+Inside the North Gates~
+You are on the street just inside the north gates of a city.  The gates and 
+surrounding walls seem very sturdy, as do most of the surrounding buildings. 
+ A street runs east and west, just inside the city walls.  
+~
+1 262144 1
+D0
+~
+~
+0 0 55485
+D1
+A street.
+~
+~
+0 0 3030
+D2
+~
+~
+0 0 3055
+D3
+~
+~
+0 0 3041
+E
+gates walls buildings~
+They all look very sturdy.
+~
+E
+piles wood beams stone slabs~
+Large piles of strong beams and heavy slabs block the way east and west.
+~
+E
+white marble blocks~
+Huge finely cut marble blocks.  Must've been hard to get them cut so
+precisely.
+~
+S
+#3008
+Main Street~
+The street runs east and west here, and is one of the busier parts of the
+city.  Shops line the north and south edges, both here and to the east.
+A wide plaza is just west.  The two buildings to the north and south look 
+especially interesting, and there are signs on both.  Trees and bushes are
+growing at even intervals, and add a nice touch to the street.
+~
+1 262144 1
+D0
+A shop is to the north.
+~
+~
+0 0 3027
+D1
+The street goes east.
+~
+~
+0 0 3009
+D2
+A shop is to the south.
+~
+~
+0 0 3022
+D3
+A wide plaza is to the west.
+~
+~
+0 0 3000
+E
+sign~
+To the north:
+ ===========================================
+         |                |
+   ----------------------------- 
+  |     Zallo's Potions Ltd.    |
+   -----------------------------
+
+To the south:
+ ===========================================
+	   |                |
+    ----------------------------
+   |   Jasper's Fine Jewelry    |
+    ----------------------------
+~
+E
+plaza~
+Go west and see.
+~
+E
+tree bush~
+Short leafy trees, and trimmed bushes.
+~
+S
+#3009
+Main Street~
+You are on the eastern section of the shops on this street.  There is a 
+stone solid-looking building to the north, and a larger wooden structure to 
+the south.  There are signs hanging on both.  You can go west towards the 
+center of town, or east to the gates.  There are some leafy trees and bushes 
+lining the street here.  
+~
+1 262144 1
+D0
+A stone building is to the north.  There is a sign hanging on it.
+~
+~
+0 0 3024
+D1
+~
+~
+0 0 3095
+D3
+The road goes west into the center of town.
+~
+~
+0 0 3008
+E
+sign~
+To the north:
+ =======================================
+	   |			|
+  -------------------------------------
+ |  Gorth's Implements of Destruction  |
+  -------------------------------------
+
+To the south:
+ =======================================
+	  |	     |
+  ----------------------
+ |    Warrior's Home    |
+  ----------------------
+~
+E
+building structure~
+The buildings are both well-made and look very sturdy.  You hear sounds of
+combat from the south building.
+~
+E
+gates~
+Off to the east you see the partially constructed town gates.
+~
+E
+tree bush~
+Leafy green trees and trimmed bushed meant to beautify the street.
+~
+S
+#3010
+Inside the East Gate~
+You are on a street just inside the east gate of a city.  Shops and trees 
+line the street in both directions.  The gate itself and the surrounding 
+walls seem very sturdy and appear to offer decent protection for the city.  
+The road continues to the north and south, and heads east into the main 
+square.  
+~
+1 262144 1
+D0
+A street.
+~
+~
+0 0 3034
+D1
+~
+~
+0 0 55566
+D2
+~
+~
+0 0 3108
+D3
+~
+~
+0 0 3095
+E
+gate wall building~
+The gates, walls, and indeed this entire section of the city are still
+under construction.
+~
+E
+shops trees~
+They are to the west.  Go have a look already, eh?
+~
+S
+#3011
+Main Street~
+The street runs east and west here, and is one of the busier parts of the
+city.  Shops line the north and south edges, both here and to the west.
+A wide plaza is just east.  The two buildings to the north and south look
+especially interesting, and there are signs on both.  Trees and bushes are
+growing at even intervals, and add a nice touch to the street.
+~
+1 262144 1
+D0
+A shop is to the north.
+~
+~
+0 0 3017
+D1
+There is a wide plaza to the east.
+~
+~
+0 0 3000
+D2
+~
+~
+0 0 3018
+D3
+The street runs west through some more shops and buildings.
+~
+~
+0 0 3012
+E
+sign~
+To the north:
+ ===========================================
+         |                |
+   ----------------------------- 
+  |     Otto's General Store    |
+   -----------------------------
+
+To the south:
+ ===========================================
+	   |            |
+    ------------------------
+   |    Stubby's Armoury    |
+    ------------------------
+~
+E
+plaza~
+Go east and see.
+~
+E
+tree bush~
+Short leafy trees, and trimmed bushes.
+~
+S
+#3012
+Main Street~
+You are in the western section of the commercial district of the town.  
+The street runs east towards the center of town, and west to the gates.
+There is a short tower just to the south, from which you see occasional
+flashes of light.  To the north is a large building which houses a store
+of some type.  There are also some nice trees and bushes lining the street.
+~
+1 262144 1
+D0
+The clothing store.
+~
+~
+0 0 3028
+D1
+The road goes east towards the center of town.
+~
+~
+0 0 3011
+D2
+~
+~
+0 0 3086
+D3
+~
+~
+0 0 3082
+E
+sign~
+To the south:
+
+ =================
+	|    |
+  -------------
+ |   Arcanum   |
+  -------------
+
+To the north:
+
+===========================================
+	   |            |
+    ------------------------
+   |  Wenge's Fine Clothing |
+    ------------------------
+~
+E
+tower~
+The tower sits to the south.  Occasionally strange noises and bright flashes
+of light come from that direction.
+~
+E
+gates~
+Off to the west you see the partially constructed town gates.
+~
+E
+tree bush~
+Leafy green trees and trimmed bushed meant to beautify the street.
+~
+S
+#3013
+Inside the West Gate~
+You are just inside the west gate of a city.  The street you are on is made 
+of crushed stone and runs off to the east, towards the center of town.  You 
+see shops in that direction, and some nice trees line the street.  The gate 
+itself looks very strong, as do the walls surrounding it.  Streets lead 
+north and south also.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3098
+D1
+~
+~
+0 0 3082
+D2
+~
+~
+0 0 3114
+D3
+~
+~
+0 0 55564
+E
+gate wall building~
+The gates, walls, and indeed this entire section of the city are still
+under construction.
+~
+E
+shops trees~
+They are to the east.  Go have a look already, eh?
+~
+S
+#3014
+Cleric's Guild~
+You are inside the home of the city's religious order.  Actually, now
+that you have a chance to look around, it looks more like a gathering
+place for priests of all types rather than any one religion.  There are
+various artifacts hanging on the walls, and some comfortable furniture
+is scattered around the room.  A simple marble altar is in the north end
+of the room, along with some pads for kneeling on.
+~
+1 262152 0
+D1
+~
+~
+0 0 3087
+E
+altar pads~
+A simple stone altar, upon which you see a few items of worship.  There
+are some thin black pads in front of it for kneeling.
+~
+E
+furniture ~
+Padded chairs and a few tables.
+~
+E
+artifacts ~
+Holy symbols and objects from various faiths.
+~
+S
+#3015
+Cozy Little Building~
+You are in cozy little building.  The walls are dark grey stone, and a few 
+windows are placed in them.  There is some basic furniture spread about, 
+including a bed, table, and chairs.  There is some scent in the air, 
+probably from the candle burning on the table.  The exit lies to the east 
+and the Hall of Heroes lies to the west.    You are in cozy little building. 
+ The walls are dark grey stone, and a few windows are placed in them.  There 
+is some basic furniture spread about, including a bed, table, and chairs.  
+There is some scent in the air, probably from the candle burning on the 
+table. 
+~
+1 263176 0
+D1
+You can go back out to the street to the east.
+~
+~
+0 0 3001
+E
+bed table chairs~
+The furniture is very ordinary, nothing special about it.
+~
+E
+walls dark grey stone windows~
+The walls are very sturdy, and have some glass windows in them.
+~
+E
+candle~
+A small beeswax candle sits on the table, giving off a nice scent.
+~
+S
+#3016
+Dancing Dragon Bar~
+You are in a small uncrowded tavern.  The bar itself is along the east
+wall, and the rest of the room is stuffed full of tables and chairs.
+There is even a nice stone fireplace on the north end, although there
+is nothing burning at the moment.  Windows face the south and west,
+giving a nice view of the surrounding streets.  The most interesting
+feature of the room, however, has got to be the many shelves behind
+the bar.  They are jammed full of dozens of bottles of all shapes, sizes
+and color.  There are also a few casks stacked in the southeast corner.
+~
+1 262152 0
+D3
+You can go out to the street to the west.
+~
+~
+0 0 3001
+E
+bar casks bottles shelves~
+The bar runs along almost the entire east wall, and is made of highly
+polished wood. Behind it are bottles of almost all shapes, sizes, and
+colors.  There are some wooden casks full of ale and mead stacked in
+the corner next to it.
+~
+E
+window~
+Wide glass windows face the streets.
+~
+E
+tables chairs~
+Wooden tables and chairs fil the room.  There are perhaps too many, and
+they make it difficult to move in some places.
+~
+E
+fireplace~
+A stone fireplace is in the north end of the room.  There is nothing
+burning in it at this time.
+~
+S
+#3017
+Otto's General Store~
+This small store is packed full of items and food.  Most of the stock
+looks like it was produced locally, and is not of great quality.  The
+counter is in the south part of the store, near the exit to the street.
+~
+1 262152 0
+D2
+The street is just to the south.
+~
+~
+0 0 3011
+E
+items food~
+All kinds of things.  Type 'list' to see what is available.
+~
+E
+counter~
+A wooden counter behind which the shopkeeper usually stands.
+~
+S
+#3018
+Stubby's Armory & Repair Shop~
+This large room is packed with armour and protective items of many
+varieties, from full suits of platemail down to small wrist jewelries.
+Not all of it is labeled for sale, though.  Better talk to the shopkeeper
+if you are looking for something, because you'll probably never find it
+yourself in all the piles!
+~
+1 262152 0
+D0
+~
+~
+0 0 3011
+E
+armour armor items~
+All sorts of armour, clothing, and things like that are piled around.
+Some of it is labeled for sale.
+~
+E
+shopkeeper~
+Ask him what is for sale by typing 'list'.
+~
+S
+#3019
+The Arcanum~
+This looks like the place where the local magi practice their art.  There
+are many bookcases against the walls, and comfortable tables and chairs.
+Stubs of candles are everywhere, along with scraps of various spell
+components.  You even notice a few charred spots on the walls and floor
+where experiments apparently didn't go quite as planned.  There even seems
+to be a few things for sale here.
+~
+1 262152 0
+D0
+~
+~
+0 0 3086
+E
+charred spot~
+There are some black burned spots in a few places.  Looks like something
+went up in flames here.
+~
+E
+bookcases table chair~
+Lots of furniture fills this room, including spacious bookcases and
+padded tables and chairs.
+~
+S
+#3020
+Collier Street~
+The street runs north and south along the city walls here.  There is a small 
+shop to the west filled with customers laughing and talking.  There is a 
+sign posted in front of it.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3021
+D1
+~
+~
+0 0 5700
+D2
+~
+~
+0 0 3034
+D3
+~
+~
+0 0 3060
+E
+sign ~
+===========================================
+             |      |
+      ----------------------
+     |  The Silver Platter  |
+      ----------------------
+~
+S
+#3021
+Collier Street~
+The street runs north and south along the city walls here.  Tall trees drape 
+their leaves over the wall to the east, casting shadows across the road.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3033
+D1
+~
+~
+0 0 4856
+D2
+~
+~
+0 0 3020
+S
+#3022
+Jasper's Fine Jewelry~
+This small shop is extravagantly furnished with tapestries and fine 
+furniture.  There are wide windows looking out to the north, and thick 
+curtains elsewhere around the walls.  The jeweler's counter is against the 
+south wall.  Surprisingly, you don't see any guards, but who can tell what 
+might be behind those curtains.  
+~
+1 262152 0
+D0
+You can exit to the street to the north.
+~
+~
+0 0 3008
+E
+tapestries furniture curtains~
+All of the finest materials and craftsmanship.
+~
+E
+windows~
+The windows face north, and give a view of the street.
+~
+E
+counter~
+The counter is along the south wall.  
+~
+S
+#3023
+Public Weapon & Armor Forge~
+Tools line the walls of this public weapon & armor shop. Sharpening stones 
+of various sizes sit amongst quenching tanks, files, and other assorted 
+items. 
+~
+1 105120780 0
+D2
+~
+~
+0 0 3103
+S
+#3024
+Gorth's Implements of Destruction~
+The walls of this small shop are covered by hanging weapons of many 
+varieties.  There are full racks around the floor also.  You see just
+about every type of weapon you've ever heard of here, although not all
+are labeled for sale.
+~
+1 262152 0
+D2
+You can exit to the south.
+~
+~
+0 0 3009
+E
+weapon~
+Swords, axes, whips, maces, daggers, and just about every other kind 
+of weapon there is.
+~
+S
+#3025
+Boats and Canoes~
+A wide river is just to the south, flowing eastward.  You are just a short 
+distance above the water, on the stone edge.  Floating in the river are a 
+few small boats, canoes, and rafts.  The city wall comes right up to the 
+water's edge.  To the north is River Road.  
+~
+1 262152 0
+D0
+~
+~
+0 0 3081
+E
+board shack door~
+Upon close inspection you notice that the boards conceal a hidden entrance!
+~
+E
+river water wide~
+A deep wide river.  It is flowing west to east, and is calm at this point.
+~
+E
+boat raft canoe~
+There are some small boats, rafts, and canoes floating here.  None are too
+fancy, but all seem to be in good condition.
+~
+S
+#3026
+River Road~
+You are standing on the north edge of a wide river.  It flows from west to 
+east, and is fairly calm at this point.  You can see the land on the other 
+side, but not well enough to make out any details.  Down the river a good 
+distance you can see the tips of what must be masts on small boats.  
+~
+1 262144 1
+D1
+You can follow the river's edge east.
+~
+~
+0 0 3006
+D3
+~
+~
+0 0 3081
+S
+#3027
+Zallo's Potions Ltd.~
+Many small glass vials and bottles occupy the many shelves of this cozy 
+little shop.  They are all labeled with roughly scribed words, and are a 
+myriad of colors and consistency.  Some are tagged for sale.  You can 
+enquire at the counter if you are interested.  
+~
+1 262152 0
+D2
+You can exit to the south.
+~
+~
+0 0 3008
+S
+#3028
+Town Market~
+This building is full of windows and has lots of long tables and shelves.  
+Upon them sits all types of fruits and vegetables that can be grown in the 
+surrounding lands.  The smell of ripe fruit wafts through the air.  The exit 
+is to the south.  
+~
+1 262152 0
+D2
+The street is to the south.
+~
+~
+0 0 3012
+E
+racks clothing~
+Clothes of all types and colors.  Type 'list' to see what is available.
+~
+S
+#3029
+Tulgard Bank~
+This building is richly appointed with a lot of tapestries.  Set in the west 
+wall are windows covered with bars, behind which bank clerks are busy.  
+To send gold, type GTRANSFER <char> <amount>.
+~
+1 262216 0
+D1
+~
+~
+0 0 3004
+S
+#3030
+Hammond Street~
+The street runs east and west here.  It is bordered by the tall city walls 
+to the north.  The city gates are just a short way to the west.  A large 
+temple can be seen just to the north.  
+~
+1 262144 1
+D0
+~
+~
+0 0 7510
+D1
+~
+~
+0 0 3100
+D2
+~
+~
+0 0 7530
+D3
+The gates of the city seem to be this way.
+~
+~
+0 0 3007
+E
+structures~
+Sturdy stone buildings.
+~
+E
+city walls~
+The city walls are north.  They look very sturdy.
+~
+S
+#3031
+Hammond Street~
+The street runs east and west along the city walls here.  To the east the 
+road turns a corner, and to the west you see a small shop off the road to 
+the north.  
+~
+1 262144 1
+D0
+~
+~
+0 0 20106
+D1
+The street runs east.
+~
+~
+0 0 3032
+D2
+~
+~
+0 0 3118
+D3
+~
+~
+0 0 3100
+E
+flag ~
+The flag displays a crest of arms on a red field.  The crest of arms
+includes a sword lying across a river.  
+~
+E
+city wall~
+The city walls block the way north.
+~
+S
+#3032
+Corner of Hammond and Collier Streets~
+The street runs west and south along the city walls here.  A tall watch 
+tower has been built, but you dont see any entrances from this point.  
+Collier and Hammond Street meet at this corner.  A large hole below leads to 
+the sewers. 
+~
+1 262144 1
+D2
+The street runs south.
+~
+~
+0 0 3033
+D3
+The street runs west.
+~
+~
+0 0 3031
+D5
+~
+~
+0 0 47030
+E
+city walls~
+The walls block the way north and east.
+~
+E
+watch tower~
+It is partly built, but not strong enough to climb.
+~
+S
+#3033
+Collier Street~
+The street runs north and south along the city walls here.  There
+is a small structure to the west, and a sign posted in front of it.
+~
+1 262144 1
+D0
+The street runs north.
+~
+~
+0 0 3032
+D2
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3047
+E
+sign ~
+==================================
+           |        |
+  ----------------------------
+ | Tulgard Guard Headquarters  |
+  ----------------------------
+~
+S
+#3034
+Collier Street~
+The street runs north and south along the city walls here.  
+You can see the city gates a short way to the south.
+~
+1 262144 1
+D0
+~
+~
+0 0 3020
+D2
+The street runs south towards the gate.
+~
+~
+0 0 3010
+E
+city walls~
+The walls block the way east.
+~
+S
+#3035
+Aryn's Maps and Parchments~
+This small cozy shop is full of wooden racks, each holding many tightly 
+rolled parchment scrolls.  The counter is on the east wall, and the exit is 
+to the south.  A door lies to the north.  
+~
+1 262152 0
+D0
+~
+door~
+2 46011 3057
+D2
+~
+~
+0 0 3095
+E
+wooden rack~
+Old wooden racks, stacked around the room, to hold the maps.
+~
+E
+rolled parchment scrolls~
+The scrolls are maps of various places.
+~
+S
+#3036
+Armor Donation Room~
+This small storage room is covered in dirt and dust from the street.  
+Discared rusted armor lies in one corner, while several armor stands can be 
+seen on the south wall.  A small sign on the wall reads 'If you need 
+something, take it.  If you don't need it, leave it for another.  ' 
+~
+1 33817608 0
+D2
+~
+~
+0 0 3068
+E
+window ~
+Long windows of blurred glass.
+~
+E
+benches ~
+Simple wooden benches.
+~
+S
+#3037
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and stone structures to the east.  The smells of fresh fruit waft 
+over from the east, and there is a sign posted outside the shop.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3038
+D1
+~
+~
+0 0 3062
+D2
+~
+~
+0 0 3097
+E
+sign ~
+============================================
+              |        |
+        --------------------
+       |    Town Market     |
+        --------------------
+~
+S
+#3038
+Winchester Street~
+The street runs north and south here.  It is bordered by the city walls to 
+the west, and stone structures to the east.  A wave of hot air drifts out 
+from the shop to the east and you notice a sign overhanging the door.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3039
+D1
+~
+~
+0 0 3054
+D2
+~
+~
+0 0 3037
+E
+sign ~
+============================
+           |        |
+  ---------------------------
+ |  Pottery and Earthenware  |
+  ---------------------------
+~
+S
+#3039
+Corner of Winchester and Hammond Streets~
+The street runs east and south along the city walls here.  A tall watch 
+tower stands here, but there don't seem to be any entrances from this 
+direction.  On this corner, Hammond and Winchester Streets meet.  To the 
+north lies a large temple.  
+~
+1 0 1
+D0
+~
+~
+0 0 7550
+D1
+~
+~
+0 0 3040
+D2
+~
+~
+0 0 3038
+S
+#3040
+Hammond Street~
+The street runs from east to west, with the city wall not far north.  The 
+University of Tulgard lies to the north, a great center of learning and 
+beacon of light to the world.  
+~
+1 262144 1
+D0
+~
+~
+0 0 50001
+D1
+~
+~
+0 0 3099
+D3
+~
+~
+0 0 3039
+S
+#3041
+Hammond Street~
+The street runs east and west here.  It is bordered by the city walls to the 
+north, and stone structures to the south.  The city gates are just a short 
+way to the east.  A large temple can be seen to your north A large shop lies 
+to the south. 
+~
+1 262144 1
+D0
+~
+~
+0 0 7520
+D1
+~
+~
+0 0 3007
+D2
+~
+~
+0 0 4850
+D3
+~
+~
+0 0 3099
+S
+#3042
+Spellfilcher's Guild~
+This small backroom seems to be the home for some illegal activites.
+There is no proof of that, but the ledgers and suspicious looking
+items must be in such a concealed backroom for some reason. The 
+exit is to the west.
+~
+1 262152 0
+D3
+~
+~
+1 0 3092
+E
+ledger items~
+It looks like a small criminal empire is controlled from here!
+~
+S
+#3043
+City Stables~
+You have entered the city's main stables it appears.  The roof of this
+large structure is partially open to the sky, and there are a lot of stalls
+filled with horses of several varieties.  You can talk to the stablemaster
+if you are in need of a mount, but better watch where you step!  
+~
+1 266240 0
+D3
+~
+~
+0 0 3080
+S
+#3044
+Tulgard Stable Pet Storage Room~
+~
+1 294916 0
+S
+#3045
+Bobu's Exotic Pets~
+You are in a large shop absolutely FULL of exotic pets from all over the 
+realms.  They range from the usual dogs and cats to fantastic creatures 
+you've never seen before.  As for the prices, well yes they are a bit steep, 
+but hey, its not easy or cheap to gather a selection this large!  `+
+`+
+There are kennels here that can be accessed by typing KENNEL. 
+~
+1 266248 0
+D1
+~
+~
+0 0 3055
+S
+#3046
+Tulgard Pet Storage Room~
+~
+1 4489220 0
+S
+#3047
+Tulgard Guard Headquarters~
+You are apparently in the main headquarters for the organization that guards 
+the town.  Everything is very official and military here, from the neatness 
+of the papers on the desks to the rigid stance of the guards.  There is an 
+exit east, and smaller offices to the west and south.  The Tulgard crest is 
+emblazoned on just about everything in here.  
+~
+1 262152 0
+D1
+~
+~
+0 0 3033
+D2
+~
+~
+0 0 3049
+D3
+~
+~
+0 0 3050
+E
+crest Tulgard~
+The crest of Tulgard is a sword crossing a river on a red field.
+~
+E
+papers desk~
+A few desks and chairs are here, covered with papers and books.  The
+papers and books all bear the standard of Tulgard, a sword crossing a river
+on a red field.  
+~
+S
+#3048
+Weapon Donation Room~
+This small storage room is covered in dirt and dust from the street.  
+Discared rusted weapons lies in one corner, while several weapons racks can 
+be seen on the south wall.  A small sign on the wall reads 'If you need 
+something, take it.  If you don't need it, leave it for another.  ' 
+~
+1 33817608 0
+D1
+~
+~
+0 0 3068
+E
+window ~
+Long windows of blurred glass.
+~
+E
+benches ~
+Simple wooden benches.
+~
+S
+#3049
+Job Office~
+This small office isn't much to look at.  There is a desk, a few chairs,
+and not much else.  
+~
+1 38011912 0
+D0
+~
+~
+0 0 3047
+E
+chair desk~
+All boring, standard furniture.
+~
+S
+#3050
+Large Office~
+This office is large and nicely furnished.  There is an oak desk and some
+padded chairs, as well as a long table against the wall.  Upon the walls
+hang different weapons, and some trophies of war.  
+~
+1 262152 0
+D1
+~
+~
+0 0 3047
+E
+weapons trophies war~
+The walls are covered with fine weapons and trophies of many battles.
+~
+E
+oak desk padded chairs table~
+The furniture is all made fo oak and is very nice.
+~
+S
+#3051
+Prison~
+You are in the town's small prison.  The building itself is quite sturdy, 
+with thick stone walls and iron bars on the windows.  A few desks covered 
+with paperwork are here, and some cramped cells are around the main room.  
+An exit to the street is east.  
+~
+1 4464648 0
+D0
+~
+cell~
+2 3092 3052
+D1
+~
+~
+0 0 3106
+D2
+~
+cell~
+2 3092 3053
+E
+cells cramped~
+Small cells, though they are clean.
+~
+E
+iron bars~
+Quite strong looking bars.
+~
+E
+desks paperwork~
+The desks are covered with papers concerning recent prisoners.
+~
+S
+#3052
+Prison Cell~
+This prison cell is small, but clean.  The exit is through a thick wooden 
+door to the south, in which is set a small barred window.  A pile of straw 
+and coarse blanket serves as bedding, and there is a tin chamber pot.  
+ 
+Say JAILTIME to see if you can be released.
+~
+1 113517580 0
+D2
+~
+door~
+2 3092 3051
+E
+tin chamber pot~
+A pot in which to relieve yourself.
+~
+E
+coarse blanket bedding~
+Clean, if not exactly comfortable.
+~
+E
+exit thick wooden door~
+The door looks quite strong.
+~
+S
+#3053
+Prison Cell~
+This prison cell is small, but clean.  The exit is through a thick wooden 
+door to the north, in which is set a small barred window.  A pile of straw 
+and coarse blanket serves as bedding, and there is a tin chamber pot.  
+~
+1 12853256 0
+D0
+~
+~
+2 3092 3051
+E
+tin chamber pot~
+A pot in qhich to relieve yourself.
+~
+E
+coarse blanket bedding~
+Clean, if not exactly comfortable.
+~
+E
+exit thick wooden door~
+The door looks quite strong.
+~
+S
+#3054
+Wenge's Fine Clothing For Men~
+Racks of finely sewn garments line the walls of this shop.  Their are silk 
+vests with matching jackets, and full suits made of the finest materials.  
+Shirts of many bright colours hang displayed about the walls, with 
+complimenting trousers.  A well-dressed man tends to the customers.  
+~
+1 262152 0
+D3
+~
+~
+0 0 3038
+E
+tin chamber pot~
+A pot in qhich to relieve yourself.
+~
+E
+coarse blanket bedding~
+Clean, if not exactly comfortable.
+~
+E
+exit thick wooden door~
+The door looks quite strong.
+~
+S
+#3055
+Old Main Street~
+The street runs north-south here and is covered with crushed grey stone.  
+There is a small stone building to the west with a sign hanging by the door. 
+ To the east, you see a lovely park filled with trees and flowers.  You can 
+enter either, or travel north or south on the street.  The main square is to 
+the south of here.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3007
+D1
+~
+~
+0 0 4400
+D2
+~
+~
+0 0 3002
+D3
+~
+~
+0 0 3045
+E
+sign ~
+To the East:
+==========================
+       |       |
+  --------------------
+ |     Tulgard Park    |
+  --------------------
+ 
+To the West:
+==========================
+       |       |
+  --------------------
+ | Bobu's Exotic Pets |
+  --------------------
+~
+E
+street crushed grey stone~
+The street runs north and soutn, and is covered with crushed grey stone.
+~
+E
+building wooden frame~
+Both buildings are relatively small, and made of grey stone.
+~
+E
+city gates~
+Sturdy gates, off to the north.
+~
+S
+#3056
+Newbie Donation Room~
+Newbie items from the Mudschools can be found here.  
+~
+1 33555464 0
+D4
+~
+~
+0 0 3068
+S
+#3057
+Living Quarters~
+The room is filled with the smell of scented candles, which burn brightly on 
+top of the chest here.  Several fur rugs cover the stone floor, and 
+tapestries hang along the walls, displaying various continents and lands of 
+the world.  Several tokens of Aryn's journeys and interesting items can be 
+seen sitting on shelves built into the solid oak walls.  
+~
+1 33555468 0
+D2
+~
+door~
+2 46011 3035
+D3
+~
+~
+0 0 3058
+S
+#3058
+Purchasing Room~
+This is where you will purchase your items to sell.
+~
+1 440935432 0
+D1
+~
+~
+0 0 3057
+S
+#3059
+~
+~
+1 0 0
+S
+#3060
+The Silver Platter~
+You have entered a fine restaurant from the looks of things.  Tables are 
+scattered around the room, surrounded by comfortable chairs, and many are 
+covered with prepared food.  You see people enjoying all sorts of delicicies 
+from around the realm, all cooked to perfection.  The only exit is east.  
+~
+1 262152 0
+D1
+~
+~
+0 0 3020
+E
+prepared food delicicies~
+The food smells so good!  Ask the waitress for a list of what is on the menu 
+today.  
+~
+E
+comfortable chairs tables~
+The furniture is well made.
+~
+S
+#3061
+Bakery~
+This cozy little shop seems to sell all sorts of pastries and baked goods.  
+There are shelves and counters covered with everything from fresh bread to 
+frosted cakes.  Several tables and comfortable chairs are arranged here.  
+The only exit is to the west.  
+~
+1 262152 0
+D3
+~
+~
+0 0 3004
+E
+chairs tables comfortable~
+Comfortable wooden furniture.
+~
+E
+fresh bread frosted cakes pastries baked goods~
+They look and smell delicious!
+~
+S
+#3062
+Elladriel's Designer Garments for Women~
+Displayed in the shop window of this quaint boutique are elegant gowns and 
+beautifully designed dresses.  Along the walls are various other garments, 
+from simple cotton pinafores, to long flowing evening wear.  A glamourous 
+elven lady attends to the customers here.  
+~
+1 262152 0
+D3
+~
+~
+0 0 3037
+S
+#3063
+Antiques and Collectables~
+This large store is furnished quite richly.  Thick red carpets cover the 
+floors, and expensive tapetries hang about the walls.  Long glass display 
+case fill the room, all containing various precious antiques.  The shop 
+entrance is to the west, and against the eastern wall is a dark, heavy drape 
+cover, which might be secret entrance over the eastern wall.  
+~
+1 262152 0
+D1
+~
+curtain~
+1 0 3088
+D3
+~
+~
+0 0 3002
+S
+#3064
+Storage Room~
+This small storage room is covered in dirt and dust from the street.  
+Discared junk lies in one corner, while several storage shelves can be seen 
+on the south wall.  A small sign on the wall reads 'If you need something, 
+take it.  If you don't need it, leave it for another.  ' 
+~
+1 33817608 0
+D5
+~
+~
+0 0 3068
+S
+#3065
+Merk's Magic Kingdom~
+All types of strange items are displayed in this small shop.  The walls are 
+mostly lined with shelves, upon which are jars filled with various liquids, 
+herbs, and more unpleasant items.  A globe of light floats near the ceiling, 
+shifting colors every few seconds.  The slight smell of decay is in the air, 
+mixed with an herbal aroma.  To the southeast a finely woven curtain falls 
+neatly from a railing.  
+~
+1 262152 0
+D2
+~
+~
+0 0 3082
+E
+jar liquids herbs items~
+Magical Components it seems.
+~
+S
+#3066
+Entrance to the Public Baths~
+This small entry room is quite warm, probably heated by the steam drifting 
+through the eastern door.  A small desk sits alongside that door, and a few 
+chairs are along the wall.  There is an exit to the street to the west.  
+~
+1 262152 0
+D1
+~
+~
+0 0 3074
+D3
+~
+~
+0 0 3097
+E
+desk chairs~
+Simple wooden furniture.
+~
+E
+steam ~
+Steam and talking comes through the south door.
+~
+S
+#3067
+Bouuga's Bed and Breakfast, Reception~
+You are in the reception area of a small inn.  A wooden desk faces the west 
+entry, upon it a book and an inkwell.  The common room is off to the south, 
+and you see a staircase heading up, probably to the guest rooms.  From the 
+furnishings, the inn seems a bit on the expensive side.  
+ 
+Type LIST to see what rooms are available.
+~
+1 1074003976 0
+D2
+~
+~
+0 0 3073
+D3
+~
+~
+0 0 3113
+E
+common room~
+A large room with a fireplace and bar.
+~
+E
+desk ~
+A wooden desk.
+~
+E
+furnishings ~
+All the firniture and decoration is quite expensive looking.
+~
+E
+book inkwell~
+The book and inkwell are for keeping a record of the inn's guests.
+~
+S
+#3068
+Auction Hall~
+You are in a long hall, with a high roof.  A wooden stage is built at the 
+north end, upon which stands a podium.  Benches are scattered about the 
+floor, and a few long windows let light in.  The Weapons Room lies to the 
+west, the Armor Room lies to the north, other items are held in a room to 
+the south, and Newbie items are down a flight of stairs, leading into the 
+basement.  Stair leading up go to another room that holds random armor and 
+weapons. 
+~
+1 33817608 0
+D0
+~
+~
+0 0 3036
+D1
+~
+~
+0 0 3080
+D2
+~
+~
+0 0 3003
+D3
+~
+~
+0 0 3048
+D4
+~
+~
+0 0 3064
+D5
+~
+~
+0 0 3056
+E
+window ~
+Long windows of blurred glass.
+~
+E
+benches ~
+Simple wooden benches.
+~
+E
+wooden stage podium~
+A wooden stage dominates the room.  Upon it is a simple wooden podium.
+~
+S
+#3069
+Hallway~
+You are in a short hallway.  There are doors to the north, and east, each 
+leading to a guest room.  Stairs lead downwards to the common room.  
+~
+1 262152 0
+D0
+~
+~
+0 0 3070
+D1
+~
+~
+0 0 3071
+D5
+~
+~
+0 0 3073
+S
+#3070
+Simple Room~
+This guest room is small but very nicely furnished.  There is a bed with a 
+soft goosedown mattress, and a wardrobe for your belongings.  A small 
+fireplace is set in the one outside wall, as is a window.  There is also a 
+small desk and chair.  The floor is covered by a nice red rug.  The only 
+exit is through a door to the south.  
+~
+1 262152 0
+D2
+~
+~
+0 0 3069
+E
+bed mattress wardrobe fireplace desk chair red rug~
+All of the furnishings are quite comfortable and nice.  
+~
+S
+#3071
+Deluxe Room~
+This guest room is small but very nicely furnished.  There is a bed with a 
+soft goosedown mattress, and a wardrobe for your belongings.  A small 
+fireplace is set in the one outside wall, as is a window.  There is also a 
+small desk and chair.  The floor is covered by a nice red rug.  The only 
+exit is through a door to the west.  
+~
+1 262152 0
+D3
+~
+~
+0 0 3069
+E
+bed mattress wardrobe fireplace desk chair red rug~
+All of the furnishings are quite comfortable and nice.  
+~
+S
+#0
+
+
+#RESETS
+M 0 3120 1 3072 1
+G 0 2364 0
+G 0 2363 0
+G 0 2362 0
+G 0 2361 0
+G 0 2360 0
+M 0 3061 1 3073 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3197 0
+G 0 3131 0
+G 0 3132 0
+G 0 3133 0
+G 0 3085 0
+O 0 3078 0 3073
+O 0 3080 0 3073
+O 0 3081 0 3073
+O 0 3079 0 3073
+O 0 3099 0 3074
+M 0 3101 1 3075 1
+G 0 27168 0
+G 0 27074 0
+G 0 27169 0
+G 0 27170 0
+G 0 27171 0
+G 0 27172 0
+G 0 27173 0
+G 0 27174 0
+E 0 3142 0 5
+M 0 3063 1 3076 1
+G 0 3063 0
+G 0 3064 0
+G 0 3065 0
+G 0 3045 0
+G 0 3044 0
+G 0 3041 0
+E 0 3002 0 7
+E 0 3001 0 5
+M 0 3064 1 3076 1
+E 0 3002 0 7
+E 0 3001 0 10
+M 0 3065 1 3076 1
+E 0 3071 0 7
+E 0 3072 0 5
+O 0 3078 0 3076
+O 0 3079 0 3076
+M 0 3067 1 3077 1
+E 0 3051 0 8
+E 0 3140 0 7
+E 0 3139 0 5
+O 0 3138 0 3077
+M 0 3020 2 3078 1
+O 0 3076 0 3078
+O 0 26400 0 3078
+M 0 52032 10 3081 1
+M 0 3198 10 3082 2
+M 0 3068 1 3084 1
+M 0 3069 1 3085 1
+G 0 3153 0
+G 0 3154 0
+G 0 3155 0
+G 0 3156 0
+G 0 3157 0
+G 0 3158 0
+G 0 27183 0
+G 0 27184 0
+G 0 871 0
+G 0 870 0
+G 0 869 0
+G 0 868 0
+M 0 3076 1 3086 1
+M 0 3080 1 3087 1
+M 0 3085 1 3088 1
+M 0 3081 1 3089 1
+E 0 3011 0 4
+G 0 3176 0
+G 0 3177 0
+G 0 3082 0
+M 0 3091 1 3090 1
+M 0 3092 1 3090 1
+M 0 3095 1 3092 1
+M 0 3098 1 3092 1
+M 0 3090 1 3093 1
+G 0 3181 0
+G 0 3182 0
+G 0 3183 0
+M 0 3119 1 3094 1
+E 0 5010 0 16
+O 0 3080 0 3094
+O 0 5001 0 3094
+O 0 46015 0 3095
+M 0 3198 10 3095 2
+O 0 7570 0 3103
+M 0 3198 10 3104 2
+O 0 7570 0 3104
+O 0 7570 0 3109
+M 0 3198 10 3110 2
+M 0 52032 10 3114 1
+M 0 3099 1 3116 1
+E 0 3101 0 12
+G 0 3130 0
+G 0 3069 0
+G 0 3086 0
+M 0 3100 1 3117 1
+G 0 3089 0
+G 0 3090 0
+G 0 3184 0
+M 0 3118 1 3118 1
+G 0 26403 0
+O 0 5001 0 3000
+M 0 3117 1 3000 1
+M 0 3198 10 3000 2
+M 0 3000 8 3000 2
+E 0 3000 0 16
+E 0 3001 0 5
+E 0 3002 0 7
+M 0 3010 8 3000 2
+E 0 3016 0 5
+M 0 3010 8 3000 2
+E 0 3016 0 5
+O 0 3080 0 3000
+O 0 3080 0 3000
+O 0 3081 0 3000
+M 0 3114 1 3001 1
+E 0 2024 0 16
+M 0 3008 1 3001 1
+E 0 3004 0 5
+E 0 3005 0 6
+E 0 3012 0 1
+E 0 3013 0 16
+G 0 3084 0
+O 0 7900 0 3001
+M 0 3010 8 3002 2
+E 0 3016 0 5
+M 0 3198 10 3004 2
+M 0 3000 8 3004 2
+E 0 3000 0 16
+E 0 3001 0 5
+E 0 3002 0 7
+M 0 3017 1 3005 1
+E 0 3020 0 12
+M 0 3018 3 3005 2
+E 0 3021 0 5
+M 0 3018 3 3005 2
+E 0 3021 0 5
+O 0 54900 0 3006
+M 0 3111 1 3006 1
+M 0 3001 6 3006 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+M 0 3010 8 3006 2
+E 0 3016 0 5
+M 0 3112 1 3007 1
+M 0 3001 6 3007 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+O 0 7550 0 3007
+M 0 3001 6 3008 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+M 0 3010 8 3008 2
+E 0 3016 0 5
+M 0 3000 8 3009 2
+E 0 3000 0 16
+E 0 3001 0 5
+E 0 3002 0 7
+M 0 3019 2 3009 1
+E 0 3022 0 3
+M 0 3109 1 3010 1
+M 0 3001 6 3010 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+M 0 3001 6 3011 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+M 0 3010 8 3011 2
+E 0 3016 0 5
+M 0 3000 8 3012 2
+E 0 3000 0 16
+E 0 3001 0 5
+E 0 3002 0 7
+M 0 3110 1 3013 1
+M 0 3001 6 3013 2
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+M 0 3004 1 3014 1
+E 0 3008 0 12
+G 0 3173 0
+G 0 3174 0
+G 0 3175 0
+M 0 3071 1 3015 1
+E 0 3006 0 12
+O 0 3091 0 3015
+O 0 3080 0 3015
+O 0 19 0 3015
+M 0 3013 1 3016 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3041 0
+G 0 3042 0
+G 0 3043 0
+G 0 3044 0
+G 0 3045 0
+G 0 3063 0
+G 0 3064 0
+G 0 3065 0
+O 0 3078 0 3016
+O 0 3079 0 3016
+O 0 3080 0 3016
+O 0 3081 0 3016
+G 0 3085 0
+G 0 7363 0
+M 0 3021 1 3017 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3023 0
+G 0 3024 0
+G 0 3025 0
+G 0 3026 0
+G 0 3027 0
+G 0 3082 0
+G 0 52028 0
+G 0 3083 0
+G 0 3134 0
+G 0 3137 0
+G 0 3141 0
+G 0 3579 0
+G 0 3581 0
+O 0 21602 0 3018
+M 0 3011 1 3018 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3046 0
+G 0 3047 0
+G 0 3048 0
+G 0 3049 0
+G 0 3050 0
+G 0 3051 0
+G 0 3052 0
+G 0 3053 0
+M 0 3006 1 3019 1
+E 0 3010 0 12
+G 0 3028 0
+G 0 3087 0
+G 0 3088 0
+G 0 3136 0
+M 0 3015 1 3022 1
+E 0 3019 0 12
+G 0 3040 0
+G 0 3066 0
+G 0 3067 0
+G 0 3068 0
+G 0 3077 0
+G 0 3093 0
+G 0 3094 0
+O 0 418 0 3023
+M 0 3012 1 3024 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3054 0
+G 0 3055 0
+G 0 3056 0
+G 0 3057 0
+G 0 3058 0
+G 0 3059 0
+G 0 3060 0
+G 0 3061 0
+G 0 3135 0
+G 0 1406 0
+G 0 63 0
+G 0 62 0
+G 0 49 0
+G 0 48 0
+G 0 47 0
+G 0 46 0
+G 0 45 0
+G 0 44 0
+M 0 3016 1 3025 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3029 0
+G 0 3030 0
+G 0 3031 0
+M 0 3009 1 3026 1
+E 0 3014 0 16
+E 0 3015 0 12
+O 0 7570 0 3026
+M 0 3014 1 3027 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3032 0
+G 0 3034 0
+G 0 3035 0
+G 0 3062 0
+G 0 3036 0
+G 0 3037 0
+G 0 3038 0
+G 0 3039 0
+G 0 5000 0
+M 0 3066 1 3028 1
+G 0 3126 0
+G 0 3127 0
+G 0 3128 0
+G 0 3129 0
+G 0 3194 0
+M 0 3104 1 3029 1
+O 0 3572 0 3029
+M 0 52032 10 3030 1
+M 0 3198 10 3032 2
+O 0 16201 0 3035
+O 0 46014 0 3035
+O 0 16201 0 3035
+M 0 3023 1 3035 1
+E 0 3017 0 5
+E 0 3018 0 7
+G 0 3199 0
+G 0 27 0
+M 0 3113 1 3035 1
+M 0 3198 10 3039 2
+O 0 7570 0 3039
+M 0 52032 10 3040 1
+M 0 3024 1 3042 1
+E 0 3011 0 5
+G 0 3028 0
+G 0 3180 0
+G 0 3082 0
+M 0 3025 1 3043 1
+E 0 3001 0 5
+E 0 3002 0 7
+M 0 3026 200 3044 1
+M 0 3027 200 3044 1
+M 0 3028 200 3044 1
+M 0 3070 200 3044 1
+M 0 3030 1 3045 1
+M 0 3029 200 3046 1
+M 0 3031 200 3046 1
+M 0 3032 200 3046 1
+M 0 3033 200 3046 1
+M 0 3034 200 3046 1
+M 0 3035 200 3046 1
+M 0 3036 200 3046 1
+M 0 3037 200 3046 1
+M 0 3038 200 3046 1
+M 0 3039 200 3046 1
+M 0 3040 200 3046 1
+M 0 3041 200 3046 1
+M 0 3042 200 3046 1
+M 0 3043 200 3046 1
+M 0 3044 200 3046 1
+M 0 3045 200 3046 1
+M 0 3046 200 3046 1
+M 0 3047 200 3046 1
+M 0 3048 200 3046 1
+M 0 3049 2 3047 2
+E 0 3005 0 6
+E 0 3004 0 5
+E 0 3003 0 16
+M 0 3049 2 3047 2
+E 0 3004 0 5
+E 0 3003 0 16
+E 0 3005 0 6
+M 0 3050 2 3049 1
+E 0 3010 0 12
+M 0 3115 1 3050 1
+M 0 3052 1 3051 1
+E 0 3003 0 16
+E 0 3004 0 5
+E 0 3005 0 6
+O 0 3162 0 3052
+M 0 3072 3 3052 1
+O 0 2189 0 3052
+O 0 23748 0 3052
+M 0 3172 1 3053 1
+O 0 3162 0 3053
+O 0 2189 0 3053
+O 0 23748 0 3053
+M 0 3103 1 3054 1
+E 0 3070 0 5
+G 0 27142 0
+G 0 27141 0
+G 0 27140 0
+G 0 27139 0
+G 0 3142 0
+G 0 27138 0
+G 0 3070 0
+G 0 3071 0
+G 0 3018 0
+G 0 3017 0
+G 0 3075 0
+G 0 3072 0
+M 0 3198 10 3055 1
+M 0 3059 1 3055 1
+G 0 3110 0
+G 0 3111 0
+G 0 3112 0
+G 0 3113 0
+G 0 3114 0
+G 0 3115 0
+G 0 3116 0
+G 0 3117 0
+G 0 3118 0
+G 0 3119 0
+E 0 3101 0 12
+O 0 16201 0 3057
+O 0 16201 0 3057
+O 0 46014 0 3057
+O 0 46013 0 3057
+O 0 46012 0 3057
+O 0 46011 0 3058
+M 0 46013 1 3058 1
+M 0 3062 1 3060 1
+G 0 3125 0
+G 0 3120 0
+G 0 3121 0
+G 0 3122 0
+G 0 3123 0
+G 0 3124 0
+O 0 3161 0 3060
+G 0 7363 0
+M 0 3058 1 3061 1
+E 0 3101 0 12
+G 0 3102 0
+G 0 3103 0
+G 0 3104 0
+G 0 3105 0
+G 0 3106 0
+G 0 3107 0
+G 0 3108 0
+G 0 3109 0
+M 0 3102 1 3062 1
+G 0 27133 0
+G 0 27143 0
+G 0 27132 0
+G 0 27135 0
+G 0 27134 0
+G 0 27136 0
+G 0 27137 0
+G 0 10000 0
+G 0 592 0
+M 0 3053 1 3063 1
+G 0 3095 0
+G 0 3096 0
+E 0 3019 0 12
+G 0 3191 0
+G 0 3192 0
+G 0 3193 0
+M 0 3055 1 3065 1
+G 0 3087 0
+G 0 3088 0
+G 0 6040 0
+G 0 3097 0
+G 0 3098 0
+G 0 421 0
+E 0 3020 0 12
+M 0 3057 1 3066 1
+E 0 3002 0 7
+E 0 3017 0 10
+G 0 3100 0
+M 0 3060 1 3067 1
+E 0 3101 0 12
+M 0 3056 1 3068 1
+E 0 3018 0 7
+E 0 3017 0 5
+S
+
+#SHOPS
+ 3081   8 15 0 0 0   130 65        0 23    ; a cloaked figure
+ 3090   2 0 0 0 0   130 65        0 23    ; a man in full plate armour
+ 3099   0 0 0 0 0   115 85        0 23    ; an elderly feylar potter
+ 3100   0 0 0 0 0   160 60        0 23    ; a youthful avian lad
+ 3101   0 0 0 0 0   150 50        0 23    ; a distinguished elven man
+ 3102   11 0 0 0 0   180 100        0 23    ; a glamourous elven lady
+ 3103   11 0 0 0 0   100 100        0 23    ; a well-dressed man of elven descent
+ 3118   5 0 0 0 0   135 75        0 23    ; a shifty-eyed shopkeep
+ 3120   36 0 0 0 0   120 60        0 23    ; a cheerful gnomish lady
+ 3003   0 0 0 0 0   110 80        0 23    ; a cloaked ranger
+ 3004   2 10 0 0 0   130 65        0 23    ; a priest
+ 3005   0 0 0 0 0   130 65        0 23    ; a lightly armored dwarf
+ 3006   2 3 4 10 0   130 65        0 23    ; a red robed mage
+ 3011   9 9 0 0 0   150 40        0 23    ; `#`YS`ytubby the `YA`yrmorsmith`^
+ 3012   5 6 7 0 0   150 40        0 23    ; `#`yGorth `wthe `YWeaponsmith`^
+ 3013   0 0 0 0 0   105 50        0 23    ; the bartender
+ 3014   10 0 0 0 0   125 60        0 23    ; a slender feylar with smokey-grey fur
+ 3015   8 30 32 33 0   150 40        0 23    ; a half-elven jeweler
+ 3016   22 0 0 0 0   125 70        0 23    ; the sailor
+ 3021   1 8 13 15 19   115 60        0 23    ; a fat markian shopkeeper
+ 3022   11 0 0 0 0   115 85        0 23    ; the shopkeeper
+ 3023   2 28 0 0 0   110 90        0 23    ; `#`cCalyn`^
+ 3024   15 2 14 0 0   100 100        0 23    ; a cloaked figure
+ 3025   5 0 0 0 0   60 135        0 23    ; the stablemaster
+ 3030   0 0 0 0 0   75 135        0 23    ; the pet store owner
+ 3053   32 30 33 8 0   155 45        0 23    ; an old avian with deep blue plummage
+ 3054   0 0 0 0 0   130 90        0 23    ; a willowy half-elven man
+ 3055   30 3 2 4 10   150 40        0 23    ; a red robed old man
+ 3057   0 0 0 0 0   100 100        0 23    ; a towel boy
+ 3058   19 19 19 19 19   110 90        0 23    ; a halfling baker
+ 3059   0 0 0 0 0   120 80        0 23    ; a flower girl
+ 3061   0 0 0 0 0   125 90        0 23    ; a bartender
+ 3062   0 0 0 0 0   120 80        0 23    ; a waitress
+ 3063   0 0 0 0 0   100 90        0 23    ; a bartender
+ 3066   19 0 0 0 0   100 100        0 23    ; a winsome elven lady
+ 3069   0 0 0 0 0   120 60        0 23    ; a cheerful gnomish lady
+0
+
+
+#0
+
+
+#$

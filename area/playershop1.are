@@ -1,0 +1,440 @@
+#AREA        Player Shops 1~
+
+
+
+#AUTHOR      None~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#4850
+demon massive evil male~
+a massive male demon~
+A massive male demon is here, eyes glowing `#`rred`^.
+~
+This demon is terrifyingly huge. Massive black wings fold back behind a rippling chest. 
+Its eyes glow an `#`runholy red`^ as it stares into your soul.
+~
+2 512 -200 C
+45 0 -18 5d8+265 6d6+18
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4851
+burly male angrak~
+a big burly male angrak~
+A big and burly looking male angrak is standing here.
+~
+~
+64 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4852
+retarded goblin~
+a retarded goblin~
+A retarded goblin is standing here looking...well, retarded.
+~
+Goblins are pretty stupid to start with, but this one looks really dumb. 
+There is a confused look on its face.  He appears to be the shopkeeper for 
+this armory. 
+~
+64 512 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4856
+fresh face clerical novice~
+a clerical novice~
+A fresh-faced and eager novice of a clerical order watches the shop.
+~
+~
+64 512 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4858
+perky teenage apprentice magi~
+a perky teenage apprentice magi~
+A perky teenage apprentice magi is standing here.
+~
+~
+64 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4859
+young slender dagorst woman~
+a young, slender dagorst woman~
+A young, slender dagorst woman is standing here.
+~
+~
+64 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4860
+male iron golem ~
+a male iron golem~
+A male, iron golem is standing here.
+~
+This golem appears to be the shopkeeper of this establishment, he is sitting 
+on a stool motionless with the exception of the eyes that seem to follow 
+your every step. This golem appears to have sat at the stool for a wile as 
+the dust appears to have caked over his head and shoulders, his iron body 
+that maybe once glistened is now dull and foggy. 
+~
+64 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4861
+cambion~
+a cambion~
+A female cambion stands here.
+~
+~
+2 512 -200 C
+45 0 -18 5d8+265 6d6+18
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#4862
+minotaur~
+a minotaur~
+A minotaur built along the lines of an ox
+~
+~
+64 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#0
+
+#ROOMS
+#4850
+Ixliam's Adventurer Supplies~
+Assorted weapons and armor made by the great Ixliam himself lie behind a 
+large counter in this quaint little shop. The wooden oak floor sparkles 
+before you, kept clean by the owner. No speck of dust can be seen anywhere 
+in this shop. 
+~
+1 33817612 0
+D0
+~
+~
+0 0 3041
+D4
+~
+door~
+2 0 4851
+S
+#4851
+Ixliam's Shop Storage~
+Drop items here and pickup gold.
+~
+1 1044931596 0
+D5
+~
+~
+2 0 4850
+S
+#4852
+Four Morningstars~
+This shop appears to sell forged crafts. It is rather utilitarian in 
+construction, having just a few sturdy wooden racks for display items, and a 
+long pine counter in the center of the shop. Four smouldering sconces are 
+mounted here, one in each corner of the room, providing just enough light to 
+see. There is a smell of blood in the air as well, but none can be seen. The 
+only other decoration in the shop is a large banner hanging across the back 
+wall. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 4853
+E
+long pine counter~
+This sturdy counter stands about three and a half feet tall and is 
+unfinished. Carefull touching it unless you enjoy splinters. The top surface 
+looks a bit worn-in. 
+~
+E
+wooden rack~
+These racks look as though they have been crafted solely for holding weapons 
+and armor for display. They are very roughly made. 
+~
+E
+sconce ~
+This is nothing more than an oil-filled goblet fastened to the wall. It has 
+been set aflame and is smoking profusely. 
+~
+E
+banner ~
+This rough banner shows an image of a burning palm tree on a black 
+background. It appears to be made of burlap. 
+~
+S
+#4853
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4852
+S
+#4854
+Dragons Claw Armory~
+This shop seems to sell both weapons and armor. There are racks hanging off 
+the wall with different types of armor hanging on it and several tables with 
+various types of weapons dispayed on them. Lanterns hanging on the walls 
+provide ample light for the room as well as open windows and a large brazier 
+standing in the rear of the store. A small section of the store in the front 
+has been sectioned off to display various articles of clothing. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 814
+D4
+~
+~
+0 0 4855
+S
+#4855
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4854
+S
+#4856
+Selayre's Wares~
+This shop is small and cluttered, with parchments, alembics, and other 
+paraphernalia littering every available surface. The place seems to have a 
+scholarly bent, and the cases displaying wares are very orderly and 
+carefully marked. The wares on display have a distinct clerical bent, for 
+those interested in that sort of thing. A battered plaque declares the name 
+of this shop to be 'Selayre's Wares'. 
+~
+1 33817612 0
+D3
+~
+~
+0 0 3021
+D4
+~
+~
+0 0 4857
+S
+#4857
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4856
+S
+#4858
+Arcane Emporium~
+A stylish market for academic research and studies. The left wall is 
+brimming with tomes, books and scrolls. The right panel  is covered in 
+scrolls, organized in a savvy method for clients to peruse. Academic 
+professionals and folks simply in need of a potion are greeted by a 
+gracious, perky elven teenage girl who is also a  magi apprentice, that 
+works here to study and earn wages. The colors are spiffy and comfortable, 
+magenta and white tones give the shop a serenity and yet cordial reflection. 
+Behind the oak counter, she has a classy desk to sit at while awaiting for 
+customers. There are many plants, wind-chimes , incense and various candles 
+gives the room a mystical and receptive ambiance when one surveys their 
+surroundings. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 46181
+D4
+~
+~
+0 0 4859
+S
+#4859
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4858
+S
+#4862
+Magnificent Masks and More~
+The first think you notice when entering this shop is the gentle wafting 
+scent of cherryblossoms. All along the walls are magnificent displays of a 
+wide variety of iteems. Between the beautiful displays are hanging paintings 
+of dragons, wolf creatures, bats and shadow beings. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 805
+D4
+~
+~
+0 0 4863
+S
+#4863
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4862
+S
+#4864
+Harpan's Little Shop~
+~
+1 33817612 0
+D3
+~
+~
+0 0 27017
+D4
+~
+~
+0 0 4865
+S
+#4865
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4864
+S
+#4866
+Phoenix Rising Forge and Enchantments~
+An enormous forge dominates the room, far larger than what any human would 
+be capable of using. The same goes for the blacksmith tools and the anvil. 
+The weapons and armor displayed on the stands and walls vary wildly in size 
+and quality. `+
+`+
+In the far corner of the room an enchanters workshop is set up, with clamps 
+to hold an object in place and magical components neatly arranged on a 
+table, within easy reach. Right next to it a jeweler's bench stands, with 
+various tools, bits of wire, and unfinished pieces strewn all over it. `+
+`+
+A sign hangs by door: `#`y"Custom-made weapons. Enchantments on own equipment. 
+Prices negotiable. Contact Brell or Quedani."`^ 
+~
+1 33817612 0
+D3
+~
+~
+0 0 27015
+D4
+~
+~
+0 0 4867
+S
+#4867
+Shop Storage~
+Drop items here and pickup gold.
+~
+1 172762124 0
+D5
+~
+~
+0 0 4866
+S
+#0
+
+#RESETS
+M 0 4850 1 4850 1
+M 0 4852 1 4852 1
+M 0 4851 1 4854 1
+M 0 4856 1 4856 1
+M 0 4858 1 4858 1
+M 0 4859 1 4862 1
+M 0 4861 1 4864 1
+M 0 4862 1 4866 1
+S
+
+#SHOPS
+ 4850   0 0 0 0 0   100 5        0 23    ; demon massive evil male
+ 4851   0 0 0 0 0   100 100        0 23    ; burly male angrak
+ 4852   0 0 0 0 0   100 100        0 23    ; retarded goblin
+ 4856   0 0 0 0 0   100 100        0 23    ; fresh face clerical novice
+ 4858   0 0 0 0 0   100 100        0 23    ; perky teenage apprentice magi
+ 4859   0 0 0 0 0   100 100        0 23    ; young slender dagorst woman
+ 4860   0 0 0 0 0   100 100        0 23    ; male iron golem 
+ 4861   0 0 0 0 0   100 5        0 23    ; cambion
+ 4862   0 0 0 0 0   100 100        0 23    ; minotaur
+0
+
+
+
+
+
+#$

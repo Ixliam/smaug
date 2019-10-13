@@ -1,1 +1,10 @@
 [*****] BOOT: ---------------------[ Boot Log ]--------------------
+[*****] BOOT: Fix_exits: room 70128, exit west leads to bad vnum (59899)
+[*****] BOOT: Fix_exits: room 70166, exit north leads to bad vnum (59819)
+[*****] BOOT: Fix_exits: room 70170, exit north leads to bad vnum (59983)
+[*****] BOOT: Fix_exits: room 70171, exit north leads to bad vnum (59985)
+[*****] BOOT: Fix_exits: room 70172, exit north leads to bad vnum (59987)
+[*****] BOOT: Fix_exits: room 70173, exit north leads to bad vnum (59980)
+[*****] BOOT: Fix_exits: room 70175, exit north leads to bad vnum (59978)
+[*****] BOOT: Fix_exits: room 70175, exit east leads to bad vnum (59901)
+[*****] BOOT: Fix_exits: room 70182, exit south leads to bad vnum (59981)

@@ -1,0 +1,903 @@
+#AREA        Haunted Lighthouse~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#43200
+zombie rotting~
+a rotting zombie~
+A rotting zombie is here.
+~
+This creature was once a human man, but is now an animated rotting corpse.  
+Chunks of skin are missing in many places, exposing the organs and bones 
+below. 
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+30 0 -11 5d5+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43201
+animated skeleton~
+an animated skeleton~
+An animated skeleton is here.
+~
+This undead creature is nothing but a skeleton that has somehow been 
+magically animated.  It is about human sized.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+27 0 -11 5d6+205 6d4+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43202
+grey ooze~
+a grey ooze~
+A grey ooze clings to the wall here.
+~
+This strange creature is not much more than a pile of smelly grey slime.  It 
+seems to be able to cling to the wall quite well, and from the damage done to 
+the area around it looks quite toxic.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+34 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43203
+ghost~
+a ghost~
+The ghost of some poor human is floating here.
+~
+This is the ghost of some poor human, probably killed in such a way as to 
+trap the soul behind.  It is a whispy white color, and is transparent.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -14 5d7+242 3d12+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43204
+revenant lighthouse keeper~
+a revenant~
+The revenant of the lighthouse keeper is here.
+~
+This is the undead body of the former lighthouse keeper.  Apparently some 
+soul is still trapped inside, if the burning hate visible in its eyes is any 
+indication.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+57 2 -27 6d9+305 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43205
+spectre~
+a spectre~
+A spectre is floating here.
+~
+This ghostlike undead creature is staring at you with glowing red eyes filled 
+with hate.  Its body is mostly transparent, and is hard to make out.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+46 2 -16 5d8+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43206
+thin wraith~
+a wraith~
+A thin wraith is here.
+~
+This tall gaunt undead creature looks quite powerful.  It has an expression 
+of pure malice on its face, and is eyeing you hungrily.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+53 0 -23 5d9+290 6d7+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43207
+ghoul~
+a ghoul~
+A ghoul is here, leering evilly at you.
+~
+This creature was perhaps once a normal human, but it's body has been 
+horribly twisted by some foul means into a warped imitation.  It is leering 
+evilly at you.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+22 2 -12 5d6+215 3d10+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43208
+huge blue dragon~
+a blue dragon~
+A huge blue dragon is resting here.
+~
+This huge dragon is incredibly long and is covered with ocean blue scales.  
+It is resting here in a deep pool of water.
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+58 2 -44 6d10+525 10d6+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#43209
+huge black rock worm~
+a rock worm~
+A huge black worm is eating the stone here.
+~
+This huge worm is black in color and very grotesque.  It has a mouth of sorts 
+at one end, and is using it to devour some rocks here.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#43200
+rusty cutlass~
+a `#`yrusty`^ cutlass~
+A `#`yrusty`^ cutlass has been left here.~
+~
+5 0 4
+9 27 34 0 0 0 0
+1 606 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+43200 rusty cutlass~
+This old short curved sword is of fine make, but has not been taken
+care of and is very rusty.
+~
+#43201
+dragon's eye~
+a dragon's eye~
+A dragon's eye has been left here.~
+~
+1 1 1
+0 300 0 0 0 0 0
+1 1313 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+43201 dragon's eye~
+This large gem is clear with a blue pulsing light in the center.  It is
+also vibrating slightly.
+~
+#43202
+rusty old key~
+a `#`yrusty`^ old key~
+A `#`yrusty`^ old key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+43202 rusty old key~
+This large key is made of steel and is old and rusty.
+~
+#43203
+portable hole~
+a portable hole~
+A portable hole has been folded up and left here..~
+~
+15 0 8
+1 0 400 50 0 0 0
+1 640 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+43203 portable hole~
+This flat piece of extradimensional material can be folded up, and seems
+to magically store a lot.  
+~
+#43204
+dusty silver helm~
+a dusty `#`Ssilver`^ helm~
+A dusty `#`Ssilver`^ helm lies here.~
+~
+9 64 8
+5 5 10 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#43205
+blue dragon fang~
+a `#`Bblue dragon's`^ fang~
+The fang from a `#`Bblue dragon`^ lies here.~
+~
+5 0 4
+4 78 101 128 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#43200
+Entrance Room~
+~
+This small room is a mess.  Broken and rotting chairs are lying here, along 
+with an overturned table.  There is an exit to the outside to the west, and 
+small rooms to the north and south.  Just to the east are stairs leading up 
+and down.
+~
+1 8 0
+D0
+Storage Room.
+~
+~
+0 0 43201
+D1
+Stairs.
+~
+~
+0 0 43203
+D2
+Storage Room.
+~
+~
+0 0 43202
+R M 0 43200 12 43200
+  R E 0 43200 0 16
+R M 0 43200 12 43200
+  R E 0 43200 0 16
+E
+chair table~
+rotten old furniture, mostly broken.
+~
+S
+#43201
+Storage Room~
+~
+This small room appears to have once been used for storage.  There are hooks 
+on the wall, from which hang the remains of old ropes, and several rotting 
+wooden bins on the floor.  The exit is south.
+~
+1 8 0
+D2
+Entrance Room.
+~
+~
+0 0 43200
+R M 0 43201 12 43201
+  R E 0 43200 0 16
+R M 0 43201 12 43201
+  R E 0 27073 0 16
+R M 0 43201 12 43201
+E
+rope hook~
+Rotting old ropes hang on hooks.
+~
+E
+bin~
+Old rotten wooden bins.  Empty and worthless.
+~
+S
+#43202
+Storage Room~
+~
+This small room is completely bare except for a few stone blocks on the 
+floor.  Upon close inspection the walls and ceiling appear to be covered with 
+a thin layer of grey slime.  The exit is north.
+~
+1 8 0
+D0
+Entrance Room.
+~
+~
+0 0 43200
+R M 0 43202 5 43202
+  R G 0 43202 0
+R M 0 43202 5 43202
+R M 0 43202 5 43202
+R M 0 43202 5 43202
+R M 0 43202 5 43202
+E
+slime~
+Grey slime.
+~
+E
+stone blocks~
+Plain old stone blocks.  Heavy and boring.
+~
+S
+#43203
+Stairs~
+~
+The stone stairs lead up and down here.  Shuffling and grinding noises come 
+from both directions.  You can also go west into a room.
+
+~
+1 8 0
+D3
+Entrance Room.
+~
+~
+0 0 43200
+D4
+Stairs.
+~
+~
+0 0 43208
+D5
+Stairs.
+~
+~
+0 0 43213
+S
+#43204
+Living Quarters~
+~
+This appears to once have been the living quarters of whoever lived in 
+this place.  It is obviously unused for a long time, though.  The few 
+furnishings that remain are broken and overturned, and a thick layer of dust 
+covers everything.  There are small rooms to the north, south, and west, and 
+stairs to the east.  
+~
+1 8 0
+D0
+Living Quarters.
+~
+~
+0 0 43205
+D1
+The stairs.
+~
+~
+0 0 43208
+D2
+Living Quarters.
+~
+~
+0 0 43206
+D3
+Storage Area.
+~
+~
+0 0 43207
+R M 0 43201 12 43204
+  R E 0 43200 0 16
+E
+furnishings~
+Broken old furniture.
+~
+S
+#43205
+Living Quarters~
+~
+This small bedroom once belonged to a resident of this place.  There is an 
+old bed here, along with a wooden desk.  A broken chair lies in pieces on the 
+floor, as do glass shards from a shattered oil lamp.  The only exit is south.
+
+~
+1 8 0
+D2
+Living Quarters.
+~
+~
+0 0 43204
+R M 0 43204 1 43205
+R O 0 43204 0 43205
+E
+desk~
+A nice old wooden desk.  There is nothing on it or in the drawers.
+~
+E
+bed~
+An old bed.  Nothing unusual about it.
+~
+S
+#43206
+Living Quarters~
+~
+This small room appears to have once belonged to a resident of this place. 
+There is an old bed here, and a chair, but not much else.  The only exit is 
+north.
+~
+1 8 0
+D0
+Living Quarters.
+~
+~
+0 0 43204
+R M 0 43207 12 43206
+R M 0 43207 12 43206
+R M 0 43207 12 43206
+R M 0 43207 12 43206
+R M 0 43207 12 43206
+R M 0 43207 12 43206
+S
+#43207
+Storage Area~
+~
+This tiny room was once a storage room for food.  Shelves line the
+walls, upon which are some old bottles and jars.  A small barrel sits 
+in the corner.  The only exit is east.
+~
+1 8 0
+D1
+Living Quarters.
+~
+~
+0 0 43204
+R M 0 43203 10 43207
+R M 0 43203 10 43207
+R M 0 43203 10 43207
+R M 0 43203 10 43207
+R M 0 43203 10 43207
+S
+#43208
+Stairs~
+~
+The stone stairs go up and down here, and there is a room to the west.  You 
+hear shuffling sounds from all three directions.  
+~
+1 8 0
+D3
+Living Quarters.
+~
+~
+0 0 43204
+D4
+Stairs go up.
+~
+~
+0 0 43209
+D5
+Stairs.
+~
+~
+0 0 43203
+S
+#43209
+Walkway~
+~
+You are on a walkway on the top of a lighthouse.  A huge glass sphere is 
+supported by chains to your west, but is not lit up in any way at the moment. 
+It doesn't appear to have anything to burn in it, perhaps it is powered 
+magically.  To the east you can see the ocean, and forest lies in all other 
+directions.  The walkway leads northwest or southwest, or stairs lead down 
+into the lighthouse.
+~
+1 0 0
+D5
+Stairs.
+~
+~
+0 0 43208
+D8
+Walkway.
+~
+~
+0 0 43212
+D9
+Walkway.
+~
+~
+0 0 43210
+E
+sphere globe~
+A huge thick glass sphere.
+~
+S
+#43210
+Walkway~
+~
+You are on a walkway on the top of a lighthouse.  A huge glass sphere is 
+supported by chains to your south, but is not lit up in any way at the 
+moment.  It doesn't appear to have anything to burn in it, perhaps it is 
+powered magically.  To the east you can see the ocean, and forest lies in all 
+other directions.  The walkway leads southeast or southwest.
+~
+1 0 0
+D7
+Walkway.
+~
+~
+0 0 43209
+D8
+Walkway.
+~
+~
+0 0 43211
+R M 0 43205 2 43210
+S
+#43211
+Walkway~
+~
+You are on a walkway on the top of a lighthouse.  A huge glass sphere is 
+supported by chains to your east, but is not lit up in any way at the moment. 
+It doesn't appear to have anything to burn in it, perhaps it is powered 
+magically.  To the east you can see the ocean, and forest lies in all other 
+directions.  The walkway leads northeast or southeast.
+~
+1 0 0
+D6
+Walkway.
+~
+~
+0 0 43210
+D7
+Walkway.
+~
+~
+0 0 43212
+S
+#43212
+Walkway~
+~
+You are on a walkway on the top of a lighthouse.  A huge glass sphere is 
+supported by chains to your north, but is not lit up in any way at the 
+moment.  It doesn't appear to have anything to burn in it, perhaps it is 
+powered magically.  To the east you can see the ocean, and forest lies in all 
+other directions.  The walkway leads northwest or northeast.
+~
+1 0 0
+D6
+Walkway.
+~
+~
+0 0 43209
+D9
+Walkway.
+~
+~
+0 0 43211
+R M 0 43203 10 43212
+S
+#43213
+Stairs~
+~
+Here some stone stairs lead upwards.  A small dark room is to the west.
+~
+1 9 0
+D3
+Cellar.
+~
+~
+0 0 43214
+D4
+Stairs.
+~
+~
+0 0 43203
+S
+#43214
+Cellar~
+~
+This small room is wet and cold.  Some old wooden shelves line the walls, but 
+look quite rotten.  There are stone stairs to the east, and you also notice a 
+metal trapdoor in the floor.
+~
+1 9 0
+D1
+Stairs.
+~
+~
+0 0 43213
+D5
+Natural Cave.
+~
+trapdoor~
+33 43202 43215
+R M 0 43206 1 43214
+E
+shelves~
+Old wooden shelves, wet and rotting.
+~
+E
+trapdoor~
+A metal door with a handle, set in the stone floor.
+~
+S
+#43215
+Natural Cave~
+~
+This narrow cave is wet and dark.  The stone walls are rough, and appear to 
+be formed naturally as opposed to man-made.  You can go west through the 
+cave, and there is a metal trapdoor set in the roof.
+
+~
+1 9 11
+D3
+Damp Cave.
+~
+~
+0 0 43216
+D4
+Cellar.
+~
+trapdoor~
+33 43202 43214
+E
+trapdoor~
+A metal trapdoor with a lock.
+~
+S
+#43216
+Damp Cave~
+~
+The narrow cave runs south and east here.  It is rather damp, and there are a 
+few trickles of water running along the walls and floor.  The stone is rough, 
+and the cave appears to have been formed naturally.
+
+~
+1 9 11
+D1
+Natural Cave.
+~
+~
+0 0 43215
+D2
+Natural cave.
+~
+~
+0 0 43217
+E
+water trickle~
+Water coming form some unknown source.
+~
+S
+#43217
+Damp Cave~
+~
+The narrow cave runs north and south here.  It is rather damp, and there are 
+a few trickles of water running along the walls and floor.  The stone is 
+rough, and the cave appears to have been formed naturally.
+~
+1 9 11
+D0
+The cave runs north.
+~
+~
+0 0 43216
+D2
+The cave runs south.
+~
+~
+0 0 43218
+R M 0 43209 2 43217
+R M 0 43209 2 43217
+S
+#43218
+Damp Cave~
+~
+The narrow cave runs north and southeast here.  It is rather damp, and there 
+are a few trickles of water running along the walls and floor.  The stone is 
+rough, and the cave appears to have been formed naturally.  To the southeast 
+it is a tight squeeze, but looks to open up into a larger cavern.
+~
+1 9 11
+D0
+Damp Cave.
+~
+~
+0 0 43217
+D7
+Cavern.
+~
+~
+0 0 43219
+S
+#43219
+Cavern~
+~
+This huge cavern has somehow been hollowed out of the stone, perhaps by the 
+water that currently covers part of its floor.  The walls are very smooth, 
+and have water trickling down them in a few spots.  There is a salty scent to 
+the air, and a slight breeze from the east.  There is a wide opening in that 
+direction, and also a small tunnel leading northwest.
+~
+1 8 11
+D1
+Damp Passage.
+~
+~
+0 0 43220
+D9
+Damp Cave.
+~
+~
+0 0 43218
+R M 0 43208 1 43219
+  R G 0 43201 0
+  R G 0 43205 0
+S
+#43220
+Damp Passage~
+~
+This wide tunnel stretches west into the darkness, and east opens to a rocky 
+beach.  There are a few inches of water covering the ground now, but maybe 
+its not such a good idea to be here later during high tide.  There is water 
+trickling down the smooth walls in a few places.
+~
+1 8 11
+D1
+Rocky Beach.
+~
+~
+0 0 43221
+D3
+Cavern.
+~
+~
+0 0 43219
+S
+#43221
+Rocky Beach~
+~
+You are on a rocky beach on the edge of a great body of water.  The water 
+stretches east as far as you can see.  There is a wide tunnel leading into 
+the ground to your west. 
+~
+1 4 10
+D3
+Damp Passage.
+~
+~
+0 0 43220
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

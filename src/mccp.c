@@ -1,24 +1,27 @@
-/****************************************************************************
- * [S]imulated [M]edieval [A]dventure multi[U]ser [G]ame      |   \\._.//   *
- * -----------------------------------------------------------|   (0...0)   *
- * SMAUG 1.8 (C) 1994, 1995, 1996, 1998  by Derek Snider      |    ).:.(    *
- * -----------------------------------------------------------|    {o o}    *
- * SMAUG code team: Thoric, Altrag, Blodkai, Narn, Haus,      |   / ' ' \   *
- * Scryn, Rennard, Swordbearer, Gorog, Grishnakh, Nivek,      |~'~.VxvxV.~'~*
- * Tricops, Fireblade, Edmond, Conran                         |             *
- * ------------------------------------------------------------------------ *
- * Merc 2.1 Diku Mud improvments copyright (C) 1992, 1993 by Michael        *
- * Chastain, Michael Quan, and Mitchell Tse.                                *
- * Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,          *
- * Michael Seifert, Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.     *
- * ------------------------------------------------------------------------ *
- *                         Client Compression Module                        *
- ****************************************************************************/
+/*****************************************************************************
+ * DikuMUD (C) 1990, 1991 by:                                                *
+ *   Sebastian Hammer, Michael Seifert, Hans Henrik Staefeldt, Tom Madsen,   *
+ *   and Katja Nyboe.                                                        *
+ *---------------------------------------------------------------------------*
+ * MERC 2.1 (C) 1992, 1993 by:                                               *
+ *   Michael Chastain, Michael Quan, and Mitchell Tse.                       *
+ *---------------------------------------------------------------------------*
+ * SMAUG 1.4 (C) 1994, 1995, 1996, 1998 by: Derek Snider.                    *
+ *   Team: Thoric, Altrag, Blodkai, Narn, Haus, Scryn, Rennard, Swordbearer, *
+ *         gorog, Grishnakh, Nivek, Tricops, and Fireblade.                  *
+ *---------------------------------------------------------------------------*
+ * SMAUG 1.7 FUSS by: Samson and others of the SMAUG community.              *
+ *                    Their contributions are greatly appreciated.           *
+ *---------------------------------------------------------------------------*
+ * LoP (C) 2006 - 2013 by: the LoP team.                                     *
+ *---------------------------------------------------------------------------*
+ *                         Client Compression Module                         *
+ *****************************************************************************/
 
 /*
  * mccp.c - support functions for mccp (the Mud Client Compression Protocol)
  *
- * see http://mccp.smaugmuds.org
+ * see http://mccp.afkmud.com
  *
  * Copyright (c) 1999, Oliver Jowett <oliver@randomly.org>.
  *
@@ -27,34 +30,61 @@
  */
 
 #include <stdio.h>
+#include <ctype.h>
+#include <errno.h>
+#include <time.h>
+#include <sys/time.h>
 #include <string.h>
+#include <fcntl.h>
+#include <signal.h>
 #include <errno.h>
 #include <unistd.h>
-#ifndef WIN32
-#include <arpa/telnet.h>
+
+/* Socket and TCP/IP stuff. */
+#ifdef WIN32
+#include <io.h>
+#include <winsock2.h>
+#undef EINTR
+#undef EMFILE
+#define EINTR WSAEINTR
+#define EMFILE WSAEMFILE
+#define EWOULDBLOCK WSAEWOULDBLOCK
+#define MAXHOSTNAMELEN 32
+
+#define  TELOPT_ECHO '\x01'
+#define  NOP         '\xF1'
+#define  GA          '\xF9'
+#define  SB          '\xFA'
+#define  WILL        '\xFB'
+#define  WONT        '\xFC'
+#define  DO          '\xFD'
+#define  DONT        '\xFE'
+#define  IAC         '\xFF'
+
+void bailout( void );
+void shutdown_checkpoint( void );
 #else
-#define  TELOPT_ECHO        '\x01'
-#define  GA                 '\xF9'
-#define  SB                 '\xFA'
-#define  SE                 '\xF0'
-#define  WILL               '\xFB'
-#define  WONT               '\xFC'
-#define  DO                 '\xFD'
-#define  DONT               '\xFE'
-#define  IAC                '\xFF'
-#define ENOSR 63
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netinet/in_systm.h>
+#include <netinet/ip.h>
+#include <arpa/inet.h>
+#include <arpa/telnet.h>
+#include <netdb.h>
 #endif
-#include "mud.h"
-#include "mccp.h"
+#include "h/mud.h"
+#include "h/mccp.h"
+
+bool write_to_descriptor args((DESCRIPTOR_DATA *d, const char *txt, int length));
+
 
 #if defined(__OpenBSD__) || defined(__FreeBSD__)
 #define ENOSR 63
 #endif
 
+int mccpusers;
 const unsigned char will_compress2_str[] = { IAC, WILL, TELOPT_COMPRESS2, '\0' };
 const unsigned char start_compress2_str[] = { IAC, SB, TELOPT_COMPRESS2, IAC, SE, '\0' };
-
-bool write_to_descriptor( DESCRIPTOR_DATA * d, const char *txt, int length );
 
 bool process_compressed( DESCRIPTOR_DATA * d )
 {
@@ -76,7 +106,7 @@ bool process_compressed( DESCRIPTOR_DATA * d )
       for( iStart = 0; iStart < len; iStart += nWrite )
       {
          nBlock = UMIN( len - iStart, 4096 );
-         if( ( nWrite = write( d->descriptor, d->mccp->out_compress_buf + iStart, nBlock ) ) < 0 )
+         if( ( nWrite = send( d->descriptor, d->mccp->out_compress_buf + iStart, nBlock, 0 ) ) < 0 )
          {
             if( errno == EAGAIN || errno == ENOSR )
                break;
@@ -129,11 +159,11 @@ bool compressStart( DESCRIPTOR_DATA * d )
       return FALSE;
    }
 
-   write_to_descriptor( d, (const char *)start_compress2_str, 0 );
+   write_to_descriptor( d, ( const char * )start_compress2_str, 0 );
 
    d->can_compress = TRUE;
    d->mccp->out_compress = s;
-
+   mccpusers++;
    return TRUE;
 }
 
@@ -157,7 +187,7 @@ bool compressEnd( DESCRIPTOR_DATA * d )
    return TRUE;
 }
 
-void do_compress( CHAR_DATA* ch, const char* argument)
+void do_compress( CHAR_DATA *ch, char *argument )
 {
    if( !ch->desc )
    {
@@ -170,12 +200,12 @@ void do_compress( CHAR_DATA* ch, const char* argument)
       if( !compressStart( ch->desc ) )
          send_to_char( "&RCompression failed to start.\r\n", ch );
       else
-         send_to_char( "&GOk, compression enabled.\n", ch );
+         send_to_char( "&GOk, compression enabled.\r\n", ch );
    }
    else
    {
       compressEnd( ch->desc );
       ch->desc->can_compress = FALSE;
-      send_to_char( "&ROk, compression disabled.\n", ch );
+      send_to_char( "&ROk, compression disabled.\r\n", ch );
    }
 }

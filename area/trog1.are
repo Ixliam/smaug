@@ -1,0 +1,1614 @@
+#AREA        Troglodyte Outpost~
+
+
+
+#VERSION     11
+#AUTHOR      baridoc~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#62000
+young troglodyte~
+a young troglodyte~
+A young troglodyte is playing with stone toys
+~
+This creature looks like a miniature version of an adult, with its stocky 
+build and wide shoulders.  The only difference is the coloration.  The young 
+troglodytes seem to be more of a greyish color, perhaps to help blend in 
+with the stone. 
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62001
+female troglodyte~
+a female troglodyte~
+A female troglodyte seems to be looking for something.
+~
+This female troglodyte is typical of those of her species.  Mottled brown 
+and grey in color with somewhat short legs and arms, she has wide shoulders 
+and hips.  He mouth is large and filled with nasty teeth. 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62002
+adolescent male troglodyte~
+an adolescent male troglodyte~
+(no default description)
+~
+This male troglodyte has just about achieved adult coloration.  He is still 
+trying to make a name for himself and is too young to have his own mate. His 
+stubby arms and legs and broad shoulders belie the strength found in his 
+limbs.  The most prominent feature of his lizard-like face is the gaping maw 
+filled with sharp teeth. 
+~
+0
+Clanname none~
+0
+0
+65 32768 -400 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62003
+adult male troglodyte~
+an adult male troglodyte~
+An adult male troglodyte is here looking none too pleased.
+~
+The massive toad or iguana-like creature before you has dull, glowing red 
+eyes. Its skin varies from a mud brown to an olive green to a slate grey. It 
+is bulky in build with stocky arms and broad shoulders.  Its mouth is full 
+of needle-sharp teeth. 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62004
+troglodyte guard~
+a troglodyte guard~
+A heavily armed troglodyte is here looking none too pleased.
+~
+This troglodyte displays the typical coloration of his kind except for the 
+bright red around his neck and throat.  This is due to his being enraged and 
+ready for battle. 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+50 0 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62005
+scorpion~
+a huge scorpion~
+A scorpion about as tall as a human moves towards you.
+~
+This scorpion is so large it seems it should be in the Lost Gorge.  Standing 
+almost 5 feet at the shoulder, it is easily 12 feet long.  It has two huge 
+claws and a tail dripping with poison. 
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62006
+hairy spider~
+`#a large `sblack`^ hairy spider~
+`#A large `sblack`^ hairy spider sees you as food!
+~
+This spider is about 2 feet across with legs that extend another 2 or 3 feet 
+beyond that.  It's 8 eyes watch you carefully and seem to see you as nothing 
+more than food. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62007
+translucent troglodyte eggs globe~
+a translucent globe~
+A globe filled with eggs floats here
+~
+Bluish green in color, this egg sack seems about ready to burst and release 
+hundreds, maybe thousands of little beasties loose. 
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62008
+troglodyte shaman~
+an enraged troglodyte shaman~
+A troglodyte shaman turns as you enter - boy is he mad!
+~
+Before you is a Shaman of the tribe.  His mottling is mostly covered by his 
+decorous robes and paraphenalia, but you can make out the characteristic 
+deep red tones of anger. 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62009
+apprentice troglodyte shaman~
+an angry shaman's apprentice~
+An apprentice shaman looks up from his meditation
+~
+This troglodyte's coloration is typical of its race - greenish brown fading 
+to dark brown.  He is dressed with typical trog armor and looks quite upset 
+at being disturbed. 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+38 0 -13 5d6+225 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62010
+troglodyte chieftain~
+the troglodyte chieftain~
+The chief of the tribe snarls at you.
+~
+This is quite possibly the largest troglodute you've ever seen!  Standing a 
+bit over 7 feet tall and about 3 feet wide, this hulking brute dominates the 
+other trogs of the tribe.  The normally dark brown tones of adulthood are 
+fused with the angry red hues of anger.  He's mad, and he's looking at you! 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#62000
+stone key~
+`#a `Sstone`^ key~
+`#A `Sstone`^ key seems well used.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62001
+beetle shell helmet~
+a hard beetle shell~
+The shell of a huge beetle lies here on its back.~
+~
+9 0 8
+40 40 8 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62002
+lizardskin leather cuirass~
+`#a `ylizardskin leather`^ cuirass~
+`#A leather cuirass made of hardened `ylizardskin`^ is here~
+~
+9 0 8
+40 40 8 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62003
+scale vambraces~
+`#`sscale`^ vambraces~
+`#Vambraces made of `sscales`^ await an owner~
+~
+9 0 8
+40 40 7 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62004
+scale leather leggings~
+`#`ylizardskin leather`^ and `sscale`^ leggings~
+`#A set of `ylizardskin leather`^ and `sscale`^ leggings lies here forgotten.~
+~
+9 0 8
+40 40 7 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62005
+obsidian spear~
+`#an `Sobsidian`^ tipped spear~
+`#A spear with a `Sobsidian`^ tip is here.~
+~
+5 0 4
+11 62 76 8 0 0 0
+7 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62005 obsidian spear~
+`#This spear is about 6 feet long.  It has a wooden haft but is tipped with a 
+large piece of `sobsidian`^ which has been carefully flaked to give it a razor 
+sharp edge. 
+~
+#62006
+obsidian axe~
+`#an `sobsidian`^ axe~
+`#An axe with an `sobsidian`^ head waits for an owner.~
+~
+5 0 4
+11 65 85 8 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62007
+pile rubble~
+a pile of rubble~
+A pile of rubble threatens to clog the passageway.~
+~
+15 0 8
+0 0 25 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62007 pile rubble~
+This loose pile of rocks and stones obviously came crashing down from above. 
+ Just as obviously, no one and nothing has moved them since they hit.  
+Looking closely at some of the stones, however, shows that they might be of 
+use in a sling. 
+~
+#62008
+wooden crate~
+a wooden crate~
+An old wooden crate seems about to collapse.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62008 wooden crate~
+This old crate has long since outlived its usefulness.  The sides are 
+bulging, the top has been chipped or flaked away and now lies as a pile on 
+top of the contents.  You sense that trying to lift this container would 
+destroy it.  Best to proceed carefully. 
+~
+#62009
+tabard_trog~
+a worn out tabard~
+A tabard that has definitely seen better days is in a pile.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62009 tabard ~
+This tabard fits over the head and has a single eye emblazoned on the front. 
+ It is difficult to make out any other detail as the piece is so old it is 
+practically falling apart. 
+~
+#62010
+obsidian dagger~
+an `#`Sobsidian`^ dagger~
+An `#`Sobsidian`^ dagger glints in the light.~
+~
+5 0 4
+7 5 3 8 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62011
+giant column~
+a giant column~
+A giant column of stone towers over you.~
+~
+15 0 8
+0 0 5 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62011 giant column~
+This stone column is easily 7 feet across at the base and reaches all the 
+way to the ceiling of this chamber.  As it rises, it narrows somewhat until 
+halfway up, then begins to broaden again - clearly the result of an ancient 
+stalagmite and stalactite meeting and joining. 
+~
+#62012
+chest~
+a large `#`sstone`^ chest~
+A `#`sstone`^ chest sits here immune to the water.~
+~
+15 0 8
+15 62000 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62012 stone chest~
+This chest is carved out of stone.  The craftsmanship is quite exquisite as 
+seen in the scenes of battle depicted all over the front.  In spite of the 
+Stone Age appearance, this chest seems very secure.  Too bad there isnt a 
+stone key around somewhere. 
+~
+#62013
+small gem~
+a small `#`Rgem`^~
+A small `#`Rgem`^ looks a bit like a ruby~
+~
+1 0 1
+0 200 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#62000
+`rA Vertical Fissure`^~
+~
+This tunnel shaft is nearly vertical and completely natural.  It looks 
+exactly like what it is - a crack in the earth.  Very long and very dark due 
+to the jagged turns that block out all light from above or below, it is 
+extremely hard to keep your bearings in this passageway. 
+~
+1 67108869 11
+D5
+~
+~
+0 0 62001
+S
+#62001
+`rAn East-West Passage`^~
+~
+There is a lot of rubble here, clearly caused by the shaft above breaking 
+into this passageway.  There is a hairline crack in the south wall.  The 
+fissuring seems to have stopped when it hit this place.  The walls are 
+mostly natural with only the barest of smoothing in evidence.  The passage 
+extends east and west from here.  No sound or light comes from either 
+direction. 
+~
+1 0 11
+D1
+~
+~
+0 0 62002
+D3
+~
+~
+0 0 62006
+D4
+~
+~
+0 0 62000
+R O 0 62007 0 62001
+  R P 0 49 30 62007
+E
+hairline crack wall~
+A very fine crack extends down from the hole in the ceiling through the 
+south wall.  Too small to put anything in, it simply defines the end of the 
+fissure. 
+~
+S
+#62002
+`rA Bend in the Passage~
+~
+The light from the vertical shaft is being rapidly swallowed by the 
+darkness.  The natural passage bends sharply to the southeast ahead. 
+~
+1 0 11
+D3
+~
+~
+0 0 62001
+D7
+~
+~
+0 0 62003
+S
+#62003
+`#`rA Turn in the Passage`^~
+~
+The passage bends back sharply upon itself here and the height drops to a 
+few feet.  Standing upright is impossible, even for Dwarves and Gnomes or 
+any creature over two and a half feet in height. There is almost no light 
+now. 
+~
+1 67108864 11
+D6
+~
+~
+0 0 62004
+D9
+~
+~
+0 0 62002
+R M 0 62006 3 62003
+S
+#62004
+`rAn Underground River`^~
+~
+The passageway ends here.  At the far end, the way is blocked by a fast 
+moving `briver`^.  It is about a foot below floor level and runs very swiftly.  
+It is about as cold as it can be without actually freezing.  A bit of mist 
+floats over the moving water and reflects your light. The only sensible way 
+to go is back, death would surely come quickly to any who ventured into 
+these black waters. 
+~
+1 1 11
+D5
+~
+~
+0 0 62005
+D8
+~
+~
+0 0 62003
+E
+river water~
+This water is icy cold and fast moving.  In fact, if it were moving slower 
+it would likely freeze.  You `#`smight`^ be able to survive if you are strong 
+enough.  But then, is it worth the risk? 
+~
+S
+#62005
+`rUnderground River~
+~
+WHHOOOOAAAAAAAAAA!! `1The current is fast and furious!  It whips you along, banging off the sides 
+of this underground riverway.  You are tossed, tumbled, shaken and stirred!  
+How long have you been here, you dont know.  When will it end, you cant 
+guess.  All you can do is hope it doesnt end in some huge underground 
+waterfall! 
+~
+1 201334789 12
+S
+#62006
+`rThe Passageway Continues~
+~
+The natural passageway continues here, the floor only moderately smoothed by 
+the passing of...something.  Almost all light is gone now, the blackness 
+could be unsettling to the less brave. 
+~
+1 0 11
+D1
+~
+~
+0 0 62001
+D3
+~
+~
+0 0 62007
+S
+#62007
+`r A Passageway`^~
+~
+All light fades as you go deeper underground.  The passage slopes downwards 
+slightly and there is a mustiness to the air. 
+~
+1 0 11
+D1
+~
+~
+0 0 62006
+D3
+~
+~
+0 0 62008
+S
+#62008
+`rA Sharp Turn`^~
+~
+The passage twists sharply, and naturally, to the northeast here.  Still 
+sloping slightly downwards, the floor and walls are less smooth and more 
+natural here. 
+~
+1 1 11
+D1
+~
+~
+0 0 62007
+D6
+~
+~
+0 0 62009
+R M 0 62004 15 62008
+  R E 0 62002 0 5
+  R E 0 62001 0 6
+  R E 0 62004 0 7
+S
+#62009
+`rThe Passage Bends~
+~
+The bend continues to the east here.  Darker patches of black seem to 
+indicate openings ahead.  To the west, the outline of a door can be seen.  A 
+door? Here? 
+~
+1 1 11
+D1
+~
+~
+0 0 62011
+D3
+~
+~
+1 0 62010
+D8
+~
+~
+0 0 62008
+R M 0 62005 4 62009
+S
+#62010
+`rA Storage Room`^~
+~
+The walls and floor of this room seems to have been smoothed much moreso 
+than the passage outside.  This makes the stacking of the boxes, crates, 
+sacks, bags, barrels and other miscellany here easier. The stuff in here 
+appears years old, maybe decades, and doesnt seem to be worth much, though 
+there may be something worth taking buried deep in the piles. 
+~
+1 1 11
+D1
+~
+~
+1 0 62009
+R O 0 62008 0 62010
+  R P 0 3026 10 62008
+  R P 0 62009 5 62008
+S
+#62011
+`rThe Intersection~
+~
+The passageway breaks off to the north here as well as continuing east-west. 
+ It is impossible to tell if one or the other is artificial, or which one 
+was created first.  Both the east and north passages appear much more used 
+than the west arm of this tunnel. 
+~
+1 1 11
+D0
+~
+~
+0 0 62013
+D1
+~
+~
+0 0 62012
+D3
+~
+~
+0 0 62009
+S
+#62012
+`rA Smoothed Section~
+~
+The floor of this section of the passage has been worn nearly smooth.  Up 
+ahead it seems to twist to the northeast, but it is difficult to tell in the 
+nearly non-existent light. Also of note is the fact that this passage slopes 
+downwards as it goes northeast. 
+~
+1 1 11
+D3
+~
+~
+0 0 62011
+D6
+~
+~
+0 0 62014
+S
+#62013
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the northeast, in the center of this huge area is a giant 
+column of rock barely discernable in the darkness. 
+~
+1 1 11
+D0
+~
+~
+0 0 62017
+D1
+~
+~
+0 0 62015
+D2
+~
+~
+0 0 62011
+D6
+~
+~
+0 0 62018
+R M 0 62004 15 62013
+  R E 0 62002 0 5
+  R E 0 62001 0 6
+  R E 0 62004 0 7
+  R E 0 62005 0 16
+S
+#62014
+`rThe Polished Area~
+~
+The walls and floor are worn smooth here from the passage of countless 
+creatures over countless years. The passage turns to the east and ends in a 
+wooden door. 
+~
+1 1 11
+D1
+~
+~
+1 0 62033
+D8
+~
+~
+0 0 62012
+R M 0 62004 15 62014
+  R E 0 62001 0 6
+  R E 0 62004 0 7
+  R E 0 62002 0 5
+  R E 0 62005 0 16
+E
+wooden door~
+The door is carved in bas relief with a face.  Not a human face, but more 
+the face of a man-lizard. 
+~
+S
+#62015
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the north, in the center of this huge area is a giant column 
+of rock barely discernable in the darkness. 
+~
+1 1 11
+D0
+~
+~
+0 0 62018
+D1
+~
+~
+0 0 62016
+D3
+~
+~
+0 0 62013
+D6
+~
+~
+0 0 62019
+D9
+~
+~
+0 0 62017
+S
+#62016
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the northwest, in the center of this huge area is a giant 
+column of rock barely discernable in the darkness.  Small tunnels leads to 
+the south and northeast. 
+~
+1 1 11
+D0
+~
+~
+0 0 62019
+D2
+~
+~
+0 0 62032
+D3
+~
+~
+0 0 62015
+D6
+~
+~
+0 0 62025
+D9
+~
+~
+0 0 62018
+S
+#62017
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the east, in the center of this huge area is a giant column 
+of rock barely discernable in the darkness. Smaller tunnels lead to the west 
+and northwest. 
+~
+1 1 11
+D0
+~
+~
+0 0 62020
+D1
+~
+~
+0 0 62018
+D2
+~
+~
+0 0 62013
+D3
+~
+~
+0 0 62031
+D6
+~
+~
+0 0 62021
+D7
+~
+~
+0 0 62015
+D9
+~
+~
+0 0 62030
+S
+#62018
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  Here in the center of this huge area is a giant column, clearly 
+formed by the dripping of mineral laden water through the eons. 
+~
+1 1 11
+D0
+~
+~
+0 0 62021
+D1
+~
+~
+0 0 62019
+D2
+~
+~
+0 0 62015
+D3
+~
+~
+0 0 62017
+D6
+~
+~
+0 0 62022
+D7
+~
+~
+0 0 62016
+D8
+~
+~
+0 0 62013
+D9
+~
+~
+0 0 62020
+R O 0 62011 0 62018
+  R P 0 62013 3 62011
+R M 0 62001 12 62018
+S
+#62019
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the west, in the center of this huge area is a giant column 
+of rock barely discernable in the darkness. 
+~
+1 1 11
+D0
+~
+~
+0 0 62022
+D2
+~
+~
+0 0 62016
+D3
+~
+~
+0 0 62018
+D8
+~
+~
+0 0 62015
+D9
+~
+~
+0 0 62021
+S
+#62020
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the southeast, in the center of this huge area is a giant 
+column of rock barely discernable in the darkness. A smaller tunnel leads 
+to the northwest. 
+~
+1 1 11
+D1
+~
+~
+0 0 62021
+D2
+~
+~
+0 0 62017
+D7
+~
+~
+0 0 62018
+D9
+~
+~
+0 0 62023
+S
+#62021
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the south, in the center of this huge area is a giant column 
+of rock barely discernable in the darkness. 
+~
+1 1 11
+D1
+~
+~
+0 0 62022
+D2
+~
+~
+0 0 62018
+D3
+~
+~
+0 0 62020
+D7
+~
+~
+0 0 62019
+D8
+~
+~
+0 0 62017
+S
+#62022
+`rCommon Area~
+~
+This chamber is huge.  The floor and walls have been worn smooth by the 
+rubbing and passing of many feet and bodies.  One thing of note however is 
+that the stalactites and stalagmites have been left in tact, often meeting 
+each other.  To the southwest, in the center of this huge area is a giant 
+column of rock barely discernable in the darkness. Smaller tunnels leads to 
+the north and east. 
+~
+1 1 11
+D0
+~
+~
+0 0 62024
+D1
+~
+~
+0 0 62026
+D2
+~
+~
+0 0 62019
+D3
+~
+~
+0 0 62021
+D8
+~
+~
+0 0 62018
+S
+#62023
+`rLiving Quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D7
+~
+~
+0 0 62020
+R M 0 62001 12 62023
+R M 0 62000 10 62023
+S
+#62024
+`rLiving Quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D2
+~
+~
+0 0 62022
+R M 0 62001 12 62024
+R M 0 62000 10 62024
+S
+#62025
+`rLiving Quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D8
+~
+~
+0 0 62016
+R M 0 62001 12 62025
+R M 0 62000 10 62025
+S
+#62026
+`rGuard Room~
+~
+This area looks completely natural with very little smoothing done to the 
+walls or floors.  A large door is on the east wall and an opening leads 
+north. 
+~
+1 1 11
+D0
+~
+~
+0 0 62027
+D1
+~
+~
+1 0 62028
+D3
+~
+~
+0 0 62022
+S
+#62027
+`rArmory~
+~
+`#This room clearly has been created from the rock by mortal hands.  It is 
+almost square and the walls have ledges carved into them.  There are signs 
+of recent use in this room. 
+~
+1 1 11
+D2
+~
+~
+0 0 62026
+S
+#62028
+`rChieftain's Room~
+~
+`#This room has two large doors in it, one to the north and one to the west.  
+On the east wall is a large, low, smooth rock.  In the middle of the 
+southern part of the floor is a `cpuddle`^ with small bubbles breaking the 
+surface. 
+~
+1 1 11
+D0
+~
+~
+33 62000 62039
+D3
+~
+~
+1 0 62026
+D5
+~
+puddle~
+1 0 62029
+R M 0 62010 1 62028
+  R E 0 62001 0 6
+  R E 0 62002 0 5
+  R E 0 62004 0 7
+  R E 0 62003 0 14
+  R E 0 62003 0 15
+  R E 0 62006 0 16
+E
+puddle ~
+Small bubbles break the surface of this so-called puddle occasionally, a 
+clear sign that there is more here than meets the eye. 
+~
+S
+#62029
+`rTreasury~
+~
+This circular room is extremely smooth and completely underwater.  The only 
+thing of note is the chest against the side...oh yes, and the guards 
+attacking you! 
+~
+1 67108865 12
+D4
+~
+~
+1 0 62028
+R M 0 62004 15 62029
+R O 0 62012 0 62029
+  R P 0 2 4 62012
+  R P 0 1 400 62012
+S
+#62030
+`rLiving quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D7
+~
+~
+0 0 62017
+R M 0 62001 12 62030
+R M 0 62000 10 62030
+S
+#62031
+`rLiving quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D1
+~
+~
+0 0 62017
+R M 0 62001 12 62031
+R M 0 62000 10 62031
+S
+#62032
+`rLiving quarters~
+~
+A narrow tunnel leads from the huge central chamber to this small room. It 
+is dug into the wall it seems to make the chamber snug and warm. The lack of 
+air circulation makes it very humid here.  Off to one side is a large, flat 
+slab...it is sort of a cross between a couch and a matress, but made of one 
+solid rock. 
+~
+1 1 11
+D0
+~
+~
+0 0 62016
+R M 0 62000 10 62032
+R M 0 62001 12 62032
+S
+#62033
+`rGathering Room~
+~
+`#This is a large chamber, the walls showing clear signs of having been worked 
+to make it so.  There are recent signs of passage here, about equally to the 
+northeast and southeast.  It seems obvious even to the untrained eye that 
+large number of creatures passed here.  On the north wall there seems to be 
+a pair of `csymbols`^ though they are in no language known to you. 
+~
+1 1 11
+D3
+~
+~
+1 0 62014
+D6
+~
+~
+0 0 62034
+D7
+~
+~
+0 0 62035
+E
+symbols ~
+There are two symbols, one near each exit leading from the east side.  
+Towards the northeast it looks like (_) while towards the southeast it looks 
+like (-) 
+~
+S
+#62034
+`rThe Female Path~
+~
+The floor of this passage, too, has been worn smooth and it shows signs of 
+recent use. It curves smoothly to the east here, too smoothly to be 
+completely natural. 
+~
+1 1 11
+D1
+~
+~
+0 0 62038
+D8
+~
+~
+0 0 62033
+S
+#62035
+`rThe Male Path~
+~
+The floor of this passage, too, has been worn smooth and it shows signs of 
+recent use. It curves smoothly to the east here, too smoothly to be 
+completely natural. 
+~
+1 1 11
+D1
+~
+~
+0 0 62036
+D9
+~
+~
+0 0 62033
+S
+#62036
+`rThe Male Path Continues~
+~
+`#The passage turns sharply here.  To the north, it widens considerably.  
+Along the east wall are many `ccarvings`^. 
+~
+1 1 11
+D0
+~
+~
+0 0 62037
+D3
+~
+~
+0 0 62035
+R M 0 62004 15 62036
+E
+carvings ~
+The rock of the east wall is covered in carvings depicting a hoard of two 
+legged, lizard like creatures waging a battle against dwarves and humans. 
+~
+S
+#62037
+`rThe Meeting Place~
+~
+`#This place is the north - south passage is quite wide, and the floor is 
+almost perfectly smooth.  The only blemish on the floor is a small 
+`cdepression`^ about the size of a large hand, and shaped suspiciously similar.  
+The `ccarvings`^ on the east wall continue and are even more intricate.  There 
+is a large door on the west wall. 
+~
+1 1 11
+D0
+~
+~
+0 0 62038
+D1
+~
+carving~
+1 0 62042
+D2
+~
+~
+0 0 62036
+D3
+~
+~
+1 0 62043
+E
+cracks ~
+Looking closer, these arent cracks at all...they form the outline of a door! 
+
+~
+E
+carvings ~
+`#The east wall is completely covered in carvings of these lizard creatures 
+driving dwarves out of the underground and to the surface.  High up on the 
+wall is a carving of a huge creature, part lizard and part man.  Apparantly, 
+this is their deity as some figures seem to be prone before him in worship.  
+Looking even closer, you can make out faint `ccracks`^ in the wall. 
+~
+E
+depression ~
+A hand shaped depression that seems to be made for a webbed hand. 
+~
+S
+#62038
+`rThe Female Path Continues~
+~
+`#The passage turns sharply here.  To the south, it widens considerably.  
+Along the east wall are many `ccarvings`^. 
+~
+1 1 11
+D2
+~
+~
+0 0 62037
+D3
+~
+~
+0 0 62034
+R M 0 62004 15 62038
+E
+carvings ~
+The rock of the east wall is covered in carvings depicting a hoard of two 
+legged, lizard like creatures waging a battle against dwarves and humans. 
+~
+S
+#62039
+`rBreeding Chamber~
+~
+This chamber has been modified into something of a clover shape with 3 
+slight alcoves off the main part.  In each alcove is a small pool of very 
+warm water.  This seems to be where the Chieftain sees to the continuation 
+of his bloodline. 
+~
+1 1 11
+D2
+~
+~
+33 62000 62028
+R M 0 62001 12 62039
+S
+#62040
+`rGuard Room~
+~
+This chamber seems to have been naturally hollowed out by the flow of water 
+over eons.  There is still a small `cpatch`^ of water on the floor - its black 
+color making the depth impossible to guage.  The walls and floors of this 
+cavity are totally natural and the ceiling drips with stalactites, matching 
+the stalagmites on the floor.  There are dozens of nooks and crannies where 
+things could hide, or be hidden. 
+~
+1 1 11
+D4
+~
+~
+1 0 62043
+D5
+~
+patch~
+1 0 62041
+R M 0 62004 15 62040
+E
+patch ~
+This small puddle of water is so dark and black that you cant tell if it is 
+an inch deep or a mile deep. 
+~
+S
+#62041
+`rThe Egg Chamber~
+~
+This underwater hollow is full of floating globes.  Each is translucent and 
+packed with smaller balls.  Clearly, these are eggs.  Just as clearly, if 
+they are allowed to hatch a new generation of these creatures will be 
+unleashed upon the world. 
+~
+1 1 12
+D4
+~
+~
+1 0 62040
+R M 0 62007 4 62041
+S
+#62042
+`rShaman's Living Chamber~
+~
+This large circular chamber has exit tunnels leading from the northeast and 
+southeast.  The chamber itself is furnished with the bare essentials - at 
+least by human standards.  A stone table and 3 stone stools sit in the 
+middle, while the perimeter is home to 4 low, smooth slabs of rock. 
+~
+1 1 11
+D3
+~
+~
+1 0 62037
+D6
+~
+~
+0 0 62044
+D7
+~
+~
+0 0 62045
+R M 0 62008 1 62042
+S
+#62043
+`rThe Temple`^~
+~
+Carved deep within the rock is a large room. Its erected into some sort of 
+pagan temple. Straight ahead is an altar of sorts stained with blood.  It is 
+a slab of rock supported by truncated stalagmites.  An image of their god is 
+carved right into the rock face of the wall behind the altar.  It is their 
+patron lizard god.  Battle scenes cover the walls, all with the same theme - 
+driving dwarves to the surface. 
+~
+1 1 11
+D1
+~
+~
+1 0 62037
+D5
+~
+altar~
+1 0 62040
+E
+altar ~
+The altar shows clear signs of blood stains - and not all of it is old.  
+However, as your eye slowly wanders over it, you get the feeling it is 
+movable somehow...but where would it lead? 
+~
+S
+#62044
+`rShaman's Sleeping Chamber~
+~
+`#This chamber retains some of its natural characteristics.  Neither floor nor 
+walls appear smoothed at all, though in the back wall there is an `carea`^ that 
+seems to have been hollowed out. 
+~
+1 1 11
+D8
+~
+~
+0 0 62042
+R M 0 62009 2 62044
+E
+area ~
+This space seems dug by hand.  Perhaps a sleeping area for the inhabitant. 
+~
+S
+#62045
+`rShaman's Sleeping Chamber~
+~
+`#This chamber retains much of its natural characteristics.  Both floor nor 
+walls appear unsmoothed by any hand, except for two `careas`^ in the back wall 
+that seems to have been hollowed out. 
+~
+1 1 11
+D9
+~
+~
+0 0 62042
+R M 0 62009 2 62045
+E
+areas ~
+These spaces seem dug by hand.  Perhaps a sleeping area for the inhabitants. 
+
+~
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

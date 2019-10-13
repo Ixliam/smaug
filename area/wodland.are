@@ -1,0 +1,743 @@
+#AREA        Castle of Wod~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#920
+spectral figure guard~
+a spectral guard~
+A spectral figure wearing armor is guarding the passage north.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+90 180 -60 9d13+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#921
+ghost headless wod~
+`#`wthe `WGhost`w of `WWod`^~
+A headless ghost is flickering in and out of existance.
+~
+This is a VERY tall ghost of a troll.  He reaches about 10' but is missing 
+his head.  His biceps and chest are giant he look very built and very 
+strong.  His hands and feet are large even for a troll!  Over all he looks 
+like a big fat idiot, and in real life acted like one as well.  
+ 
+And right now, he is killing you.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#922
+rotting corpe zombie~
+a rotting zombie~
+A rotting zombie is roaming the castle.
+~
+This disgusting creature may once have been a real live human, but now is 
+little more than an undead shell of rotting flesh.  Chunks of flesh are torn 
+out of the body in various place, exposing the bones beneath, and the stench 
+is unbelieveable.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+88 2 -58 9d12+430 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#923
+mysterious elven swordsman~
+an elven swordsman~
+A mysterious elven swordsman is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#920
+coat rack~
+a `#`ycoat`^ rack~
+A broken `#`ywooden`^ coat rack stands here.~
+~
+15 0 8
+0 0 30 40 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#921
+ice stair stairway step elegantly~
+a step of an elegantly carved `#`Ci`Wc`Ce`^ stairway~
+An elegantly carved ice stairway leads up here.~
+~
+12 64 8
+30000 131218 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#922
+portrait angels~
+a portrait of an angel~
+Portraits hang here along the walls, depicting angels.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#923
+portrait demons~
+a portrait of a demon~
+Portraits hang here along the walls, depicting various demons.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#924
+portrait liches~
+a portrait of various liches~
+Portraits of various liches, hangs here on the walls.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#925
+portrait dragons~
+a portrait of dragons~
+Portraits of several dragons is here, hanging on the walls.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#926
+statue wod~
+a crumbled statue of `#`sWod`^~
+A crumbled statue of `#`sWod`^ stands here covered in cobwebs.~
+~
+12 0 8
+5000 65536 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#927
+statue golem~
+a `#`sdecapitated`^ statue of a granite golem with broad shoulders~
+A `#`sdecapitated`^ statue of a granite golem stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#928
+red instruments~
+a `#`Rred`^ intrument~
+Assorted `#`Rred`^ instruments are here, lining the walls and any other available surface.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#929
+table small black~
+a small black table~
+A small black table stands here.~
+~
+15 0 8
+21 0 30 40 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#930
+oak bookshelf shelf~
+an `#`yoak`^ bookshelf~
+A small `#`ybookshelf`^ made of `#`yoak`^ stands here covered in dust.~
+~
+15 0 8
+0 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#931
+rotting bed~
+a rotting bed~
+An old bed covered in mold is rotting here.~
+~
+12 0 8
+1000 1168 -75 -200 0 0 0
+1 9900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#932
+belt of many pouches~
+`#`yBelt of Many `RP`rouches`^~
+`#`yA Belt with Many `RP`rouches`^ is lying here`^.~
+~
+15 64 8
+0 0 500 50 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#920
+Entrance to the Castle~
+~
+The cold and icy pathway leads inside the large castle.  The doors swing on 
+their hinges, broken by an unknown force.  Buried deep in the snow is are 
+the skeletal remains of what appears to be a guard.  
+~
+1 0 0
+D0
+~
+door~
+0 0 921
+R M 0 920 1 920
+S
+#921
+Blasted Ice Room~
+~
+The entire room is made of ice, which appears to have been melted at some 
+point.  Dust covers the floor, with only the small footprints of rats and 
+your own in it.  The remains of a broken chair lie in the corner, and a 
+large iron door lies to the north.  
+~
+1 9 0
+D0
+~
+door~
+1 0 922
+D2
+~
+~
+0 0 920
+R O 0 920 0 921
+R O 0 719 0 921
+S
+#922
+Icy Welcome Room~
+~
+A large stain of ancient blood covers the entire floor.  A couch sits in the 
+center of the room, the cushions destroyed by decay and time.  There is a 
+chill in the air as the entire room appears to have been carved from solid 
+ice.  
+~
+1 8 0
+D0
+~
+~
+0 0 924
+D1
+~
+~
+0 0 923
+D2
+~
+~
+1 0 921
+D3
+~
+~
+0 0 925
+R M 0 922 20 922
+S
+#923
+`#`BBlue Base`^~
+~
+This room is COMPLETLY blue. There isn't anything in this room but the blue 
+stairs look interesting. The stairs lead up and there are open doors to the 
+north and west. 
+~
+1 0 0
+D0
+~
+~
+0 0 926
+D3
+~
+~
+0 0 922
+D4
+~
+~
+0 0 927
+S
+#924
+Landing~
+~
+This room has one noticable part about it and it is the elegantly carved 
+stairs.  They lead up to the Master's bedroom.  There are also the open 
+exits of north, south, east and west.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 931
+D1
+~
+~
+0 0 926
+D2
+~
+~
+0 0 922
+D3
+~
+~
+0 0 928
+D4
+~
+~
+0 0 930
+R M 0 921 1 924
+  R E 0 21 0 0
+  R E 0 7346 0 8
+  R E 0 12009 0 5
+  R E 0 12036 0 18
+  R E 0 29600 0 16
+  R E 0 685 0 19
+R O 0 921 0 924
+S
+#925
+`#`GGreen Base`^~
+~
+This room is COMPLETLY green. There isn't anything in this room but the 
+green stairs look interesting. The stairs lead up and there are open doors 
+to the north and east. 
+~
+1 0 0
+D0
+~
+~
+0 0 928
+D1
+~
+~
+0 0 922
+D4
+~
+~
+0 0 929
+S
+#926
+Room of Angels~
+~
+This is a beautiful room when you enter you notice a sad music playing in 
+the air but you do not see any instruments or people to play them. This room 
+has many portraits of angels and the people they were before they became 
+angels. the exits you see are to the north, south and west. 
+~
+1 0 0
+D0
+~
+~
+0 0 935
+D2
+~
+~
+0 0 923
+D3
+~
+~
+0 0 924
+R O 0 922 0 926
+S
+#927
+`#`BBlue look out Tower`^~
+~
+This is a small tower that can see all for not such a large area but it can see on coming people or creatures before it makes it to the entry. the only exit in this room is down
+~
+1 0 0
+D5
+~
+~
+0 0 923
+S
+#928
+Room of Demons~
+~
+This is a beautiful room when you enter you notice a sad music playing in the air but you do not see any instruments or people to play them. This room has many portraits of demons and the people they were before they became the wicked form they are known as now. the exits you see are to the north, south and east.
+~
+1 0 0
+D0
+~
+~
+0 0 932
+D1
+~
+~
+0 0 924
+D2
+~
+~
+0 0 925
+R O 0 923 0 928
+S
+#929
+`#`GGreen look out Tower`^~
+~
+This is a small tower that can see all for not such a large area but it can 
+see on coming people or creatures before it makes it to the entry. the only 
+exit in this room is down. 
+~
+1 0 0
+D5
+~
+~
+0 0 925
+R M 0 922 20 929
+S
+#930
+Master Wod's Bedroom~
+~
+This is the most wonderul room in the whole castle! It is very warm and 
+there is a black stone end table right beside...the BIGGEST bed you ever 
+have seen! The exits are north and down. 
+~
+1 0 0
+D0
+~
+~
+0 0 939
+D5
+~
+~
+0 0 924
+R O 0 931 0 930
+R O 0 929 0 930
+  R P 0 2000 3 929
+S
+#931
+Passage Way~
+~
+There is nothing specail about this room at all. It simply leads to the 
+north, south, east, and west. 
+~
+1 0 0
+D0
+~
+~
+0 0 937
+D1
+~
+~
+0 0 935
+D2
+~
+~
+0 0 924
+D3
+~
+~
+0 0 932
+S
+#932
+Room of Liches~
+~
+This is a beautiful room when you enter you notice a sad music playing in 
+the air but you do not see any instruments or people to play them. This room 
+has many portraits of lichs and the people they were before they became the 
+horrifying twisted beings that can scare the life out of you. the exits you 
+see are to the north, south and west. 
+~
+1 0 0
+D0
+~
+~
+0 0 933
+D1
+~
+~
+0 0 931
+D2
+~
+~
+0 0 928
+R O 0 924 0 932
+S
+#933
+`#`RRed Base`^~
+~
+This room is COMPLETLY red. There isn't anything in this room but the red 
+stairs look interesting. The stairs lead up and there are open doors to the 
+south and east. 
+~
+1 0 0
+D1
+~
+~
+0 0 937
+D2
+~
+~
+0 0 932
+D4
+~
+~
+0 0 934
+S
+#934
+`#`RRed Music Room`^~
+~
+This is a small red room.  There are instruments floating in midair playing 
+themselves!  It appears that this is the room where all the sad sounding 
+music is coming from.  The only exit is down.  
+~
+1 0 0
+D5
+~
+~
+0 0 933
+R M 0 922 20 934
+R O 0 928 0 934
+S
+#935
+Room of Dragons~
+~
+This is a beautiful room when you enter you notice a sad music playing in 
+the air but you do not see any instruments or people to play them. This room 
+has many portraits of dragons and the people they were before they became 
+the massive creature that dragons are. the exits you see are to the north, 
+south and west. 
+~
+1 0 0
+D0
+~
+~
+0 0 936
+D2
+~
+~
+0 0 926
+D3
+~
+~
+0 0 931
+R O 0 925 0 935
+S
+#936
+`#`WWhite Base`^~
+~
+This room is COMPLETLY ice white. There isn't anything in this room but the 
+white ice stairs look interesting. The stairs lead up and there are open 
+doors to the south and west. 
+~
+1 0 0
+D2
+~
+~
+0 0 935
+D3
+~
+~
+0 0 937
+D4
+~
+~
+0 0 938
+R O 0 927 0 936
+S
+#937
+Room of Golems~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 936
+D2
+~
+~
+0 0 931
+D3
+~
+~
+0 0 933
+R M 0 922 20 937
+R O 0 926 0 937
+S
+#938
+`#`WWhite Library`^~
+~
+This is a small library...  A place to work or study or even write a few 
+notes.  It is so small all that can fit beside you is the bookshelf leaning 
+against the wall.  The only exit in this room leads down.  
+~
+1 0 0
+D5
+~
+~
+0 0 936
+R M 0 922 20 938
+R O 0 930 0 938
+S
+#939
+Personal Bathroom~
+~
+This is a large bathroom with a big fountain in the centre of the room and a 
+shining marble toilet near the corner. the only exit is off to the south. 
+~
+1 0 0
+D2
+~
+~
+0 0 930
+R O 0 6135 0 939
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

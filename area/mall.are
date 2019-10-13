@@ -1,0 +1,2759 @@
+#AREA        Stupid World: Midgaard Mall~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#5500
+kate~
+kate~
+Kate, the owner of Kate's Kountry Krap, busily arranges a display.
+~
+Kate looks at you suspiciously; you don't seem like you have much use for
+her doilies.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+200 0 -20 50d10+4000 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5501
+walker woman~
+a mall walker~
+A middle-aged woman is power-walking around the mall.
+~
+The mall walker impatiently brushes you aside.  She has more important
+things to do, like walk around the mall.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+15 12 -2 3d9+208 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5502
+mall rat kid teen youth~
+a mall rat~
+A teenage mall rat lounges here.
+~
+The mall rat ignores you.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+13 0 -1 2d10+170 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5503
+guard cop rent-a-cop pig~
+the Rent-A-Cop~
+A Rent-A-Cop stands here, trying to look intimidating.
+~
+The Rent-A-Cop glares accusingly at you.  "Aren't you banished from this mall?"
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+25 1 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5504
+rat teen youth~
+a mall rat~
+A teenage mall rat lounges here.
+~
+The mall rat sneers at you.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d10+160 1d9+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5505
+rat teen youth~
+a mall rat~
+A teenage mall rat lounges here.
+~
+The mall rat sneers at you.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+14 0 0 2d10+170 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5506
+kid toddler child~
+a small child~
+A small child is about to throw a temper tantrum.
+~
+Your presence is only exacerbating the small child's temper tantrum.  Why
+don't you put the rest of the mall out of its misery?  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+8 0 3 2d7+96 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5507
+mother~
+the mother~
+A frazzled mother is about to lose her patience.
+~
+The harried young mother has about 47 more things to buy at the mall
+before her 2-year-old explodes into a full fledged temper tantrum.  It
+doesn't look like she'll get it all done.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d10+150 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5508
+santa claus~
+santa Claus~
+Santa Claus is here, listening to endless lines of children ask for automatic weapons.
+~
+Santa Claus sits on his chair at the North Pole with a small child on his
+lap, chuckling and looking jolly.  When you look closer, you can see just
+how jolly he really is....  
+~
+0
+clanname none~
+0
+0
+65 4096 -600 C
+113 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5509
+bunny rabbit~
+the Easter Bunny~
+The Easter Bunny is here distributing chocolate eggs.
+~
+The Easter Bunny sits in a nest of shiny plastic grass, giving cocoa
+treats to the little kids who come and sit on his lap.  
+~
+0
+clanname none~
+0
+0
+65 4096 0 C
+113 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5510
+elf~
+santa's Elf~
+One of Santa's Elves stands here
+~
+You can tell that this disgruntled Elf isn't getting paid much beyond
+minimum wage.  
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5511
+cosmetologist~
+a cosmetologist~
+A recent graduate of La James College of Cosmetology stands here.
+~
+The cosmetologist manages to look cheerful and vapid, at the same time! 
+All that tuition must have been worth it.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5512
+clerk cashier~
+a sales clerk~
+A cashier is ready to ring up your purchase
+~
+The sales clerk looks bored waiting for you to buy something.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5513
+foot warrior~
+a footwarrior~
+A footwarrior is limping here
+~
+The footwarrior bellows at you.
+"Do not panic! Lay down your arms! We just want you to relax and enjoy your
+shoes!"
+~
+0
+clanname none~
+0
+0
+3 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5514
+faceless counter slave~
+a faceless counter slave~
+A faceless counter slave is ready to serve you.
+~
+The faceless counter slave stares listlessly at you and asks "Can I help you?"
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+200 200 -126 401d66+8081 66d3+105
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5515
+usher~
+the usher~
+An usher is here, keeping the audience in line.
+~
+The usher is too busy staring and drooling at what's happening in the
+back row to pay attention to you.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5516
+hig hurtenflurst~
+hig Hurtenflurst~
+Hig Hurtenflurst happens to be a young rising executive in the Dolmansaxlil Shoe Corporation.
+~
+Hig Hurtenflurst is wearing a startlingly sensible pair of shoes.  You 
+wonder how high he had to climb in the ranks of the Dolmansaxlil Galactic 
+Shoe Corporation to get them.  
+~
+0
+clanname none~
+0
+0
+65 512 -200 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5517
+faceless counter slave~
+a faceless counter slave~
+A faceless counter slave is ready to serve you.
+~
+The counter slave looks at you listlessly and asks "Can I help you?"
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+200 200 -126 401d66+8081 66d3+105
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5518
+Barthez goalie~
+barthez~
+Emmanuel Barthez is here, running register.
+~
+Barthez apparently needs something to do in the years between World Cups,
+so he's working here.  Noticing your stare, he begins bouncing a cheap
+soccer ball on his head.  It could be either a threat, or a mating dance.  
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+200 0 -20 5d10+4500 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5519
+team bleus French soccer~
+les Bleus~
+The rest of the French soccer team is here, too.
+~
+The team seems to be down on their luck after their latest staggering
+defeat, and they're all waiting for Barthez to start handing out free
+soccer balls.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5520
+faceless counter slave~
+a faceless counter slave~
+A faceless counter slave is here, ready to serve you.
+~
+The faceless counter slave stares at a point just beyond your head and
+asks "Can I help you?"  
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+200 200 -126 401d66+8081 66d3+105
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5521
+slave~
+a faceless counter slave~
+A faceless counter slave is here, ready to serve you.
+~
+The faceless counter slave stares at a point just beyond your head and
+asks "Can I help you?"  
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+200 0 -14 25d10+2250 3d12+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5522
+nerd~
+a nerd~
+A nerd is drooling at the shelves of circuit boards.
+~
+The nerd glances back at you, stutters, and runs off to the back to look at
+crystal radio kits.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+36 0 -12 5d6+215 3d10+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5523
+boy~
+a little boy~
+A little boy is here, peeing.
+~
+This kid is in every single bathroom you've ever visited, and it's
+starting to creep you out.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+11 0 0 2d8+134 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5524
+bum~
+a bum~
+A bum is here, searching the trash for returnable bottles.
+~
+Aside from a scraggly beard and a layer of dirt, this bum is in pretty
+good condition, complete with a full set of teeth!  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d10+150 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5525
+pants pile~
+a pile of pants~
+A jumbled pile of khaki pants is going to need some serious ironing.
+~
+Some poor clerk must have gotten a little lazy; a large pile of pants is on the
+floor in the back of the mens department.  It looks large enough to suffocate
+anyone who tries to clean it up...
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5526
+father~
+the father~
+The father of the small child looks lost.
+~
+Between quelling his child's temper tantrums and trying to find what he
+came for, this poor man has no time to deal with you.  
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+12 0 0 2d10+150 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5527
+carjacker~
+a carjacker~
+A carjacker stands here, diligently working on the lock of your car.
+~
+This carjacker obviously isn't the most experienced, or he wouldn't be 
+standing here with you right next to him.  
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5528
+short shady pickpocket~
+a small shady pickpocket~
+A short shady figure wanders about, bumping into people.
+~
+This shady character slinks in and out of the limited light within the mall, 
+picking pockets for easy money.  
+~
+0
+clanname none~
+0
+0
+129 65536 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5529
+expert electronics~
+an electronics expert~
+An electronics expert stands here, ready to answer your questions.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5530
+a hair stylist~
+a short blonde hair stylist~
+A short blonde hair stylist is here, doing well... hair.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5531
+sexy brunette sales representative~
+a sexy brunette sales representative~
+A sexy brunette sales representative stands here, trying to get you to buy things.
+~
+This sexy brunette will do just about anything to get you to buy the 
+merchandise in the shop.  Slim sexy legs streaming down from her perfect 
+figure are quite noticeable due to the leather shorts she's wearing. 
+~
+0
+clanname none~
+0
+0
+65 4096 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5532
+short book lady~
+a short book lady~
+A short book lady stands here, waiting to assist you.
+~
+This short book lady is quite knowledgable, quite comparable to many her senior.
+~
+0
+clanname none~
+0
+0
+65 4096 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5533
+short sexy redhead~
+a short sexy `#`Rredhead`^~
+A short sexy `#`Rredhead`^ waits at the counter to sell you something.
+~
+This short redhead is one hot number! Long red hair flows seemlessly from 
+her head, complimented by her sparkling baby blue eyes.  An hourglass shape 
+completes the picture, her tight clothing showing every last bit of curves. 
+~
+0
+clanname none~
+0
+0
+65 4096 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5534
+pet turtle snapping~
+a snapping turtle~
+A snapping turtle is here.
+~
+This turtle's head is large, with strong jaws and two barbels on the chin. 
+The carapace is of a light brown shade,  the underside is of a yellowish 
+cream texture with a few dark markings.  Brown skin coats this terror, with 
+legs that are heavily scaled, flowing into a mix of webbed feet with long 
+claws.  The tail contains three rows of scales, making it easy to identify. `1 
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5535
+pet ferret~
+a slinky ferret~
+A ferret is here.
+~
+A long slinky ferret is before you.  Short baby ears peek out of its head, 
+flowing seemlessly into the fur coat that covers its body.  Long 
+brownish-black claws can be seen from time to time, making it good for 
+climbing. A thin elongated tail completes it, firmly attached and able to 
+attack. 
+~
+0
+clanname none~
+0
+0
+3 512 0 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5536
+pet pit viper~
+a pit viper~
+A pit viper is here.
+~
+Huge in length with thick green scales, this pit viper isn't one to toy 
+with.  A narrow enlongated sloping jawline accents this vipers bright white 
+teeth. Hoods folded into the sides of its head blend in, meshing with the 
+rest of it until provoked. 
+~
+0
+clanname none~
+0
+0
+3 32768 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5537
+dracon undead~
+an undead dracon~
+A strange animal is here, it is part horse and part dragon.
+~
+A pitch black dracon is here.  It upper torso is the head and neck of a 
+dragon, its lower torso is that of a horse.  It holds itself proudly with 
+its mouth twisted in a sneer.  Dark black horse like legs support a shorter 
+than normal dragon shaped neck, gleaming teeth show.  Claw like hands 
+protrude from its front torso making it look all the more horrible. 
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+89 0 -59 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5538
+riding lizard~
+a riding lizard~
+A riding lizard stands here, awaiting its master.
+~
+Before you is a large lizard. Mottled skin of green and black covers its 
+body from head to toe. A long, pointed tail extends from its body, and its 
+feet end in large sticky toe-pads. 
+~
+0
+clanname none~
+0
+0
+65 32768 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#5500
+lace doily~
+a lace doily~
+A lace doily MUST have some useful purpose...~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5501
+basket~
+a small wicker basket~
+A small wicker basket filled with potpourri sits here.~
+~
+15 0 8
+5 -1 10 0 0 0 0
+1 320 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5502
+basket wicker large~
+a large wicker basket~
+A large wicker basket full of dried flowers sits here.~
+~
+15 0 8
+5 -1 20 0 0 0 0
+1 450 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5503
+broken egg~
+a broken easter egg~
+A broken easter egg lies here.~
+~
+5 64 4
+2 135 170 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5503 broken egg~
+It looks like this egg used to be painted with cute pink bunnies.~
+#5504
+small knife~
+a small knife~
+A small shiny knife lies here.~
+~
+5 0 4
+2 14 24 0 0 0 0
+1 90 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5505
+glowing ball fire~
+a glowing ball of `#`Rf`ri`Rr`re`^~
+A glowing ball of fire lies here.~
+~
+1 1 1
+0 100 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5505 lighter zippo~
+This Zippo lighter is engraved with the initials MJB~
+#5506
+pair scissors~
+a pair of scissors~
+A pair of specialized trimming scissors lies here.~
+~
+5 0 4
+2 46 59 0 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5507
+directory~
+the Directory~
+A directory stands in the middle of the floor.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5507 directory~
+The mall directory lists the stores that were in the mall when it opened, but it
+hasn't been changed since.  You briefly debate trying to find Fred's Fine Flints,
+or Hand Axes Galore, but then decide against it.
+There is a small inscription at the bottom.~
+E
+5507 inscription~
+Welcome to the Midgaard Mall!
+This area was written by Lady Ebola during a fit of procrastination.  As a
+result, she failed to write several scholarship application essays, and is going
+to be up to her ears in student loans, so you'd better appreciate it.~
+#5508
+ray~
+Shoe Shop Intensifier Ray~
+A Dolmansaxlil Shoe Shop Intensifier Ray squats here.~
+~
+8 16 8
+0 0 0 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5508 intensifier ray~
+The Shoe Shop Intensifier Ray is designed to exponentially increase the demand
+for shoes until a civilization passes the Shoe Event Horizon, at which point
+there will be nothing left but shoe shops and civilization will collapse.~
+#5509
+uncomfortable shoes~
+uncomfortable shoes~
+A pair of uncomfortable, highly fashionable shoes sits here.~
+~
+9 0 8
+60 60 0 2 0 0 0
+1 25 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5510
+coffee cup~
+a cup of coffee~
+A fresh cup of coffee is cooling down rapidly.~
+~
+17 0 16
+1 12 0 0 0 0 0
+1 5 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5511
+coffee mocha~
+a double mocha~
+A double mocha sits here.~
+~
+17 0 16
+2 12 0 0 0 0 0
+1 14 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5512
+soda~
+an almond italian soda~
+An almond flavored Italian soda sits here.~
+~
+17 0 16
+2 15 0 0 0 0 0
+1 12 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5513
+espresso~
+an espresso~
+A shot of espresso sits here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 550 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5514
+pastry turnover~
+an apple turnover~
+An apple turnover looks scrumptious.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5515
+sensible shoes~
+sensible shoes~
+A pair of startlingly sensible shoes is here.~
+~
+9 0 8
+55 55 14 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5516
+espresso~
+a double espresso~
+A double espresso sits here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5517
+sandwich sub~
+a turkey sandwich~
+A six-inch turkey sub sits here.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 11 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5518
+cheese sandwich~
+a cheese sandwich~
+A six-inch cheese sub sits here~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 13 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5519
+cookie~
+a monster cookie~
+A monster cookie rests here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 2000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+5519 monster~
+Never confuse a monster cookie with the Cookie Monster.~
+E
+5519 cookie~
+These cookies sure changed when they started making blue M&Ms.~
+#5520
+cookie~
+a fortune cookie~
+A fortune cookie is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 490 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+5520 fortune cookie~
+The fortune reads "You love Chinese food."~
+#5521
+noodles lo mein~
+vegetable lo mein~
+Some vegetable lo mein rests here.~
+~
+19 0 16
+7 0 0 0 0 0 0
+1 15 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5522
+meatlike bean burrito~
+a meatlike bean burrito~
+An "El Grande" Meatlike Bean Burrito rests here.~
+~
+19 0 16
+3 0 1 0 0 0 0
+1 128 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5523
+guards~
+shin guards~
+A pair of shin guards rests here.~
+~
+9 64 8
+30 30 2 1 0 0 0
+1 190 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5524
+glasses thick~
+really thick glasses~
+A pair of really thick glasses has been repaired with duct tape.~
+~
+9 0 8
+30 30 0 1 0 0 0
+1 20 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5525
+your car~
+your car~
+You finally found it!  It's your car!~
+~
+12 0 8
+1000 35104 120 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5526
+ball~
+a ball~
+A cheap ball lies here, collecting dust.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 60 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5527
+fountain~
+a water fountain~
+A drinking fountain is mounted at the exactly wrong height.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5528
+can trash~
+a trash can~
+A trash can has already been looted by the local bums.~
+~
+12 0 8
+1000 18720 130 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5528 trash can~
+This is your classic brownish sort of trash can, complete with useless square
+hinged lid that has been upturned by some ambitious bum looking for returnable
+bottles.~
+#5529
+bottle~
+a returnable bottle~
+You could get a nickel for this returnable bottle.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+5529 bottle~
+Apparently, this bottle once contained Orc Cola.~
+#5530
+pants~
+casual cotton pants~
+A pair of tailored cotton pants is suitable for both home and office!~
+~
+9 0 8
+20 20 2 1 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5531
+rice~
+fried rice~
+A small takeout container is full of fried rice.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 21 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5532
+chopsticks~
+chopsticks~
+A pair of cheap wooden chopsticks is here.~
+~
+5 0 4
+2 135 170 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5533
+bed waterbed display~
+a waterbed~
+A display with padded rails and a flowery quilt looks particularly inviting.~
+~
+12 0 8
+1000 1168 110 110 0 0 0
+29 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5534
+festive hat~
+a `#`Rf`Ge`Rs`Gt`Ri`Gv`Re`^ hat~
+A festive hat lies here, waiting to be worn.~
+~
+9 0 8
+60 60 3 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5545
+spicy nachos~
+a plate of `#`Rspicy`^ nachos~
+A plate of `#`Rspicy`^ nachos sits here, waiting to be eaten.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5546
+coke cup~
+a cup of `#`Rcoke`^~
+A cup of `#`Rcoke`^ sits here, collecting dust.~
+~
+17 0 16
+9 15 0 0 0 0 0
+1 20 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5547
+sub footlong~
+a footlong sub~
+A footlong sub wrapped in paper sits here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 26000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5548
+crowbar bar rusted~
+a rusted `#`Scrowbar`^~
+A rusted jimmy stick used to break into cars rests here.~
+~
+5 0 4
+6 89 118 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5549
+blonde wig~
+a `#`Yblonde`^ wig~
+A blonde wig lies here, waiting to be worn.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5550
+brown wig~
+a `#`ybrown`^ wig~
+A brown wig lies here, waiting to be worn.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5551
+black wig~
+a `#`sblack`^ wig~
+A black wig lies here, waiting to be worn~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5552
+wig red~
+a `#`Rred`^ wig~
+A red wig lies here, waiting to be worn.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5553
+eyes blue~
+`#`Bblue`^ eyes~
+A pair of eyes lies here, obviously discarded.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5554
+green eyes~
+`#`ggreen`^ eyes~
+A set of eyes lies here, obviously discarded.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5555
+brown eyes~
+`#`ybrown`^ eyes~
+A pair of eyes lies here, obviously discarded.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5556
+black eyes~
+`#`sblack`^ eyes~
+A pair of eyes lies here, obviously discarded.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5557
+lavender eyes~
+`#`Mlavender`^ eyes~
+A pair of eyes lies here, obviously discarded.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5558
+shoes walking~
+a pair of walking shoes~
+A pair of walking shoes lies here collecting dust.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 390 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5559
+shoes jogging~
+a pair of jogging shoes~
+A pair of jogging shoes lies here, obviously forgotten.~
+~
+9 0 8
+5 5 6 0 0 0 0
+1 4900 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5560
+wicked pair sprinting shoes~
+a `#`Rw`ri`Rc`rk`Re`rd`^ pair of sprinting shoes~
+A wicked pair of sprinting shoes lies here, obviously forgotten.~
+~
+9 0 8
+10 10 8 0 0 0 0
+1 55000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5561
+pair sprinting shoes~
+a pair of `#`Gs`gp`Gr`gi`Gn`gt`Gi`gn`Gg`^ shoes~
+A pair of sprinting shoes lies here, obviously forgotten.~
+~
+9 0 8
+5 5 7 0 0 0 0
+1 19000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5562
+shorts brightly colored~
+`#`Yb`Rr`Yi`Rg`Yh`Rt`Yl`Ry`^ colored shorts~
+A pair of `#`Yb`Rr`Yi`Rg`Yh`Rt`Yl`Ry`^ colored shorts lies here, waiting to be worn.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 890 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5563
+striped zebra shirt~
+a `#`ss`Wt`sr`Wi`sp`We`sd `Wz`se`Wb`sr`Wa`^ shirt~
+A `#`ss`Wt`sr`Wi`sp`We`sd `Wz`se`Wb`sr`Wa`^ shirt lies here, collecting dust.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 950 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5564
+toga~
+a toga~
+A toga lies here, apparently removed after a party.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 1300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5565
+plush comfy chair~
+a plush comfy chair~
+A plush comfy chair~
+~
+12 0 8
+300 2338 0 0 0 0 0
+2 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5566
+soft comfy couch~
+a soft comfy couch~
+A soft comfy couch~
+~
+12 0 8
+1200 1170 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5567
+vampire novel~
+a vampire novel~
+A vampire novel lies here, obviously misplaced.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 442 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5568
+werewolf novel~
+a werewolf novel~
+A werewolf novel lies here, obviously misplaced.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 442 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5569
+book supernatural~
+a book about the supernatural~
+A book about the supernatural lies here, obviously misplaced.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 442 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#5500
+Kate's Kountry Krap~
+~
+This tiny store is filled with wicker baskets, lace doilies, and adorable
+figurines of mice wearing bonnets.  A large pile of old ladies is in the far
+corner, fighting over some beanie babies.  
+~
+1 8 0
+D2
+~
+~
+0 -1 5517
+R M 0 5500 1 5500
+  R G 0 5502 0
+  R G 0 5501 0
+  R G 0 5500 0
+E
+pile old ladies~
+With a decisive WHACK! of her cane, one of the old ladies emerges from the pile
+clutching Eddie the Ebola-infested Monkey.~
+S
+#5501
+Parking Lot~
+~
+Squinting against the glare of a thousand windshields, you wonder how
+anyone can find their car in this mass of automotive conformity.  A manhole
+is set into the pavement here.  
+~
+1 0 1
+D0
+~
+~
+0 -1 5517
+D1
+~
+~
+0 -1 5531
+D2
+~
+~
+0 -1 5528
+D3
+~
+~
+0 -1 5532
+R M 0 5506 6 5501
+R M 0 5507 6 5501
+E
+manhole~
+NEENAH FOUNDRY CO.
+   NEENAH, WIS.~
+S
+#5502
+Inside the Mall~
+~
+The echoing buzz of stressed-out shoppers and screaming children
+threatens to drown out the subliminal messages in the music.  Aberstupid &
+Rich lies to the north, and La Moche Femme is to the south.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5503
+D1
+~
+~
+0 -1 5517
+D2
+~
+~
+0 -1 5504
+D3
+~
+~
+0 -1 5505
+R M 0 5502 6 5502
+  R E 0 5505 0 0
+E
+subliminal message~
+Shoplifting is evil and causes impotence.  Please pay for your purchases --
+twice.
+--The Mgt.~
+S
+#5503
+Aberstupid & Rich~
+~
+A small army of mallrats is browsing through the racks, harrassing little 
+children.  Unattentive parents wander about aimlessly, letting their little 
+children raise hell. 
+~
+1 8 0
+D2
+~
+~
+0 -1 5502
+R M 0 5504 6 5503
+  R E 0 5504 0 16
+R M 0 5531 1 5503
+  R G 0 5562 0
+  R G 0 5563 0
+  R G 0 5564 0
+S
+#5504
+La Moche Femme~
+~
+As you walk into this trendy salon, the stinking miasma of nail polish,
+ultra-strength hairspray and Endangered Botanicals brand shampoo almost
+makes you vomit.  The December, 1982 issue of Pedicures Today sits in the
+magazine rack, awaiting your perusal.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5502
+R M 0 5511 2 5504
+  R E 0 5506 0 16
+R M 0 5530 1 5504
+  R G 0 5549 0
+  R G 0 5550 0
+  R G 0 5551 0
+  R G 0 5552 0
+  R G 0 5553 0
+  R G 0 5554 0
+  R G 0 5555 0
+  R G 0 5556 0
+  R G 0 5557 0
+E
+magazine pedicures~
+As you flip idly through the magazine, your attention is drawn by a
+heart-warming story about woman who marries her pedicurist and later
+develops severe bunions.  He almost leaves her then for a young blonde
+hairdresser, but a wise marriage counselor is able to restore their
+relationship.  You put the magazine down with renewed faith in humanity.  
+~
+S
+#5505
+Inside the Mall~
+~
+The mall is decorated in nauseating pastel, carefully calculated to make
+you feel at ease and ready to spend.  The Dolmansaxlil Shoe Corporation lies
+to the north, and a bookstore is to the south.  To the west you can hear the
+frightened shrieks of little kids visiting the Easter Bunny.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5506
+D1
+~
+~
+0 -1 5502
+D2
+~
+~
+0 -1 5507
+D3
+~
+~
+0 -1 5508
+R M 0 5502 1 5505
+  R E 0 5505 0 0
+R M 0 5528 1 5505
+R O 0 5528 0 5505
+S
+#5506
+Dolmansaxlil Shoe Shop~
+~
+This is the latest outpost of the Dolmansaxlil Galactic Shoe Corporation, an 
+entity which has been widely criticized for its aggressive marketing 
+practices.  The shelves are filled with a bewildering variety of shoes, none 
+of which fit quite right.  
+~
+1 8 0
+D2
+~
+~
+0 -1 5505
+D5
+~
+~
+0 -1 5516
+R M 0 5513 1 5506
+  R E 0 5509 0 8
+  R G 0 5560 0
+  R G 0 5561 0
+  R G 0 5559 0
+  R G 0 5558 0
+E
+shoes~
+They are very stylish and fashion conscious!  Stop staring, and buy some
+shoes! Enjoy them!~
+S
+#5507
+Barnes and Ignoble~
+~
+Soothing New Age music and the smell of ink permeate the air here. People 
+stand in the aisles reading books they have no intention of purchasing, and 
+stand in long lines to purchase books they have no intention of reading.  A 
+small coffee shop is to the east.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5505
+D1
+~
+~
+0 -1 5518
+R O 0 5565 0 5507
+R O 0 5566 0 5507
+R M 0 5532 1 5507
+  R G 0 5569 0
+  R G 0 5567 0
+  R G 0 5568 0
+S
+#5508
+The Easter Bunny~
+~
+Quaint pastel scenery decorates this area of the mall, depicting cute
+little farm animals, smiling children, and grotesquely decorated eggs.  A
+large pink throne is set up in the middle, surrounded by lines of impatient
+children.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5526
+D1
+~
+~
+0 -1 5505
+D2
+~
+~
+0 -1 5527
+D3
+~
+~
+0 -1 5525
+R M 0 5509 1 5508
+  R E 0 5503 0 16
+R M 0 5506 6 5508
+R M 0 5507 6 5508
+R M 0 5526 6 5508
+S
+#5509
+Inside the Mall~
+~
+The vast expanse of ceiling tile in this part of the wall has been broken
+by a mural, which seems to be completely ignored by all the shoppers below. 
+Wombat Waterbeds is to the north, and the Midgaard Cinema is to the south.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5510
+D1
+~
+~
+0 -1 5511
+D2
+~
+~
+0 -1 5512
+D3
+~
+~
+0 -1 5517
+R M 0 5528 1 5509
+R M 0 5507 1 5509
+R M 0 5503 12 5509
+E
+mural~
+A wonderful agricultural scene depicts a farmer sitting on his tractor, waving to
+the brave adventurers below.  His face was originally a portrait of the Mayor,
+but has been obscured by layers of graffiti plugging the author's website.~
+E
+graffiti~
+The graffiti is completely illegible - looks like a hosting problem.~
+S
+#5510
+Wombat Waterbeds.~
+~
+Large, comfy-looking displays are scattered about the floor of Wombat
+Waterbeds, your source for esoteric bed accessories!  
+~
+1 8 0
+D2
+~
+~
+0 -1 5509
+R O 0 5533 0 5510
+S
+#5511
+Inside the Mall~
+~
+The obnoxious music is really getting annoying now, but the people here
+seem to be enjoying, or at least tolerating it.  A shop full of shiny
+gadgets that don't do anything is north, and Microwave Shack is to the
+south.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5513
+D1
+~
+~
+0 -1 5515
+D2
+~
+~
+0 -1 5514
+D3
+~
+~
+0 -1 5509
+R M 0 5501 6 5511
+S
+#5512
+Midgaard Cinema~
+~
+The lobby of the Midgaard Cinema is covered in posters advertising the
+latest films.  The three screens of the cinema are to the west, south, and
+east.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5509
+D1
+~
+~
+0 -1 5521
+D2
+~
+~
+0 -1 5520
+D3
+~
+~
+0 -1 5519
+E
+posters~
+The coming attraction seems to be "The Mayor of Midgaard," a comic tale about a
+young man who dreams of one day holding the key to the Western Gates. It stars
+teenage heartthrob and 15th century Florentine banker Cosmo de' Medici.~
+S
+#5513
+Shiny Things Unlimited~
+~
+A bewildering array of shiny junk jewelry and scented candles crowds the
+walls of this tiny shop.  
+~
+1 8 0
+D2
+~
+~
+0 -1 5511
+S
+#5514
+Microwave Shack~
+~
+Obscure electronics parts, telephones and alarm clock radios are
+scattered randomly throughout the store.  You can hardly move in here
+without running into something that glows and makes strange beeping noises
+when you touch it.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5511
+R M 0 5529 1 5514
+R M 0 5522 1 5514
+  R E 0 5524 0 6
+S
+#5515
+The North Pole~
+~
+Cotton batting is strewn about the floor here, imitating snow.  A big,
+red and white striped barber pole is standing in the middle of the room
+bearing a sign, right next to a large red chair.  Small children are
+everywhere.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5523
+D1
+~
+~
+0 -1 5522
+D2
+~
+~
+0 -1 5524
+D3
+~
+~
+0 -1 5511
+R M 0 5508 1 5515
+  R E 0 5534 0 6
+R M 0 5510 2 5515
+R M 0 5506 6 5515
+R M 0 5507 6 5515
+R M 0 5526 6 5515
+E
+sign~
+The sign is endearingly painted in a small child's handwriting, complete with the
+traditional backwards "e"
+It says:  "North Pole"~
+S
+#5516
+Shoe Storage Room~
+~
+This musty basement is the office of the Midgaard division of the
+Dolmansaxlil Galactic Shoe Corporation.  
+~
+1 9 0
+D4
+~
+door trap~
+0 -1 5506
+R M 0 5516 1 5516
+  R E 0 5515 0 8
+S
+#5517
+Mall Entrance~
+~
+The entrance to the mall is composed of lofty arches and skylights,
+giving the impression of calm and spaciousness.  This atmosphere is somewhat
+undermined by the PA system blaring hits of the past three decades, combined
+with the shrieks of small children.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5500
+D1
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5501
+D3
+~
+~
+0 -1 5502
+R M 0 5506 6 5517
+R M 0 5507 6 5517
+S
+#5518
+Barnes and Ignoble Coffee Shop~
+~
+Behind the counter are tempting racks of pastries and an impressive array
+of polished steel machines, most of which look like coffeemakers.  A couple,
+though, bear a disquieting resemblance to medieval torture devices.  
+~
+1 8 0
+D3
+~
+~
+0 -1 5507
+R M 0 5514 1 5518
+  R G 0 5510 0
+  R G 0 5511 0
+  R G 0 5512 0
+  R G 0 5513 0
+  R G 0 5514 0
+  R G 0 5516 0
+S
+#5519
+Oh, that Beastly Fido!~
+~
+This screen is playing "Oh, that Beastly Fido!," a slapstick comedy
+featuring a rabid dog, a fearless adventurer and 5,000 rubber chickens.  The
+audience is rolling helplessly in the aisles, although you suspect this has
+more to do with the popcorn than the movie.  
+~
+1 9 0
+D1
+~
+~
+0 -1 5512
+R M 0 5515 3 5519
+S
+#5520
+Living with Edgar~
+~
+This screen is playing "Living with Edgar," a serious drama about a woman
+whose son is born with polygastrism, and her struggles to keep him fed.  
+~
+1 9 0
+D0
+~
+~
+0 -1 5512
+R M 0 5515 3 5520
+S
+#5521
+Hack 'n' Slash~
+~
+You are astonished to see that this screen is playing "Hack 'n' Slash,"
+an unauthorized biography of you!  
+~
+1 9 0
+D3
+~
+~
+0 -1 5512
+R M 0 5515 3 5521
+S
+#5522
+Discount Mart~
+~
+Welcome to Discount Mart!  A tall ceiling supports the seeming acres of
+fluorescent lights that are right now turning you into a washed-out creature
+of greenish-yellow nothingness.  They're also making all that cheap plastic
+crap from Taiwan look much more attractive.  
+~
+1 8 0
+D3
+~
+~
+0 -1 5515
+R M 0 5503 12 5522
+S
+#5523
+Food Court~
+~
+Plastic furniture dots the tiled EZ-Kleen floor of the food court.  A
+constant stream of people enters the room hungry, swarms over small formica
+tables, and leaves looking full.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5533
+D1
+~
+~
+0 -1 5535
+D2
+~
+~
+0 -1 5515
+D3
+~
+~
+0 -1 5534
+R M 0 5501 6 5523
+S
+#5524
+Music World~
+~
+As you enter this store, the obnoxious hits of the past three decades are
+replaced by the equally obnoxious hits of today.  Bins of plastic wrapped
+CDs are scattered about the floor, and gaudy posters of teen idols are
+scattered about the walls.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5515
+R M 0 5504 6 5524
+  R E 0 5505 0 0
+E
+posters~
+Most of the posters seem to feature the band Lip Sync Boyz, composed of an
+indeterminate number of reasonably attractive youths and an AI
+composer/synthesizer.~
+S
+#5525
+Fratzerjibbit's~
+~
+This posh department store was established in 1928 by Edgar
+Fratzerjibbit, a poor tailor with dreams of stock options.  Unfortunately,
+he had a twelfth story office and jumped out the window when the market
+crashed, leaving his son Orville to build the small family store into a
+multinational corporation.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5538
+D1
+~
+~
+0 -1 5508
+D2
+~
+~
+0 -1 5539
+D3
+~
+~
+0 -1 5540
+R M 0 5528 1 5525
+S
+#5526
+Utility Hallway~
+~
+The walls of this small hallway are tiled in a comfortable peach color. 
+A sign points your way to the restrooms.  
+~
+1 8 0
+D1
+~
+~
+0 -1 5536
+D2
+~
+~
+0 -1 5508
+D3
+~
+~
+0 -1 5537
+R O 0 5527 0 5526
+E
+sign~
+<--Mens    Womens-->~
+S
+#5527
+Sam's Sporting Goods (and bads)~
+~
+The scent of fresh vinyl permeates this shop, which is filled with cheap
+soccer balls.  
+~
+1 8 0
+D0
+~
+~
+0 -1 5508
+R M 0 5518 1 5527
+R M 0 5519 1 5527
+  R E 0 5523 0 7
+  R E 0 5526 0 17
+S
+#5528
+South Parking Lot~
+~
+A steady stream of cars runs into and out of the parking lot here,
+filling Penny Lane past any reasonable semblance of well-mannered traffic. 
+From the south drift the sounds of angry drivers trying to navigate the
+intersection.  The parking lot spreads out in all other directions, and
+further to the north the low spread of the mall is visible.  
+~
+1 0 1
+D0
+~
+~
+0 -1 5501
+D1
+~
+~
+0 -1 5530
+D3
+~
+~
+0 -1 5529
+S
+#5529
+Southwest Parking Lot~
+~
+There are hardly any cars at all in this remote corner of the lot.
+~
+1 4 1
+D0
+~
+~
+0 -1 5532
+D1
+~
+~
+0 -1 5528
+D2
+~
+~
+0 0 7915
+S
+#5530
+Southeast Parking Lot~
+~
+The endless yellow lines are starting to frighten you.  If you stare at
+them just right, you can almost see secret messages.  
+~
+1 0 1
+D0
+~
+~
+0 -1 5531
+D3
+~
+~
+0 -1 5528
+E
+secret messages~
+You can't quite make out the secret messages in the yellow lines on the
+pavement, and your eyes are beginning to hurt.~
+S
+#5531
+Northeast Parking Lot~
+~
+You finally found it!  It's your car!  Now all you have to do is find
+your way out without smashing into that stupid little Neon that keeps
+zipping around the lot in flagrant violation of conventional parking lot
+behavior...  
+~
+1 0 1
+D2
+~
+~
+0 -1 5530
+D3
+~
+~
+0 -1 5501
+R M 0 5527 1 5531
+  R E 0 5548 0 16
+R O 0 5525 0 5531
+S
+#5532
+Northwest Parking Lot~
+~
+Parking is scarce this close to the mall.  This just might be the cause of a
+vicious fight in the third row between a motorcyclist and a minivan driver...
+~
+1 0 1
+D1
+~
+~
+0 -1 5501
+D2
+~
+~
+0 -1 5529
+E
+fight~
+The gist of the argument seems to be that the motorcyclist takes up a full
+parking space that should rightfully belong to the minivan, but the minivan
+driver's family tree contains too many sheep and monkeys to allow him anywhere
+near the mall.~
+S
+#5533
+Sub Shop~
+~
+This shop is little more than a plexiglas counter hiding large piles of
+rotten lettuce and lunch meat.  
+~
+1 8 0
+D2
+~
+~
+0 -1 5523
+R M 0 5517 1 5533
+  R G 0 5517 0
+  R G 0 5547 0
+  R G 0 5518 0
+  R G 0 5519 0
+S
+#5534
+Chinese Express~
+~
+The intoxicating aroma of Meal #63 drifts over the counter of the Chinese
+Express.  Mmm, grease!  
+~
+1 8 0
+D1
+~
+~
+0 -1 5523
+R M 0 5520 1 5534
+  R E 0 5532 0 16
+  R G 0 5520 0
+  R G 0 5521 0
+  R G 0 5531 0
+S
+#5535
+Taco Joe's~
+~
+Oddly enough, this is the one restaurant in all of Midgaard where none of
+the employees speak Spanish.  The large wall menu devotes 75% of its space
+to advertising the new "El Grande" Meatlike Bean Burrito.  
+~
+1 8 0
+D3
+~
+~
+0 -1 5523
+R M 0 5521 1 5535
+  R G 0 5546 0
+  R G 0 5522 0
+  R G 0 5545 0
+S
+#5536
+the Men's Room~
+~
+In spite of the reek of sanitizer that hangs in the air, this bathroom is
+filthy.  Soggy bits of toilet paper carpet the floor, and it would probably
+be a bad idea for you to look in the last urinal...  
+~
+1 8 0
+D3
+~
+~
+0 -1 5526
+R M 0 5523 1 5536
+E
+last urinal~
+BLECCHHHH!
+You gag, choke and finally vomit at the stench.  When your eyes clear enough to
+see, you realize that whatever disgusting thing was here originally, too many
+curious adventurers have puked all over it for you to identify it.~
+S
+#5537
+the Ladies Room~
+~
+Whoever was in here last seems to have had an unusual fondness for cheap
+perfume -- the air is thick with it.  The bathroom is filthy to boot;
+however, most of the stalls have doors on them, and most of the doors close
+properly, so it can't be all that bad.  
+~
+1 8 0
+D1
+~
+~
+0 -1 5526
+S
+#5538
+Luggage, shoes and ugly jewelry~
+~
+The fact that suitcases, shoes and nasty gold electroplate brooches are
+all in the same area of the store seems to mystify no one here.  Maybe
+there's some logic to it, after all.  
+~
+1 8 0
+D2
+~
+~
+0 -1 5525
+S
+#5539
+A small hallway~
+~
+A small hallway extends just north and south of here, to the north is the 
+center of the mall..from the south weird noises can be heard. 
+~
+1 8 0
+D0
+~
+~
+0 -1 5525
+D2
+~
+~
+0 0 5541
+S
+#5540
+Mens~
+~
+The conservative men's department looks much like an arctic white out,
+done over in navy blue and khaki.  Cotton Oxford shirts are everywhere,
+along with high-quality suit coats.  
+~
+1 8 0
+D1
+~
+~
+0 -1 5525
+R M 0 5525 1 5540
+  R E 0 5530 0 7
+S
+#5541
+Pets R' Us~
+~
+Various exotic birds rest on perches near the entrance.  Just to the left of 
+the entrance is a wall of aquariums containing exotic fish.  Many different 
+types of rodents and pets are for sale... if you have the right amount of 
+cash. 
+~
+1 266248 0
+D0
+~
+~
+0 0 5539
+R M 0 5533 1 5541
+S
+#5542
+`#`BPET `RSHOP `BSTORAGE`^~
+~
+If you are `#`Bin this room`^ and are `#`Bmortal`^, please notify an `#`RIMMORTAL`^ 
+immediately.  If you are an immortal and your name is not Ixliam, Delandria, 
+Echmoro, or Zaroth.. `#`RDO NOT`^ touch any of the resets without consulting one 
+or more of them. 
+~
+1 537657356 0
+R M 0 5534 1 5542
+R M 0 5535 1 5542
+R M 0 5536 1 5542
+R M 0 5537 40 5542
+R M 0 5538 40 5542
+S
+#0
+
+
+#SHOPS
+ 5500   15  0  0  0  0   150 100         0 23    ; kate
+ 5513    0  0  0  0  0   130 100         0 23    ; a footwarrior
+ 5514   19  0  0  0  0   150 100         0 23    ; a faceless counter slave
+ 5517   19  0  0  0  0   130 100         0 23    ; a faceless counter slave
+ 5520    0  0  0  0  0   150 100         0 23    ; a faceless counter slave
+ 5521   19  0  0  0  0   120 100         0 23    ; a faceless counter slave
+ 5529   15  0  0  0  0   150 100         0 23    ; an electronics expert
+ 5530    0  0  0  0  0   150  75         0 23    ; a short blonde hair stylist
+ 5531    0  0  0  0  0   120  70         0 23    ; a sexy brunette sales representative
+ 5532    0  0  0  0  0   140 100         0 23    ; a short book lady
+ 5533    0  0  0  0  0   130 100         0 23    ; a short sexy `#`Rredhead`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

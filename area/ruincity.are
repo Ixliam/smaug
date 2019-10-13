@@ -1,0 +1,2124 @@
+#AREA        City of Ruin~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#8800
+black pudding~
+black pudding~
+A large black blob is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8801
+elven banshee~
+an elven banshee~
+An ancient ghostlike elven female is floating about here.
+~
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8802
+zargon green creature~
+the `#`GGreat `GZargon`^~
+A 70' tall green creature with a large horn and four tentacles is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+93 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8803
+ancient dead king lich~
+an ancient dead king~
+An ancient dead king is here, wrapped in rich burial cloth.
+~
+This ancient king lies in state here, a large axe in one hand and a glowing 
+flail in the other.  Rotting burial cloth covers his ancient bones, and in 
+his eyes there is a faint red glow.  He is apparently not as dead as you 
+thought he was!  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+88 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8804
+undead warrior~
+an undead warrior~
+An ancient undead warrior lies here in eternal rest.
+~
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8805
+sahuagin warrior~
+a sahuagin~
+A large blue-green creature with the head of a fish but a humanoid body is here.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8806
+sahuagin king~
+`#`YKing `wof the `YSahuagin`^~
+The `#`YKing `wof the `YSahuagin`^ is here holding court.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8807
+stinking rat~
+a stinking rat~
+A stinking rat scurries around here.
+~
+This little bitty rat smells of trash and garbage. It has small red eyes 
+when it is awake and scrambling around. 
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8808
+child sahuagin~
+a child sahuagin~
+A small young creature with a humanoid body and head of a fish is playing here.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8809
+black snake death adder~
+a `#`SDeath `SAdder`^~
+A large black snake lies here.
+~
+~
+0
+Clanname none~
+0
+0
+129 65536 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#8800
+platinum key~
+a platinum key~
+A platinum key is here~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8801
+pile gold coin~
+a pile of gold~
+A large pile of ancient coins lies here.~
+~
+20 0 16
+30 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8802
+majestic marble fountain~
+a majestic marble fountain~
+A majestic marble fountain is here, trickling water.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8803
+horn zargon~
+`#`YHorn `wof `YZargon`^~
+A large black horn with dark roots lies here.~
+~
+9 128 8
+60 60 19 0 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8804
+statue ancient goddess~
+an ancient statue~
+A ancient statue of an attractive female human is here.~
+~
+12 256 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+8804 ancient statue goddess~
+The polished statue is of a singular grace and beauty: the delicate form of 
+a woman, draped in flowing robes.  Her hair cascades down her shoulders and 
+neck, which is adorned by a detailed amulet.  The look on her face is one of 
+radiant hope tempered with sadness.  
+~
+#8805
+huge stone throne~
+a huge stone throne~
+A huge stone throne is here.~
+~
+12 0 8
+10000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+8805 huge stone throne~
+This stone throne is carved with engravings of various battles and scenes of 
+wars long past.  It appears most of the warrior are elves of some sort.  
+~
+#8806
+frostreaver axe~
+an axe called `#`W"`cFrostreaver`W"`^~
+An axe lies here, appearing to be made of `#`cblue ice`^.~
+~
+5 64 4
+3 108 151 18 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8807
+ancient engraved breastplate~
+an ancient engraved breastplate~
+An ancient engraved breastplate lies here.~
+~
+9 256 8
+60 60 20 0 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8808
+feathered spear~
+a `#`?f`?e`?a`?t`?h`?e`?r`?e`?d`^ spear~
+A `#`?f`?e`?a`?t`?h`?e`?r`?e`?d`^ spear lies here.~
+~
+5 128 4
+3 78 101 72 0 0 0
+1 1212 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8809
+crude loincloth~
+a crude leather loincloth~
+A crude leather loincloth lies here.~
+~
+9 0 8
+50 50 9 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8810
+golden throne~
+`#a `Ygolden throne`^~
+`#A `Ygolden throne glitters brilliantly.`^~
+~
+12 1 8
+10000 1752 100 100 0 0 0
+70 9000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8811
+flail sahuagin~
+`#`YFlail `wof the `YSahuagin`^~
+A engraved flail lies here.~
+~
+5 64 4
+9 97 134 2176 0 0 0
+1 1762 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8813
+large chest~
+a large chest~
+A large chest is sitting here.~
+~
+15 0 8
+13 0 100 0 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8814
+sea blue potion otterlungs~
+a `#`Bsea blue`^ potion~
+A sea blue colored potion has been dropped here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#8815
+blue gem necklace water~
+a `#`Ygold necklace`w with a `cblue gem`^~
+A gold necklace with a blue gem on it lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+8815 necklace gem blue~
+The gem is blue in color, almost the color of the ocean and is faceted in 
+the shape of a drop of water. 
+~
+#0
+
+
+#ROOMS
+#8800
+Outside the Ruined City~
+~
+Stone blocks cover the ground ground here, remnants of an ancient city.  
+Dead grass and weeds cover the ground, and there is the remains of an 
+ancient street to the north.  
+~
+1 0 1
+D0
+~
+~
+0 0 8801
+S
+#8801
+On an Ancient Street~
+~
+An ancient street runs east and west, weeds poking up from the ancient white 
+stones.  It appears that this road has not been used in hundreds of years.  
+~
+1 0 1
+D1
+~
+~
+0 0 8803
+D2
+~
+~
+0 0 8800
+D3
+~
+~
+0 0 8802
+R M 0 8807 25 8801
+S
+#8802
+On an Ancient Street~
+~
+An ancient street runs east and west, weeds poking up from the ancient white 
+stones.  It appears that this road has not been used in hundreds of years.  
+A large ruined building lies to the north.  
+~
+1 0 1
+D0
+~
+~
+0 0 8805
+D1
+~
+~
+0 0 8801
+R M 0 8808 15 8802
+S
+#8803
+On an Ancient Street~
+~
+An ancient street runs east and west, weeds poking up from the ancient white 
+stones.  It appears that this road has not been used in hundreds of years.  
+~
+1 0 1
+D1
+~
+~
+0 0 8804
+D3
+~
+~
+0 0 8801
+R M 0 8808 15 8803
+S
+#8804
+On an Ancient Street~
+~
+An ancient street runs east and west, weeds poking up from the ancient white 
+stones.  It appears that this road has not been used in hundreds of years.  
+~
+1 0 1
+D1
+~
+~
+0 0 8807
+D3
+~
+~
+0 0 8803
+R M 0 8807 25 8804
+S
+#8805
+Inside a Ruined Building~
+~
+This large building has completely collapsed upon itself leaving piles of 
+debris here and there.  A few rafters still stand with thatched straw 
+hanging down.  A small wooden trapdoor can be seen in the floor.  
+~
+1 8 0
+D2
+~
+~
+0 0 8802
+D5
+~
+trapdoor~
+33 8800 8806
+R M 0 8800 1 8805
+  R E 0 8800 0 17
+S
+#8806
+Flooded Chamber~
+~
+This probably at one time was a basement, but has now been flooded with 
+water.  Collapsed wooden shelves line the walls, and several busted crates 
+along with broken glass cover the floor.  A steel ladder leads to a trapdoor 
+in the ceiling, leading up into the ancient building.  
+~
+1 138420233 12
+D4
+~
+~
+33 8800 8805
+R O 0 8801 0 8806
+R O 0 8815 0 8806
+S
+#8807
+Courtyard of the Temple~
+~
+This ancient couryard lies in ruin from some nameless destruction.  Flowers 
+and trees have been smashed into the ground and lawn benches thrown through 
+walls.  A large marble fountain in the center of the courtyard still stands, 
+though, defying any attempts to destroy its beauty.  An ancient temple lies 
+to the north.  
+~
+1 4195328 1
+D0
+~
+~
+0 0 8808
+D3
+~
+~
+0 0 8804
+R M 0 8808 15 8807
+R M 0 8807 25 8807
+R O 0 8802 0 8807
+S
+#8808
+Temple Hallway~
+~
+This ancient temple is all that seems to remain of what was once a mejestic 
+city.  Large stone columns, worn with the passage of time, reach to the 
+ceiling.  Long benches lie toppled about.  Large chunks of stone have fallen 
+from the walls and roof, sending sunlight streaming in about the room.  
+~
+1 33555464 0
+D0
+~
+~
+0 0 8809
+D2
+~
+~
+0 0 8807
+S
+#8809
+Temple Hallway~
+~
+This ancient temple is all that seems to remain of what was once a mejestic 
+city.  Large stone columns, worn with the passage of time, reach to the 
+ceiling.  Long benches lie toppled about.  Large chunks of stone have fallen 
+from the walls and roof, sending sunlight streaming in about the room.  
+Large oak doors lie to the east and west, and an ancient altar can be seen 
+to the north.  
+~
+1 33555464 0
+D0
+~
+~
+0 0 8812
+D1
+~
+door~
+1 0 8810
+D2
+~
+~
+0 0 8808
+D3
+~
+door~
+1 0 8811
+S
+#8810
+Worshippers Room~
+~
+This room was once used for the followers of this ancient temple.  Several 
+changing areas, along with broken chairs and table line the walls.  A large 
+oak door leads back into the temple.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 8809
+R M 0 8801 4 8810
+R M 0 8801 4 8810
+S
+#8811
+Worshippers Room~
+~
+This room was once used for the followers of this ancient temple.  Several 
+changing areas, along with broken chairs and table line the walls.  A large 
+oak door leads back into the temple.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 8809
+R M 0 8801 4 8811
+R M 0 8801 4 8811
+S
+#8812
+Chamber of Light~
+~
+The doors open into the central chamber of the temple.  A tremendous dome 
+rises high above the delicate tile floor.  It seems as though time has 
+stilled this room.  In the center of the room stand a polished statue of a 
+woman.  A pair of golden doors lies to the east.  
+~
+1 38274056 0
+D1
+~
+golden door~
+1 0 8813
+D2
+~
+~
+0 0 8809
+S
+#8813
+Top of the Stairway~
+~
+The large marble stairway extends down into the darkness here.  It appears 
+that it has not been used in some time from the dust on the floor.  
+~
+1 4 0
+D0
+~
+~
+0 0 8814
+D3
+~
+~
+1 0 8812
+R M 0 8809 10 8813
+S
+#8814
+Down the Stairway~
+~
+The spiral marble stairway continues down into the darkness or up into the 
+temple complex.  The dust on the stairs is thick, and it appears it has not 
+been used in some time.  
+~
+1 0 0
+D2
+~
+~
+0 0 8813
+D9
+~
+~
+0 0 8815
+R M 0 8807 25 8814
+S
+#8815
+Down the Stairway~
+~
+The spiral marble stairway continues down into the darkness or up into the 
+temple complex.  The dust on the stairs is thick, and it appears it has not 
+been used in some time.  
+~
+1 0 0
+D7
+~
+~
+0 0 8814
+D8
+~
+~
+0 0 8816
+R M 0 8807 25 8815
+S
+#8816
+Down the Stairway~
+~
+The spiral marble stairway continues down into the darkness or up into the 
+temple complex.  The dust on the stairs is thick, and it appears it has not 
+been used in some time.  
+~
+1 0 0
+D6
+~
+~
+0 0 8815
+D7
+~
+~
+0 0 8817
+R M 0 8807 25 8816
+S
+#8817
+Bottom of the Stairway~
+~
+The stairs leading back to the temple end here before a short cooridor to 
+the east.  A slight smell of decay is in the air, and an ominous feeling 
+fills your soul.  
+~
+1 0 0
+D1
+~
+~
+0 0 8818
+D9
+~
+~
+0 0 8816
+S
+#8818
+Short Corridor~
+~
+This short passage runs north and south here.  The stone floor is broken 
+from the destruction of the city, and jagged rocks and pieces of ancient 
+tile cover the floor.  
+~
+1 0 0
+D1
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8817
+R M 0 8807 25 8818
+S
+#8819
+Hall of the Dead~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  A vast hall 
+stretches to the south.  In several places, the floor has broken and fallen 
+away.  Hot mists, carrying the odor of decay, rise through the holes in the 
+floor.  An ancient moth-eaten tapestry covers the wall to the north.  
+~
+1 1 0
+D0
+~
+tapestry~
+33 0 8820
+D2
+~
+~
+0 0 8822
+D3
+~
+~
+0 0 8818
+E
+tapestry ~
+It appears the tapestry is covering a carefully concealed secret passageway 
+to the north.  
+~
+S
+#8820
+Tight Passage~
+~
+This extremly tight passage runs north and south into the darkness.  
+~
+1 71835657 0
+D0
+~
+~
+0 0 8821
+D2
+~
+~
+33 0 8819
+R M 0 8809 10 8820
+S
+#8821
+Tomb of an Ancient King~
+~
+Ancient paintings cover the walls of this large chamber.  Rotting carpets 
+cover the floor, and a thick layer of dust covers most everything else.  
+Several urns lie here, broken and shattered, their contents long turned to 
+dust.  This burial chamber appears to have not been disturbed at all.  
+~
+1 71835657 0
+D2
+~
+~
+0 0 8820
+R O 0 8805 0 8821
+R M 0 8803 1 8821
+  R E 0 8806 0 16
+  R E 0 2491 0 19
+  R E 0 8807 0 5
+S
+#8822
+Dimly Lit Passage~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  A vast hall 
+stretches to the north and south.  In several places, the floor has broken 
+and fallen away.  Hot mists, carrying the odor of decay, rise through the 
+holes in the floor.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 8819
+D2
+~
+~
+0 0 8823
+R M 0 8807 25 8822
+S
+#8823
+Dimly Lit Passage~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  A vast hall 
+stretches to the north and east.  In several places, the floor has broken 
+and fallen away.  Hot mists, carrying the odor of decay, rise through the 
+holes in the floor.  
+~
+1 33554432 0
+D0
+~
+~
+0 0 8822
+D1
+~
+~
+0 0 8824
+R M 0 8809 10 8823
+S
+#8824
+Narrow Corridor~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  This 
+corridor is very narrow, only about five feet wide.  In several places, the 
+floor has broken and fallen away.  Hot mists, carrying the odor of decay, 
+rise through the holes in the floor.  
+~
+1 33554432 0
+D1
+~
+~
+0 0 8825
+D3
+~
+~
+0 0 8823
+R M 0 8807 25 8824
+S
+#8825
+Hall of the Ancestors~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  Ancient 
+tombs lie to the north and south.  The hallway continues to the east and 
+west.  
+~
+1 0 0
+D0
+~
+tomb~
+1 0 8828
+D1
+~
+~
+0 0 8826
+D2
+~
+~
+1 0 8829
+D3
+~
+~
+0 0 8824
+R M 0 8807 25 8825
+S
+#8826
+Hall of the Ancestors~
+~
+Dim light shines down through the broken ceiling.  Vines and moss dangle 
+from cracks in the ceiling, and green fungus covers the walls.  Ancient 
+tombs lie to the north and south.  The hallway continues to the east and 
+west.  
+~
+1 0 0
+D0
+~
+tomb~
+1 0 8827
+D1
+~
+~
+0 0 8831
+D2
+~
+~
+1 0 8830
+D3
+~
+~
+0 0 8825
+R M 0 8809 10 8826
+R M 0 8807 25 8826
+S
+#8827
+Ancient Tomb~
+~
+A single bier lies in the center of the tomb, a resting place for the 
+ancient dead kings and warriors of this city.  Thick fungus and slime cover 
+everything in sight.  This tomb has remained untouched for centuries.  
+~
+1 9 0
+D2
+~
+~
+1 0 8826
+R M 0 8804 4 8827
+S
+#8828
+Ancient Tomb~
+~
+A single bier lies in the center of the tomb, a resting place for the 
+ancient dead kings and warriors of this city.  Thick fungus and slime cover 
+everything in sight.  This tomb has remained untouched for centuries.  
+~
+1 9 0
+D2
+~
+~
+1 0 8825
+R M 0 8804 4 8828
+S
+#8829
+Ancient Tomb~
+~
+A single bier lies in the center of the tomb, a resting place for the 
+ancient dead kings and warriors of this city.  Thick fungus and slime cover 
+everything in sight.  This tomb has remained untouched for centuries.  
+~
+1 9 0
+D0
+~
+~
+1 0 8825
+R M 0 8804 4 8829
+S
+#8830
+Ancient Tomb~
+~
+A single bier lies in the center of the tomb, a resting place for the 
+ancient dead kings and warriors of this city.  Thick fungus and slime cover 
+everything in sight.  This tomb has remained untouched for centuries.  
+~
+1 9 0
+D0
+~
+~
+1 0 8826
+R M 0 8804 4 8830
+S
+#8831
+Passage~
+~
+This passage runs east and west, and has remained untouched for centuries.  
+A green film blankets everything here.  
+~
+1 4 0
+D1
+~
+~
+0 0 8832
+D3
+~
+~
+0 0 8826
+R M 0 8807 25 8831
+S
+#8832
+T-Junction~
+~
+This T-shaped passage runs east, west, and south.  It appears that it has 
+been untouched for centuries.  A green film blankets everything here.  
+~
+1 0 0
+D1
+~
+~
+0 0 8833
+D2
+~
+~
+0 0 8834
+D3
+~
+~
+0 0 8831
+S
+#8833
+L-Shaped Passage~
+~
+This L-shaped passage runs west, and north.  It appears that it has been 
+untouched for centuries.  A green film blankets everything here.  
+~
+1 0 0
+D0
+~
+~
+0 0 8836
+D3
+~
+~
+0 0 8832
+R M 0 8807 25 8833
+S
+#8834
+Passage~
+~
+This passage runs north and south, and has remained untouched for centuries. 
+ A green film blankets everything here.  
+~
+1 0 0
+D0
+~
+~
+0 0 8832
+D2
+~
+~
+0 0 8835
+R M 0 8808 15 8834
+S
+#8835
+Dead End~
+~
+This dead end passage runs north, and has remained untouched for centuries.  
+A green film blankets everything here.  
+~
+1 0 0
+D0
+~
+~
+0 0 8834
+R M 0 8808 15 8835
+R O 0 8813 0 8835
+  R P 0 8801 1 8813
+R M 0 8807 25 8835
+R M 0 8805 50 8835
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8836
+Passage~
+~
+This passage runs north and south, and has remained untouched for centuries. 
+ A green film blankets everything here.  
+~
+1 0 0
+D0
+~
+~
+0 0 8837
+D2
+~
+~
+0 0 8833
+S
+#8837
+At the Drop-off~
+~
+The passage has collapsed here, and drops straight down almost 500 feet into 
+the darkness below.  Strange noises can be heard in the distance, and whisps 
+of steam rise up from the chasm below.  
+~
+1 0 0
+D2
+~
+~
+0 0 8836
+D5
+~
+~
+0 0 8838
+R M 0 8807 25 8837
+S
+#8838
+In the Air~
+~
+The floor of a large cavern can be seen below as you hang here in mid-air.  
+~
+1 0 9
+D4
+~
+~
+0 0 8837
+D5
+~
+~
+0 0 8839
+S
+#8839
+In the Air~
+~
+The floor of a large cavern can be seen below as you hang here in mid-air.  
+~
+1 0 9
+D4
+~
+~
+0 0 8838
+D5
+~
+~
+0 0 8840
+S
+#8840
+Large Cavern~
+~
+Water drips from the walls of this damp cavern.  Moss and lichens grow in 
+abundance along the walls, and the floor is slick with mud and decaying 
+matter.  A musty odor of mold and mildew fills the air.  
+~
+1 1 11
+D0
+~
+~
+0 0 8841
+D4
+~
+~
+0 0 8839
+R M 0 8809 10 8840
+S
+#8841
+Large Cavern~
+~
+Water drips from the walls of this damp cavern.  Moss and lichens grow in 
+abundance along the walls, and the floor is slick with mud and decaying 
+matter.  A musty odor of mold and mildew fills the air.  
+~
+1 1 11
+D0
+~
+~
+0 0 8842
+D2
+~
+~
+0 0 8840
+R M 0 8808 15 8841
+R M 0 8807 25 8841
+S
+#8842
+Turn in the Cavern~
+~
+Water drips from the walls of this damp cavern.  Moss and lichens grow in 
+abundance along the walls, and the floor is slick with mud and decaying 
+matter.  A musty odor of mold and mildew fills the air.  A small crack can 
+been seen in the cavern wall to the north.  
+~
+1 1 11
+D0
+~
+crack~
+1 0 8843
+D1
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8841
+R M 0 8808 15 8842
+R M 0 8807 25 8842
+R M 0 8805 50 8842
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8843
+Secret Passage~
+~
+Rock scrapes your sides as you squeeze into the small passageway.  The crack 
+runs north, forming a tight passage into the darkness.  The passage appears 
+to have been expanded by rough digging, as clumps of rocks and dirt lie on 
+the floor.  
+~
+1 1 11
+D0
+~
+~
+0 0 8846
+D2
+~
+~
+1 0 8842
+R M 0 8807 25 8843
+S
+#8844
+Large Cavern~
+~
+Water drips from the walls of this damp cavern.  Moss and lichens grow in 
+abundance along the walls, and the floor is slick with mud and decaying 
+matter.  A musty odor of mold and mildew fills the air.  
+~
+1 1 11
+D1
+~
+~
+0 0 8845
+D3
+~
+~
+0 0 8842
+S
+#8845
+End of the Cavern~
+~
+Water drips from the walls of this damp cavern.  Moss and lichens grow in 
+abundance along the walls, and the floor is slick with mud and decaying 
+matter.  A musty odor of mold and mildew fills the air.  
+~
+1 1 11
+D3
+~
+~
+0 0 8844
+R M 0 8809 10 8845
+R O 0 8813 0 8845
+  R P 0 8814 1 8813
+R M 0 8805 50 8845
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8846
+Tight Passage~
+~
+Rock scrapes your sides as you squeeze through the small passageway.  The 
+crack runs south, forming a tight passage into the darkness.  A large steel 
+pipe lies to the northeast, probably the remnants of some sort of water 
+piping system from long ago.  
+~
+1 5 11
+D2
+~
+~
+0 0 8843
+D6
+~
+~
+0 0 8847
+R M 0 8809 10 8846
+R M 0 8808 15 8846
+R M 0 8807 25 8846
+S
+#8847
+Inside the Metal Pipe~
+~
+You are inside a 3-foot diameter metal pipe.  Green slime and moss coats the 
+inside of the pipe, making it impossibe to get a firm grip on anything.  The 
+pipe runs slightly downward to the west.  
+~
+1 2053 11
+D3
+~
+~
+0 0 8848
+D8
+~
+~
+0 0 8846
+S
+#8848
+Inside the Metal Pipe~
+~
+You are inside a 3-foot diameter metal pipe.  Green slime and moss coats the 
+inside of the pipe, making it impossibe to get a firm grip on anything.  The 
+pipe runs slightly downward to the west, and continues upwards to the east.  
+
+~
+1 2053 11
+D1
+~
+~
+0 0 8847
+D3
+~
+~
+0 0 8849
+S
+#8849
+Junction in the Pipe~
+~
+You are inside a 3-foot diameter metal pipe.  Green slime and moss coats the 
+inside of the pipe, making it impossibe to get a firm grip on anything.  The 
+pipe runs slightly downward to the west, and continues upwards to the east.  
+Another pipe leads sharply downward to the south from here.  
+~
+1 2053 11
+D1
+~
+~
+0 0 8848
+D2
+~
+~
+0 0 8852
+D3
+~
+~
+0 0 8850
+S
+#8850
+Inside the Metal Pipe~
+~
+You are inside a 3-foot diameter metal pipe.  Green slime and moss coats the 
+inside of the pipe, making it impossibe to get a firm grip on anything.  The 
+pipe runs slightly downward to the west, and continues upwards to the east.  
+
+~
+1 2053 11
+D1
+~
+~
+0 0 8849
+D3
+~
+~
+0 0 8851
+S
+#8851
+End of the Metal Pipe~
+~
+You are inside a 3-foot diameter metal pipe.  Green slime and moss coats the 
+inside of the pipe, making it impossibe to get a firm grip on anything.  The 
+pipe dead ends here, being crushed on the west end, but runs upwards back to 
+the east.  
+~
+1 2053 11
+D1
+~
+~
+0 0 8850
+S
+#8852
+End of the Metal Pipe~
+~
+The slimy pipe slopes sharply downward, and is open on the end.  You can 
+make out some sort of room filled with a white substance down from here.  A 
+small amount of water drips down the pipe, hitting a small puddle down from 
+here.  
+~
+1 2053 11
+D0
+~
+~
+0 0 8849
+D5
+~
+~
+0 0 8853
+S
+#8853
+Ruined Bakery~
+~
+A large metal pipe breaks through the ceiling of this ancient bakery.  Water 
+trickles from the tube onto the floor and streams out the door to the west.  
+On the floor lie 20 large rotting sacks of flour, two of which have broken 
+open and cover the floor in a white pasty film.  
+~
+1 8 0
+D3
+~
+~
+0 0 8854
+D4
+~
+~
+0 0 8852
+S
+#8854
+Ancient Street~
+~
+The buildings that once lined this street have toppled against one another, 
+forming a rough arch of marble slabs over the cobblestone street.  The place 
+is still but tense, like the nave of a haunted cathedral.  Door and broken 
+shop windows yawn into the street as though the buildings had exploded from 
+the inside.  
+~
+1 0 1
+D1
+~
+~
+0 0 8853
+D2
+~
+~
+0 0 8855
+R M 0 8808 15 8854
+R M 0 8807 25 8854
+S
+#8855
+Ancient Street~
+~
+The buildings that once lined this street have toppled against one another, 
+forming a rough arch of marble slabs over the cobblestone street.  The place 
+is still but tense, like the nave of a haunted cathedral.  Door and broken 
+shop windows yawn into the street as though the buildings had exploded from 
+the inside.  
+~
+1 0 1
+D0
+~
+~
+0 0 8854
+D3
+~
+~
+0 0 8856
+R M 0 8809 10 8855
+S
+#8856
+End of the Street~
+~
+The buildings that once lined this street have toppled against one another, 
+forming a rough arch of marble slabs over the cobblestone street.  The place 
+is still but tense, like the nave of a haunted cathedral.  Door and broken 
+shop windows yawn into the street as though the buildings had exploded from 
+the inside.  Water rushes down the street from the north and turns to the 
+west, and you hear the sound of rushing water from that direction.  
+~
+1 0 1
+D1
+~
+~
+0 0 8855
+D3
+~
+~
+0 0 8857
+R M 0 8808 15 8856
+R M 0 8807 25 8856
+R M 0 8805 50 8856
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8857
+Edge of a Waterfall~
+~
+Water rushes around columns and plunges from hanging steps into a vast 
+cavern.  Overhead, the mist thickens from the spray.  A single shaft of 
+light illuminates the vast underground area.  Over 500 feet below, ruins 
+litter the dim floor of the cavern.  The ancient city is in many states of 
+decay: some buildings are almost intact, many are nothing but rubble.  
+Several waterfalls pour into the cavern, and many of the streets are rivers, 
+all of which flow into a single abyss below.  Vines at your feet twist over 
+the edge and appear to reach almost to the floor of the cavern.  
+~
+1 0 6
+D1
+~
+~
+0 0 8856
+D5
+~
+~
+0 0 8860
+S
+#8858
+Climbing on Vines~
+~
+You are suspended above the cavern floor on a large vine.  The waterfall 
+pours into the chasm below, and the air is filled with a fine mist.  A cool 
+breeze flows off the waterfall, and the vines sway in the slight breeze.  
+~
+1 0 0
+D4
+~
+~
+0 0 8859
+D5
+~
+~
+0 0 8861
+R M 0 8805 50 8858
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8859
+Climbing on Vines~
+~
+You are suspended above the cavern floor on a large vine.  The waterfall 
+pours into the chasm below, and the air is filled with a fine mist.  A cool 
+breeze flows off the waterfall, and the vines sway in the slight breeze.  
+~
+1 0 0
+D4
+~
+~
+0 0 8860
+D5
+~
+~
+0 0 8858
+S
+#8860
+Climbing on Vines~
+~
+You are suspended above the cavern floor on a large vine.  The waterfall 
+pours into the chasm below, and the air is filled with a fine mist.  A cool 
+breeze flows off the waterfall, and the vines sway in the slight breeze.  
+~
+1 0 0
+D4
+~
+~
+0 0 8857
+D5
+~
+~
+0 0 8859
+S
+#8861
+Underground Street~
+~
+Torrents of water from high above batter the street into rubble, hurling 
+mists into the air, then settle into a stream running west down the ancient 
+street.  Vines grow up the side of the cavern next to the waterfall.  
+~
+1 8 1
+D3
+~
+~
+0 0 8862
+D4
+~
+~
+0 0 8858
+R M 0 8807 25 8861
+R M 0 8805 50 8861
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8862
+Underground Street~
+~
+The ancient streets are little more than rubble, as the stream from the 
+waterfall runs west.  Ruined buildings line the street, remnants of what was 
+once a thriving city.  Refuse litters the sides of the street near the 
+stream.  
+~
+1 8 1
+D1
+~
+~
+0 0 8861
+D3
+~
+~
+0 0 8863
+R M 0 8808 15 8862
+S
+#8863
+Great Plaza~
+~
+A single column of light pierces the overhead mists and spreads onth a vast 
+plaza at least 120 feet across.  Steady streams from the eastern and western 
+streets flow into a large pool of water, which empties into a river 
+channeled down the northern street.  The roar of the waterfall fades to 
+silence, the moss-covered ruins that surround the plaza recede into the 
+darkness.  
+~
+1 8 1
+D0
+~
+~
+0 0 8864
+D1
+~
+~
+0 0 8862
+R M 0 8807 25 8863
+S
+#8864
+Northern Street~
+~
+The ancient streets are little more than rubble, as the stream from the 
+waterfall runs north.  Ruined buildings line the street, remnants of what 
+was once a thriving city.  Refuse litters the sides of the street near the 
+stream.  
+~
+1 8 1
+D0
+~
+~
+0 0 8865
+D2
+~
+~
+0 0 8863
+R M 0 8808 15 8864
+S
+#8865
+Northern Street~
+~
+The ancient streets are little more than rubble, as the stream from the 
+waterfall runs north.  A narrow alley lies to the east, a strongs stench of 
+decay flowing from it.  Ruined buildings line the street, remnants of what 
+was once a thriving city.  Refuse litters the sides of the street near the 
+stream.  
+~
+1 8 1
+D0
+~
+~
+0 0 8866
+D1
+~
+~
+0 0 8880
+D2
+~
+~
+0 0 8864
+R M 0 8805 50 8865
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8866
+Northern Street~
+~
+The ancient streets are little more than rubble, as the stream from the 
+waterfall runs north.  Ruined buildings line the street, remnants of what 
+was once a thriving city.  Refuse litters the sides of the street near the 
+stream.  
+~
+1 8 1
+D0
+~
+~
+0 0 8867
+D2
+~
+~
+0 0 8865
+R M 0 8808 15 8866
+R M 0 8807 25 8866
+S
+#8867
+End of Northern Street~
+~
+The ancient streets are little more than rubble, as the stream from the 
+waterfall runs north into a large opening in the pavement.  Ruined buildings 
+line the street, remnants of what was once a thriving city.  A large 
+building lies to the east, almost falling in on itself from ruin.  
+~
+1 8 1
+D1
+~
+~
+0 0 8868
+D2
+~
+~
+0 0 8866
+R M 0 8805 50 8867
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8868
+Deserted Building~
+~
+Rivulets of water trickle down the walls of the building.  Although a great 
+deal of water is flooding the small building, there seems to be only one or 
+two inches of it covering the floor.  Occasionaly a small bubble comes up 
+from the floor.  
+~
+1 9 0
+D3
+~
+~
+0 0 8867
+D5
+~
+trapdoor~
+1 0 8869
+S
+#8869
+Turn in the Sewers~
+~
+The swift water flows east from here, coming from the north.  The stone 
+sewer tunnel runs east and north, and a small ladder goes up from here, 
+exiting the tunnel.  
+~
+1 8200 12
+D0
+~
+~
+0 0 8872
+D1
+~
+~
+0 0 8870
+D4
+~
+~
+1 0 8868
+S
+#8870
+In the Sewer~
+~
+The swift water flows east from here, flooding the passage.  The stone sewer 
+tunnel runs east and west from here, with no other exits visable.  
+~
+1 8200 12
+D1
+~
+~
+0 0 8871
+D3
+~
+~
+0 0 8869
+S
+#8871
+In the Sewer~
+~
+The swift water flows east from here, flooding the passage.  The stone sewer 
+tunnel runs east and west from here, with no other exits visable.  
+~
+1 8200 12
+D1
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8870
+R M 0 8809 10 8871
+S
+#8872
+In the Sewer~
+~
+The swift water flows south from here, flooding the passage.  The stone 
+sewer tunnel runs north and south from here, with no other exits visable.  
+~
+1 8200 12
+D0
+~
+~
+0 0 8873
+D2
+~
+~
+0 0 8869
+R M 0 8809 10 8872
+S
+#8873
+In the Sewer~
+~
+The swift water flows south from here, flooding the passage.  The stone 
+sewer tunnel runs north and south from here, with no other exits visable.  
+~
+1 8200 12
+D0
+~
+~
+0 0 8874
+D2
+~
+~
+0 0 8872
+S
+#8874
+In the Sewer~
+~
+The swift water flows south from here, flooding the passage.  The stone 
+sewer tunnel runs north and south from here, with no other exits visable.  
+~
+1 8200 12
+D0
+~
+~
+0 0 8875
+D2
+~
+~
+0 0 8873
+R M 0 8809 10 8874
+S
+#8875
+End of the tunnel~
+~
+The swift water flows south from here, flooding the passage.  The stone 
+sewer tunnel runs south from here, and the north passage is blocked with a 
+large iron grate, with no other exits visable.  
+~
+1 8200 12
+D2
+~
+~
+0 0 8874
+S
+#8876
+In the Sewer~
+~
+The swift water flows east from here, flooding the passage.  The stone sewer 
+tunnel runs east and west from here, with no other exits visable.  
+~
+1 8200 12
+D1
+~
+~
+0 0 8877
+D3
+~
+~
+0 0 8871
+S
+#8877
+End of the tunnel~
+~
+The swift water flows east into a large iron grate, which blocks the 
+passage.  A steel ladder, firmly bolted to the sewer tunnel, goes up into 
+the darkness from here.  The stone sewer tunnel continues to the west, 
+against the current.  
+~
+1 8200 12
+D3
+~
+~
+0 0 8876
+D4
+~
+~
+0 0 8878
+S
+#8878
+On the Ladder~
+~
+The large steel ladder leads to a chamber above, and into the ancient sewers 
+below.  The sound of rushing water is below you, flowing thorough the ruined 
+city.  The ladder ends at metal grate above, though you are unable to 
+determine what lies behind it.  
+~
+1 9 0
+D4
+~
+grate~
+1 0 8879
+D5
+~
+~
+0 0 8877
+S
+#8879
+Lair of the Zargon~
+~
+This large domed chamber extends far above you, with a small hole visable at 
+the top, presumably to allow sacrifices to be dropped into the chamber for 
+the creature.  Decaying corpses and ancient bones of every race imaginable 
+litter the floor, and the foul stench of death and decay fills the air.  
+Large dark stains cover both the floor and the walls here, giving an ominous 
+feeling to the chamber.  
+~
+1 38281216 11
+D5
+~
+~
+1 0 8878
+R M 0 8802 1 8879
+  R E 0 8803 0 6
+  R E 0 5094 0 16
+S
+#8880
+Narrow Alley~
+~
+A narrow passage, framed by crumbling walls, winds through the ruins to the 
+north.  
+~
+1 8 1
+D0
+~
+~
+0 0 8881
+D3
+~
+~
+0 0 8865
+R M 0 8807 25 8880
+S
+#8881
+Narrow Alley~
+~
+A narrow passage, framed by crumbling walls, winds through the ruins to the 
+north.  
+~
+1 8 1
+D0
+~
+~
+0 0 8882
+D2
+~
+~
+0 0 8880
+R M 0 8809 10 8881
+S
+#8882
+End of the Alley~
+~
+A narrow passage, framed by crumbling walls, winds through the vine-covered 
+ruins, and ends suddenly in a door to the north.  
+~
+1 8 1
+D0
+~
+door~
+1 0 8883
+D2
+~
+~
+0 0 8881
+R M 0 8808 15 8882
+R M 0 8805 50 8882
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8883
+Great Hallway~
+~
+Torches sputter and smoke in the scones mounted on the western wall.  
+Several chairs lie about the room, most broken and scattered about.  Large 
+garrish cloth coveres the room, the colors clashing like an insane vision.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 8884
+D2
+~
+~
+1 0 8882
+S
+#8884
+End of the Hallway~
+~
+Torches sputter and smoke in the scones mounted on the western wall.  
+Several chairs lie about the room, most broken and scattered about.  Large 
+garrish cloth coveres the room, the colors clashing like an insane vision.  
+Rooms lies to the north and east of here.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 8886
+D1
+~
+~
+0 0 8885
+D2
+~
+~
+0 0 8883
+R M 0 8808 15 8884
+R M 0 8805 50 8884
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+R M 0 8805 50 8884
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8885
+Guard Post~
+~
+Torches sputter and smoke in the scones mounted on the eastern wall.  Large 
+garrish cloth coveres the room, the colors clashing like an insane vision.  
+Several polearms lie against the wall, long since rusted into a solid mass 
+of iron.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 8884
+R M 0 8805 50 8885
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+R M 0 8805 50 8885
+  R E 0 8808 0 16
+  R E 0 8809 0 13
+S
+#8886
+Throne Room~
+~
+Heavy, frayed gold cloth adorns the room.  Statues line the walls, and 
+carpets of every color and description form a patchwork across the floor.  
+At the northern end, a huge throne sits, the cold leaf peeling badly from 
+its carved frame.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 8884
+R O 0 8810 0 8886
+R M 0 8806 1 8886
+  R E 0 8811 0 16
+  R E 0 8809 0 13
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,141 @@
+#AREA        Temple of Seandac~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7560
+unseen mob logger~
+unseen_mob_logger~
+Unseen_mob_logger
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7560
+altar~
+an altar to `#`WSeandac`^~
+An altar to `#`WSeandac`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7560
+Entrance to the Temple~
+~
+Large white steps lead up into the magnificent temple before you.  Several 
+stone columns reach high into the air, supporting the roof of the temple.  
+An exotic carved relief winds its way around the edge of the roof, showing 
+ancient victories of the gods of the realm.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7561
+D2
+~
+~
+0 0 3101
+S
+#7561
+Lighted Hallway~
+~
+Twelve large fluted marble columns line this hallway running north and 
+south.  The floor is made from the finest white marble, with intricate 
+designs etched into the stone with pure gold.  On each column a large brass 
+scone holds a burning torch, filling the cooridor with light.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7562
+D2
+~
+~
+0 0 7560
+S
+#7562
+Before the Altar~
+~
+A large white altar lies before you, its surface gleaming in with light.  A 
+large fire burns on top of it, filling the room with the smell of burning 
+incense.  A large offering box is along the east wall, ready to accept 
+donations to the temple.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 7561
+R O 0 7560 0 7562
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

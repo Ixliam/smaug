@@ -1,0 +1,2375 @@
+#AREA        The Eastern Star Inn~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#28000
+robe druid~
+a druid~
+A robed druid rests here, meditating in silence.
+~
+This small female feylar, sits in the corner of the room on the floor, 
+meditating in silence.  Her greying fur suggests she's old indeed, and her 
+robes are a light green colour.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+30 0 -9 5d5+140 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28001
+young stableboy boy~
+a stableboy~
+A young stableboy is here, waiting to lead your horse away.
+~
+This young human boy can't be more than 10 years old.  He is wearing a 
+dirty tunic, and looks like he hasn't washed himself in weeks.
+~
+0
+Clanname none~
+0
+0
+129 0 200 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28002
+stablemaster master man~
+a stablemaster~
+The stablemaster is here, tending to the horses.
+~
+This middle-aged human is rather heavy and muscular.  He has dark black hair,
+and soft blue eyes.  He glances at you briefly, and turns back to his work.
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28003
+brown horse~
+a dark brown horse~
+A dark brown horse is here, munching on some hay.
+~
+This finely bred horse is dark brown, and has a long black mane.  It looks
+well-fed and brushed.  It is munching on some hay right now.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 7 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28004
+heavily armored dwarf~
+a heavily armored dwarf~
+A heavily armored dwarf is here, enjoying a fine dinner.
+~
+This is one of the largest dwarves you've ever seen.  He is wearing a finely
+made platemail, and a large axe hangs on his back.  From the dirt on his
+armor and equipment, it looks like he is on a long trip, and has just stopped
+in for a quick meal.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+35 1 -11 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28005
+serving wench young girl waitress~
+a serving wench~
+A young girl is here, going table to table pouring drinks.
+~
+This young human girl is moving table to table, pouring drinks and taking
+orders.  She has long blond hair tied back, and is wearing an old patched
+dress.  
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28006
+fat merchant~
+a fat merchant~
+A fat merchant is here, grabbing the serving wenches as they walk by.
+~
+This obese human is dressed in bright gaudy clothing of all types.  He is
+sitting at a table near the fireplace, watching the serving girls intently.
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28007
+old wizard~
+an old wizard~
+An old wizard is here, intently studying a thick tome.
+~
+This old human wizard is sitting at a table in the darkest corner of the 
+room, studying a thick book intently.  He has a long white beard, and 
+beady black eyes.  He wears crimson robes, and carries a long oak staff.
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+32 0 -10 5d6+150 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28008
+bartender~
+a bartender~
+The bartender is here, drearily wiping off the bar.
+~
+This tall burly human stands behind the bar and serves drinks for the inn's
+guests.  He is not wearing any armor or weapons, but you do notice many old
+scars covering his flesh, indicating that he has seen his share of fights.
+~
+0
+Clanname none~
+0
+0
+65 32 400 C
+130 0 -100 1d1+800 1d1+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28009
+obnoxious drunk~
+an obnoxious drunk~
+An obnoxious drunk is here, raving loudly about his problems.
+~
+This middle-aged male human looks and smells like he has been drinking for
+days.  His clothing is old and worn, and has a few stains.  His eyes are
+glassy, and it looks like he can barely stay on his stool.  He is raving
+nonsensically about how a dragon ate his village.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 0 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28010
+cleric robed priest~
+a cleric~
+A robed cleric sits here, enjoying a fine meal.
+~
+This old elf is here enjoying a fine meal.  He appears to be a priest of some
+type, as he wears robes and a holy symbol.  His clothing is fine, but seems
+worn and mud-spattered, perhaps he is on a long trip to some holy site.
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+30 0 -9 5d5+140 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28011
+cook~
+a cook~
+The cook is here, preparing meals for the guests.
+~
+This human woman appears to be the inn's cook, from the food stains on the
+apron she is wearing.  She is middle-aged, and slightly chubby.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28012
+young human boy~
+a boy~
+A young human boy is here, helping the cook.
+~
+This young human boy is about 15 years old, and is dressed neatly.  He is
+helping with various tasks in the kitchen, and carrying food into the
+common room for guests.
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28013
+dirty rat~
+a dirty rat~
+A dirty rat is here, trying to hide in the shadows.
+~
+This dirty rat is about a foot long, and is covered with filthy hair and
+scabs.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28014
+large draconian officer~
+a large draconian officer~
+A large draconian is here, running a meeting.
+~
+This is one mean looking draconian.  He is covered with dark green scales
+and many scars.  He is wearing some symbols on the sleeve of his armor,
+which seem to indicate that he is a ranking officer of some group.
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+23 0 -5 4d5+105 3d6+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28015
+green scaled draconian~
+a green scaled draconian~
+A green scaled draconian is here.
+~
+This draconian is covered by green scales.  He is glaring at you, and does
+not seem happy that you have interrupted the meeting.
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+18 0 -2 3d5+82 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28016
+innkeeper~
+an innkeeper~
+The innkeeper is here, looking at some papers on the desk.
+~
+This male human looks to be about 50 years old.  He has black hair which 
+appears to be partially greying, and soft brown eyes.  He seems preoccupied 
+with the work in front of him on the desk.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+26 0 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28017
+dark-haired woman~
+a dark-haired woman~
+A dark haired woman is here, hanging clothes in a cabinet.
+~
+This dark-haired woman was probably once a great beauty, but her age is now
+showing.  She has streaks of grey in her hair, and a tired look in her eyes.
+At the moment, she is hanging clothing in a cabinet, and looks very startled
+to see you here.
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28018
+striped gray black cat~
+a cat~
+A grey and black striped cat is here, licking itself.
+~
+This cat has somewhat long grey and black hair.  It is sitting on the floor
+cleaning itself with its tongue.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28019
+cloaked figure~
+a cloaked figure~
+A cloaked figure is here, angry at your intrusion.
+~
+This shadowy figure is surrounded by a black cloak that obscures its face
+and body.  The only thing you see clearly is the flash of steel in its hand.
+~
+0
+Clanname none~
+0
+0
+65 65536 -400 C
+18 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#28020
+robed merchant~
+a merchant~
+A robed merchant is here, counting a pile of coins.
+~
+This robed human seems to be a merchant of some type.  He is busy counting
+a pile of coins and shuffling around some papers.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#28000
+a wooden mace~
+a wooden mace~
+A wooden mace is lying here.~
+~
+5 256 4
+2 35 50 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28000 wooden mace~
+This small wooden mace, is rather quite common and unappealing in all 
+fashions.  Thick bands of black leather wrap around its hilt and a few knots 
+poke out at the head of the mace.  
+~
+#28001
+dirty cloth tunic~
+a dirty cloth tunic~
+A dirty cloth tunic is lying here.~
+~
+9 0 8
+2 2 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28001 dirty cloth tunic~
+This small cloth tunic has definitely seen better days.  It is torn or worn
+through in several places, and is very dirty.
+~
+#28002
+well~
+a well~
+A deep well is dug in the middle of the yard.~
+~
+25 0 16
+1 0 0 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28002 well deep~
+A deep well has been dug in the center of the yard.  It is surrounded by a
+low wall of stones, and has a bucket and robe for drawing water.
+~
+#28003
+board two-by-four~
+a two-by-four board~
+A 4-foot long board is lying here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28003 board two-by-four~
+This board is two by four inches wide, and about 4 feet long.  It is very
+sturdy.
+~
+#28004
+old leather pants~
+some old leather pants~
+A pair of old leather pants is laying here.~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28004 old leather pants~
+These old pants are somewhat worn, but still look like they offer a bit of
+protection.
+~
+#28005
+fine dwarven platemail~
+some fine dwarven platemail~
+A small, finely made platemail is here.~
+~
+9 0 8
+30 30 9 0 0 0 0
+1 710 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28005 fine dwarven platemail~
+This small platemail appears to be of dwarven make.  It is not especially
+fancy, but fits together very well, protecting most of the body.
+~
+#28006
+mithril axe~
+a mithril axe~
+A mithril axe is here.~
+~
+5 256 4
+2 38 51 8 0 0 0
+1 727 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28006 mithril axe~
+This axe appears to be of dwarven make.  It is made of mithril, and is much
+lighter than it looks.  The blade has been sharpened to a razor edge.
+~
+#28007
+blood red potion giant strength~
+a `#`Rblood red`^ potion~
+A `#`Rblood red`^ potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 315 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+28007 blood red potion~
+This blood red potion is in a short glass vial.  It has a few dwarven 
+runes on it.
+~
+#28008
+old patched dress~
+an old patched dress~
+An old patched dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28008 old patched dress~
+This old dress is made of cotton, and has been repaired many times.  It is
+various shades of blue.
+~
+#28009
+metal water pitcher~
+a metal water pitcher~
+A finely made metal water pitcher is here.~
+~
+17 0 16
+10 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28009 metal water pitcher~
+This water pitcher is finely made of steel or some other hard metal.  It is
+brightly polished, and has the letters 'ES' engraved on it.
+~
+#28010
+large backpack pack~
+a large backpack~
+A large backpack is here.~
+~
+15 0 8
+1 0 55 80 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28010 large backpack pack~
+This backpack is huge, and looks like it could hold quite a bit.  It is made  
+of leather, which appears to have been specially treated to resist fire and
+other damage.
+~
+#28011
+crimson robe~
+a `#`mcrimson`^ robe~
+A `#`mcrimson`^ robe is here.~
+~
+9 256 8
+30 30 6 0 0 0 0
+1 666 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28011 crimson robe~
+This crimson robe is made of some unrecognizable material.  It is soft to 
+the touch, yet seems far more durable than any normal cloth.  There are
+golden runes sewn into the collar and sleeves.
+~
+#28012
+rune-covered dagger~
+a rune-covered dagger~
+A rune-covered dagger is here.~
+~
+5 64 4
+2 35 50 8 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28012 rune-covered dagger~
+This short dagger is finely made of hard steel.  It is completely covered
+with engraved runes, and appears to be very sharp.
+~
+#28013
+oak staff~
+an oak staff~
+An oak staff is here.~
+~
+5 0 4
+1 35 50 32 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28013 oak staff~
+This is a simple oak staff.  It is about 5 feet long, and very sturdy.
+~
+#28014
+parchment scroll~
+a parchment scroll~
+A parchment scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 795 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+28014 parchment scroll~
+This scroll is made of parchment, and has strange writing on it.
+~
+#28015
+mug ale~
+a mug of ale~
+A frosty mug of ale is here.~
+~
+17 0 16
+2 3 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#28016
+cup honey mead~
+a cup of honey mead~
+A cup of honey mead is here.~
+~
+17 0 16
+3 20 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#28017
+glass red wine~
+a glass of `#`rred`^ wine~
+A glass of `#`rred`^ wine is here.~
+~
+17 0 16
+3 2 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#28018
+shot whisky~
+a shot of whisky~
+A shot of whisky is here.~
+~
+17 0 16
+1 5 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#28019
+bottle rum~
+a bottle of rum~
+A bottle of rum lies here.~
+~
+17 0 16
+10 34 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#28020
+broken bottle~
+a broken bottle~
+A broken bottle is lying here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28020 broken bottle~
+This bottle has been recently smashed in half, and as a result has some very
+sharp edges.  It might be used as a weapon if grasped by the top.
+~
+#28021
+fine steel mace~
+a fine steel mace~
+A fine steel mace is lying here.~
+~
+5 256 4
+2 35 50 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28021 fine steel mace~
+This sturdy mace is finely wrought of solid steel.  It is well balanced, and
+is in excellent condition.
+~
+#28022
+platinum holy symbol~
+a platinum `#`Wholy`^ symbol~
+A platinum `#`Wholy`^ symbol is here.~
+~
+9 256 8
+30 30 3 0 0 0 0
+1 788 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28022 platinum holy symbol~
+This small holy symbol is made of platinum, and is hanging on a thin chain.
+Engraved on it is a small dragon.
+~
+#28023
+sharp kitchen knife~
+a sharp kitchen knife~
+A sharp kitchen knife lies here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 135 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28023 sharp kitchen knife~
+This kitchen knife is made of steel, and has been sharpened to the point that
+it might serve as a weapon if necessary.
+~
+#28024
+old apron~
+an old cooking apron~
+An old cooking apron lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28024 old apron~
+An old white cooking apron.  It is covered with food stains.
+~
+#28025
+silver serving tray~
+a `#`Ssilver`^ serving tray~
+A `#`Ssilver`^ serving tray is here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28025 silver serving tray~
+This serving tray is finely made of silver.  On it is a stylized engraving of
+a star over a mountain range, and the initials "ES".
+~
+#28026
+serrated longsword sword~
+a serrated longsword~
+A longsword with a serrated blade lies here.~
+~
+5 0 4
+3 27 34 8 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28026 serrated longsword~
+This nasty looking longsword has been finely made of steel.  The blade is
+serrated and is extremely sharp.
+~
+#28027
+black ringmail~
+a `#`Sblack`^ ringmail~
+A `#`Sblack`^ ringmail lies here.~
+~
+9 0 8
+20 20 5 0 0 0 0
+1 402 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28027 black ringmail~
+This black armor is fashioned from hundreds of tiny steel rings.  It seems
+pretty durable.
+~
+#28028
+plain longsword sword~
+a plain longsword~
+A plain longsword lies here.~
+~
+5 0 4
+2 17 25 0 0 0 0
+1 411 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28028 plain longsword~
+This longsword is well-made, but has no decoration or adornment.  The edge
+is fairly sharp.
+~
+#28029
+steel ring~
+a `#`Ssteel`^ ring~
+A `#`Ssteel`^ ring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 444 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28029 steel ring~
+A simple steel ring, with no gems or decoration.
+~
+#28030
+wooden chest~
+a `#`ywooden`^ chest~
+A `#`ywooden`^ chest sits at the foot of the bed.~
+~
+15 0 8
+13 28031 200 100 0 0 0
+10 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28030 wooden chest~
+This wooden chest looks very old, but is still very sturdy.
+~
+#28031
+long iron key~
+a long iron key~
+A long iron key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28031 long iron key~
+This old key is made of iron.  You see the letters 'ES' engraved on it.
+~
+#28032
+pile coins~
+a pile of coins~
+A pile of coins lies here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28032 pile coins~
+A pile of silver and gold coins.
+~
+#28033
+small fine sapphire~
+a small fine `#`Bsapphire`^~
+A small fine `#`Bsapphire`^ lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 888 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28033 small fine sapphire~
+This small sapphire is finely cut and looks valuable.
+~
+#28034
+fine white shirt~
+a fine `#`Wwhite`^ shirt~
+A fine `#`Wwhite`^ shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28034 fine white shirt~
+A finely made white cotton shirt.
+~
+#28035
+soft leather pants~
+some soft leather pants~
+Some soft leather pants lie here.~
+~
+9 0 8
+20 20 1 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28035 pair soft leather pants~
+These pants are finely tailored from soft leather.  They look quite
+comfortable and protective.
+~
+#28036
+burgundy dress~
+a `#`rburgandy`^ dress~
+A `#`rburgandy`^ dress lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28036 burgundy dress~
+This dress is finely made of a burgundy-colored material.
+~
+#28037
+pearl necklace~
+a `#`Wpearl`^ necklace~
+A `#`Wpearl`^ necklace lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28037 pearl necklace~
+This necklace is made up of about thirty pearls on a string, with a small
+metal clasp.
+~
+#28038
+cat collar~
+a cat's collar~
+A cat's collar lies here.~
+~
+9 0 8
+2 2 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28038 cat collar~
+A leather cat collar, with a small metal clasp.
+~
+#28039
+comfortable bed~
+a comfortable bed~
+A wide, comfortable bed.~
+~
+12 0 8
+2000 9360 120 120 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28039 comfortable bed~
+This bed is crafted from oak wood and is finely made.  It is covered with
+fine linens and several pillows.
+~
+#28040
+long dagger~
+a long dagger~
+A long dagger lies here.~
+~
+5 0 4
+2 17 25 0 0 0 0
+1 360 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28040 long dagger~
+This long dagger is forged from steel, and has a wooden hilt.
+~
+#28041
+dirty leather armor~
+some dirty leather armor~
+A dirty leather armor lies here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 365 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28041 dirty leather armor~
+This leather armor is sized for a human, and looks like it covers most of
+the upper body.  It has been neglected and is quite dirty however.
+~
+#28042
+fancy red robe~
+a fancy `#`Rred`^ robe~
+A fancy `#`Rred`^ robe lies here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 181 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28042 fancy red robe~
+This robe is expertly crafted from dark red cloth.  The sleeves and collar
+are embroidered with gold cloth.  It looks valuable.
+~
+#28045
+cup milk~
+a cup of `#`Wmilk`^~
+A cup of `#`Wmilk`^ is here.~
+~
+17 0 16
+3 10 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28045 cup milk~
+A cup of milk.
+~
+#28046
+pitcher water~
+a pitcher of water~
+A pitcher of water is here.~
+~
+17 0 16
+5 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28046 pitcher water~
+A pitcher of crystal clear water.
+~
+#28047
+whole roasted partridge~
+a whole roasted partridge~
+A whole roasted partridge lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28047 whole roasted partridge~
+This whole partridge has been seasoned and roasted to perfection over an open flame.
+~
+#28048
+baked ham~
+a baked `#`rham`^~
+A baked `#`rham`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28048 baked ham~
+A juicy ham, baked in honey.
+~
+#28049
+bowl mushroom soup~
+a bowl of mushroom soup~
+A bowl of mushroom soup is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28049 bowl mushroom soup~
+This bowl of soup is full of mushrooms and is steaming hot.
+~
+#28050
+hard dinner roll~
+a hard dinner roll~
+A hard dinner roll is here~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28050 hard dinner roll~
+This hard bread has been baked to a golden brown color.
+~
+#28051
+bowl vegetable stew~
+a bowl of `#`gvegetable`^ stew~
+A bowl of `#`gvegetable`^ stew is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28051 bowl vegetable stew~
+This bowl is full of tasty vegetable stew.  It contains carrots, peas, 
+potatoes, beans, and several other vegetables.
+~
+#28052
+tall bar stool~
+a tall bar stool~
+A tall bar stool.~
+~
+12 0 8
+2000 146 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28052 tall bar stool~
+This bar stool is finely crafted from oak wood, and is just tall emough 
+to sit comfortably by the bar.
+~
+#28053
+tall bar stool~
+a tall bar stool~
+A tall bar stool.~
+~
+12 0 8
+2000 146 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28053 tall bar stool~
+This bar stool is finely crafted from oak wood, and is just tall emough 
+to sit comfortably by the bar.
+~
+#28054
+flagon dwarf spirits~
+a flagon of dwarf spirits~
+A flagon of dwarf spirits is here.~
+~
+17 0 16
+3 7 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28054 flagon dwarf spirits~
+A flagon of powerful dwarf spirits.
+~
+#28055
+leg mutton lamb~
+a leg of mutton~
+A leg of mutton is here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28055 leg mutton~
+This mutton is flamecooked to perfection.
+~
+#28056
+barbecued griffon wings~
+an order of `#`Rbarbequed`^ gryphon wings~
+An order of `#`Rbarbequed`^ gryphon wings is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28056 barbequed griffon wings~
+These wings are fried and covered with spicy barbeque sauce.
+~
+#28057
+long wooden bench~
+a long wooden bench~
+A long wooden bench.~
+~
+12 0 8
+10000 9360 105 105 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28057 long wooden bench~
+This bench is crafted from oak wood and is finely made.  It is long enough 
+to support four people confortably, and looks quite strong.
+~
+#28058
+trash can~
+a trash can~
+A trash can sits here.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28058 trash can~
+A wooden trash can, full of empty bottles.
+~
+#28059
+steel barding~
+some steel barding~
+Some steel barding has been left here.~
+~
+9 0 8
+2 2 2 0 0 0 0
+1 196 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28059 steel barding~
+Light steel armor for horses.
+~
+#0
+
+
+#ROOMS
+#28000
+Guest Room~
+~
+This bedroom is finely furnished with all manners of comfortable, cozy 
+looking furniture.  There is a wooden bed, covered in patch threaded 
+blankets.  In the northern corner a cabinet with a mirror attached to it, 
+and lying beside the bed is a beautiful white bear fur.  
+~
+1 8 0
+D3
+~
+door~
+1 0 28012
+R O 0 28039 0 28000
+R M 0 28000 1 28000
+  R E 0 28000 0 16
+S
+#28001
+Entry Yard of the Eastern Star Inn~
+~
+You stand in the entry yard of a large inn.  There is a very busy spot.  To 
+the north is a small stable, and the main entrance lies to the east.  The 
+inn is two stories high, and is made of dark grey stone.  There are several 
+windows facing this direction on both floors, and a large sign hangs above 
+the wooden door. 
+~
+1 0 1
+D0
+To the north lies a small stable.  You hear the sounds of horses from that
+direction.
+~
+~
+0 0 28002
+D1
+To the east is a wooden door that leads into the inn.
+~
+wooden door~
+1 0 28004
+R M 0 28001 1 28001
+  R E 0 28001 0 5
+R O 0 28002 0 28001
+E
+inn stone window windows~
+A large inn lies to your east.  It is built from dark grey stone, and has
+many windows.  There is a wooden door, above which a sign hangs.
+~
+E
+stable~
+A small stable is to the north.  You hear the sounds of horses from that
+direction.
+~
+E
+sign~
+The sign is made of wood.  It has carved into it "The Eastern Star", and has
+a carving of a bright star above a mountain range.
+~
+S
+#28002
+Stable of the Eastern Star Inn~
+~
+This stable is here to house the horses and mules of those staying at the
+inn.  It has 10 stalls, each having buckets for food and water.  The entire 
+floor is covered by straw, oates, and an occasional pile of horse dung.
+Bridles and saddles of various sizes hang next to each stall, along with
+brushes and other grooming materials.  The roof is partially open to the
+sky.  The exit is to the south, and there is another small room through a
+doorway to the west.
+~
+1 0 1
+D2
+The yard and the entrance to the inn are to the south.
+~
+~
+0 0 28001
+D3
+A small storeroom is through a doorway to the west.
+~
+~
+0 0 28003
+R M 0 28002 1 28002
+  R E 0 28003 0 16
+  R E 0 28004 0 7
+R M 0 28003 4 28002
+  R E 0 28059 0 5
+R M 0 28003 4 28002
+  R E 0 28059 0 5
+E
+stall stalls~
+Each stall has a simple wood frame, and has straw covering the floor.
+~
+E
+bucket buckets food water~
+There are several old metal buckets, each full of oates or water.
+~
+E
+dung~
+Horse shit.  It smells rather bad.
+~
+E
+bridles saddles brushes materials~
+Bridles, saddles, brushes, and other materials hang near each stall.
+~
+E
+straw~
+Dirty straw is scattered around the floor.
+~
+S
+#28003
+The Stable Storeroom~
+~
+This small room is where the food and other stable supplies are kept.  
+Several wooden bins line the walls, each full of various grains and oates.  
+Like the stable itself, the floor is covered with straw.  There are also
+two dirty pallets, which seem to indicate that the stable workers sleep 
+here.  An open doorway to the main stable is to the east.
+~
+1 8 0
+D1
+The stables are to the east.
+~
+~
+0 0 28002
+E
+food grains oates bins~
+There are several wooden bins that line the walls here.  Each is filled with
+grains and oates.
+~
+E
+straw~
+This straw is much cleaner than that in the stable.
+~
+E
+pallets~
+Two very dirty beds made of cloth and straw are here.
+~
+S
+#28004
+The Common Room~
+~
+This is the main common room of the Eastern Star Inn.  There are many 
+tables and chairs placed around the room, although few are being used at 
+the moment.  Windows line the south wall, and a huge stone fireplace is  
+in the southwest corner.  The bar and kitchen are to the north, and a 
+short hallway leads east to the reception desk and stairs.  The exit is  
+through a wooden door to the west.  It is very warm because of the fire, 
+and looks like an excellent place to sit back and enjoy a meal or a drink.
+~
+1 8 0
+D0
+The bar and kitchen are to the north.
+~
+~
+0 0 28005
+D1
+A short hallway leads to the reception desk and the stairs.
+~
+~
+0 0 28008
+D3
+The exit to the inn's yard lies through a wooden door to the west.
+~
+wooden door~
+1 0 28001
+R M 0 28004 1 28004
+  R E 0 28005 0 5
+  R E 0 28006 0 16
+  R G 0 28007 0
+R M 0 28005 2 28004
+  R E 0 28008 0 12
+  R E 0 28009 0 17
+R M 0 28006 4 28004
+  R E 0 28010 0 12
+R M 0 28007 1 28004
+  R E 0 28011 0 12
+  R E 0 28012 0 16
+  R G 0 28013 0
+  R G 0 28014 0
+R O 0 28057 0 28004
+R M 0 28010 1 28004
+  R E 0 28021 0 16
+  R E 0 28022 0 3
+E
+tables chairs~
+Finely made chairs and tables are placed around the room.  They are made of
+some hard wood, perhaps oak.
+~
+E
+windows~
+These windows are made of very well made glass and are divided into 4 panes.
+Through them you see the road a bit to the south.
+~
+E
+fireplace fire~
+A bright fire burns in a huge stone fireplace.  
+~
+E
+bar kitchen reception desk stairs~
+You can't make them out that well from here.  Perhaps you should go that 
+way and get a closer look.
+~
+S
+#28005
+The Bar~
+~
+This is the northernmost part of the common room.  The bar is here, made 
+of highly polished wood.  Behind it on shelves are many bottles of various 
+colored liquids, and several large wooden kegs.  A few unoccupied tall 
+stools sit in front of the bar.  There is a doorway to the north, and a 
+stairway that leads down.
+~
+1 8 0
+D0
+To the north, an open doorway leads into the kitchen.
+~
+~
+0 0 28006
+D2
+More of the common room and the exit is to the south.
+~
+~
+0 0 28004
+D5
+The stairs lead down into darkness.
+~
+~
+0 0 28007
+R M 0 28008 1 28005
+  R E 0 28034 0 5
+  R E 0 28035 0 7
+  R G 0 28015 0
+  R G 0 28016 0
+  R G 0 28017 0
+  R G 0 28018 0
+  R G 0 28054 0
+  R G 0 28019 0
+  R G 0 28045 0
+  R G 0 28046 0
+  R G 0 28047 0
+  R G 0 28048 0
+  R G 0 28049 0
+  R G 0 28050 0
+  R G 0 28051 0
+  R G 0 28056 0
+  R G 0 28055 0
+R M 0 28009 1 28005
+  R E 0 28020 0 16
+R O 0 28052 0 28005
+R O 0 28053 0 28005
+R O 0 28057 0 28005
+R O 0 28058 0 28005
+E
+bar polished wood~
+The bar is made of highly polished oak boards.  There are a few empty mugs
+sitting on it.
+~
+E
+bottles liquids~
+Many bottles of various shapes and sizes sit on the shelves.
+~
+E
+kegs~
+Two large wooden kegs, banded with metal strips, are resting on the floor
+behind the bar.
+~
+E
+stools~
+Several tall wooden stools are placed in front of the bar.
+~
+S
+#28006
+Kitchen~
+~
+This is the kitchen of the Eastern Star Inn.  On the west wall is a huge
+fireplace oven, in which a fire is burning.  Next to the oven are several
+pails of water, and scattered throughout the room are various cooking
+utensils.  There is a large table in the center of the room, upon which
+there are some food scraps and a few jugs of unidentified liquid.
+~
+1 8 0
+D2
+The bar and common room are to the south.
+~
+~
+0 0 28005
+R M 0 28011 1 28006
+  R E 0 28023 0 16
+  R E 0 28024 0 12
+R M 0 28012 1 28006
+  R E 0 28025 0 17
+E
+fireplace oven~
+A large oven shaped from dark grey stone.  There is a metal grill positioned
+above the fire.
+~
+E
+pails water~
+Water to put out the cooking fire and for other cooking purposes.
+~
+E
+utensils~
+Kitchen knives, large spoons, pots, pans, and various other cooking equipment.
+~
+E
+table~
+A large table, with a stone top.  It is covered with food scraps and jugs of
+liquid.
+~
+E
+scraps~
+Mostly pieces of meat, bread, and vegetables.
+~
+E
+jugs liquid~
+A few jugs filled with cooking materials.  One smells like vinegar, the
+others you don't recognize.
+~
+S
+#28007
+Cellar Storeroom~
+~
+This large underground room is packed full of jars, barrels, and sacks of
+various kinds of food and drink.  The walls are stone, and it is kept very
+cool so that the items don't spoil quickly.  The lighting is very poor.
+~
+1 8 0
+D4
+The bar and common room are just up the stairs.
+~
+~
+0 0 28005
+R M 0 28013 2 28007
+R M 0 28013 2 28007
+E
+jars~
+Jars of many sizes and colors, filled with food of all types.
+~
+E
+barrels~
+At least 10 huge barrels and kegs, filled with different liquids.
+~
+E
+sacks~
+Burlap sacks, filled with many kinds of food.
+~
+S
+#28008
+Hallway~
+~
+This wide hallway is very short.  It leads west to the common room, and
+east to the reception desk.  There is a doorway to the north.
+~
+1 8 0
+D0
+A large room lies through a doorway to the north.
+~
+door~
+0 -1 28009
+D1
+The reception desk and stairs to the second floor are to the east.
+~
+~
+0 0 28010
+D3
+The common room is to the west.
+~
+~
+0 0 28004
+S
+#28009
+Meeting Room~
+~
+This large room seems to be used as a meeting place for larger groups.  There
+is a wooden table taking up most of the center of the room.  Chairs are
+scattered throughout the room; some near the table and some facing a small
+fireplace on the north wall.  Near the fireplace is a window.
+~
+1 8 0
+D2
+The hallway is through the doorway to the south.
+~
+door~
+0 -1 28008
+R M 0 28014 1 28009
+  R E 0 28026 0 16
+  R E 0 28027 0 5
+R M 0 28015 4 28009
+  R E 0 28028 0 16
+  R E 0 28029 0 2
+R M 0 28015 4 28009
+  R E 0 28028 0 16
+  R E 0 28029 0 2
+R M 0 28015 4 28009
+  R E 0 28028 0 16
+  R E 0 28029 0 2
+R M 0 28015 4 28009
+  R E 0 28028 0 16
+  R E 0 28029 0 2
+E
+table~
+This wooden table seems to be carved of oak wood, and is very large.  It is
+rectangular in shape.
+~
+E
+chair chairs~
+All of the chairs are made of the same oak wood as the table.  Some of them
+even have cushions on the seat.
+~
+E
+window~
+A glass window in the north wall.  Through it you see the fields behind the
+inn.
+~
+E
+fireplace~
+A small fireplace in which a fire is burning merrily.
+~
+S
+#28010
+Inn's Reception~
+~
+This is more of a wide hallway than a room.  There is a small desk along the
+east wall, upon which is a guestbook and a pen.  Stairs lead up to the
+second floor, and the hallway runs west.  There is a wooden door to the
+north.
+~
+1 1073741832 0
+D0
+A wooden doorway is to the north.
+~
+wooden door~
+1 -1 28011
+D3
+The wide hallway leads to the west.
+~
+~
+0 0 28008
+D4
+The wooden stairs lead up to the second floor.
+~
+~
+0 0 28012
+R M 0 28016 1 28010
+  R G 0 28031 0
+  R E 0 28034 0 5
+  R E 0 28035 0 7
+E
+desk~
+This small desk is made of some unknown wood and is rather nondescript.
+~
+E
+guestbook book~
+The guestbook is full of the names of those who have stayed at the inn
+recently.  You don't recognize any of the names.
+~
+E
+pen~
+The pen is rather fancy.  It seems to be made from the feather of some large
+bird.  There is a small inkwell next to it.
+~
+S
+#28011
+Inkeepers Room~
+~
+This seems to be where the innkeeper and his wife live.  There is a large
+bed against one wall, and several chairs around a small table.  A fireplace
+is built into the north wall, as is a window.  Several cabinets are along
+the east wall, and a large chest lies at the foot of the bed.
+~
+1 8 0
+D2
+The reception and hallway are through the door to the south.
+~
+wooden door~
+1 -1 28010
+R O 0 28030 0 28011
+  R P 0 28032 1 28030
+  R P 0 28033 1 28030
+R M 0 28017 1 28011
+  R E 0 28036 0 12
+  R E 0 28037 0 3
+R M 0 28018 2 28011
+  R E 0 28038 0 3
+R O 0 28039 0 28011
+E
+chair chairs table~
+The table and chairs are carved from some unknown wood, and are rather
+nondescript.
+~
+E
+fireplace~
+A small fireplace in which a fire is burning merrily.
+~
+E
+window~
+This small window faces north, and overlooks the yard behind the inn.
+~
+E
+cabinet cabinets~
+The cabinets are open, and contain nothing but boring clothing.
+~
+S
+#28012
+Second Floor Hallway~
+~
+This hallway is wide and fairly short.  There are stairs leading down to the
+first floor, and doors to the north and south.  The hallway continues to the
+west, where you see more doors.
+~
+1 8 0
+D0
+A guest room is through a wooden doorway to the north.
+~
+door~
+1 -1 28013
+D1
+A guest room is through a wooden doorway to the east.
+~
+~
+1 0 28000
+D2
+A guest room is through a wooden doorway to the south.
+~
+door~
+1 -1 28014
+D3
+The hallway lead a short distance west, where you see more doors.
+~
+~
+0 0 28015
+D5
+The stairs lead down to the ground floor.
+~
+~
+0 0 28010
+E
+stairs~
+The stairs are made of wood, and lead down to the ground floor.
+~
+E
+door doors~
+The doors are made of wood.
+~
+S
+#28013
+Guest Room~
+~
+This is one of the inn's second floor guest rooms.  It is finely furnished
+with all sorts of comfortable furniture and decorations.  There is a large,
+comfortable bed, several chairs, a table, and a cabinet.  Built into the
+north wall is a small fireplace and a window.
+~
+1 8 0
+D2
+To the south is the door to the hallway.
+~
+door~
+1 -1 28012
+R O 0 28039 0 28013
+E
+furniture decorations~
+There is a bed, chairs, a table, and a cabinet.
+~
+E
+chairs table cabinet~
+The chairs, table and cabinet are all finely made from the same oak wood.
+~
+E
+fireplace~
+A small stone fireplace built into the north wall.
+~
+E
+window~
+A small window that faces north and overlooks the back yard of the inn and
+the mountain range to the north.
+~
+S
+#28014
+Guest Room~
+~
+This is one of the inn's second floor guest rooms.  It is finely furnished
+with all sorts of comfortable furniture and decorations.  There is a large,
+comfortable bed, several chairs, a table, and a cabinet.  Built into the
+south wall is a small fireplace and a window.
+~
+1 8 0
+D0
+To the north is the door to the hallway.
+~
+door~
+1 -1 28012
+R O 0 28039 0 28014
+R M 0 28020 1 28014
+  R E 0 28042 0 12
+E
+furniture decorations~
+There is a bed, chairs, a table, and a cabinet.
+~
+E
+chairs table cabinet~
+The chairs, table and cabinet are all finely made from the same oak wood.
+~
+E
+fireplace~
+A small stone fireplace built into the south wall.
+~
+E
+window~
+A small window that overlooks the road and forest to the south.
+~
+S
+#28015
+Second Floor Hallway~
+~
+The western end of this small hallway is rather unremarkable.  There are
+guest rooms through doorways to the north, south, and west.  Off to the east
+the hallway comes to more doors and a stairway.
+~
+1 8 0
+D0
+A guest room is through a wooden doorway to the north.
+~
+door~
+33 28099 28016
+D1
+The hallway runs east to the stairs and more rooms.
+~
+~
+0 0 28012
+D2
+A guest room is through a wooden doorway to the south.
+~
+door~
+1 -1 28017
+D3
+To the west is a wooden doorway which leads into a guest room.
+~
+~
+1 -1 28018
+E
+door doors~
+The doors are made of wood and lead into guest rooms.
+~
+S
+#28016
+Guest Room~
+~
+This is one of the inn's second floor guest rooms.  It is finely furnished
+with all sorts of comfortable furniture and decorations.  There is a large,
+comfortable bed, several chairs, a table, and a cabinet.  Built into the
+north wall is a small fireplace and a window.
+~
+1 8 0
+D2
+To the south is the door to the hallway.
+~
+door~
+33 28099 28015
+R O 0 28039 0 28016
+R M 0 28019 2 28016
+  R E 0 28040 0 16
+  R E 0 28041 0 5
+R M 0 28019 2 28016
+  R E 0 28040 0 16
+  R E 0 28041 0 5
+E
+furniture decorations~
+There is a bed, chairs, a table, and a cabinet.
+~
+E
+chairs table cabinet~
+The chairs, table and cabinet are all finely made from the same oak wood.
+~
+E
+fireplace~
+A small stone fireplace built into the north wall.
+~
+E
+window~
+A small window that faces north and overlooks the back yard of the inn and
+the mountain range to the north.
+~
+S
+#28017
+Guest Room~
+~
+This is one of the inn's second floor guest rooms.  It is finely furnished
+with all sorts of comfortable furniture and decorations.  There is a large,
+comfortable bed, several chairs, a table, and a cabinet.  Built into the
+south wall is a small fireplace and a window.
+~
+1 8 0
+D0
+To the north is the door to the hallway.
+~
+door~
+1 -1 28015
+R O 0 28039 0 28017
+E
+furniture decorations~
+There is a bed, chairs, a table, and a cabinet.
+~
+E
+chairs table cabinet~
+The chairs, table and cabinet are all finely made from the same oak wood.
+~
+E
+fireplace~
+A small stone fireplace built into the south wall.
+~
+E
+window~
+A small window that overlooks the road and forest to the south.
+~
+S
+#28018
+Guest Room~
+~
+This is one of the inn's second floor guest rooms.  It is finely furnished
+with all sorts of comfortable furniture and decorations.  There is a large,
+comfortable bed, several chairs, a table, and a cabinet.  Built into the
+west wall is a small fireplace and a window.
+~
+1 8 0
+D1
+To the east is the door to the hallway.
+~
+door~
+1 -1 28015
+R O 0 28039 0 28018
+E
+furniture decorations~
+There is a bed, chairs, a table, and a cabinet.
+~
+E
+chairs table cabinet~
+The chairs, table and cabinet are all finely made from the same oak wood.
+~
+E
+fireplace~
+A small stone fireplace built into the west wall.
+~
+E
+window~
+A small window that overlooks the road and forest to the west.
+~
+S
+#0
+
+
+#SHOPS
+ 28008    0  0  0  0  0   100  75         0 23    ; a bartender
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

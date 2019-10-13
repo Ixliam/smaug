@@ -1,0 +1,2011 @@
+#AREA        Olympus~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7601
+zeus god~
+zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+70 0 -40 7d10+360 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7602
+prometheus~
+prometheus~
+Prometheus is here, playing with a match.
+~
+This mortal risked the wrath of Zeus to give the gift of fire to humans.  He
+looks up at you and smiles.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+51 0 -21 5d9+280 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7603
+hermes~
+hermes~
+Hermes is busy, delivering a message.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+56 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7604
+poseidon~
+poseidon~
+Poseidon is dining here.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+59 0 -28 6d9+310 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7605
+apollo~
+apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is strumming on a lyre.  He smiles at you and asks you to
+join him.  You notice a dangerous looking bow by his side, however, and think
+that he knows more than music.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+58 0 -28 6d9+310 5d10+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7606
+ares~
+ares~
+Ares is here, kicking your butt.
+~
+The God of War is here, studying some maps.  He scowls at you as you enter
+and says 'I am very busy.  What do you want?'
+~
+0
+Clanname none~
+0
+0
+33 524288 -600 C
+59 0 -29 6d9+315 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7607
+athena~
+athena~
+Athena is relaxing here.
+~
+Zeus' favorite daughter is sitting on a couch eating grapes.  She smiles at
+you and invites you to join her.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+56 0 -26 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7608
+hephaestus smith~
+hephaestus~
+Hephaestus the Smith is here, crafting a fine weapon.
+~
+This God is the only one who is not physically perfect.  He is lame and very 
+ugly.  You get the impression that he is kind, however, and would go out of 
+his way to help you.  He is attended by his golden maidens. 
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7609
+handmaid golden~
+a Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+0
+Clanname none~
+0
+0
+5 524288 0 C
+26 0 -7 4d5+120 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7610
+soldier~
+a Soldier~
+A soldier is here, assisting Ares.
+~
+This man is waiting on Ares.  Although he does not look very strong, you
+realize that Ares would not have any weaklings working for him.
+~
+0
+Clanname none~
+0
+0
+33 524288 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7611
+musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7612
+boy serving servant~
+a serving boy~
+A servant is here, feeding Athena her grapes.
+~
+This boy is truly lucky to be able to serve Athena herself.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7613
+hound dog war~
+a hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+0
+Clanname none~
+0
+0
+33 524288 -200 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7614
+odin~
+odin~
+Odin is resting here.
+~
+As you gaze at Odin, you realize how insignificant you truly are.  He towers
+over you, and is so intent on his activities that he barely recognizes your
+presence.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7615
+grocer greengrocer julius shopkeeper~
+julius the Green Grocer~
+Julius the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7616
+alchemist shopkeeper~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the citizens here (but not you) with all manner of
+arcane supplies.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7617
+clive~
+clive the Weapons Master~
+Clive the Weapons Master is practicing with his bow and axe.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7618
+armourer samuel~
+samuel the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7619
+ra sun god~
+`#`wRa the Sun God`^~
+Ra the Egyptian Sun God is resting here.
+~
+Ra is very bright!  It hurts your eyes to look at him, so you can tell little
+about his appearance.  What you can tell, however, suggests that he is no one
+to be trifled with.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7620
+chimera~
+a chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+0
+Clanname none~
+0
+0
+33 524288 -600 C
+34 0 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7621
+hera~
+hera~
+Hera is here.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+59 0 -29 6d9+315 5d10+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7622
+roc~
+a roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+0
+Clanname none~
+0
+0
+5 524288 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7623
+citizen resident~
+a citizen~
+A citizen of this town is strolling down the street here.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+35 0 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7624
+pegasus horse snow white~
+`#`wa `Wb`we`Wa`wu`Wt`wi`Wf`wu`Wl snow white `wp`We`wg`Wa`ws`Wu`ws`^~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7625
+cook~
+a Cook~
+A cook is here, hard at work.
+~
+This man looks as is he has been spending WAY too much time in the kitchen.
+~
+0
+Clanname none~
+0
+0
+5 524288 600 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7626
+jailer~
+the Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+0
+Clanname none~
+0
+0
+5 524288 0 C
+22 0 -5 4d5+90 2d7+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7600
+aegis plate~
+`#`wAeg`si`ws Pl`sa`wtem`sa`wi`sl`^~
+A powerful breast plate has been left here.~
+~
+9 64 8
+50 50 15 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7601
+hammer thunder bolt thunderbolt~
+`#`wa huge `st`wh`su`wn`sd`we`sr bolt `wshaped `shammer`^~
+A huge hammer has been carelessly dropped here.~
+~
+5 64 4
+7 89 118 64 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7602
+golden winged helmet~
+`#`ya `Yg`yo`Yl`yd`Ye`yn `Yw`yi`Yn`yg`Ye`yd helmet`^~
+A helmet with small wings lies here.~
+~
+9 64 8
+40 40 10 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7603
+spear ares~
+`Gt`gh`Ge s`gpea`Gr of A`gre`Gs`n~
+A wicked spear rests on the ground here.~
+~
+5 64 4
+15 78 101 1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7604
+sandals winged~
+`#`wa pair of `swinged `ysandals`^~
+A pair of well made sandals lies here.~
+~
+9 64 8
+40 40 8 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7605
+staff ivory~
+`#`wan ivory `sstaff`^~
+An ivory staff.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#7606
+trident poseidon~
+`#`wa gigantic `Yg`yo`Yl`yd`Ye`yn trident`^~
+A huge three pronged spear lies here.~
+~
+5 64 4
+2 78 101 32 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7607
+silver long bow~
+`#`wa m`Wa`wg`Wn`wi`Wf`wi`Wc`we`Wn`wt `ss`wi`Wl`sv`we`Wr `wlong `sbow`^~
+A silver bow.~
+~
+5 0 4
+13 14 24 2048 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7608
+gauntlets flaming~
+`#`wa pair of `Rf`rl`Ra`rm`Ri`rn`Rg `sgauntlets`^~
+A pair of metal gauntlets flame here.~
+~
+9 64 8
+10 10 8 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7609
+pill ambrosia~
+`#`Ma`mm`Mb`mr`Mo`ms`Mi`ma`^~
+Some ambrosia lies here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7610
+necklace glowing~
+`#`wa `Yg`yl`Yo`yw`Yi`yn`Yg `wnecklace`^~
+A necklace with an inner glow lies here.~
+~
+9 64 8
+40 40 7 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7611
+diadem crown lustering sapphires~
+`#`wa `Wd`wi`Wa`wd`We`wm made of `Wl`wu`Ws`wt`We`wr`Wi`wn`Wg `Bs`ba`Bp`bp`Bh`bi`Br`be`Bs`^~
+A diadem of sapphires has been dropped here.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7612
+shield glowing~
+`#`wa brightly `Yg`yl`Yo`yw`Yi`yn`yg `sshield`^~
+A shield lies here, filling the room with its aura.~
+~
+9 64 8
+40 40 13 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7613
+axe notched~
+`#`sa notched axe`^~
+A notched axe.~
+~
+5 0 4
+2 38 51 16 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7614
+grapes~
+`#`wa bunch of `mgrapes`^~
+A bunch of grapes.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7615
+fan peacock feathers~
+`#`wa `cfan `wmade of `Cp`ce`wa`Wc`wo`cc`Ck `wfeathers`^~
+A fan made of peacock feathers.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7616
+lyre~
+`#`wa `Wb`we`Wa`wu`Wt`wi`Wf`wu`Wl`wl`Wy `wmade `ylyre`^~
+A lyre is laying here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7617
+nugget gold~
+`#`ya `Ygold `ynugget`^~
+A gold nugget lies gleaming here.~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7618
+apple~
+`#`wa bright `Rred `wapple`^~
+An apple is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7619
+plump juicy pear~
+`#`wa plump juicy `ypear`^~
+A pear is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7620
+blood red orange~
+`#`wa huge `rb`ylood `rred `yorange`^~
+A orange is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7621
+kiwi~
+`#`ga kiwi`^~
+A kiwi is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7622
+amulet sun~
+`#`YT`yh`Ye A`ym`Yu`yl`Ye`yt `Yo`yf `Yt`yh`Ye S`yu`Yn`^~
+A sun shaped medallion is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7623
+sun sword~
+`#`Yt`yh`Ye `YS`yw`Yo`yr`Yd `yo`Yf `yt`Yh`ye `YS`yu`Yn`n`^~
+A beautiful sword with the rising sun etched on the pommel is lying here.~
+~
+5 64 4
+4 89 118 1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7624
+robe deep blue long flowing~
+`#`wa `bdeep blue `wlong flowing `srobe`^~
+A deep blue robe is on the ground here.~
+~
+9 0 8
+45 45 11 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7625
+wide brimmed hat~
+`#`wa wide brimmed `shat`^~
+A hat is lying here.~
+~
+9 0 8
+45 45 10 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7626
+nectar potion gods sanctuary giant strength refresh~
+`#`WN`we`Wc`wt`Wa`wr of the `YG`yo`Yd`ys`^~
+A vial of nectar is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7627
+key cell~
+a Cell key~
+A key has been left here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7628
+map olympus secret~
+a secret map of Olympus~
+A rolled up map is here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7628 map olympus secret~
+.
+                              The Secret Map Of
+                               *****OLYMPUS*****
+ 
+                                   (Hermes)
+                                   Bedroom    The Portal
+                                      |           |
+                                   Northern  Hall of Gods
+                                     Hall    /
+                        Western       |    /    Eastern
+              Bedroom----Hall----Second Floor----Hall----Bedroom
+              (Hera)            /     |                 (Poseidon)
+                         Stairway  Southern
+          (Prometheus)       |       Hall                    North
+              Cell    /Throne Room    |                        |  /Up
+                |   /     (Zeus)   Bedroom                     |/
+       Cell-Dungeon-Cell     |                          West---+---East
+  (Chimera)(Jailor)(Chimera) |                                /|
+                             |                          Down/  |
+                  Kitchen    |     Stable                    South
+        (Odin)       |       |       |       (Ra)
+        Guest     Western  Castle  Eastern   Guest      ()Mob Location
+       Quarters----Wing----Entry----Wing----Quarters
+                     |       |       |
+                  Storage   Z|   Storage Room
+                   Room     e|
+                            u|  Believer
+                            s|     |    (Hephaestus)
+                             |  Planning---Smithy
+                            S|  Room(Ares)   |
+                            t|               |  (Clive)
+                 (Alchemist) +--Ares Street--+--Weapon
+                    Mystery  |               |   Shop
+                    Shop-----+               |
+                             |            Armoury
+                   Residence-+-Residence  (Samuel)
+                   (Apollo)  |  (Athena)
+                             |
+             (Julius)Bakery--+
+                             |
+                       **Entrance**
+                            /
+                      Mountain
+~
+#0
+
+
+#ROOMS
+#7601
+Mountain~
+~
+You are on the side a large mountain cliff. A small rugged path heads up the 
+mountain to parts unknown. Rubble covers the ground, and there appears no 
+other way to go over, down, or around the mountain. 
+~
+1 33554440 17
+D4
+~
+~
+0 -1 7602
+R O 0 7900 0 7601
+S
+#7602
+Mountain~
+~
+You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.
+~
+1 33554440 9
+D4
+~
+~
+0 -1 7603
+D5
+~
+~
+0 -1 7601
+S
+#7603
+Mountain~
+~
+You have finally reached the top of the mountain.  The air here is so thin
+that you must gasp for breath.  To the north, you see what seems to be the
+entrance to a city.
+~
+1 33554440 9
+D0
+~
+~
+0 -1 7604
+D5
+~
+~
+0 -1 7602
+S
+#7604
+Entrance~
+~
+You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have never
+seen a city with such beautiful buildings.
+~
+1 33554440 1
+D0
+~
+~
+0 -1 7605
+D2
+~
+~
+0 -1 7603
+R M 0 7623 10 7604
+S
+#7605
+Zeus Street~
+~
+You are walking down a huge street.  You notice that there are not many
+people in this town.  On a corner, you see a sign marked 'Zeus Street'.
+To the west, you see a small store.
+~
+1 33554440 1
+D0
+The street continues.
+~
+~
+0 -1 7606
+D2
+~
+~
+0 -1 7604
+D3
+~
+~
+0 -1 7624
+R M 0 7623 10 7605
+S
+#7606
+Zeus Street~
+~
+You are walking down what appears to be the main street of this city.
+You see large residences to the east and west, while the street continues
+to the north and south.
+~
+1 33554440 1
+D0
+~
+~
+0 -1 7607
+D1
+~
+~
+0 -1 7625
+D2
+The street continues.
+~
+~
+0 -1 7605
+D3
+~
+~
+0 -1 7626
+R M 0 7623 10 7606
+S
+#7607
+Zeus Street~
+~
+You are on the main street of this town, called Zeus street. There is some
+sort of store to the west.
+~
+1 33554440 1
+D0
+~
+~
+0 -1 7608
+D2
+~
+~
+0 -1 7606
+D3
+~
+~
+0 -1 7627
+R M 0 7623 10 7607
+S
+#7608
+Zeus Street~
+~
+You are still on the main thoroughfare of this town.  To the north, you see
+a large castle.  To the east there is a smaller road.
+~
+1 33554440 1
+D0
+~
+~
+0 -1 7609
+D1
+~
+~
+0 -1 7628
+D2
+~
+~
+0 -1 7607
+R M 0 7623 10 7608
+S
+#7609
+Castle Entryway~
+~
+You are in the entryway of a large castle.  It is very beautiful, with
+large paintings and a lovely carpet.  You hear jovial laughter to the north,
+while smaller corridors branch off to the east and west.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7610
+D1
+~
+~
+0 -1 7615
+D2
+~
+~
+0 -1 7608
+D3
+~
+~
+0 -1 7611
+S
+#7610
+Throne Room~
+~
+You stop dead in your tracks as you enter this room.  Before you is Zeus,
+in all his glory, sitting on a huge golden throne.  You had thought him to be 
+just a myth, but here he is ... you wonder who else lives in this castle.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7623
+D2
+~
+~
+0 -1 7609
+D5
+~
+throne trapdoor~
+1 -1 7618
+R M 0 7601 1 7610
+  R E 0 7600 0 5
+  R E 0 7601 0 16
+  R G 0 7626 0
+  R G 0 7609 0
+E
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+S
+#7611
+Western Wing~
+~
+You are in the western wing of the castle.  You see the entrance to the
+east, while this hallway continues to the west.
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7609
+D3
+~
+~
+0 -1 7612
+S
+#7612
+Western Wing~
+~
+You are in the western wing of the castle.  The hallway continues to the
+north, while there are private rooms to the west and south.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7613
+D1
+~
+~
+0 -1 7611
+D2
+~
+~
+0 -1 7630
+D3
+~
+~
+0 -1 7629
+S
+#7613
+Western Wing~
+~
+You are in the western wing of the castle.  This hallway continues to the
+south, and you hear pots and pans rattling to the north.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7614
+D2
+~
+~
+0 -1 7612
+S
+#7614
+Kitchen~
+~
+You have entered the kitchen of this castle, and it is a hotbed of
+activity.  Servants are bustling about, preparing food for the Gods themselves.
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7613
+R M 0 7625 4 7614
+R M 0 7625 4 7614
+S
+#7615
+Eastern Wing~
+~
+You are in the eastern wing of the castle.  The hall continues to the
+east, while the entrance is back to the west.
+~
+1 8 0
+D1
+~
+~
+0 -1 7616
+D3
+~
+~
+0 -1 7609
+S
+#7616
+Eastern Wing~
+~
+You are in the eastern wing of the castle.  The hall turns to the north
+here, while there are private rooms to the east and the south.
+~
+1 8 0
+D0
+~
+~
+0 -1 7617
+D1
+~
+~
+0 -1 7631
+D2
+~
+~
+0 -1 7632
+D3
+~
+~
+0 -1 7615
+S
+#7617
+Eastern Wing~
+~
+You are in the eastern wing of the castle.  You hear animals to the north,
+while the hallway continues to the south.
+~
+1 8 0
+D0
+~
+~
+0 -1 7633
+D2
+~
+~
+0 -1 7616
+S
+#7618
+Dungeon~
+~
+You are in Zeus's Dungeon.  You wonder what creatures are so terrible that
+even mighty Zeus fears them enough to imprison them.
+~
+1 9 0
+D0
+~
+~
+0 -1 7619
+D4
+~
+trapdoor throne~
+0 -1 7610
+R M 0 7626 1 7618
+  R G 0 7627 0
+S
+#7619
+Dungeon~
+~
+You are in Zeus's Dungeon.  There are cells to the north, west, and east. 
+From the east and west, you hear guttural noises.  From the north, nothing ...
+~
+1 9 0
+D0
+~
+door~
+33 7627 7620
+D1
+~
+door~
+33 7627 7622
+D2
+~
+~
+0 -1 7618
+D3
+~
+door~
+33 7627 7621
+S
+#7620
+Cell~
+~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+1 9 0
+D2
+~
+door~
+33 7627 7619
+R M 0 7602 1 7620
+  R G 0 7628 0
+  R E 0 7608 0 9
+S
+#7621
+Cell~
+~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+1 9 0
+D1
+~
+door~
+33 7627 7619
+R M 0 7620 2 7621
+S
+#7622
+Cell~
+~
+You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+1 9 0
+D3
+~
+door~
+33 7627 7619
+R M 0 7620 2 7622
+S
+#7623
+Stairway~
+~
+You have come to a large stairway leading up.  To the south, you see the
+throne room of Zeus.
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7610
+D4
+~
+~
+0 -1 7639
+S
+#7624
+Bakery~
+~
+You are in the small store which supplies the residents of this town with
+their food.  It smells wonderful in here!
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7605
+R M 0 7615 1 7624
+  R G 0 7614 0
+  R G 0 7618 0
+  R G 0 7619 0
+  R G 0 7620 0
+  R G 0 7621 0
+S
+#7625
+Residence~
+~
+You are in the residence of one of the inhabitants of this town.  She
+looks vaguely familiar, but you can't place her name ...
+~
+1 33554440 0
+D3
+~
+~
+0 -1 7606
+R M 0 7607 1 7625
+  R E 0 7610 0 3
+  R E 0 7605 0 17
+  R G 0 7626 0
+  R G 0 7609 0
+R M 0 7612 4 7625
+  R E 0 7615 0 17
+  R G 0 7614 0
+R M 0 7612 4 7625
+  R E 0 7615 0 17
+  R G 0 7614 0
+S
+#7626
+Residence~
+~
+You are in the residence of one of the inhabitants of this town.  He looks
+vaguely familiar, but you can't place his name ...
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7606
+R M 0 7605 1 7626
+  R E 0 7607 0 16
+  R G 0 7626 0
+  R G 0 7609 0
+R M 0 7611 4 7626
+  R E 0 7616 0 17
+  R G 0 7621 0
+R M 0 7611 4 7626
+  R E 0 7616 0 17
+  R G 0 7621 0
+S
+#7627
+Mystic Shop~
+~
+You are in the store which provides the citizens here with whichever
+arcane objects they may need.
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7607
+R M 0 7616 1 7627
+  R G 0 7605 0
+  R G 0 7609 0
+  R G 0 7626 0
+S
+#7628
+Ares Street~
+~
+You are on a smaller road which branches off from the main street.  On a
+sign, you notice that the name of this road is Ares Street.
+~
+1 33554440 1
+D1
+~
+~
+0 -1 7634
+D3
+~
+~
+0 -1 7608
+R M 0 7623 10 7628
+S
+#7629
+Guest Quarters~
+~
+You have entered private quarters which are reserved for visitors to the
+castle.  You nearly faint as you recognize the occupant of this chamber as Odin
+himself, patron God of Midgaard.  He must be visiting Zeus.
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7612
+R M 0 7614 1 7629
+  R E 0 7624 0 12
+  R E 0 7625 0 6
+S
+#7630
+Storage Room~
+~
+You are in a storage room of the castle.  There isn't much here, just a
+few boxes filled with old junk.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7612
+S
+#7631
+Guest Quarters~
+~
+You have entered a room reserved for visitors to this castle.  You are
+amazed as you recognize the occupant - Ra, the Egyptian Sun God.  He must be
+visiting Zeus.
+~
+1 8 0
+D3
+~
+~
+0 -1 7616
+R M 0 7619 1 7631
+  R E 0 7622 0 3
+  R E 0 7623 0 16
+S
+#7632
+Storage Room~
+~
+You are in a storage room of the castle.  There isn't much here, just a lot
+of dust.
+~
+1 8 0
+D0
+~
+~
+0 -1 7616
+S
+#7633
+Stable~
+~
+You are in the stable of the castle.  Rather than the horses which you
+expected to find, it is filled with a wide variety of creatures which you
+thought were mythical.  Obviously, you were wrong.
+~
+1 8 0
+D2
+~
+~
+0 -1 7617
+R M 0 7622 3 7633
+R M 0 7622 3 7633
+R M 0 7624 3 7633
+R M 0 7624 3 7633
+S
+#7634
+Ares Street~
+~
+You have reached the end of Ares Street.  To the south you see an armoury,
+while there is a weapons shop to the east.  To the north, you hear the sounds
+of a blacksmith.
+~
+1 33554440 1
+D0
+~
+~
+0 -1 7637
+D1
+~
+~
+0 -1 7636
+D2
+~
+~
+0 -1 7635
+D3
+~
+~
+0 -1 7628
+R M 0 7623 10 7634
+S
+#7635
+Armoury~
+~
+This small store is almost empty.  It seems as if there is not much here,
+but the shopkeeper doesn't want to do business with you anyways.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7634
+R M 0 7618 1 7635
+  R G 0 7604 0
+  R G 0 7608 0
+  R G 0 7611 0
+S
+#7636
+Weapon Shop~
+~
+You have entered a small store with a modest selection of weapons.  You
+get the feeling that there is not a very wide selection here, but the
+shopkeeper doesn't want to do business with you anyways.
+~
+1 33554440 0
+D3
+~
+~
+0 -1 7634
+R M 0 7617 1 7636
+  R G 0 7607 0
+  R G 0 7613 0
+S
+#7637
+Smithy~
+~
+This large room is so noisy, you can barely hear yourself think.  All the
+occupants are hard at work, crafting high quality weapons and armor.  Something
+is strange about the west wall, although you can't quite tell what it is.
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7634
+D3
+You see a concealed door!
+~
+door concealed~
+1 -1 7638
+R M 0 7608 1 7637
+  R E 0 7612 0 11
+  R G 0 7626 0
+  R G 0 7609 0
+R M 0 7609 4 7637
+  R G 0 7617 0
+R M 0 7609 4 7637
+  R G 0 7617 0
+S
+#7638
+The Planning Room~
+~
+You have entered a large room dominated by a huge table with a large map
+on it.  Several men are gathered around the table, studying the map carefully.
+You hear the barking of dogs to the north.
+~
+1 9 0
+D0
+~
+~
+0 -1 7654
+D1
+~
+~
+0 -1 7637
+R M 0 7606 1 7638
+  R E 0 7603 0 16
+  R G 0 7626 0
+  R G 0 7609 0
+R M 0 7610 4 7638
+  R E 0 7613 0 16
+  R G 0 7619 0
+R M 0 7610 4 7638
+  R E 0 7613 0 16
+  R G 0 7619 0
+S
+#7639
+Second Floor~
+~
+You are on the second floor of this castle.  You are numb from your
+discoveries on the first floor, and wonder what secrets the upper floor of this
+castle holds.  Hallways extend in all directions, and you see a small, closed 
+hatch above you.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7640
+D1
+~
+~
+0 -1 7643
+D2
+~
+~
+0 -1 7641
+D3
+~
+~
+0 -1 7642
+D4
+You see a sign on the hatch.  It reads 'Private Property. No trespassing!'
+~
+hatch~
+1 -1 7648
+D5
+~
+~
+0 -1 7623
+S
+#7640
+Northern Hall~
+~
+You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7647
+D2
+~
+~
+0 -1 7639
+S
+#7641
+Southern Hall~
+~
+You are in the southern hallway.  There is a private room to the south,
+and the stairs leading down are to the north.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7639
+D2
+~
+~
+0 -1 7644
+S
+#7642
+Western Hall~
+~
+You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7639
+D3
+~
+~
+0 -1 7645
+S
+#7643
+Eastern Hall~
+~
+You are in the eastern hallway.  There is a private room to the east, and
+the stairs leading down are to the west.
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7646
+D3
+~
+~
+0 -1 7639
+S
+#7644
+Bed Room~
+~
+You are in the bed room of a God!  This one seems to be empty.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7641
+S
+#7645
+Bed Room~
+~
+You are in the bed room of a God!
+~
+1 33554440 0
+D1
+~
+~
+0 -1 7642
+R M 0 7621 1 7645
+  R E 0 7611 0 6
+  R G 0 7626 0
+  R G 0 7609 0
+S
+#7646
+Bed Room~
+~
+You are in the bed room of a God!
+~
+1 33554440 0
+D3
+~
+~
+0 -1 7643
+R M 0 7604 1 7646
+  R E 0 7606 0 16
+  R G 0 7626 0
+  R G 0 7609 0
+S
+#7647
+Bed Room~
+~
+You are in the bed room of a God!
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7640
+R M 0 7603 1 7647
+  R E 0 7604 0 8
+  R E 0 7602 0 6
+  R G 0 7626 0
+  R G 0 7609 0
+S
+#7648
+Hall of Gods~
+~
+You have entered the most sacred of places, the hall of true Gods.  If you
+are a mortal, it would probably be a good idea to leave NOW!  Exits leave in
+all directions.
+~
+1 33554440 0
+D0
+~
+~
+0 -1 7651
+D5
+~
+hatch~
+0 -1 7639
+S
+#7651
+The Portal~
+~
+A sign reads: Beware of the unexpected and don't expect too much.
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7648
+S
+#7654
+The Believer~
+~
+A voice whispers, 'before the time has passed, enjoy your life.'
+~
+1 33554440 0
+D2
+~
+~
+0 -1 7638
+R M 0 7613 5 7654
+R M 0 7613 5 7654
+R M 0 7613 5 7654
+S
+#0
+
+
+#SHOPS
+ 7615    1  8 13 15 19   120  80         0 23    ; julius the Green Grocer
+ 7616   26 10  3  4  0   105 100         1 23    ; the Alchemist
+ 7617    0  0  0  0  0   105 100         0 23    ; clive the Weapons Master
+ 7618    5  9 33  0  0   100  50         0 23    ; samuel the Armourer
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

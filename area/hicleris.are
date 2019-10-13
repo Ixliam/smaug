@@ -1,0 +1,1021 @@
+#AREA        High Clerists Tower~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#45325
+furry white mouse~
+a furry `#`Wwhite`^ mouse~
+A furry `#`Wwhite`^ mouse cleans its whiskers here.
+~
+A furry white mouse sits here cleaning its whiskers.  It has tiny paws which 
+it first licks, and then rubs over its head and face.  Of course it would 
+stop cleaning, at the first smell of cheese.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45326
+fly~
+a fly~
+A fly is buzzing around in the air.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45327
+gnat~
+a small gnat~
+A small gnat is flying about.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45328
+dirty rat~
+a dirty rat~
+A dirty rat is here, trying to hide in the shadows.
+~
+This dirty rat is about a foot long, and is covered with filthy hair and
+scabs.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45329
+pesky mosquito~
+a pesky mosquito~
+A pesky mosquito buzzes in your ear.
+~
+This mosquito is small and black, but it sure is annoying.  It flies around 
+looking for a nice piece of flesh to sink its proboscis into, and buzzes 
+loudly.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45330
+centipede~
+a centipede~
+A small orange centipede scurries about the floor.
+~
+The centipede has a multi-segmented body, and each segment sports a set of 
+legs.  It uses two antenae to find things to eat and to navigate about.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45331
+red scorpion~
+a red scorpion~
+A red scorpion is walking around here.
+~
+Frightening it is, with its poisoning tail. What a creepy figure it is, so red 
+and so scary.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45332
+ladybug~
+a ladybug~
+A ladybug is crawling on the ground here.
+~
+The ladybug has several orange dots on its back, and is crawling around on 
+the ground, looking for aphids.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45333
+red ant~
+a red ant~
+A large red ant is here, looking for food.
+~
+This large red ant looks somewhat harmless, though it can bite.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45334
+cockroach roach~
+a cockroach~
+A nasty cockroach is hiding in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45335
+crow bird~
+a crow~
+A crow is flying around in the air.
+~
+This is a small black crow. It pecks at the various crops here.
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45336
+vulture~
+a vulture~
+A large black vulture flies here.
+~
+You see a large black vulture flying here. It is a very large bird, and
+is circling in the sky, looking for something on the ground.
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45337
+tiny green grasshopper~
+`#a tiny `Ggreen `^grasshopper~
+`#A tiny `Ggreen`^ grasshopper springs back and forth here.
+~
+This small grasshopper bounces around happily as it sits upon blades of 
+grass.  The long legs on the grasshopper makes it possible to spring several 
+feet with one leap.  It jumps back and forth and is hard to keep an eye on.  
+
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#45338
+cleric~
+a cleric~
+A cleric stands stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#45325
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D1
+~
+~
+0 0 45327
+D2
+~
+~
+0 0 45335
+D3
+~
+~
+0 0 45326
+R M 0 45332 2 45325
+S
+#45326
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D1
+~
+~
+0 0 45325
+D3
+~
+~
+0 0 45349
+R M 0 45334 1 45326
+S
+#45327
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D1
+~
+~
+0 0 45333
+D3
+~
+~
+0 0 45325
+R M 0 45328 2 45327
+S
+#45328
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  The western entrance lies to the east.  
+~
+1 0 2
+D0
+~
+~
+0 0 45349
+D1
+~
+~
+0 0 45340
+D2
+~
+~
+0 0 45329
+S
+#45329
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D0
+~
+~
+0 0 45328
+D1
+~
+~
+0 0 45330
+R M 0 45335 1 45329
+S
+#45330
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  To the north lies the south tower entrance.  
+~
+1 0 2
+D0
+~
+~
+0 0 45347
+D1
+~
+~
+0 0 45332
+D3
+~
+~
+0 0 45329
+S
+#45331
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  The eastern entrance lies to the west.  
+~
+1 0 2
+D0
+~
+~
+0 0 45333
+D1
+~
+~
+0 0 7359
+D2
+~
+~
+0 0 45332
+D3
+~
+~
+0 0 45344
+S
+#45332
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D0
+~
+~
+0 0 45331
+D3
+~
+~
+0 0 45330
+R M 0 45326 1 45332
+R M 0 45338 6 45332
+S
+#45333
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D2
+~
+~
+0 0 45331
+D3
+~
+~
+0 0 45327
+R M 0 45338 6 45333
+S
+#45334
+Northwest Corner of the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 45335
+D2
+~
+~
+0 0 45337
+D7
+~
+~
+0 0 45338
+S
+#45335
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 45336
+D2
+~
+~
+0 0 45338
+D3
+~
+~
+0 0 45334
+S
+#45336
+Northeast Corner of the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 45339
+D3
+~
+~
+0 0 45335
+D8
+~
+~
+0 0 45338
+R M 0 45337 2 45336
+S
+#45337
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45334
+D1
+~
+~
+0 0 45338
+D2
+~
+~
+0 0 45340
+R M 0 45337 1 45337
+S
+#45338
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45335
+D1
+~
+~
+0 0 45339
+D2
+~
+~
+0 0 45342
+D3
+~
+~
+0 0 45337
+D6
+~
+~
+0 0 45336
+D7
+~
+~
+0 0 45344
+D8
+~
+~
+0 0 45340
+D9
+~
+~
+0 0 45334
+R M 0 45334 2 45338
+R M 0 45325 3 45338
+R M 0 45327 1 45338
+S
+#45339
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45336
+D2
+~
+~
+0 0 45344
+D3
+~
+~
+0 0 45338
+R M 0 45326 2 45339
+S
+#45340
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45337
+D1
+~
+~
+0 0 45342
+D2
+~
+~
+0 0 45341
+D3
+~
+~
+0 0 45328
+D6
+~
+~
+0 0 45338
+D7
+~
+~
+0 0 45343
+R M 0 45329 1 45340
+S
+#45341
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45340
+D1
+~
+~
+0 0 45343
+D2
+~
+~
+0 0 45348
+R M 0 45328 2 45341
+S
+#45342
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45338
+D1
+~
+~
+0 0 45344
+D2
+~
+~
+0 0 45343
+D3
+~
+~
+0 0 45340
+R M 0 45330 2 45342
+R M 0 45338 6 45342
+S
+#45343
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45342
+D1
+~
+~
+0 0 45345
+D2
+~
+~
+0 0 45347
+D3
+~
+~
+0 0 45341
+D6
+~
+~
+0 0 45344
+D7
+~
+~
+0 0 45346
+D8
+~
+~
+0 0 45348
+D9
+~
+~
+0 0 45340
+R M 0 45331 2 45343
+S
+#45344
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45339
+D1
+~
+~
+0 0 45331
+D2
+~
+~
+0 0 45345
+D3
+~
+~
+0 0 45342
+D8
+~
+~
+0 0 45343
+D9
+~
+~
+0 0 45338
+R M 0 45335 2 45344
+S
+#45345
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45344
+D2
+~
+~
+0 0 45346
+D3
+~
+~
+0 0 45343
+R M 0 45325 2 45345
+S
+#45346
+Southeast Corner of the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45345
+D3
+~
+~
+0 0 45347
+D9
+~
+~
+0 0 45343
+R M 0 45326 2 45346
+S
+#45347
+Inside the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45343
+D1
+~
+~
+0 0 45346
+D2
+~
+~
+0 0 45330
+D3
+~
+~
+0 0 45348
+R M 0 45333 2 45347
+S
+#45348
+Southwest Corner of the Tower~
+~
+Rubble and bits of broken wood and stone lie around you, remnants of ancient 
+battles upon this fortress.  What once was a proud fortress of the Knights 
+of Solamnia is in ruin, crippled from the attacks of both the DragonArmy and 
+the dragons themselves.  Several gates used to trap dragons are but twisted 
+hunks of rust.  The floor is scorched from dragonfire, and dark maroon 
+stains are all about.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 45341
+D1
+~
+~
+0 0 45347
+D6
+~
+~
+0 0 45343
+R M 0 45327 1 45348
+S
+#45349
+Inside the Outer Walls~
+~
+A large expansive open court lies between you and the ancient High Clerists 
+Tower.  The courtyard is mostly composed of hard-packed dirt with the 
+occasional patch of grass or scrub brush.  Several dark patches can be seen 
+on the ground, remnants of battles with both man and beast, and dragon as 
+well.  The stones of the tower and blasted black and charred from ancient 
+scars of dragonbreath.  
+~
+1 0 2
+D1
+~
+~
+0 0 45326
+D2
+~
+~
+0 0 45328
+R M 0 45326 2 45349
+R M 0 45338 6 45349
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

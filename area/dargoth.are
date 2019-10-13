@@ -1,0 +1,2337 @@
+#AREA        Lich's Tower~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#9801
+{x~
+the apparition~
+A misty apparition of a female elf is here.
+~
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+70 70 -39 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9808
+undead beholder~
+an undead beholder~
+A rotting beholder is floating here.
+~
+This looks like a typical beholder, save that it is grey, rotting, and
+several eyestalks are missing.  A milky film covers the main eye, making it
+look quite sickly.  
+~
+0
+clanname none~
+0
+0
+65 524288 -600 C
+75 60 -44 7d11+375 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9809
+necrophidius golem~
+a necrophidius~
+A 12' long skeleton of a giant snake with a fanged human skull is slithering here.
+~
+~
+0
+clanname none~
+0
+0
+65 524288 -600 C
+70 70 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9810
+gully dwarf Phlup chef~
+phlup, the Gully Dwarf Chef~
+Phlup, the Head Gully Dwarf Chef is here, cooking up a large rat.
+~
+~
+0
+clanname none~
+0
+0
+129 262144 0 C
+5 5 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9811
+gully dward tufu girlfriend~
+tufu, the Chef's girlfriend~
+Tufu, the Chef's girlfriend is here, chasing a rat.
+~
+~
+0
+clanname none~
+0
+0
+129 262144 0 C
+5 5 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9812
+gully dwarf~
+a smelly gully dwarf~
+A smelly gully dwarf is chasing a rat.
+~
+~
+0
+clanname none~
+0
+0
+129 512 0 C
+4 4 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9818
+lich~
+`#`rDargoth the `rLich`^~
+An ancient lich is here, it's eyes glowing red with fury.
+~
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+100 110 -69 10d13+475 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9819
+undead beholder~
+an undead beholder~
+A rotting beholder is floating here.
+~
+This looks like a typical beholder, save that it is grey, rotting, and
+several eyestalks are missing.  A milky film covers the main eye, making it
+look quite sickly.  
+~
+0
+clanname none~
+0
+0
+65 524288 -600 C
+60 60 -29 6d9+315 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9822
+red dragon~
+the Ancient Red Dragon~
+An `RAncient Red Dragon `Bis snoozing here. It looks like you have disturbed him.`x
+~
+Apparently you have disturbed the ancient red dragon, and I don't think
+he is very happy now.  
+~
+0
+clanname none~
+0
+0
+65 524288 -400 C
+85 5 -55 9d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9823
+spectre spectral ghost apparition mage~
+the apparition~
+An apparition of an ancient mage suddenly appears before you.
+~
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+100 100 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9827
+talara female elf~
+`#Talara the `#Elf~
+A very attractive female elf is crying in the corner.
+~
+~
+0
+clanname none~
+0
+0
+65 512 200 C
+30 50 -9 5d5+140 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9835
+ankheg~
+an ankheg~
+An ankheg is here, hiding in the dirt.
+~
+~
+0
+clanname none~
+0
+0
+129 65536 0 C
+20 20 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9836
+chimera~
+a chimera~
+A chimera prowls the maze.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and
+one of a dragon.  
+~
+0
+clanname none~
+0
+0
+33 524288 -600 C
+34 34 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9837
+feldrick human male~
+`#`wFeldrick`^~
+`#`wA large human male is standing here.`^
+~
+Feldrick `DGrey`whawk`x stands 6'2" weighs about 225 lbs, with a large
+build, black hair and sparkling green eyes.  He wears dark black leather
+pants, a shirt made of fine white silk, and knee-high black leather boots. 
+He sweeps his long black hair back from his face and looks at you with a
+gleam in his eye.  
+~
+0
+clanname none~
+0
+0
+129 4096 0 C
+60 60 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9899
+dargoth lich undead~
+`#`RDargoth the `RLich`^~
+An ancient lich is here, it's eyes glowing `Rred `Bwith fury.`x
+~
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+94 110 -63 9d13+450 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#9800
+burning wand~
+a burning wand~
+A wand made of pure fire is lying here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 4800 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#9801
+wicked key~
+a wicked key~
+A jagged shaped key is lying here.~
+~
+18 64 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9802
+gold pile~
+a pile of gold coins~
+A pile of gold coins is here.~
+~
+20 0 16
+50 0 0 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9804
+fountain~
+a fountain of blood~
+An ornate fountain is here, full of `Rblood.`x~
+~
+25 0 16
+-1 13 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9813
+fountain~
+an ornate fountain~
+An ornate fountain is here.~
+~
+25 256 16
+-1 10 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9815
+axe khartan~
+`RAxe `yof `RKhartan`x~
+A large two-handed axe is lying here.~
+~
+5 64 4
+4 78 101 17 0 0 0
+1 3700 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9819
+bookshelf shelf~
+a collapsed bookshelf~
+`#~
+~
+15 0 8
+0 0 100 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9820
+sword freezer burn runic~
+a two-handed sword called `C'Freezer-Burn'`x~
+A two-handed sword made of solid ice is lying here.~
+~
+5 256 4
+11 14 24 54 0 0 0
+1 6545 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9821
+large chest~
+a large chest~
+A large chest is sitting here.~
+~
+15 0 8
+15 9801 100 0 0 0 0
+50 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9822
+ruby heart~
+a large `Rheart-shaped ruby`x~
+A large `Rglittering ruby`x in the shape of a heart is lying here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 20000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9823
+rare book~
+a rare book~
+A rare book is here, glowing with power.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 15000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9824
+creamy white potion sanctuary fire shield protection evil~
+a `#`Wmilky white `^potion~
+A `#`Wmilky white `^potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1500 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9825
+portal warping~
+a warping portal. The colors spiral around in an insane vision....~
+A large portal with swirling colors stands here.~
+~
+29 64 16
+4096 18 3001 0 0 0 0
+100 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9826
+ring ivy~
+an `#`Givy ring`^~
+A ring made of twisted ivy branches is lying here~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 8925 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9827
+necklace jade~
+a `#`Gjade necklace`^~
+A beautiful jade necklace is lying here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 9000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9828
+large shelf~
+a large shelf~
+A large open shelf is here with many vials and books on it.~
+~
+15 64 8
+0 0 100 -100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9829
+vial green~
+vial of `Ggreen goo`x~
+A vial of green goo is sitting here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 5000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9830
+potion red mute disorientation curse~
+a `Rred potion`x~
+A red potion is sitting here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1900 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9831
+scroll vampire~
+scroll of the vampire~
+An scroll lying here seems to draw life from you.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 2000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9832
+scroll glow~
+glowing scroll~
+A scroll glowing with power is lying here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9833
+glowing beaker~
+a glowing beaker~
+A beaker containing glowing liquid is sitting here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 5000 1
+0
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9834
+skeleton~
+a skeleton~
+A rotten skeleton is shackled to the wall here.~
+~
+15 0 8
+0 0 100 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9835
+bat wings~
+some `#`SLarge `SBat `SWings`^~
+A pair of large bat wings is lying here.~
+~
+9 64 8
+10 10 2 0 0 0 0
+1 2900 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9836
+book lost~
+a `#`cBook `wof the `cLost`^~
+A book titled 'Book of the Lost' is lying here.~
+~
+4 1 4
+0 0 0 -1 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#9870
+lich key~
+key of Dargoth~
+An evil looking key is lying here.~
+~
+18 128 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9871
+glowing chest~
+a glowing chest~
+A large glowing chest is sitting here.~
+~
+15 1 8
+15 9870 999 0 0 0 0
+100 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9872
+cloak elven~
+an `#`GE`gl`Gv`ge`Gn `GC`gl`Go`ga`Gk`^~
+An `#`GE`gl`Gv`ge`Gn `GC`gl`Go`ga`Gk`^ cloak is here.~
+~
+9 256 8
+10 10 25 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9873
+anklet gold magi~
+The `#`YGold Anklet `wof the `RMagi`^~
+A gold anklet is lying here.~
+~
+9 64 8
+5 5 15 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9880
+dread portal~
+the dread portal. Darkness rips at your mind......~
+`yA `DBlackened Portal `yis here, pulsating with darkness.`x~
+~
+29 0 16
+0 66 9899 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9881
+dread portal~
+the dread portal. Darkness rips at your mind......~
+`yA `DBlackened Portal `yis here, pulsating with darkness.`x~
+~
+29 0 16
+0 66 9880 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#9894
+warning sign~
+a warning sign~
+`#`^A warning sign is here. `^You should read it.~
+~
+12 1 8
+0 0 0 0 0 0 0
+100 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+9894 sign warning~
+*****************************************
+* This area is for HIGH LEVELS ONLY !!  *
+*      YOU HAVE BEEN WARNED!!!!!        *
+*****************************************
+~
+#0
+
+
+#ROOMS
+#9800
+Entrance to the Tower~
+~
+The entrance to the tower lies before you.  A large wooden door swings on
+a single hinge, the metal screeching from the swinging of the door in the
+wind.  A dark foreboding feeling looms about the tower, but also one of deep
+sorrow.  Many legends have been spun about the contents of the tower, but
+none who have ever set out to vanquish its secrets have ever returned.  
+~
+1 1 3
+D0
+~
+~
+0 0 9801
+D2
+~
+~
+0 0 53095
+R O 0 9894 0 9800
+S
+#9801
+Base of the Tower~
+~
+Crumbling stones and overgrown statues fill the area.  What was one a
+fantastic open foyer is now a ruin, home to rats, spiders, and other
+creatures who make their home in the abandoned ruins of man.  A thin layer
+of dust covers the floor, and it appears that no living beings have been
+here for some time.  
+~
+1 41944068 0
+D0
+~
+~
+0 0 9803
+D2
+~
+~
+0 0 9800
+D3
+~
+~
+0 0 9802
+R M 0 9801 1 9801
+S
+#9802
+Base of the Tower~
+~
+Crumbling stones and overgrown statues fill the area.  What was one a
+fantastic open foyer is now a ruin, home to rats, spiders, and other
+creatures who make their home in the abandoned ruins of man.  A thin layer
+of dust covers the floor, and it appears that no living beings have been
+here for some time.  
+~
+1 1 0
+D0
+~
+~
+0 0 9804
+D1
+~
+~
+0 0 9801
+R M 0 9808 20 9802
+S
+#9803
+Base of the Tower~
+~
+Crumbling stones and overgrown statues fill the area.  What was one a
+fantastic open foyer is now a ruin, home to rats, spiders, and other
+creatures who make their home in the abandoned ruins of man.  A thin layer
+of dust covers the floor, and it appears that no living beings have been
+here for some time.  
+~
+1 1 0
+D2
+~
+~
+0 0 9801
+D3
+~
+~
+0 0 9804
+S
+#9804
+Base of the Tower~
+~
+Crumbling stones and overgrown statues fill the area.  What was one a
+fantastic open foyer is now a ruin, home to rats, spiders, and other
+creatures who make their home in the abandoned ruins of man.  A thin layer
+of dust covers the floor, and it appears that no living beings have been
+here for some time.  A large stone staircase leads up into the darkness.  
+~
+1 8388609 0
+D1
+~
+~
+0 0 9803
+D2
+~
+~
+0 0 9802
+D4
+~
+~
+0 0 9805
+S
+#9805
+On the Stairs~
+~
+The stairs lead up into the onto a large landing.  Dust and cobwebs cover
+the floor and the sounds of scurrying can be heard in the distance.  As to
+what purpose this tower served in the past is unknown, but now a heart of
+evil beats as its core.  A wooden door lies to the west, and the landing
+continues to the south.  
+~
+1 0 0
+D2
+~
+~
+0 0 9806
+D3
+~
+~
+1 0 9819
+D5
+~
+~
+0 0 9804
+S
+#9806
+Second Floor Landing~
+~
+The landing continues from here, winding its way along the walls on the
+tower.  The center of the tower is hollow, plumetting to the stone floor
+below.  You had better watch your step, as one wrong move could make you
+slip and fall.  
+~
+1 0 0
+D0
+~
+~
+0 0 9805
+D1
+~
+~
+0 0 9807
+S
+#9807
+Second Floor Landing~
+~
+The landing continues from here, winding its way along the walls on the
+tower.  The center of the tower is hollow, plumetting to the stone floor
+below.  You had better watch your step, as one wrong move could make you
+slip and fall.  A large steel door lies to the south.  
+~
+1 1 0
+D0
+~
+~
+0 0 9808
+D2
+~
+~
+1 0 9823
+D3
+~
+~
+0 0 9806
+S
+#9808
+Stairs to the Third Floor~
+~
+These stairs lead up to the next level of the tower.  Some of the steps
+are cracked and blasted, as if in some type of great magical battle, and the
+walls are scorched and charred, with even some of the stone being melted. 
+You wonder what could have caused this type of destruction.  
+~
+1 1 0
+D2
+~
+~
+0 0 9807
+D4
+~
+~
+0 0 9809
+R M 0 9809 10 9808
+R M 0 9808 20 9808
+S
+#9809
+Third Floor Landing~
+~
+The third floor landing continues around the inside walls of the tower,
+while the darkness plunges deep the the floor below.  You had better watch
+your step.  The landing is blasted and burnt here, and the source of that
+explosion seems have come from a doorway to the north.
+~
+1 1 0
+D0
+~
+~
+0 0 9822
+D3
+~
+~
+0 0 9810
+D5
+~
+~
+0 0 9808
+S
+#9810
+Third Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  A steel door lies
+to the west.  
+~
+1 1 0
+D1
+~
+~
+0 0 9809
+D2
+~
+~
+0 0 9811
+D3
+~
+~
+1 0 9824
+S
+#9811
+Third Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  
+~
+1 1 0
+D0
+~
+~
+0 0 9810
+D1
+~
+~
+0 0 9812
+S
+#9812
+Third Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  
+~
+1 1 0
+D0
+~
+~
+0 0 9813
+D3
+~
+~
+0 0 9811
+R M 0 9809 10 9812
+S
+#9813
+Stairs to the Fourth Level~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  A stone staircase
+leads up from here to the next level of the tower.  
+~
+1 1 0
+D2
+~
+~
+0 0 9812
+D4
+~
+~
+0 0 9814
+S
+#9814
+Stairs to the Third Level~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  A stone staircase
+leads down from here to the lower levels of the tower.  
+~
+1 1 0
+D3
+~
+~
+0 0 9815
+D5
+~
+~
+0 0 9813
+R M 0 9808 20 9814
+S
+#9815
+Fourth Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  You hear a loud
+racket from the door to the north.  
+~
+1 1 0
+D0
+~
+~
+1 0 9828
+D1
+~
+~
+0 0 9814
+D2
+~
+~
+0 0 9816
+S
+#9816
+Fourth Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  
+~
+1 1 0
+D0
+~
+~
+0 0 9815
+D1
+~
+~
+0 0 9817
+S
+#9817
+Fourth Floor Landing~
+~
+The landing continues around the inside walls of the tower from here,
+while the open area in the center of the tower drops into the darkness
+below.  Periodically you notice blasted rock and scorched walls, as if the
+tower had been shattered by some magical battle ages ago.  
+~
+1 1 0
+D0
+~
+~
+0 0 9818
+D3
+~
+~
+0 0 9816
+S
+#9818
+Welcome to my Nightmare~
+~
+Screams assail your brain and a bright flash appears, as the lich
+suddenly appears before you.  
+~
+1 0 0
+D2
+~
+~
+0 0 9817
+R M 0 9818 1 9818
+S
+#9819
+Abandoned Study~
+~
+The study is in total disarray, having been abandoned long ago.  A
+collapsed bookshelf sits in one corner, and remnants of others cover the
+floor.  There is little left in this room but the debris from what was once
+a fine study for its former resident.  
+~
+1 0 0
+D1
+~
+~
+1 0 9805
+D3
+~
+~
+0 0 9820
+R O 0 9819 0 9819
+  R P 0 9801 1 9819
+R M 0 9819 1 9819
+S
+#9820
+An L-Shaped Room~
+~
+This L-Shaped room is serves as a passage between the study and the
+bedroom to the north.  Old bookshelves line the wall, but it appears that
+anything of value has been stripped from their shelves.  Dust covers the
+floor and a slight breeze enters the room from a window looking outside to
+the Dearthwood forest.  
+~
+1 0 0
+D0
+~
+~
+0 0 9821
+D1
+~
+~
+0 0 9819
+S
+#9821
+Small Bedroom~
+~
+This small bedroom has been abandoned for some time.  A bed lies in one
+corner, collapsed upon itself, the covers threadbare and worn away by time
+and rodents.  A small chest sits at the base of the bed.  
+~
+1 0 0
+D2
+~
+~
+0 0 9820
+R O 0 9821 0 9821
+  R P 0 9800 1 9821
+  R P 0 9802 2 9821
+S
+#9822
+Blasted Room~
+~
+There is little left of this room, with only the magic that must have
+built this tower holding in from collapse.  The only thing remaning of this
+room is the large floor.  As all of the walls are completly destroyed.  The
+wind blasts violently here, as it rips across the rock floor.  
+~
+1 0 0
+D2
+~
+~
+0 0 9809
+R M 0 9822 1 9822
+  R E 0 9822 0 17
+S
+#9823
+Guest Quarters~
+~
+The walls of this room are melted and covered with dried blood.  The
+remains of what looks to be a bed and a small desk are here, though there is
+little left of them.  Ash and soot covers the floor, and you feel a strange
+presence in this room.  
+~
+1 34078720 0
+D0
+~
+~
+1 0 9807
+R M 0 9823 1 9823
+  R E 0 9820 0 16
+S
+#9824
+The Laboratory~
+~
+This large laboratory looks to be in use, unlike the other areas in the
+tower you have seen.  Several vials and bottles sit on shelves and tables,
+along with many arcane books in languages you have never even seen before. 
+Whoever has assembled this collection of artifacts and information has been
+at it for quite some time.  A large cage lies to the north.  
+~
+1 1 0
+D0
+~
+~
+1 0 9826
+D1
+~
+~
+1 0 9810
+D3
+~
+~
+0 0 9825
+R O 0 9828 0 9824
+  R P 0 9829 1 9828
+  R P 0 9830 1 9828
+  R P 0 9833 1 9828
+R M 0 9809 10 9824
+S
+#9825
+The Laboratory~
+~
+This large laboratory looks to be in use, unlike the other areas in the
+tower you have seen.  Several vials and bottles sit on shelves and tables,
+along with many arcane books in languages you have never even seen before. 
+Whoever has assembled this collection of artifacts and information has been
+at it for quite some time.  A large cage lies closed to the north.  
+~
+1 1 0
+D0
+~
+~
+1 0 9827
+D1
+~
+~
+0 0 9824
+R O 0 9825 0 9825
+R O 0 9828 0 9825
+  R P 0 9831 1 9828
+  R P 0 9832 1 9828
+  R P 0 9836 1 9828
+S
+#9826
+Cage #2~
+~
+This cage is bare, but does look like it has been in recent use.  Built
+into the north wall of the laboratory, the 20'x20' room could easily hold a
+small dragon, or several humanoids.  Large clawmarks are in the floor here,
+and a pair of shackles are attached to the east wall.  
+~
+1 1 0
+D2
+~
+~
+1 0 9824
+D3
+~
+~
+33 0 9827
+R O 0 9834 0 9826
+  R P 0 9835 1 9834
+S
+#9827
+Cage #1~
+~
+This cage is bare, but does look like it has been in recent use.  Built
+into the north wall of the laboratory, the 20'x20' room could easily hold a
+small dragon, or several humanoids.  Large clawmarks are in the floor here,
+and a pair of shackles are attached to the west wall.  
+~
+1 1 0
+D1
+~
+~
+33 0 9826
+D2
+~
+~
+1 0 9825
+R M 0 9827 1 9827
+  R E 0 9827 0 3
+  R E 0 9826 0 17
+S
+#9828
+An Old Kitchen~
+~
+This kitchen appears to be in use, but if you would actually eat anything
+from here is another question.  Several smelly gully dwarves are running
+around here preparing 'food'.  Several large rats are hanging on small
+meathooks, and several more are being chased by the gully dwarves.  You
+would like to hurl, but you feel that they would just use that as an
+ingredient.  The smell here is enough to curl the hair of a bugbear.  
+~
+1 0 0
+D2
+~
+~
+1 0 9815
+R O 0 9804 0 9828
+R M 0 9810 1 9828
+R M 0 9811 1 9828
+R M 0 9812 10 9828
+R M 0 9812 10 9828
+R M 0 9812 10 9828
+R M 0 9812 10 9828
+R M 0 9812 10 9828
+R M 0 9812 10 9828
+S
+#9830
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 524288 0
+D0
+~
+~
+0 0 9831
+D1
+~
+~
+0 0 9832
+D2
+~
+~
+0 0 9833
+D3
+~
+~
+0 0 9834
+R O 0 9813 0 9830
+R M 0 9837 1 9830
+  R E 0 17727 0 5
+  R E 0 9815 0 16
+  R E 0 21 0 0
+S
+#9831
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D2
+~
+~
+0 0 9830
+S
+#9832
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9836
+D2
+~
+~
+0 0 9840
+D3
+~
+~
+0 0 9830
+S
+#9833
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9830
+D1
+~
+~
+0 0 9840
+D2
+~
+~
+0 0 9837
+S
+#9834
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9830
+D3
+~
+~
+0 0 9838
+S
+#9835
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9854
+D2
+~
+~
+0 0 9838
+R M 0 9835 10 9835
+S
+#9836
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9859
+D3
+~
+~
+0 0 9832
+S
+#9837
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9833
+D2
+~
+~
+0 0 9859
+D3
+~
+~
+0 0 9847
+S
+#9838
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9835
+D1
+~
+~
+0 0 9834
+D2
+~
+~
+0 0 9863
+R M 0 9819 10 9838
+S
+#9840
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9832
+D2
+~
+~
+0 0 9841
+D3
+~
+~
+0 0 9833
+S
+#9841
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9840
+D1
+~
+~
+0 0 9842
+D2
+~
+~
+0 0 9852
+R M 0 26400 1 9841
+S
+#9842
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9843
+D3
+~
+~
+0 0 9841
+S
+#9843
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9845
+D2
+~
+~
+0 0 9842
+D3
+~
+~
+0 0 9844
+S
+#9844
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9843
+S
+#9845
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D2
+~
+~
+0 0 9846
+D3
+~
+~
+0 0 9843
+R M 0 9819 10 9845
+S
+#9846
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9845
+D2
+~
+~
+0 0 9847
+S
+#9847
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9846
+D1
+~
+~
+0 0 9837
+D3
+~
+~
+0 0 9848
+S
+#9848
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9837
+D1
+~
+~
+0 0 9847
+D3
+~
+~
+0 0 9849
+S
+#9849
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9848
+D3
+~
+~
+0 0 9850
+S
+#9850
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9830
+D1
+~
+~
+0 0 9849
+D2
+~
+~
+0 0 9851
+S
+#9851
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9850
+S
+#9852
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9841
+D1
+~
+~
+0 0 9853
+D2
+~
+~
+0 0 9867
+D3
+~
+~
+0 0 9854
+R M 0 9836 5 9852
+S
+#9853
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D3
+~
+~
+0 0 9852
+S
+#9854
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9855
+D1
+~
+~
+0 0 9852
+D2
+~
+~
+0 0 9830
+D3
+~
+~
+0 0 9835
+S
+#9855
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9857
+D2
+~
+~
+0 0 9854
+D3
+~
+~
+0 0 9856
+S
+#9856
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9869
+D1
+~
+~
+0 0 9855
+D2
+~
+~
+0 0 9864
+D3
+~
+~
+0 0 9870
+S
+#9857
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9858
+D3
+~
+~
+0 0 9834
+S
+#9858
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9867
+D2
+~
+~
+0 0 9857
+S
+#9859
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9837
+D1
+~
+~
+0 0 9860
+D2
+~
+~
+0 0 9836
+D3
+~
+~
+0 0 9869
+S
+#9860
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9862
+D2
+~
+~
+0 0 9861
+D3
+~
+~
+0 0 9859
+S
+#9861
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9860
+D1
+~
+~
+0 0 9867
+S
+#9862
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D2
+~
+~
+0 0 9860
+S
+#9863
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9838
+D3
+~
+~
+0 0 9864
+S
+#9864
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9856
+D1
+~
+~
+0 0 9863
+D2
+~
+~
+0 0 9866
+D3
+~
+~
+0 0 9867
+R M 0 9819 10 9864
+S
+#9865
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D2
+~
+~
+0 0 9864
+D3
+~
+~
+0 0 9861
+S
+#9866
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9864
+D1
+~
+~
+0 0 9865
+S
+#9867
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9852
+D1
+~
+~
+0 0 9864
+D2
+~
+~
+0 0 9858
+D3
+~
+~
+0 0 9861
+S
+#9869
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9859
+D2
+~
+~
+0 0 9856
+S
+#9870
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9856
+D3
+~
+~
+0 0 9871
+S
+#9871
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9870
+D2
+~
+~
+0 0 9861
+D3
+~
+~
+0 0 9872
+S
+#9872
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9871
+D2
+~
+~
+0 0 9873
+S
+#9873
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9872
+D1
+~
+~
+0 0 9874
+S
+#9874
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9875
+D3
+~
+~
+0 0 9873
+S
+#9875
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9837
+D1
+~
+~
+0 0 9843
+D2
+~
+~
+0 0 9874
+D3
+~
+~
+0 0 9876
+R M 0 9819 20 9875
+S
+#9876
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D1
+~
+~
+0 0 9875
+D2
+~
+~
+0 0 9877
+S
+#9877
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9876
+D1
+~
+~
+0 0 9878
+S
+#9878
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D0
+~
+~
+0 0 9879
+D3
+~
+~
+0 0 9877
+S
+#9879
+In the Maze~
+~
+A soft magical glow fills the area, but only far enough to see the next
+turn.  All of this looks the same, as you are trapped here in the maze.  
+~
+1 532480 0
+D2
+~
+~
+0 0 9878
+D3
+~
+~
+0 0 9880
+S
+#9880
+End of the Maze~
+~
+A soft magical glow fills the area, but you have reached the end of the
+maze.  From here you may recall back to your home, or enter the dread portal
+and face Dargoth the Lich.  The choice is yours.  
+~
+1 524288 0
+D1
+~
+~
+0 0 9879
+R O 0 9880 0 9880
+S
+#9899
+Lair of Dargoth the Lich~
+~
+Thousands of arcane object cover shelf upon shelf in this room.  Vials of
+strange liquids and bottles containging parts of various creatures send
+chills down your spine.  There is a dark, evil presence here, but also you
+sense a slight sensation of love that was lost, though why you are unsure,
+especially in this heart of evil.  You have braved the minions, you have
+survived the maze, but can you survive confronting Dargoth himself ?  
+~
+1 4 0
+R O 0 9881 0 9899
+R O 0 9871 0 9899
+  R P 0 12035 5 9871
+  R P 0 9873 2 9871
+  R P 0 9820 2 9871
+  R P 0 9872 3 9871
+  R P 0 80267 1 9871
+  R P 0 9802 2 9871
+R M 0 9899 1 9899
+  R E 0 9870 0 17
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

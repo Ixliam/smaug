@@ -1,0 +1,223 @@
+#AREA        Divine Flame Clan Hall~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2596
+calm looking man in white robes~
+a calm looking man~
+A calm looking man dressed in white robes rests here, ready to cure your wounds.
+~
+~
+0
+clanname none~
+0
+0
+65 512 600 C
+140 2 -110 14d17+680 14d20+94
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2597
+Banker Changer~
+the Banker~
+The Divine Flame banker is here, waiting for your money.
+~
+Beeing built.
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+30 10 0 1d1+500 5d5+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2595
+marble fountain~
+`Wa `wmarble `Wfountain`^~
+`#A `WMarble `Wfountain`^ is full of water here.~
+~
+25 0 16
+10000 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2594
+Clan Bank~
+~
+A thick red rug covers the elegant floors of marble.  Rich tapestries cover 
+the walls with a wide desk being the center of attention.  Behind it, a bank 
+vault can be seen.  
+~
+1 72 0
+D2
+~
+~
+0 0 2598
+R M 0 2597 1 2594
+S
+#2595
+Main Hall ~
+~
+Before you stands a grand hall.  Your voice seems to echo off the stone 
+walls.  You see four tapestries hanging from ceiling to floor here with 
+different crests on them.  Above the meeting room you see a plaque with the 
+words, "Die for what is right".  To the south you see armor and weapons 
+laying around.  To the west the sweet smell of potions, and to the east you 
+hear some prayers being said.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 2596
+D1
+~
+~
+0 0 2599
+D2
+~
+~
+0 0 2597
+D3
+~
+~
+0 0 2598
+D4
+~
+~
+0 0 27003
+D5
+~
+~
+0 0 3000
+R O 0 2595 0 2595
+S
+#2596
+Grand Meeting Room~
+~
+You have arrived in a large office like room.  You see a large some what 
+round marble table in the center of the room.  You see the same four crests 
+etched into the marble as you saw on the tapestries.  You notice parchments 
+and letters sprawled out onto the table.  The only exit is to the south.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 2595
+S
+#2597
+Donation Room~
+~
+Here you notice a large room full of armor and weapons.  You see a note on 
+the locker that reads.  "Feel free to help yourself to any equipment in this 
+room."  "Keep in mind your other clan members."  
+~
+1 33554440 0
+D0
+~
+~
+0 0 2595
+D1
+~
+~
+0 0 54091
+S
+#2598
+Supply Room~
+~
+Many potions and items line the walls as you enter the clan shop.  Just type 
+LIST to see what the shopkeeper has for sale.  You see the exit to the east. 
+ 
+~
+1 33554440 0
+D0
+~
+~
+0 0 2594
+D1
+~
+~
+0 0 2595
+S
+#2599
+Healer's Room~
+~
+Here stands the local clan healer.  He is here to treat the sick and heal 
+the weak.  You see a large altar to the north of the room.  You notice the 
+only way out is the way you came.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 2595
+R M 0 2596 1 2599
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

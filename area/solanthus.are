@@ -1,0 +1,1968 @@
+#AREA        City of Solanthus~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#8951
+shopkeeper druen solanthus male malkatar~
+`#`wDruen uth Matarin`^~
+A proud looking male malkatar stands here behind the bar.
+~
+A tall male malkatar with dark brown hair and bright blue eyes. He is a 
+middle aged man, at least in his 50's with slightly graying hair at his 
+temples. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#8951
+cleft spires stone pillar~
+`#`wThe Cleft Spires`^~
+A large pillar of stone that has been cleaved in half rests here.~
+~
+12 0 8
+5000 144 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+8951 sign ~
+Legend claims that the stone pillars have stood proudly, in this relatively 
+flat region, for a millennia. When humans first began to settle the land, 
+their king was told by a wise man that the god Paladine would send a 
+lightning bolt flying from the heavens and wherever the bolt landed would be 
+the place to build his kingdom. That night, a storm raged and an enormous 
+bolt of lightning streaked from the sky and struck the ground. The people 
+traveled in the direction of the bolt, searching for the place the god had 
+marked. When they came to the rock formation that looked like it had been 
+split in two, they knew this was the sign from Paladine. The people built 
+their village, which would eventually grow to become Solanthus. 
+~
+E
+8951 cleft spires pillar~
+A pillar of stone nearly fifty feet high and one hundred feet wide rises 
+from the ground here. It is made of a natural rock formation that appears to 
+have been cleaved in half, with the result that both sideds of the formation 
+tilt outward. `+
+`+
+`#`yThere is a brass sign standing beside it.`^ 
+~
+#8952
+deep well~
+a stone fountain~
+`#`wA very large impressive `sstone `wfountain`^~
+~
+25 0 16
+30000 52 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8953
+round wooden table~
+a chair at a table~
+Several round wooden tables are here.~
+~
+12 0 8
+5000 20973274 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8954
+smooth black marble fountain~
+a smooth black marble fountain~
+`#`sa large fountain made of smooth black marble is here.`^~
+~
+25 0 16
+50000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+8954 fountain ~
+A large fountain stands here. It looks like it is an extension of the floor 
+as it is made of the same black marble. At the very top of the fountain 
+where the water flows are two crossed swords. 
+~
+#0
+
+
+#ROOMS
+#8951
+North Gate~
+~
+~
+1 33554432 1
+D2
+~
+~
+0 0 8952
+S
+#8952
+Bridge into the city~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8951
+D2
+~
+~
+0 0 8953
+D3
+~
+~
+0 0 9058
+S
+#8953
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8952
+D1
+~
+~
+0 0 8967
+D2
+~
+~
+0 0 8954
+D3
+~
+~
+0 0 8961
+S
+#8954
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8953
+D2
+~
+~
+0 0 8955
+S
+#8955
+Town Square~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8954
+D1
+~
+~
+0 0 9044
+D2
+~
+~
+0 0 8956
+D3
+~
+~
+0 0 9043
+S
+#8956
+Cleft Spires~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8955
+D1
+~
+~
+0 0 9001
+D2
+~
+~
+0 0 8957
+D3
+~
+~
+0 0 9002
+R O 0 8951 0 8956
+S
+#8957
+~
+~
+~
+1 33554440 1
+D0
+~
+~
+0 0 8956
+D2
+~
+~
+0 0 8958
+R O 0 8952 0 8957
+S
+#8958
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8957
+D1
+~
+~
+0 0 9053
+D2
+~
+~
+0 0 8959
+D3
+~
+~
+0 0 9054
+S
+#8959
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8958
+D1
+~
+~
+0 0 9021
+D2
+~
+~
+0 0 8960
+D3
+~
+~
+0 0 9024
+S
+#8960
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8959
+D1
+~
+~
+0 0 9051
+D3
+~
+~
+0 0 9052
+S
+#8961
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8953
+D3
+~
+~
+0 0 8962
+S
+#8962
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8961
+D2
+~
+~
+0 0 9045
+D3
+~
+~
+0 0 8963
+S
+#8963
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8962
+D3
+~
+~
+0 0 8964
+S
+#8964
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8963
+D2
+~
+~
+0 0 9008
+D3
+~
+~
+0 0 8965
+S
+#8965
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8964
+D3
+~
+~
+0 0 8966
+S
+#8966
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8965
+D2
+~
+~
+0 0 8973
+S
+#8967
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8968
+D3
+~
+~
+0 0 8953
+S
+#8968
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8969
+D3
+~
+~
+0 0 8967
+S
+#8969
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8970
+D3
+~
+~
+0 0 8968
+S
+#8970
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8971
+D2
+~
+~
+0 0 8997
+D3
+~
+~
+0 0 8969
+S
+#8971
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8972
+D3
+~
+~
+0 0 8970
+S
+#8972
+~
+~
+~
+1 33554432 1
+D2
+~
+~
+0 0 8976
+D3
+~
+~
+0 0 8971
+S
+#8973
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8966
+D1
+~
+~
+0 0 9062
+D2
+~
+~
+0 0 8974
+D3
+~
+~
+0 0 9061
+S
+#8974
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8973
+D1
+~
+~
+0 0 9063
+D2
+~
+~
+0 0 8975
+D3
+~
+~
+0 0 9060
+S
+#8975
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8974
+D1
+~
+~
+0 0 9006
+D3
+~
+~
+0 0 8979
+S
+#8976
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8972
+D2
+~
+~
+0 0 8977
+D3
+~
+~
+0 0 9064
+S
+#8977
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8976
+D2
+~
+~
+0 0 8978
+S
+#8978
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8977
+D1
+~
+~
+0 0 8984
+D3
+~
+~
+0 0 8998
+S
+#8979
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8975
+D2
+~
+~
+0 0 8980
+S
+#8980
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8979
+D2
+~
+~
+0 0 8981
+S
+#8981
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8980
+D2
+~
+~
+0 0 8982
+S
+#8982
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8981
+D2
+~
+~
+0 0 8983
+S
+#8983
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8982
+D1
+~
+~
+0 0 9014
+S
+#8984
+~
+~
+~
+1 33554432 1
+D2
+~
+~
+0 0 8985
+D3
+~
+~
+0 0 8978
+S
+#8985
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8984
+D2
+~
+~
+0 0 8986
+S
+#8986
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8985
+D2
+~
+~
+0 0 8987
+D3
+~
+~
+0 0 9059
+S
+#8987
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8986
+D2
+~
+~
+0 0 8988
+S
+#8988
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8987
+D3
+~
+~
+0 0 8989
+S
+#8989
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8988
+D3
+~
+~
+0 0 8990
+S
+#8990
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8989
+D3
+~
+~
+0 0 8991
+S
+#8991
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8992
+D1
+~
+~
+0 0 8990
+D2
+~
+~
+0 0 9015
+S
+#8992
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8993
+D2
+~
+~
+0 0 8991
+S
+#8993
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8994
+D2
+~
+~
+0 0 8992
+S
+#8994
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8995
+D2
+~
+~
+0 0 8993
+S
+#8995
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8996
+D1
+~
+~
+0 0 8998
+D2
+~
+~
+0 0 8994
+D3
+~
+~
+0 0 8999
+S
+#8996
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8997
+D2
+~
+~
+0 0 8995
+S
+#8997
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8970
+D2
+~
+~
+0 0 8996
+S
+#8998
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8978
+D3
+~
+~
+0 0 8995
+S
+#8999
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8995
+D3
+~
+~
+0 0 9000
+S
+#9000
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8999
+D3
+~
+~
+0 0 9001
+S
+#9001
+Town Square~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9044
+D1
+~
+~
+0 0 9000
+D3
+~
+~
+0 0 8956
+S
+#9002
+Town Square~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9043
+D1
+~
+~
+0 0 8956
+D3
+~
+~
+0 0 9003
+S
+#9003
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9002
+D3
+~
+~
+0 0 9004
+S
+#9004
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9003
+D3
+~
+~
+0 0 9005
+S
+#9005
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9007
+D1
+~
+~
+0 0 9004
+D2
+~
+~
+0 0 9009
+D3
+~
+~
+0 0 9006
+S
+#9006
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9005
+D3
+~
+~
+0 0 8975
+S
+#9007
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9008
+D2
+~
+~
+0 0 9005
+S
+#9008
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8964
+D2
+~
+~
+0 0 9007
+S
+#9009
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9005
+D2
+~
+~
+0 0 9010
+S
+#9010
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9009
+D2
+~
+~
+0 0 9011
+S
+#9011
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9010
+D2
+~
+~
+0 0 9012
+S
+#9012
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9011
+D2
+~
+~
+0 0 9016
+D3
+~
+~
+0 0 9013
+S
+#9013
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9012
+D3
+~
+~
+0 0 9014
+S
+#9014
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9013
+D3
+~
+~
+0 0 8983
+S
+#9015
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 8991
+D1
+~
+~
+0 0 9046
+D2
+~
+~
+0 0 9018
+S
+#9016
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9012
+D2
+~
+~
+0 0 9017
+S
+#9017
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9016
+D1
+~
+~
+0 0 9029
+D6
+~
+~
+0 0 9022
+D8
+~
+~
+0 0 9025
+S
+#9018
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9015
+D3
+~
+~
+0 0 9035
+D7
+~
+~
+0 0 9027
+D9
+~
+~
+0 0 9019
+S
+#9019
+~
+~
+~
+1 33554432 1
+D7
+~
+~
+0 0 9018
+D9
+~
+~
+0 0 9020
+S
+#9020
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9047
+D7
+~
+~
+0 0 9019
+D9
+~
+~
+0 0 9021
+S
+#9021
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9048
+D3
+~
+~
+0 0 8959
+D7
+~
+~
+0 0 9020
+S
+#9022
+~
+~
+~
+1 33554432 1
+D6
+~
+~
+0 0 9023
+D8
+~
+~
+0 0 9017
+S
+#9023
+~
+~
+~
+1 33554432 1
+D3
+~
+~
+0 0 9050
+D6
+~
+~
+0 0 9024
+D8
+~
+~
+0 0 9022
+S
+#9024
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8959
+D3
+~
+~
+0 0 9049
+D8
+~
+~
+0 0 9023
+S
+#9025
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9056
+D6
+~
+~
+0 0 9017
+D8
+~
+~
+0 0 9026
+S
+#9026
+~
+~
+~
+1 33554432 1
+D6
+~
+~
+0 0 9025
+S
+#9027
+~
+~
+~
+1 33554432 1
+D3
+~
+~
+0 0 9057
+D7
+~
+~
+0 0 9028
+D9
+~
+~
+0 0 9018
+S
+#9028
+~
+~
+~
+1 33554432 1
+D9
+~
+~
+0 0 9027
+S
+#9029
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9030
+D3
+~
+~
+0 0 9017
+S
+#9030
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9031
+D2
+~
+~
+0 0 9042
+D3
+~
+~
+0 0 9029
+S
+#9031
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9032
+D3
+~
+~
+0 0 9030
+S
+#9032
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9065
+D1
+~
+~
+0 0 9033
+D3
+~
+~
+0 0 9031
+S
+#9033
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9034
+D3
+~
+~
+0 0 9032
+S
+#9034
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9035
+D2
+~
+~
+0 0 9036
+D3
+~
+~
+0 0 9033
+S
+#9035
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9018
+D3
+~
+~
+0 0 9034
+S
+#9036
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9034
+D2
+~
+~
+0 0 9037
+S
+#9037
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9036
+D3
+~
+~
+0 0 9038
+S
+#9038
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9037
+D3
+~
+~
+0 0 9039
+S
+#9039
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9038
+D3
+~
+~
+0 0 9040
+S
+#9040
+~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 9039
+D3
+~
+~
+0 0 9041
+S
+#9041
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9042
+D1
+~
+~
+0 0 9040
+S
+#9042
+~
+~
+~
+1 33554432 1
+D0
+~
+~
+0 0 9030
+D1
+~
+~
+0 0 9055
+D2
+~
+~
+0 0 9041
+S
+#9043
+Town Square~
+~
+~
+1 33554432 1
+D1
+~
+~
+0 0 8955
+D2
+~
+~
+0 0 9002
+S
+#9044
+Town Square~
+~
+~
+1 33554432 1
+D2
+~
+~
+0 0 9001
+D3
+~
+~
+0 0 8955
+S
+#9045
+Temple of Three Holy Knights~
+~
+There is a light smell of incense in the air drifting out of the three 
+shrines here. The floors are made of a smooth black marble and the ceiling 
+here stands over 10 feet high. When you look up you see there is a large 
+painting of a several knights in battle on the ceiling. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 8962
+D1
+~
+~
+0 0 9066
+D2
+~
+~
+0 0 9068
+D3
+~
+~
+0 0 9067
+R O 0 8954 0 9045
+S
+#9046
+City Hall~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 9015
+S
+#9047
+Armor Shop~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 9020
+S
+#9048
+Weapon Shop~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 9021
+S
+#9049
+General Store~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 9024
+S
+#9050
+Clothing~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 9023
+S
+#9051
+Potions~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 8960
+S
+#9052
+Empty Shop~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 8960
+S
+#9053
+Bank~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 8958
+S
+#9054
+Bakery~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 8958
+S
+#9055
+Temple of Shinare~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 9042
+S
+#9056
+Guard Post~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 9025
+S
+#9057
+Guard Post~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 9027
+S
+#9058
+Guard Post~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 8952
+S
+#9059
+Temple of Mishakal~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 8986
+E
+sign ~
+`#`CTemple of the `BB`bl`Bu`be `BF`bl`Ba`bm`Be`^
+~
+S
+#9060
+Warehouse~
+~
+Stacks and stacks of crates, both empty and full line the walls of the 
+warehouse. There are piles of what looks like large 100 pound sacks of grain 
+or sugar piled in the middle of the room on top of pallets. The floor is 
+wooden but swept clean. The walls of this warehouse are at least 15 feet 
+tall and there are several windows high on the walls, almost at the ceiling. 
+
+~
+1 33554440 0
+D1
+~
+~
+0 0 8974
+S
+#9061
+Warehouse~
+~
+Stacks and stacks of crates, both empty and full line the walls of the 
+warehouse. There are piles of what looks like large 100 pound sacks of grain 
+or sugar piled in the middle of the room on top of pallets. The floor is 
+wooden but swept clean. The walls of this warehouse are at least 15 feet 
+tall and there are several windows high on the walls, almost at the ceiling. 
+
+~
+1 33554440 0
+D1
+~
+~
+0 0 8973
+S
+#9062
+Warehouse~
+~
+Stacks and stacks of crates, both empty and full line the walls of the 
+warehouse. There are piles of what looks like large 100 pound sacks of grain 
+or sugar piled in the middle of the room on top of pallets. The floor is 
+wooden but swept clean. The walls of this warehouse are at least 15 feet 
+tall and there are several windows high on the walls, almost at the ceiling. 
+
+~
+1 33554440 0
+D3
+~
+~
+0 0 8973
+S
+#9063
+Warehouse~
+~
+Stacks and stacks of crates, both empty and full line the walls of the 
+warehouse. There are piles of what looks like large 100 pound sacks of grain 
+or sugar piled in the middle of the room on top of pallets. The floor is 
+wooden but swept clean. The walls of this warehouse are at least 15 feet 
+tall and there are several windows high on the walls, almost at the ceiling. 
+
+~
+1 33554440 0
+D3
+~
+~
+0 0 8974
+S
+#9064
+Seraphema's Silver Emporium~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 8976
+S
+#9065
+Dog and Duck Tavern~
+~
+The atmosphere inside this tavern is warm and cozy. There is a blazing fire 
+burning in the hearth. It takes up an entire side of the tavern it is so 
+large. The wooden floor is clean and highly polished and there is a small 
+stage for entertainment in one corner of the room. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 9032
+R M 0 8951 1 9065
+R O 0 8953 0 9065
+E
+stage ~
+There are several gashes on the floor of this small wooden stage. A few 
+instruments are laying on the stage, waiting to be used. 
+~
+S
+#9066
+Shrine to Kiri-Jolith~
+~
+The scent of incense is pleasant to the nose as you enter this holy shrine. 
+Different statues of what look like knights line the walls leading to the 
+end of the room where an even larger altar to the God Kiri-Jolith stands. 
+The only light in the room comes from two blazing braziers standing on 
+either side of the altar. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 9045
+S
+#9067
+Shrine to Paladine~
+~
+The scent of incense is pleasant to the nose as you enter this holy shrine. 
+Different statues of what look like knights line the walls leading to the 
+end of the room where an even larger altar to the God Paladine stands. The 
+only light in the room comes from two blazing braziers standing on either 
+side of the altar. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 9045
+S
+#9068
+Shrine to Habbakuk~
+~
+The scent of incense is pleasant to the nose as you enter this holy shrine. 
+Different statues of what look like knights line the walls leading to the 
+end of the room where an even larger altar to the God Habbakuk stands. The 
+only light in the room comes from two blazing braziers standing on either 
+side of the altar. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 9045
+S
+#0
+
+
+#SHOPS
+ 8951    0  0  0  0  0   105 100         0 23    ; `#`wDruen uth Matarin`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

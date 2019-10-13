@@ -1,0 +1,1359 @@
+#AREA        Pirate Ship~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#23741
+skinny pirate~
+a skinny pirate~
+A skinny pirate stands here, swabbing the deck.
+~
+This pirate looks skinny and weak, but he's got a mean glint in his eyes, 
+and it looks like he knows how to use his daggers.  His face is rough, and 
+his skin is tanned like leather, from life on the sea.  He's a pirate 
+allright.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23742
+large burly pirate~
+a burly pirate~
+A large burly pirate sits here, relaxing.
+~
+This large burly pirate obviously likes to relax.  He's burly and tough 
+looking, unshaven with tanned leathery skin.  His muscles bulge underneath 
+his clothing, and he's got a scar on his cheek.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+25 1 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23743
+buxom young lass~
+a buxom lass~
+A buxom young lass has been tied to the mast.
+~
+This poor lass has been tied to the mast for some reason...  Maybe it's what 
+pirates do in their spare time?  She's young, and slender, and her spare 
+clothing hangs on her revealing her considerable cleavage.  She wriggles 
+desperatly in her bonds.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23744
+old hairy pirate~
+an old hairy pirate~
+An old hairy pirate stands here, mending a net.
+~
+This hairy old pirate looks degrade and bored.  He's got a patch over one 
+eye, and he has a mean scar on his cheek.  He's mending a net slowly, while 
+whistling an old sea shanty to himself.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+28 0 -8 5d5+125 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23745
+skinny pirate~
+a skinny pirate~
+A skinny pirate stands here, looking throught a telescope.
+~
+This pirate looks skinny and weak, but he's got a mean glint in his eyes, 
+and it looks like he knows how to use his daggers.  His face is rough, and 
+his skin is tanned like leather, from life on the sea.  He's a pirate 
+allright.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23746
+captain pirate~
+a pirate captain~
+The captain of the pirates sits here, playing a sad tune on the piano.
+~
+This tall man looks strong a fit.  His clothes are clean and well kept, and 
+his face has an air of elegant arrogance to it.  His hai is white and it 
+curls to about shoulder length.  Is eyes are a piercing blue grey.  His skin 
+is tanned, and his frame muscular.  
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+40 1 -13 5d7+240 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23747
+large chubby man cook~
+a chubby cook~
+A large chubby man stands here cooking up gruel.
+~
+This pasty man looks nervous and desperate.  His pale chubby frame quivers 
+slightly, as he stirs his big pot of gruel.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+26 0 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23748
+short ugly pirate~
+a short and ugly pirate~
+A short and ugly pirate sits here at a table, playing cards.
+~
+You see a short and ugly pirate here.  He amuses himself with playing a 
+solitaire type game.  He is definately a loner, without friends and such.  
+But it is actually pretty obvious, due to his ugliness and bad breath.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+31 15 -10 5d6+150 4d6+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23749
+captain's first-mate mate~
+the captain's first-mate~
+The captain's first-mate sits here by his bed.
+~
+You see the captain's first mate here.  He sits by his bed, and when he 
+notices you, he growls with anger.  His eyes burn with fire.  His hair is 
+black, and his body reveals an excellent muscular build.  
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+34 55 -11 5d6+210 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23750
+skinny pirate~
+a skinny pirate~
+A skinny pirate sleeps in a hammock.
+~
+This pirate looks skinny and weak, but he's got a mean glint in his eyes, 
+and it looks like he knows how to use his daggers.  His face is rough, and 
+his skin is tanned like leather, from life on the sea.  He's a pirate 
+allright.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23751
+sea shaman~
+a sea shaman~
+A sea shaman stands here, looking out to sea.
+~
+This tall guant figure stands here, looking out at the ocean.  His tall body 
+is skinny, but radiates heat strangly.  His dark cloak and hood covers his 
+body, making you unable to tell his race.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+37 2 -12 5d6+225 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#23741
+water barrel~
+a water barrel~
+A large water barrel has been left here.~
+~
+25 0 16
+100 0 0 0 0 0 0
+250 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23742
+heavy coil rope~
+a heavy coil of rope~
+A heavy coil of rope lies here unattended.~
+~
+5 0 4
+1 17 25 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23743
+large barrel~
+a large barrel~
+A large barrel stands here open.~
+~
+15 0 8
+0 0 12 110 0 0 0
+5 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23744
+salted fish chunk~
+a salted fish chunk~
+A chunk of salted fish lies here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23745
+small net hammock~
+a net hammock~
+A small hammock is strung up on the east side of the room.~
+~
+12 0 8
+200 1168 101 101 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23746
+small net hammock~
+a net hammock~
+A small hammock is strung up on the west side of the room.~
+~
+12 0 8
+200 1168 101 101 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23747
+comfortable large bed~
+a large bed~
+A large comfortable looking bed is here.~
+~
+12 0 8
+400 1168 105 105 0 0 0
+90 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23748
+large crate~
+a large crate~
+A large crate lies open here.~
+~
+15 0 8
+0 0 40 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23749
+large black grand piano~
+a grand piano~
+A large black piano is in the corner of the room.~
+~
+12 0 8
+400 152 101 101 0 0 0
+100 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23750
+jagged dagger~
+a jagged edged dagger~
+A long jagged dagger lies here.~
+~
+5 0 4
+2 17 25 8 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23751
+pair black hide leggings~
+a pair of `#`Sblack`^ hide leggings~
+Some black hide leggings lie here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23752
+frilly white shirt~
+a frilly `#`Wwhite`^ shirt~
+A frilly white shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23753
+dirty mop~
+a `#`mdi`Mr`mt`My`^ mop~
+A long dirty mop lies here.~
+~
+5 0 4
+2 17 25 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23754
+red bandanna~
+a `#`rr`Red`r ba`Rn`rdann`Ra`^~
+A red bandanna lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23755
+copper plate telescope~
+a `#`ycopper plated`^ telescope~
+A fine looking copper plate telescope lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23756
+mean looking cutlass~
+a mean looking cutlass~
+A long curved cutlass lies here, looking quite mean.~
+~
+5 16 4
+3 27 34 8 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23757
+torn flimsy dress~
+a torn and flimsy dress~
+A pile of torn cloth lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23758
+jagged skull hilted cutlass~
+a jagged `#`Wskull-hilted`^ cutlass~
+A jagged cutlass, it's hilt a skull is here.~
+~
+5 0 4
+6 46 59 16 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23759
+black full breast-plate~
+a `#`Sblack`^ full breast-plate~
+A full breast plate made of black steel lies here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23760
+black full plate leg armor~
+some `#`Sblack`^ full plate leg armor~
+A set of full plate leg armor made of black steel lies here.~
+~
+9 0 8
+35 35 8 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23761
+black banded mail sleeves~
+some `#`Sblack`^ banded mail sleeves~
+A pair of black sleeves made of banded mail is here.~
+~
+9 0 8
+35 35 8 0 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23762
+skull crossbone pirate hat~
+a `#`Wskull`^ and `Wcrossbones`^ pirate's hat~
+A black hat with a white skull and crossbones is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23763
+elegant black leather gloves~
+an elegant pair of `#`Sblack`^ leather gloves~
+An elegant pair of black leather gloves are here~
+~
+9 0 8
+35 35 6 0 0 0 0
+1 890 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23764
+elegant black leather boots~
+an elegant pair of `#`Sblack`^ leather boots~
+An elegant pair of black leather boots are here.~
+~
+9 0 8
+35 35 6 0 0 0 0
+1 865 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23765
+black full plate taces~
+some `#`Sblack`^ full plate taces~
+A set of taces made out of black steel lie here.~
+~
+9 0 8
+35 35 6 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23766
+vest pirate's skull~
+a vest with a pirate's skull~
+A vest with a pirate's skull painted on it lies here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23767
+blade pirates~
+a pirate's blade~
+A long sharp blade lies here, with a crossbone and skull.~
+~
+5 0 4
+7 35 50 128 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23768
+chef's apron~
+a chef's apron~
+An apron with grease all over it lies here.~
+~
+9 0 8
+20 20 6 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23769
+white dirty shirt~
+a dirty `#`wwhite`^ shirt~
+A dirty `#`wwhite`^ shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23770
+large rolling pin~
+a large rolling pin~
+A large rolling pin lies here.~
+~
+5 0 4
+2 30 50 32 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23771
+large black cauldron~
+a large cauldron~
+A large black cauldron is here.~
+~
+38 0 32
+0 0 100 1 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23772
+nasty two-handed bastard sword~
+a nasty two-handed bastard sword~
+A nasty two-handed bastard sword gleams in the light here.~
+~
+5 0 4
+6 38 51 168 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23773
+large net~
+a large net~
+A large net lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 3 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23774
+black pirate's cape~
+a `#`Sblack`^ pirate's cape~
+A `#`Sblack`^ pirate's cape is lying here.~
+~
+9 16 8
+30 30 8 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23775
+black triangle-shaped hat~
+a `#`Sblack`^, triangle-shaped hat~
+A `#`Sblack`^, triangle-shaped hat lies here.~
+~
+11 16 8
+0 0 0 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23776
+pair blue padded leggings~
+a pair of`#`b blue`^ padded leggings~
+A pair of padded leggings made of a blue cloth lie here.~
+~
+9 64 8
+30 30 7 0 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23777
+blue diamond ring~
+a `#`cblue diamond`^ ring~
+A large golden ring, with a large blue diamond rest here.~
+~
+9 64 8
+35 35 2 0 0 0 0
+1 991 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23778
+blue diamond studded collar~
+a `#`cblue diamond`^ studded collar~
+A leather collar studded with blue diamonds is here.~
+~
+9 2 8
+35 35 4 0 0 0 0
+1 1290 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23779
+jagged blue diamond mace large~
+a jagged `#`cblue diamond`^ mace~
+A large mace made of blue diamond lies here, jagged sharp edged sticking out wickedly.~
+~
+5 64 4
+3 46 59 16 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23780
+eye-shaped diamond~
+an eye-shaped diamond~
+An eye-shaped diamond is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23780 eye-shaped diamond~
+This multifacated diamond, sparkles a myriad of colours as you stare upon 
+it.  Its prisms seem to reflect itself into infinity.  Its fairly large, and 
+heavy for a diamond.  You feel a strange surge of energy travel through you 
+as you hold it in your hands, how queer.  
+~
+#0
+
+
+#ROOMS
+#23741
+The Gangplank~
+~
+This small wooden plank leads up from the jetti to the large pirate ship.  
+To the east is the large ship, it's wide and flat bottom, with one large 
+main mast, and a small rise at the stern.  The stern is painted a deep red 
+color, with gold trimmings.  At the front of the ship is a large ram that is 
+craved into the likeness of a dragons' head, and painted blue.  
+~
+1 0 1
+D1
+~
+~
+0 0 23742
+S
+#23742
+Main Deck~
+~
+This is the main deck of a sailing ship. The ship is facing its front to the 
+south, its stern to the north. The deck continues in both of these 
+directions. In the middle of the deck is a large main mast, which can be 
+climbed. On the west side railing is the gangplank, leading off the ship. 
+~
+1 0 1
+D0
+~
+~
+0 0 23743
+D2
+~
+~
+0 0 23744
+D3
+~
+~
+0 0 23741
+D4
+~
+~
+0 0 23745
+R O 0 23743 0 23742
+  R P 0 23744 20 23743
+R M 0 23742 2 23742
+  R E 0 23756 0 16
+  R E 0 23754 0 6
+  R E 0 23751 0 7
+  R E 0 23752 0 5
+R M 0 23743 1 23742
+  R E 0 23757 0 5
+S
+#23743
+Before the Stern House~
+~
+To the north, steps lead up to the top of the stern house.  A large wooden 
+door to the north leads into the stern house.  To the south is the main 
+decks of the ship.  The stern deck sways gently in the calm port waters.  
+~
+1 0 1
+D0
+~
+wooden door~
+1 0 23748
+D2
+~
+~
+0 0 23742
+D4
+~
+~
+0 0 23747
+R M 0 23741 3 23743
+  R E 0 23751 0 7
+  R E 0 23750 0 19
+  R E 0 23753 0 16
+  R E 0 23754 0 6
+  R E 0 23752 0 5
+R O 0 23742 0 23743
+S
+#23744
+The Bow of a Sailing Ship~
+~
+This is the bow of a sailing ship, it extends south.  Along the keel, at the 
+very bow is a large ram, painted blue and craved into the likeness of a 
+dragon's head.  The deck is fairly clean, and the salt sea air fills your 
+nose.  The rest of the deck extends to the north.  
+~
+1 0 1
+D0
+~
+~
+0 0 23742
+R O 0 23741 0 23744
+R O 0 23742 0 23744
+R M 0 23741 3 23744
+  R E 0 23751 0 7
+  R E 0 23750 0 19
+  R E 0 23753 0 16
+  R E 0 23754 0 6
+  R E 0 23752 0 5
+S
+#23745
+Climbing the Mast~
+~
+This is the large wooden mast of a sailing ship, below , the large deck of 
+the ship spreads out, from bow to stern.  The sailors below look small and 
+tiny, like bugs.  Above is the crows nest, a small wooden barrel used for a 
+lookout.  
+~
+1 4 1
+D4
+~
+~
+0 0 23746
+D5
+~
+~
+0 0 23742
+S
+#23746
+Crow's Nest~
+~
+This is the crows nest at the top of the main mast of a large sailing ship.  
+Below the deck spreads out, from bow to stern.  This small cramped 
+barrel-like structure is used for a look out by the sailors.  The crow's 
+nest sways gently in the breeze of the salty sea.  
+~
+1 0 1
+D5
+~
+~
+0 0 23745
+R M 0 23745 1 23746
+  R E 0 23754 0 6
+  R E 0 23751 0 7
+  R E 0 23752 0 5
+  R E 0 23750 0 16
+  R E 0 23755 0 17
+S
+#23747
+The Stern of a Sailing Ship~
+~
+This is the top of the stern house, of the sailing ship.  Over the railing, 
+you can see the sea water lap up against the hull, and the large rudder of 
+the ship.  There are a set of stairs that lead down to the main decks.  On a 
+small wooden rise is the wheel of the ship, the helm.  This probably steers 
+the ship.  
+~
+1 0 1
+D5
+~
+~
+0 0 23743
+R O 0 23741 0 23747
+R O 0 23742 0 23747
+R M 0 23741 3 23747
+  R E 0 23751 0 7
+  R E 0 23750 0 19
+  R E 0 23752 0 5
+  R E 0 23753 0 16
+  R E 0 23754 0 6
+R M 0 23742 2 23747
+  R E 0 23754 0 6
+  R E 0 23752 0 5
+  R E 0 23756 0 16
+  R G 0 23742 0
+  R E 0 23751 0 7
+R M 0 23751 1 23747
+  R E 0 23776 0 7
+  R E 0 23777 0 1
+  R E 0 23777 0 2
+  R E 0 23778 0 3
+  R E 0 23774 0 12
+  R E 0 23766 0 5
+  R E 0 23779 0 16
+S
+#23748
+A Wooden Room~
+~
+This is basically a small plain wooden room, with a hatch and ladder leading 
+down into the hull of the ship.  There is a plain wooden door on the south 
+of the room, and a large oak door on the north side.  
+~
+1 8 0
+D0
+~
+oak door~
+1 0 23749
+D2
+~
+wooden door~
+1 0 23743
+D5
+~
+~
+0 0 23750
+S
+#23749
+The Captain's Quarters~
+~
+This large room is well decorated and very clean, it must be the room of a 
+highly respected person.  There is a large door in the south wall.  Two 
+windows in the north wall open up, and the sea can be seen through them.  
+~
+1 8 0
+D2
+~
+large door~
+1 0 23748
+R O 0 23747 0 23749
+R O 0 23749 0 23749
+R M 0 23746 1 23749
+  R E 0 23758 0 16
+  R E 0 23759 0 5
+  R E 0 23760 0 7
+  R E 0 23761 0 10
+  R E 0 23762 0 6
+  R E 0 23763 0 9
+  R E 0 23764 0 8
+  R E 0 23765 0 13
+  R G 0 23780 0
+S
+#23750
+Cramped Hallway~
+~
+This cramped hallway sways a bit from side to side.  The floor, walls, and 
+ceiling are all made out of plank wood.  There is a door in north wall, and 
+a hall to the south.  A wooden ladder leads down from above.  
+~
+1 8 0
+D0
+~
+door~
+1 0 23751
+D2
+~
+~
+0 0 23752
+D4
+~
+~
+0 0 23748
+S
+#23751
+First Mate's Quaters~
+~
+This room although not as nice as the captains room, is still quite nice.  
+The floor carpeted, and there is a window on the north wall.  There is a 
+wooden door to the south.  
+~
+1 8 0
+D2
+~
+wooden door~
+1 0 23750
+R O 0 23747 0 23751
+R M 0 23749 1 23751
+  R E 0 23772 0 16
+  R E 0 23766 0 5
+  R E 0 23774 0 12
+  R E 0 23775 0 6
+S
+#23752
+Cramped Hallway~
+~
+This dimly-lit cramped hallway sways a bit from side to side.  The floor, 
+walls, and ceiling are all made out of plank wood.  The halls leads from 
+south to north and there are doors on both sides of the hallway.  
+~
+1 8 0
+D0
+~
+~
+0 0 23750
+D1
+~
+door~
+1 0 23757
+D2
+~
+~
+0 0 23753
+D3
+~
+door~
+1 0 23759
+S
+#23753
+Cramped Hallway~
+~
+This dimly-lit cramped hallway sways a bit from side to side.  The floor, 
+walls, and ceiling are all made out of plank wood.  The halls leads from the 
+north and end with a door on the south wall.  There are also doors on both 
+sides of the hallway.  
+~
+1 8 0
+D0
+~
+~
+0 0 23752
+D1
+~
+door~
+1 0 23758
+D2
+~
+door~
+1 0 23754
+D3
+~
+door~
+1 0 23760
+S
+#23754
+Anchor Room~
+~
+This small wedge shaped room must be at the very bow of the ship.  On the 
+port side if a small hole, from which a large coil of rope extends and ties 
+to a large wooden beam that looks very strong.  There is a doorway to the 
+north, and a hatch and ladder leading down.  
+~
+1 8 0
+D0
+~
+door~
+1 0 23753
+D5
+~
+~
+0 0 23755
+S
+#23755
+Storage Room~
+~
+This room is dark and musty.  The ceiling is low.  There are large sealed 
+crates packed in here for storage, and some large storage bags.  To the 
+north is a opening between the crates.  There is a ladder here that leads 
+up.  
+~
+1 8 0
+D0
+~
+~
+0 0 23756
+D4
+~
+~
+0 0 23754
+R O 0 23748 0 23755
+  R P 0 23742 5 23748
+S
+#23756
+Behind the Crates~
+~
+This small space is surrounded by stacked crates, the only exit is south, in 
+between some crates.  The floor here is very dusty, and there are many rat 
+droppings.  
+~
+1 8 0
+D2
+~
+~
+0 0 23755
+R M 0 23748 1 23756
+  R E 0 23754 0 6
+  R E 0 23766 0 5
+  R E 0 23767 0 16
+S
+#23757
+Galley~
+~
+This large open room is very plain.  It seems to be the galley of this ship. 
+ There are two round windows on the west wall, through which water can be 
+seen.  The floors creaky.  The room is filled with a dense smoke.  The room 
+continues to the south, and there is a door in the west wall.  
+~
+1 8 0
+D2
+~
+~
+0 0 23758
+D3
+~
+door~
+1 0 23752
+R M 0 23747 1 23757
+  R E 0 23768 0 12
+  R E 0 23769 0 5
+  R E 0 23770 0 16
+R O 0 23771 0 23757
+S
+#23758
+Galley~
+~
+This large open room is very plain.  It seems to be the galley of this ship. 
+ There are two round windows on the west wall, through which water can be 
+seen.  The floors creaky.  The room is filled with a dense smoke.  The room 
+continues to the north, and there is a door in the west wall.  
+~
+1 8 0
+D0
+~
+~
+0 0 23757
+D3
+~
+door~
+1 0 23753
+R O 0 23743 0 23758
+  R P 0 23744 20 23743
+R M 0 23744 1 23758
+  R E 0 23751 0 7
+  R E 0 23773 0 17
+  R E 0 23752 0 5
+S
+#23759
+Small Quarters~
+~
+This is a small wooden room with a door on the east side and a small round 
+window on the west side.  The rooms sways slightly, and the floor creaks.  
+~
+1 8 0
+D1
+~
+door~
+1 0 23752
+R O 0 23745 0 23759
+R O 0 23746 0 23759
+R M 0 23750 2 23759
+  R E 0 23752 0 5
+  R E 0 23751 0 7
+  R E 0 23754 0 6
+S
+#23760
+Small Quarters~
+~
+This is a small wooden room with a door on the east side and a small round 
+window on the west side.  The rooms sways slightly, and the floor creaks.  
+~
+1 8 0
+D1
+~
+door~
+1 0 23753
+R O 0 23745 0 23760
+R O 0 23746 0 23760
+R M 0 23750 2 23760
+  R E 0 23752 0 5
+  R E 0 23751 0 7
+  R E 0 23754 0 6
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

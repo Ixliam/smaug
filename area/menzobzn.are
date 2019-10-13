@@ -1,0 +1,3306 @@
+#AREA        Menzoberranzan~
+
+
+
+#VERSION     11
+#AUTHOR      nakasha~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#620
+medusa woman snake~
+a greater medusa~
+A woman with snakes for hair and a lower body of a large snake is here.
+~
+The greater medusa is covered with fine scales over her entire body.  
+Instead of a lower torso and legs, she has a serpentine body 20' long like a 
+large snake.  She is a terrifying sight to behold.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+65 0 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#621
+unseen force~
+an unseen force~
+Unseen Force
+~
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#622
+elf elven slave~
+an elven slave~
+A wretched elven slave is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#623
+black bat~
+a black bat~
+A small black bat is flying about here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#624
+drop shopkeeper d'franth~
+`#`^D'`^Franth~
+`#`^D'`^Franth the weaponsmith is standing behind the counter.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#625
+armorsmith drow a'tritzdi~
+`#`^A'`^Tritzdi the armorsmith~
+`#`^A'`^Tritzdi the armorsmith is standing behind the counter.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#626
+drow cityguard~
+a `#`Sdrow `^cityguard~
+A `#`Sdrow cityguard`^ is here, maintaining order.
+~
+~
+0
+Clanname none~
+0
+0
+129 4096 -600 C
+30 5 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#627
+a drifter~
+a drifter~
+A drifter sits in the shadows here.
+~
+A dark cloak covers most of this man, but it's clear to see he is well armed 
+and agile.  He carries a pack with him and looks to be willing to trade 
+something for a few silver.  
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+60 0 -30 6d9+320 8d6+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#628
+lhrao~
+lhrao~
+Lhrao is here, standing behind the bar.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+92 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#629
+drider~
+a monsterous `#`sdrider`^~
+A monsterous `#`sdrider`^ crouches here.
+~
+This monsterous creature is halfdrow and halfspider.  Spindly spider legs 
+jut from a drowish chest.  The face of a man is viewed, but the numerous 
+eyes of a spider peer at you eerily.  
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#630
+agathfal~
+agathfal, the drow~
+Agathfal is here, sorting his magical collectibles.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#631
+frishkhrol~
+a lanky, grey haired drow~
+A lanky, grey haired drow is here, polishing stones.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#632
+kulzan~
+a silver robed male drow~
+A silver robed male drow stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#633
+drow sentinel~
+a `#`Sdrow`^ sentinel~
+A `#`Sdrow`^ sentinel is here, guarding the street.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#634
+vault guard~
+a drowish guard~
+A drowish guard stands here at attention.
+~
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#635
+a drow priestess~
+a beautiful drow priestess~
+A beautiful drow priestess is here, chanting softly.
+~
+This drows skin is a flawless ashen shade.  She is dangerously beautiful 
+with long white hair flowing down to her waist.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#636
+orc slave~
+a shackled orc slave~
+A shackled orc slave is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#637
+goblin slave~
+a hunched goblin slave~
+A hunched goblin slave stands here.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#638
+hobgoblin slave~
+a squat hobgoblin slave~
+A squat hobgoblin slave is shackled here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#639
+human slave~
+a bedraggled human slave~
+A bedraggled human slave is shackled here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+65 0 -34 6d10+335 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#640
+short, stout drow~
+a short, stout drow~
+A short, stout drow stands behind a counter here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+130 0 -100 13d16+630 13d18+85
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#641
+phath, the slave master~
+phath, the slave master~
+Phath, the slave master is here, offering his slaves.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#642
+drow citizen~
+a `#`sdrow`^ citizen~
+A `#`sdrow`^ citizen wanders here.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#643
+robed female drow~
+a robed female `#`Sdrow`^~
+A robed female `#`Sdrow`^ roams here.
+~
+This female drow looks fit and agile.  She appears as if she would be 
+willing to train you if you wanted.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#644
+drow innkeeper~
+a `#`sdrow`^ innkeeper~
+A `#`sdrow`^ innkeeper stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#620
+boulders~
+loose boulders~
+Some loose boulders are along the northern cave wall.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#621
+statue elf~
+a statue of an elf~
+A stone statue of a terrified elven warrior stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+621 statue ~
+The expression on his face is one of pure terror.  He is in a running 
+postion, as if he was leaving from the north, and then looked back.  It 
+seems as if was almost being attacked and was fleeing from something 
+horrible.  
+~
+#622
+ice-laced whip~
+an `#`Ci`Wc`Ce`W-`Cl`wa`Cc`we`Cd`^ whip~
+An `#`Ci`Wc`Ce`W-`Cl`wa`Cc`we`Cd`^ whip lies here.~
+~
+5 1 4
+12 89 118 2066 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#623
+drow chainmail~
+`#`sDrow chainmail`^~
+`#`sDrow chainmail`^ lies here.~
+~
+9 64 8
+55 55 16 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#624
+adamantium key~
+an adamantium key~
+A dark jagged-looking key lies here.~
+~
+18 128 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#625
+slave collar~
+a drow slave collar~
+A slave collar used by drow lies here.~
+~
+9 0 8
+2 2 4 0 0 0 0
+1 290 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#626
+longsword adamantium~
+an `#`madamantium longsword`^~
+An adamantium longsword lies here.~
+~
+5 16 4
+4 35 50 128 0 0 0
+1 890 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#627
+adamantium dagger~
+an `#`madamantium dagger`^~
+An adamantium dagger lies here.~
+~
+5 16 4
+5 17 25 128 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#628
+adamantium spiked mace~
+an `#`madamantium spiked mace`^~
+An adamantium spiked mace lies here.~
+~
+5 16 4
+5 7 16 10240 0 0 0
+1 759 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#629
+adamantium staff~
+an `#`madamantium staff`^~
+An staff made from adamantium lies here.~
+~
+5 16 4
+2 17 25 10272 0 0 0
+1 975 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#630
+adamantium flail~
+an `#`madamantium flail`^~
+An adamantium flail lies here.~
+~
+5 16 4
+7 14 24 4096 0 0 0
+1 756 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#631
+adamantium chainmail~
+`#`madamantium chainmail`^~
+Some black chainmail lies here.~
+~
+9 16 8
+5 5 10 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#632
+drow helm fearsome adamantium~
+a fearsome `#`Shelm of the drow`^~
+A fearsome looking helm lies here.~
+~
+9 16 8
+10 10 11 0 0 0 0
+1 1366 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#633
+leggings spider queen drow~
+leggings of the `#`SSpider `SQueen`^~
+Some black leggings with intricate carvings of spiders on them lies here.~
+~
+9 16 8
+10 10 13 0 0 0 0
+1 2750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#634
+drow black boots~
+a pair of `#`Sblack drow boots`^~
+A pair of black boots lies here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#635
+drow gloves night~
+some `#`Sdrowish gloves of the night`^~
+A pair of dark grey gloves lies here.~
+~
+9 256 8
+10 10 13 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+635 gloves~
+These grey leather gloves are more that what they seemed on first 
+inspection.  They are magical, maybe the creation of some great wizard.  
+~
+#636
+shadow potion unholy aura~
+a `#`Sshadow`^ potion~
+A `#`Sshadow`^ potion lies here.~
+~
+10 16 8
+0 -1 -1 -1 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#637
+adamantium shield~
+an `#`madamantium shield`^~
+A black shield has been left here.~
+~
+9 16 8
+10 10 7 0 0 0 0
+1 393 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#638
+boots of the spider queen~
+boots of the `#`SSpider Queen`^~
+Some boots of the `#`SSpider Queen`^ lie here.~
+~
+9 64 8
+5 5 10 0 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#639
+potion protection magic cold fire acid~
+a potion of protection~
+A potion of protection lies here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#640
+nightshadow lance~
+`#`SNi`wgh`WtSh`wad`Sow `WL`wa`Wn`wc`We`^~
+`#`SNi`wgh`WtSh`wad`Sow `WL`wa`Wn`wc`We`^ lies here.~
+~
+5 0 4
+19 105 135 34 0 0 0
+1 610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#641
+lightflayer halbred~
+a `#`WLi`wgh`ytFl`way`Wer`^ halbred~
+A `#`WLi`wgh`ytFl`way`Wer`^ halbred lies here.~
+~
+5 2 4
+9 105 135 36 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#642
+adamantium face mask spider queen~
+a `#`SMask `wof the `SSpider `SQueen`^~
+A mask looking the the face of a horrible spider lies here.~
+~
+9 16 8
+5 5 6 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#643
+adamantium ankle guard~
+an `#`madamantium ankle guard`^~
+A black ankle guard lies here.~
+~
+9 16 8
+10 10 3 0 0 0 0
+1 375 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#644
+spider's kiss dagger~
+`#`sSp`wide`sr's `rK`Ri`rs`Rs `sDagger`^~
+`#`sSp`wide`sr's `rK`Ri`rs`Rs `sDagger`^ lies here.~
+~
+5 16 4
+2 105 135 136 0 0 0
+1 790 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#645
+drow cloak~
+a `#`SCloak `^of the `SDrow`^~
+A well-made black cloak lies here.~
+~
+9 16 8
+12 12 10 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#646
+knapsack~
+a `#`yW`ry`yv`re`yr`rn`yHide`^ knapsack~
+A `#`yW`ry`yv`re`yr`rn`yHide`^ knapsack lies here.~
+~
+15 0 8
+5 0 50 0 0 0 0
+1 999 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+646 wyvern knapsack~
+A small knapsack made from the `#`yhide`^ of a `#`rW`yy`rv`ye`rr`yn`^.  
+~
+#647
+worn tattered scroll~
+a worn and tattered scroll~
+A worn and tattered scroll lies here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#648
+granite fountain~
+a granite fountain~
+A towering granite fountain is here.~
+~
+25 1 16
+30000 0 0 0 0 0 0
+300 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+648 towering granite fountain~
+Painstakingly chisled, the top tier of this fountain depicts Lloth, the 
+Spider Queen herself in all her glory.  Water falls from her feet, arching 
+down into a second tier before tumbling into the fountains depths.  The grey 
+stone gleams in the darkness, reflecting the streets shadows.  
+~
+#649
+obsidian warpstone~
+a smooth piece of `#`Sobsidian`^~
+A smooth piece of `#`Sobsidian`^ is here.~
+~
+30 64 16
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#650
+anti-poison potion cure resist~
+an anti-poison potion~
+An anti-poison potion lies here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#651
+shadow crystal~
+a `#`Ss`wh`sa`wd`so`ww `Wcrystal`^~
+A `#`Ss`wh`sa`wd`so`ww `Wcrystal^ is here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+651 shadow crystal~
+This crystal is small and round. When looked closely at, shadows can be seen, dancing within it.
+~
+#652
+colourless stone~
+a colourless stone~
+A colourless stone lies here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#653
+hard black stone~
+a hard, `#`Sblack`^ stone~
+A hard, `#`Sblack`^ stone is here.~
+~
+32 2 32
+0 0 0 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#654
+diamond~
+a `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `Cdiamond`^~
+A `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `Cdiamond`^ lies here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#655
+amulet of power~
+the `#`mA`Cmulet`^ of `#`CP`mower`^~
+The `#`mA`Cmulet`^ of `#`CP`mower`^ lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#656
+amulet of inner vision~
+the `#`WAmulet`^ of `SV`bision`^~
+The `#`WAmulet`^ of `SV`bision`^ lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#657
+staff of shining~
+the `#`SS`wtaff`^ of `#`WShining`^~
+The `#`SS`wtaff`^ of `#`WShining`^ lies here.~
+~
+32 1 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#658
+staff of gloaming~
+the `#`SS`wtaff`^ of `#`SG`Wl`wo`Wa`sm`wi`Wn`Sg`^~
+The `#`SS`wtaff`^ of `#`SG`Wl`wo`Wa`sm`wi`Wn`Sg`^ lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#659
+scroll of perception~
+a scroll of perception~
+A scroll of perception lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#660
+scroll of journey~
+a scroll of journey~
+A scroll of journey lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#661
+scroll of combustion~
+a scroll of combustion~
+A scroll of combustion lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 60000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#662
+elven skin rug~
+an elven `#`yskin`^ rug~
+An elven `#`yskin`^ rug lies here.~
+~
+12 0 8
+5000 132242 75 75 0 0 0
+1 15000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+662 elven skin rug~
+This rug is remarkably soft and plush due to the ancient curing techniques 
+used by the drow.  It is the perfect outline of an Elven female.  
+~
+#663
+steel vault~
+a huge steel vault~
+~
+~
+15 0 8
+15 664 100 0 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#664
+vault key~
+a thin, steel key~
+A thing, steel key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#665
+robe woven out of spider web~
+a `#`Wrobe`^ woven from `ws`sp`wi`sd`we`sr`ws `Wweb`^~
+A robe woven from spider web lies here, forgotten.~
+~
+9 64 8
+55 55 14 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#666
+wrist sheathe~
+a `#`Sblack`^ leather wrist `#`ys`Sheathe`^~
+A `#`Sblack`^ leather wrist `#`ys`Sheathe`^ lies here.~
+~
+15 0 8
+0 0 3 0 0 0 0
+1 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+666 black leather wrist sheathe~
+This sheathe is made of a smooth black leather.  It's small enough to tuck 
+under the wrists and lower arms, and not be noticed when covered.  It looks 
+as if a small dagger or knife could fit in them easily.  
+~
+#667
+black onyx bracer~
+a `#`Sblack `wo`sn`wy`sx`^ bracer~
+A `#`Sblack `wo`sn`wy`sx`^ bracer lies here.~
+~
+9 64 8
+55 55 6 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#668
+black onyx ring~
+a `#`Sblack `wo`sn`wy`sx`^ ring~
+A `#`Sblack `wo`sn`wy`sx`^ ring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 660 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#669
+black onyx arm guard~
+a `#`Sblack `wo`sn`wy`sx`^ arm guard~
+A `#`Sblack `wo`sn`wy`sx`^ arm guard lies here.~
+~
+9 64 8
+55 55 12 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#670
+mushrooms with moss sauce~
+a bowl of mushrooms covered with moss sauce~
+A bowl of mushrooms covered with moss sauce lies here.~
+~
+19 0 16
+21 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#671
+cup of roathe's milk~
+a cup of roathe's `#`Wmilk`^~
+A cup of roathe's `#`Wmilk`^ lies here.~
+~
+17 0 16
+40 10 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#672
+roathe chops~
+a plate of roathe chops~
+A plate of roathe chops lies here.~
+~
+19 0 16
+27 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#673
+roathe's cheese~
+a slab of roathe's cheese~
+A slab of roathe's cheese lies here.~
+~
+19 0 16
+22 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#674
+snifter of brandy~
+a snifter of brandy~
+A snifter of brandy lies here.~
+~
+17 0 16
+40 27 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#675
+flask of red wine~
+a flask of `#`rred`^ wine~
+A flask of `#`rred`^ wine lies here.~
+~
+17 0 16
+40 2 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#676
+flask of white wine~
+a flask of `#`Wwhite`^ wine~
+A flask of `#`Wwhite`^ wine lies here.~
+~
+17 0 16
+40 18 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#677
+jivval~
+a small `#`yp`wo`yu`wc`yh`^ of `#`cJ`bi`Bv`Cv`ba`cl`^~
+A small `#`yp`wo`yu`wc`yh`^ of `#`cJ`bi`Bv`Cv`ba`cl lies here.`^~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#678
+roathe jerky~
+a strip of dried roathe jerky~
+A strip of dried roathe jerky lies here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#679
+firkin of water~
+a `#`yf`wi`yr`wk`yi`wn`^ of `#`Bwater`^~
+A `#`yf`wi`yr`wk`yi`wn`^ of `#`Bwater`^ lies here.~
+~
+17 0 16
+100 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#680
+piwafwi~
+a long, flowing piwafwi~
+A long, flowing piwafwi lies here, forgotten.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+680 piwafwi ~
+This piwafwi is long and flowing, appearing to be as a normal cloak.  Yet 
+it's shade is undetermanable, as the colours shift and change in the light 
+and darkness.  It is strong and durable, shielding one from the elements.  
+~
+#681
+haversack backpack~
+a `#`sdark `yl`se`ya`st`yh`se`yr haversack`^~
+A `#`sdark `yl`se`ya`st`yh`se`yr haversack`^ lies here.~
+~
+15 0 8
+1 0 70 80 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#682
+circlet of shadows~
+the `#`SCirclet `wof `SShadows`^~
+The `#`SCirclet `wof `SShadows`^ lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#683
+spider plate~
+`#`SSpider Plate`^~
+`#`SSpider Plate`^ lies here.~
+~
+9 64 8
+10 10 16 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#684
+deadly nightshade~
+`#`mDeadly `sNi`mgh`stS`mha`sde`^~
+`#`mDeadly `sNi`mgh`stS`mha`sde`^ lies here.~
+~
+5 16 4
+2 105 135 136 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#685
+soultaker~
+`#`SSo`rul`sT`rak`ser`^~
+`#`SSo`rul`sT`rak`ser`^ lies here.~
+~
+5 128 4
+8 135 170 4 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#686
+adamantium horned helm~
+an `#`madamantium`^ horned helm~
+An `#`madamantium`^ horned helm lies here.~
+~
+9 2 8
+50 50 13 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#687
+no name 687~
+(no short description 687)~
+(no description 687)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#620
+Hidden Tunnel~
+~
+A dark cave tunnel goes down into the darkness here.  Damp with the smell of 
+mold and mildew, it appears to have been carved deep into the very earth 
+itself.  The dark limestone is covered with some small lichens and scrub 
+vegetation, aching out a wretched existance in this land of eternal night.  
+~
+1 1 11
+D5
+~
+~
+0 0 621
+S
+#621
+Dark Tunnel~
+~
+The tunnel bored into the solid limestone winds its way east, deeper into 
+the ground, and fresh air can be felt as it slopes up.  Puddles of water can 
+be seen in small depressions in the ground, and the walls of the tunnel 
+glisten with a liquid sheen.  
+~
+1 1 11
+D1
+~
+~
+0 0 622
+D4
+~
+~
+0 0 620
+S
+#622
+Dark Tunnel~
+~
+The tunnel bored into the solid limestone winds its way deeper into the 
+ground, and fresh air can be felt as to the west.  Puddles of water can be 
+seen in small depressions in the ground, and the walls of the tunnel glisten 
+with a liquid sheen.  
+~
+1 1 11
+D3
+~
+~
+0 0 621
+D5
+~
+~
+0 0 623
+S
+#623
+Dark Tunnel~
+~
+The strata of the tunnel changes here to a dark black stone with flecks of 
+red and gold embedded in it.  Countless chisel marks are apparent in the 
+walls, and drips of water fall from the ceiling, landing on the floor.  A 
+cold chill is in the air as you find yourself deeper inside the tunnel, 
+which slopes up and also continues to the west.  
+~
+1 1 11
+D3
+~
+~
+0 0 624
+D4
+~
+~
+0 0 622
+R O 0 50050 0 623
+S
+#624
+Dark Tunnel~
+~
+The dark black stone tunnel heads both north and east from here.  Countless 
+chisel marks are apparent in the walls, and drips of water fall from the 
+ceiling, landing on the floor.  The temperature this deep leaves a slight 
+chill in the air.  
+~
+1 671612929 11
+D0
+~
+~
+0 0 625
+D1
+~
+~
+0 0 623
+D3
+~
+~
+1 0 663
+S
+#625
+Dark Tunnel~
+~
+The dark black stone tunnel slopes down as well as bearing off to the south 
+from here.  Countless chisel marks are apparent in the walls, and drips of 
+water fall from the ceiling, landing on the floor.  The temperature this 
+deep leaves a slight chill in the air.  
+~
+1 1 11
+D2
+~
+~
+0 0 624
+D5
+~
+~
+0 0 626
+S
+#626
+Dark Tunnel~
+~
+The dark black stone tunnel slopes at an angle up and down, as well as a 
+small tunnel to the north.  From here.  Countless chisel marks are apparent 
+in the walls, and drips of water fall from the ceiling, landing on the 
+floor.  The temperature this deep leaves a slight chill in the air.  
+~
+1 1 11
+D0
+~
+~
+0 0 627
+D4
+~
+~
+0 0 625
+D5
+~
+~
+0 0 628
+S
+#627
+Dark Tunnel~
+~
+The dark black stone tunnel slopes down as well as bearing off to the south 
+from here.  Countless chisel marks are apparent in the walls, and drips of 
+water fall from the ceiling, landing on the floor.  The temperature this 
+deep leaves a slight chill in the air.  
+~
+1 1 11
+D2
+~
+~
+0 0 626
+D5
+~
+~
+0 0 628
+R O 0 50050 0 627
+R O 0 620 0 627
+S
+#628
+Large Tunnel~
+~
+Sharp obsidian spikes protrude from the walls as this area of the tunnel 
+opens up, the ceiling of the tunnel soaring high into the air, further than 
+you can see.  Large obsidian columns line the passageway to the north, 
+rising high into the sky beyond your sight.  The passageway narrows and 
+slopes up as it heads towards the surface.  
+~
+1 9 11
+D0
+~
+~
+0 0 629
+D4
+~
+~
+0 0 626
+R O 0 621 0 628
+S
+#629
+Before the City~
+~
+Large adamantium gates block the entrance into Menzoberranzan, City of the 
+Drow.  Large obsidian columns line the entrance, and on the ground can be 
+seen several remains of what appears to be ancient statues which have 
+crumbled to dust.  Pieces of stone hands, feet, and an occasional head can 
+be seen lying about.  
+~
+1 134225929 11
+D0
+~
+gate~
+33 624 630
+D2
+~
+~
+0 0 628
+R M 0 620 1 629
+  R E 0 622 0 16
+  R G 0 624 0
+E
+gate ~
+The adamantium gates appear to be able to withstand any force sent against them. Stronger than any metal, adamantium can withstand even a blast of dragonfire.
+~
+S
+#630
+Inside the Entrance~
+~
+You are at the entrance to the great Drow city of Menzoberranzan.  Large 
+adamantium gates leading out of the city lie to the south.  To the north 
+runs Lolth Street, leading into the very heart of the city.  No light can be 
+seen in the buildings ahead, for the drow do not need any light.  
+~
+1 9 11
+D0
+~
+~
+0 0 631
+D2
+~
+gate~
+33 624 629
+R M 0 622 20 630
+  R E 0 625 0 3
+R M 0 621 1 630
+  R E 0 624 0 17
+R M 0 633 20 630
+  R E 0 623 0 5
+  R E 0 669 0 10
+  R E 0 666 0 14
+  R E 0 668 0 1
+  R E 0 684 0 16
+S
+#631
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 632
+D2
+~
+~
+0 0 630
+R M 0 623 20 631
+S
+#632
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 633
+D2
+~
+~
+0 0 631
+R O 0 50050 0 632
+R M 0 622 20 632
+  R E 0 625 0 3
+S
+#633
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 634
+D2
+~
+~
+0 0 632
+R M 0 626 20 633
+  R E 0 626 0 16
+  R E 0 626 0 19
+R M 0 623 20 633
+S
+#634
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 635
+D2
+~
+~
+0 0 633
+R M 0 622 20 634
+  R E 0 625 0 3
+S
+#635
+Intersection of Lolth & Sithus~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  East and west takes you along Sithus way.  Paved in obsidian 
+brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 636
+D1
+~
+~
+0 0 646
+D2
+~
+~
+0 0 634
+D3
+~
+~
+0 0 653
+R M 0 642 20 635
+R M 0 633 20 635
+  R E 0 623 0 5
+  R E 0 641 0 16
+  R E 0 667 0 15
+R M 0 623 20 635
+S
+#636
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 637
+D2
+~
+~
+0 0 635
+R M 0 622 20 636
+  R E 0 625 0 3
+S
+#637
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 638
+D2
+~
+~
+0 0 636
+R M 0 623 20 637
+S
+#638
+Lolth Street~
+~
+This is the center of the great city of Menzoberranzan.  Lloth street runs 
+north and south, while K'tar Street runs east and west.  The great Temple of 
+Lolth looms to the north, the center of worship of the Goddess Lolth.  
+~
+1 9 11
+D0
+~
+~
+0 0 639
+D1
+~
+~
+0 0 660
+D2
+~
+~
+0 0 637
+D3
+~
+~
+0 0 687
+R M 0 622 20 638
+  R E 0 625 0 3
+R M 0 633 20 638
+  R E 0 623 0 5
+  R E 0 667 0 15
+  R E 0 640 0 16
+S
+#639
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 640
+D2
+~
+~
+0 0 638
+R M 0 642 20 639
+R M 0 623 20 639
+S
+#640
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 641
+D2
+~
+~
+0 0 639
+R M 0 622 20 640
+  R E 0 625 0 3
+E
+west door~
+A crest of The `#`WMoon `SSpider`^ has been carved deep into the wood of this door.  
+
+~
+S
+#641
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen hereself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Fang street intersects here, leading west and east to the more 
+worn part of this great city.  Paved in obsidian brick, the street is black 
+as midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 642
+D1
+~
+~
+0 0 665
+D2
+~
+~
+0 0 640
+D3
+~
+~
+0 0 684
+D5
+~
+~
+0 0 24000
+R M 0 623 20 641
+R M 0 626 20 641
+  R E 0 626 0 16
+  R E 0 626 0 19
+R O 0 648 0 641
+R M 0 633 20 641
+  R E 0 623 0 5
+  R E 0 666 0 15
+  R E 0 685 0 16
+S
+#642
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen herself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight, 
+continuing north and south.  
+~
+1 9 11
+D0
+~
+~
+0 0 643
+D2
+~
+~
+0 0 641
+R M 0 622 20 642
+  R E 0 625 0 3
+S
+#643
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen herself.  The main 
+street in Menzoberranzan leads directly towards the great Temple of Lolth to 
+the north.  Paved in obsidian brick, the street is black as midnight, 
+continuing north and south.  
+~
+1 9 11
+D0
+~
+~
+0 0 644
+D2
+~
+~
+0 0 642
+R M 0 623 20 643
+S
+#644
+Lolth Street~
+~
+You are on Lolth Street, named after the Spider Queen herself.  Tall 
+obsidian columns extend high into the air, leading north into the great 
+Temple of Lolth.  Past them, you see your first glimpse of the Temple, 
+towering over the city.  Paved in obsidian brick, the street is black as 
+midnight.  
+~
+1 9 11
+D0
+~
+~
+0 0 645
+D1
+~
+~
+0 0 676
+D2
+~
+~
+0 0 643
+D3
+~
+~
+0 0 677
+R M 0 642 20 644
+R M 0 622 20 644
+  R E 0 625 0 3
+R M 0 633 20 644
+  R E 0 684 0 16
+  R E 0 669 0 10
+  R E 0 623 0 5
+S
+#645
+Before the Temple~
+~
+To the north up a large flight of solid obsidian stairs lies the Temple of 
+the Drow.  It plunges high into the sky, standing as a sheer testament to 
+the might of the Drow.  Made of the purest obsidian, it glistens in the 
+darkness, reflecting the very city itself on its mirror-like walls.  
+Gleaming obsidian pillars stand to each side of the stairs.  A `#`splaque`^ has 
+been chisled into them, the words upon them glowing eerily.  
+~
+1 9 11
+D0
+~
+~
+1 0 2200
+D2
+~
+~
+0 0 644
+R M 0 623 20 645
+R M 0 635 1 645
+  R E 0 665 0 12
+  R E 0 642 0 28
+E
+pillars plaque~
+`#`wChisled into the first pillar..`s`1
+Cast your fate aside, 
+lend your judgement to the darkness. 
+for she knows what is truely just... 
+`1`wChisled into the second pillar..`s`1
+To Walk Apart From House And Queen Is To Walk Into The Grave`^
+~
+S
+#646
+Sithus Way~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D0
+~
+~
+0 0 659
+D1
+~
+~
+0 0 647
+D3
+~
+~
+0 0 635
+S
+#647
+Sithus Way~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D1
+~
+~
+0 0 648
+D3
+~
+~
+0 0 646
+R M 0 642 20 647
+S
+#648
+Intersection of Sithus and Widow~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D1
+~
+~
+0 0 649
+D3
+~
+~
+0 0 647
+D6
+~
+~
+0 0 693
+R M 0 633 20 648
+  R E 0 666 0 15
+  R E 0 623 0 5
+  R E 0 684 0 16
+S
+#649
+Inn of the Black Widow~
+~
+You are in the reception area of a small inn.  A wooden desk faces the west 
+entry, upon it a book and an inkwell.  The common room is off to the south, 
+and you see a staircase heading up, probably to the guest rooms.  From the 
+furnishings, the inn seems a bit on the expensive side.  
+~
+1 1073741832 0
+D2
+~
+~
+0 0 652
+D3
+~
+~
+0 0 648
+D4
+~
+~
+0 0 651
+R M 0 644 1 649
+S
+#650
+Kulzan's Staves and Scrolls~
+~
+This room is narrow and dank with a strong smell of burning incense.  A 
+glass front bookcase fills the western wall, with several parchments and 
+books filling it's depths.  A sturdy table is set in the middle of the room, 
+with papers and scrolls scattered over it.  On the eastern wall, racks of 
+staves can be seen hanging from the wall.  
+~
+1 1 0
+D0
+~
+~
+0 0 677
+R M 0 632 1 650
+  R G 0 649 0
+  R G 0 658 0
+  R G 0 657 0
+  R G 0 659 0
+  R G 0 660 0
+  R G 0 661 0
+  R G 0 3088 0
+S
+#651
+A well lit foyer~
+~
+Several lamps illuminate this narrow foyer.  Although small, it appears to 
+be furnished rather nicely with several paintings hanging on the paneled 
+walls.  It's floor is made up of a dark hardwood covered by a thick rug.  A 
+long, thin table stretches the length of one wall, a vase of bright flowers 
+is upon it.  A doorway is to the south and a set of stairs leads down from 
+here.  
+~
+1 33554440 0
+D2
+~
+~
+33 0 695
+D5
+~
+~
+0 0 649
+S
+#652
+The Common Room~
+~
+This common room is not as large as most, but then again the entire inn 
+seems to be on the small side.  What it lacks in size, however, seems to be 
+made up for in comfort.  There are padded chairs all around the tables, and 
+all of the furnishings and decorations look quite expensive.  A finely 
+polished wooden bar dominates the west wall, and a large brick fireplace is 
+set in the east.  There is an exit back to the reception area to the north.  
+
+~
+1 9 0
+D0
+~
+~
+0 0 649
+R O 0 23601 0 652
+S
+#653
+Sithus Way~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D1
+~
+~
+0 0 635
+D3
+~
+~
+0 0 654
+S
+#654
+Sithus Way~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D0
+~
+~
+0 0 658
+D1
+~
+~
+0 0 653
+D3
+~
+~
+0 0 655
+S
+#655
+Intersection of Sithus and Drider~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  There are some 
+trees and bushes along the edges of the street.  Small shops line the 
+streets in all directions, and you see and hear many people in those 
+directions.  
+~
+1 9 11
+D1
+~
+~
+0 0 654
+D3
+~
+~
+0 0 656
+D9
+~
+~
+0 0 688
+R M 0 633 20 655
+  R E 0 623 0 5
+  R E 0 685 0 16
+S
+#656
+slave shop~
+~
+A stale pungent odor emits from this small shop.  Seeing it's rough state of 
+repair lends a reason why.  Cages of all shapes and sizes fill the building, 
+most littered with dirty piles of straw.  Rough looking slaves of several 
+races can be seen inside most of the cages, or roaming around with chains on 
+their hands and ankles.  A large slab sits in the middle of the room, with 
+shackles along it's head and foot.  Whips and other torturing devices can be 
+seen stored beside it.  
+~
+1 4097 0
+D1
+~
+~
+0 0 655
+R M 0 641 1 656
+S
+#657
+menzo slave/pet storage~
+~
+You should not be here ...  Leave before you get caught!  (besides, you 
+can't kill pets) 
+~
+1 4 0
+R M 0 639 1 657
+R M 0 638 1 657
+R M 0 637 1 657
+R M 0 636 1 657
+S
+#658
+Menzoberranzan City Bank~
+~
+A teller both stretches across the eastern wall of this narrow room.  Across 
+from them are a few desks and booths.  Built into the northern wall, is a 
+huge steel vault.  It looks strong and durable, with a wheel connecting to 
+the door for sealing it.  A guard stands at the vault door, protecting it at 
+all times.  
+~
+1 33554504 0
+D2
+~
+~
+0 0 654
+R O 0 663 0 658
+  R P 0 682 1 663
+  R P 0 683 1 663
+R M 0 634 1 658
+  R E 0 664 0 17
+  R E 0 644 0 16
+  R E 0 623 0 5
+  R E 0 622 0 23
+  R E 0 686 0 6
+S
+#659
+Phoukral's All-Purpose Possessions~
+~
+Boxes and crates of odds and ends fill the back of this room.  A few shelves 
+along the walls can be seen containing all kinds off possessions.  Sitting 
+in the front of the room is a small desk strewn with papers and wrappings.  
+In front of the eastern wall, a large granite table sits, displaying several 
+musty mushrooms and types of fish.  
+~
+1 0 0
+D2
+~
+~
+0 0 646
+R M 0 640 1 659
+  R G 0 662 0
+  R G 0 681 0
+  R G 0 680 0
+  R G 0 677 0
+  R G 0 679 0
+  R G 0 19558 0
+  R G 0 19561 0
+  R G 0 678 0
+  R G 0 27097 0
+  R G 0 27102 0
+S
+#660
+K'Tar Street~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  West will take you back to the main street while 
+east continues along K'Tar Street.  
+~
+1 9 11
+D1
+~
+~
+0 0 661
+D3
+~
+~
+0 0 638
+R M 0 626 20 660
+  R E 0 626 0 16
+  R E 0 627 0 19
+S
+#661
+Intersection of K'Tar and Widow~
+~
+Here the street forks, leading off to Widow Drive.  Crushed red bloodstone 
+has been spread around on the ground to cover the dirt, making the ground 
+appear to be covered with blood.  Several trees and bushes grow along the 
+edges of the street.  Small shops and houses line the streets in all 
+directions.  East will lead you to a busy store, while to the west, K'Tar 
+Street continues.  Southeast and northeast will lead you to along Widow 
+Drive.  
+~
+1 9 11
+D1
+~
+~
+0 0 662
+D3
+~
+~
+0 0 660
+D6
+~
+~
+0 0 670
+D7
+~
+~
+0 0 694
+R M 0 633 20 661
+  R E 0 623 0 5
+  R E 0 668 0 2
+  R E 0 644 0 16
+S
+#662
+Protective Measures~
+~
+Various kinds of armor are positioned lovingly on ornate stands, drawing 
+your attention to them.  Several sets of adamantium chainmail hang from the 
+walls, the fabled armor of the drow.  A few boots are on shelves in the 
+northeast corner, and beside them is a rack of cloaks.  On the east side of 
+the shop stands a large counter where you can purchase these fine goods from 
+the shopkeeper.  
+~
+1 1 0
+D3
+~
+~
+0 0 661
+R M 0 625 1 662
+  R G 0 638 0
+  R G 0 633 0
+  R G 0 642 0
+  R G 0 632 0
+  R G 0 635 0
+  R G 0 634 0
+  R G 0 631 0
+  R G 0 637 0
+  R G 0 643 0
+S
+#663
+Hidden Room~
+~
+The dark black stone tunnel heads back east from here.  Countless chisel 
+marks are apparent in the walls, and drips of water fall from the ceiling, 
+landing on the floor.  The temperature this deep leaves a slight chill in 
+the air.  
+~
+1 675282945 0
+D1
+~
+~
+1 0 624
+R M 0 629 1 663
+S
+#664
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the northeast and farther south.  
+~
+1 9 11
+D2
+~
+~
+0 0 688
+D6
+~
+~
+0 0 686
+S
+#665
+Fang Street~
+~
+This street of Menzoberranzan is more narrow and appears to be quite 
+tattered compared to the other main roads.  Doorways can be seen leading to 
+the north and south, but they all seem to be boarded up or barred.  A few 
+trees and bushes line the dark streets, struggling to survive.  The street 
+continues on to the east, while west leads back to Lolth Street.  
+~
+1 9 11
+D1
+~
+~
+0 0 666
+D3
+~
+~
+0 0 641
+R M 0 642 20 665
+S
+#666
+Fang Street~
+~
+This street of Menzoberranzan is more narrow and appears to be quite 
+tattered compared to the other main roads.  Doorways leading north and south 
+can be seen, but they are all boarded up.  A few trees and bushes struggle 
+to grow along the dark streets.  Heading east seems to lead to a wider area, 
+while west is just as dark and dank.  
+~
+1 9 11
+D1
+~
+~
+0 0 667
+D3
+~
+~
+0 0 665
+S
+#667
+Intersection of Fang and Widow~
+~
+You come to a fork in the road where Fang Street and Widow Drive connect.  
+The dirt street is covered with crushed red bloodstone, making the ground 
+appear to be covered with blood.  To the east, a wide door can be seen 
+leading to what seems to be a tavern.  Northeast and southeast leads you 
+farther along Widow Drive, while west leads to a more narrow street.  
+~
+1 9 11
+D1
+~
+~
+0 0 668
+D3
+~
+~
+0 0 666
+D6
+~
+~
+0 0 671
+D7
+~
+~
+0 0 669
+S
+#668
+Lhrao's Tavern~
+~
+This appears to be a small tavern with a bar filling the length of the 
+entire eastern wall.  A few booths and tables fill the rest of the room, 
+leaving a small square in the center for those wishing to dance.  Behind the 
+bar, a large mirror hangs, reflecting the grey tone of the stone flooring 
+and walls.  A wide door lies to the west, leading out to the dark streets.  
+~
+1 0 0
+D3
+~
+~
+0 0 667
+R M 0 628 1 668
+  R G 0 27048 0
+  R G 0 27096 0
+  R G 0 27095 0
+  R G 0 27049 0
+  R G 0 27081 0
+  R G 0 670 0
+  R G 0 673 0
+  R G 0 672 0
+  R G 0 27069 0
+  R G 0 671 0
+  R G 0 3085 0
+  R G 0 676 0
+  R G 0 675 0
+  R G 0 674 0
+R O 0 3081 0 668
+R O 0 3080 0 668
+R O 0 3079 0 668
+S
+#669
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Heading northwest and south leads you along 
+Widow Drive.  
+~
+1 9 11
+D2
+~
+~
+0 0 670
+D9
+~
+~
+0 0 667
+S
+#670
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Widow Drive continues on north and southwest 
+from here.  
+~
+1 9 11
+D0
+~
+~
+0 0 669
+D8
+~
+~
+0 0 661
+S
+#671
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Widow Drive continues on north and southwest 
+from here.  
+~
+1 9 11
+D0
+~
+~
+0 0 672
+D8
+~
+~
+0 0 667
+S
+#672
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Heading northwest and south leads you along 
+Widow Drive.  
+~
+1 9 11
+D2
+~
+~
+0 0 671
+D9
+~
+~
+0 0 674
+S
+#673
+Agathfal's Corner of Scrolls and Concoctions~
+~
+Shelf upon shelf line the walls in this narrow building.  Each stocked with 
+a different form of magical potions, scrolls, tomes, and more.  A tall drow 
+can be seen, moving about the room, muttering to himself as he sorts through 
+all of his collection.  A heavy door to the west leads back to the street.  
+~
+1 0 0
+D3
+~
+~
+0 0 674
+R M 0 630 1 673
+  R G 0 1000 0
+  R G 0 1001 0
+  R G 0 1002 0
+  R G 0 1004 0
+  R G 0 650 0
+  R G 0 636 0
+  R G 0 639 0
+S
+#674
+Intersection of Slither and Widow~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Looking up, it's possible to see the dark tower of Lolth rising high into 
+the air in the northwest.  A shop can be seen to the east, while a fork in 
+the road leads southeast to Widow Drive.  West leads back along Slither 
+Lane.  
+~
+1 9 11
+D1
+~
+~
+0 0 673
+D3
+~
+~
+0 0 675
+D7
+~
+~
+0 0 672
+R M 0 633 20 674
+  R E 0 623 0 5
+  R E 0 669 0 10
+  R E 0 641 0 16
+S
+#675
+Slither Lane~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Small shops and houses line the streets in all directions.  
+Several trees and bushes grow along the edges of the street.  Looking up, 
+it's possible to see the dark tower of Lolth rising high into the air in the 
+northwest.  Slither Lane continues east and west.  
+~
+1 9 11
+D1
+~
+~
+0 0 674
+D3
+~
+~
+0 0 676
+S
+#676
+Slither Lane~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Small shops and houses line the streets in all directions.  
+Several trees and bushes grow along the edges of the street.  Looking up, 
+it's possible to see the dark tower of Lolth rising high into the air in the 
+northwest.  West leads back to the main street of Menzoberranzan while east 
+continues on down Slither Lane.  
+~
+1 9 11
+D1
+~
+~
+0 0 675
+D3
+~
+~
+0 0 644
+S
+#677
+Slither Lane~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Small shops and houses line the streets in all directions.  
+Several trees and bushes grow along the edges of the street.  Looking up, 
+it's possible to see the dark tower of Lolth rising high into the air in the 
+northeast.  East leads back to the main street of Menzoberranzan while west 
+continues on down Slither Lane.  
+~
+1 9 11
+D1
+~
+~
+0 0 644
+D2
+~
+~
+0 0 650
+D3
+~
+~
+0 0 678
+S
+#678
+Slither Lane~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Small shops and houses line the streets in all directions.  
+Several trees and bushes grow along the edges of the street.  Looking up, 
+it's possible to see the dark tower of Lolth rising high into the air in the 
+northeast.  Slither Lane continues east and west.  
+~
+1 9 11
+D1
+~
+~
+0 0 677
+D3
+~
+~
+0 0 679
+R M 0 643 1 678
+R M 0 642 20 678
+S
+#679
+Intersection of Slither and Drider~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Looking up, it's possible to see the dark tower of Lolth rising high into 
+the air in the northeast.  A shop can be seen to the west, while a fork in 
+the road leads southwest to Drider Street.  East leads back along Slither 
+Lane.  
+~
+1 9 11
+D1
+~
+~
+0 0 678
+D3
+~
+~
+0 0 680
+D8
+~
+~
+0 0 692
+R O 0 50050 0 679
+R M 0 633 20 679
+  R E 0 644 0 16
+  R E 0 623 0 5
+  R E 0 668 0 2
+  R E 0 667 0 15
+S
+#680
+Frishkhrol's Rare Gems and Fine Jewels~
+~
+This room is small, but elegantly furnished.  Thick drapes line the walls, 
+and a small area is set off to the side with plush chairs.  The back of the 
+room consists of a large glass counter, where beautiful gems and jewels are 
+displayed.  Frishkhrol, the drow proprietor of this shop, is here waiting 
+upon his costumers.  
+~
+1 8 0
+D1
+~
+~
+0 0 679
+R M 0 631 1 680
+  R G 0 651 0
+  R G 0 652 0
+  R G 0 653 0
+  R G 0 654 0
+  R G 0 655 0
+  R G 0 656 0
+S
+#681
+A Shabby Building~
+~
+This building is small and in disrepair.  To the east, the door hangs off of 
+it's hinges and several holes can be seen in the walls and ceiling itself.  
+Littered across the dirt floor, a few items show that this building was 
+recently used as a shelter.  A few rats scurry about, unafraid of your 
+intrusion into their dark home.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 682
+R M 0 627 1 681
+  R G 0 647 0
+  R E 0 646 0 13
+S
+#682
+Intersection of Fang and Drider~
+~
+You come to a fork in the road where Fang Street connects to Drider Street.  
+The dirt street is covered with crushed red bloodstone, making the ground 
+appear to be covered with blood.  To the west, a small building, that looks 
+to be falling apart can be seen.  Northwest and southwest leads you farther 
+along Drider Street, while east seems to lead to a more narrow road.  
+~
+1 9 11
+D1
+~
+~
+0 0 683
+D3
+~
+~
+1 0 681
+D8
+~
+~
+0 0 690
+D9
+~
+~
+0 0 691
+S
+#683
+Fang Street~
+~
+This street of Menzoberranzan is more narrow and appears to be quite 
+tattered compared to the other main roads.  Doorways leading north and south 
+can be seen, but they appear to be boarded up for the most part.  Trees and 
+bushes struggle to grow along the dark streets.  The battered street 
+continues east, but to the west it seems to widen a bit.  
+~
+1 8 11
+D1
+~
+~
+0 0 684
+D3
+~
+~
+0 0 682
+S
+#684
+Fang Street~
+~
+This street of Menzoberranzan is more narrow and appears to be quite 
+tattered compared to the other main roads.  Doorways can be seen leading to 
+the north and south, but they all seem to be boarded up or barred.  A few 
+trees and bushes line the dark streets, struggling to survive.  The street 
+continues on to the west, while to the east it seems to lead to a more open 
+road.  
+~
+1 9 11
+D1
+~
+~
+0 0 641
+D3
+~
+~
+0 0 683
+S
+#685
+Implements of Death~
+~
+Weapons line the walls and large racks of adamantium weapons of all shapes 
+and sizes lie on the floor.  The drow weapons shops are filled with a 
+magical energy that you can almost feel.  A large counter lies to the west 
+where you may purchase any manner of weapon they have available.  
+~
+1 1 0
+D1
+~
+~
+0 0 686
+R M 0 624 1 685
+  R G 0 627 0
+  R G 0 630 0
+  R G 0 628 0
+  R G 0 629 0
+  R G 0 626 0
+S
+#686
+Intersection of K'tar & Drider~
+~
+Here the street forks, leading off to Drider Street.  Crushed red bloodstone 
+has been spread around on the ground to cover the dirt, making the ground 
+appear to be covered with blood.  Several trees and bushes grow along the 
+edges of the street.  Small shops and houses line the streets in all 
+directions.  West leads to a busy store, while to the east, K'Tar Street 
+continues.  Northwest and southwest will lead you to Drider Street.  
+~
+1 9 11
+D1
+~
+~
+0 0 687
+D3
+~
+~
+0 0 685
+D8
+~
+~
+0 0 664
+D9
+~
+~
+0 0 689
+R M 0 626 20 686
+  R E 0 626 0 16
+  R E 0 626 0 19
+R M 0 633 20 686
+  R E 0 623 0 5
+  R E 0 684 0 16
+S
+#687
+K'Tar Street~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  East leads back to the main street while west 
+continues along K'Tar Street.  
+~
+1 9 11
+D1
+~
+~
+0 0 638
+D3
+~
+~
+0 0 686
+R M 0 642 20 687
+S
+#688
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the southeast and farther north.  
+~
+1 9 11
+D0
+~
+~
+0 0 664
+D7
+~
+~
+0 0 655
+S
+#689
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the southeast and farther north.  A stone cover is 
+here, covering a small opening in the ground.  
+~
+1 9 11
+D0
+~
+~
+0 0 690
+D5
+~
+stone~
+1 0 10401
+D7
+~
+~
+0 0 686
+S
+#690
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the northeast and farther south.  
+~
+1 9 11
+D2
+~
+~
+0 0 689
+D6
+~
+~
+0 0 682
+S
+#691
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the southeast and farther north.  
+~
+1 9 11
+D0
+~
+~
+0 0 692
+D7
+~
+~
+0 0 682
+R M 0 642 20 691
+S
+#692
+Drider Street~
+~
+Crushed red bloodstone is spread around on the ground here, covering the 
+dirt lane.  Several trees and bushes grow along the edges of the street.  
+Small shops and houses line the streets in all directions.  Drider street 
+continues along a bend to the northeast and farther south.  
+~
+1 9 11
+D2
+~
+~
+0 0 691
+D6
+~
+~
+0 0 679
+S
+#693
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Widow Drive continues on north and southwest 
+from here.  
+~
+1 9 11
+D0
+~
+~
+0 0 694
+D8
+~
+~
+0 0 648
+S
+#694
+Widow Drive~
+~
+Crushed red bloodstone has been spread around on the ground to cover the 
+dirt, making the ground appear to be covered with blood.  Several trees and 
+bushes grow along the edges of the street.  Small shops and houses line the 
+streets in all directions.  Heading northwest and south leads you along 
+Widow Drive.  
+~
+1 9 11
+D2
+~
+~
+0 0 693
+D9
+~
+~
+0 0 661
+R O 0 50050 0 694
+S
+#695
+Guest room~
+~
+A large bed seems to dominate this small guest room.  Along the western wall 
+a table and chairs sits under a narrow window that looks out on the street.  
+A wide fireplace fills the eastern wall, with a large painting hanging over 
+its mantle.  Sconces line the paneled walls, along with a few other 
+paintings.  The only exit is north, leading to the foyer.  
+~
+1 1107296264 0
+D0
+~
+~
+33 0 651
+R O 0 16253 0 695
+R O 0 16246 0 695
+R O 0 16201 0 695
+S
+#0
+
+
+#SHOPS
+ 624    9  5  0  0  0   130  65         0 23    ; `#`^D'`^Franth
+ 625    9 11  0  0  0   125  75         0 23    ; `#`^A'`^Tritzdi the armorsmith
+ 627    2  0  0  0  0   105 100         1 23    ; a drifter
+ 628   19  0  0  0  0   100  75         0 24    ; lhrao
+ 630    4 10  0  0  0   105 100         0 24    ; agathfal, the drow
+ 631   33 26  3  0  0   105 100         0 24    ; a lanky, grey haired drow
+ 632    2 10  0  0  0   105 100         0 24    ; a silver robed male drow
+ 640   19 15  1  0  0   105 100         0 24    ; a short, stout drow
+ 641    0  0  0  0  0   105 100         0 24    ; phath, the slave master
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

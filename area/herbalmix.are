@@ -1,0 +1,608 @@
+#AREA        Herbal Potions~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#5406
+buxom wench markian female shopkeeper~
+a buxom markian woman~
+A buxom markian woman stands here mending an article of clothing.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#5400
+minor healing balm~
+a minor healing balm~
+A minor healing balm sits here, waiting to be used.~
+~
+36 0 32
+5 5 249 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5401
+healing balm~
+a healing balm~
+A healing balm sits here, waiting to be used.~
+~
+36 0 32
+5 5 42 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5402
+major healing balm~
+a major healing balm~
+A major healing balm sits here, waiting to be used.~
+~
+36 0 32
+5 5 212 0 0 0 0
+1 325 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5403
+ederi's healing ointment~
+`#`BEderi's`^ healing ointment~
+`#`BEderi's`^ healing ointment sits here, waiting to be used.~
+~
+36 0 32
+5 5 348 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5404
+lotion of the snake handler~
+some lotion of the `#`ys`rn`ya`rk`ye`^ handler~
+Some lotion of the `#`ys`rn`ya`rk`ye`^ handler lies here, waiting to be used.~
+~
+36 0 32
+2 2 346 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5405
+ederi's anti-venom~
+`#`BEderi's`^ anti-venom~
+`#`BEderi's`^ anti-venom lies here, waiting to be used.~
+~
+36 0 32
+2 2 388 0 0 0 0
+1 440 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5406
+phoenix balm~
+some `#`Rp`Yh`Ro`re`Rn`Yi`Rx`^ balm~
+Some `#`Rp`Yh`Ro`re`Rn`Yi`Rx`^ balm lies here, waiting to be used.~
+~
+36 0 32
+2 2 306 0 0 0 0
+1 80 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5407
+salve of searing embers~
+a salve of the `#`Rsearing `re`sm`rb`se`rr`ss`^~
+A salve of the `#`Rsearing `re`sm`rb`se`rr`ss`^ lies here, waiting to be used.~
+~
+36 0 32
+3 3 343 0 0 0 0
+1 120 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5408
+arien's restorative~
+`#`CArien's`^ restorative~
+Some of `#`CArien's`^ restorative lies here, waiting to be used.~
+~
+36 0 32
+3 3 349 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5409
+salve of bitter frost~
+a salve of the `#`Bb`Ci`Bt`Ct`Be`Cr `Bf`Cr`Bo`Cs`Bt`^~
+A salve of the `#`Bb`Ci`Bt`Ct`Be`Cr `Bf`Cr`Bo`Cs`Bt`^ lies here, waiting to be used~
+~
+36 0 32
+3 3 342 0 0 0 0
+1 120 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5410
+salve static grounding~
+a salve of `#`Ystatic `mgrounding`^~
+A salve of `#`Ystatic `mgrounding`^ lies here, waiting to be used.~
+~
+36 0 32
+3 3 344 0 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5411
+drunkard's cure~
+the `#`?drunkard's`^ cure~
+The cure of the `#`?drunkard`^ lies here, waiting to be used.~
+~
+36 0 32
+2 2 12 0 0 0 0
+1 150 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5412
+balm liquid breathing~
+a balm of `#`Bliquid`^ breathing~
+A balm of `#`Bliquid`^ breathing lies here, waiting to be used.~
+~
+36 0 32
+2 2 298 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5413
+creamy anti-caustic ointment~
+some creamy `#`Ganti-caustic`^ ointment~
+Some creamy `#`Ganti-caustic`^ ointment lies here, waiting to be used.~
+~
+36 0 32
+4 4 341 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5414
+splendid eagle lotion~
+some `#`Ysplendid `Reagle`^ lotion~
+Some `#`Ysplendid `Reagle`^ lotion lies here, waiting to be used.~
+~
+36 0 32
+3 3 143 0 0 0 0
+1 600 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5415
+airen's vision salve~
+some of `#`CArien's `Wvision`^ salve~
+Some of `#`CArien's `Wvision`^ salve lies here, waiting to be used.~
+~
+36 0 32
+5 5 158 0 0 0 0
+1 150 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5416
+arachnid hand lotion~
+some `#`sarachnid`^ hand lotion~
+Some `#`sarachnid`^ hand lotion lies here, waiting to be used.~
+~
+36 0 32
+3 3 392 0 0 0 0
+1 450 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5417
+arien's shield preperation~
+a preperation of `#`CArien's `GShield`^~
+A preperation of `#`CArien's `GShield`^ lies here, waiting to be used.~
+~
+36 0 32
+5 5 442 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5418
+redwood balm~
+some `#`rredwood`^ balm~
+Some `#`rredwood`^ balm lies here, waiting to be used.~
+~
+36 0 32
+3 3 24 0 0 0 0
+1 250 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5419
+vision enhancing face cream~
+some vision enhancing face cream~
+Some vision enhancing face cream lies here, waiting to be used.~
+~
+36 0 32
+2 2 448 0 0 0 0
+1 230 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5455
+no name 5455~
+(no short description 5455)~
+(no description 5455)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5486
+salve continued vigor~
+a salve of continued `#`Gvigor`^~
+A salve of continued `#`Gvigor`^ sits here, waiting to be used.~
+~
+36 0 32
+2 2 209 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5487
+salve enhanced vision~
+a salve of `#`Renhanced `Wvision`^~
+A salve of `#`Renhanced `Wvision`^ sits here, collecting dust.~
+~
+36 0 32
+3 3 55 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5488
+mysterious green gel~
+mysterious green gel~
+A mysterious green gel sits here, collecting dust.~
+~
+36 0 32
+4 4 311 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5489
+elemental shield poultice~
+an elemental shield poultice~
+An elemental shield poultice rests here, waiting to be used.~
+~
+36 0 32
+2 2 442 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5490
+salve ethereal shift~
+a salve of `#`Wethereal`^ shift~
+A salve of `#`Wethereal`^ shift rests here.~
+~
+36 0 32
+3 3 302 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5491
+wings eagle poultice~
+a wings of the eagle poultice~
+A poultice that affects flight in some form sits here, collecting dust.~
+~
+36 0 32
+5 5 444 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5492
+salve serpent~
+a salve of the `#`Gserpent`^~
+A salve of the `#`Gserpent`^ sits here.~
+~
+36 0 32
+3 3 206 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5493
+gel twisted illusions~
+a poultice of `?t`?w`?i`?s`?t`?e`?d `Ri`Bl`Rl`Bu`Rs`Bi`Ro`Bn`Rs`^~
+A poultice of `?t`?w`?i`?s`?t`?e`?d `Ri`Bl`Rl`Bu`Rs`Bi`Ro`Bn`Rs`^ lies here~
+~
+36 0 32
+3 3 229 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5494
+poultice shimmering ointment~
+a poultice of `Wshimmering `Bointment`^~
+A poultice of `Wshimmering `Bointment`^ sits here, collecting dust.~
+~
+36 0 32
+3 3 345 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5495
+poultice magical breakdown~
+a poultice of `?m`?a`?g`?i`?c`?a`?l `?b`?r`?e`?a`?k`?d`?o`?w`?n`^~
+A poultice of `?m`?a`?g`?i`?c`?a`?l `?b`?r`?e`?a`?k`?d`?o`?w`?n`^ sits here.~
+~
+36 0 32
+5 5 402 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5496
+salve wicked power~
+a salve of `#`Gw`gi`Gc`gk`Ge`gd `cp`Co`cw`Ce`cr`^~
+A salve of `#`Gw`gi`Gc`gk`Ge`gd `cp`Co`cw`Ce`cr`^ lies here.~
+~
+36 0 32
+4 4 401 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5497
+poultice marble carapace~
+a poultice of `#`Sm`Wa`Sr`Wb`Sl`We `Sc`Wa`Sr`Wa`Sp`Wa`Sc`We`^~
+A poultice of `#`Sm`Wa`Sr`Wb`Sl`We `Sc`Wa`Sr`Wa`Sp`Wa`Sc`We`^ sits here, collecting dust.~
+~
+36 0 32
+3 3 400 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5498
+salve sixth sight~
+a salve of `#`rs`wi`sx`wt`rh `bs`wi`sg`wh`bt`^~
+A salve of `#`rs`wi`sx`wt`rh `bs`wi`sg`wh`bt`^ sits here, waiting to be applied.~
+~
+36 0 32
+4 4 159 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#5499
+salve purification~
+a salve of `#`Wpurification`^~
+A salve of `#`Wpurification`^ lies here, waiting to be used.~
+~
+36 0 32
+3 3 330 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#5400
+Pohjola's & Zaroths House of Skanky Ho's~
+~
+Ho Ho Ho... Its X-mas time Beeeiiaatttccchees!!
+~
+1 839426052 0
+S
+#0
+
+
+#SHOPS
+ 5406    0  0  0  0  0   100  50         0 23    ; a buxom markian woman
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

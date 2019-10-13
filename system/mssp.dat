@@ -1,24 +1,24 @@
 #MSSP_INFO
-Hostname          localhost~
-Contact           admin@example.com~
-Icon              http://www.yourwebsite.com/iconimage.gif~
+Hostname          6dragons.tk~
+Contact           evault@zoho.com~
+Icon              http://www.mudconnect.com/logos/4733_small.gif~
 Language          English~
 Location          United States~
-Website           http://www.smaugmuds.org~
-Family            DikuMUD~
+Website           6dragons.tk~
+Family            dikumud~
 Genre             Fantasy~
 GamePlay          Hack and Slash~
 GameSystem        Custom~
-Intermud          IMC2~
+Intermud          I3~
 Status            Live~
 SubGenre          Medieval Fantasy~
-Created           2000
+Created           2002
 MinAge            0
 Worlds            0
 Ansi              1
 MCCP              1
 MCP               0
-MSP               0
+MSP               1
 SSL               0
 MXP               0
 Pueblo            0
@@ -26,22 +26,22 @@ Vt100             0
 Xterm256          0
 Pay2Play          0
 Pay4Perks         0
-HiringBuilders    0
-HiringCoders      0
+HiringBuilders    1
+HiringCoders      1
 AdultMaterial     0
-Multiclassing     0
+Multiclassing     1
 NewbieFriendly    1
-PlayerCities      0
-PlayerClans       0
-PlayerCrafting    0
-PlayerGuilds      0
-EquipmentSystem   None~
-Multiplaying      None~
+PlayerCities      1
+PlayerClans       1
+PlayerCrafting    1
+PlayerGuilds      1
+EquipmentSystem   Level~
+Multiplaying      full~
 PlayerKilling     Restricted~
-QuestSystem       Automated~
+QuestSystem       Integrated~
 RolePlaying       Encouraged~
-TrainingSystem    Both~
-WorldOriginality  Mostly Original~
+TrainingSystem    Level~
+WorldOriginality  All Original~
 End
 
 #END

@@ -1,0 +1,1154 @@
+#AREA        Brigand Camp~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#21500
+brigand guard~
+a brigand guard~
+A brigand guard is here, doing the rounds.
+~
+This wiry fellow is cloaked in dark clothing and seems to be human.  He 
+carries his weapon close to his side, with one hand absently holding the 
+handle.  He walks to and fro through the camp, keeping watch for anything 
+suspicious.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+8 0 -6 4d5+105 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21501
+young brigand soldier~
+a young brigand soldier~
+A young brigand soldier sits near the fire, cooking meat on a stick.
+~
+This scruffy human is wrapped in a dark cloak.  He is sitting near the
+large campfire roasting some meat on a stick.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+11 0 1 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21502
+veteran brigand soldier~
+a veteran soldier~
+A veteran brigand soldier is here, sharpening his weapon.
+~
+This veteran brigand has many scars on his body, a tell-tale sign that he is 
+an experienced soldier, having fought many battles.  His face is somewhat 
+grim, with a furrowed brow.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+17 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21503
+brown horse~
+a horse~
+A brown horse is eating from a bucket here.
+~
+A plain old brown horse.  It is eating from a bucket or oats.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21504
+brigand archer~
+a brigand archer~
+A brigand archer is here, practicing his skills.
+~
+This tall wiry human is dressed in dark clothes and is holding a bow.  He
+is here plunking arrows at some straw dummy targets.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+18 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21505
+brigand leader~
+the brigand leader~
+The leader of the brigands is here, scowling at your presence.
+~
+This powerful looking human is very well built and in great shape, and
+unlike most of the other brigands this one has a look of intelligence in his
+eyes.  He is wearing drab clothing the color of the forest.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+30 1 -10 5d6+150 4d6+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21506
+brigand cook~
+the brigand cook~
+The brigand cook is here, stirring a pot of stew.
+~
+This human has a face smeared with grease.  His hair is stringy and dangles 
+over his eyes.  He is cooking up a stew in a large pot.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21507
+brigand officer~
+a brigand officer~
+A brigand officer is here, looking important.
+~
+This tall officer walks and talks with a slight air of arrogance.  His hair 
+is cut close to his head, and his face is clean-shaven.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+21 0 -8 4d5+120 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#21500
+camoflauged cloak~
+a camouflaged cloak~
+A camouflaged cloak has been left here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 158 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21500 camoflauge cloak~
+This cloak is colored green and black, to help the wearer blend into the
+terrain.  
+~
+#21501
+wicked little shortsword sword~
+a wicked little shortsword~
+A wicked little shortsword has been left here.~
+~
+5 0 4
+3 7 16 0 0 0 0
+1 155 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21501 wicked little shortsword~
+This nasty little sword is fairly sharp, and in the right hands could be
+quite deadly.  
+~
+#21502
+suit padded armor~
+a suit of padded armor~
+A suit of padded armor has been left here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 257 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21502 padded armour suit~
+This armour isn't really much more than heavily padded clothing.  Most
+leather armour would probably be better.  
+~
+#21503
+sharp stick~
+a sharp stick~
+A sharp stick has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 21 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21503 sharp stick~
+This sturdy stick has been sharpened to a point at one end, and blackened
+by fire.  
+~
+#21504
+thin copper ring~
+a thin copper ring~
+A thin copper ring is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 289 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21504 thin copper ring~
+This old ring is thin and made of copper.  
+~
+#21505
+bone-hilted dagger~
+a bone-hilted dagger~
+A bone-hilted dagger has been left here.~
+~
+5 0 4
+3 14 24 0 0 0 0
+1 384 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21505 bone-hilted dagger~
+This sharp steel dagger has a hilt made of bone.
+~
+#21506
+old leather armor~
+some old leather armor~
+Some old leather armor has been left here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 380 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21506 old leather armour~
+This old suit of leather armour has seen better days, but is still
+serviceable.  
+~
+#21507
+dim blue ball of light~
+a dim blue ball of light~
+A dim blue ball of light floats here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 198 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21508
+leather saddle~
+a leather saddle~
+A leather saddle has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 42 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21508 leather saddle~
+.
+A plain leather saddle, for a horse.
+~
+#21510
+old cooking apron~
+an old cooking apron~
+An old cooking apron has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 21 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21511
+bone-hilted longsword sword~
+a bone-hilted longsword~
+A bone-hilted longsword lies here.~
+~
+5 0 4
+6 35 50 0 0 0 0
+1 602 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21511 bone-hilted longsword sword~
+This longsword is very well made, and quite sharp.  The hilt is made of
+strong bone.  
+~
+#21512
+thick leather leggings~
+some thick leather leggings~
+Thick leather leggings are lying here.~
+~
+9 0 8
+30 30 6 0 0 0 0
+1 585 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21512 thick leather leggings~
+A pair of nice thick leather pants, very warm and protective.
+~
+#21513
+thick leather belt~
+a thick leather belt~
+A thick leather belt has been left here.~
+~
+9 0 8
+30 30 5 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21513 thick leather belt~
+This sturdy and protective belt is made of thick leather.
+~
+#21514
+shiny bracelet~
+a shiny bracelet~
+A shiny bracelet has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 622 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21514 shiny bracelet~
+This bracelt is made of silver or some other shiny metal, and has a few
+gemstones set in it.  
+~
+#21515
+black leather pants~
+a pair of black leather pants~
+A pair of black leather pants have been left here.~
+~
+9 0 8
+20 20 1 0 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21515 black leather pants~
+These black leather pants are dirty, but wel made and generally in good 
+condition.  
+~
+#21516
+dirty black shirt~
+a dirty black shirt~
+A dirty black shirt lies in a crumpled heap here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21516 dirty black shirt~
+This shirt is cotton, and black in color.  It is quite dirty.  
+~
+#21517
+tiny emerald~
+a tiny emerald~
+A tiny emerald has been left here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21517 tiny emerald~
+A very small green gem.  Might be worth a bit at the jeweler's.
+~
+#21518
+sturdy longbow~
+a sturdy longbow~
+A sturdy longbow made of wood and horsehair.~
+~
+5 0 4
+3 17 25 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21518 sturdy longbow~
+A nice wooden longbow with a strong string.
+~
+#21519
+tattered cloak~
+a tattered cloak~
+A tattered cloak has been left here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21519 tattered cloak~
+An old black cloak, with some tears in the fabric.  It looks like it used to 
+be a very fine cloak.  
+~
+#21520
+leather ankle wrap~
+a leather ankle wrap~
+A leather ankle wrap lies here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 145 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#21504
+Campfire amongst Several Tents~
+~
+This wide clearing in the midst of the forest has been made into an 
+encampment of sorts.  There is a large campfire with some pots hanging over 
+it in the center, and a pile of cut wood next to it.  Some large kegs and 
+piles of sacks sit nearby.  There are dark green tents all around.  
+~
+1 0 2
+D1
+~
+flap~
+1 0 21515
+D2
+~
+~
+0 0 21506
+D3
+~
+flap~
+1 0 21516
+D6
+~
+flap~
+1 0 21517
+D9
+~
+flap~
+1 0 21518
+R O 0 19 0 21504
+R M 0 21501 10 21504
+  R E 0 21504 0 2
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+R M 0 21501 10 21504
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+R M 0 21501 10 21504
+  R E 0 21502 0 5
+S
+#21505
+Inside a Small Tent~
+~
+You are inside a small dark green tent.  Two cots have been set up along
+the edge, and a few personal possessions lie about.  The exit is southeast. 
+~
+1 32780 0
+E
+personal possessions~
+Just some old clothing mostly.
+~
+E
+cots ~
+Plain old cots.
+~
+S
+#21506
+A Grassy Path through the Camp~
+~
+The path runs east and west through the brush which has been roughly cleared 
+to make a path.  You can see some dark tents to the north, and the smell of 
+smoke hangs in the air.  
+~
+1 0 2
+D0
+~
+~
+0 0 21504
+D1
+~
+~
+0 0 21519
+S
+#21507
+Inside a Large Tent~
+~
+This large tent is mostly empty, except for some sleeping pallets scattered 
+about.  There is a barrel cut in half filled with clean water, and a few 
+empty crates.  The exit is through a flap to the southwest. 
+~
+1 32780 0
+E
+barrel water clean~
+A barrel cut in half, dilled with water.
+~
+E
+empty crates~
+Empty wooden crates.
+~
+S
+#21508
+Leader's Tent~
+~
+This tent is larger that it looked from the outside.  There is some nice
+furniture scattered about, including a bed, table, and chairs.  The exit is
+through a flap to the northwest.  
+~
+1 32780 0
+E
+furniture bed table chairs~
+The furniture is all nicely made from pine wood.
+~
+S
+#21509
+Campfire amongst Several Tents~
+~
+This wide clearing in the midst of the forest has been made into an 
+encampment of sorts.  There is a large campfire with some pots hanging over 
+it in the center, and a pile of cut wood next to it.  Some large kegs and 
+piles of sacks sit nearby.  There are dark green tents pitched all around 
+here.  
+~
+1 0 2
+D1
+~
+flap~
+1 0 21511
+D3
+~
+flap~
+1 0 21512
+D7
+~
+flap~
+1 0 21513
+D8
+~
+flap~
+1 0 21514
+R O 0 19 0 21509
+R M 0 21501 10 21509
+  R E 0 21504 0 2
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+R M 0 21501 10 21509
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+S
+#21510
+Storage Tent~
+~
+This tent is packed full of supplies and containers of various items.  It is 
+so full that it is difficult to even move around.  Crates of everything from 
+clothing to dried food are stacked about, along with some barrels of unknown 
+liquids.  The only exit is through a flap to the northeast.  
+~
+1 32780 0
+E
+crates clothing dried food~
+Lots of large crates are stacked here, filled with everythign from fine 
+clothing to dried foods.  Most bear the insignia of the city of Mekali.  
+~
+E
+barrels liquids~
+These barrels are full of water and wine, but are too heavy too be easily 
+moved.  
+~
+S
+#21511
+Inside a Brigand Archer's Tent~
+~
+In this tent there are some straw dummies that have been set up as targets.  
+They are humanoid shaped, and have a number of arrows stuck in them.  The 
+flap to the west opens up to a clearing surrounded by other green tents.  
+~
+1 0 0
+D3
+~
+~
+1 0 21509
+R M 0 21504 10 21511
+  R E 0 21519 0 12
+  R E 0 21518 0 16
+S
+#21512
+Inside a Brigand Archer's Tent~
+~
+In this tent there are some straw dummies that have been set up as targets.  
+They are humanoid shaped, and have a number of arrows stuck in them.  The 
+flap to the east opens up to a clearing surrounded by other green tents.  
+~
+1 0 0
+D1
+~
+~
+1 0 21509
+R M 0 21504 10 21512
+  R E 0 21519 0 12
+  R E 0 21518 0 16
+R M 0 21504 10 21512
+  R E 0 21519 0 12
+  R E 0 21518 0 16
+S
+#21513
+Inside a Soldier's Tent~
+~
+You are inside a small dark green tent.  Two cots have been set up along the 
+edge, and a few personal possessions lie about.  The exit is through a flap 
+to the northwest.  
+~
+1 0 0
+D9
+~
+~
+1 0 21509
+R M 0 21502 10 21513
+  R E 0 21505 0 16
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+R M 0 21502 10 21513
+  R E 0 21505 0 16
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+S
+#21514
+Inside a Soldier's Tent~
+~
+You are inside a small dark green tent.  Two cots have been set up along the 
+edge, and a few personal possessions lie about.  The exit is through a flap 
+to the northeast.  
+~
+1 0 0
+D6
+~
+~
+1 0 21509
+R M 0 21502 10 21514
+  R E 0 21505 0 16
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+S
+#21515
+Inside the Cook's Tent~
+~
+This tent is packed full of supplies and containers of various items.  It is 
+so full that it is difficult to even move around.  Crates of everything from 
+clothing to dried food are stacked about, along with some barrels of unknown 
+liquids.  The only exit is through a flap to the west.  
+~
+1 0 0
+D3
+~
+~
+1 0 21504
+R M 0 21506 1 21515
+  R E 0 21510 0 12
+S
+#21516
+Inside a Brigand Archer's Tent~
+~
+In this tent there are some straw dummies that have been set up as targets.  
+They are humanoid shaped, and have a number of arrows stuck in them.  The 
+flap to the east opens up to a clearing surrounded by other green tents.  
+~
+1 0 0
+D1
+~
+~
+1 0 21504
+R M 0 21504 10 21516
+  R E 0 21518 0 16
+  R E 0 21519 0 12
+R M 0 21504 10 21516
+  R E 0 21519 0 12
+  R E 0 21518 0 16
+S
+#21517
+Inside a Soldier's Tent~
+~
+You are inside a small dark green tent.  Two cots have been set up along the 
+edge, and a few personal possessions lie about.  The exit is through a flap 
+to the southwest.  
+~
+1 0 0
+D8
+~
+~
+1 0 21504
+R M 0 21502 10 21517
+  R E 0 21505 0 16
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+S
+#21518
+Inside a Soldier's Tent~
+~
+You are inside a small dark green tent.  Two cots have been set up along the 
+edge, and a few personal possessions lie about.  The exit is southeast.  
+~
+1 0 0
+D7
+~
+~
+1 0 21504
+R M 0 21502 10 21518
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+  R E 0 21505 0 16
+R M 0 21502 10 21518
+  R E 0 21505 0 16
+  R E 0 21506 0 5
+  R E 0 21507 0 18
+R M 0 21502 10 21518
+  R E 0 21507 0 18
+  R E 0 21506 0 5
+  R E 0 21505 0 16
+S
+#21519
+A Well-Trodden Path~
+~
+The path runs east and west through the brush which has been roughly cleared 
+to make a path.  The grass is almost flat, its been trodden over so much.  
+You can see some dark tents off the path to the north and south, and the 
+smell of smoke hangs in the air.  
+~
+1 0 2
+D1
+~
+~
+0 0 21521
+D3
+~
+~
+0 0 21506
+R M 0 21500 10 21519
+  R E 0 21500 0 12
+  R E 0 21501 0 16
+R M 0 21500 10 21519
+  R E 0 21500 0 12
+  R E 0 21501 0 16
+S
+#21520
+Campfire Amongst Several Tents~
+~
+This wide clearing in the midst of the forest has been made into an 
+encampment of sorts.  There is a large campfire with some pots hanging over 
+it in the center, and a pile of cut wood next to it.  Some large kegs and 
+piles of sacks sit nearby.  There are dark green tents all around.  
+~
+1 0 2
+D0
+~
+~
+0 0 21521
+D1
+~
+flap~
+1 0 21522
+D3
+~
+flap~
+1 0 21523
+D7
+~
+flap~
+1 0 21524
+D8
+~
+flap~
+1 0 21525
+R O 0 19 0 21520
+R M 0 21501 10 21520
+  R E 0 21504 0 2
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+R M 0 21501 10 21520
+  R E 0 21503 0 16
+  R E 0 21502 0 5
+S
+#21521
+A Path through the Camp~
+~
+Along the path here someone has set up a place to leave horses.  There is a 
+wooden log to tether them to, and some buckets of grain and water.  The 
+brush is extremely thick, but you can see a clearing to the south where a 
+campfire is burning.  
+~
+1 0 2
+D1
+~
+~
+0 0 21526
+D2
+~
+~
+0 0 21520
+D3
+~
+~
+0 0 21519
+R M 0 21503 10 21521
+  R E 0 21508 0 5
+R M 0 21503 10 21521
+  R E 0 21508 0 5
+S
+#21522
+Inside an Officer's Tent~
+~
+This large tent is mostly empty, except for some sleeping pallets scattered 
+about.  There is a barrel cut in half filled with clean water, and a few 
+empty crates.  The exit is through a flap to the west.  
+~
+1 0 0
+D3
+~
+~
+1 0 21520
+R M 0 21507 10 21522
+  R G 0 21517 0
+  R E 0 21516 0 5
+  R E 0 21515 0 7
+S
+#21523
+Inside an Officer's Tent~
+~
+This large tent is mostly empty, except for some sleeping pallets scattered 
+about.  There is a barrel cut in half filled with clean water, and a few 
+empty crates.  The exit is through a flap to the east.  
+~
+1 0 0
+D1
+~
+~
+1 0 21520
+R M 0 21507 10 21523
+  R G 0 21517 0
+  R E 0 21516 0 5
+  R E 0 21515 0 7
+R M 0 21507 10 21523
+  R E 0 21516 0 5
+  R E 0 21515 0 7
+  R G 0 21517 0
+S
+#21524
+Inside an Officer's Tent~
+~
+This large tent is mostly empty, except for some sleeping pallets scattered 
+about.  There is a barrel cut in half filled with clean water, and a few 
+empty crates.  The exit is through a flap to the northwest.  
+~
+1 0 0
+D9
+~
+~
+1 0 21520
+R M 0 21507 10 21524
+  R E 0 21515 0 7
+  R G 0 21517 0
+  R E 0 21516 0 5
+S
+#21525
+Inside an Officer's Tent~
+~
+This large tent is mostly empty, except for some sleeping pallets scattered 
+about.  There is a barrel cut in half filled with clean water, and a few 
+empty crates.  The exit is through a flap to the northeast.  
+~
+1 0 0
+D6
+~
+~
+1 0 21520
+R M 0 21507 10 21525
+  R E 0 21516 0 5
+  R G 0 21517 0
+  R E 0 21515 0 7
+S
+#21526
+A Trodden Path~
+~
+The path runs east and west through the brush which has been roughly cleared 
+to make a path.  You can see some dark tents to the south, and a larger tent 
+in the distant north and the smell of smoke hangs in the air.  
+~
+1 0 2
+D1
+~
+~
+0 0 21527
+D3
+~
+~
+0 0 21521
+R M 0 21500 10 21526
+  R E 0 21500 0 12
+  R E 0 21501 0 16
+R M 0 21500 10 21526
+  R E 0 21501 0 16
+  R E 0 21500 0 12
+S
+#21527
+A Path through the Brush~
+~
+The path has been cleared turning to the north, where you can see a large 
+tent has been pitched.  Further along to the west, you see other small 
+encampments of tents, blending into the greens of the surrounding brush.  
+~
+1 0 2
+D0
+~
+~
+0 0 21528
+D3
+~
+~
+0 0 21526
+R M 0 21500 10 21527
+  R E 0 21500 0 12
+  R E 0 21501 0 16
+R M 0 21500 10 21527
+  R E 0 21501 0 16
+  R E 0 21500 0 12
+S
+#21528
+Before a Large Tent~
+~
+The path here leads up to a large tent with a closed flap.  A few guards 
+wander about protectively, keeping watch.  The brush on either side of the 
+path is dense, and cutting a path through it seems a little impossible.  
+~
+1 0 2
+D0
+~
+flap~
+1 0 21529
+D2
+~
+~
+0 0 21527
+S
+#21529
+Inside the Brigand Leader's Tent~
+~
+This tent is larger that it looked from the outside.  There is some nice 
+furniture scattered about, including a bed, table, and chairs.  The exit is 
+through a flap to the south.  
+~
+1 0 0
+D2
+~
+~
+1 0 21528
+R M 0 21505 1 21529
+  R E 0 21514 0 15
+  R E 0 21513 0 13
+  R E 0 21512 0 7
+  R E 0 21511 0 16
+  R E 0 21520 0 29
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

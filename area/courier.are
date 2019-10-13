@@ -1,0 +1,1050 @@
+#AREA        Throtyl Courier Service~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#3500
+shopkeeper human old~
+a respectable looking human~
+A respectable looking human stands here, scribbling in his ledger book.
+~
+This human male is fair old. He has a clean shaven look and short grey hair. 
+His white eyes, at first, look freakish, but eventually are serene. 
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3501
+small white pigeon~
+a small white pigeon~
+A small white pigeon sits here on a perch.
+~
+A small white pigeon.  It is hopping about on its perch.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3502
+small black pigeon~
+a small black pigeon~
+A small black pigeon sits here on a perch.
+~
+A small black pigeon.  It is hopping about on its perch.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3503
+small blue white pigeon~
+a small blue and white pigeon~
+A small blue and white pigeon sits here on a perch.
+~
+A small blue and white pigeon.  It is hopping about on its perch.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3504
+fat white pigeon~
+a fat white pigeon~
+A fat white pigeon is sitting on a perch here.
+~
+This pigeon is so fat you wonder how it can fly at all.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3505
+large black white pigeon~
+a large black and white pigeon~
+A large black and white pigeon sits here on a perch.
+~
+A large black and white pigeon.  It is hopping about on its perch.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3506
+huge blue pigeon~
+a huge blue pigeon~
+A huge blue pigeon sits here on a perch.
+~
+This is one monstrous mutant pigeon.  It is as bigger than your head and 
+looks quite ferocious.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+5 1 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3507
+miniature red dragonet~
+a miniature red dragonet~
+A miniature red dragonet sits here on a perch.
+~
+This tiny reddish dragonet looks just like a regular dragon, except its only 
+2 feet long form head to tail.  It is covered in miniscule scales which 
+glisten in the light.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+6 1 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3508
+employee human worker male~
+an employee~
+An employee is sitting here, taking a break.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3509
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3510
+employee human worker male~
+an employee~
+An employee is standing here eating is donut.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3511
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3512
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3513
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3514
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3515
+employee human worker male~
+an employee~
+An employee is here, holding a large stack of boxes.
+~
+You see a male human. He has black hair and looks to be about 5 feet in 
+height. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3516
+fearsome-looking troll~
+a fearsome-looking troll~
+A fearsome-looking troll towers over you.
+~
+This fearsome troll towers over you at around nine feet tall.  His shoulders 
+are broad and his arms are thick with muscle.  Tufts of hair cover his head 
+and body, and his mouth is full of mouldy teeth.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+47 1 -10 5d8+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3500
+small sign~
+a small sign~
+A small sign.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3500 small sign~
+Welcome to Throtyl Courier Service, where we'll deliver
+any message almost anywhere at affordable prices!
+Prices:
+Pigeon           10 Gold
+Minature Dragon  20 Gold  (faster and more reliable)
+ 
+ 
+****Sorry, delivery service temporarily closed!!!****
+~
+#3501
+old fountain pen~
+an old fountain pen~
+An old fountain pen is lying here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 55 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3501 fountain pen old~
+An old pen.  Pretty sharp though.
+~
+#3502
+old wooden bucket~
+an old wooden bucket~
+An old wooden bucket has been left here.~
+~
+17 0 16
+70 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3502 old bucket~
+An old wooden bucket.
+~
+#3503
+sign wood~
+a small sign~
+A Small Sign.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3503 wood small sign~
+Attention All Citizens!`1Throtyl Courier Service is currently hiring people to deliver packages and 
+parcels due to demand. If you want to explore the world and help out people 
+among this realm. Sign up now! `1`1All that is required is a job application submitted to Throtyl Courier 
+Service. Get your spot today for Good Fun and Good Pay! `1`1All couriers must at least be skilled in human. `1`1(OOC: Just buy a locker in Throtyl Courier Service Area and leave letter 
+inside with name and short.)
+ 
+~
+#3504
+receipt book small~
+a small receipt book~
+A small book lies here, with many pages.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3505
+parcel package wooden crate~
+a wooden crate~
+A wooden crate is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3506
+receipt player 3505 delivered~
+a receipt~
+A piece of paper lies here, with some scribbles.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3507
+package parcel box blue~
+a blue box~
+A blue box lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3508
+receipt player 3507 delivered~
+a receipt~
+A piece of paper lies here, with some scribbles.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3509
+iron file~
+an iron file~
+An iron file lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3510
+white envelope~
+an envelope~
+An envelope lies here.~
+~
+15 0 8
+1 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3511
+package parcel sword red~
+a red, sword shaped parcel~
+A medium-sized sword shaped parcel lies here, wrapped in red paper.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3512
+receipt player 3511 delivered~
+a receipt~
+A piece of paper lies here, with some scribbles.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3513
+package parcel roses box~
+a long box with roses inside~
+A large box with a picture of a rose lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3514
+receipt player 3513 delivered~
+a receipt~
+A piece of paper lies here, with some scribbles.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#3500
+Throtyl Courier Service~
+~
+This small room is quite cramped, and full of disorganized piles of paper 
+and small wooden tubes.  Piles several feel high stand on just about every 
+surface, except for a small counter on the east side of the room.  Also on 
+that side of the room is a doorway, covered by an old beaded curtain.  A 
+peculiar smell and some odd noises come from that way.  The exit to the 
+street is west.  
+~
+1 8 0
+D1
+~
+~
+0 0 3501
+D3
+~
+~
+0 0 27001
+R M 0 3500 1 3500
+  R E 0 27000 0 7
+  R E 0 27001 0 10
+  R E 0 3501 0 16
+E
+counter ~
+A smooth wooden counter, with some ledger books and parchment.
+~
+E
+parchment ledger books paper~
+From the ledger records and papers lying about, you can tell that this is 
+the office of some sort of courier service.  
+~
+E
+small wooden tubes~
+Small wooden tubes, normally used for sending messages by pigeon or other 
+beast.  Some are sealed with wax on one or both ends.  
+~
+E
+beaded curtain~
+An old curtain.
+~
+S
+#3501
+Hallway~
+~
+You are in a hallway that leads east, south and north. It looks freshly 
+polished as light glistens off its wooden floors. 
+~
+1 8 0
+D0
+~
+~
+0 0 3508
+D1
+~
+~
+0 0 3502
+D2
+~
+~
+0 0 3510
+D3
+~
+~
+0 0 3500
+S
+#3502
+Hallway~
+~
+The hallway leads east and west. A small room is to the south and a doorway 
+leading north. 
+~
+1 8 0
+D0
+~
+~
+1 0 3509
+D1
+~
+~
+0 0 3503
+D2
+~
+~
+0 0 3511
+D3
+~
+~
+0 0 3501
+S
+#3503
+Hallway~
+~
+The hallway leads north and west from here. Light bounces off the freshly 
+polished floor in several places. There are rooms in the southernly and 
+easternly direction. There is a door to the south. 
+~
+1 8 0
+D0
+~
+~
+0 0 3504
+D1
+~
+~
+0 0 3513
+D2
+~
+~
+1 0 3512
+D3
+~
+~
+0 0 3502
+R M 0 3509 1 3503
+S
+#3504
+Hallway~
+~
+Clean hallway leads north and south.  A small office is to the east. Strange 
+noises come from all around.  
+~
+1 8 0
+D0
+~
+~
+0 0 3505
+D1
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3503
+S
+#3505
+Hallway~
+~
+THis hallway leads south and west from here. The walls are bare and the 
+floor is clean. There are large storage rooms to the north and east. 
+~
+1 8 0
+D0
+~
+~
+0 0 3516
+D1
+~
+~
+0 0 3515
+D2
+~
+~
+0 0 3504
+D3
+~
+~
+0 0 3506
+S
+#3506
+Hallway~
+~
+The hallway leads east and west. A large room is to the north, with the the 
+scent of baked goods wafting into the hallway. 
+~
+1 8 0
+D0
+~
+~
+1 0 3517
+D1
+~
+~
+0 0 3505
+D3
+~
+~
+0 0 3507
+R M 0 3510 1 3506
+S
+#3507
+Hallway~
+~
+The hallway leads south and east from here. There is a small room to the 
+north. The smell of pine and spruce fills the air as a piece of each wood 
+hang on the wall. 
+~
+1 8 0
+D0
+~
+~
+0 0 3518
+D1
+~
+~
+0 0 3506
+D2
+~
+~
+0 0 3508
+S
+#3508
+Hallway~
+~
+The hallway leads north and south. The hallway us quite clear, and no refuse 
+lies pushed up against the walls. 
+~
+1 8 0
+D0
+~
+~
+0 0 3507
+D2
+~
+~
+0 0 3501
+S
+#3509
+Small Open-Roofed Room~
+~
+This small room has no roof and is open to the sky.  A circular staircase 
+stands in the center, and leads to a small platform near the top.  A doorway 
+leads south.  
+~
+1 0 0
+D2
+~
+~
+1 0 3502
+D4
+~
+~
+0 0 3519
+S
+#3510
+Small Alcove~
+~
+You are in a small alcove south of the main hallway.  There is what looks 
+like a bar with a leather tether attached about halfway up the wall.  
+~
+1 8 0
+D0
+~
+~
+0 0 3501
+R M 0 3501 2 3510
+S
+#3511
+Small Storage Room~
+~
+Your inside a very small, very cramped room. There are several stacks of 
+boxes piled all over the place. Each box has a different label which is 
+barely visible because of the dust. There is absolutely no light source in 
+here, and from time to time, you can see something scurry across the floor. 
+~
+1 8 0
+D0
+~
+~
+0 0 3502
+S
+#3512
+Staff Lounge~
+~
+Your in a semi-large room with very good torch lighting. In the center of 
+the room are many couches huddled around a small fire pit. On the walls, 
+there are various heads of animals. On the southern wall, there is a picture 
+of a young man, holding a letter high in the air. 
+~
+1 8 0
+D0
+~
+~
+1 0 3503
+S
+#3513
+A Small Room~
+~
+You are in a small room east of the main hallway. This room, has many 
+lockers scattered about. and torches against the wall. It is pretty small, 
+but is the only room without pigeons or their droppings 
+~
+1 8 0
+D3
+~
+~
+0 0 3503
+S
+#3514
+Small Alcove~
+~
+You are in a small alcove east of the main hallway.  There is what looks 
+like a bar with a leather tether attached about halfway up the wall.  
+~
+1 8 0
+D3
+~
+~
+0 0 3504
+S
+#3515
+Small Alcove~
+~
+You are in a small alcove east of the main hallway.  There is what looks 
+like a bar with a leather tether attached about halfway up the wall.  
+~
+1 8 0
+D3
+~
+~
+0 0 3505
+S
+#3516
+Small Alcove~
+~
+You are in a small alcove north of the main hallway.  There is what looks 
+like a bar with a leather tether attached about halfway up the wall.  
+~
+1 8 0
+D2
+~
+~
+0 0 3505
+S
+#3517
+Staff Kitchen~
+~
+Your inside a large room with wooden floors. There are many tables scattered 
+here and there. There are large marble counters along the northern wall will 
+various containers and jars.`1In one of the bottles, there is a black liquid. 
+~
+1 8 0
+D2
+~
+~
+1 0 3506
+S
+#3518
+Janitors Room~
+~
+This is a small room for the Janitor. There are several crates piled up in a 
+corner, and a burlap sack full of small wooden tubes. On one crate sits a 
+large stack of cloth and parchments. 
+~
+1 8 0
+D2
+~
+~
+0 0 3507
+R O 0 3502 0 3518
+R M 0 3504 4 3518
+R M 0 3504 4 3518
+R M 0 3505 3 3518
+E
+crates ~
+Plain wooden crates, nailed shut.
+~
+E
+burlap sack~
+An old sack, nothing special about it.
+~
+E
+small wooden tubes~
+These tupes are the type used to carry messages by homing pigeon.
+~
+E
+parchments ~
+Blank paper.
+~
+S
+#3519
+On a Platform~
+~
+This small platform rests at the top of a spiral staircase leading to the 
+room below.  You appear to be in the center of a building, and below is a 
+small open courtyard of sorts.  The platform itself has a shaky wooden 
+railing, and is not really high enough to see much more than the few 
+surrounding buildings.  
+~
+1 0 0
+D5
+~
+~
+0 0 3509
+R M 0 3507 1 3519
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

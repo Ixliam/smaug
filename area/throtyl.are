@@ -1,0 +1,8464 @@
+#AREA        Throtyl~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#27000
+large orc shopkeeper~
+a large orc shopkeeper~
+A large orc shopkeeper is here, munching on a hunk of meat.
+~
+This orc is pretty large as far as orcs go.  He is sitting on a large rock 
+and munching on a hunk of raw meat.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27001
+smelly kobold~
+a smelly kobold shopkeeper~
+A smelly kobold shopkeeper is standing behind the counter.
+~
+This kobold is pretty large and looks like he's seen his share of fights.  He 
+appears to be the shopkeeper here.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+102 2 -99 10d99+999 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27002
+huge ogre shopkeeper~
+a huge ogre shopkeeper~
+A huge ogre shopkeeper sharpens a blade here.
+~
+This ogre is huge, like all ogres, but this one is different in that there is 
+a gleam of intelligence in his eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 3 -99 9d99+999 5d5+100
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27003
+mangy gnoll~
+a mangy gnoll shopkeeper~
+A mangy gnoll seems to be the shopkeeper here.
+~
+This gnoll is quite large and ugly.  He is covered with short brown hair that 
+looks like it hasnt seen water in years.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 3 -99 9d9+999 10d6+150
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27004
+tall human shopkeeper jeweler~
+a tall human jeweler~
+A tall human jeweler is here, nervously watching the customers.
+~
+This tall human seems rather concerned over the things he has for sale here. 
+ Perhaps he's had some crime problems in the past.
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+110 4 -99 10d20+999 10d20+90
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27005
+chaos priest~
+a priest~
+A priest is here, worshipping chaos.
+~
+This orc is dressed in torn black robes and seems to be the one in charge 
+here.  He is at one moment screaming nonsensically and the next whispering to 
+himself.
+~
+0
+Clanname none~
+0
+0
+65 4096 -200 C
+140 2 -110 14d17+680 14d20+94
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27006
+chaos worshipper orc~
+a chaos worshipper~
+A chaos worshipper is here, flailing about wildly.
+~
+This orc is caught up in the frenzy of his worship.  He is wearing torn black 
+robes, and you notice that his arms are scarred many time from ritual 
+bleeding.  He is currently screaming nonsense to no one in particular.
+~
+0
+Clanname none~
+0
+0
+65 4096 -200 C
+12 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27007
+bartender human~
+a bartender~
+The bartender is here, wearily cleaning up after another brawl.
+~
+This male human is big and tough, and he needs to be to keep order in this 
+rowdy place.  He is at the moment cleaning up broken glass left from the last 
+bar brawl.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+58 2 -30 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27008
+wench innkeeper lady~
+a shabby innkeeper~
+A shabby innkeeper is here, renting rooms.
+~
+This human girl doesn't look like she enjoys working here, and it fact might 
+be doing so against her will.  She is dressed shabbily and her dress is torn 
+from being grabbed by just about every patron she walks by.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27009
+filthy rat~
+a filthy rat~
+A filthy rat is looking for food here.
+~
+This rat is at least two feet long and is covered by oozing scabs.  It is 
+nosing around on the floor, looking for food.
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27010
+Touran mage drow frazzled guild master~
+a frazzled looking drow mage~
+A frazzled looking drow mage in long dusty robes.
+~
+This still-young drow is obviously new at his task.  He is running around 
+from shelf to shelf looking for potions and scrolls.  His robes are dusty 
+from his efforts and his long black hair continually falls over his too-thin 
+face.  Despite his youth however, he is amazingly adept at his task and 
+clearly knowledgeable in the ways of magic.  Confidence shines in his dark 
+eyes and a slight sneer mars his face.  It is the sneer of someone who knows 
+he is in charge and feels slightly superior.  
+~
+0
+Clanname none~
+0
+0
+65 4096 -400 C
+100 2 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27011
+armored half-orc~
+an armored half-orc~
+An armored half-orc stands here, overseeing the combat.
+~
+This half-orc is huge, and from his features seems more orc than human.  He 
+looks to be in charge here, and is overseeing the fighting and training.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+100 0 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27012
+dark robed human priest~
+a dark robed priest~
+A dark robed human priest is here.
+~
+This human is a priest of some type, judging from the holy symbol and robes 
+he wears, and the black mace at his side.  He is sitting by himself deep in 
+thought.
+
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+100 2 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27013
+mysterious cloaked figure~
+a mysterious cloaked figure~
+A mysterious cloaked figure stands in the shadows here.
+~
+You can't tell much about this mysterious cloaked figure at all.  It is quite 
+tall and thin, but that's about it.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+98 0 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27014
+giant feylar shopkeeper~
+a giant feylar shopkeeper~
+A giant feylar is here tanning fur pelts.
+~
+This feylar stands almost as tall as a giant.  His thick fur is faded gold 
+in colour, and matted together.  He is tanning hides and preparing to sell 
+them.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+100 0 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27015
+orc patrol guard~
+an orc patrol guard~
+An orc patrol guard is walking around, looking for someone to pick on.
+~
+This ugly orc guard is big, strong, and well equipped.  He is walking around 
+looking for someone weaker than him to pick on.
+
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+13 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27016
+orc patrol leader~
+an orc patrol leader~
+An orc patrol leader is here, yelling at anyone who comes near him.
+~
+This is one mean looking orc.  He is big, strong and well equipped.  At the 
+moment he is screaming at some poor fool who accidentally got in his way.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+51 1 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27017
+feral dog~
+a feral dog~
+A feral dog is sniffing around in the garbage here.
+~
+This dog has definitely seen better days.  It has black mangy hair,
+matted with mud.  At the moment it is busy searching through the garbage for
+something to eat.  
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27018
+drooling kobold~
+a kobold~
+A small kobold is here, drooling all over itself.
+~
+This doglike humanoid is covered with short fur, and although small, he looks 
+rather tough.  He is wide-eyed and at the moment drooling all over himself 
+and eyeing you hungrily.
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27019
+dark cloaked figure~
+a dark cloaked figure~
+A dark cloaked figure is skulking in the shadows.
+~
+You can't tell much about this figure, both because of the shadows 
+in which it hides as well as the dark cloak which it wears.  You can 
+tell that it moves very gracefully and quick, and see the flash of metal 
+from within the cloak.
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+8 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27020
+angry gnoll~
+a gnoll~
+An angry gnoll is here, growling at anyone who comes near.
+~
+This large and powerful creature is obviosly not in a very good mood.  He is 
+growling and lashing out at anyone who comes near him.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+12 0 -6 4d5+105 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27021
+grey dwarf~
+a duergar~
+A grey-skinned dwarf is here, staring with contempt at those passing by.
+~
+This duergar is wearing only light armor, but looks pretty tough.  He has 
+light grey skin and black hair, and is wearing drab clothing.  Unlike most 
+normal dwarves, this one seems to be wearing some magical items.
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+19 0 -9 5d5+130 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27022
+tall human bulging cloak~
+a tall human~
+A tall human with a bulging cloak is greedily eyeing those who pass by.
+~
+This tough looking human is quite disheveled and red-eyed.  He is 
+wearing a dark cloak with some strange bulges, wonder what could
+be causing them?
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+111 6 -170 5d10+999 8d16+128
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27023
+one eye half-orc orc shopkeeper~
+a one-eyed half-orc shopkeeper~
+A one-eyed half-orc is here, selling boats.
+~
+This half-orc has lost an eye somewhere.  He is very dirty, and doesn't seem 
+to be bothered by his missing eye as he hasn't put a patch over it, and if 
+you were to look closely you'd see the deformed eye socket where an eye once 
+used to be.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+100 0 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27024
+beggars_terror~
+beggars_terror~
+`#`cbeggars_terror mprog (mnum 27024)`^
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 1 1 1d6+1 1d10+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27025
+lizardman~
+a lizardman~
+A lizardman hisses softly as it watches others pass by.
+~
+This large humanoid has a medium sized tail, and is covered with
+mottled green and black scales.  It hisses softly as others pass by.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+11 0 -4 4d5+90 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27026
+darkly cloaked figure~
+a darkly cloaked figure~
+A darkly cloaked figure stands in the shadows here.
+~
+You can't tell much about this mysterious cloaked figure at all.  It is quite 
+tall and thin, but that's about it.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+100 0 -70 5d10+375 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27027
+dirty little human shopkeeper~
+a dirty little human shopkeeper~
+A dirty little human is selling mules here.
+~
+This dirty little human male seems to be running this poor excuse for a
+stable.  He is mostly just sloshing around in the mud rather than doing
+anything useful.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+100 3 -13 19d200+500 10d30+250
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27028
+smelly old mule~
+a smelly old mule~
+A smelly old mule is here.
+~
+This old mule doesn't look so well fed, and it is absolutely filthy.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 0 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27029
+underfed gray horse~
+an underfed grey horse~
+An underfed grey horse is here.
+~
+This horse has seen better days.  It is thin and has a tangled coat and mane.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27030
+huge black stallion~
+a huge black stallion~
+A huge black stallion is here.
+~
+This huge horse looks quite powerful.  It is pitch black in color.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 0 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27031
+scruffy looking human shopkeeper~
+a scruffy human shopkeeper~
+A scruffy looking human is minding the shop.
+~
+This human is dressed in shabby clothes, and his general appearance is very 
+scruffy.  His hair is knotted and dull, his skin brown with dirt, and his 
+clothes torn and dirty.  He is selling clothes, but perhaps they'd be better 
+as rags.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+110 1 -20 4d99+999 4d20+150
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27032
+dirty half-orc butcher~
+a dirty half-orc butcher~
+A dirty half-orc is here, chopping meat and ...other things.
+~
+This half-orc is filthy and is dressed on old torn clothes.  He appears
+the be the local butcher, and seems to be quite handy with his butcher's
+knife.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+110 1 -20 4d99+999 4d20+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27033
+zogo dirty smelly human petshop owner~
+a dirty human petshop owner~
+A dirty smelly human is here, feeding the caged animals.
+~
+This filthy little man must be the store owner.  He is moving from cage
+to cage, feeding the animals and shoveling shit.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+110 1 -20 9d50+999 5d10+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27034
+asp~
+an asp~
+An asp peers at you menacingly.
+~
+This long snake looks quite dangerous.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 0 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27035
+large cobra~
+a large cobra~
+A large cobra is swaying here.
+~
+This snake, while beautiful in color and size...is quite deadly in nature. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27036
+boa contrictor~
+a boa constrictor~
+A boa constrictor lies coiled here.
+~
+This huge snake looks dangerous.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 0 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27037
+giant toad~
+a giant toad~
+A giant toad sits here.
+~
+What an ugly creature!  A big toad covered with green mottled skin.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 0 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27038
+crocodile~
+a crocodile~
+A crocodile is here, eyeing you hungrily.
+~
+This big reptile looks pretty tough.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+8 0 0 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27039
+alligator~
+an alligator~
+An alligator is here, eyeing you hungrily.
+~
+This alligator is trying to act tough, but will probably end up as as
+someone's boots soon.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 0 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27040
+pack rats~
+a pack of rats~
+A pack of rats scurry around here.
+~
+This group of rats is smelly and looks diseased.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 0 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27041
+small bat~
+a small bat~
+A small bat hangs here.
+~
+This small bat has tiny wings which fold up against its body.  It is
+quite tiny.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 0 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27042
+black cat~
+a black cat~
+A black cat is crossing your path here.
+~
+This black cat has an intelligent gleam in it's eyes.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 0 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27043
+war dog~
+a war dog~
+A war dog is here, with an evil look in its eyes.
+~
+This large dog looks dangerous.  It is drooling and has a mad look in its eyes.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+8 0 0 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27044
+stirge~
+a stirge~
+A stirge hovers here.
+~
+This small bloodsucking bird-like thing has stubby wings and is quite
+bloated.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -200 C
+3 0 0 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27045
+Blacksmith black skinned orc Barin~
+a huge, black skinned orc~
+A huge, black skinned orc is here, hammering away at some metal.
+~
+This huge black skinned orc has the arms the size of tree trunks and the 
+stomach of a rock.  He stands near eight feet tall and looks like he could 
+demolish a building with his bare hands.  He looks to be around his middle 
+ages, and has a thin head full of black and silver hair.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+100 0 -70 1d1+999 10d50+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27046
+brown horse~
+a dark brown horse~
+A dark brown horse is here, munching on some hay.
+~
+This finely bred horse is dark brown, and has a long black mane.  It looks
+well-fed and brushed.  It is munching on some hay right now.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 7 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27047
+A fat human shopkeeper ticket seller~
+a fat human~
+A fat human ticket seller is here.
+~
+This fat human seems more concerned over the chicken leg he's eating than 
+his customers.  He has long black hair, and beads of sweat pour down his 
+forehead.  A rather disgusting looking human, who seems to not keep himself 
+in good shape, his stomach hangs out of his clothes and his body reeks with 
+sweat and odour.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+108 4 -99 10d20+999 10d20+90
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27048
+A large burly male human~
+a large, burly male human~
+A large, burly male human leans against the stalls here.
+~
+This male human looks to be at least six feet tall, and has the arms the 
+size of tree trunks!  He has short black hair, and sweat beads roll down his 
+face, his body smells of months old unwashed body and he has a look of 
+distress about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+108 4 -99 10d20+999 10d20+90
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27049
+unseen mob of look windows~
+unseen mob of look windows~
+Unseen mob of look window
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27050
+little gremlin~
+a little gremlin~
+A little gremlin is here, leering evilly at you.
+~
+This little fellow is quite evil looking.  He is shaped like a tiny
+human, except for large pointy ears and clawed hands.  His skin is dark
+green.  
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+7 0 0 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27051
+small imp~
+a small imp~
+An small imp is here, cackling evilly.
+~
+This nasty little creature has sharp claws, long fangs, and a completely
+evil disposition.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+8 0 0 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27052
+baby ankheg~
+a baby ankheg~
+A baby ankheg is here.
+~
+This bizarre creature seems to be the offspring of several species and
+looks kind of like a huge insect.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+9 0 0 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27053
+carrion crawler~
+a carrion crawler~
+A carrion crawler is searching for something to eat.
+~
+This wormlike creature resembles a huge centipede, but is much nastier. 
+It has long slimy tentacles.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 0 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27054
+small behir~
+a small behir~
+A small behir's gaze is darting about.
+~
+The behir resembles a giant snake.  Six pairs of legs protrude from its 
+sides.  Its body is covered with deep blue scales, with bands of grey 
+running through them.  
+~
+0
+Clanname none~
+0
+0
+65 0 -200 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27055
+displacer beast~
+a displacer beast~
+A displacer beast is prowling here.
+~
+This large creatue looks sort of like a cat, except it has tentacles
+protruding from its back.  It is black in color.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+7 0 0 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27056
+runty kobold~
+a runty kobold~
+A runty kobold cowers in fear.
+~
+This small dogman cowers in fear anytime anyone looks at him.  He looks
+like he needs a good beating.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+3 0 0 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27057
+retarded goblin~
+a retarded goblin~
+A retarded goblin is standing here looking...well, retarded.
+~
+Goblins are pretty stupid to start with, but this one looks really dumb. 
+There is a confused look on its face.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+4 0 0 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27058
+undead thing~
+an undead thing~
+An undead...thing...is here
+~
+This thing is hard to describe, really.  A pile of body parts meshed 
+together and animated it looks.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 0 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27059
+A large burly male human carriage caretaker~
+a large, burly male human~
+A large, burly male human is sitting on a velvet seat here.
+~
+This male human looks to be at least six feet tall, and has the arms the 
+size of tree trunks!  He has short black hair, and sweat beads roll down his 
+face, his body smells of months old unwashed body and he has a look of 
+distress about him.  
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+108 4 -99 10d20+999 10d20+90
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27060
+Throtyl fighter guildguard butch orc~
+a butch-looking orc~
+A butch-looking orc stands here snarling at anyone who passes.
+~
+Standing about 8 feet tall and with heavy set shoulders, this orc looks
+quite daunting. His set of standard leather armour shows off the rippling
+muscles that lie beneath them. For some reason he seems to be snarling at
+everyone that he sees. Perhaps he's just in a bad mood?
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27061
+Throtyl fighter guildguard butch orc~
+a butch-looking orc~
+A butch-looking orc stands here snarling at anyone who passes.
+~
+Standing about 8 feet tall and with heavy set shoulders, this orc looks
+quite daunting. His set of standard leather armour shows off the rippling
+muscles that lie beneath them. For some reason he seems to be snarling at
+everyone that he sees. Perhaps he's just in a bad mood?
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27062
+Throtyl fighter guildguard butch orc~
+a butch-looking orc~
+A butch-looking orc stands here snarling at anyone who passes.
+~
+Standing about 8 feet tall and with heavy set shoulders, this orc looks
+quite daunting. His set of standard leather armour shows off the rippling
+muscles that lie beneath them. For some reason he seems to be snarling at
+everyone that he sees. Perhaps he's just in a bad mood?
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27063
+unseen_fighterD_guildguard_loader~
+unseen_fighterD_guildguard_loader~
+Unseen_fighterD_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27064
+Mage Madame Illadra~
+a tall woman with flowing black robes~
+A tall woman with flowing black robes watches you with a shrewd expression.
+~
+Though clearly a mage, this tall woman looks more like a fortune teller.  
+The black robes around her are long and flowing and she has tied crimson 
+silk scarves around her neck and waist.  Long bangled silver bracelets 
+jangle from bony wrists.  Her hair is a silvery white and her face is lined 
+with wrinkles.  An oversized wart protrudes from an beaked nose.  Though her 
+once tall back is stooped with age her eyes shine with both great power and 
+hidden malevolence.  
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27065
+Mage Madame Illadra ~
+a tall woman with flowing black robes~
+A tall woman with flowing black robes watches you with a shrewd expression.
+~
+Though clearly a mage, this tall woman looks more like a fortune teller.  
+The black robes around her are long and flowing and she has tied crimson 
+silk scarves around her neck and waist.  Long bangled silver bracelets 
+jangle from bony wrists.  Her hair is a silvery white and her face is lined 
+with wrinkles.  An oversized wart protrudes from an beaked nose.  Though her 
+once tall back is stooped with age her eyes shine with both great power and 
+hidden malevolence.  
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27066
+Mage Madama Illadra~
+a tall woman with flowing black robes~
+A tall woman with flowing black robes watches you with a shrewd expression.
+~
+Though clearly a mage, this tall woman looks more like a fortune teller.  
+The black robes around her are long and flowing and she has tied crimson 
+silk scarves around her neck and waist.  Long bangled silver bracelets 
+jangle from bony wrists.  Her hair is a silvery white and her face is lined 
+with wrinkles.  An oversized wart protrudes from an beaked nose.  Though her 
+once tall back is stooped with age her eyes shine with both great power and 
+hidden malevolence.  
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27067
+unseen_mageD_guildguard_loader~
+unseen_mageD_guildguard_loader~
+Unseen_mageD_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27068
+trainer shadowy man~
+a shadowy man~
+A Shadowy man stands here waiting to train you.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27069
+Unseen_Bonfire_Guarder~
+unseen_Bonfire_Guarder~
+Unseen_Bonfire_Guarder
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27070
+highway bandit~
+a highway bandit~
+A highway bandit is here.
+~
+This human dressed in rags has shifty eyes and constantly scrutinises his 
+surroundings, looking for an opportunity to fill his pockets.  
+~
+0
+Clanname none~
+0
+0
+129 65536 -200 C
+15 0 -1 2d5+50 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27071
+unseen2 getting off carriage mob~
+unseen2 getting off carriage mob~
+Unseen2 getting off carriage mob
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27072
+Throtyl thief guildguard seedy kobold~
+a grey-skinned kobold~
+A grey-skinned kobold peers at you intently from behind the counter.
+~
+This diminutive, grey-skinned kobold peers at you from behind the counter. 
+His eyes are remarkably tiny, and dart around the room constantly. The 
+greyness of his skin is probably the natural colour, but it could just be a 
+layer of grime hiding the true shade. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27073
+Throtyl thief guildguard seedy kobold~
+a grey-skinned kobold~
+A grey-skinned kobold peers at you intently from behind the counter.
+~
+This diminutive, grey-skinned kobold peers at you from behind the counter. 
+His eyes are remarkably tiny, and dart around the room constantly. The 
+greyness of his skin is probably the natural colour, but it could just be a 
+layer of grime hiding the true shade. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27074
+Throtyl thief guildguard seedy kobold~
+a grey-skinned kobold~
+A grey-skinned kobold peers at you intently from behind the counter.
+~
+This diminutive, grey-skinned kobold peers at you from behind the counter. 
+His eyes are remarkably tiny, and dart around the room constantly. The 
+greyness of his skin is probably the natural colour, but it could just be a 
+layer of grime hiding the true shade. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27075
+unseen_thief_guildguard_loader~
+unseen_thief_guildguard_loader~
+Unseen_thief_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27076
+Throtyl cleric guildguard shadowed drow~
+a humbly robed drowish woman~
+A humbly robed drowish woman stands here almost obscured by the shadows.
+~
+Standing almost obscured by the shadows, this drowish woman is perhaps five 
+and a half feet in height. She does not meet your gaze, but you cannot help 
+but feel that she observes you constantly, recording each of your actions 
+and remembering all of your words for some future time. 
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27077
+Throtyl cleric guildguard shadowed drow~
+a humbly robed drowish woman~
+A humbly robed drowish woman stands here almost obscured by the shadows.
+~
+Standing almost obscured by the shadows, this drowish woman is perhaps five 
+and a half feet in height. She does not meet your gaze, but you cannot help 
+but feel that she observes you constantly, recording each of your actions 
+and remembering all of your words for some future time. 
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27078
+Throtyl cleric guildguard shadowed drow~
+a humbly robed drowish woman~
+A humbly robed drowish woman stands here almost obscured by the shadows.
+~
+Standing almost obscured by the shadows, this drowish woman is perhaps five 
+and a half feet in height. She does not meet your gaze, but you cannot help 
+but feel that she observes you constantly, recording each of your actions 
+and remembering all of your words for some future time. 
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27079
+unseen_cleric_guildguard_loader~
+unseen_cleric_guildguard_loader~
+Unseen_cleric_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27080
+Throtyl spellfilcher guildguard pasty halfling~
+a pasty-faced halfling~
+A pasty-faced halfling crouches on the lowest step.
+~
+Crouched on the lowest step of the wagon, this halfling male's cape conceals 
+whatever other clothing he wears or weaponry he wields. His eyes are sunken, 
+mere shadows in his florid face. His complexion is a pasty white, smudged 
+with streaks of filth. 
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 0 -71 10d13+475 11d11+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27081
+Throtyl spellfilcher guildguard pasty halfling~
+a pasty-faced halfling~
+A pasty-faced halfling crouches on the lowest step.
+~
+Crouched on the lowest step of the wagon, this halfling male's cape conceals 
+whatever other clothing he wears or weaponry he wields. His eyes are sunken, 
+mere shadows in his florid face. His complexion is a pasty white, smudged 
+with streaks of filth. 
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27082
+Throtyl spellfilcher guildguard pasty halfling~
+a pasty-faced halfling~
+A pasty-faced halfling crouches on the lowest step.
+~
+Crouched on the lowest step of the wagon, this halfling male's cape conceals 
+whatever other clothing he wears or weaponry he wields. His eyes are sunken, 
+mere shadows in his florid face. His complexion is a pasty white, smudged 
+with streaks of filth. 
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27083
+unseen_spellfilcher_guildguard_loader~
+unseen_spellfilcher_guildguard_loader~
+Unseen_spellfilcher_guildguard_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27084
+unseen_paladin_dza_guildhouse_loader~
+unseen_paladin_dza_guildhouse_loader~
+Unseen_paladin_dza_guildhouse_loader
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27085
+a humanoid figure in pitch black full plate armour alkan~
+a humanoid figure in pitch `#`sblack`^ full plate armour~
+A humanoid figure in pitch `#`sblack`^ full plate armour stands here alertly.
+~
+You see a humanoid figure here, clad totally in pitch `#`sblack`^ full plate 
+armour.  You try to peer at the face, but it is fully covered with a 
+full-face helmet.  The figure is unmoving and lifeless, moving slightly only 
+to shift and look at intruders into this Dark Chapel.  The figure stands at 
+a corner, fully armoured hands resting on the pommel of a large sword, 
+crafted of some black metal.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+100 0 -71 10d13+475 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27086
+a humanoid figure in pitch black full plate armour alkan~
+a humanoid figure in pitch `#`sblack`^ full plate armour~
+A humanoid figure in pitch `#`sblack`^ full plate armour stands here alertly.
+~
+You see a humanoid figure here, clad totally in pitch `#`sblack`^ full plate 
+armour.  You try to peer at the face, but it is fully covered with a 
+full-face helmet.  The figure is unmoving and lifeless, moving slightly only 
+to shift and look at intruders into this Dark Chapel.  The figure stands at 
+a corner, fully armoured hands resting on the pommel of a large sword, 
+crafted of some `#`sblack`^ metal.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+110 0 -81 10d15+600 10d16+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27087
+a humanoid figure in pitch black full plate armour alkan~
+a humanoid figure in pitch `#`sblack`^ full plate armour~
+A humanoid figure in pitch `#`sblack`^ full plate armour stands here alertly.
+~
+You see a humanoid figure here, clad totally in pitch `#`sblack`^ full plate 
+armour.  You try to peer at the face, but it is fully covered with a 
+full-face helmet.  The figure is unmoving and lifeless, moving slightly only 
+to shift and look at intruders into this Dark Chapel.  The figure stands at 
+a corner, fully armoured hands resting on the pommel of a large sword, 
+crafted of some `#`sblack`^ metal.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+120 0 -90 10d17+700 10d17+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27088
+humanoid figure in onyx encrusted armour lyith~
+a humanoid figure in `#`sonyx`^ encrusted armour~
+A humanoid figure in `#`sonyx`^ encrusted armour is here, ready to impart knowledge.
+~
+This dark humanoid figure stands unmoving in the middle of the battle arena. 
+ The full plate armour gleams darkly, blue light dancing off the polished 
+onyx that decorates it.  The face is fully covered with a full-face helmet.  
+If not for slight movements from this figure, you would have mistaken it for 
+a statue, in the darkness of the room.  The humanoid figure looks ready to 
+impart knowledge, should you request it.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+100 1 -50 5d10+999 8d6+100
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27089
+fat troll drinks tavern~
+a fat troll~
+A fat troll, is serving the drinks here.
+~
+This troll is fat with hairy ears.  He has a pudgy nose and big round eyes.  
+He is serving the drinks in this tavern.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27090
+lanky lizardman shopkeeper~
+a lizardman coppersmith~
+A lanky lizardman is here, hammering a piece of copper.
+~
+The coppersmith of Throtyl is a lanky lizardman with oily green skin.  He is 
+hammering away on a piece of copper, which will be formed into something 
+he'll sell later.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27091
+drooling troll shopkeeper~
+a troll shopkeeper~
+A drooling troll is here, selling delicacies.
+~
+This troll can barely contain himself, he is drooling all over the place, as 
+he eyes the interesting delicacies he has on sale.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27092
+runty kobold shopkeeper cartographer~
+a runty kobold cartographer~
+A runty kobold is here, selling maps.
+~
+This kobold is a runty fellow, probably the runt of his siblings.  He is 
+selling maps and dirty pieces of parchment.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+102 2 -99 10d99+999 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27093
+robed drow shopkeeper~
+a drow shopkeeper~
+A robed drow is selling magic items here.
+~
+This drow wears a long robe, with a hood which hangs slightly over his eyes. 
+ When you look at him, you only see his mouth move, not the look in his 
+eyes.  He is selling various magical items in this shop.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+102 2 -99 10d99+999 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27094
+goblin shopkeeper beady-eyed hussat~
+a goblin shopkeeper~
+A beady-eyed goblin is mixing potions here.
+~
+This male goblin has beady eyes which seem to watch your every move.  His 
+hair is greasy and his hands stained, as he mixes various elements into 
+potions and ointments.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+102 2 -99 10d99+999 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27095
+draconian silver-winged carpenter shopkeeper ~
+a draconian carpenter~
+A silver-winged draconian is building something out of wood here.
+~
+This draconian has sly look in his eyes, and his movements are furtive and 
+he seems on edge.  He carries a weapon by his side, and his hand moves to 
+touch it whenever a customer comes into the shop.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27096
+gnoll shopkeeper plump male todak tabacconist~
+a gnoll tabacconist~
+A plump male gnoll is smoking a pipe here.
+~
+This gnoll is quite large and plump.  He has musty brown hair, covering his 
+fat body.  A pipe is resting in his hand, inbetween taking puffs.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 3 -99 9d9+999 10d6+150
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27097
+stocky dwarf dwarven shopkeeper~
+a stocky dwarven shopkeeper~
+A stocky dwarf is here, scaling a fish.
+~
+This dwarf, like most of his race, is short and stocky.  An odour of fish 
+hangs about him, and stains of blood cover his rough hands.  He is busy 
+scaling a fish to sell in his shop.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27098
+duergar shopkeeper unshaven~
+a duergar shopkeeper~
+An unshaven duergar is here, selling rugs and carpets.
+~
+This duergar is unshaven, taking little care over his appearance.  His 
+clothes are filthy and reek of odour.  He is trying to make a business here 
+selling rugs.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27099
+waitress anatolle pretty~
+a pretty waitress~
+A waitress in a short black uniform and a white apron is here taking your orders.
+~
+A pretty waitress in a short black uniform and a starched white apron stands 
+here taking your orders.  Her orders seem quite exotic, and would be worth a 
+look.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+23 0 -7 100d1+0 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27100
+plump darkskinned male minotaur pianist sam~
+a minotaur pianist~
+A slightly plump, dark skinned male minotaur sits at a grand piano.
+~
+A slightly plump, dark skinned male minotaur dressed in a black suit, a 
+white shirt and a black bow tie sits at a grand piano, tickling the ivories. 
+ He breaks into song once in a while in his deep husky voice.  
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+23 0 -7 100d1+0 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27101
+dark cloaked figure~
+a dark cloaked figure~
+A dark cloaked figure is skulking in the shadows.
+~
+You can't tell much about this figure, both because of the shadows 
+in which it hides as well as the dark cloak which it wears.  You can 
+tell that it moves very gracefully and quick, and see the flash of metal 
+from within the cloak.
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+8 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27102
+butch orc scars shopkeeper~
+a butch orc~
+A butch orc with scars on his face, pushes the half-elf about.
+~
+This orc is a nasty looking creature, with broad shoulders and a mouth full 
+of vicious teeth.  He is leaning back in his chair, making the servant do 
+all the work.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27103
+whimpering half-elf~
+a whimpering half-elf~
+A whimpering half-elf scurries about, selling items to the customers.
+~
+This whimpering creature, a half-elf, scurries quickly to and fro, trying to 
+keep himself busy for fear of his master's whip.  He has many bruises on his 
+frail arms and legs, and a sad look in his eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27104
+sly-looking kobold shopkeeper~
+a sly-looking kobold~
+A sly-looking kobold is here, selling cheap and nasty items to unsuspecting customers.
+~
+This small, but muscly, kobold has a sly grin on his face.  He is trying to 
+sell his items, probably made by slave labour, to any unsuspecting 
+customers.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+110 4 -180 10d30+1500 1d20+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27105
+thazolis ogre pale skinned~
+a pale skinned ogre~
+A huge pale skinned ogre is here.
+~
+This huge ogre is around ten feet tall, and is covered in warts and sores.  
+He has pale greenish skin, and matted black hair that goes past his 
+shoulders.  His eyes glimmer crimson red and he smells like he hasnt taken a 
+bath in over a year.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27106
+unseen_meals_on_wheels~
+`#A prison guard~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#27107
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#27000
+old pants~
+some old pants~
+Some old pants have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 12 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27000 old pants~
+A pair of old brown pants.
+~
+#27001
+old grey shirt~
+an old `#`Sgrey`^ shirt~
+An old `#`Sgrey`^ shirt has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27001 old grey shirt~
+An old grey shirt.  It is rather threadbare.
+~
+#27002
+arm~
+an arm~
+The arm of some poor human or elf is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27002 arm~
+The arm of some poor elf or human.
+~
+#27003
+leg~
+a leg~
+The leg of some poor elf or human is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27003 leg~
+The leg of some poor elf or human.
+~
+#27004
+bloody hunk meat~
+a bloody hunk of meat~
+A bloody hunk of meat has been left here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27004 bloody hunk meat~
+A hunk of bloody, raw meat.  Yummy!
+~
+#27005
+dead cat~
+a dead cat~
+A dead cat is lying here.~
+~
+19 0 16
+40 0 0 0 0 0 0
+1 31 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27005 dead cat~
+The corpse of a black and white striped alley cat.   Looks tasty, eh?
+~
+#27006
+fine black robes~
+some fine `#`Sblack`^ robes~
+Some fine `#`Sblack`^ robes have been left here.~
+~
+11 16 8
+0 0 0 0 0 0 0
+1 79 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27006 fine black robes~
+Thes black robes are finely made from soft cloth.
+~
+#27007
+torn black robes~
+some torn `#`Sblack`^ robes~
+Some torn `#`Sblack`^ robes lie here.~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 311 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27007 torn black robes~
+These black robes are finely made, but are ripped and torn.
+~
+#27008
+ceremonial dagger~
+a ceremonial dagger~
+A ceremonial dagger is here.~
+~
+5 16 4
+1 11 11 0 0 0 0
+1 322 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27008 ceremonial dagger~
+This steel dagger is highly ornate, probably made for some evil ritual.
+~
+#27009
+flagon grog~
+a flagon of grog~
+A flagon of grog has been left here.~
+~
+17 0 16
+3 4 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27009 flagon grog~
+This drink is quite strong.
+~
+#27010
+bowl mystery soup~
+a bowl of mystery soup~
+A bowl of soup has been left here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 19 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27010 bowl mystery soup~
+This soup smells rather bad and has some unidentifiable chunks floating in it.
+~
+#27011
+juicy steak beef~
+a juicy steak~
+A juicy steak has been left here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27011 juicy steak~
+A juicy steak.  It is cooked, but a little underdone.
+~
+#27012
+torn dress~
+a torn dress~
+A torn dress has been left here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27012 torn dres~
+This pretty dress has been torn at the seam.  Perhaps it could be repaired and worn again.
+~
+#27013
+black robes~
+some `#`Sblack`^ robes~
+Some `#`Sblack`^ robes are lying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 60 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27014
+fine black robe~
+a fine `#`Sblack`^ robe~
+A fine `#`Sblack`^ robe lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 90 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27015
+thick leather armor~
+some thick leather armor~
+Some thick leather armor has been left here.~
+~
+9 0 8
+10 10 9 0 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27015 leather armor thick~
+This leather armor is very thick, but not made so well.
+~
+#27016
+dull longsword sword~
+a dull longsword~
+A dull longsword has been left here.~
+~
+5 0 4
+2 14 24 0 0 0 0
+1 722 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27016 dull longsword~
+A dull longsword, made form steel.  Pretty uninterestersting as swords go.
+~
+#27017
+nasty longsword sword~
+a nasty longsword~
+A nasty longsword has been left here.~
+~
+5 0 4
+2 62 76 0 0 0 0
+1 1111 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27017 nasty longsword~
+This longsword has a very sharp edge and is weighted perfectly.
+~
+#27018
+heavy ringmail~
+a heavy ringmail~
+A heavy ringmail has been left here.~
+~
+9 0 8
+40 40 13 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27018 heavy ringmail~
+This ringmail is quite thick and heavy, and made well.
+~
+#27019
+rock sharp~
+a sharp rock~
+A sharp rock has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27019 sharp rock~
+A sharp rock.  Might serve as a weapon in an emergency.
+~
+#27020
+long stiletto~
+a long stiletto~
+A long stiletto has been left here.~
+~
+5 0 4
+3 7 16 0 0 0 0
+1 345 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27020 long stiletto~
+This long dagger is quite sharp and deadly.
+~
+#27021
+long black cloak~
+a long black cloak~
+A long black cloak has been left here.~
+~
+9 0 8
+5 5 3 0 0 0 0
+1 319 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27021 long black cloak~
+A nice black cloak, made of some thick material.
+~
+#27022
+heavy club mace~
+a heavy club~
+A heavy club has been left here.~
+~
+5 0 4
+3 14 24 0 0 0 0
+1 484 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27022 heavy club~
+A huge heavy wooden club.
+~
+#27023
+double-bladed axe~
+a double-bladed axe~
+A double-bladed axe has been left here.~
+~
+5 0 4
+2 17 25 0 0 0 0
+1 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27023 double axe~
+This axe is forged from steel, and has a double blade.
+~
+#27024
+light scalemail~
+a light scalemail~
+A light scalemail has been left here.~
+~
+9 0 8
+10 10 8 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27024 light scalemail~
+A light steel scalemail, fairly well made.
+~
+#27025
+floating avian head~
+a floating head~
+The floating head of an avian.~
+~
+13 128 8
+0 0 0 0 0 0 0
+1 1120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27025 floating head avian~
+A head floats here.  Its face is set in an evil grin, never 
+before have you felt such evil come from an object.
+~
+#27026
+nicked longsword sword~
+a nicked longsword~
+A dull longsword with a nicked blade has been left here.~
+~
+5 0 4
+3 7 16 0 0 0 0
+1 421 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27026 nicked longsword~
+A longsword, made from steel.  The blade is badly nicked in several places.
+~
+#27027
+throtyl jail key~
+`#`wThrotyl `sJail `sKey`^~
+An iron key is lying here.~
+~
+31 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27027 throytl jail prison key~
+This looks like an important key, if found, please return to the Mayor's 
+office. 
+~
+#27028
+tall wooden chair~
+a tall wooden chair~
+A tall wooden chair.~
+~
+12 0 8
+99999 9360 115 120 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27028 tall wooden chair~
+This wooden chair is finely made. The back is very tall.
+~
+#27029
+anvil steel~
+a dull steel anvil~
+A dull steel anvil lies here.~
+~
+12 1 8
+10000 4105 -25 -25 0 0 0
+20 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27029 anvil~
+This anvil glows with a red radiance, it's very hot.
+~
+#27030
+furnace~
+a large furnace~
+A large steel furnace lies near the wall.~
+~
+12 16 8
+100000 4105 -50 -50 0 0 0
+20 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27030 furnace~
+You can see a blue flame inside the furnace, you can feel the heat
+coming from there.
+~
+#27031
+token27031 scimitar-quest~
+token27031 scimitar-quest~
+Token27031 scimitar-quest~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27032
+token27032 scimitar-quest2~
+token27032 scimitar-quest2~
+Token27032 scimitar-quest2~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27033
+token27033 scimitar-quest3~
+token27033 scimitar-quest3~
+Token27033 scimitar-quest3~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27034
+token27034 scimitar-quest4~
+token27034 scimitar-quest4~
+Token27034 scimitar-quest4~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27035
+token27035 scimitar-quest5~
+token27035 scimitar-quest5~
+Token27035 scimitar-quest5~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27036
+scimitar dancing flames~
+`#a scimitar of `Rdancing flames`^~
+`#a scimitar of `Rdancing flames`^ lies here.~
+~
+5 0 4
+15 4 3 273 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27036 scimitar dancing flames~
+This scimitar curves slightly from the blade, and the metal has the 
+appearance of some sort of obsidian glass-like metal.  The extraordinary 
+thing about the blade is the fact that it is engulfed in flames, yet the 
+fire on the blade seems nothing more than an illusion.  The hilt of the 
+sword is wrapped in black leather and a reddish gem glimmers on the bottom 
+of the hilt.  
+~
+#27037
+wooden chair~
+a wooden chair~
+A wooden chair.~
+~
+12 0 8
+9999 1170 100 100 0 0 0
+2 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27037 wooden chair~
+A wooden chair with some cushioning.  Looks quite comfortable.
+~
+#27038
+small wooden desk~
+a small wooden desk~
+A small wooden desk is here.~
+~
+15 0 8
+13 0 5 100 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27039
+A large wooden carriage~
+a large wooden carriage~
+A large wooden carriage is here.~
+~
+12 0 8
+100000 288 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27040
+small yellow ticket ~
+a small yellow ticket~
+A small yellow ticket lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27041
+soft velvet seats~
+some soft velvet seats~
+Some soft velvet seats lie against the walls.~
+~
+12 0 8
+10000 1170 100 100 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27042
+huge marble sign~
+a `#`Wmarble`^ sign~
+A `#`Wmarble`^ sign is hanging against a building here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27042 huge wooden sign~
+`#`B--------------------------------------------------------`^
+`#`B|                                                      |`^  
+`#`B|`^                     `#`WThe Trellis`^                      `#`B|`^
+`#`B|                                                      |`^
+`#`B|`^   `#`wA place of civility in Throtyl..`^                   `#`B|`^
+`#`B|`^                 `#`w....Fine dining under the vines.`^     `#`B|`^
+`#`B|                                                      |`^
+`#`B--------------------------------------------------------`^    
+~
+#27043
+long cast-iron bench~
+a large, cast-iron bench~
+A large, cast-iron bench stands here.~
+~
+12 0 8
+10000 9360 110 110 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27043 long wooden bench~
+Cold black iron has been wrought into the shape of a bench. Shapes of wild 
+beasts and monsters have found their way into the seat and the backrest of 
+this bench. Two gargolyes perch on either side and function as armrests. 
+~
+#27044
+no name~
+a large study table~
+A massive oak table teeming with half written parchments and empty ink pots stands in the center of the room.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27044 table ~
+Dominating the dusty attic is a massive study table made of thick oak.  A 
+dark mahogany in colour it must have once been beautiful but now the 
+burnished sheen of the wood has faded and it is mottled with ink stains and 
+sulpher burns.  Crumpled bits of parchment paper are crumpled around the 
+table obviously remnants of whatever work was done on the table itself, also 
+filled almost to its brim with parchment, bottles of ink, used quills and 
+various books.  
+~
+#27045
+huge bonfire fire~
+a huge bonfire~
+A huge bonfire burns here.~
+~
+15 1 8
+0 0 10000 10 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27046
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27047
+sparkling energy shield~
+a sparkling energy shield~
+A sparkling energy shield has been left here.~
+~
+9 64 8
+10 10 0 0 0 0 0
+1 499 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27047 sparkling energy shield~
+A magical energy field.  
+~
+#27048
+elf eyeballs stick~
+elf eyeballs on a stick~
+Elf eyeballs on a stick have been left here.~
+~
+19 0 16
+23 0 0 0 0 0 0
+1 66 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27049
+dwarfburger burger~
+a dwarfburger~
+A burger made of some mystery meat has been left here.~
+~
+19 0 16
+21 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27049 dwarfburger burger~
+A thin slice of meat rests between two cuts of crusty bread.  The meat 
+doesn't look like chicken or anything else you recognize, and is tough and 
+charred pretty thoroughly.  
+~
+#27050
+27050 token_quest_unicorn_treasure~
+token_quest_unicorn_treasure_mp27005~
+Token_quest_unicorn_treasure_mp27005~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27051
+pile coins~
+a pile of coins~
+A pile coins is here.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27051 pile coins~
+A pile of gold coins.
+~
+#27052
+small hand axe~
+a small hand axe~
+A small hand axe is lying here.~
+~
+5 0 4
+1 6 1 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27052 small hand axe~
+This small axe looks like it would be good for various woodcrafts but not so 
+effective for fighting with.  
+~
+#27060
+token27060 token_fighterD_guild_warned_before~
+token27060 token_fighterD_guild_warned_before~
+Token27060 token_fighterD_guild_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27061
+token27061 token_mageD_guild_warned_before~
+token27061 token_mageD_guild_warned_before~
+Token27061 token_mageD_guild_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27062
+27062 token_evil_align_1~
+27062 token_evil_align_1~
+27062 token_evil_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27063
+27063 token_good_align_1~
+27063 token_good_align_1~
+27063 token_good_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27064
+27064 token_neutral_align_1~
+27064 token_neutral_align_1~
+27064 token_neutral_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27065
+token27065 token_thief_guild_warned_before~
+token27065 token_thief_guild_warned_before~
+Token27065 token_thief_guild_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27066
+token27066 token_cleric_guild_warned_before~
+token27066 token_cleric_guild_warned_before~
+Token27066 token_cleric_guild_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27067
+token27067 token_spf_guild_warned_before~
+token27067 token_spf_guild_warned_before~
+Token27067 token_spf_guild_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27068
+token27068 token_paladin_guild_dza_warned_before~
+token27068 token_paladin_guild_dza_warned_before~
+Token27068 token_paladin_guild_dza_warned_before~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27069
+cask port wine~
+a cask of port wine~
+A cask of port wine has been left here.~
+~
+17 0 16
+100 21 0 0 0 0 0
+1 390 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27070
+jug ale~
+a jug of ale~
+A jug of ale is here.~
+~
+17 0 16
+3 3 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27071
+glass wine mulled~
+a glass of mulled wine~
+A glass of wine is here.~
+~
+17 0 16
+3 42 0 0 0 0 0
+1 29 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27072
+bottle bloodwine~
+a bottle of `#`rbloodwine`^~
+A bottle of `#`rbloodwine`^ is here.~
+~
+17 0 16
+10 37 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27073
+iron battleaxe~
+an iron battleaxe~
+An iron battleaxe lies here.~
+~
+5 0 4
+2 35 50 32 0 0 0
+1 330 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27074
+iron candlestick holder~
+an `#`Siron`^ candlestick holder~
+An `#`Siron`^ candlestick holder is here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27075
+belt iron buckle~
+a belt with an `#`Siron`^ buckle~
+A belt with an `#`Siron`^ buckle is here.~
+~
+9 0 8
+60 60 1 0 0 0 0
+1 125 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27076
+copper pick-axe pick axe~
+a `#`ycopper`^ pick-axe~
+A `#`ycopper`^ pick-axe is here.~
+~
+5 0 4
+2 17 25 8 0 0 0
+1 270 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27077
+copper weathervane~
+a `#`ycopper`^ weathervane~
+A `#`ycopper`^ weathervane is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 64 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27078
+mirror copper-framed~
+a `#`ycopper-framed`^ mirror~
+A `#`ycopper-framed`^ mirror lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27079
+portion fried elf fingers~
+a portion of fried elf fingers~
+A portion of fried elf fingers are waiting to be eaten here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 38 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27080
+roasted bat wings~
+some roasted bat wings~
+Some roasted bat wings are here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 77 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27081
+serving crunchy human ribs~
+a serving of crunchy human ribs~
+A serving of crunchy human ribs is here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 49 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27082
+feylar paw~
+a feylar paw~
+A feylar paw lies here, waiting to be eaten.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27083
+white meat chunk alligator meat slice slime sauce~
+a slice of alligator meat with slime sauce~
+A chunk of white meat lies here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27084
+hunk dripping red meat~
+a hunk of dripping red meat~
+A hunk of dripping red meat is attracting flies here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27085
+cutting wild boar's meat~
+some wild boar's meat~
+Some wild boar's meat attracts flies here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 27 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27086
+rack ribs~
+a rack of ribs~
+A rack of ribs has been left here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 49 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27087
+carved wooden shield~
+a carved wooden shield~
+A carved wooden shield lies here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 235 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27088
+smooth ashwood staff~
+a smooth ashwood staff~
+An ashwood staff lies here.~
+~
+4 256 4
+0 0 0 -1 0 0 0
+1 384 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#27089
+rosewood chest~
+a `#`rrosewood`^ chest~
+A `#`rrosewood`^ chest is here.~
+~
+15 0 8
+1 0 70 100 0 0 0
+1 588 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27090
+small briarwood pipe~
+a small briarwood pipe~
+A small briarwood pipe has been left here.~
+~
+42 0 32
+100 0 0 0 0 0 0
+1 135 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27091
+long straight wooden pipe~
+a straight wooden pipe~
+A straight, wooden pipe lies here.~
+~
+42 0 32
+100 0 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27092
+bag rich blend pipeweed~
+a bag of rich blend pipeweed~
+A bag of pipeweed lays here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 108 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27093
+bag piquant-flavoured pipeweed~
+a bag of piquant-flavoured pipeweed~
+A bag of pipeweed lays here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 105 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27094
+bag aromatic pipeweed~
+a bag of aromatic pipeweed~
+A bag of pipeweed lays here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27095
+smoked fish~
+a `#`Ssmoked`^ fish~
+A `#`Ssmoked`^ fish is smelling bad here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27096
+handful oysters~
+a handful of `#`Woysters`^~
+A handful of `#`Woysters`^ have been left here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27097
+battered piece snapper~
+a piece of `#`ybattered`^ snapper~
+A `#`ybattered`^ piece of snapper has been left here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27098
+musty brown robes~
+some `#`ymusty brown`^ robes~
+Some `#`ymusty brown`^ robes have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 51 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27099
+shirt billowy sleeves~
+a shirt with billowy sleeves~
+A shirt with billowy sleeves lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 36 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27100
+stripy cotton pants~
+some `#`Ws`Bt`Yr`Bi`Wp`Yy`^ cotton pants~
+Some `#`Ws`Bt`Yr`Bi`Wp`Yy`^ pants have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27101
+tunic ruffles~
+a tunic with ruffles~
+A tunic with ruffles has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27102
+live crayfish~
+a live `#`Rcrayfish`^~
+A live `#`Rcrayfish`^ snaps its claws here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 41 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27103
+bag wriggling worms~
+a bag of wriggling `#`Mworms`^~
+A bag of wriggling `#`Mworms`^ has been left here.~
+~
+19 0 16
+5 0 1 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27104
+book essential magicks~
+a book of essential magicks~
+A book of essential magicks is here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 970 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27105
+tome light magicks~
+a tome of `#`Wlight`^ magicks~
+A tome of `#`Wlight`^ magicks has been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 925 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27106
+yellowy-blue pill~
+a `#`Yyel`ylow`gy-b`blu`Be`^ pill~
+A `#`Yyel`ylow`gy-b`blu`Be`^ pill is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27107
+pulsating violet pill~
+a pulsating `#`mv`Mi`mo`Mle`mt`^ pill~
+A pulsating `#`mv`Mi`mo`Mle`mt`^ pill lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27108
+small bottle off-white liquid~
+a small bottle of `#`Soff-white`^ liquid~
+A small bottle of `#`Soff-white`^ liquid lies here.~
+~
+17 0 16
+15 26 1 0 0 0 0
+1 295 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27109
+potion deception chaotic poison weaken~
+a potion of deception~
+A potion of deception lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 1250 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27110
+warm mink fur cloak~
+a warm `#`Smink fur`^ cloak~
+A warm `#`Smink fur`^ cloak has been left here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27111
+pair red fox fur gloves~
+a pair of `#`Rred fox`^ fur gloves~
+A pair of `#`Rred fox`^ fur gloves have been left here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 680 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27112
+pair silver-furred boots~
+a pair of `#`Ssilver-furred`^ boots~
+A pair of `#`Ssilver-furred`^ boots have been left here.~
+~
+9 0 8
+5 5 8 0 0 0 0
+1 990 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27113
+plush ocean-green carpet~
+a plush, `#`cocean-green`^ carpet~
+A plush, `#`cocean-green`^ carpet looks very comfortable here.~
+~
+12 0 8
+999999 1170 115 115 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27114
+thick bear's fur rug~
+a thick `#`ybear's fur`^ rug~
+A thick `#`ybear's fur`^ rug looks very comfortable here.~
+~
+12 0 8
+999999 1170 115 115 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27115
+cheap spotted carpet~
+a cheap, `#`Rs`yp`Ro`yt`Rt`ye`Rd`^ carpet~
+A cheap, `#`Rs`yp`Ro`yt`Rt`ye`Rd`^ carpet has been left here.~
+~
+12 0 8
+999999 1170 115 115 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27116
+tiny muslin bag blueberries~
+a tiny muslin bag of `#`Bblueberries`^~
+A tiny muslin bag of `#`Bblueberries`^ is here.~
+~
+19 0 16
+24 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27117
+dish sliced peaches~
+a glass dish of sliced peaches~
+A glass dish of sliced peaches is here, looking delicious.~
+~
+19 0 16
+11 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27117 glass dish sliced peaches~
+A glass dish of sliced peaches is here. The juicy slices of peach is piled 
+high on a dainty glass plate. 
+~
+#27118
+delicate creme brulee~
+a delicate creme brulee~
+A delicate creme brulee is here, looking sweet.~
+~
+19 0 16
+12 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27118 delicate creme brulee~
+A delicate creme brulee is here, looking sweet. The small ramkin is filled 
+with a sweet custard with a thin layer of caramelized sugar is on the top. 
+~
+#27119
+caviar bed ice~
+some `#`scaviar`^ on a bed of `#`Wice`^~
+Some `#`scaviar`^ on a bed of `#`Wice`^ is here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27120
+fresh croissant~
+a fresh croissant~
+A fresh croissant is here, smelling buttery and sweet.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27121
+porterhouse steak beef~
+a porterhouse steak~
+A porterhouse steak cooked to a perfect medium-rare is here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 36 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27122
+small basket strawberries~
+a small basket of `#`Rstrawberries`^~
+A small basket of `#`Rstrawberries`^ is here looking delicious.~
+~
+19 0 16
+24 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27123
+a venison fillet~
+a juicy venison fillet~
+A juicy venison fillet is here, smelling delicious.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 38 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27124
+oyster half-shell~
+a fresh plump `#`soyster`^ on a half-shell~
+A fresh plump `#`soyster`^ on a half-shell is here looking inviting.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27125
+creamy lobster bisque~
+a creamy lobster bisque~
+A creamy lobster bisque is here, smelling heavenly.~
+~
+19 0 16
+17 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27126
+glass red wine~
+a glass of `#`rred`^ wine~
+A glass of `#`rred`^ wine from The Trellis' own vineyards is here.~
+~
+17 0 16
+10 2 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27127
+glass white wine~
+a glass of `#`Wwhite`^ wine~
+A glass of `#`Wwhite`^ wine from The Trellis' own vineyards is here.~
+~
+17 0 16
+10 18 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27128
+restaurant table~
+some beautifully set tables~
+Some beautifully set tables are here.~
+~
+15 0 8
+0 0 200 100 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27128 ball ~
+The small golden orb hovers and flickers a bit.  It makes long shadows on 
+the walls, and its heat warms the room.  
+~
+E
+27128 table ~
+A table with a long white tablecloth is here.  It is set with gleaming 
+silverware, snowy white chinaware, crystal goblets and in the middle of the 
+table, a small silver vase with a single `#`Rred`^ rose.  A tiny ball of continual 
+light hovers above the rose, bathing the table with a slight flickering 
+light.  
+~
+#27129
+Beautifully designed wooden chairs ~
+beautifully designed wooden chairs~
+Beautifully designed wooden chairs surround the table here.~
+~
+12 0 8
+50000 144 100 100 0 0 0
+2 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27130
+huge bowl fruit~
+a huge bowl of fruit~
+A huge bowl of fruit lies on the table here.~
+~
+15 0 8
+0 0 1000 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27131
+collection creation magicks~
+a collection of creation magicks~
+A collection of creation magicks has been left here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 965 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27132
+elegant black silk gown~
+`#`wan elegant `Sblack silk `wevening gown`^~
+`#`wan elegant `Sblack silk `wevening gown has been left here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27133
+white satin bridal gown~
+`#`wa `Wwhite s`wa`Wt`wi`Wn `wb`Wr`wi`Wd`wa`Wl `wgown`^~
+A `#`Wwhite satin`^ bridal gown has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27134
+white cotton terry cloth robe~
+`#`wa `Wwhite c`wo`Wt`wt`Wo`wn terry cloth robe`^~
+`#`wa `Wwhite c`wo`Wt`wt`Wo`wn terry cloth robe has been left here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27135
+form fitting blue velvet dress ~
+`#`wa form fitting `Bblue velvet `wdress`^~
+`#`wa form fitting `Bblue velvet `wdress is on the ground here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27136
+cotton twill bodice~
+`#`wa `Wcotton `ctwill `wbodice`^~
+A cotton twill bodice has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27137
+long flowing twill skirt~
+`wa long flowing `ctwill `wskirt`^~
+A long flowing twill skirt has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27138
+black leather boots~
+`#`wa pair of `sblack leather `wboots`^~
+`#`wa pair of `sblack leather `wboots are lying here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27139
+white groom's shirt~
+a `#`Wwhite groom's`^ shirt~
+A `#`Wwhite groom's`^ shirt has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 950 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27140
+groom's doublet~
+a `#`Sgroom's`^ doublet~
+A `#`Sgroom's`^ doublet has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27141
+pair groom's trousers~
+a pair of `#`Sgroom's`^ trousers~
+A pair of `#`Sgroom's`^ trousers have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27142
+pair matching groom's sleeves~
+a pair of matching `#`Sgroom's`^ sleeves~
+A pair of matching `#`Sgroom's`^ sleeves have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 875 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27143
+white satin matching sleeves~
+`#`wa pair of `Wwhite s`wa`Wt`wi`Wn `wmatching sleeves`^~
+A pair of `#`Wwhite satin`^ matching sleeves have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27144
+servant's apron~
+a servant's apron~
+A servant's apron lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27145
+pair slave's breeches~
+a pair of slave's breeches~
+A pair of slave's breeches lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 12 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27146
+feather duster~
+a feather duster~
+A feather duster sits here in the dirt.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27147
+loincloth~
+a loincloth~
+A loincloth has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 7 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27147 dirty leather loincloth~
+This old scrap of leather has been fashioned into a small loincloth.  
+~
+#27148
+mining pick~
+a mining pick~
+A mining pick has been left here.~
+~
+5 0 4
+1 7 16 0 0 0 0
+1 12 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27148 mining pick~
+A steel and wood mining pick.  Might make a decent weapon 
+in a pinch.
+~
+#27149
+wooden bucket~
+a wooden bucket~
+A wooden bucket has been left here.~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27149 old bucket~
+An old wooden bucket.
+~
+#27150
+high-quality steel axe~
+`#`wa high-quality `ssteel `waxe`^~
+A high-quality steel axe lies here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 59 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27150 double axe~
+This axe is forged from steel, and has a double blade.
+~
+#27151
+buckled scalemail~
+`#`wa buckled `sscalemail`^~
+A buckled scalemail lies here.~
+~
+9 0 8
+10 10 8 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27151 light scalemail~
+A light steel scalemail, fairly well made.
+~
+#27152
+valuable looking armor~
+`#`wsome `yvaluable `wlooking `sarmor`^~
+Some valuable looking armor lies here.~
+~
+9 0 8
+10 10 9 0 0 0 0
+1 99 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27152 leather armor thick~
+This leather armor is very thick, but not made so well.
+~
+#27153
+expensive looking ring~
+`#`wan `yexpensive `wlooking `Yring`^~
+An expensive looking ring has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 33 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27154
+token_quest_cloak_speech_shadows~
+token_quest_cloak_speech_shadows_mp3026~
+Token_quest_cloak_speech_shadows_mp3026~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27155
+token_quest_cloak_speech_shadows~
+token_quest_cloak_speech_shadows_mp23522~
+Token_quest_cloak_speech_shadows_mp23522~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27156
+token_quest_cloak_speech_malache~
+token_quest_cloak_speech_malache_mp30500~
+Token_quest_cloak_speech_malache_mp30500~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27157
+token_quest_ronar_speech_copy~
+token_quest_ronar_speech_copy_mp3007~
+Token_quest_ronar_speech_copy_mp3007~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27158
+token_quest_ronar_speech_password~
+token_quest_ronar_speech_password_mp3009~
+Token_quest_ronar_speech_password_mp3009~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27159
+token_quest_ronar_speech_khuzad~
+token_quest_ronar_speech_khuzad_mp28001~
+Token_quest_ronar_speech_khuzad_mp28001~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27160
+token_quest_ronar_speech_map~
+token_quest_ronar_speech_map_mp10000~
+Token_quest_ronar_speech_map_mp10000~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27161
+token_quest_ronar_speech_price~
+token_quest_ronar_speech_price_mp10001~
+Token_quest_ronar_speech_price_mp10001~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27162
+token_quest_ronar_give_eye~
+token_quest_ronar_give_eye_mp10003~
+Token_quest_ronar_give_eye_mp10003~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27163
+token_quest_ronar_give_rack~
+token_quest_ronar_give_rack_mp10004~
+Token_quest_ronar_give_rack_mp10004~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27164
+token_quest_ronar_give_diamond~
+token_quest_ronar_give_diamond_mp10005~
+Token_quest_ronar_give_diamond_mp10005~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27165
+pile coins~
+a pile of coins~
+A pile of coins lies here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27166
+crack wall~
+a crack in the wall~
+~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27166 crack wall~
+You see a gaping crack in the wall.
+~
+#27167
+ash-covered shirt remains~
+an `#`Sash-covered`^ shirt~
+The remains of a shirt, covered in ashes lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27167 old grey shirt~
+An old grey shirt.  It is rather threadbare.
+~
+#27168
+candle light~
+a candle~
+A candle casts a glow of soft candlelight here.~
+~
+1 0 1
+0 20 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27169
+picnic hamper~
+a `#`ypicnic`^ hamper~
+A `#`ypicnic`^ hamper is here.~
+~
+15 0 8
+5 0 50 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27170
+single red rose~
+a single `#`Rred`^ rose~
+A single `#`Rred`^ rose lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27170 red rose~
+A nice red rose.
+~
+#27171
+bottle red wine~
+a bottle of `#`Rred`^ wine~
+A bottle of `#`Rred`^ wine lies here.~
+~
+17 0 16
+4 2 0 0 0 0 0
+1 112 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27172
+bottle white wine~
+a bottle of `#`Wwhite`^ wine~
+A bottle of `#`Wwhite`^ wine lies here.~
+~
+17 0 16
+4 18 0 0 0 0 0
+1 112 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27173
+wedge cheese~
+a wedge of `#`Ycheese`^~
+A wedge of `#`Ycheese`^ is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27174
+picnic rug~
+a picnic rug~
+A picnic rug is spread out here.~
+~
+12 0 8
+9999 140434 105 105 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27175
+severed elf hand~
+a severed elf hand~
+A severed elf hand lies here, attracting flies.~
+~
+19 0 16
+20 0 1 0 0 0 0
+1 88 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27176
+severed elf foot~
+a severed elf foot~
+A severed elf foot is here, attracting flies.~
+~
+19 0 16
+20 0 1 0 0 0 0
+1 92 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27177
+token_quest_cloak_paid_malachemp3902 token~
+token_quest_cloak_paid_malachemp3902~
+Token_quest_cloak_paid_malachemp3902~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27178
+platemail heavy black~
+a heavy `#`Sbl`wa`sck `wp`slatemail`^~
+A heavy black platemail lies here, collecting dust.~
+~
+9 16 8
+40 40 14 0 0 0 0
+1 1031 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27179
+leggings heavy~
+some heavy `#`sleggings`^~
+Some heavy leggings lie here.~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 1021 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27180
+cloak heavy black~
+a heavy `#`Sblack cloak`^~
+A heavy black cloak lies here.~
+~
+9 256 8
+40 40 11 0 0 0 0
+1 1210 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27181
+hammer huge black~
+a huge, `#`sblack `rh`sammer`^~
+A huge, black hammer lies here.~
+~
+5 1 4
+2 70 85 1 0 0 0
+1 1280 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27182
+handcrafted slingshot~
+a handcrafted slingshot~
+A handcrafted slingshot lies here, collecting dust.~
+~
+5 0 4
+5 14 24 0 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27183
+catnip~
+some `#`ggreen`^ catnip~
+Some `#`ggreen`^ catnip lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#27184
+rawhide~
+a `#`yrawhide`^ chip~
+A `#`yrawhide`^ chip lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#27185
+scimitar frozen dreams~
+`#a scimitar of `cfrozen dreams`^~
+`#a scimitar of `cfrozen dreams`^ lies here.~
+~
+5 0 4
+15 4 3 274 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27185 scimitar frozen dreams~
+This scimitar curves slightly from the blade, and the metal has the 
+appearance of some sort of obsidian glass-like metal.  The extraordinary 
+thing about the blade is the fact that it is engulfed in ice crystals, yet 
+the cold on the blade seems nothing more than an illusion.  The hilt of the 
+sword is wrapped in black leather and a azure gem glimmers on the bottom of 
+the hilt.  
+~
+#0
+
+
+#ROOMS
+#27000
+Intersection of Carket Street and Bashem Road~
+~
+You are on a trash-covered street just before the north gates of a large 
+city.  The street runs south into the center of the city and small alleys 
+run east and west.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27104
+D1
+~
+~
+0 0 27100
+D2
+The street runs south into the city.
+~
+~
+0 0 27001
+D3
+~
+~
+0 0 27095
+R M 0 27015 12 27000
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+S
+#27001
+Carket Street North~
+~
+The street continues north and south here.  It is covered with trash, and is 
+not very smooth.  You can see the city gates a short way to the north.  
+Another wooden structure has been erected just to the west.  A small 
+building stands east, and there are signs posted in front.  
+~
+1 262144 1
+D0
+The street continues to the city gates.
+~
+~
+0 0 27000
+D1
+~
+~
+0 0 3500
+D2
+The street continues south into the city.
+~
+~
+0 0 27002
+D3
+~
+~
+0 0 27048
+R M 0 27025 4 27001
+  R E 0 27026 0 16
+E
+sign ~
+To the east:
+================================
+           |      |
+  -----------------------------
+ |   Throtyl Courier Service   |
+  -----------------------------
+ 
+ 
+To the west:
+================================
+           |      |
+   -------------------------
+  |    Zogo's Beastiary     |
+   -------------------------
+~
+E
+small building~
+It has a sign reading 'Throtyl Courier Services, LTD.'
+~
+E
+gates~
+The city gates stand open to the north.
+~
+E
+group buildings~
+Some oddly shaped buildings.  Go east and get a closer look.
+~
+E
+trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+E
+wooden structure~
+There is a sign on it, identifying it as "Zogo's Beastiary"
+~
+S
+#27002
+Carket Street North~
+~
+You are on an uneven, trash-covered street heading north from a wide
+square.  The street continues north from here, and there are
+sturdy looking buildings to the east and west.  There are signs
+hanging from both.
+~
+1 262144 1
+D0
+The street runs north through the city.
+~
+~
+0 0 27001
+D1
+Looks like a shop of some type.  There is a sign hanging on the front.
+~
+~
+0 0 27024
+D2
+~
+~
+0 0 27064
+D3
+Looks like a shop of some type.  There is a sign hanging on the front.
+~
+~
+0 0 27023
+R M 0 27018 6 27002
+  R E 0 27019 0 16
+E
+sign signs~
+To the west:
+
+===========================
+       |           |
+   ----------------------
+  [  <> Gems n stuff <>  ]
+   ----------------------  
+
+To the east:
+
+===========================
+       |           |
+   -----------------------
+  [    Bank of Throtyl    ]
+   -----------------------
+
+~
+E
+sturdy buildings~
+Sturdy looking buildings lie to the east and west.  There are
+signs hangins on both.
+~
+E
+trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27003
+Blasted Main Square~
+~
+A massive hole is in the center of this square.  It is completely black, and 
+evil seems to flow from its dark depths.  The entire square is blasted, 
+uneven and dirty, and cracked stone is everywhere.  There are piles of trash 
+all over the ground and against the nearby buildings.  The walls are 
+scorched black, but from what you cannot tell.  Streets lead in all four 
+major directions from here, and you can see shops and buildings lining those 
+streets.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27064
+D1
+The street runs east through the city.
+~
+~
+0 0 27010
+D2
+~
+~
+0 0 27065
+D3
+The street runs west through the city.
+~
+~
+0 0 27009
+R M 0 27015 12 27003
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+R M 0 27016 1 27003
+  R E 0 27018 0 5
+  R E 0 27017 0 16
+R M 0 27020 4 27003
+  R E 0 27022 0 16
+R M 0 27022 1 27003
+  R E 0 27021 0 12
+  R G 0 3032 0
+  R G 0 3033 0
+  R G 0 3034 0
+  R G 0 3035 0
+  R G 0 3062 0
+  R G 0 3036 0
+  R G 0 3037 0
+  R G 0 3038 0
+  R G 0 3039 0
+R O 0 27043 0 27003
+R O 0 27045 0 27003
+R M 0 27069 1 27003
+E
+walls graffiti~
+All sorts of crude graffiti is scrawled on the walls with paint 
+and some other dark red material that suspiciosly resembles
+blood.  Not much of it is legible.
+~
+E
+trash street~
+The ground is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27004
+Carket Street South~
+~
+The street here runs south through the city, or north into a 
+wide square.  There are large buildings to the east and west,
+each with a signpost in front.  There is quite a lot of trash
+littering the street.
+~
+1 262144 1
+D0
+~
+~
+0 0 27065
+D1
+~
+~
+0 0 27072
+D2
+The street continued south.
+~
+~
+0 0 27005
+D3
+A large building is to the west.  There is a sign in front.
+~
+~
+0 0 27025
+R M 0 27019 6 27004
+  R E 0 27020 0 16
+  R E 0 27021 0 12
+E
+sign signpost~
+To the west:
+ 
+=======================
+       |          |
+     ----------------
+    [    CHAOTICA    ]
+     ----------------  
+ 
+To the east:
+ 
+===========================
+       |           |
+   ----------------------
+  [  The Drunken Stupor  ]
+   ----------------------
+ 
+~
+E
+building buildings~
+The building to the east looks like an inn of some sort.  It 
+does not look like a very classy place, if the broken windows
+are any indication.  The building to the west is made of large
+stone blocks and looks like a temple of sorts.
+~
+E
+trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27005
+Carket Street South~
+~
+The street here has been cleaned up considerably.  A tall office structure 
+towers over its neighbours to the west here, with its marble exterior 
+finishes boasting its opulence.  A small balcony from the structure can be 
+seen overlooking the street from here.  A small, less significant building 
+is to the east.  The street continues to run north-south.  
+~
+1 262144 1
+D0
+The street runs north through the city.
+~
+~
+0 0 27004
+D1
+~
+~
+0 0 27038
+D2
+The gates are this way.
+~
+~
+0 0 27006
+D3
+~
+~
+0 0 27073
+R M 0 27018 6 27005
+R O 0 27042 0 27005
+E
+gates~
+The city gates.  Head south for a closer look.
+~
+E
+hovel run down~
+A small shack really.  Doesn't look too safe.
+~
+E
+ruts potholes~
+The street is very uneven and poorly maintained.
+~
+E
+heaps trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27006
+Intersection of Carket Street and Bodeebag Road~
+~
+You are on a dirty street intersecting Carket Street and Fhue Road.  To the 
+south you see some large gates.  Heading north, takes you towards the city 
+square, and east and west you see small alleys with shops placed randomly 
+alongside the road.  
+~
+1 262144 1
+D0
+The street heads toward the center of town.
+~
+~
+0 0 27005
+D1
+~
+~
+0 0 27084
+D2
+~
+~
+0 0 27057
+D3
+~
+~
+0 0 27080
+R M 0 27021 4 27006
+R M 0 27015 12 27006
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+E
+trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+E
+gates~
+The gates are standing wide open, and appear to be frozen that
+way by heavy rust.  Through them you can see the wasteland beyond.
+~
+S
+#27007
+Inside Gates~
+~
+You are on a filthy street inside the west gates of a city.  A street heads 
+east through the buildings, while the gates themselves stand wide open, 
+allowing a good view of a barren, muddy wasteland beyond.  You notice some 
+sort of horse station with carriages to the north.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27089
+D1
+The street heads toward the center of town.
+~
+~
+0 0 27008
+D2
+~
+~
+0 0 27074
+R M 0 27015 12 27007
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+R M 0 27019 6 27007
+  R E 0 27020 0 16
+  R E 0 27021 0 12
+E
+trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+E
+gates~
+The gates are standing wide open, and appear to be frozen that
+way by heavy rust.  Through them you can see the wasteland beyond.
+~
+S
+#27008
+Whortz Street West~
+~
+The street here runs east and west.  There are heaps of trash piled
+around on it, and many potholes and ruts.  You can see the city gates to the
+west, and a half-fallen structure to the north.  A run-down hovel is barely
+standing to the south.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27043
+D1
+~
+~
+0 0 27066
+D2
+A run down hovel is this way.
+~
+~
+0 0 27039
+D3
+The gates are this way.
+~
+~
+0 0 27007
+R M 0 27017 5 27008
+  R E 0 3022 0 3
+R M 0 27025 4 27008
+  R E 0 27026 0 16
+E
+gates~
+The city gates.  Head west for a closer look.
+~
+E
+hovel run down~
+A small shack really.  Doesn't look too safe.
+~
+E
+ruts potholes~
+The street is very uneven and poorly maintained.
+~
+E
+heaps trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27009
+Whortz Street West~
+~
+You are on a dirty street just to the west of a wide square.
+There are bits of trash heaped on the ground and against the
+small buildings to the north and south.  There are small signs
+dangling from the front of each building.
+~
+1 262144 1
+D0
+A small building is this way.  It appears to be a shop of some sort.
+~
+~
+0 0 27021
+D1
+A wide square.
+~
+~
+0 0 27003
+D2
+A small building is this way.  It looks like a shop.
+~
+~
+0 0 27022
+D3
+~
+~
+0 0 27066
+E
+sign signpost~
+To the north:
+
+===========================
+         |          |
+     --------------------
+    [  Elf Kabob's r Us  ]
+     --------------------  
+
+To the south:
+
+==========================
+     |            |
+   ------------------
+  [  Grok's Garbage  ]
+   ------------------
+ 
+~
+E
+building buildings~
+These small buildings appear to be shops of some type.  There are
+signs on each of them.
+~
+E
+bits trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27010
+Whortz Street East~
+~
+You are just east of a wide square, on a garbage-covered, uneven street.
+There are large stone buildings to your north and south, apparently
+shops from the signs and items displayed in the windows.  The street
+itself runs west to the square, or east through the city.
+~
+1 262144 1
+D0
+A weapon shop is this way.
+~
+~
+0 0 27019
+D1
+The street runs east.
+~
+~
+0 0 27011
+D2
+An armour shop is this way.
+~
+~
+0 0 27020
+D3
+A wide square is this way.
+~
+~
+0 0 27003
+R M 0 27017 5 27010
+  R E 0 3022 0 3
+E
+sign signpost~
+To the north:
+
+=====================================
+              |          |
+     ------------------------------
+    [  Dag's Instruments of Death  ]
+    [         -[---------          ]
+     ------------------------------
+
+To the south:
+
+==========================
+     |            |
+   ---------------------
+  [  Hobag's Gear Shop  ]
+   ---------------------
+
+~
+E
+building shop buildings~
+These small buildings appear to be shops of some type.  There are
+signs on each of them.
+~
+E
+garbage bits trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27011
+Whortz Street East~
+~
+The street runs east and west from here, and is very dirty and covered with 
+garbage.  There is a round black building to the north, from which you see 
+occasional flashes of light, and a sturdy square one to the south, from 
+which comes the sounds of combat and yelling.  There are signs on both.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27056
+D1
+~
+~
+0 0 27068
+D2
+~
+~
+0 0 27055
+D3
+The street runs west.
+~
+~
+0 0 27010
+R M 0 27015 12 27011
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+E
+sign signpost~
+To the north:
+
+====================
+        |     |
+     -------------
+    [   Arcanum   ]
+     -------------
+
+To the south:
+
+==========================
+      |           |
+   -------------------
+  [   Warrior's Pit   ]
+   -------------------
+
+~
+E
+building shop buildings~
+These small buildings appear to be shops of some type.  There are
+signs on each of them.
+~
+E
+garbage bits trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27012
+Intersection of Whortz Street and Muhkck Road~
+~
+You are at the intersection of two streets, one running north-south
+and the other east-west.  The streets themselves are very uneven and
+full of ruts, and are quite dirty.  Buildings line them in all four
+directions.  There is graffiti scrawled on just about every wall.
+~
+1 262144 1
+D0
+A street runs north.
+~
+~
+0 0 27016
+D1
+A street runs east.
+~
+~
+0 0 27013
+D2
+A street runs south.
+~
+~
+0 0 27017
+D3
+~
+~
+0 0 27068
+R O 0 3076 0 27012
+R M 0 27018 6 27012
+  R E 0 27019 0 16
+R M 0 27020 4 27012
+  R E 0 27022 0 16
+E
+building shop buildings~
+These small buildings appear to be shops or guild halls of some 
+type.  There are signs on each of them.
+~
+E
+dirty garbage bits trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+E
+graffiti~
+Lots of nasty graffiti in various languages, and crude pictures are
+drawn on the wall.
+~
+S
+#27013
+Whortz Street East~
+~
+You are at the end of an east-west street running through the city.  The 
+ground is quite dirty and trash-covered.  There are small structures north 
+and south of here.  There are signposts just off the street in front of the 
+buildings.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27059
+D2
+~
+~
+0 0 27062
+D3
+The street runs west into an intersection.
+~
+~
+0 0 27012
+R M 0 27017 5 27013
+E
+sign signpost~
+To the north:
+
+=========================
+         |        |
+     ------------------
+    [    Necromicon    ]
+     ------------------
+
+To the south:
+
+======================
+     |           |
+   -----------------
+  [  Thieves Union  ]
+   -----------------
+
+~
+E
+structure building shop buildings~
+These small buildings appear to be shops or guild halls of some 
+type.  There are signs on each of them.
+~
+E
+garbage bits trash street~
+The street is covered with trash of all sorts, including old
+scraps of armour, weapons, cloth and food.
+~
+S
+#27014
+Throytl Jail~
+~
+You are in the town's small prison.  The building itself is quite sturdy, 
+with thick stone walls and iron bars on the windows.  A few desks covered 
+with paperwork are here, and some cramped cells are around the main room.  
+An exit to the street is east. 
+~
+1 33816588 0
+D1
+~
+~
+0 0 27053
+D3
+~
+door~
+33 27027 27107
+S
+#27015
+Muhkck Road ~
+~
+The alley heads to the north, or proceeds south into the city.  There is a 
+small shack to the west and a large stone structure to the north which looks 
+very inviting.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27096
+D2
+The street runs south.
+~
+~
+0 0 27016
+D3
+~
+~
+0 0 27071
+E
+shack~
+A large run-down shack.  There are screams and laughing coming from it.
+~
+E
+street~
+Garbage covered and generally poorly maintained.
+~
+S
+#27016
+Muhkck Road ~
+~
+The street runs north and south here.  It comes to an intersection to the 
+south.  There is a building up ahead to the east of the road that is made of 
+stone and is a bit nicer than the surrounding structures.  
+~
+1 262144 1
+D0
+The street goes north towards a dead end.
+~
+~
+0 0 27015
+D2
+The street runs into an intersection to the south.
+~
+~
+0 0 27012
+R M 0 27015 12 27016
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+E
+building stone~
+A building to the west that is made of light grey stone and isn't
+quite as run-down as the rest.
+~
+E
+street~
+Not very well maintained, and covered with garbage.
+~
+S
+#27017
+Muhkck Road ~
+~
+You are on a dirty street which runs south towards a back alley, and north 
+into an intersection.  There are not any buildings along this section, just 
+huge piles of rubble where they once stood.  
+~
+1 262144 1
+D0
+The street runs north into an intersection.
+~
+~
+0 0 27012
+D2
+The street runs south towards a dead end.
+~
+~
+0 0 27018
+R M 0 27015 12 27017
+  R E 0 27015 0 5
+  R E 0 27016 0 16
+E
+piles rubble~
+A huge pile of rubble conceals a hidden entrance to the west!!
+~
+E
+dirty street~
+The street is uneven and has a lot of ruts.
+~
+S
+#27018
+Muhkck Road ~
+~
+This dirty street runs north and south through the city.  To the west 
+someone has left an old shabby wagon which looks like it is unstable on its 
+wheels.  Along the southward direction the road seems to descend slightly.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27017
+D2
+~
+~
+0 0 27053
+D3
+~
+~
+0 0 27060
+E
+hovel~
+This small shack is very poorly built and maintained.  It doesn't
+look very safe.
+~
+E
+dirty street~
+The street is uneven and has a lot of ruts.
+~
+S
+#27019
+Dag's Instruments of Death~
+~
+This shop is very tightly packed and it is difficult to move around.
+Every spare space on the wall or racks is taken up by a weapon of
+some sort for sale.  The weapons range from tiny knives to huge two-
+handed axes, and there seems to be something for just about everyone.
+The exit to the street is south.
+~
+1 262152 0
+D2
+The exit to the street.
+~
+~
+0 0 27010
+R M 0 27002 1 27019
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+  R G 0 3054 0
+  R G 0 3055 0
+  R G 0 3056 0
+  R G 0 3057 0
+  R G 0 3058 0
+  R G 0 3059 0
+  R G 0 3060 0
+  R G 0 3061 0
+  R G 0 3135 0
+E
+weapon~
+All types and sizes of weapons are for sale here.
+~
+S
+#27020
+Hobag's Gear & Repair Shop~
+~
+This shop sells armour and protective items of all sorts, from the look
+of it.  There is just about everything you could imagine for sale, from
+giant sized platemails to tiny rings and bracelets.  The exit to the
+street is north.
+~
+1 262152 0
+D0
+The exit to the street.
+~
+~
+0 0 27010
+R O 0 418 0 27020
+R M 0 27003 1 27020
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+  R G 0 3046 0
+  R G 0 3047 0
+  R G 0 3048 0
+  R G 0 3049 0
+  R G 0 3050 0
+  R G 0 3051 0
+  R G 0 3052 0
+  R G 0 3053 0
+  R G 0 27075 0
+E
+armour protective items platemails rings bracelets~
+All sorts of armour is for sale.
+~
+S
+#27021
+Elf Kabob's R Us~
+~
+This little shop is filthy and disgusting, and it is hard to tell the
+items for sale from the garbage on the floor.  It appears that they 
+sell food here, if you want to call it that.  The only exit is south.
+~
+1 262152 0
+D2
+The exit to the street.
+~
+~
+0 0 27009
+R M 0 27000 1 27021
+  R E 0 27000 0 7
+  R G 0 27002 0
+  R G 0 27003 0
+  R G 0 27049 0
+  R G 0 27004 0
+  R G 0 27005 0
+  R G 0 27048 0
+E
+items garbage food~
+Type 'list' for a menu.
+~
+S
+#27022
+Grok's Garbage Shop~
+~
+This appears to be a general store of sorts.  Most of the items for sale 
+appear to be garbage, but there are a few which might be useful.  There is 
+an exit north to the street.  
+~
+1 262152 0
+D0
+The exit to the street.
+~
+~
+0 0 27009
+R M 0 27001 1 27022
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+  R G 0 3027 0
+  R G 0 3082 0
+  R G 0 3026 0
+  R G 0 3083 0
+  R G 0 3087 0
+  R G 0 3088 0
+  R G 0 28 0
+  R G 0 3134 0
+  R G 0 3137 0
+  R G 0 3141 0
+E
+garbage items~
+Type 'list' to see what's for sale today.
+~
+S
+#27023
+Gems n Stuff~
+~
+This shop is not too badly appointed when compared to the rest of the
+dumps surrounding it.  There are some tapestries on the wall, and even a few
+showcases.  The cases are locked with huge padlocks, and have extremely
+thick glass, maybe this is a high crime area.  There are also a few shelves
+loaded with books and scrolls.  The only exit is east.  
+~
+1 262152 0
+D1
+The exit to the street.
+~
+~
+0 0 27002
+R M 0 27004 1 27023
+  R E 0 3019 0 12
+  R G 0 3040 0
+  R G 0 3066 0
+  R G 0 3067 0
+  R G 0 3068 0
+  R G 0 3077 0
+E
+cases padlock~
+Thick glass cases, in which gems and jewelry are displayed.  They are
+locked with huge padlocks and look quite secure.
+~
+E
+tapestries~
+After closer examination, you see that the tapestries depict various
+sexual themes, most quite unnatural and perverted.
+~
+S
+#27024
+Bank of Throtyl~
+~
+This place is built with security in mind, from the looks of it.  There
+is only one exit to the west, and along the east wall a counter, which
+is protected by thick steel bars.  Behind the bars are the bank tellers,
+who will help you store your money and hopefully only embezzle a small
+amount of each deposit if you're lucky.
+~
+1 262216 0
+D3
+The exit to the street.
+~
+~
+0 0 27002
+E
+bank tellers~
+Seedy looking humans who grab the money quickly as soon as it's set down
+on the table.
+~
+E
+counter thick steel bars~
+The counter stretches across the east side of the room, and is protected
+by unbendable steel bars.
+~
+S
+#27025
+Chaotica~
+~
+This small temple appears to be dedicated not to any god, but to chaos 
+itself.  The walls are covered with arcane writings, as well as murals and 
+drawings of orcs, gnolls, kobolds, and humans engaging in bizarre rituals in 
+which they sacrifice their own blood and body parts.  There is a black altar 
+in the front of the room, upon which stands several bowls of blood, ready 
+for some evil ceremony.  The only exit is to the east.  
+~
+1 263176 0
+D1
+The exit to the street.
+~
+~
+0 0 27004
+R M 0 27005 1 27025
+  R E 0 27006 0 12
+R M 0 27006 2 27025
+  R E 0 27007 0 12
+  R E 0 27009 0 16
+R M 0 27006 2 27025
+  R E 0 27007 0 12
+  R E 0 27009 0 16
+R O 0 19 0 27025
+E
+bowls blood~
+Several bowls, each filled with blood.  Most of the blood is red, but
+some is green and black, and definitely not from a human.
+~
+E
+black altar~
+A black stone altar, which appears to suck the light out of the room.
+~
+S
+#27026
+The Pestilence Pit Inn~
+~
+The common room of this inn is a mess.  All the furniture and tables seem to 
+have been been broken and cobbled back together many times, undoubtedly from 
+drunken bar brawls.  The floor is very sticky from spilled drinks and food, 
+and there are some glass shards here and there that no one has bothered to 
+clean up.  The bar itself is along the south wall, and looks at least like 
+someone has wiped it off some time in the near past.  There is a doorway to 
+common room to the north, a narrow staircase leading down, and a hallway 
+goes north to some guest rooms.  The exit to the street is south.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27027
+D3
+~
+~
+0 0 27096
+D5
+A narrow stairway down.
+~
+~
+0 0 27028
+R O 0 3078 0 27026
+R O 0 3079 0 27026
+R O 0 3080 0 27026
+R O 0 3081 0 27026
+R M 0 27007 1 27026
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+  R G 0 3041 0
+  R G 0 3042 0
+  R G 0 3044 0
+  R G 0 3045 0
+  R G 0 27009 0
+  R G 0 27010 0
+  R G 0 3063 0
+  R G 0 27011 0
+  R G 0 3085 0
+R M 0 27021 4 27026
+  R E 0 27023 0 16
+  R E 0 27024 0 5
+  R E 0 27047 0 11
+E
+staircase~
+A narrow staircase leading down, probably to the storage cellar.
+~
+E
+bar~
+A long wooden bar, behinh which you see some barrels and bottles.
+~
+E
+glass shards~
+Glass shards from broken glasses and bottles.
+~
+E
+furniture tables~
+Pretty shoddy workmanship, and broken many times over.
+~
+S
+#27027
+Common Room~
+~
+This small back room has a stone fireplace, and some furniture that seems to 
+be a bit nicer and in better condition than that in the common room.  It has 
+its own small bar, and seems to be a more private place where some of the 
+more wealthy patrons can come to gamble, play games, or hold important or 
+secret meetings.  A staircase leads up to the guest rooms, and the inn 
+entrance is to the south.  
+ 
+Type LIST to view the rooms for rent.
+~
+1 1074003976 0
+D2
+~
+~
+0 0 27026
+D4
+~
+~
+0 0 27029
+R M 0 27008 1 27027
+  R E 0 27012 0 12
+E
+furniture~
+Some sturdy wooden chairs with padding, and two nice tables.
+~
+E
+bar~
+A small bar, behind which you see some barrels and bottles.
+~
+E
+stone fireplace~
+A nice little stone fireplace to keep the place warm.
+~
+S
+#27028
+Storage Cellar~
+~
+This large cellar appears to be used for storage of food, barrels, 
+and various other things an inn might need.  Everything is piled
+around haphazardly, and some of the food seems to be rotting.  It
+would explain the nauseating small, anyway.  The only exit is a 
+narrow staircase leading up.
+~
+1 262153 0
+D4
+A staircase leads up.
+~
+~
+0 0 27026
+R M 0 27009 2 27028
+R M 0 27009 2 27028
+E
+staircase~
+A narrow wooden staircase leads up.
+~
+E
+food barrel things~
+Various foodstuffs and barrels are stacked here.
+~
+S
+#27029
+Hallway~
+~
+This hallway is very short, and connects the common room to the south with 
+the guest rooms to the east, west, and north.  A stairway leads down to the 
+common room.  
+~
+1 262152 0
+D5
+~
+~
+0 0 27027
+S
+#27030
+Guest room~
+~
+This guest room is rather small and poorly furnished when compared 
+to others you've seen.  There is a lumpy mattress lying along one
+wall, and a small dented basin of dirty water.  A filthy window 
+looks out to the west, and the only exit is east.
+~
+1 262152 0
+D1
+~
+~
+0 0 27029
+E
+window~
+So dirty that you can barely see the street beyond throuh it.
+~
+E
+basin~
+A small dented metal basin, filled with dirty water.
+~
+E
+lumpy mattress~
+A lumpy old mattress, made of cloth and straw.
+~
+S
+#27031
+Guest room~
+~
+This guest room is rather small and poorly furnished when compared 
+to others you've seen.  There is a lumpy mattress lying along one
+wall, and a small dented basin of dirty water.  A filthy window 
+looks out to the east, and the only exit is west.
+~
+1 262152 0
+D3
+~
+~
+0 0 27029
+E
+window~
+So dirty that you can barely see the street beyond throuh it.
+~
+E
+basin~
+A small dented metal basin, filled with dirty water.
+~
+E
+lumpy mattress~
+A lumpy old mattress, made of cloth and straw.
+~
+S
+#27032
+Guest room~
+~
+This guest room is rather small and poorly furnished when compared 
+to others you've seen.  There is a lumpy mattress lying along one
+wall, and a small dented basin of dirty water.  A filthy window 
+looks out to the north, and the only exit is south.
+~
+1 262152 0
+D2
+~
+~
+0 0 27029
+E
+window~
+So dirty that you can barely see the street beyond through it.
+~
+E
+basin~
+A small dented metal basin, filled with dirty water.
+~
+E
+lumpy mattress~
+A lumpy old mattress, made of cloth and straw.
+~
+S
+#27033
+Arcanum~
+~
+This building is a chaotic mess.  Magic-users of all races are scattered
+around the place practicing spells on themselves and on each other, often
+with spectacular results.  You can even see a few piles of ashes lying
+on charred spots on the floor where a few have backfired.  This certainly
+seems to be the center for magic in this town.  There even appear to be a
+few things for sale.  The only exit is south.
+~
+1 262152 0
+D2
+~
+~
+0 0 27056
+R M 0 27010 1 27033
+  R E 0 27013 0 5
+  R G 0 3028 0
+  R G 0 3087 0
+  R G 0 3088 0
+  R G 0 3136 0
+E
+magic users~
+A lot of mages, of all races, are here practicing their spells.
+~
+E
+ashes charred spots~
+Oops.  Some mage made a little mistake.
+~
+S
+#27034
+Fighter's Pit~
+~
+Here is a small arena type area where local warriors train.  You see
+some using wooden swords to spar but from the many bloody spots on the
+ground it is obvious that it often gets a lot rougher.  The only exit
+is to the north.
+~
+1 262152 0
+D0
+~
+~
+0 0 27055
+R M 0 27011 1 27034
+  R E 0 3009 0 5
+  R G 0 3179 0
+  R G 0 3141 0
+  R G 0 3178 0
+R M 0 27025 4 27034
+  R E 0 27026 0 16
+E
+bloody spots~
+Spots on the grousn where someone obviously lost a lot of blood.  Not all
+or it is red blood either.  As you take a closer look you notice several
+limbs and fingers lying around also!
+~
+S
+#27035
+Cleric's Guild~
+~
+This building is a small temple of sorts, but what is odd is that it doesn't
+seem to be for just one god.  There are a number of different holy symbols
+displayed around the room, and clerics talking amongst themselves or more
+commonly bickering with each other.  The only exit is south.
+~
+1 262152 0
+D2
+~
+~
+0 0 27059
+R M 0 27012 1 27035
+  R E 0 27014 0 12
+  R G 0 3175 0
+  R G 0 3174 0
+  R G 0 3173 0
+E
+holy symbols~
+All sorts of strange holy symbols are displayed around the room.
+~
+S
+#27036
+Thieves Union~
+~
+This must be a lawless town indeed, for here is the main guild of thieves, 
+right here in the open in the middle of the city.  There are several shadowy 
+figures talking softly among themselves, or comparing daggers and other 
+items.  The only visible exit is to the west.  
+~
+1 262152 0
+D3
+~
+~
+0 0 27058
+R M 0 27013 1 27036
+  R E 0 3011 0 5
+  R G 0 3082 0
+  R G 0 3177 0
+  R G 0 3176 0
+S
+#27037
+Tohakrah's Works of Wood~
+~
+This building is generally well lit and clean compared to the rest of the 
+city.  The smell of woodshavings fills the place, and they crunch softly 
+beneath your feet as you enter the shop.  A draconian is building something 
+out of wood at the far end of the shop.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27080
+R M 0 27095 1 27037
+  R G 0 27087 0
+  R G 0 27088 0
+  R G 0 27089 0
+  R G 0 27182 0
+  R E 0 27000 0 7
+E
+stone fireplace~
+A nice fireplace build from light grey stone.
+~
+E
+tables chairs~
+Well crafted wooden tables and chairs.
+~
+S
+#27038
+Barin's Metal Works~
+~
+A huge furnace burns with an intense fire in this forgery.  Weapons and 
+armour of all sorts and manner lie scattered about all around the place.  An 
+anvil and a tub full of water lies in the middle of this forgery.  The heat 
+in this building is so hot, that sweat trickles down your forehead.  
+~
+1 262156 0
+D3
+~
+~
+0 0 27005
+R O 0 27029 0 27038
+R O 0 27030 0 27038
+R M 0 27045 1 27038
+  R G 0 27074 0
+  R G 0 27075 0
+  R E 0 27000 0 7
+E
+ceiling wall rubble~
+The ceiling and wall are in the process of slowly collapsing because of
+lack of maintenance and poor construction in the first place.
+~
+S
+#27039
+Run-down Hovel~
+~
+This run down hovel is has deteriorated to the point where it is ready
+to collapse into rubble.  Already a section of the ceiling and one wall
+have caved in.  The exit to the street is north.
+~
+1 262152 0
+D0
+The exit to the street.
+~
+~
+0 0 27008
+E
+ceiling wall rubble~
+The ceiling and wall are in the process of slowly collapsing because of
+lack of maintenance and poor construction in the first place.
+~
+S
+#27040
+Run-down Hovel~
+~
+This run down hovel is has deteriorated to the point where it is ready
+to collapse into rubble.  Already a section of the ceiling and one wall
+have caved in.  There appears to be some wood under one small pile of
+stones.  The exit to the back alley is north.
+~
+1 262152 0
+D0
+~
+~
+0 0 27085
+D5
+~
+trapdoor~
+1 0 33450
+R M 0 27019 6 27040
+  R E 0 27020 0 16
+  R E 0 27021 0 12
+S
+#27041
+Russuth's Furry Items~
+~
+This big shack is home to furs, strung on lines over the ceiling.  Cloaks 
+are attached to the walls, as a display.  There is a large feylar tanning 
+hides, and skinning the furs off animals at the back of the shack.  To the 
+north is a small alley-way.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27084
+R M 0 27014 1 27041
+  R G 0 27110 0
+  R G 0 27111 0
+  R G 0 27112 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+E
+manacles chains~
+The look pretty strong.
+~
+E
+thumbscrews~
+Small devices that inflict great pain through the hands of the victim.
+~
+E
+rack~
+A large table-like device with rope, meant for stretching a victim until
+they are pulled apart rather messily.
+~
+E
+iron maidens~
+Large body-shaped cases with spikes inside.
+~
+S
+#27042
+A Hovel~
+~
+You find youself inside of a small stuffy room.  There is paint peeling off 
+of the walls and the carpet has several holes in it.  
+~
+1 8 0
+D2
+~
+~
+0 0 27084
+R M 0 27068 1 27042
+S
+#27043
+Megrak's Mules~
+~
+This disgusting half-building is more of an open mud pit than a real
+enclosed area.  Some of the less wet parts have been roped off into stalls
+of sorts, and the place appears to be used as a rough stable.  There is some
+old moldy straw lying here and there, and a few buckets of rotten smelling
+food.  
+~
+1 266240 0
+D2
+~
+~
+0 0 27008
+R M 0 27027 1 27043
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+E
+food~
+Buckets full of rooten food.
+~
+E
+buckets~
+Buckets full of some old rotten food.
+~
+E
+straw~
+Old, moldy straw.  Very disgusting.
+~
+E
+stall~
+Crude stalls outlines by old ropes.
+~
+S
+#27044
+Throtyl Stable Storage Room~
+~
+~
+1 294916 0
+R M 0 27028 200 27044
+R M 0 27029 200 27044
+R M 0 27030 200 27044
+S
+#27045
+Inside a Shabby Wagon~
+~
+The interior walls of this wagon are made of roughly hewn, unfinished wooden 
+planks. Some wooden boxes have been arranged around a larger wooden crate 
+making a table of sorts. Two small windows border the door to the north, 
+both of them covered with rags that serve to keep out prying eyes but still 
+allow a bit of light to filter inside. 
+~
+1 262144 0
+D0
+~
+door~
+1 0 27060
+R M 0 27026 1 27045
+  R E 0 3011 0 5
+  R G 0 3082 0
+  R G 0 3180 0
+  R G 0 3028 0
+E
+window ~
+There is a small window on both sides of the door. The glass has long ago 
+been smashed from the frames. Curtains, or more accurately rags, are affixed 
+on the interior, blocking your view outside the wagon. 
+~
+S
+#27046
+Throtyl Rags~
+~
+This small room is absolutely stuffed full of clothing on crude racks.  
+There are all types and qualities.  Whoever designed these garments, lacks 
+good taste however, as the items seems to be a little out of the ordinary.  
+The only exit is east.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27066
+R M 0 27031 1 27046
+  R G 0 27098 0
+  R G 0 27099 0
+  R G 0 27100 0
+  R G 0 27101 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+E
+clothing racks~
+All types of clothing is hangin on the crude wooden racks.
+~
+S
+#27047
+Slaughterhouse~
+~
+Bloody meats of all types are hanging on hooks in this roughly built shack.  
+Blood stains mark the floor, and the shopkeeper has made no attempt to keep 
+the place clean.  A half-orc, as blood-stained as the rest of the shop, is 
+hacking into a carcus with a large saw at the back of the shack.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27086
+R M 0 27032 1 27047
+  R G 0 27084 0
+  R G 0 27085 0
+  R G 0 27086 0
+  R E 0 27001 0 5
+  R E 0 27000 0 7
+  R G 0 27175 0
+  R G 0 27176 0
+S
+#27048
+Zogo's Beastiary~
+~
+This place is absolutely stuffed with wood and metal cages, all
+containing various animals.  Most of them are shrieking, howling, crying, or
+making some sort of noise, making it quite loud and chaotic in here.  The
+only exit is to the east.  <Type 'list' to see what pets are available> 
+~
+1 266248 0
+D1
+~
+~
+0 0 27001
+R M 0 27033 1 27048
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27049
+Throtyl Pet Storage Room~
+~
+~
+1 4489220 0
+R M 0 27034 111 27049
+R M 0 27035 111 27049
+R M 0 27036 111 27049
+R M 0 27037 111 27049
+R M 0 27038 111 27049
+R M 0 27039 111 27049
+R M 0 27040 111 27049
+R M 0 27041 111 27049
+R M 0 27043 111 27049
+R M 0 27044 111 27049
+R M 0 27050 111 27049
+R M 0 27051 111 27049
+R M 0 27052 111 27049
+R M 0 27053 111 27049
+R M 0 27054 111 27049
+R M 0 27055 111 27049
+R M 0 27056 111 27049
+R M 0 27057 111 27049
+R M 0 27058 111 27049
+R M 0 27042 1 27049
+S
+#27050
+Carriage Station~
+~
+Stables filled with horses surround this area, as well as carriages lying 
+around in rows.  The smell of unkept stables fill the area, with its horrid 
+smell, its repulsing scent acrid in the air.  To the north lies a small 
+wooden building and a sign hangs off of it beside its entrance.  
+~
+1 262148 1
+D0
+~
+~
+0 0 27051
+R O 0 27039 0 27050
+R M 0 27046 1 27050
+R M 0 27048 1 27050
+  R E 0 27001 0 5
+  R E 0 27000 0 7
+E
+sign ~
+MAIN OFFICE FOR Throtyl TRANSPORTATION BUSINESS
+Tickets sold inside.
+~
+S
+#27051
+Small Dirty Office~
+~
+Bookshelves line all across the walls, the air is filled with a dust, and 
+body odor.  At the northern end of the office, there's a small wooden desk 
+and a few chairs sitting around it.  You can hear horses neighing in the 
+distance and the sounds of carriages returning from their trips out.  
+~
+1 262156 0
+D0
+~
+~
+0 0 27094
+D2
+~
+~
+0 0 27050
+R O 0 27037 0 27051
+R O 0 27038 0 27051
+R M 0 27047 1 27051
+  R G 0 27040 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27052
+Inside A Wooden Carriage~
+~
+You are inside a small wooden carriage, velvet seats line all four corners 
+of it and its small wooden door sits clamped shut on its left side.  One 
+small window is to the right, where you can look out as the carriage moves 
+along.  
+~
+1 4456460 0
+R M 0 27059 1 27052
+R M 0 27049 1 27052
+R M 0 27071 1 27052
+R O 0 27041 0 27052
+S
+#27053
+Muhkck Road ~
+~
+The road takes a sharp turn to the south of here.  Clumps of dirt lie 
+scattered across the road that have deep cuts where carts have ridden.  To 
+the east you notice a crudely constructed shack with a small sign posted out 
+front.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27018
+D1
+~
+~
+0 0 27083
+D2
+~
+~
+0 0 27087
+D3
+~
+~
+0 0 27014
+E
+sign ~
+===========================
+      |       |
+  ---------------------
+ | Mysteries of Magick |
+  ---------------------
+~
+S
+#27054
+Boats and Bait~
+~
+Strewn about this large shack are several boats and canoes, and a few 
+roughly-built rafts constructed from logs and sticks.  On the counter are 
+jars of squirming worms.  A half-orc peers at you with one eye, and every so 
+often shakes a jar of worms, just for fun.  
+~
+1 262144 0
+D0
+~
+~
+0 0 27078
+R M 0 27023 1 27054
+  R G 0 3029 0
+  R G 0 3030 0
+  R G 0 3031 0
+  R G 0 27103 0
+  R E 0 27000 0 7
+S
+#27055
+A Darkened Barracks~
+~
+Old, wooden bunkbeds line the stark walls of this darkened room. Several low 
+burning torches provide what little light there is. In one corner near the 
+exit to the busy street, some gnoll soldiers sit at a table playing a game 
+of cards. Now and again they break up the game and start argueing with one 
+another. 
+~
+1 262152 0
+D0
+~
+~
+0 0 27011
+D2
+~
+~
+0 0 27034
+R M 0 27063 1 27055
+S
+#27056
+The Seer's Chamber~
+~
+The room is cramped and dimly lit, almost shabby in appearance.  Tattered 
+blue curtains sway to the gusty wind and from the tassles on the front 
+entrance you can see the bustling crowd and busy street.  Scented candles 
+hand on tiny holders on the walls and the strong smell of incense fills the 
+room.  To the far end of the room a heavy velvet curtain of midnight blue 
+covers what seems like a tiny entrance.  Bright yellow stars and half moons 
+are roughly sewn on the cloth, an almost gaudy tribute to the world of 
+magic.  A large handcrafted wooden `#`ysign`^ hangs on one wall.  It is surrounded 
+by candles and looks a bit singed from the dripping wax.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27033
+D2
+~
+~
+0 0 27011
+R M 0 27067 1 27056
+E
+sign ~
+`#`y@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+`#`y@@                                 @@
+`#`y@@   `#`MMADAME ILLADRA KNOWS ALL!     `#`y@@
+@@   `#`BFOR A `#`SHUNDRED SILVER `#`BYOUR     `#`y@@
+@@   `#`BDESTINY SHALL BE REVEALED     `#`y@@
+@@                                 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+~
+S
+#27057
+Inside Gates~
+~
+You are on a dirty street just inside the south gates of a city.  The street 
+heads north through the buildings, while the gates themselves stand wide 
+open, allowing a good view of the barren, muddy wasteland beyond.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27006
+E
+tome ~
+`yThe tome is filled with delicate yellowed paper. The pages are crumpled and burned as if wet by rain and burned by a great fire. The ink has run through and the words that are left are a mere jumble of letters. A title is embossed in ancient elven script on the stained leather cover. Though the tome is so old it seems about to fall apart the words still glow with enchantment:
+`1
+                       `CTHE ESSENCE OF MAGIC
+`1
+`yOnly a single page has been saved of this once magnificent tome. Perhaps if you read the `Spage `yyou may make some sense of the words.`^
+~
+S
+#27058
+Honest Nick's Pawn Shop~
+~
+This small shop is crowded with wares, all of them behind glass or metal. A 
+small window, too dirty to actually see through, lets just enough light in 
+so that you can see how remarkably dusty this shop is. A counter, placed 
+about half way into the shop, has either been put there to serve customers 
+or to prevent you from going deeper into the shop. Or both. 
+~
+1 262152 0
+D1
+~
+~
+0 0 27036
+D3
+~
+~
+0 0 27075
+R M 0 27075 1 27058
+  R E 0 27000 0 7
+S
+#27059
+A Shadowed Corridor~
+~
+Bathed in shadows, this narrow corridor opens to the street its southern 
+exit and leads deeper into shadows to the north. The air is quiet and all 
+sounds are strangely muted. In width, it spans perhaps four or five feet but 
+the shadows deepen against the walls making it difficult for you to be sure. 
+
+~
+1 262152 0
+D0
+~
+~
+0 0 27035
+D2
+~
+~
+0 0 27013
+R M 0 27079 1 27059
+S
+#27060
+A Shabby Wagon~
+~
+Climbing a set of rickety stairs, you find yourself at the back door of a 
+shabby wagon. At one time it was painting with gaudy colours of red, gold 
+and silver, but the paint and words have long since faded leaving only the 
+barest suggestions of their original design. On each side of the door is a 
+window, the glass long since smashed from the frames. 
+~
+1 262144 0
+D1
+~
+~
+0 0 27018
+D2
+~
+~
+1 0 27045
+R M 0 27083 1 27060
+E
+window ~
+There is a small window on both sides of the door. The glass has long ago 
+been smashed from the frames. Curtains, or more accurately rags, are affixed 
+on the interior, blocking your view inside the wagon. 
+~
+S
+#27061
+Inside a Shabby Wagon~
+~
+The interior walls of this wagon are made of a roughly hewn, unfinished 
+wooden planks. Some wooden boxes have been arranged around a larger wooden 
+crate making a table of sorts. Two small windows border the door to the 
+north, both of them covered with rags that serve to keep out prying eyes but 
+still allow a bit of light to filter inside. 
+~
+1 262152 0
+D0
+~
+~
+0 0 27079
+R M 0 27098 1 27061
+  R G 0 27113 0
+  R G 0 27114 0
+  R G 0 27115 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27062
+A Dark Chapel~
+~
+This large hall has is dark and unaturally cold.  Long black velvet curtains 
+line the four sides of the hall, not letting in a single light from outside. 
+ Looking up at the high domed ceiling, you notice a single glowing dark red 
+orb, bathing the large hall in an eerie red glow.  There are four large 
+circular columns at each corner of the hall.  The floor is deep blood red 
+marbled and polished to a mirror finish.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27013
+D2
+~
+~
+0 0 27063
+R M 0 27084 1 27062
+S
+#27063
+Paladins' Guild~
+~
+This large room is dark.  Long pitch black heavy curtains line the walls, 
+giving the hall a dark, claustophobic air.  Some heavy wrought iron chairs 
+are pushed against a round table on the left side of the hall.  A large 
+bookshelf filled with tomes and books of religious and theoretical manuals 
+line the south wall of the room.  A large black marble `#`ssign`^ hangs 
+prominantly on the west wall.  A large blue orb hovers above, lighting the 
+room with a dark gloomy blue light.  The floor tiled with polished black 
+marble slabs.  
+~
+1 262152 0
+D0
+~
+~
+0 0 27062
+R M 0 27088 1 27063
+  R G 0 3183 0
+  R G 0 3182 0
+  R G 0 3181 0
+E
+sign ~
+The neatly carved black marble sign gleams in the blue light, the letterings etched neatly.
+ 
+       `#`s+=============================+
+       |                             |
+       | `#`WMy Honour and Life are One,`^ `#`s|
+       |    `#`WTake Honour from Me,`^     `#`s|
+       |       `#`WAnd I am Done.`^        `#`s|
+       |                             |
+       +=============================+`^   
+~
+S
+#27064
+Carket Street North~
+~
+You are on an uneven, trash-covered street, just north of a wide square.  
+The street continues north from here, and there are sturdy looking buildings 
+up ahead to the east and west.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27002
+D2
+~
+~
+0 0 27003
+S
+#27065
+Carket Street South~
+~
+The street here runs south through the city, or north into a wide square.  
+There are large buildings further to the south.  There is quite a lot of 
+trash littering the street.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27003
+D1
+~
+~
+0 0 27108
+D2
+~
+~
+0 0 27004
+S
+#27066
+Whortz Street West~
+~
+You are on a dirty street heading west of the main square.  There are bits 
+of trash heaped on the ground and against the small buildings to the north 
+and south.  There are small signs dangling from the front of each building.  
+
+~
+1 262144 1
+D0
+~
+~
+0 0 27067
+D1
+~
+~
+0 0 27009
+D2
+~
+~
+0 0 27046
+D3
+~
+~
+0 0 27008
+E
+sign ~
+To the north:
+=============================
+            |    |
+    ----------------------
+   |    Something Fishy   |
+    ----------------------
+ 
+To the south:
+=============================
+           |      |
+    ----------------------
+   |     Throtyl Rags     |
+    ----------------------
+~
+S
+#27067
+Something Fishy~
+~
+The undeniably fishy odour of this shop overwhelms you before you even step 
+inside the shop.  You notice a display of fish placed on wilting leaves near 
+the counter.  Behind the counter, is a bench where a dwarven fellow is 
+removing the scales from a fish.  
+~
+1 262144 0
+D2
+~
+~
+0 0 27066
+R M 0 27097 1 27067
+  R G 0 27095 0
+  R G 0 27096 0
+  R G 0 27097 0
+  R G 0 27102 0
+  R E 0 27001 0 5
+  R E 0 27000 0 7
+S
+#27068
+Whortz Street East~
+~
+The street runs east and west from here, and is very dirty and covered with 
+garbage.  There is a stone structure to the north, from which you see a 
+stream of black smoke filtering out of a chimney on the roof.  To the south 
+is a structure with a mixture of unfamiliar smells drifting out of it.  
+There are signs on both buildings.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27069
+D1
+~
+~
+0 0 27012
+D2
+~
+~
+0 0 27070
+D3
+~
+~
+0 0 27011
+E
+sign ~
+To the north:
+=================================
+              |   |
+    --------------------------
+   |   Kigor the Coppersmith  |
+    --------------------------
+ 
+To the south:
+=================================
+             |     |
+    -------------------------
+   |   Foreign Delicacies    |
+    -------------------------
+~
+S
+#27069
+Kigor the Coppersmith~
+~
+The sounds of metal being banged into shape fills this small shack.  A 
+furnace burns along one side, puffing clouds of grey smoke through a chimney 
+to the sky above.  A lanky lizardman is the coppersmith here, and noticing 
+you, he stops for a moment to wipe the sweat from his brow, before 
+continuing to hammer.  
+~
+1 262144 0
+D2
+~
+~
+0 0 27068
+R M 0 27090 1 27069
+  R G 0 27076 0
+  R G 0 27077 0
+  R G 0 27078 0
+  R E 0 27000 0 7
+R O 0 27029 0 27069
+R O 0 27030 0 27069
+S
+#27070
+Foreign Delicacies~
+~
+A mingle of unfamiliar smells greets you as you enter this makeshift 
+building.  There are several glass counters in the room displaying what seem 
+to be delicacies, and foreign ones at that since there seem to be no 
+recognisable foods from the local area.  A drooling troll stands at the 
+counter.  
+~
+1 262144 0
+D0
+~
+~
+0 0 27068
+R M 0 27091 1 27070
+  R G 0 27079 0
+  R G 0 27080 0
+  R G 0 27081 0
+  R G 0 27082 0
+  R G 0 27083 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27071
+Maps and Parchments~
+~
+This small shack, seems dimly lit, making it difficult to read the labels on 
+the maps and parchments available for sale.  A runty kobold is shuffling 
+through maps, and mumbling to himself as he works.  There is an exit to the 
+east.  
+~
+1 262144 0
+D1
+~
+~
+0 0 27015
+R M 0 27092 1 27071
+  R G 0 28 0
+  R G 0 3199 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27072
+The Drunken Stupor~
+~
+Brawling drinkers sit around the bar, spilling their drinks and harassing 
+the troll serving at the bar.  The smell of smoke wafts through the air.  
+The troll grunts a nod in your direction, then continues to wipe down the 
+bar.  
+~
+1 262144 0
+D3
+~
+~
+0 0 27004
+R M 0 27089 1 27072
+  R G 0 27069 0
+  R G 0 27070 0
+  R G 0 27071 0
+  R G 0 27072 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+R O 0 3078 0 27072
+R O 0 3079 0 27072
+R O 0 3080 0 27072
+R O 0 3081 0 27072
+S
+#27073
+The Trellis~
+~
+This restaurant is in a vineyard.  A latticed overhead trellis covers the 
+whole area, with grape vines creeping all around it.  In a corner of the 
+vineyard, a beautiful elven bard sings to the tinkling of a grand piano and 
+the sad sounds of a violin.  A slight breeze wafts through the vineyard, 
+making the luscious grapes hanging from the overhead trellis to sway 
+slightly, almost in time with the song.  The restaurant holds about 10 
+tables, and it is about half filled now with diners.  Waitresses dressed in 
+a black uniform and a frilly apron moves unobstructively amongst the tables, 
+taking orders and refilling wine glasses.  A waitress walks towards you and 
+shows you to an empty table.  
+~
+1 262152 0
+D1
+~
+~
+0 0 27005
+R M 0 27099 1 27073
+  R G 0 27127 0
+  R G 0 27126 0
+  R G 0 27125 0
+  R G 0 27124 0
+  R G 0 27123 0
+  R G 0 27122 0
+  R G 0 27121 0
+  R G 0 27120 0
+  R G 0 27119 0
+  R G 0 27118 0
+  R G 0 27117 0
+  R G 0 27116 0
+R M 0 27100 1 27073
+R O 0 27128 0 27073
+R O 0 27129 0 27073
+R O 0 27130 0 27073
+  R P 0 3126 10 27130
+  R P 0 3128 10 27130
+S
+#27074
+Sculkc Alley~
+~
+You are on a narrow back alley just south of the west gates.  There seem to 
+be fewer travellers on this path, and the ones who do pass by, avert their 
+eyes and scurry past, pulling their cloaks around them.  There looks to be a 
+small chapel to the south of here.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27007
+D2
+~
+~
+0 0 27075
+S
+#27075
+Sculkc Alley~
+~
+You are on a narrow back alley at the western end of town.  There seem to be 
+fewer travellers on this path, and the ones who do pass by, avert their eyes 
+and scurry past, pulling their cloaks around them.  A building, perhaps a 
+chapel is to the east of here.  A cold wind brushes past you.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27074
+D1
+~
+~
+0 0 27058
+D2
+~
+~
+0 0 27076
+S
+#27076
+Sculkc Alley~
+~
+You are on a narrow back alley at the outer edges of town.  There seem to be 
+fewer travellers on this path, and the ones who do pass by, avert their eyes 
+and scurry past, pulling their cloaks around them.  There looks to be a 
+small chapel to the north of here.  The road turns a corner to the south.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27075
+D2
+~
+~
+0 0 27077
+S
+#27077
+Corner of Bodeebag Road and Sculkc Alley~
+~
+You are on a narrow back alley on the edge of town.  There seem to be fewer 
+travellers on this path, and the ones who do pass by, avert their eyes and 
+scurry past, pulling their cloaks around them.  Fhue Road and Sculkc Alley 
+meet at this corner.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27076
+D1
+~
+~
+0 0 27078
+S
+#27078
+Bodeebag Road~
+~
+You are on a narrow back alley along the southern end of town.  There seem 
+to be fewer travellers on this path, and the ones who do pass by, avert 
+their eyes and scurry past, pulling their cloaks around them.  A small shack 
+has been constructed to the north, and another to the south.  Signs have 
+been posted outside.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27082
+D1
+~
+~
+0 0 27079
+D2
+~
+~
+0 0 27054
+D3
+~
+~
+0 0 27077
+E
+sign ~
+To the north:
+============================
+         |    |
+  ----------------------------
+ | Yardoli's Tabacco Supplies |
+  ----------------------------
+ 
+To the south:
+============================
+          |    |
+   ---------------------
+  |   Boats and Bait    |
+   ---------------------
+~
+S
+#27079
+Bodeebag Road~
+~
+You are on a narrow back alley along the southern end of town.  There seem 
+to be fewer travellers on this path, and the ones who do pass by, avert 
+their eyes and scurry past, pulling their cloaks around them.  A small shack 
+has been constructed to the north and a shabby wagon has been left at the 
+side of the road to the south.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27081
+D1
+~
+~
+0 0 27080
+D2
+~
+~
+0 0 27061
+D3
+~
+~
+0 0 27078
+S
+#27080
+Bodeebag Road~
+~
+You are on a narrow back alley along the southern end of town.  There seem 
+to be fewer travellers on this path, and the ones who do pass by, avert 
+their eyes and scurry past, pulling their cloaks around them.  A small shack 
+has been constructed to the south, and there is a sign posted out front.  
+~
+1 262144 1
+D0
+~
+~
+0 0 3973
+D1
+~
+~
+0 0 27006
+D2
+~
+~
+0 0 27037
+D3
+~
+~
+0 0 27079
+E
+sign ~
+======================== 
+       |    |
+  --------------------------
+ | Tohakrah's Works of Wood |
+  --------------------------
+~
+S
+#27081
+The Pub~
+~
+Thick curtains cover the entrance way to this room, and as you enter, all 
+eyes turn to you suspiciously.  The room is dimly lit, and tables and chairs 
+have been set up in the darkest corners of the room.  Around them sit some 
+of the locals, disguised in heavy cloaks, all speaking in hushed voices.  
+~
+1 262144 0
+D2
+~
+~
+0 0 27079
+R O 0 3161 0 27081
+R M 0 27101 10 27081
+R M 0 27101 10 27081
+S
+#27082
+Yardoli's Tabacco Supplies~
+~
+You enter a smoke-filled building, and see racks of many types of pipes and 
+pipeweed.  Some pipes have been delicately carved, others crudely shaped 
+into something that barely resembles a pipe.  A gnollish man is serving 
+customers, inbetween taking a puff of his pipe.  
+~
+1 262144 0
+D2
+~
+~
+0 0 27078
+R M 0 27096 1 27082
+  R G 0 27090 0
+  R G 0 27091 0
+  R G 0 27092 0
+  R G 0 27093 0
+  R G 0 27094 0
+  R E 0 27000 0 7
+S
+#27083
+Mysteries of Magic~
+~
+Inside this crudely constructed shack, you see shelves displaying dusty old 
+books, and scrolls rolled up tightly and sealed with wax.  A mysterious drow 
+moves in and out of the shadows as customers peruse the shop.  
+~
+1 262152 0
+D3
+~
+~
+0 0 27053
+R M 0 27093 1 27083
+  R G 0 3088 0
+  R G 0 3087 0
+  R G 0 27104 0
+  R G 0 27105 0
+  R E 0 27013 0 12
+  R G 0 27131 0
+S
+#27084
+Bodeebag Road~
+~
+This garbage covered street is a small back alley, barely wide enough for 
+two people to walk side by side.  A small, roughly put together building has 
+been constructed to the south, and there is sign hanging over the doorway.  
+The alley continues to the east and west.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27042
+D1
+~
+~
+0 0 27085
+D2
+~
+~
+0 0 27041
+D3
+~
+~
+0 0 27006
+E
+sign ~
+===============================
+       |         |
+  -------------------------
+ |  Russuth's Furry Items  |
+  -------------------------
+~
+S
+#27085
+Bodeebag Road~
+~
+This garbage covered street is a small back alley, barely wide enough for 
+two people to walk side by side.  A small, roughly put together building has 
+been constructed to the south and another to the north.  The alley continues 
+to the east and west.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27088
+D1
+~
+~
+0 0 27086
+D2
+~
+~
+0 0 27040
+D3
+~
+~
+0 0 27084
+S
+#27086
+Bodeebag Road~
+~
+This garbage covered street is a small back alley, barely wide enough for 
+two people to walk side by side.  A small, roughly put together building has 
+been constructed to the south, and there is sign hanging over the doorway.  
+The alley continues to the east and west.  A gambling hall lies to the 
+north.  
+~
+1 262144 1
+D0
+~
+~
+0 0 15000
+D1
+~
+~
+0 0 27087
+D2
+~
+~
+0 0 27047
+D3
+~
+~
+0 0 27085
+E
+sign ~
+==============================
+         |    |
+  -----------------------
+ |  Slaughterhouse Meats |
+  -----------------------
+~
+S
+#27087
+Corner of Muhkck and Bodeebag Roads~
+~
+This garbage covered street is a small back alley, barely wide enough for 
+two people to walk side by side.  At this corner, Muhck Road and Fhue Road 
+merge.  To the north, the alley leads into a wider road, and to the west, it 
+heads along a back alley.  
+~
+1 262144 1
+D0
+~
+~
+0 0 27053
+D3
+~
+~
+0 0 27086
+S
+#27088
+Hussat's Poisons and Potions~
+~
+This small, roughly constructed shack is dark, and the odours within almost 
+make one's eyes water, they smell so bad.  There are no displays, and you 
+wouldn't know what was for sale here, unless you asked the goblin eyeing 
+your every move.  
+~
+1 262144 0
+D2
+~
+~
+0 0 27085
+R M 0 27094 1 27088
+  R G 0 27106 0
+  R G 0 27107 0
+  R G 0 27108 0
+  R G 0 27109 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+S
+#27089
+Gar'bag Alley~
+~
+You are on a narrow back alley just north of the west gates.  There seem to 
+be fewer travellers on this path, and the ones who do pass by, avert their 
+eyes and scurry past, pulling their cloaks around them.  
+~
+1 0 1
+D0
+~
+~
+0 0 27090
+D2
+~
+~
+0 0 27007
+S
+#27090
+Gar'bag Alley~
+~
+You are on a narrow back alley.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  Suspicious looking folks seem to be wandering in 
+an out of a run-down hovel to the east.  
+~
+1 0 1
+D0
+~
+~
+0 0 27091
+D1
+~
+~
+0 0 27102
+D2
+~
+~
+0 0 27089
+S
+#27091
+Gar'bag Alley~
+~
+You are on a narrow back alley.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  You hear the whimpers of a creature coming from 
+the east.  
+~
+1 0 1
+D0
+~
+~
+0 0 27092
+D1
+~
+~
+0 0 27101
+D2
+~
+~
+0 0 27090
+S
+#27092
+Corner of Bashem Road and Gar'bag Alley~
+~
+You are on a narrow back alley.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  Two alleys converge here, heading east and south. 
+ 
+~
+1 0 1
+D1
+~
+~
+0 0 27093
+D2
+~
+~
+0 0 27091
+S
+#27093
+Bashem Road~
+~
+You are on a narrow back alley.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  A large temple lies to the north.  
+~
+1 0 1
+D0
+~
+~
+0 0 7500
+D1
+~
+~
+0 0 27094
+D3
+~
+~
+0 0 27092
+R O 0 7900 0 27093
+S
+#27094
+Bashem Road~
+~
+You are on a narrow back alley.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  You hear the sounds of horses neighing to the 
+south, and see a few carriages waiting to be used.  
+~
+1 0 1
+D1
+~
+~
+0 0 27095
+D2
+~
+~
+0 0 27051
+D3
+~
+~
+0 0 27093
+S
+#27095
+Bashem Road~
+~
+You are on a narrow back alley just west of the north gates.  There seem to 
+be fewer travellers on this path, and the ones who do pass by, avert their 
+eyes and scurry past, pulling their cloaks around them.  
+~
+1 0 1
+D1
+~
+~
+0 0 27000
+D3
+~
+~
+0 0 27094
+S
+#27096
+Muhkck Road~
+~
+You are on a dirty street which runs north towards a back alley, and south 
+into an intersection.  There is a stone structure to the east which looks 
+very inviting.  Up the ahead, the alley turns a corner.  The street is 
+covered with trash.  
+~
+1 0 1
+D0
+~
+~
+0 0 27097
+D1
+~
+~
+0 0 27026
+D2
+~
+~
+0 0 27015
+S
+#27097
+Corner of Bashem and Muhkck Roads~
+~
+Two alleys converge here, heading south and west.  The path is covered with 
+trash, and is not very smooth.  There seem to be fewer travellers on this 
+path, and the ones who do pass by, avert their eyes and scurry past, pulling 
+their cloaks around them.  
+~
+1 0 1
+D2
+~
+~
+0 0 27096
+D3
+~
+~
+0 0 27098
+S
+#27098
+Bashem Road~
+~
+The alley continues east and west here.  It is covered with trash, and is 
+not very smooth.  There seem to be fewer travellers on this path, and the 
+ones who do pass by, avert their eyes and scurry past, pulling their cloaks 
+around them.  A wooden structure stands to the south and their is a rickety 
+sign out front.  
+~
+1 0 1
+D1
+~
+~
+0 0 27097
+D2
+~
+~
+0 0 27103
+D3
+~
+~
+0 0 27099
+E
+sign ~
+=====================================
+           |       | 
+       -----------------
+      |  Cheap Bargains |
+       -----------------
+~
+S
+#27099
+Bashem Road~
+~
+The alley continues east and west here.  It is covered with trash, and is 
+not very smooth.  There seem to be fewer travellers on this path, and the 
+ones who do pass by, avert their eyes and scurry past, pulling their cloaks 
+around them.  There is a large temple to your north.  
+~
+1 0 1
+D0
+~
+~
+0 0 7570
+D1
+~
+~
+0 0 27098
+D2
+~
+~
+0 0 27105
+D3
+~
+~
+0 0 27100
+R O 0 7570 0 27099
+S
+#27100
+Bashem Road~
+~
+You are on a narrow back alley just west of the north gates.  There seem to 
+be fewer travellers on this path, and the ones who do pass by, avert their 
+eyes and scurry past, pulling their cloaks around them.  
+~
+1 0 1
+D1
+~
+~
+0 0 27099
+D3
+~
+~
+0 0 27000
+S
+#27101
+Cap in Hand ~
+~
+This cluttered shack has several crude displays of cheap cotton garments, 
+and implements for cleaning and mining.  There is a large orc bossing a 
+whimpering half-elf about, as he sits back and watches him do all the work.  
+In coarse script, painted across the wall, are the words:`1`1 `#`S"Get that slave working - cheap mining picks for sale here!"  `^ 
+~
+1 0 0
+D3
+~
+~
+0 0 27091
+R M 0 27102 1 27101
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+R M 0 27103 1 27101
+  R E 0 27145 0 7
+  R G 0 27144 0
+  R G 0 27145 0
+  R G 0 27146 0
+  R G 0 27147 0
+  R G 0 27148 0
+  R G 0 27149 0
+S
+#27102
+Black Market~
+~
+Just off the road, a make-shift structure has been built from planks of 
+unused wood and scraps of iron, blocking it off from surrounding buildings.  
+This shady part of the town seems to be where the townfolk sell their 
+"acquired" goods on the black market, for prices to steal for.  
+~
+1 0 0
+D3
+~
+~
+0 0 27090
+S
+#27103
+Cheap'n'Nasty~
+~
+This crowded, junk-strewn shop sells a variety of items, all looking 
+suspiciously cheap, as though there must be some flaw with them.  A short 
+kobold eyes you up when you enter, ascertaining whether or not to approach 
+you with some fine jewellery or shiny armor.  
+~
+1 0 0
+D0
+~
+~
+0 0 27098
+R M 0 27104 1 27103
+  R G 0 27150 0
+  R G 0 27151 0
+  R G 0 27152 0
+  R G 0 27153 0
+  R E 0 27000 0 7
+  R E 0 27001 0 5
+  R G 0 3187 0
+  R G 0 3188 0
+  R G 0 3189 0
+  R G 0 3190 0
+S
+#27104
+Inside North Gate~
+~
+You are on a trash-covered street just inside the north gates of a large 
+city.  The gates themselves stand wide open, and through them you can see a 
+muddy wasteland.  The street runs south into the center of the city.  
+~
+1 0 1
+D2
+~
+~
+0 0 27000
+S
+#27105
+A Burnt-Out Shop~
+~
+Cracked windows, and grey-smoked walls are what's left of this shop.  
+Vandals have looted most of what was left after the shop was set on fire, 
+and there lie only piles of ashes with an occasional scrap of cloth peering 
+through.  The wind blows through where the back wall used to be, where only 
+a few bricks remain standing.  In the eastern wall, there is a large crack, 
+perhaps where the shop safe once was.  
+~
+1 0 0
+D0
+~
+~
+0 0 27099
+R O 0 27166 0 27105
+  R P 0 27165 10 27166
+R O 0 27167 0 27105
+E
+crack ~
+On closer inspection, you see something shiny, within the crack.
+~
+S
+#27106
+Small Cottage~
+~
+This small cottage is anything but interesting.  A small wooden bed and a 
+chest dominate this one room cottage and nothing more save for the furs on 
+the bed and a couple of windows.  The room is filled with dust that covers 
+some areas so thick you can't even see the floor.  To the corner of the 
+chest a scrap of parchment has been posted. 
+~
+1 33554436 0
+R M 0 27105 1 27106
+  R E 0 27178 0 5
+  R E 0 27179 0 7
+  R E 0 27180 0 12
+  R E 0 27181 0 16
+E
+parchment song~
+~
+S
+#27107
+Prison Cell~
+~
+This prison cell is small, but clean.  The exit is through a thick wooden 
+door to the east, in which is set a small barred window.  A pile of straw 
+and coarse blanket serves as bedding, and there is a tin chamber pot. 
+~
+1 33817612 0
+D1
+~
+~
+33 27027 27014
+R M 0 27106 1 27107
+S
+#27108
+Throtyl Pigeon Courier~
+~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+~
+1 0 0
+D3
+~
+~
+0 0 27065
+R M 0 27107 1 27108
+  R G 0 27046 0
+S
+#0
+
+
+#SHOPS
+ 27000   19 23 24 26  0   115  60         0 23    ; a large orc shopkeeper
+ 27001    1 12 15 28 34   115  60         0 23    ; a smelly kobold shopkeeper
+ 27002    5  6  3  3  4   150  40         0 23    ; a huge ogre shopkeeper
+ 27003    9  0  0  0  0   150  40         0 23    ; a mangy gnoll shopkeeper
+ 27004    8 32 33 30  0   150  40         0 23    ; a tall human jeweler
+ 27007    0  0  0  0  0   105  50         0 23    ; a bartender
+ 27010    2  3  4 10  0   120  75         0 23    ; a frazzled looking drow mage
+ 27011    0  0  0  0  0   120  75         0 23    ; an armored half-orc
+ 27012    0  0  0  0  0   120  75         0 23    ; a dark robed priest
+ 27013    0  0  0  0  0   120  75         0 23    ; a mysterious cloaked figure
+ 27014    0  0  0  0  0   115  60         0 23    ; a giant feylar shopkeeper
+ 27022   10  0  0  0  0   110  75         0 23    ; a tall human
+ 27023   22  0  0  0  0   115  60         0 23    ; a one-eyed half-orc shopkeeper
+ 27026    2  0  0  0  0   120  75         0 23    ; a darkly cloaked figure
+ 27027    0  0  0  0  0   135  75         0 23    ; a dirty little human shopkeeper
+ 27031   11  0  0  0  0   110  85         0 23    ; a scruffy human shopkeeper
+ 27032   23  0  0  0  0   120  95         0 23    ; a dirty half-orc butcher
+ 27033    0  0  0  0  0   120  80         0 23    ; a dirty human petshop owner
+ 27047    0  0  0  0  0   105 100         0 23    ; a fat human
+ 27088    0  0  0  0  0   120  75         0 23    ; a humanoid figure in `#`sonyx`^ encrusted armour
+ 27089    0  0  0  0  0   115  60         0 23    ; a fat troll
+ 27090    0  0  0  0  0   115  60         0 23    ; a lizardman coppersmith
+ 27091    0  0  0  0  0   115  60         0 23    ; a troll shopkeeper
+ 27092    0  0  0  0  0   115  60         0 23    ; a runty kobold cartographer
+ 27093    2 26  3  0  0   115  65         0 23    ; a drow shopkeeper
+ 27094   26  0  0  0  0   115  60         0 23    ; a goblin shopkeeper
+ 27095    4  0  0  0  0   115  60         0 23    ; a draconian carpenter
+ 27096    0  0  0  0  0   150  40         0 23    ; a gnoll tabacconist
+ 27097    0  0  0  0  0   115  60         0 23    ; a stocky dwarven shopkeeper
+ 27098    0  0  0  0  0   160  65         0 23    ; a duergar shopkeeper
+ 27099    0  0  0  0  0   105 100         0 23    ; a pretty waitress
+ 27103    0  0  0  0  0   105 100         0 23    ; a whimpering half-elf
+ 27104    0  0  0  0  0   160  60         0 23    ; a sly-looking kobold
+ 27107    0  0  0  0  0   100  50         0 23    ; a short plump female malkatar
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

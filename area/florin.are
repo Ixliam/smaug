@@ -1,0 +1,3466 @@
+#AREA        Stupid World: Florin~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#14201
+inigo montoya spaniard~
+inigo Montoya~
+A Spaniard challenges you to a duel.
+~
+The son of Domingo Montoya stands here holding the sword his father made
+for a six-fingered man, who then killed him in an argument over the price. 
+He has spent twenty years studying swordplay.  
+~
+0
+Clanname none~
+0
+0
+65 4096 200 C
+75 0 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14202
+fezzik turk giant~
+fezzik~
+A giant Turk stands ready to throw a rock at you.
+~
+Over seven feet tall and weighing over four hundred pounds, Fezzik
+is strong enough to beat any man in hand-to-hand combat.  He spent
+years fighting groups of up to twenty men at a time, but won so
+much he became unpopular.  The only good news for you is that
+Fezzik believes in sporstmanship.
+~
+0
+Clanname none~
+0
+0
+65 4096 200 C
+73 0 -43 7d11+375 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14203
+vizzini sicilian~
+vizzini~
+A Sicilian challenges you to a battle of wits.
+~
+Vizzini is cunning, crafty, and clever, filled with deceit,
+guile and chicanery, shrewd, cagey as well as calculating, as
+diabolical as he is vulpine, as tricky as he is untrustworthy...
+he is the slickest, sleekest, sliest and wiliest fellow who has
+yet existed in the history of the earth.
+~
+0
+Clanname none~
+0
+0
+65 4096 -200 C
+74 0 -44 7d11+380 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14204
+prince humperdinck~
+prince Humperdinck~
+The heir to the throne of Florin stands before you.
+~
+Prince Humperdinck is the greatest hunter in the world.  He can
+track a falcon on a cloudy day.  He can track you.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+93 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14205
+count rugen man six fingers~
+count Rugen~
+A man with six fingers on his right hand prepares to torture you.
+~
+Count Rugen, confidant of Prince Humperdinck, has spent eleven
+years constructing The Machine.  Through his methods of torture,
+he hopes to complete a reference work:  the definitive work on
+pain, at least as we know it now.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+112 0 -86 12d15+565 12d15+71
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14206
+albino~
+the Albino~
+An Albino pushes a wheelbarrow past you.
+~
+With white hair and colorless skin, the Albino is tasked with
+keeping the animals in Prince Humperdinck's Zoo of Death fed
+and free of sickness.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+85 0 -55 8d12+420 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14207
+rodent rous rat~
+an R.O.U.S.~
+A Rodent of Unusual Size lunges for your throat!
+~
+The Rodent Of Unusual Size (R.O.U.S.) is a pure rat strain,
+weighing about eighty pounds, with the speed of a wolfhound.
+It is carniverous, and capable of frenzy.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+89 0 -59 9d12+440 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14208
+wild dog~
+a wild dog~
+A wild dog snarls at you.
+~
+Resembling a wolf, this wild dog bares its sharp teeth at you.
+In comparison to this beast, a pit bull would be a good lap dog.
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+100 0 -69 10d13+475 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14209
+cheetah cat~
+a cheetah~
+A cheetah lunges at your throat.
+~
+Resembling a leopard, but with some dog-like characteristics,
+the cheetah is one of the fastest animals on earth.  Faster
+than you, at least.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+103 0 -73 10d14+500 11d13+58
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14210
+hummingbird bird~
+a hummingbird~
+A hummingbird flies past you.
+~
+The rapid beating of this bird's wings makes a humming sound.
+These birds are noted for their ability to hover and fly upward,
+downward, and backward while still in a horizontal position.
+~
+0
+Clanname none~
+0
+0
+65 524288 200 C
+98 0 -68 10d13+475 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14211
+snake anaconda boa~
+an anaconda~
+A giant snake wraps its body around you.
+~
+Brought to the Zoo of Death from far across the world, this 20-foot long 
+anaconda can squeeze you to death in an instant.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14212
+rhino rhinoceros~
+a rhinoceros~
+A rhinoceros lumbers past you.
+~
+This large, thick-skinned mammal has a single horn on its snout,
+but it hardly reminds you of a unicorn.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+108 0 -78 11d14+525 11d14+63
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14213
+crocodile reptile~
+a crocodile~
+A scaly reptile eyes you as its next meal.
+~
+This huge reptile's strong jaw can cut you in half in less time
+than it takes you to determine that it's not an alligator.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+105 0 -75 11d14+510 11d13+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14214
+cobra snake spitting~
+a spitting cobra~
+A cobra flattens its neck into a hood as you arrive.
+~
+This highly venomous species of cobra is known for spitting its venom at its 
+prey.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -200 C
+112 0 -82 11d15+545 12d14+67
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14215
+spider~
+a spider~
+A giant spider traps you in its web!
+~
+This giant spider kills efficiently by trapping its opponents
+and then biting them with its highly venemous fangs.  Ouch.
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+114 0 -84 12d15+555 12d14+69
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14216
+death bat~
+a death bat~
+A venemous bat swoops down from the ceiling towards you.
+~
+This nocturnal creature is nearly blind, but has learned to use
+its other senses well.  Like Dracula, it has come to suck your blood.
+~
+0
+Clanname none~
+0
+0
+65 524288 200 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14217
+spider tarantula~
+a shrieking tarantula~
+A giant spider shrieks at you.
+~
+The only spider capable of sound, the shrieking tarantula gives
+you just enough warning to turn and see what's about to kill you.
+~
+0
+Clanname none~
+0
+0
+65 65536 -200 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14218
+eagle blood bird~
+a blood eagle~
+An eagle grabs you with its talons and gnaws at your flesh.
+~
+The blood eagle is the only bird that thrives on human flesh.
+That's an interesting fact to know as you are torn to pieces by
+this one.
+~
+0
+Clanname none~
+0
+0
+65 524288 -200 C
+115 0 -85 12d15+560 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14219
+yellin~
+yellin~
+Yellin stands here guarding the castle gate.
+~
+Yellin has been charged by Prince Humperdinck with the safety of
+his bride, Princess Buttercup.
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+79 0 -49 8d11+400 9d9+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14220
+miracle max~
+miracle Max~
+Miracle Max tells you to go away.
+~
+Miracle Max works miracles.  For a price.
+~
+0
+Clanname none~
+0
+0
+65 128 200 C
+80 0 -50 8d11+400 9d9+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14221
+brute member~
+a member of the brute squad~
+A brute thinks you're where you're not supposed to be.
+~
+The brute squad has been organized to keep thieves and ruffians
+such as yourself out of Florin.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+83 0 -53 8d12+415 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14222
+flamespurt~
+a flamespurt~
+A spurt of flame leaps from the ground!
+~
+As you watch yet another flamespurt, you realize that it gives off
+a popping sound moments before it erupts.  In most cases, this
+popping sound will give you enough time to avoid it.  But this
+isn't most cases.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+88 0 -58 9d12+435 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14223
+snow sand~
+snow sand~
+You'd better grab onto a vine, since you're sinking in this sand so
+quickly that you will never get out alive.
+~
+Snow sand is commonly mistaken for lightning sand, but it is more dry
+and fine.  Those who fall into snow sand usually die of suffocation.
+You think you'll escape this fate?  Don't hold your breath.
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+85 0 -55 9d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14224
+king florin~
+the King of Florin~
+The ruler of Florin stands before you muttering, "Isn't that nice?"
+~
+The King is old and frail.  Not much of what once was remains.  The king
+used to command a vast empire, but as his sanity faded, so did his control
+over his people.  His son, Prince Humperdinck, has seized most of the
+control of the land from him, and he is now only a figurehead.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+75 0 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14225
+queen florin~
+the Queen of Florin~
+The Queen of Florin is here assisting the King.
+~
+The Queen of Florin has never had much power.  She focuses her aging
+energies on keeping the ever-more-confused King out of trouble.
+~
+0
+Clanname none~
+0
+0
+65 0 200 C
+73 0 -43 7d11+370 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14226
+princess buttercup~
+princess Buttercup~
+The most beautiful woman in the world is here.
+~
+By the time Buttercup was 16, she was in the top 10 most beautiful women
+in the world.  At 21, she *is* the most beautiful woman in the world.
+Buttercup is betrothed to Prince Humperdinck, not because of love, but
+because the law of the land allows him to choose his wife.  Buttercup
+lost her one and only true love, Westley, to the Dread Pirate Roberts,
+and she will never love again.
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+90 0 -60 9d13+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#14227
+bishop~
+the Bishop of Florin~
+The bishop lisps at you.
+~
+You see the Bishop of Florin practicing for Prince Humperdinck and
+Princess Buttercup's wedding ceremony.  He is saying, "Mawwiage...
+Mawwiage is what bwings us togethew today.  Mawwiage, that dweam
+wifin a dweam..."
+~
+0
+Clanname none~
+0
+0
+65 4096 200 C
+85 0 -54 8d12+415 9d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#14201
+sword six fingered~
+`#`wa `RS`rix-`RF`ringered `sSword`^~
+A sword perfectly balanced for a six-fingered hand lies here.~
+~
+5 256 4
+2 97 134 2 0 0 0
+1 1443 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14202
+rock stone boulder~
+`#`wa `srock`^~
+This stone has not been left unturned.~
+~
+5 0 4
+5 97 134 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14203
+wits marbles~
+`#`yWits`^~
+Someone has lost their marbles here.~
+~
+5 256 4
+15 97 119 2048 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14205
+machine~
+`#`yThe Machine`^~
+A water wheel attached to hundreds of suction cups sits here.~
+~
+5 16 4
+4 135 170 4 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14206
+resurrection pill chocolate~
+`#`ya resurrection pill`^~
+A chocolate covered lump looks rather tasty.~
+~
+26 256 16
+0 -1 -1 -1 0 0 0
+1 1421 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#14207
+holocaust cloak~
+`#`wa `sholocaust c`wloak`^~
+A large cloak here looks fireproof.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14208
+key florin castle~
+the key to Florin castle~
+This key would fit the gate to a large castle.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14209
+wheelbarrow barrow~
+`#`ya wheelbarrow`^~
+A wheelbarrow has been abandoned here.~
+~
+12 0 8
+2000 2340 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14210
+holder~
+`3`wa `yleather `mwine `wholder`^~
+A leather pouch here contains a jug of red wine.~
+~
+17 0 16
+20 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14211
+goblet~
+`#`wa `mwine `ygoblet`^~
+One of these goblets has been poisoned with iocane.~
+~
+17 0 16
+10 0 100 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14212
+cheese apples~
+`#`Ycheese `wand `Rapples`^~
+A few apples and some cheese have been sliced here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14213
+crown florin~
+`#`wThe `YC`yr`Yo`yw`Yn `wof `CF`cl`Co`cr`Ci`cn`^~
+Not very ornate, this simple crown speaks of a simple King.~
+~
+9 0 8
+50 50 15 0 0 0 0
+1 1401 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14214
+wedding ring~
+`#`wA `WW`we`Wd`wd`Wi`wn`Wg `wR`Wi`wn`Wg`^~
+This ring looks suitable for a royal wedding!~
+~
+9 0 8
+55 55 5 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14215
+book princess bride~
+The Princess Bride, by S. Morgenstern~
+This book tells a story of true love.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14216
+gold coin coins~
+Florin gold~
+A large pile of Florin gold is here for the taking!~
+~
+20 0 16
+20 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14217
+true love~
+`#`RT`rrue `RL`rove`^~
+Love can cut like a knife.~
+~
+5 256 4
+19 116 152 0 0 0 0
+1 2712 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#14201
+A Cove~
+~
+This quiet cove is at the base of the Cliffs of Insanity.  A rope
+leads up the thousand-foot sheer climb.
+~
+1 0 5
+D4
+~
+~
+0 0 14202
+S
+#14202
+The Cliffs of Insanity~
+~
+You are climbing a rope up a sheer cliff.  Don't look down.
+~
+1 0 5
+D4
+~
+~
+0 0 14203
+S
+#14203
+The Cliffs of Insanity~
+~
+You are near the top of a sheer cliff.  Waves crash hundreds of feet
+below, and your strength is fading as you dangle from the rope.
+~
+1 0 5
+D4
+~
+~
+0 0 14204
+S
+#14204
+Top of the Cliffs of Insanity~
+~
+You are at the top of a sheer thousand-foot high cliff.  You can see
+the entire city of Florin across the channel below you.  A rope
+attached to a nearby tree provides the only shortcut up this side.
+~
+1 0 2
+D3
+~
+~
+0 0 14205
+E
+rope~
+This rope is tied to an oak tree and hangs a thousand feet over the
+cliff.
+~
+E
+tree~
+An oak tree stands here with a rope about its base.
+~
+S
+#14205
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D1
+~
+~
+0 0 14204
+D3
+~
+~
+0 0 14206
+R M 0 14201 1 14205
+  R E 0 14201 0 16
+S
+#14206
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D0
+~
+~
+0 0 14207
+D1
+~
+~
+0 0 14205
+S
+#14207
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D1
+~
+~
+0 0 14208
+D2
+~
+~
+0 0 14206
+S
+#14208
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D0
+~
+~
+0 0 14209
+D3
+~
+~
+0 0 14207
+S
+#14209
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D2
+~
+~
+0 0 14208
+D3
+~
+~
+0 0 14210
+S
+#14210
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D0
+~
+~
+0 0 14211
+D1
+~
+~
+0 0 14209
+R M 0 14202 1 14210
+  R E 0 14202 0 16
+S
+#14211
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D1
+~
+~
+0 0 14212
+D2
+~
+~
+0 0 14210
+S
+#14212
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D0
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14211
+S
+#14213
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D2
+~
+~
+0 0 14212
+D3
+~
+~
+0 0 14214
+S
+#14214
+A Rocky Trail~
+~
+This rocky terrain would encourage a swordsman to use the Agrippa
+defense.  Moving your feet could cause you to lose your balance.
+~
+1 0 4
+D1
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14215
+S
+#14215
+A Picnic~
+~
+On a rock here Vizzini has laid out a little picnic.  On a small
+handkerchief you can see two wine goblets, a leather wine holder,
+and some cheese and apples.  The spot could not be lovelier: a high
+point on the mountain path with a splendid view all the way back
+to Florin Channel.
+~
+1 0 2
+D1
+~
+~
+0 0 14214
+D2
+~
+~
+0 0 14216
+R M 0 14203 1 14215
+  R E 0 14203 0 16
+  R G 0 14211 0
+R O 0 14210 0 14215
+R O 0 14211 0 14215
+R O 0 14212 0 14215
+S
+#14216
+Above the Ravine~
+~
+You stand at the edge of a steep ravine.  You might be able to
+survive a fall down into the ravine, but you'd never climb back up.
+~
+1 0 2
+D0
+~
+~
+0 0 14215
+D2
+~
+~
+0 0 14217
+D5
+~
+~
+0 0 14220
+S
+#14217
+Above the Ravine~
+~
+You stand at the edge of a steep ravine.  You might be able to
+survive a fall down into the ravine, but you'd never climb back up.
+~
+1 0 2
+D0
+~
+~
+0 0 14216
+D2
+~
+~
+0 0 14218
+D5
+~
+~
+0 0 14221
+S
+#14218
+Above the Ravine~
+~
+You stand at the edge of a steep ravine.  You might be able to
+survive a fall down into the ravine, but you'd never climb back up.
+~
+1 0 2
+D0
+~
+~
+0 0 14217
+D2
+~
+~
+0 0 14219
+D5
+~
+~
+0 0 14222
+S
+#14219
+Above the Ravine~
+~
+You stand at the edge of a steep ravine.  You might be able to
+survive a fall down into the ravine, but you'd never climb back up.
+~
+1 0 2
+D0
+~
+~
+0 0 14218
+D5
+~
+~
+0 0 14223
+S
+#14220
+The Ravine Floor~
+~
+The flat ravine floor is the only way to go; climbing up the
+steep sides would be next to impossible.
+~
+1 0 2
+D2
+~
+~
+0 0 14221
+S
+#14221
+The Ravine Floor~
+~
+The flat ravine floor is the only way to go; climbing up the
+steep sides would be next to impossible.
+~
+1 0 2
+D0
+~
+~
+0 0 14220
+D2
+~
+~
+0 0 14222
+S
+#14222
+The Ravine Floor~
+~
+The flat ravine floor is the only way to go; climbing up the
+steep sides would be next to impossible.
+~
+1 0 2
+D0
+~
+~
+0 0 14221
+D2
+~
+~
+0 0 14223
+S
+#14223
+The Ravine Floor~
+~
+The flat ravine floor is the only way to go; climbing up the
+steep sides would be next to impossible.  You detect a whiff of
+sulphur in the air.
+~
+1 0 2
+D0
+~
+~
+0 0 14222
+D2
+~
+~
+0 0 14224
+S
+#14224
+The Edge of the Fire Swamp~
+~
+You stand at the edge of the Florin-Guilder Fire Swamp.  It is a
+common misconception that entering the swamp assures certain death.
+That rumor persists only because nobody has ever survived it.  The
+fire swamp contains three dangers:  flame spurts (which give the
+swamp its name) caused by the buildup of sulphur and other gases;
+snow sand (commonly mistaken for lightning sand, but dry and fine);
+and R.O.U.S.es.
+~
+1 0 2
+D0
+~
+~
+0 0 14223
+D2
+~
+~
+0 0 14226
+S
+#14225
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D1
+~
+~
+0 0 14226
+D2
+~
+~
+0 -1 14229
+D3
+~
+~
+0 0 14227
+R M 0 14207 1 14225
+R M 0 14222 5 14225
+S
+#14226
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14224
+D1
+~
+~
+0 0 14227
+D2
+~
+~
+0 -1 14228
+D3
+~
+~
+0 0 14225
+R M 0 14207 10 14226
+S
+#14227
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D1
+~
+~
+0 0 14225
+D2
+~
+~
+0 0 14230
+D3
+~
+~
+0 0 14226
+R M 0 14207 10 14227
+R M 0 14223 5 14227
+S
+#14228
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14225
+D1
+~
+~
+0 0 14229
+D2
+~
+~
+0 0 14231
+D3
+~
+~
+0 0 14230
+S
+#14229
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14226
+D1
+~
+~
+0 0 14230
+D2
+~
+~
+0 -1 14233
+D3
+~
+~
+0 0 14228
+R M 0 14207 10 14229
+R M 0 14222 5 14229
+S
+#14230
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14227
+D1
+~
+~
+0 0 14228
+D2
+~
+~
+0 -1 14232
+D3
+~
+~
+0 0 14229
+S
+#14231
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14228
+D1
+~
+~
+0 0 14232
+D2
+~
+~
+0 0 14234
+D3
+~
+~
+0 0 14233
+R M 0 14207 10 14231
+R M 0 14223 5 14231
+S
+#14232
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14229
+D1
+~
+~
+0 0 14233
+D2
+~
+~
+0 0 14235
+D3
+~
+~
+0 0 14231
+R M 0 14207 10 14232
+S
+#14233
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14230
+D1
+~
+~
+0 0 14231
+D2
+~
+~
+0 0 14236
+D3
+~
+~
+0 0 14232
+R M 0 14207 10 14233
+R M 0 14222 5 14233
+S
+#14234
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14231
+D1
+~
+~
+0 0 14235
+D2
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14236
+S
+#14235
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14232
+D1
+~
+~
+0 0 14236
+D2
+~
+~
+0 0 14238
+D3
+~
+~
+0 0 14234
+R M 0 14223 5 14235
+S
+#14236
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14233
+D1
+~
+~
+0 0 14234
+D2
+~
+~
+0 0 14239
+D3
+~
+~
+0 0 14235
+S
+#14237
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14234
+D1
+~
+~
+0 0 14238
+D2
+~
+~
+0 0 14240
+D3
+~
+~
+0 0 14239
+R M 0 14207 10 14237
+R M 0 14222 5 14237
+S
+#14238
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14235
+D1
+~
+~
+0 0 14239
+D2
+~
+~
+0 0 14241
+D3
+~
+~
+0 0 14237
+R M 0 14207 10 14238
+S
+#14239
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14236
+D1
+~
+~
+0 0 14237
+D2
+~
+~
+0 0 14242
+D3
+~
+~
+0 0 14238
+R M 0 14207 10 14239
+R M 0 14223 5 14239
+S
+#14240
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14237
+D1
+~
+~
+0 0 14241
+D2
+~
+~
+0 -1 14231
+D3
+~
+~
+0 0 14242
+S
+#14241
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.  You see a
+break in the foliage to the south.
+~
+1 0 3
+D0
+~
+~
+0 0 14238
+D1
+~
+~
+0 0 14242
+D2
+You see a break in the foliage to the south.
+~
+break foliage~
+1 -1 14243
+D3
+~
+~
+0 0 14240
+R M 0 14222 5 14241
+S
+#14242
+The Fire Swamp~
+~
+Lush green forests surround you as you walk through the shadowy
+swamp.  Your way is lit by occasional flamespurts, but it is still
+dark enough for someone ... or something ... to hide.
+~
+1 0 3
+D0
+~
+~
+0 0 14239
+D1
+~
+~
+0 0 14240
+D2
+~
+~
+0 -1 14233
+D3
+~
+~
+0 0 14241
+S
+#14243
+The Edge of the Fire Swamp~
+~
+Behind you lies the Florin-Guilder Fireswamp.  Ahead of you, across a
+small channel, lies the city of Florin.
+~
+1 0 2
+D0
+~
+~
+0 0 14241
+D1
+~
+~
+0 0 14312
+D2
+~
+~
+0 0 14244
+S
+#14244
+Florin-Guilder Channel~
+~
+This narrow channel connects Guilder, to the northwest, with Florin,
+to the southeast.  The waters here are widely believed to be infested
+with shrieking eels.
+~
+1 0 6
+D0
+~
+~
+0 0 14243
+D1
+~
+~
+0 0 14245
+D2
+~
+~
+0 0 14245
+S
+#14245
+Florin-Guilder Channel~
+~
+This narrow channel connects Guilder, to the northwest, with Florin,
+to the southeast.  The waters here are widely believed to be infested
+with shrieking eels.
+~
+1 0 6
+D0
+~
+~
+0 0 14244
+D1
+~
+~
+0 0 14246
+D2
+~
+~
+0 0 14246
+D3
+~
+~
+0 0 14244
+S
+#14246
+Entrance to the Zoo of Death~
+~
+Prince Humperdinck, the world's greatest hunter, designed this Zoo
+to keep animals of all variety, to save him the travel time to hunt
+them in their native habitat.  The Zoo has five levels: enemies of
+speed, enemies of strength, poisoners, enemies of fear, and a cage
+on the fifth level for some animal as fierce and powerful as the
+Prince himself.
+~
+1 0 2
+D0
+~
+~
+0 0 14245
+D1
+~
+~
+0 0 14248
+D3
+~
+~
+0 0 14245
+R M 0 14206 1 14246
+  R G 0 14209 0
+S
+#14247
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D1
+~
+~
+0 0 14250
+D2
+~
+~
+0 0 14248
+R M 0 14208 5 14247
+S
+#14248
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14247
+D1
+~
+~
+0 0 14251
+D2
+~
+~
+0 0 14249
+R M 0 14209 5 14248
+S
+#14249
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14248
+D1
+~
+~
+0 0 14252
+R M 0 14210 5 14249
+S
+#14250
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D1
+~
+~
+0 0 14253
+D2
+~
+~
+0 0 14251
+D3
+~
+~
+0 0 14247
+R M 0 14209 5 14250
+S
+#14251
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14250
+D1
+~
+~
+0 0 14254
+D2
+~
+~
+0 0 14252
+D3
+~
+~
+0 0 14248
+R M 0 14210 5 14251
+S
+#14252
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14251
+D1
+~
+~
+0 0 14255
+D3
+~
+~
+0 0 14249
+R M 0 14208 5 14252
+S
+#14253
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D1
+~
+~
+0 0 14256
+D2
+~
+~
+0 0 14254
+D3
+~
+~
+0 0 14250
+R M 0 14210 5 14253
+S
+#14254
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14253
+D1
+~
+~
+0 0 14257
+D2
+~
+~
+0 0 14255
+D3
+~
+~
+0 0 14251
+R M 0 14208 5 14254
+S
+#14255
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14254
+D1
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14252
+R M 0 14209 5 14255
+S
+#14256
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D1
+~
+~
+0 0 14259
+D2
+~
+~
+0 0 14257
+D3
+~
+~
+0 0 14253
+R M 0 14208 5 14256
+S
+#14257
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14256
+D1
+~
+~
+0 0 14260
+D2
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14254
+R M 0 14209 5 14257
+S
+#14258
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14257
+D1
+~
+~
+0 0 14261
+D3
+~
+~
+0 0 14255
+R M 0 14210 5 14258
+S
+#14259
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+A door in the east wall is riddled with claw marks.
+~
+1 8201 0
+D1
+A door in the east wall is riddled with claw marks.
+~
+door~
+1 -1 14262
+D2
+~
+~
+0 0 14260
+D3
+~
+~
+0 0 14256
+R M 0 14209 5 14259
+S
+#14260
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14259
+D2
+~
+~
+0 0 14261
+D3
+~
+~
+0 0 14257
+R M 0 14210 5 14260
+S
+#14261
+Zoo of Death - Level 1~
+~
+This level contains enemies of speed.
+~
+1 8201 0
+D0
+~
+~
+0 0 14260
+D3
+~
+~
+0 0 14258
+R M 0 14208 5 14261
+S
+#14262
+A Stairway~
+~
+This stairway leads from the first to second level.
+~
+1 0 0
+D3
+~
+~
+0 0 14259
+D5
+~
+~
+0 0 14275
+S
+#14263
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D1
+~
+~
+0 0 14266
+D2
+~
+~
+0 0 14264
+R M 0 14211 5 14263
+S
+#14264
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14263
+D1
+~
+~
+0 0 14267
+D2
+~
+~
+0 0 14265
+R M 0 14212 5 14264
+S
+#14265
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+A door in the west wall is dented in several places.
+~
+1 8201 0
+D0
+~
+~
+0 0 14264
+D1
+~
+~
+0 0 14268
+D3
+A door in the west wall is dented in several places.
+~
+door~
+1 -1 14278
+R M 0 14213 5 14265
+S
+#14266
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D1
+~
+~
+0 0 14269
+D2
+~
+~
+0 0 14267
+D3
+~
+~
+0 0 14263
+R M 0 14212 5 14266
+S
+#14267
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14266
+D1
+~
+~
+0 0 14270
+D2
+~
+~
+0 0 14268
+D3
+~
+~
+0 0 14264
+R M 0 14213 5 14267
+S
+#14268
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14267
+D1
+~
+~
+0 0 14271
+D3
+~
+~
+0 0 14265
+R M 0 14211 5 14268
+S
+#14269
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D1
+~
+~
+0 0 14272
+D2
+~
+~
+0 0 14270
+D3
+~
+~
+0 0 14266
+R M 0 14213 5 14269
+S
+#14270
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14269
+D1
+~
+~
+0 0 14273
+D2
+~
+~
+0 0 14271
+D3
+~
+~
+0 0 14267
+R M 0 14211 5 14270
+S
+#14271
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14270
+D1
+~
+~
+0 0 14274
+D3
+~
+~
+0 0 14268
+R M 0 14212 5 14271
+S
+#14272
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D1
+~
+~
+0 0 14275
+D2
+~
+~
+0 0 14273
+D3
+~
+~
+0 0 14269
+R M 0 14211 5 14272
+S
+#14273
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14272
+D1
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14274
+D3
+~
+~
+0 0 14270
+R M 0 14212 5 14273
+S
+#14274
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14273
+D1
+~
+~
+0 0 14277
+D3
+~
+~
+0 0 14271
+R M 0 14213 5 14274
+S
+#14275
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D2
+~
+~
+0 0 14276
+D3
+~
+~
+0 0 14272
+R M 0 14212 5 14275
+S
+#14276
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14275
+D2
+~
+~
+0 0 14277
+D3
+~
+~
+0 0 14273
+R M 0 14213 5 14276
+S
+#14277
+Zoo of Death - Level 2~
+~
+This level contains enemies of strength.
+~
+1 8201 0
+D0
+~
+~
+0 0 14276
+D3
+~
+~
+0 0 14274
+R M 0 14211 5 14277
+S
+#14278
+A Stairway~
+~
+This stairway leads from the second to third level.
+~
+1 0 0
+D1
+~
+~
+0 0 14265
+D5
+~
+~
+0 0 14281
+S
+#14279
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D1
+~
+~
+0 0 14282
+D2
+~
+~
+0 0 14280
+R M 0 14214 5 14279
+S
+#14280
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14279
+D1
+~
+~
+0 0 14283
+D2
+~
+~
+0 0 14281
+R M 0 14215 5 14280
+S
+#14281
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14280
+D1
+~
+~
+0 0 14284
+R M 0 14216 5 14281
+S
+#14282
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D1
+~
+~
+0 0 14285
+D2
+~
+~
+0 0 14283
+D3
+~
+~
+0 0 14279
+R M 0 14215 5 14282
+S
+#14283
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14282
+D1
+~
+~
+0 0 14286
+D2
+~
+~
+0 0 14284
+D3
+~
+~
+0 0 14280
+R M 0 14216 5 14283
+S
+#14284
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14283
+D1
+~
+~
+0 0 14287
+D3
+~
+~
+0 0 14281
+R M 0 14214 5 14284
+S
+#14285
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D1
+~
+~
+0 0 14288
+D2
+~
+~
+0 0 14286
+D3
+~
+~
+0 0 14282
+R M 0 14216 5 14285
+S
+#14286
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14285
+D1
+~
+~
+0 0 14289
+D2
+~
+~
+0 0 14287
+D3
+~
+~
+0 0 14283
+R M 0 14214 5 14286
+S
+#14287
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14286
+D1
+~
+~
+0 0 14290
+D3
+~
+~
+0 0 14284
+R M 0 14215 5 14287
+S
+#14288
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D1
+~
+~
+0 0 14291
+D2
+~
+~
+0 0 14289
+D3
+~
+~
+0 0 14285
+R M 0 14214 5 14288
+S
+#14289
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14288
+D1
+~
+~
+0 0 14292
+D2
+~
+~
+0 0 14290
+D3
+~
+~
+0 0 14286
+R M 0 14215 5 14289
+S
+#14290
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14289
+D1
+~
+~
+0 0 14293
+D3
+~
+~
+0 0 14287
+R M 0 14216 5 14290
+S
+#14291
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+A door in the east wall is covered with venom.
+~
+1 8201 0
+D1
+A door in the east wall is covered with venom.
+~
+door~
+1 -1 14294
+D2
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14288
+R M 0 14215 5 14291
+S
+#14292
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14291
+D2
+~
+~
+0 0 14293
+D3
+~
+~
+0 0 14289
+R M 0 14216 5 14292
+S
+#14293
+Zoo of Death - Level 3~
+~
+This level contains poisoners.
+~
+1 8201 0
+D0
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14290
+R M 0 14214 5 14293
+S
+#14294
+A Stairway~
+~
+This stairway leads from the third to fourth level.
+~
+1 0 0
+D3
+~
+~
+0 -1 14291
+D5
+~
+~
+0 0 14307
+S
+#14295
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D1
+~
+~
+0 0 14298
+D2
+~
+~
+0 0 14296
+R M 0 14217 5 14295
+S
+#14296
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14295
+D1
+~
+~
+0 0 14299
+D2
+~
+~
+0 0 14297
+R M 0 14218 5 14296
+S
+#14297
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+You are in too much of a panic to open the door in the west wall.
+~
+1 8201 0
+D0
+~
+~
+0 0 14296
+D1
+~
+~
+0 0 14300
+D3
+You are in too much of a panic to open the door in the
+west wall.
+~
+door~
+1 -1 14310
+R M 0 14217 5 14297
+S
+#14298
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D1
+~
+~
+0 0 14301
+D2
+~
+~
+0 0 14299
+D3
+~
+~
+0 0 14295
+R M 0 14218 5 14298
+S
+#14299
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14298
+D1
+~
+~
+0 0 14302
+D2
+~
+~
+0 0 14300
+D3
+~
+~
+0 0 14296
+R M 0 14217 5 14299
+S
+#14300
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14299
+D1
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14297
+R M 0 14218 5 14300
+S
+#14301
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D1
+~
+~
+0 0 14304
+D2
+~
+~
+0 0 14302
+D3
+~
+~
+0 0 14298
+S
+#14302
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14301
+D1
+~
+~
+0 0 14305
+D2
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14299
+S
+#14303
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14302
+D1
+~
+~
+0 0 14306
+D3
+~
+~
+0 0 14300
+S
+#14304
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D1
+~
+~
+0 0 14307
+D2
+~
+~
+0 0 14305
+D3
+~
+~
+0 0 14301
+R M 0 14217 5 14304
+S
+#14305
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14304
+D1
+~
+~
+0 0 14308
+D2
+~
+~
+0 0 14306
+D3
+~
+~
+0 0 14302
+R M 0 14218 5 14305
+S
+#14306
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14305
+D1
+~
+~
+0 0 14309
+D3
+~
+~
+0 0 14303
+R M 0 14217 5 14306
+S
+#14307
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D2
+~
+~
+0 0 14308
+D3
+~
+~
+0 0 14304
+S
+#14308
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14307
+D2
+~
+~
+0 0 14309
+D3
+~
+~
+0 0 14305
+R M 0 14218 5 14308
+S
+#14309
+Zoo of Death - Level 4~
+~
+This level contains enemies of fear.
+~
+1 8201 0
+D0
+~
+~
+0 0 14308
+D3
+~
+~
+0 0 14306
+S
+#14310
+A Stairway~
+~
+This stairway leads from the fourth to fifth level.
+~
+1 0 0
+D1
+~
+~
+0 0 14297
+D5
+~
+~
+0 0 14311
+S
+#14311
+The Pit of Despair~
+~
+You are in a large cage on the fifth level of the Zoo of Death,
+reserved for an enemy worthy of Prince Humperdinck.  Are you that enemy?
+~
+1 8201 0
+D4
+~
+~
+0 0 14310
+R M 0 14205 1 14311
+  R E 0 14205 0 16
+S
+#14312
+Florin City~
+~
+This road leads from the Zoo of Death towards Florin Castle.
+~
+1 0 1
+D1
+~
+~
+0 0 14313
+D3
+~
+~
+0 0 14243
+S
+#14313
+Outside Miracle Max's~
+~
+To the north is a small hut with a thatched roof.
+~
+1 0 1
+D0
+~
+~
+0 0 14314
+D1
+~
+~
+0 0 14315
+D3
+~
+~
+0 0 14312
+S
+#14314
+Miracle Max's House~
+~
+Miracle Max used to work for the King, until Prince Humperdinck
+convinced the king to fire him.  Although the three years have taken
+their toll on his confidence, a little money will refresh his memory.
+~
+1 8 1
+D2
+~
+~
+0 0 14313
+R M 0 14220 1 14314
+  R G 0 14206 0
+  R G 0 14207 0
+S
+#14315
+Florin City~
+~
+This road leads from the Zoo of Death towards Florin Castle.
+~
+1 0 1
+D1
+~
+~
+0 0 14316
+D3
+~
+~
+0 0 14313
+S
+#14316
+Florin Castle Gate~
+~
+A huge gate stands before you, the only entrance to Florin Castle.
+And there is only one key to the gate.  And Yellin has that key.
+~
+1 0 1
+D1
+Behind a portcullis stands a large gate, the only 
+entrance to Florin Castle.  There is but one key to the gate.
+~
+gate~
+33 14208 14317
+D3
+~
+~
+0 0 14315
+R M 0 14219 1 14316
+  R G 0 14208 0
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+R M 0 14221 10 14316
+S
+#14317
+Entryway to Florin Castle~
+~
+You are just inside the castle gate.  Rather modest for a castle, the 
+hallway still commands your attention with fine art, decorations in gold 
+and silver, and high ceilings.  To the south is the library, or you can go 
+further into the castle to the east.
+~
+1 8 0
+D1
+~
+~
+0 0 14318
+D2
+~
+~
+0 0 14322
+S
+#14318
+Florin Castle Hallway~
+~
+The smell of fine cooking draws your nose to the door to your south.  
+Further ahead of you to the east the passage continues towards a grand 
+throne room.
+~
+1 8 0
+D1
+~
+~
+0 0 14319
+D2
+~
+~
+0 0 14323
+D3
+~
+~
+0 0 14317
+S
+#14319
+Florin Castle Hallway~
+~
+You hear the hustle and bustle of a busy kitchen to the south.  Behind you 
+to the west is the gate to the castle, and the throne room is getting 
+closer to the east.
+~
+1 8 0
+D1
+~
+~
+0 0 14320
+D2
+This door swings in either direction to allow easy 
+access to servers with trays full of food.
+~
+door~
+1 -1 14324
+D3
+~
+~
+0 0 14318
+S
+#14320
+Florin Castle Hallway~
+~
+You stand in a quiet hallway.  To the south is a plain wooden door, and a 
+giant throne room opens up to the east.  West returns you towards the 
+castle gate.
+~
+1 8 0
+D1
+~
+~
+0 0 14321
+D2
+~
+door~
+1 -1 14325
+D3
+~
+~
+0 0 14319
+S
+#14321
+Florin Throne Room~
+~
+This is the seat of power for the Florin Empire.  Although in past years 
+the Florins had attempted to seize even more land by taking over the 
+neighbor country of Guilder, a truce has been in effect for several 
+years.  Large thrones here seat the Florin King and Queen, but it is 
+Prince Humperdink who really runs the country.  His chambers are to the 
+south.  You can leave the throne room to the west.
+~
+1 8 0
+D2
+~
+~
+0 0 14326
+D3
+~
+~
+0 0 14320
+R M 0 14224 1 14321
+  R E 0 14213 0 6
+R M 0 14225 1 14321
+S
+#14322
+Florin Castle Library~
+~
+This must be one of the largest libraries you've ever seen!  Books from 
+all over the world in many different languages line the shelves.  You feel 
+as if you could sit here and read all day.  A bookshelf rests against the 
+south wall.
+~
+1 8 0
+D0
+~
+~
+0 0 14317
+D2
+This bookshelf holds mostly short stories.
+~
+bookshelf~
+33 14215 14327
+R M 0 14227 1 14322
+  R G 0 14214 0
+  R G 0 14214 0
+R O 0 14215 0 14322
+S
+#14323
+Florin Castle Dining Room~
+~
+A large table here could seat hundreds, although the usual meals are only 
+for four.  You hear dishes rattling to the east.
+~
+1 8 0
+D0
+~
+~
+0 0 14318
+D1
+~
+~
+0 -1 14324
+S
+#14324
+Florin Castle Kitchen~
+~
+This kitchen is a bustle of activity.  You step to the side to allow 
+servers to run past you.  You wonder where they are going.
+~
+1 8 0
+D0
+This door swings easily in both directions to allow 
+easy access to servers with trays full of food.
+~
+door~
+1 -1 14319
+D2
+~
+~
+0 -1 14328
+D3
+~
+~
+0 0 14323
+S
+#14325
+Princess Buttercup's Chambers~
+~
+A simple room here is the new home of Princess Buttercup.  It is 
+decorated rather blandly, as if the occupant did not care much for 
+beauty.  A window is in the south wall.
+~
+1 8 0
+D0
+A simple wooden door opens out onto the hallway.
+~
+door~
+1 -1 14320
+R M 0 14226 1 14325
+  R E 0 14217 0 16
+E
+window~
+The window looks out on a courtyard in the castle.  Four white horses 
+whinny below you.  They look rather fast.
+~
+S
+#14326
+Prince Humperdinck's Chambers~
+~
+A lavishly decorated room speaks of a hunter's skill.  The walls are 
+adorned with trophies of animals from all over the world.
+~
+1 8 0
+D0
+~
+~
+0 0 14321
+D2
+~
+~
+0 -1 14329
+R M 0 14204 1 14326
+S
+#14327
+Florin Treasure Chamber~
+~
+You find a small secret room here where the treasures of the Florin 
+monarchy are kept!
+~
+1 8 0
+D0
+~
+~
+0 0 14322
+R O 0 14216 0 14327
+S
+#14328
+Pantry~
+~
+This is the largest pantry you've seen!  Food lines the shelves and hangs 
+from the ceiling.  A servant eyes you warily, seeming to warn you that 
+taking any of the food will land you in the dungeon.
+~
+1 8 0
+D0
+~
+~
+0 -1 14324
+S
+#14329
+The Map Room~
+~
+This room is filled with maps of all shapes and sizes.  From small maps 
+ideal for the hunter or traveler to large scale bas relief maps of the 
+known world, you find the collective knowledge of every explorer here.
+A rolled-up map on the south wall is labeled "Edge City"
+~
+1 8 0
+D0
+~
+~
+0 0 14324
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

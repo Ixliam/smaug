@@ -1,0 +1,941 @@
+#AREA        The Kennels~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#4300
+six headed dark hound~
+the hound's `#`Rfiery red`^ head~
+A six headed dark hound stands here.
+~
+This six headed dog like beast stands proud here. It's heads sway on their 
+muscular necks, looking in all directions. The rest of it's body is equally 
+muscular and looks quite capable of pouncing on top of you. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+92 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4301
+five headed dark hound fiveheaded~
+the hound's `#`Gacidic green`^ head~
+A five headed dark hound stands here.
+~
+Five heads leer at you with equal evil intention. This beast seems quite 
+capable of ripping his prey to small shreds, and then still be hungry enough 
+to eat some cattle. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+92 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4302
+four headed dark hound fourheaded~
+the hound's `#`Wblinding white`^ head~
+A four headed dark hound stands here.
+~
+Ontop of a strong, muscular body four necks protrude in different 
+directions. On each of these massive necks a vicious head peers down at it's 
+prey. The jaws in these heads look rather strong and are filled with many 
+sharp teeth. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+92 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4303
+three headed dark hound threeheaded~
+the hound's `#`Cicy blue`^ head~
+A three headed dark hound stands here.
+~
+Six eyes peer down at you from three heads all facing in your direction. 
+Pure evil eminates from this beast as it gets a sniff of fear. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+92 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4304
+two headed dark hound twoheaded~
+the hound's `#`sdark black`^ head~
+A two headed dark hound stands here.
+~
+This two headed beast looks just about ready to pounce on it's victim. The 
+strong paws under it's lean body have the look of agility to them. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+90 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4305
+dark hound oneheaded~
+a dark hound~
+A dark hound stands here.
+~
+A long, thin tail sways behind this beast of power. Four strong paws, a lean 
+body and a head form this enormous creature. Two dark silver eyes look 
+around, as if searching for something to set it's teeth into. 
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+92 0 -64 9d13+460 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4306
+beastmaster muscular man~
+a muscular man~
+A hairy, muscular man stands here.
+~
+A stern looking man stands here. His body is very muscular, if perhaps a 
+little stocky. He is covered in hair from head to toe. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -50 8d11+400 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4307
+beastlord sturdy bald-headed man~
+a sturdy, bald-headed man~
+A sturdy looking, bald-headed man stands here.
+~
+This man is as broad as some of the ferocious beasts he keeps. His whole 
+body bulges with muscles, despite this he still looks lean and agile. His 
+head is as bald as a cannonball. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+84 0 -55 9d12+420 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#4300
+warm furry vest~
+a furry vest~
+A warm furry vest lies here.~
+~
+9 0 8
+55 55 20 0 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4300 warm furry vest~
+Make of different furs, that have been intertwined in some way, this vest 
+looks extremely warm. 
+~
+#4301
+thick leather kilt~
+a thick leather kilt~
+A kilt made of thick leather lies here.~
+~
+9 0 8
+55 55 16 0 0 0 0
+1 2150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4302
+light brown tanned armguards~
+tanned leather armguards~
+Some light brown armguards lie here.~
+~
+9 0 8
+55 55 16 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4303
+saw-toothed serrated axe~
+a saw-toothed axe~
+An axe with a saw-tooth serrated edge lies here.~
+~
+5 0 4
+4 105 135 160 0 0 0
+1 1870 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4304
+thick dark leather knee boots~
+dark leather knee boots~
+A pair of thick, dark leather knee high boots lie here.~
+~
+9 0 8
+55 55 15 0 0 0 0
+1 2265 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4305
+baggy dark leather leggings~
+baggy, dark leather leggings~
+A pair of baggy, dark leather leggings lies here.~
+~
+9 0 8
+55 55 17 0 0 0 0
+1 2436 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4306
+waist satchel soft fur~
+a soft furred waist satchel~
+A waist satchel made of soft furs lies here.~
+~
+15 0 8
+1 0 35 75 0 0 0
+1 2340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4307
+heavy dark grey cape~
+a heavy, `#`sdark grey`^, leather cape~
+A heavy, `#`sdark grey`^, leather cape lies here.~
+~
+9 0 8
+55 55 15 0 0 0 0
+1 2500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4308
+tightly bound hard leather bracer~
+a hardened leather bracer~
+A tightly bound, hard leather bracer lies here.~
+~
+9 0 8
+55 55 9 0 0 0 0
+1 1890 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4309
+inch thick polearm~
+an inch thick polearm~
+An inch thick polearm with iron tips lies here.~
+~
+5 0 4
+5 108 151 32 0 0 0
+2 2245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4310
+small white stone key~
+a small, `#`Wwhite stone`^ key~
+A small, `#`Wwhite stone`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4311
+small bronze key~
+a small, `#`ybronze`^ key~
+A small, `#`ybronze`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4312
+savagely half devoured corpse~
+a savagely devoured corpse~
+A savagely half devoured corpse lies here, collecting flies.~
+~
+23 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+4312 savagely devoured corpse~
+A pile of what looks like the parts of a hairy corpse lies here. It could 
+be a feylar or a gnoll, but you can't tell for sure from what is remaining of 
+it. Large chunks have been taken or bitten out of it. 
+~
+#4313
+glistening red ruby~
+a glistening `#`rred`^ ruby~
+A glistening `#`rred`^ ruby, connected to a delicate chain lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 2410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4314
+frosty blue opal~
+a frosty `#`Cblue`^ opal~
+A frosty `#`Cblue`^ opal, connected to a delicate chain lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 2410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4315
+brilliant white diamond~
+a brilliant `#`Wwhite`^ diamond~
+A brilliant `#`Wwhite`^ diamond, connected to a delicate chain lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 2410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4316
+pale green rhinestone~
+a pale `#`Ggreen`^ rhinestone~
+A pale `#`Ggreen`^ rhinestone, connected to a delicate chain lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 2410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#4300
+A Gloomy Path~
+~
+Whatever the position of the sun, no light shines on this path. The dark, 
+thick leaved trees on either side of the path, create dark heavy shadows on 
+the gravel path. Far up ahead in an eastward direction some construction 
+looms. Beside the gravel path the ground is quite dry and the scarce growths 
+that have managed to survive seem to be begging for moisture. 
+~
+1 0 3
+D1
+~
+~
+0 0 4301
+D9
+~
+~
+0 0 4309
+S
+#4301
+A Gloomy Path~
+~
+The trees are close together here and their branches create a domed 
+structure above you. This has transformed this path amongst the trees into a 
+corridor of branches and tree trunks. Reflections off an iron gate provide a 
+little light towards the east. At the other end, the path takes you deeper 
+into the forest in a westward direction. 
+~
+1 0 3
+D1
+~
+~
+0 0 4302
+D3
+~
+~
+0 0 4300
+S
+#4302
+Before the Iron Gates~
+~
+An iron gate runs in a north south line accross a dirt gravel path here. 
+The gate consists of thick, heavy vertical spikes that are fixed in 
+horizontal lattices. They give an impenetrable impression and judging by 
+some marks of wear, consisting of scratchmarks mainly, they have been tested 
+thoroughly. Part of the gate seems to hang on a set of hinges and has a 
+thick knob attached to it. 
+~
+1 0 3
+D1
+~
+~
+1 0 4303
+D3
+~
+~
+0 0 4301
+S
+#4303
+Inside the Compound~
+~
+A strange smell lingers in the air. A warm smell of cooking meat mixed with 
+something foul. Small scraps of meat lay scattered on the dirt in between 
+the empty cages that seem to be everywhere. Most of the cages are empty but 
+scratching noises can be heard coming from others. 
+~
+1 0 1
+D1
+~
+~
+0 0 4305
+D2
+~
+~
+0 0 4304
+D3
+~
+~
+1 0 4302
+S
+#4304
+Amongst some Cages~
+~
+Cages in all sizes and shapes are racked up on top of each other here. Most 
+of the larger ones have thick large bars of metal to make sure no one or no 
+thing can escape. To the east you see a wooden wall of the main building in 
+this compound. Its wooden planks are nailed together with thick, long nails. 
+Some sawdust covers a large portion of the ground here. 
+~
+1 0 1
+D0
+~
+~
+0 0 4303
+R M 0 4306 3 4304
+  R E 0 4303 0 16
+  R E 0 4302 0 10
+  R E 0 4301 0 7
+  R E 0 4300 0 5
+S
+#4305
+Inside the Compound~
+~
+Dirt, sawdust and scraps of food are what you see when looking at the floor. 
+ The bits of meat that lie here have been ripped at by something sharp and 
+ferocious. To the south the main building stands. Its sturdy walls and thick 
+planks appear strong enough to keep the strongest beasts out, or in as the 
+case may be. There is a door along the wall to the east of here. 
+~
+1 0 1
+D0
+~
+~
+0 0 4308
+D1
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4303
+R M 0 4306 3 4305
+  R E 0 4303 0 16
+  R E 0 4302 0 10
+  R E 0 4301 0 7
+  R E 0 4300 0 5
+S
+#4306
+Inside the Compound~
+~
+A large steel enforced door stands between you and the warmth that this 
+building to your south can offer. All around you cages litter the ground, 
+filled with small creatures or simply empty. To the north you see the dark 
+coloured iron gate that surrounds this compound. Some scurrying noises can 
+be heard coming from some of the cages. 
+~
+1 0 1
+D0
+~
+~
+0 0 4307
+D2
+~
+~
+33 4311 4310
+D3
+~
+~
+0 0 4305
+S
+#4307
+Inside the Northern Gate~
+~
+A dark, steel gate runs along the northern end of this compound. Its sturdy 
+rails are covered in claw marks. Some of the rails are slightly bent, which 
+is hardly believable considering their thickness. Beneath the gate, 
+something has dug a hole providing the only escape, or entrance, in that 
+direction. The sawdust on the ground is riddled with claw marks, as if 
+someone or something has recently been dragged across the ground here. 
+~
+1 0 1
+D0
+~
+~
+0 0 4320
+D2
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4308
+R M 0 4306 3 4307
+  R G 0 4311 0
+  R E 0 4300 0 5
+  R E 0 4301 0 7
+  R E 0 4302 0 10
+  R E 0 4303 0 16
+S
+#4308
+Inside the Northern Gate~
+~
+This appears to be a refuse corner. Broken cages and empty crates have been 
+thrown on a large pile here. Some rats and other rodents scuttle around amid 
+the refuse, hoping to find some fresher meat that the torn, rotting chunks 
+that lie scattered over the rest of the compound. 
+~
+1 0 1
+D1
+~
+~
+0 0 4307
+D2
+~
+~
+0 0 4305
+S
+#4309
+A Gloomy Path~
+~
+This dark and gloomy path has seen very little light from the looks of the 
+soil beneath the trees. Few plants live beneath the large, thickly leaved 
+trees that stand here. Some animals can be hurd scattering about the 
+treetops, and the odd hooting of an owl echoes through the dark passageway. 
+~
+1 0 0
+D0
+~
+~
+0 0 4321
+D7
+~
+~
+0 0 4300
+S
+#4310
+a Wooden Hallway~
+~
+A few torches, fastened tightly to the wooden walls in steel brackets, light 
+this hallway. The floor, consisting of sturdy, thick planks, is riddled 
+with scratch marks. A few of the planks are partialy ripped up out of the 
+ground. Heavy cell doors are situated to the west and the east, with 
+massive bolts on them. 
+~
+1 8 0
+D0
+~
+~
+33 4311 4306
+D1
+~
+~
+1 0 4315
+D2
+~
+~
+0 0 4311
+D3
+~
+~
+1 0 4314
+S
+#4311
+A Wooden Hallway~
+~
+Sounds of beasts huffing and puffing taunt your ears. The doors to the west 
+and east of here look like those of a prison cell. Through a small slit in 
+the door, only darkness can be seen. There is a stench that fills the air 
+like a poisonous gas. To the south the hallway leads towards a metal 
+framework of steel and iron. 
+~
+1 8 0
+D0
+~
+~
+0 0 4310
+D1
+~
+~
+0 0 4317
+D2
+~
+~
+0 0 4312
+D3
+~
+~
+1 0 4316
+S
+#4312
+Before the Framework~
+~
+This construction of steel and iron is amazing. Large plates of steel have 
+been attached over iron bars, creating a framework of metal. Many bumps on 
+the plate suggest alot of pressure has been asserted from the other side of 
+this construction. A small puddle of dried blood lies beneath the steel 
+plates. 
+~
+1 8 0
+D0
+~
+~
+0 0 4311
+D2
+~
+~
+33 4310 4313
+D7
+~
+~
+0 0 4318
+S
+#4313
+Inside the Cage~
+~
+A foul stench immediately reaches you, the stench of rot. The immensity of 
+it is incredible. As soon as you wonder what it could be, your gaze falls 
+upon a large pile of corpses. Some of them have been carved in, others just 
+left intact. A large swarm of flies buzzes over this festering pile of 
+rotting meat. 
+~
+1 9 0
+D0
+~
+~
+33 4310 4312
+R M 0 4300 1 4313
+  R E 0 4313 0 3
+S
+#4314
+Inside a Cell~
+~
+This room resembles a prison cell in many ways. The stark walls and no 
+furniture give it a very cold feel indeed. Amongst the straw, a neat pile of 
+bones lies neatly stacked with the smaller bones on top, and the larger 
+bones at the bottom. The bones don't look very old, but they have been 
+completly stripped of meat. 
+~
+1 9 0
+D1
+~
+~
+1 0 4310
+R M 0 4305 4 4314
+S
+#4315
+Inside a Cell~
+~
+The walls, bare of any marking what so ever, stand in great contrast with 
+the floor. Although the floor is of a simple rough rock, it is littered 
+with familiar objects. Bones, skulls and torn bits of clothing seem to 
+contribute to most of the mess on the floor. 
+~
+1 9 0
+D3
+~
+~
+1 0 4310
+R M 0 4304 4 4315
+S
+#4316
+Inside a Cell~
+~
+The only light in this room comes from a small slit in the sturdy door to 
+the east. The small beam of light shows very little in this shadowy room. 
+There is no furniture, apart from an empty crate in the corner of the room. 
+A small pool of dried up blood lies in the center of the room where the 
+floor is slightly lower. 
+~
+1 9 0
+D1
+~
+~
+1 0 4311
+R M 0 4303 4 4316
+S
+#4317
+Inside a Cell~
+~
+Sawdust and straw litter the floor of this cold cell room. The low ceiling 
+and the smooth walls give a claustrophobic feel to the room. On the far wall 
+some writing has been scribbled in blood `#`r"Beware of the heads"`^. 
+~
+1 9 0
+D3
+~
+~
+0 0 4311
+R O 0 4312 0 4317
+S
+#4318
+The Gutter~
+~
+A gushing noise can be heard coming from the side of this corridor. The 
+source of this noise is a gutter, that has been dug along the wall to the 
+south. A dark red fluid flows quite forcefully through this gutter. The 
+wooden walls that enclose this hallway are stained along the gutter. After 
+a little inspection the dark red fluid appears to be blood. 
+~
+1 8 0
+D1
+~
+~
+0 0 4319
+D9
+~
+~
+0 0 4312
+R M 0 4307 1 4318
+  R G 0 4310 0
+  R E 0 4309 0 16
+  R E 0 4308 0 15
+  R E 0 4308 0 14
+  R E 0 4307 0 12
+  R E 0 4306 0 13
+  R E 0 4305 0 7
+  R E 0 4304 0 8
+S
+#4319
+The Tannery~
+~
+Tall racks stand here with stretched animal hides spanned accross them. A 
+few objects of comfort also lie about this end of the corridor like a chair 
+and a table. To one corner of the room, a large pile of skinned carcasses 
+lies collecting flies. The smell coming from this pile is disgusting. 
+~
+1 8 0
+D3
+~
+~
+0 0 4318
+S
+#4320
+Before a Sturdy Fence~
+~
+The trees overhead form a gentle canopy, rustling softly in the breeze. 
+Strangely though, there are no sounds of animals in the branches, nor birds 
+singing. It is an uneasy quiet. To the north, the forest continues, but to 
+the south you catch a glimpse of a building of some sort. A fence bars 
+travel in that direction, but something has dug a hole beneath it. It's 
+impossible to tell if it was to enter or escape. 
+~
+1 4 0
+D2
+~
+~
+0 0 4307
+S
+#4321
+A Gloomy Path~
+~
+Towards the south hardly any light penetrates the leaves and twigs that 
+create a corridor of plantlife here. The ground also undergoes a dramatic 
+change in that direction as it becomes very dark, although not necesarily 
+rich. Towards the north, the ground is very sandy and the trees thin out and 
+become alot smaller. 
+~
+1 0 0
+D2
+~
+~
+0 0 4309
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

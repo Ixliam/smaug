@@ -1,0 +1,171 @@
+#AREA        Temple of Anacor~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#7570
+altar~
+an altar to `CAnacor`x~
+An altar to `#`CAnacor`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7571
+wooden box~
+a large wooden box~
+A large wooden box rests here.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7570
+Entranceway~
+~
+You find yourself just inside of a large temple.  The walls are covered in 
+soft velvet maroon and black draperies and sweet smelling incense fills the 
+air.  Soft chanting can be heard from north of you.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7571
+D2
+~
+~
+0 0 27099
+S
+#7571
+Grand Foyer~
+~
+The ceiling in the foyer stands well over 10 feet tall and there is a large 
+elaborate chandelier hanging from the ceiling.  The walls are covered in 
+soft velvet maroon and black draperies.  Sweet smelling incense fills the 
+air.  There is a large altar to your north and rooms to both your east and 
+west.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7572
+D1
+~
+~
+1 0 7573
+D2
+~
+~
+0 0 7570
+D3
+~
+~
+1 0 7574
+S
+#7572
+Altar Room~
+~
+The walls are covered in soft velvet maroon and black draperies.  There are 
+2 large braziers resting on either side of a large altar creating a soft 
+light in the room.  Sweet smelling incense fills the air.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 7571
+R O 0 7570 0 7572
+S
+#7573
+High Priest's Chamber~
+~
+The walls in this room are covered in the same soft velvet maroon and black 
+draperies as throughtout the temple.  Sweet smelling incense fills the air 
+in the room.  The way out is to your west.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 7571
+S
+#7574
+Donation Room~
+~
+You are in a small room lined with shelves.  There are several wooden boxed 
+lined neatly in the middle of the room.  Anacor's worshipers seem to use 
+this room to hoard things here.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 7571
+R O 0 7571 0 7574
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

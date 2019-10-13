@@ -1,0 +1,2780 @@
+#AREA        The Lost Gorge~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#6800
+dinosaur anatosaurus~
+an Anatosaurus~
+A huge duck-billed dinosaur is grazing on some vegetation here.
+~
+This 30' tall dinosaur vaguely resembles a gigantic duck with the body of
+a lizard.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6801
+dinosaur ankylosaurus~
+an ankylosaurus~
+An armadillo-like dinosaur is startled by your presence.
+~
+This dinosaur is well over 15' long from head to tail.  It is built
+rather like an armadillo, with thick armor plates covering it's body and
+huge spines protruding from it's sides.  The long tail ends in a huge
+knobbed growth perfect for bashing foes.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -53 8d12+410 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6802
+dinosaur allosaurus~
+an allosaurus~
+A monstorous dinosaur with a huge mouth full of jagged teeth thinks you are dinner.
+~
+This dinosaur appears very deadly, as he is fast and a highly aggressive
+predator.  It has a maw full of fangs the size of short swords and twice as
+sharp.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+91 0 -56 9d12+420 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6803
+dinosaur brontosaurus~
+a brontosaurus~
+A titanic dinosaur towers above the treetops here.
+~
+This quadraped is gargantuan, stretching more than 70' in length from
+head to tail.  It leaves immense impressions in the ground with each step,
+better not stand in his path.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -56 9d12+420 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6804
+dinosaur archelon ischyros~
+an archelon ischyros~
+A very large turtle-like dinosaur is looking for vegetation here.
+~
+Swimming around this area, this big turtle-like amphibian searches for
+aquatic vegetation to eat.  It is only 12' long, but has an equal proportion
+in girth.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+90 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6805
+dinosaur brachiosaurus~
+a brachiosaurus~
+An impossibly massive dinosaur is causing the earth to shake with each step.
+~
+This massive dinosaur dwarfs all the others in this valley.  While not the 
+longest, the sheer mass of this one must be twice that of any other you have 
+seen.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -53 8d12+600 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6806
+dinosaur dinichtys~
+a dinichtys~
+A large fish-like dinosaur is swimming around looking for prey.
+~
+The mouth of this viscious fish appears quite able to swallow a human in
+a single gulp.  You don't want to get any closer to it's mouth to find out
+for sure.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+85 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6807
+dinosaur elasmosaurus~
+an elasmosaurus~
+A highly aggressive dinosaur notices your movements and attacks.
+~
+This dinosaur resembles a fish with four legs and a long neck.  This one
+is most likely a carnivore, judging by the jagged teeth and sharp claws.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+94 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6808
+dinosaur paleoscincus~
+a paleoscincus~
+A heavily plated dinosaur with a wickedly spiked tail snorts at your intrusion.
+~
+This one could be described as a walking dreadnought, for it is heavily
+plated, sports sharp spines along it's flanks, and has a wickedly spiked
+tail.  It would be rather difficult to damage this one.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+88 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6809
+dinosaur stegosaurus~
+a stegosaurus~
+A dinosaur with large spine plates and a long spiked tail is grazing here.
+~
+This dinosaur lumbers around eating the lush vegetation.  It disregards
+you as nothing more than a mere fly, an annoyance.  Along it's back are
+jutting bone plates, as well as similar plates on the tail.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+86 0 -51 8d12+400 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6810
+dinosaur triceratops~
+a triceratops~
+A dinosaur with a bony shield and 3 great horns growing from it's skull charges you.
+~
+This dinosaur resembles a tremendous 3-horned rhinoceros with a large
+bone plate protruding from the back of it's skull.  As you examine him, he
+lowers his head and turns toward you, ready to charge.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+86 0 -57 9d12+425 10d10+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6811
+dinosaur camptosaurus~
+a camptosaurus~
+A rather small dinosaur ignores you and continues grazing.
+~
+This dinosaur looks to be on the low end of the food chain, easy prey for
+the carnivores.  It is only 8' tall, very small for the size of the other
+dinosaurs in the valley here.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+75 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6812
+dinosaur compsognathus~
+a compsognathus~
+A dog-sized dinosaur is sneaking around hunting prey.
+~
+This dinosaur resembles an overgrown iguana walking on it's hind legs. 
+It is very small, not even 2' tall, but is incredibly fast and voracious.  
+~
+0
+Clanname none~
+0
+0
+33 65536 0 C
+77 0 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6813
+dinosaur dimetrodon~
+a dimetrodon~
+An alligator-like dinosaur with a large spiny fin along it's back is hunting here.
+~
+A carnivorous dinosaur sporting a tall, spiny fin along it's back turns
+towards you.  He seems awfully hungry, maybe you should run.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+83 0 -48 8d11+390 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6814
+dinosaur tennodontosaurus~
+a tennodontosaurus~
+A wicked looking dinosaur is swimming around, looking for a meal.
+~
+This giant monster resembles a titanic shark with a long, razor-toothed
+maw.  It stretches well over 30' long, 5' of it is just mouth.  
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+97 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6815
+dinosaur tyrannosaurus~
+a tyrannosaurus~
+The most frightening dinosaur you have ever seen blasts out a deafening roar.
+~
+This is truly the king of the carnivorous dinosaurs.  It is a gigantic
+killing machine, fast and driven by an instinct to eat anything that moves. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+81 0 -60 9d12+600 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6816
+the gimp~
+the gimp~
+The Gimp is here.
+~
+The gimp looks, well, gimpy.  
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+1 0 9 100d1+100 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#6800
+small chest~
+a small chest burried beneath the sand~
+A small chest is poking out from beneath the sand here.~
+~
+15 0 8
+15 6829 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6801
+giant gemstone~
+a giant gemstone~
+An uncut gemstone as big as an orange rests here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 8000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6811
+gargantuan fern~
+a gargantuan fern~
+A gargantuan green fern grows up from the ground here.~
+~
+15 0 8
+0 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6829
+small rusty key~
+a small rusty key~
+A small key seems to be long forgotten on the ground here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#6816
+Trail into the Gorge~
+~
+The view of the gorge below is truly magnificent from up here.  You can
+see the entire valley as it stretches out to the sheer cliffs which have
+sealed this place off from time and civilization.  A very small path to the
+east has been carved into the cliffside, meandering down into the gorge far
+below you.  Sitting to the west is a boulder that has been cleft and
+inscribed on the flat surface.  
+~
+1 4 5
+D1
+~
+~
+0 0 6817
+E
+boulder~
+Inscriptions on the flat face of this massive stone read 'Beware all who
+enter, for here dwell beasts that time has forgotten'.  
+~
+S
+#6817
+On the Cliff Trail~
+~
+This small path is precarious in the best of spots.  Looking below you,
+you notice that this is no man made path.  The rubble from the partial
+collapse of this wall of the gorge lies on the valley floor.  To the west
+the trail slowly rises to the top of the cliff.  To the east the path
+disappears into the high forest canopy.  
+~
+1 4 5
+D1
+~
+~
+0 0 6818
+D3
+~
+~
+0 0 6816
+S
+#6818
+On the Cliff Trail~
+~
+At this spot on the trail you stand even with the treetops of a massive
+forest that spreads out to the south.  Far off beyond the trees you can make
+out a large body of water.  Also there appears to be a rather large sand
+barge in the middle of the water.  To the west the trail slowly makes it's
+way back up to the top of the cliff, while to the east the forest blocks all
+the light and envelops the path in an impenetrable darkness.  
+~
+1 4 5
+D1
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6817
+S
+#6819
+Base of the Cliff~
+~
+Towering high above you, the broad leaves on the treetops manage to
+submerge this forest in a murky twilight.  The girth of these trees could
+dwarf a dragon, and thier height is well beyond the reach of even a titan. 
+To the south the forest stretches out and looks like it would not be
+difficult to become lost.  Climbing up the face of the cliff to the west is
+the long, dangerous path to the top of the gorge.  
+~
+1 4 5
+D2
+~
+~
+0 0 6822
+D3
+~
+~
+0 0 6818
+S
+#6820
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6827
+D1
+~
+~
+0 0 6821
+D2
+~
+~
+0 0 6827
+D3
+~
+~
+0 0 6824
+R M 0 6800 12 6820
+S
+#6821
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6828
+D1
+~
+~
+0 0 6822
+D2
+~
+~
+0 0 6828
+D3
+~
+~
+0 0 6820
+S
+#6822
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6819
+D1
+~
+~
+0 0 6823
+D2
+~
+~
+0 0 6829
+D3
+~
+~
+0 0 6821
+R M 0 6805 4 6822
+S
+#6823
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6830
+D1
+~
+~
+0 0 6824
+D2
+~
+~
+0 0 6830
+D3
+~
+~
+0 0 6822
+S
+#6824
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6831
+D1
+~
+~
+0 0 6820
+D2
+~
+~
+0 0 6831
+D3
+~
+~
+0 0 6823
+S
+#6825
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6825
+D1
+~
+~
+0 0 6826
+D2
+~
+~
+0 0 6835
+D3
+~
+~
+0 0 6833
+S
+#6826
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6826
+D1
+~
+~
+0 0 6827
+D2
+~
+~
+0 0 6826
+D3
+~
+~
+0 0 6825
+R M 0 6808 4 6826
+S
+#6827
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6820
+D1
+~
+~
+0 0 6828
+D2
+~
+~
+0 0 6820
+D3
+~
+~
+0 0 6826
+S
+#6828
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6821
+D1
+~
+~
+0 0 6829
+D2
+~
+~
+0 0 6821
+D3
+~
+~
+0 0 6827
+S
+#6829
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 0 2
+D0
+~
+~
+0 0 6822
+D1
+~
+~
+0 0 6830
+D2
+~
+~
+0 0 6829
+D3
+~
+~
+0 0 6828
+R M 0 6811 16 6829
+R O 0 6811 0 6829
+  R P 0 6829 1 6811
+S
+#6830
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6823
+D1
+~
+~
+0 0 6831
+D2
+~
+~
+0 0 6823
+D3
+~
+~
+0 0 6829
+R M 0 6800 12 6830
+S
+#6831
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6824
+D1
+~
+~
+0 0 6832
+D2
+~
+~
+0 0 6824
+D3
+~
+~
+0 0 6830
+S
+#6832
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6832
+D1
+~
+~
+0 0 6833
+D2
+~
+~
+0 0 6832
+D3
+~
+~
+0 0 6831
+R M 0 6808 4 6832
+S
+#6833
+The Venerable Copse~
+~
+The enormous trees of this wood grow have grown into an impossibly
+confusing maze of roots and branches.  What's more, some of the trees seem
+to have been pushed over or broken off, making the task of keeping a trail
+through here rather toilsome.  All about you the forest continues to obscure
+your senses.  
+~
+1 1 3
+D0
+~
+~
+0 0 6833
+D1
+~
+~
+0 0 6825
+D2
+~
+~
+0 0 6843
+D3
+~
+~
+0 0 6832
+S
+#6834
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6845
+D1
+~
+~
+0 0 6835
+D2
+~
+~
+0 0 6845
+D3
+~
+~
+0 0 6835
+R M 0 6803 6 6834
+S
+#6835
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6825
+D1
+~
+~
+0 0 6834
+D2
+~
+~
+0 0 6835
+D3
+~
+~
+0 0 6834
+R M 0 6803 6 6835
+S
+#6836
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6869
+D1
+~
+~
+0 0 6837
+D2
+~
+~
+0 0 6847
+D3
+~
+~
+0 0 6842
+S
+#6837
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6837
+D1
+~
+~
+0 0 6838
+D2
+~
+~
+0 0 6837
+D3
+~
+~
+0 0 6836
+R M 0 6806 6 6837
+S
+#6838
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6838
+D1
+~
+~
+0 0 6839
+D2
+~
+~
+0 0 6838
+D3
+~
+~
+0 0 6837
+S
+#6839
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6839
+D1
+~
+~
+0 0 6840
+D2
+~
+~
+0 0 6850
+D3
+~
+~
+0 0 6838
+R M 0 6814 2 6839
+S
+#6840
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6840
+D1
+~
+~
+0 0 6841
+D2
+~
+~
+0 0 6840
+D3
+~
+~
+0 0 6839
+S
+#6841
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6841
+D1
+~
+~
+0 0 6842
+D2
+~
+~
+0 0 6841
+D3
+~
+~
+0 0 6840
+R M 0 6806 6 6841
+S
+#6842
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6875
+D1
+~
+~
+0 0 6836
+D2
+~
+~
+0 0 6853
+D3
+~
+~
+0 0 6841
+S
+#6843
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6833
+D1
+~
+~
+0 0 6844
+D2
+~
+~
+0 0 6843
+D3
+~
+~
+0 0 6844
+R M 0 6803 6 6843
+S
+#6844
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6855
+D1
+~
+~
+0 0 6843
+D2
+~
+~
+0 0 6855
+D3
+~
+~
+0 0 6843
+R M 0 6803 6 6844
+S
+#6845
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6834
+D1
+~
+~
+0 0 6846
+D2
+~
+~
+0 0 6834
+D3
+~
+~
+0 0 6846
+R M 0 6809 8 6845
+S
+#6846
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6857
+D1
+~
+~
+0 0 6845
+D2
+~
+~
+0 0 6857
+D3
+~
+~
+0 0 6845
+R M 0 6810 4 6846
+R M 0 6802 2 6846
+S
+#6847
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6836
+D1
+~
+~
+0 0 6847
+D2
+~
+~
+0 0 6858
+D3
+~
+~
+0 0 6847
+S
+#6848
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6870
+D1
+~
+~
+0 0 6849
+D2
+~
+~
+0 0 6859
+D3
+~
+~
+0 0 6849
+S
+#6849
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6871
+D1
+~
+~
+0 0 6848
+D2
+~
+~
+0 0 6860
+D3
+~
+~
+0 0 6848
+S
+#6850
+In the Lagoon~
+~
+The violence of the waters has faded and all is at peace here.  The
+surface of the sea is smooth as glass and radiates an amazing azure glow. 
+You seem to have entered the lagoon of a great sand bar.  To the south a
+small beach allows access onto the dry land.  To the north the water rages
+with a devilish fury.  
+~
+1 0 7
+D0
+~
+~
+0 0 6839
+D2
+~
+~
+0 0 6861
+R M 0 6814 2 6850
+S
+#6851
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6873
+D1
+~
+~
+0 0 6852
+D2
+~
+~
+0 0 6862
+D3
+~
+~
+0 0 6852
+S
+#6852
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6874
+D1
+~
+~
+0 0 6851
+D2
+~
+~
+0 0 6863
+D3
+~
+~
+0 0 6851
+S
+#6853
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6842
+D1
+~
+~
+0 0 6853
+D2
+~
+~
+0 0 6864
+D3
+~
+~
+0 0 6853
+S
+#6854
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6865
+D1
+~
+~
+0 0 6855
+D2
+~
+~
+0 0 6865
+D3
+~
+~
+0 0 6855
+R M 0 6810 4 6854
+R M 0 6802 2 6854
+S
+#6855
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6844
+D1
+~
+~
+0 0 6854
+D2
+~
+~
+0 0 6844
+D3
+~
+~
+0 0 6854
+R M 0 6809 8 6855
+S
+#6856
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6867
+D1
+~
+~
+0 0 6857
+D2
+~
+~
+0 0 6867
+D3
+~
+~
+0 0 6857
+R M 0 6801 5 6856
+S
+#6857
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6846
+D1
+~
+~
+0 0 6856
+D2
+~
+~
+0 0 6846
+D3
+~
+~
+0 0 6856
+R M 0 6805 4 6857
+S
+#6858
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6847
+D1
+~
+~
+0 0 6858
+D2
+~
+~
+0 0 6869
+D3
+~
+~
+0 0 6858
+S
+#6859
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6848
+D1
+~
+~
+0 0 6859
+D2
+~
+~
+0 0 6870
+D3
+~
+~
+0 0 6859
+S
+#6860
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6849
+D1
+~
+~
+0 0 6860
+D2
+~
+~
+0 0 6871
+D3
+~
+~
+0 0 6860
+R M 0 6804 12 6860
+S
+#6861
+The Sandy Reef~
+~
+The luminecent sands of this small island blaze with unbearable heat. 
+The whole of this area is devoid of any form of life as well as anything
+other than sand.  A small beach allows access to the lagoon to the north,
+which is the only visible exit away from here.  
+~
+1 5 10
+D0
+~
+~
+0 0 6850
+R O 0 6800 0 6861
+  R P 0 6801 1 6800
+S
+#6862
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6851
+D1
+~
+~
+0 0 6862
+D2
+~
+~
+0 0 6873
+D3
+~
+~
+0 0 6862
+R M 0 6804 12 6862
+S
+#6863
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6852
+D1
+~
+~
+0 0 6863
+D2
+~
+~
+0 0 6874
+D3
+~
+~
+0 0 6863
+S
+#6864
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6853
+D1
+~
+~
+0 0 6864
+D2
+~
+~
+0 0 6875
+D3
+~
+~
+0 0 6864
+S
+#6865
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6854
+D1
+~
+~
+0 0 6866
+D2
+~
+~
+0 0 6854
+D3
+~
+~
+0 0 6866
+R M 0 6805 4 6865
+S
+#6866
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6877
+D1
+~
+~
+0 0 6865
+D2
+~
+~
+0 0 6877
+D3
+~
+~
+0 0 6865
+R M 0 6801 5 6866
+S
+#6867
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6856
+D1
+~
+~
+0 0 6868
+D2
+~
+~
+0 0 6856
+D3
+~
+~
+0 0 6868
+R M 0 6803 6 6867
+S
+#6868
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6868
+D1
+~
+~
+0 0 6867
+D2
+~
+~
+0 0 6879
+D3
+~
+~
+0 0 6867
+S
+#6869
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6858
+D1
+~
+~
+0 0 6870
+D2
+~
+~
+0 0 6836
+D3
+~
+~
+0 0 6870
+R M 0 6804 12 6869
+S
+#6870
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6859
+D1
+~
+~
+0 0 6869
+D2
+~
+~
+0 0 6848
+D3
+~
+~
+0 0 6869
+S
+#6871
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6860
+D1
+~
+~
+0 0 6872
+D2
+~
+~
+0 0 6849
+D3
+~
+~
+0 0 6873
+R M 0 6806 1 6871
+S
+#6872
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 4 7
+D0
+~
+~
+0 0 6872
+D1
+~
+~
+0 0 6873
+D2
+~
+~
+0 0 6883
+D3
+~
+~
+0 0 6871
+S
+#6873
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6862
+D1
+~
+~
+0 0 6871
+D2
+~
+~
+0 0 6851
+D3
+~
+~
+0 0 6872
+R M 0 6806 1 6873
+S
+#6874
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6863
+D1
+~
+~
+0 0 6875
+D2
+~
+~
+0 0 6852
+D3
+~
+~
+0 0 6875
+S
+#6875
+In the Tumultuous Surf~
+~
+Whitecaps break all around you in this wicked maelstrom.  As you reach
+the pinacle of one swell, you see only rougher waters abound.  The pounding
+of the waves is unforgiving against all that venture into the brine, and
+there is naught but the roar of crashing water to fill your ears.  Hopefully
+anything living in these rough seas poses less danger than the creatures on
+the dry land.  
+~
+1 0 7
+D0
+~
+~
+0 0 6864
+D1
+~
+~
+0 0 6874
+D2
+~
+~
+0 0 6842
+D3
+~
+~
+0 0 6874
+R M 0 6804 12 6875
+S
+#6876
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6876
+D1
+~
+~
+0 0 6877
+D2
+~
+~
+0 0 6887
+D3
+~
+~
+0 0 6877
+S
+#6877
+Among the Rolling Hills~
+~
+The boundless headlands around you make it difficult to keep your
+bearings as you make your way through this ancient gorge.  The only visible
+markings are those of further-off hilltops and the regular impressions of
+some massive animal's tracks.  Some of the crater-like prints are quite
+capable of engulfing you, hindering your travels even further.  
+~
+1 0 4
+D0
+~
+~
+0 0 6866
+D1
+~
+~
+0 0 6876
+D2
+~
+~
+0 0 6866
+D3
+~
+~
+0 0 6876
+R M 0 6803 6 6877
+S
+#6878
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6889
+D1
+~
+~
+0 0 6879
+D2
+~
+~
+0 0 6889
+D3
+~
+~
+0 0 6888
+S
+#6879
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6868
+D1
+~
+~
+0 0 6880
+D2
+~
+~
+0 0 6890
+D3
+~
+~
+0 0 6878
+R M 0 6807 2 6879
+S
+#6880
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6891
+D1
+~
+~
+0 0 6881
+D2
+~
+~
+0 0 6891
+D3
+~
+~
+0 0 6879
+R M 0 6812 12 6880
+S
+#6881
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6892
+D1
+~
+~
+0 0 6882
+D2
+~
+~
+0 0 6892
+D3
+~
+~
+0 0 6880
+R M 0 6813 2 6881
+S
+#6882
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6893
+D1
+~
+~
+0 0 6883
+D2
+~
+~
+0 0 6893
+D3
+~
+~
+0 0 6881
+S
+#6883
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6872
+D1
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6882
+R M 0 6815 2 6883
+R M 0 6805 4 6883
+S
+#6884
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6895
+D1
+~
+~
+0 0 6885
+D2
+~
+~
+0 0 6895
+D3
+~
+~
+0 0 6883
+S
+#6885
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6896
+D1
+~
+~
+0 0 6886
+D2
+~
+~
+0 0 6896
+D3
+~
+~
+0 0 6884
+R M 0 6813 2 6885
+S
+#6886
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6897
+D1
+~
+~
+0 0 6887
+D2
+~
+~
+0 0 6897
+D3
+~
+~
+0 0 6885
+R M 0 6812 12 6886
+S
+#6887
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6876
+D1
+~
+~
+0 0 6888
+D2
+~
+~
+0 0 6898
+D3
+~
+~
+0 0 6886
+R M 0 6807 2 6887
+S
+#6888
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6899
+D1
+~
+~
+0 0 6878
+D2
+~
+~
+0 0 6899
+D3
+~
+~
+0 0 6887
+S
+#6889
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6878
+D1
+~
+~
+0 0 6890
+D2
+~
+~
+0 0 6878
+D3
+~
+~
+0 0 6899
+S
+#6890
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6879
+D1
+~
+~
+0 0 6891
+D2
+~
+~
+0 0 6890
+D3
+~
+~
+0 0 6889
+S
+#6891
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6880
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6880
+D3
+~
+~
+0 0 6890
+R M 0 6809 8 6891
+S
+#6892
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6881
+D1
+~
+~
+0 0 6893
+D2
+~
+~
+0 0 6881
+D3
+~
+~
+0 0 6891
+R M 0 6800 12 6892
+S
+#6893
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6882
+D1
+~
+~
+0 0 6894
+D2
+~
+~
+0 0 6882
+D3
+~
+~
+0 0 6892
+R M 0 6811 16 6893
+S
+#6894
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6883
+D1
+~
+~
+0 0 6895
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6893
+R M 0 6815 2 6894
+R M 0 6801 5 6894
+S
+#6895
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6884
+D1
+~
+~
+0 0 6896
+D2
+~
+~
+0 0 6884
+D3
+~
+~
+0 0 6894
+R M 0 6811 16 6895
+S
+#6896
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6885
+D1
+~
+~
+0 0 6897
+D2
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6895
+R M 0 6800 12 6896
+S
+#6897
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6886
+D1
+~
+~
+0 0 6898
+D2
+~
+~
+0 0 6886
+D3
+~
+~
+0 0 6896
+R M 0 6809 8 6897
+S
+#6898
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6887
+D1
+~
+~
+0 0 6899
+D2
+~
+~
+0 0 6898
+D3
+~
+~
+0 0 6897
+S
+#6899
+Upon the Plains~
+~
+These plains are host to lush growths of grasses, ferns, mushrooms, and
+wildflowers.  From time to time the ground beneath your feet quivers from
+the impact of dinosaurs roaming around the gorge.  As far as the eye can see
+there is only more vegetation and the frequent mass of the huge beasts that
+dwell upon these plains.  
+~
+1 0 2
+D0
+~
+~
+0 0 6888
+D1
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6888
+D3
+~
+~
+0 0 6898
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

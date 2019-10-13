@@ -1,0 +1,867 @@
+#AREA        Gnome Tower~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#25351
+gnome apprentice~
+a gnome apprentice~
+`#`wa `sgnome `wapprentice is standing here studying a strange object.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+10 1 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25352
+gnome master~
+`#`wMaster of the Tower`^~
+`#`wA very old looking `sgnome `wis standing here reading some papers.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25353
+gnome ~
+a gnome~
+`#`wa `sgnome `wwalks by you looking rather busy.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+8 1 3 2d5+12 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25354
+gnome dungeon master~
+`#`wThe Dungeon Master`^~
+`#`wa male `sgnome `wstands here guarding the cells.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+10 1 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25355
+weird looking metal creature~
+a weird looking metal creature~
+`#`wa weird looking `smetal `wcreature is standing here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25356
+female gnome~
+a female gnome~
+`#`wA female `sgnome `wis here carrying a basket of junk.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+8 1 3 2d5+12 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#25351
+small silver mace~
+a small `#`ss`wi`Wl`sv`we`Wr`sy mace`^~
+A small mace has been left here.~
+~
+5 64 4
+2 7 16 2048 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25352
+small silver whip~
+a small `#`ss`wi`Wl`sv`we`Wr`sy whip`^~
+A small silver whip has been left here.~
+~
+5 64 4
+2 7 16 2 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25353
+small silver dagger~
+a small `#`ss`wi`Wl`sv`we`Wr`sy dagger`^~
+A small silvery dagger has been left here.~
+~
+5 64 4
+3 17 25 2048 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25354
+soft silvery grey robe~
+a soft `#`ss`wi`Wl`sv`we`Wr`sy grey`^ robe~
+A dark robe lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 625 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25355
+small silvery axe~
+a small `#`ss`wi`Wl`sv`we`Wr`sy axe`^~
+A small `#`ss`wi`Wl`sv`we`Wr`sy axe`^ has been left here.`^~
+~
+5 2 4
+3 7 16 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#25351
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25352
+D2
+~
+~
+0 0 25353
+R M 0 25353 16 25351
+  R E 0 25351 0 16
+S
+#25352
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25354
+D1
+~
+~
+0 0 25374
+D2
+~
+~
+0 0 25351
+D3
+~
+~
+0 0 25367
+R M 0 25356 16 25352
+S
+#25353
+Entrance to the Tower~
+~
+You find yourself at the base of a small tower. The floor and walls are made 
+out of a rough looking grey stone. There are lanterns hanging from the walls 
+to light the way. Strange noises can be heard echoing through the halls even 
+as you enter. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25351
+D2
+~
+~
+0 0 25206
+S
+#25354
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25355
+D2
+~
+~
+0 0 25352
+R M 0 25356 16 25354
+R M 0 25353 16 25354
+  R E 0 25351 0 16
+S
+#25355
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25356
+D2
+~
+~
+0 0 25368
+D3
+~
+~
+0 0 25354
+S
+#25356
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25357
+D3
+~
+~
+0 0 25355
+R M 0 25353 16 25356
+  R E 0 25351 0 16
+S
+#25357
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25356
+D1
+~
+~
+0 0 25369
+D2
+~
+~
+0 0 25358
+R M 0 25356 16 25357
+S
+#25358
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25357
+D4
+~
+~
+0 0 25359
+R M 0 25353 16 25358
+S
+#25359
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25360
+D5
+~
+~
+0 0 25358
+R M 0 25353 16 25359
+S
+#25360
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25361
+D1
+~
+~
+0 0 25370
+D2
+~
+~
+0 0 25359
+R M 0 25356 16 25360
+S
+#25361
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25360
+D3
+~
+~
+0 0 25362
+R M 0 25353 16 25361
+  R E 0 25351 0 16
+S
+#25362
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25371
+D1
+~
+~
+0 0 25361
+D3
+~
+~
+0 0 25363
+R M 0 25356 16 25362
+S
+#25363
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25362
+D2
+~
+~
+0 0 25364
+R M 0 25353 16 25363
+S
+#25364
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25363
+D2
+~
+~
+0 0 25365
+D3
+~
+~
+0 0 25372
+R M 0 25356 16 25364
+S
+#25365
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25364
+D4
+~
+~
+0 0 25366
+R M 0 25356 16 25365
+R M 0 25353 16 25365
+S
+#25366
+Dark Stairwell~
+~
+The staircase is dark and you have to feel your way with your hands on the 
+wall. There is a dim light coming from behind a door ahead of you. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 25373
+D5
+~
+~
+0 0 25365
+S
+#25367
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25352
+R M 0 25351 6 25367
+  R E 0 25352 0 16
+S
+#25368
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25355
+R M 0 25351 6 25368
+  R E 0 25352 0 16
+S
+#25369
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25357
+R M 0 25351 6 25369
+  R E 0 25352 0 16
+S
+#25370
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25360
+R M 0 25351 6 25370
+  R E 0 25352 0 16
+S
+#25371
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25362
+R M 0 25351 6 25371
+  R E 0 25352 0 16
+S
+#25372
+Small Lab~
+~
+This room is so covered in junk that you can hardly see the wooden floor. 
+There is a small wooden lab table resting in the center of the room with a 
+single chair beside it. There is a large lantern hanging from the ceiling 
+directly above the table. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25364
+R M 0 25351 6 25372
+  R E 0 25352 0 16
+S
+#25373
+Top of the Tower~
+~
+This room is dimly lit with by a small burning in the fireplace and a single 
+candle resting on a wooden table. Upon inspection of the table you notice 
+there are at least a dozen scribbled out drawings laying on it. There are 
+piles of junk spread through out the tower. 
+~
+1 33554440 0
+D5
+~
+~
+0 0 25366
+R M 0 25352 1 25373
+  R E 0 25353 0 16
+  R E 0 25354 0 12
+S
+#25374
+Stone Hallway~
+~
+The floor and walls of the tower are made out of a rough looking grey stone. 
+There are lanterns hanging from the walls to light the way. Strange noises 
+can be heard echoing through the halls. There is a small staircase here that 
+leads down. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 25352
+D5
+~
+~
+0 0 25375
+R M 0 25356 16 25374
+S
+#25375
+Dungeon~
+~
+The floors and walls down here are made out of the same rough grey stone as 
+throughout the tower. The air down here is cool and wet feeling and you can 
+hear the sound of clanking metal coming from the depths of the dungeon. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25376
+D4
+~
+~
+0 0 25374
+R M 0 25354 1 25375
+  R E 0 25355 0 16
+S
+#25376
+Dungeon~
+~
+The floors and walls down here are made out of the same rough grey stone as 
+throughout the tower. The air down here is cool and wet feeling and you can 
+hear the sound of clanking metal coming from the depths of the dungeon. 
+There are cells to your east and west. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25379
+D1
+~
+~
+1 0 25377
+D2
+~
+~
+0 0 25375
+D3
+~
+~
+1 0 25378
+S
+#25377
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D3
+~
+~
+1 0 25376
+R M 0 25355 6 25377
+S
+#25378
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 25376
+R M 0 25355 6 25378
+S
+#25379
+Dungeon~
+~
+The floors and walls down here are made out of the same rough grey stone as 
+throughout the tower. The air down here is cool and wet feeling and you can 
+hear the sound of clanking metal coming from the depths of the dungeon. 
+There are cells to your east and west. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25382
+D1
+~
+~
+1 0 25381
+D2
+~
+~
+0 0 25376
+D3
+~
+~
+1 0 25380
+S
+#25380
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 25379
+R M 0 25355 6 25380
+S
+#25381
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D3
+~
+~
+1 0 25379
+R M 0 25355 6 25381
+S
+#25382
+Dungeon~
+~
+The floors and walls down here are made out of the same rough grey stone as 
+throughout the tower. The air down here is cool and wet feeling and you can 
+hear the sound of clanking metal coming from the depths of the dungeon. 
+There are cells to your east and west. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 25383
+D2
+~
+~
+0 0 25379
+D3
+~
+~
+1 0 25384
+S
+#25383
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D3
+~
+~
+1 0 25382
+R M 0 25355 6 25383
+S
+#25384
+Cell~
+~
+A simple square room with no windows. The only light is that of a small 
+lantern hanging high up on the ceiling. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 25382
+R M 0 25355 6 25384
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

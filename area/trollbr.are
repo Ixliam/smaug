@@ -1,0 +1,762 @@
+#AREA        Troll Bridge~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#986
+ugly troll~
+an ugly troll~
+An ugly troll is here, glaring angrily at you.
+~
+This big green troll is standing here apparently guarding the bridge.
+He is big and strong enough to do a fine job of it too.  Better pay
+the toll and move along, eh?
+~
+0
+Clanname none~
+0
+0
+5 512 -400 C
+45 1 -17 5d8+260 6d6+18
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#987
+hideous troll~
+a hideous troll~
+A hideous troll is hunched over here, counting large piles of silver coins.
+~
+This group of four ugly green trolls are hunched over a few piles of
+silver coins.  And when I say ugly, I mean these bastards are repulsive! 
+Their skin is mottled green, grey, and black in color, and covered with
+warts and scars.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+46 0 -20 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#988
+glistening water drake~
+a water drake~
+A glistening water drake has made its home here.
+~
+This large drake is perhaps not as intelligent as a true dragon, but is
+in most ways just as dangerous.  This one is half-submerged in the water,
+its scales glistening in the dim light.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+60 2 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#989
+fearsome-looking troll~
+a fearsome-looking troll~
+A fearsome-looking troll towers over you.
+~
+This fearsome troll towers over you at around nine feet tall.  His shoulders 
+are broad and his arms are thick with muscle.  Tufts of hair cover his head 
+and body, and his mouth is full of mouldy teeth.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+47 1 -10 5d8+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#990
+mottled-green skinned troll~
+a green skinned troll~
+A mottled-green skinned troll is here, glaring at you.
+~
+This ugly troll has mottled-green skin, covered in warts and scabs.  He has 
+a sturdy build with muscular arms and a thick neck.  His teeth gnash against 
+each other as he glares at you.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+52 1 -21 5d9+280 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#991
+huge pitch-black troll skin~
+a huge pitch-black troll~
+A huge troll with pitch-black skin raises his weapon towards you.
+~
+This ugly member of the troll race is a little over nine feet, and his arms 
+hang almost to his knees.  His skin is the colour of night, making him 
+bearly visible in this dark, damp room.  He makes his presence known 
+however, with a threatening snarl.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+56 1 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#992
+giant black spider~
+a giant spider~
+A giant spider is weaving its web here.
+~
+The thick legs of this spider easily span the length of a human man.  Its 
+head, is covered in hundreds of glaring red eyes, and its body is covered in 
+coarse black hairs.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#986
+blue drake scale~
+a `#`bblue`^ drake scale~
+A `#`Bblue`^ drake scale has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1002 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+986 blue drake scale~
+This large blue scale must have some from a dragon or some such creature.  
+~
+#987
+sable spidersilk~
+some sable spidersilk~
+Some sable spidersilk lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+987 sable spidersilk~
+Thus bundle of dark sable silk-like material is bundled up in a roll.
+It has a sticky texture to it, and despite the roll's size, its as light
+as a feather.
+~
+#988
+pair tanned leather gloves~
+a pair of `#`ytanned leather`^ gloves~
+A pair of `#`ytanned leather`^ gloves lie here.~
+~
+9 0 8
+35 35 7 0 0 0 0
+1 920 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#989
+pair tanned leather boots~
+a pair of `#`ytanned leather`^ boots~
+A pair of `#`ytanned leather`^ boots have been left here.~
+~
+9 0 8
+35 35 7 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#990
+tanned leather leggings~
+a pair of `#`ytanned leather`^ leggings~
+A pair of `#`ytanned leather`^ leggings have been left here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#991
+spiked-steel club~
+a spiked-steel club~
+A spiked-steel club has been left here.~
+~
+5 0 4
+2 65 85 160 0 0 0
+7 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#992
+snakeskin belt~
+a snakeskin belt~
+A snakeskin belt lies here.~
+~
+9 0 8
+40 40 8 0 0 0 0
+1 1020 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+992 snakeskin belt~
+This belt has been fashioned from the skin of some sort of snake.  The hide 
+is black with streaks of grey in it.  A large silver belt buckle adds more 
+class to this belt its, silvery hue shining brightly.  
+~
+#993
+grey wolfskin vest~
+a `#`sgrey wolfskin`^ vest~
+A `#`Sgrey wolfskin`^ vest has been left here.~
+~
+9 0 8
+40 40 14 0 0 0 0
+1 1205 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#994
+grey wolfskin hood~
+a `#`sgrey wolfskin`^ hood~
+A `#`Sgrey wolfskin`^ hood has been left here.~
+~
+9 0 8
+40 40 11 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#995
+heavy brass-hilted longsword~
+a heavy, `#`ybrass-hilted`^ longsword~
+A heavy, `#`ybrass-hilted`^ longsword lies here.~
+~
+5 0 4
+7 54 68 256 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#996
+spider egg~
+some spider eggs~
+A sack of spider eggs lie here.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#986
+On a Stone Bridge~
+~
+You are near the north end of a long stone bridge.  A wide river is
+below, flowing slowly from west to east.  Where the bridge meets land, paths
+wind away throught the fields to the west and north.  
+~
+1 0 1
+D0
+~
+~
+0 0 12700
+D2
+~
+~
+0 0 987
+S
+#987
+On a Stone Bridge~
+~
+You are in the middle of a sturdy stone bridge which spans a wide, slow
+river.  The river is flowing from west to east, and seems quite calm here. 
+As you peer down over the side of the bridge, you can see small openings
+which might be windows, but no obvious entrances to any rooms that might be
+down there.  
+~
+1 4 1
+D0
+A path north.
+~
+~
+0 0 986
+D2
+A path south.
+~
+~
+0 0 988
+D5
+~
+trapdoor~
+1 0 989
+R M 0 986 1 987
+E
+river water~
+The river flows calmly eastwards, under the bridge.
+~
+E
+down stone floor~
+There seems to be a trapdoor in the bridge leading down!  How exciting!
+~
+E
+opening windows~
+Small slits.  Seems like there are rooms down there.
+~
+S
+#988
+On a Stone Bridge~
+~
+You are near the south end of a long stone bridge.  The bridge seems
+fairly sturdy and in good condition.  Below it flows a wide, slow river,
+from west to east.  A path leads away south through the grass at the south
+end.  
+~
+1 0 1
+D0
+~
+~
+0 0 987
+S
+#989
+Small Damp Room~
+~
+You are in a small, dark room with stone walls.  It is very damp in here,
+and there are some moss and lichens growing in and around cracks in the
+floor and walls.  A small part of the ceiling is wood, and there is a
+trapdoor in it.  Openings lead north and south.  
+~
+1 8 0
+D0
+~
+~
+0 0 991
+D2
+~
+~
+0 0 990
+D4
+~
+trapdoor~
+1 0 987
+R M 0 987 1 989
+  R E 0 988 0 9
+  R E 0 989 0 8
+  R E 0 990 0 7
+  R E 0 995 0 16
+R M 0 3516 2 989
+E
+wood ceiling~
+A trapdoor that opens downward is set in the ceiling.  
+~
+E
+moss lichens~
+Various kinds of fungus and muss grow in the cracks here.
+~
+E
+stone walls floor~
+The walls are made from closely fit dark stone blocks.
+~
+S
+#990
+Small Dark Room~
+~
+This small room appears to have once been a storage area of some type. 
+There are some old tools lying about, and some broken and rotting shelves. 
+The stone walls are quite damp, and moss grows in some of the cracks.  
+~
+1 8 0
+D0
+~
+~
+0 0 989
+R M 0 989 5 990
+E
+moss cracks~
+Green and brown moss grows in some of the cracks.
+~
+E
+broken rotting shelves.~
+The shelves are mostly rotted, and most have broken off the walls and lie
+in pieces on the floor.  
+~
+E
+old tools~
+Old tools, useless because the handles have rotted and the metal parts rusted.
+~
+S
+#991
+Small Dark Room~
+~
+This place is not so much a room as it is a corridor.  The walls are made
+of stone, and are damp in many places.  Lichens and moss grow in some spots,
+some glowing very softly.  There is a stone stairway leading down in the
+north end of the room, and a dark exit south.  
+~
+1 8 0
+D2
+~
+~
+0 0 989
+D5
+~
+~
+0 0 992
+R M 0 989 5 991
+E
+stairway ~
+The stone stairway leads down into darkness.
+~
+E
+lichens moss~
+Slightly glowing mosses and lichens grow in some spots.
+~
+E
+stone walls damp~
+The walls are of grey stone, and are quite damp.
+~
+S
+#992
+Small Room~
+~
+You are in a small, mostly dark room, with walls made of huge stone
+blocks.  There are small slits acting as windows on the east and west sides
+of the room.  Peering out them you can see a river flowing underneath, and
+it appears you are inside the lower part of a bridge crossing it.  Against
+the north wall are some stone stairs leading up, and a small exit leaves
+south.  
+~
+1 8 0
+D2
+~
+~
+0 0 993
+D4
+~
+~
+0 0 991
+R M 0 989 5 992
+E
+stone walls stairway~
+Dark grey stone blocks fit together tightly to make up the walls.  A
+stone stairway also leads upwards.  
+~
+E
+windows slits~
+These small slits let you peek out, and give a good view of the river below.
+~
+E
+river water~
+A slowly flowing river is below.
+~
+S
+#993
+Small Dark Room~
+~
+This room is small and cramped, and is very damp and dark.  There are
+slits on the east and west walls which let in a bit of the outside light,
+but not much.  Small exits to the north and south are placed in the stone
+walls.  
+~
+1 8 0
+D0
+~
+~
+0 0 992
+D2
+~
+~
+0 0 994
+R M 0 991 5 993
+E
+slits ~
+The slits let you see outside a bit.  It appears you are in the middle of
+a stone bridge, spanning a river that flows calmly west to east.  
+~
+E
+stoen walls~
+The walls are made of stone blocks fit closely together.  
+~
+S
+#994
+Small Dark Room~
+~
+You are in a small, mostly dark room, with walls made of huge stone
+blocks.  There are small slits acting as windows on the east and west sides
+of the room.  Peering out them you can see a river flowing underneath, and
+it appears you are inside the lower part of a bridge crossing it.  Against
+the south wall are some stone stairs leading down, and a small exit leaves
+north.  As you glance up you notice thick, sticky webs above you.  
+~
+1 8 0
+D0
+~
+~
+0 0 993
+D5
+~
+~
+0 0 995
+R M 0 990 5 994
+  R E 0 992 0 13
+  R E 0 993 0 5
+  R E 0 994 0 6
+  R E 0 991 0 16
+E
+huge stone blocks wall~
+These stone blacks are dark grey and fit together nicely.
+~
+E
+slits windows~
+These small slits in the stone allow you to see outside.
+~
+E
+river ~
+A wide, calm river flows underneath this bridge.
+~
+E
+stairs ~
+The stone stairs lead down into darkness.
+~
+S
+#995
+Small Damp Room~
+~
+It is very damp in this small area.  The walls are made of grey stone
+blocks, and water trickles down them in a few places.  The floor is sloped
+downwards to the north, and in that direction there are a lot of puddles. 
+Lichens and moss are clinging to the walls in places, some glowing softly. 
+At the lowest point of the room a passageway exits north, while against the
+south wall stone stairs lead upwards.  
+~
+1 8 0
+D0
+~
+~
+0 0 996
+D4
+~
+~
+0 0 994
+R M 0 991 5 995
+E
+stairs ~
+The stone stairs lead upwards.
+~
+E
+grey stone blocks lichens~
+Stone blocks fit together nicely to make up the walls and floor.  There
+are soflt glowing lichens and mosses in many places, especially in the
+cracks.  
+~
+E
+puddles water~
+Water trickles down the walls here, forming small puddles in the northern
+part of the room.  
+~
+S
+#996
+Small Wet Room~
+~
+The floor of this room is sloped downwards to the north a bit.  Most of
+it is covered by a few inches of murky water.  Some slightly glowing fungus
+and lichens grow on the drier sections and in cracks in the stone walls. 
+There are narrow passageways leaving the room on the north and south ends.  
+~
+1 8 0
+D0
+~
+~
+0 0 997
+D2
+~
+~
+0 0 995
+R M 0 991 5 996
+R M 0 992 1 996
+  R G 0 987 0
+  R G 0 996 0
+E
+fungus lichens~
+Slightly glowing fungi and lichens grow about the place.
+~
+E
+murky water~
+The water is dirty and you can't see the floor through even a few inches.
+~
+S
+#997
+Partially Submerged Room~
+~
+This entire room is partly submerged in murky water.  As you move around
+you find that the water depth varies from a few feet at the south end to at
+least six feet to the north.  The walls are made of grey stone blocks fit
+snugly together, and a small passageway is cut in the south end.  In the
+north end, huge piles of stone and dirt stick up out of the water, seemingly
+pushed there by the creation of a huge hole in the earth just above water
+level.  
+~
+1 0 0
+D2
+~
+~
+0 0 996
+R M 0 988 1 997
+  R G 0 986 0
+E
+huge hole~
+A hole has been punched through the north wall by some powerful force,
+creating piles of stone and dirt in the water.  
+~
+E
+grey stone blocks wall dirt~
+The walls on the east, west, and south are cut grey stone blocks.  The
+north wall is rough earth, through which a huge hole has been dug.  
+~
+E
+murky water~
+The water is dirty and gets quite deep in some spots.
+~
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,2975 @@
+#AREA        Dalit~
+
+
+
+#VERSION     11
+#AUTHOR      mahinae~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80301
+family serpent snake~
+a family of serpents~
+A family of serpents is nestled here.
+~
+A family of serpents is nestled here. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80302
+little mermaid child~
+a little mermaid child~
+A mermaid child plays here.
+~
+A mermaid child plays here. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80303
+seahorse regal~
+a regal looking seahorse~
+A regal looking seahorse swims here.
+~
+A regal looking seahorse swims here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80304
+huge green serpent~
+a huge green serpent~
+A huge green serpent is coiled here.
+~
+A huge green serpent is coiled here.
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+110 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80305
+ancient wise shaman~
+a ancient and wise shaman~
+A ancient and wise shaman is here.
+~
+A ancient and wise shaman is here.
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+65 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80306
+merman child~
+a merman child~
+A merman child is here showing off.
+~
+A merman child is here showing off.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+65 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80307
+old cronies~
+two old cronies~
+Two old cronies chatter away.
+~
+Two old cronies are here chatting away.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80308
+school fish~
+a school of silverfish~
+A school of silverfish is here.
+~
+A school of silverfish swims here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80309
+small red crab~
+a small `#`Rred`^ crab~
+A small `#`Rred`^ crab scuttles along.
+~
+A small red crab opens and closes its pinchers as it scuttles along. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80310
+shark~
+a fierce tiger shark~
+A fierce tiger shark roams here.
+~
+A fierce tiger shark is here.
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+68 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80311
+electric eel~
+a electric eel~
+A electric eel is slithering through.
+~
+A electric eel is slithering through.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80312
+iridescent angelfish school~
+a school of iridescent angelfish~
+A school of iridescent angelfish is here.
+~
+A school of beautiful iridescent angelfish is here.
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+63 0 -33 6d10+330 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80313
+grumpy merman~
+a grumpy merman~
+A grumpy merman is resting here.
+~
+A mermaid peers grumpily back at you. He snarls as you awaken him.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+78 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80314
+mermaid child~
+a mermaid child~
+A mermaid child is playing here.
+~
+A mermaid child is playing here. She looks up and giggles at you. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+57 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80315
+outcast merman infuriated~
+a infuriated merman outcast~
+A infuriated merman outcast is swimming frantically back and forth here.
+~
+This merman looks wild with his red long hair streaming out from his pinched 
+face. His eyes seem to have taken on the color of his hair in his anger. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+75 0 -44 7d11+375 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80316
+serizos shopkeeper~
+serizos the shopkeeper~
+Serizos the shopkeeper is here.
+~
+Serizos beams proudly and displays his wares.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80317
+liviana shopkeeper~
+liviana the shopkeeper~
+Liviana the shopkeeper is here.
+~
+Liviana the shopkeeper is here.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80318
+happy dolphin~
+a happy `#`Sdolphin`^~
+A happy `#`Sdolphin`^ swims here.
+~
+A happy dolphin swims here. It makes a click noise as you approach, 
+encouraging you to move closer. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+68 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80319
+merman child bully~
+a bullying merman child~
+A bullying merman child is here taunting the other merchildren.
+~
+A bullying merman child sneers at you as you approach.
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+70 0 9 1d4+2 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80320
+regal seahorse~
+a regal seahorse~
+A regal seahorse swims here.
+~
+A regal seahorse swims here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80321
+adult mermaid~
+a adult mermaid~
+A adult mermaid is here.
+~
+An adult mermaid is here.
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+73 0 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80322
+red coral~
+red coral~
+Red coral sways here in the current.
+~
+Red coral sways here in the current.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+63 0 -33 6d10+330 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80323
+massive black clam~
+a massive `#`Sblack`^ clam~
+A massive `#`Sblack`^ clam rests here.
+~
+A massive black clam is here. It opens and closes it shell as people near it 
+to investigate them. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+65 0 8 20d10+250 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80324
+lounging merman~
+a lounging merman~
+A lounging merman is here resting on a large rock.
+~
+A merman lounges lazily here. He reads a copy of Merlife Today and lazily 
+swishes his tail through the water. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+67 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80325
+family sanddollar~
+a family of sanddollars~
+A family of sanddollars is grouped here.
+~
+A family of sanddollars is grouped together here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+52 0 -22 5d9+285 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80326
+a bitter old maid~
+a bitter old maid~
+A bitter old maid swims here.
+~
+A bitter looking old maid swims around her home. She looks like she would 
+eagerly tell her tale of woe if asked. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -80 11d14+530 11d14+64
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80327
+hoard moray eels~
+a hoard of moray eels~
+A hoard of moray eels slithers here.
+~
+A slithering, disgusting hoard of moray eels circles you. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+87 0 7 20d10+350 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80328
+sly mermaid~
+a sly looking mermaid~
+A sly looking mermaid waves her tail, beckoning you.
+~
+This mermaid looks to be nothing but trouble. She has a come-hither smile on 
+her painted mouth and a twinkle in her eye. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80329
+blue tang~
+a school of `#`Cblue`^ tang fish~
+A school of `#`Cblue`^ tang fish swims around.
+~
+A school of blue tang fish swims around. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+57 0 -27 6d9+305 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80330
+adult merman~
+a adult merman~
+A adult merman swims back and forth here.
+~
+An adult merman swims back and forth here. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80331
+tough merman guard~
+a tough looking merman guard~
+A tough looking merman guard swims here.
+~
+A tough looking merman guard swims here protecting the castle. 
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80332
+quiet maid~
+a quiet maid~
+A quiet maid waits here for her queen's order.
+~
+A quiet maid waits here for her queen's order.
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80333
+jalion king dalit~
+jalion, King of Dalit~
+Jalion, King of Dalit, sits proudly on his throne.
+~
+Jalion, King of Dalit, sits proudly in his throne here. He carries a wicked 
+looking trident that has been passed down in his family for ages past. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80334
+sullen maid~
+a sullen looking maid~
+A sullen looking maid hovers here listening to the queen's yammering.
+~
+A sullen looking maid hovers here listening to the queen's yammering. She is 
+obviously bored and ready to leave. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80335
+xalia queen dalit~
+xalia, queen of dalit~
+Xalia, Queen of Dalit, is here babbling away to herself.
+~
+Xalia, Queen of Dalit, is here babbling away to herself. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80336
+queen's pet starfish~
+the queen's pet starfish~
+The Queen's pet starfish wiggles here.
+~
+The Queen's pet starfish wiggles here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80337
+pet manta ray~
+the King's pet `#`Smanta`^ ray~
+The King's pet `#`Smanta`^ ray hovers here.
+~
+The King's pet manta ray hovers here for attention. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80338
+king's advisors~
+the king's advisors~
+The king's advisors nervously swim back and forth.
+~
+The King's advisors nervously swim back and forth.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80339
+a large `#`ggreen`^ sea turtle~
+a large `#`Ggreen`^ sea turtle~
+A large `#`Ggreen`^ sea turtle swims here.
+~
+A large green sea turtle swims here.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80340
+warrior~
+a tiny seahorse warrior~
+A tiny seahorse warrior is here.
+~
+A tiny seahorse warrior rides here on the back of a regal seahorse. The 
+reins he holds are made with bits of kelp. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80341
+jellyfish~
+a jellyfish~
+A jellyfish hovers here.
+~
+A jellyfish floats here aimlessly.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80301
+shiny gold coin~
+a shiny gold coin~
+A shiny gold coin has been tucked away here.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80302
+pocket~
+a pocket~
+~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80302 pocket ~
+A small pocket has been carved into the wall here. 
+~
+#80303
+a snakeskin cloak~
+a snakeskin cloak~
+A snakeskin cloak is here.~
+~
+9 0 8
+60 60 6 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80304
+a long stone table~
+a long stone table~
+A long stone table is here. It contains the tools of the shaman.~
+~
+15 0 8
+1 0 10 0 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80305
+poultice healing~
+a poultice of `#`chealing`^~
+A poultice of healing is here.~
+~
+36 1 32
+3 3 208 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80306
+short emerald wand~
+a short emerald wand~
+A short emerald wand is here.~
+~
+3 32 2
+0 0 0 -1 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#80307
+long steel spear~
+a long steel spear~
+A long steel spear is here.~
+~
+5 0 4
+4 7 16 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80308
+small shell necklace~
+a small shell necklace~
+A necklace made of tiny clamshells is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80309
+hunk driftwood~
+a hunk of driftwood~
+A hunk of driftwood lies here.~
+~
+5 0 4
+6 81 117 32 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80310
+ruby comb~
+a comb with a small `#`Rruby`^ inset~
+A small hair comb with a `#`Rruby`^ inset is here.~
+~
+9 0 8
+50 50 12 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80311
+algae~
+a piece of `#`Galgae`^~
+A piece of `#`Galgae`^ is here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80312
+sleeping cap~
+a sleeping cap~
+A sleeping cap is here.~
+~
+9 0 8
+55 55 13 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80313
+seaweed~
+a strand of `#`gseaweed`^~
+A strand of `#`gseaweed`^ is here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80314
+jagged piece sapphire~
+a jagged piece of brilliant `#`Csapphire`^~
+A jagged piece of brilliant sapphire is here.~
+~
+5 2 4
+4 97 134 128 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80315
+hefty club~
+a hefty club~
+A hefty club is here.~
+~
+5 0 4
+3 89 118 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80316
+a strong quartz bracelet~
+strong quartz bracelet~
+A strong looking quartz bracelet is here.~
+~
+9 64 8
+50 50 5 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80318
+wooden treasure chest~
+a wooden treasure chest~
+~
+~
+15 0 8
+1 0 20 0 0 0 0
+2 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80318 wooden treasure chest~
+A sunken wooden treasure chest is here.  Perhaps you should look inside.
+~
+#80319
+pile gold coin~
+a pile of gold coins~
+A small pile of gold coins is here.~
+~
+20 0 16
+10 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80320
+faded pair cotton pants~
+a faded pair of cotton pants~
+A faded pair of cotton pants is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80321
+bellychain emerald~
+a silver bellychain with a small dangling emerald~
+A silver bellychain with a small dangling emerald is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80322
+small shimmering dagger~
+a small shimmering dagger~
+A small shimmering dagger is here.~
+~
+5 1 4
+4 97 134 2 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80323
+precious pearl~
+a small precious pearl~
+A small precious pearl is here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80324
+large flat rock~
+a large flat rock~
+A large flat rock looks comfortable to rest on.~
+~
+12 0 8
+600 132242 105 105 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80325
+heart locket~
+a heart-shaped locket~
+A heart-shaped locket is here.~
+~
+33 2 32
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80326
+seashell bikini top~
+a seashell bikini top~
+A bikini top made of two large clam shells is here.~
+~
+9 0 8
+10 10 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80327
+gaudy long pearl necklace~
+a long, gaudy `#`Wpearl`^ necklace~
+A long, gaudy `#`Wpearl`^ necklace is here.~
+~
+9 2 8
+10 10 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80328
+copy merlife today~
+a copy of `#`BMerlife`^ Today~
+A copy of `#`BMerlife`^ Today has been left here. As you flip through the pages, headlines jump out at you. "Sordid Affair between Gazelia and the Octopus!" "Livy has a crush on Serizos! More details inside on their shop competition and their heated romance."~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80329
+small gem infused light~
+a small gem infused with light~
+A small gem infused with light is here.~
+~
+1 0 1
+0 5 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80330
+bag woven rope~
+a bag of woven ropes~
+A bag of woven ropes is here.~
+~
+15 1 8
+1 0 100 45 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80331
+long rune glow sword~
+a longsword with intricate `#`Yglowing`^ runes~
+A longsword with intricate `#`Yglowing`^ runes is here.~
+~
+5 2 4
+3 89 118 8 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80332
+tasteful bracelet polished chrysolite~
+a tasteful looking bracelet of polished `#`Gchrysolite`^~
+A tasteful looking bracelet of polished `#`Gchrysolite`^ glitters here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80333
+potion grace heal armor true~
+a small potion of grace~
+A small potion of grace sparkles here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80334
+tiny mermaid earring~
+a tiny mermaid earring~
+A dangling earring is here. It has a small representation of a smiling mermaid attached at the bottom.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80335
+jagged obsidian spear~
+a jagged obsidian spear~
+A jagged obsidian spear is here.~
+~
+5 0 4
+5 105 135 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80336
+small coral sofa~
+a small coral colored sofa~
+A small coral colored sofa looks very comfortable.~
+~
+12 0 8
+500 1168 100 100 0 0 0
+10 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80337
+small golden throne~
+the Queen's small `#`Ygolden`^ throne~
+The Queen's small `#`Ygolden`^ throne glitters brilliantly here.~
+~
+12 0 8
+200 144 100 100 0 0 0
+30 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80338
+large golden throne~
+the King's massive `#`Ygolden`^ throne~
+The King's `#`Ygolden`^ throne is positioned next to the smaller one here.~
+~
+12 0 8
+1 144 100 100 0 0 0
+40 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80339
+gleaming golden trident~
+a gleaming `#`Ygolden`^ trident~
+A gleaming `#`Ygolden`^ trident with is here. Intricate runes and scrollwork adorns the handle.~
+~
+5 1 4
+4 108 151 8192 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80340
+mermaid kiss~
+a mermaid's kiss~
+A mermaid's kiss is blown to you.~
+~
+2 1 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80341
+pretty silver mirror~
+a pretty `#`Ssilver`^ mirror~
+A pretty `#`Ssilver`^ mirror is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80342
+small vanity~
+a small `#`Bblue`^ vanity with drawers~
+A small `#`Bblue`^ vanity with drawers displays the Queen's jewelry and makeup.~
+~
+15 0 8
+1 0 20 0 0 0 0
+5 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80343
+delicate amethyst ring~
+a delicate `#`Mamethyst`^ ring~
+A delicate `#`Mamethyst`^ ring is here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80344
+clipboard~
+a clipboard~
+A clipboard is here.~
+~
+5 0 4
+3 97 134 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80345
+bedroom key~
+a key to the royal chambers~
+A key to the royal chambers is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80346
+key gate~
+the palace gate key~
+The palace gate key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80347
+small seashell~
+a small `#`Wseashell`^~
+A small `#`Wseashell`^ is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80348
+large pink conch shell~
+a large `Mpink`^ conch shell.~
+A large `Mpink`^ conch shell is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80349
+coral shortsword~
+a `#`Mcoral`^ shortsword~
+A `#`Mcoral`^ shortsword is here.~
+~
+5 0 4
+2 78 101 8 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80350
+kelp helm~
+a `#`Gkelp`^ helm~
+A `#`Gkelp`^ helm is here.~
+~
+9 0 8
+45 45 11 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#80301
+Into the whirlpool~
+~
+The warm water is violently pulling you downward into a large whirlpool. 
+Debris swirls around you, following your descent. Colorful fish try vainly 
+to swim against the current. Moving upwards is impossible. 
+~
+1 67108864 12
+D5
+~
+~
+0 0 80302
+R M 0 80308 15 80301
+R M 0 80339 20 80301
+S
+#80302
+Into the whirlpool~
+~
+The whirlpool has sucked you completely underwater. Fish and debris bump 
+into you as you struggle against the swirling water. Sunlight is still 
+visible at this depth. 
+~
+1 67108864 12
+D4
+~
+~
+0 0 80301
+D7
+~
+~
+0 0 80303
+S
+#80303
+Into the whirlpool~
+~
+Algae and seaweed sticks to your clothes as you are pulled in farther. You 
+glance upward, hoping for rescue, but you seen only the glint of light on 
+the water as before. 
+~
+1 67108864 12
+D8
+~
+~
+0 0 80304
+D9
+~
+~
+0 0 80302
+R O 0 80311 0 80303
+S
+#80304
+Into the Whirlpool~
+~
+A small crab swirls downward, clicking its pinchers in frustration. You try 
+to swim away from it to avoid being pinched. The water has completely 
+obscured your view of the light. 
+~
+1 67108864 12
+D6
+~
+~
+0 0 80303
+D9
+~
+~
+0 0 80305
+R M 0 80309 20 80304
+S
+#80305
+Whirlpool~
+~
+The bottom of the ocean seems closer now. The warm water continues to drag 
+you downward. Below you see sealife swimming unworriedly. The twisting 
+current speeds up, forcing you further down. 
+~
+1 67108864 12
+D6
+~
+~
+0 0 80306
+D7
+~
+~
+0 0 80304
+R M 0 80339 20 80305
+R M 0 80329 30 80305
+R M 0 80311 20 80305
+S
+#80306
+Whirlpool~
+~
+You are at the bottom of the whirlpool. Debris and fish are being ejected 
+from the bottom. You spy the angry crab again clicking its pinchers. Perhaps 
+you can swim away from the whirlpool and back to safety once it ejects you. 
+~
+1 67108864 12
+D5
+~
+~
+0 0 80312
+D8
+~
+~
+0 0 80305
+S
+#80307
+Underwater Field~
+~
+The underwater field teems with life. Playful, curious dolphins swim around 
+and inspect you. Overhead sunlight shines down and warms the water. More 
+green seaweed grows here and fish stop to nibble on it. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80309
+D1
+~
+~
+0 0 80308
+D2
+~
+~
+0 0 80327
+D3
+~
+~
+0 0 80328
+R O 0 80313 0 80307
+R O 0 80311 0 80307
+R M 0 80329 20 80307
+R M 0 80340 30 80307
+  R E 0 80350 0 6
+  R E 0 80349 0 16
+S
+#80308
+Underwater Field~
+~
+You see a big sign here advertising Liviana's Shop. The writing is in a 
+flowing cursive shop with the hours listed. Under the hours in bold, NO 
+CHILDREN ALLOWED IN SHOP! is posted. The field is spread out around you in 
+all directions. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80310
+D1
+~
+~
+0 0 80341
+D2
+~
+~
+0 0 80342
+D3
+~
+~
+0 0 80307
+R O 0 80313 0 80308
+R O 0 80348 0 80308
+S
+#80309
+Underwater Field~
+~
+Red coral fills this portion of the field. Fish nestle down inside it and 
+make their homes. The bright color scares away would-be predators. You think 
+about taking some of the coral but remember red coral is dangerous. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80334
+D1
+~
+~
+0 0 80310
+D2
+~
+~
+0 0 80307
+D3
+~
+~
+0 0 80329
+R M 0 80322 1 80309
+R M 0 80330 30 80309
+  R E 0 80331 0 16
+R M 0 80341 20 80309
+S
+#80310
+Underwater Field~
+~
+A large rock is here that the merpeople use to sun themselves on. Small 
+plants have been placed around it, making the atmosphere pleasant. Colorful 
+fish hover near the rock. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80335
+D1
+~
+~
+0 0 80337
+D2
+~
+~
+0 0 80308
+D3
+~
+~
+0 0 80309
+R M 0 80321 30 80310
+R M 0 80308 1 80310
+R O 0 80311 0 80310
+R M 0 80324 1 80310
+  R E 0 80322 0 16
+  R E 0 80328 0 17
+R O 0 80324 0 80310
+R O 0 80347 0 80310
+S
+#80311
+Onyx Castle~
+~
+This is the foyer of the small onyx castle. Colorful banners stream in from 
+the windows. West leads you back out to the city, and east continues on into 
+the castle. Far ahead you can see two thrones. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80358
+D3
+~
+palace gate~
+33 80346 80330
+S
+#80312
+Under the Whirlpool~
+~
+The whirlpool deposits you without ceremony onto a small pebbled pathway. 
+Coral and seaweeds sway gently in the currents. Schools of fish swim 
+unhurriedly through. You can see the pebbled path continues. Way off in the 
+distance, a glimmering structure beckons. 
+~
+1 67108864 12
+D4
+~
+~
+0 0 80306
+D7
+~
+~
+0 0 80314
+R O 0 80313 0 80312
+R O 0 80347 0 80312
+R O 0 80348 0 80312
+S
+#80313
+Small Cave~
+~
+A small family of serpents has nested in this shallow cave. They raise their 
+heads collectively and bare fangs as they hear noise. The cave walls are 
+smooth, testament to the many years of slick serpent bodies writhing against 
+them. 
+~
+1 67108864 12
+D2
+~
+~
+0 0 80319
+R M 0 80301 1 80313
+S
+#80314
+On a Path~
+~
+A pebbled pathway is here. It curves and winds its way farther into the 
+ocean. Small crabs, eels, and other creatures can be seen travelling along 
+the bottom. Bits of debris are left from the whirlpool. Small bubbles arise 
+from hot vents in the ocean floor. 
+~
+1 67108864 12
+D7
+~
+~
+0 0 80315
+D9
+~
+~
+0 0 80312
+R M 0 80309 30 80314
+R M 0 80312 30 80314
+S
+#80315
+At a Junction~
+~
+There is a small junction in the pebbled pathway. Southwards leads off into 
+the sand and ends in a dark cave. In the cave, something shiny can be seen. 
+East continues onto the pathway. The surrounding terrain is rocky, and you 
+can see a few caves ahead. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80318
+D2
+~
+~
+0 0 80316
+D9
+~
+~
+0 0 80314
+S
+#80316
+Cave Entrance~
+~
+The cave's entrance is being swarmed by a school of small silverfish. 
+Seaweed hits gently against the rocky outline of the cave. Something glints 
+in the back of the cave. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80315
+D2
+~
+~
+0 0 80317
+S
+#80317
+Inside a Cave~
+~
+This cave is small and confining. Fish swim in and out, and a crab scuttles 
+over a small grouping of rocks. A small pocket can be seen in the wall. 
+Reaching your hand in could be dangerous but worthwhile. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80316
+R O 0 80302 0 80317
+  R P 0 80301 10 80302
+R M 0 80341 20 80317
+S
+#80318
+On a Path~
+~
+A sunken coin glimmers here on the ground. As you lean over to pick it up, 
+something swims by quickly overhead. You catch a glimpse of huge fins and 
+shudder at the thought of sharks. You could try to turn back now and avoid 
+the possible danger. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80319
+D3
+~
+~
+0 0 80315
+R O 0 80301 0 80318
+R M 0 80339 20 80318
+S
+#80319
+On a Path~
+~
+A small cave can be see to your north. Beady eyes peer out from the 
+darkness, challenging you. Fish skirt around the cave entrance, daring not 
+to swim closer. A long serpent slithers out from the cave, flicks its tongue 
+at you, then is gone. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80313
+D1
+~
+~
+0 0 80320
+D3
+~
+~
+0 0 80318
+R M 0 80341 20 80319
+S
+#80320
+On a Path~
+~
+The path takes a sharp turn to the southeast here as the ground drops 
+further down into a canyon. The rock walls cast a shadow on the path, making 
+it difficult to find your way. Colorful fish search the ocean floor for 
+food. 
+~
+1 67108864 12
+D3
+~
+~
+0 0 80319
+D7
+~
+~
+0 0 80321
+R O 0 80347 0 80320
+S
+#80321
+On a Path~
+~
+Up ahead on the path you see what looks to be a small stone house. You begin 
+to get excited and wonder if the house was built by pirates as a secure 
+location to stash their booty. You hurry along the path to eagerly inspect. 
+~
+1 67108864 12
+D7
+~
+~
+0 0 80322
+D9
+~
+~
+0 0 80320
+R M 0 80312 25 80321
+S
+#80322
+On a Path~
+~
+A simple stone house lies to the north. The house looks empty of occupants, 
+save for the fish swimming in and out of the open doorway. You can see no 
+hidden treasure from this vantage point. The path continues on down into the 
+canyon. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80323
+D1
+~
+~
+0 0 80324
+D9
+~
+~
+0 0 80321
+R M 0 80339 20 80322
+S
+#80323
+Small Stone House~
+~
+This sturdy stone house is small and welcoming. You find no pile of pirate 
+gold, but notice the sculpted stone furniture. Perhaps the house was once 
+above ground and somehow sank into the ocean. You turn disbelievingly to the 
+door as you hear a faint giggle then shake your head. A giggle? It couldn't 
+be.. You're underwater, and fish don't giggle. 
+~
+1 67108864 12
+D2
+~
+~
+0 0 80322
+R O 0 80301 0 80323
+R M 0 80309 30 80323
+R O 0 80311 0 80323
+S
+#80324
+On a Path~
+~
+The pebbled pathway begins to widen here. A small shadowy form can be seen 
+floating in the east. Sounds of giggles travel through the water. You look 
+around in confusion. Straining your eyes, you see a light reflecting off a 
+large dark structure in the distance. 
+~
+1 67108868 12
+D1
+~
+~
+0 0 80325
+D3
+~
+~
+0 0 80322
+R O 0 80347 0 80324
+R M 0 80341 20 80324
+S
+#80325
+On a Path~
+~
+Seaweed sways in the slow current of the water as small fish weave their way 
+through the entangled tendrils. A young mermaid swims back and forth as she 
+plays with a regal looking seahorse. A mermaid?! You thought those didn't 
+exist. Maybe the house wasn't once on land after all.. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80326
+D3
+~
+~
+0 0 80324
+R M 0 80302 30 80325
+R M 0 80303 20 80325
+S
+#80326
+On a Path~
+~
+The pebbled pathway ends abruptly here. It leads to a small field, lush with 
+underwater plantlife and schools of fish. More mermaids are visible as you 
+look around the area in disbelief. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80328
+D1
+~
+~
+0 0 80327
+D3
+~
+~
+0 0 80325
+S
+#80327
+Underwater Field~
+~
+Shops are visible farther into the field. Coral waves in the slow current. 
+You can hear shouting from a nearby bully. Dolphins pass overhead as crabs 
+and other creatures scuttle along on the ocean floor. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80307
+D1
+~
+~
+0 0 80342
+D3
+~
+~
+0 0 80326
+R M 0 80312 20 80327
+R M 0 80308 20 80327
+R M 0 80309 30 80327
+R M 0 80314 30 80327
+R M 0 80306 30 80327
+R M 0 80321 40 80327
+  R E 0 80321 0 13
+  R E 0 80322 0 16
+S
+#80328
+Underwater Field~
+~
+Dolphins play in this open field. Mermaids and mermen travel together, going 
+about their day. Gazing up through the water, rays of sunlight are visible. 
+The sunlight warms the water and lights the area. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80329
+D1
+~
+~
+0 0 80307
+D2
+~
+~
+0 0 80326
+R M 0 80318 10 80328
+R M 0 80330 30 80328
+S
+#80329
+Underwater Field~
+~
+Faint yelling can be heard from the north. A scan of the area reveals no one 
+so you decide to move on to investigate. This area of the field holds no 
+surprises. Fish swim in and out and the merpeople pass by without a glance. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80331
+D1
+~
+~
+0 0 80309
+D2
+~
+~
+0 0 80328
+R M 0 80320 20 80329
+R M 0 80311 10 80329
+R M 0 80314 30 80329
+R M 0 80309 20 80329
+R M 0 80318 5 80329
+R O 0 80348 0 80329
+S
+#80330
+Castle Entrance~
+~
+The castle entrance is decorated with colorful banners and flowers that 
+contrast with the dark gleam of the onxy walls. Castle guards are here 
+playing a silly game with a captured fish. They ignore you as you approach 
+but look up with a glare as you try to enter the castle. The castle gates 
+lie to the east. 
+~
+1 67108864 12
+D1
+~
+palace gates~
+33 80346 80311
+D3
+~
+~
+0 0 80352
+R M 0 80331 20 80330
+  R E 0 80335 0 16
+  R G 0 80346 0
+R O 0 80347 0 80330
+S
+#80331
+Underwater Field~
+~
+Loud yelling and crashes can be heard from the house northwest of here. You 
+try peeking into the entrance but the merman screams and throws a book at 
+you. Schools of fish gather and peek curiously into the house. A small cave 
+is to the southeast. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80334
+D2
+~
+~
+0 0 80329
+D7
+~
+~
+0 0 80333
+D9
+~
+~
+0 0 80332
+R M 0 80308 10 80331
+S
+#80332
+Small Stone House~
+~
+This small stone house appears to be the home of an outcast from the 
+merpeople city. Items are knocked around the room and float about in the 
+water. The wall has a big scorch mark on it. 
+~
+1 67108864 12
+D7
+~
+~
+0 0 80331
+R M 0 80315 1 80332
+  R E 0 80314 0 16
+S
+#80333
+Small Cave~
+~
+This small cave is empty except for some algae and seaweed that have 
+collected here. You see something wooden sticking up in one corner but move 
+on. Probably just some rotted wood. 
+~
+1 67108864 12
+D9
+~
+~
+0 0 80331
+R M 0 80309 20 80333
+R O 0 80311 0 80333
+R O 0 80311 0 80333
+R O 0 80313 0 80333
+R O 0 80313 0 80333
+R O 0 80318 0 80333
+  R P 0 80319 2 80318
+  R P 0 80320 1 80318
+S
+#80334
+Underwater Field~
+~
+This portion of the field is home to a very large black clam. It slow opens 
+its massive shell and peers out uninterestedly at your entrance. It closes 
+up as it decides you're positively boring and not worth its time. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80335
+D2
+~
+~
+0 0 80309
+D3
+~
+~
+0 0 80331
+R M 0 80323 1 80334
+  R G 0 80323 0
+S
+#80335
+Underwater Field~
+~
+Merpeople try to slip past the bully without notice into the shop northward. 
+The fish give him wide berth, unwilling to be caught and used as a toy. 
+Broken toys litter the ground. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80357
+D1
+~
+~
+0 0 80336
+D2
+~
+~
+0 0 80310
+D3
+~
+~
+0 0 80334
+R M 0 80319 1 80335
+  R E 0 80315 0 16
+R M 0 80320 30 80335
+R M 0 80340 30 80335
+  R E 0 80349 0 16
+  R E 0 80350 0 6
+S
+#80336
+Underwater Field~
+~
+Travelling to the east leads to a dark, forbidding passage. To the south, 
+the field brimming with light and sealife awaits. You can hear the mean 
+teasing of the bully from here. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80338
+D2
+~
+~
+0 0 80337
+D3
+~
+~
+0 0 80335
+R M 0 80339 20 80336
+R M 0 80341 20 80336
+S
+#80337
+Underwater Field~
+~
+To the south of you, you see a small clean shop with a side entrance. 
+Seaweed sways as merpeople pass by you to enter the shop's entrance. Fish 
+swim in schools and search for food. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80336
+D3
+~
+~
+0 0 80310
+R M 0 80314 30 80337
+R M 0 80306 30 80337
+  R E 0 80309 0 16
+  R E 0 80316 0 14
+S
+#80338
+On a Dark Pathway~
+~
+No fish have ventured into this dark passage. You glance around wondering 
+what has scared them off. Faint sounds can be heard in the distance. The 
+trail seems to get darker the farther you venture. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80339
+D3
+~
+~
+0 0 80336
+S
+#80339
+On a Dark Pathway~
+~
+A huge cavern looms at the end of the pathway. Something large is heard 
+rustling around. Snapping noises can be heard, it sounds like a bone 
+breaking. Maybe you should turn around now before you hear your own bones. 
+~
+1 67108864 12
+D3
+~
+~
+0 0 80338
+D6
+~
+~
+0 0 80340
+S
+#80340
+Darkened Cavern~
+~
+The resting serpent lies here in this darkened cavern. Skeletons lie broken 
+around the cavern, evidence of travellers past. Your movement disturbs the 
+serpent, and he coils, ready for you. 
+~
+1 71303169 12
+D8
+~
+~
+0 0 80339
+R M 0 80304 1 80340
+  R E 0 80303 0 3
+S
+#80341
+Liviana's Shop~
+~
+Liviana looks up as you come in. She smirks and goes back to reading through 
+her copy of Merlife Today. Her wares are out on prim displays. The items are 
+neatly arranged, and nothing is out of order. You have a feeling she runs 
+her entire life like her store. 
+~
+1 67108864 12
+D3
+~
+~
+0 0 80308
+R M 0 80317 1 80341
+  R G 0 80310 0
+  R G 0 80332 0
+  R G 0 80333 0
+  R G 0 80334 0
+S
+#80342
+Underwater Field~
+~
+You see the end of the field towards the east. A family of sand dollars 
+wriggles around on the ocean floor. Houses and shops can be seen in the 
+distance. A large hot vent sends bubbles swirling through the air. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80308
+D1
+~
+~
+0 0 80343
+D3
+~
+~
+0 0 80327
+R M 0 80325 5 80342
+R M 0 80330 30 80342
+  R E 0 80331 0 16
+R M 0 80339 20 80342
+S
+#80343
+At a Junction~
+~
+The lush field ends here, and another pebbled pathway begins. Looking around 
+you see more houses in the distance and a large black looking structure. 
+Merchildren swim quickly up and down the streets as they play. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80344
+D3
+~
+~
+0 0 80342
+D6
+~
+~
+0 0 80346
+D7
+~
+~
+0 0 80347
+D8
+~
+~
+0 0 80349
+R M 0 80306 30 80343
+  R E 0 80309 0 16
+R M 0 80314 30 80343
+  R E 0 80308 0 3
+R M 0 80318 10 80343
+R M 0 80341 20 80343
+S
+#80344
+Pebbled Path~
+~
+The pebbled pathway leads you downward into a small canyon. Ahead you can 
+see a shimmering onyx castle. Fish swim overhead and try to avoid the guards 
+at the castle. Sand dunes flank the edges of the pathway and spill over into 
+the path. Crabs peek out of their homes. 
+~
+1 67108864 12
+D3
+~
+~
+0 0 80343
+D7
+~
+~
+0 0 80345
+R O 0 80301 0 80344
+R O 0 80313 0 80344
+R M 0 80328 1 80344
+  R G 0 80340 0
+  R E 0 80325 0 3
+R M 0 80329 20 80344
+R M 0 80314 20 80344
+S
+#80345
+Pebbled Path~
+~
+The pathway splits into two passages. The castle lies to your east and homes 
+are to your south. An irritated, half smushed crab pinches at your boot. You 
+should watch where you step. 
+~
+1 67108868 12
+D2
+~
+~
+0 0 80353
+D7
+~
+~
+0 0 80351
+D9
+~
+~
+0 0 80344
+R M 0 80340 30 80345
+  R E 0 80350 0 6
+  R E 0 80349 0 16
+S
+#80346
+Stone House~
+~
+The furniture in this home resembles that of the others. Small pearls are 
+used as handles, and the stone has intricate symbols carved into it. A 
+merman peers out quizzically from his bed at you. 
+~
+1 67108864 12
+D8
+~
+~
+0 0 80343
+R M 0 80313 1 80346
+  R E 0 80312 0 6
+S
+#80347
+Small Junction~
+~
+You are faced with three directions at this small junction. Northwest leads 
+back to the main pathway. East leads into a distinctive limestone home. 
+Southwest leads you to the meeting place of the merpeople. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80350
+D8
+~
+~
+0 0 80348
+D9
+~
+~
+0 0 80343
+S
+#80348
+Stone Building~
+~
+This stone building seems to be a meeting place for the merpeople. Stone 
+tables and chairs are spread throughout the room, and merpeople sit flirting 
+and talking. Merchildren play a game near the entranceway. A few look up as 
+you enter. 
+~
+1 67108864 12
+D6
+~
+~
+0 0 80347
+D9
+~
+~
+0 0 80349
+R M 0 80302 30 80348
+  R E 0 80308 0 3
+R M 0 80321 30 80348
+R M 0 80330 30 80348
+  R E 0 80316 0 14
+S
+#80349
+Stone Building~
+~
+This building hosts a playground for the children. Balls, trained seahorses, 
+and other toys float freely as the children dart about. Two older tired 
+mermaids lounge at the back of the building and talk as they ignore the 
+children. 
+~
+1 67108864 12
+D6
+~
+~
+0 0 80343
+D7
+~
+~
+0 0 80348
+R M 0 80302 30 80349
+R M 0 80306 35 80349
+  R E 0 80309 0 16
+R M 0 80307 1 80349
+  R E 0 80310 0 6
+R M 0 80303 30 80349
+S
+#80350
+Limestone House~
+~
+This limestone house stands out a bit from the other homes in this 
+underwater city. The decor is proper and follows strict lines. Small 
+tributes honoring the occupant line one wall. Strange artifacts sit on the 
+table, tools of the man's trade. 
+~
+1 67108864 12
+D3
+~
+~
+0 0 80347
+R M 0 80305 1 80350
+  R E 0 80307 0 16
+R O 0 80304 0 80350
+  R P 0 80305 1 80304
+  R P 0 80306 1 80304
+S
+#80351
+Sandy Path~
+~
+This sandy path leads to a small onyx palace. Northwest leads you back to 
+the main part of the merpeople city. You can see guards swimming around and 
+talking in the distance. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80352
+D9
+~
+~
+0 0 80345
+S
+#80352
+Castle Gates~
+~
+The gates of the Dalit castle are wide open. Fish and merpeople swim freely 
+in and out. The guard house is empty. Sounds of boisterous laughter are 
+heard from the east. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80330
+D3
+~
+~
+0 0 80351
+R M 0 80312 20 80352
+S
+#80353
+Dark Passage~
+~
+This passage to the homes is dark and narrow due to the rock walls 
+shouldering you. Something large brushes against you, and your heart pounds 
+in your chest. Small bones litter the ground. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80345
+D2
+~
+~
+0 0 80354
+R M 0 80310 10 80353
+R M 0 80341 20 80353
+S
+#80354
+Dark Passage~
+~
+This dark passage dead ends into two homes. Maniacal screeching can be heard 
+to the north. The house to the west is silent. A long dark shadow passes 
+overhead. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80353
+D2
+~
+~
+0 0 80355
+D3
+~
+~
+0 0 80356
+R M 0 80310 10 80354
+S
+#80355
+Ramshackle Stone House~
+~
+Faded and ruined bits of finery are piled up in this ramshackle stone house. 
+The owner was obviously in a position of power once. An important looking 
+key hangs on the wall. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80354
+R M 0 80326 1 80355
+  R G 0 80345 0
+R M 0 80339 20 80355
+S
+#80356
+Vacant Stone House~
+~
+A slithering, disgusting hoard of moray eels has taken over this home. The 
+owner's belongings lay where he last them as he hurried to get away. The 
+eels slither closer to you as you enter. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80354
+R M 0 80327 1 80356
+R O 0 80311 0 80356
+R O 0 80313 0 80356
+S
+#80357
+Serizos's Store~
+~
+This store is filled to the brim with all sorts of treats. Serizos proudly 
+wipes the displays off and shows you his merchandise. Merpeople lazily swim 
+in and out of the store. 
+~
+1 67108864 12
+D2
+~
+~
+0 0 80335
+R M 0 80316 1 80357
+  R G 0 80307 0
+  R G 0 80326 0
+  R G 0 80327 0
+  R G 0 80328 0
+  R G 0 80329 0
+  R G 0 80330 0
+S
+#80358
+Onyx Castle~
+~
+The glittering onyx walls of this room are lined with pictures of the royal 
+family. Judging by the pictures, all of the queens have been very lovely. 
+Merpeople wander in and out as they seek an audience with the king about 
+various issues. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80361
+D1
+~
+~
+0 0 80359
+D3
+~
+~
+0 0 80311
+S
+#80359
+Waiting Area~
+~
+This is the waiting area for those who wish an audience with the king. 
+Merpeople with their request granted are being guided into the next room. 
+The unlucky ones are being dragged to the castle gates. 
+~
+1 67108864 12
+D1
+~
+~
+0 0 80360
+D3
+~
+~
+0 0 80358
+R M 0 80332 20 80359
+S
+#80360
+Throne Room~
+~
+This is the throne room of the Dalit palace. Two golden thrones command the 
+center of the room and a wide red carpet leads up to them. The king's 
+audience is hushed and awaiting his summons to speak before him. 
+~
+1 67108864 12
+D2
+~
+~
+0 0 80362
+D3
+~
+~
+0 0 80359
+R M 0 80332 20 80360
+R O 0 80337 0 80360
+R O 0 80338 0 80360
+R M 0 80333 1 80360
+  R E 0 80339 0 16
+R O 0 80348 0 80360
+S
+#80361
+Parlor~
+~
+A small receiving parlor is here. It has been tastefully decorated in gold 
+and coral huges. Maids slip in and out of the room to wait on the royalty 
+and their guests. An inviting sofa has been positioned against one wall so 
+visitors may observe the Queen's pet starfish. 
+~
+1 67108864 12
+D2
+~
+~
+0 0 80358
+R O 0 80336 0 80361
+R M 0 80332 20 80361
+R M 0 80336 1 80361
+S
+#80362
+Small Passageway~
+~
+This passageway connects the throne room to the royal chambers. The king's 
+advisors swim here trying to communicate bits of last minute information to 
+the king. The King's pet manta ray hovers here hoping for attention. 
+~
+1 67108864 12
+D0
+~
+~
+0 0 80360
+D4
+~
+~
+0 0 80363
+R M 0 80337 1 80362
+R M 0 80320 30 80362
+R M 0 80338 1 80362
+  R E 0 80344 0 16
+S
+#80363
+Spiral Staircase~
+~
+This elegant spiraled staircase leads up to the royal chambers. Touches of 
+albaster decorate the walls around the staircase. The handrails have small 
+gems embedded into them. 
+~
+1 67108864 12
+D5
+~
+~
+0 0 80362
+D6
+~
+royal chamber~
+33 80345 80364
+S
+#80364
+Royal Chambers~
+~
+The royal chambers are elegantly decorated in jade tones. A bed formed from 
+soft sponges is nestled in the corner. The Queen's vanity is positioned in 
+front of the open window looking out over the kingdom. 
+~
+1 67108864 12
+D8
+~
+royal chamber~
+33 80345 80363
+R M 0 80334 1 80364
+R M 0 80335 1 80364
+  R E 0 80341 0 17
+R O 0 80342 0 80364
+  R P 0 80343 1 80342
+S
+#0
+
+
+#SHOPS
+ 80316    0  0  0  0  0   150  75         0 23    ; serizos the shopkeeper
+ 80317    0  0  0  0  0   150  75         1 23    ; liviana the shopkeeper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

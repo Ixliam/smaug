@@ -1,0 +1,1833 @@
+#AREA        Ancient Tomb of the Dead~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#9900
+crypt thing creature~
+a `#`RCrypt`s Thing`^~
+A `#`RCrypt`s Thing`^ is here, `wGuarding the Entrance`^.
+~
+A horrid creature stands here blocking your path.  
+~
+0
+Clanname none~
+0
+0
+65 128 -600 C
+80 55 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9901
+Black Pudding~
+a `#`sblack pudding`^~
+A `#`sblack pudding`^ slithers here.
+~
+`wa `DBlack Pudding `wis sitting here.  `x a large black pudding slithers about, it 
+looks evil.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+65 45 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9902
+Shadow~
+a misty `#`SShadow`^~
+A misty `#`SShadow`^ is here, lurking about.
+~
+`wa `DShadow `wis here lurking about.  `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+56 25 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9903
+Spectre~
+a `#`wS`spectre`^~
+A large `#`wS`spectre`^ is floating here.
+~
+`Wa `wSpectre `Wis floating here.  `x 
+A Spectre is floating here.
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+58 30 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9904
+baatezu pit fiend~
+the `#`SBaatezu`^~
+A gigantic `#`Rp`rit `Rf`riend`^ is not happy to see you!
+~
+A large red Baatezu or Pit Fiend is standing here.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+80 100 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9905
+Shadow Dragon~
+a large `#`SShadow Dragon`^~
+A massive `#`SShadow Dragon`^ snarls at you as you enter his room!
+~
+A Massive dragon with translucent scales.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+83 75 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9906
+Undead Warrior Skeletal~
+an `#`sUndead Warrior`^~
+An `#`sUndead Warrior`^ is here preparing for `Rbattle`^.
+~
+An undead warrior is here, glaring about, looking for someone to fight.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 50 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9907
+Wraith~
+a `#`SWraith`^~
+An unhappy `#`SWraith`^ floats here.
+~
+A black cloud shaped as a human.  
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+68 30 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9908
+horse nightmare~
+`#`WNightmare`^~
+`#`sNightmare`^, the `Rpit fiend's`^ steed stands here.
+~
+A massive black horse with blood red eyes.  He is the trusted steed to the 
+pit fiend.  He would be a valuable mount if you can tame him.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+68 90 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9909
+undead beholder~
+a kasharin beholder~
+A Kasharin Beholder is floating here glaring at you.
+~
+A large beholder floats here, scanning its surroundings.
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+61 60 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9910
+Mummy~
+`#`Sa mummy`^~
+A tattered looking `#`sMummy`^ is pacing back and forth here.
+~
+`wa `DMummy `wis pacing back and forth here.  `x 
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+43 25 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9911
+mind flayer~
+a `#`smind `rflayer`^~
+A large `#`sMind`r Flayer`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+55 90 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9912
+ghost apparition lod verminaard~
+the Ghost of `#`RLord`s Verminaard`^~
+A ghastly apparition is standing here, glaring at you.
+~
+Verminaard is a fearsome sight indeed.  Although he is short, he is very 
+well muscled, and has been trained diligently in the art of battle.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+73 250 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9913
+velkyn~
+`#`sVelkyn`^~
+`#`sVelkyn`^ is here, making himself at home.
+~
+A rough looking man stands proudly before you.  His jet black hair, greasy 
+from bad hygene.  
+ 
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+69 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9914
+decker the black dragon~
+`#`SDecker`^ the `sBlack Dragon`^~
+`#`SDecker`^, a young `sblack dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+75 300 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#9900
+Decaying Corpse~
+`#`wa `sDecaying Corpse `wis lying here.`^~
+`#`wa `sDecaying Corpse `wis lying here.`^~
+~
+15 0 8
+0 0 50 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9901
+jeweled ring~
+`#`wa `RJ`re`Rw`re`Rl`re`Rd `wRing`^~
+`#`wa `RJ`re`Rw`re`Rl`re`Rd `wRing has been dropped here.`^~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9902
+Large Skull~
+`#`wa large `yHorned `sSkull `wis hanging on the wall`^~
+`#`wa large `yHorned `sSkull `wis hanging on the wall`^~
+~
+15 0 8
+0 0 10 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9903
+Pile of Bones~
+`#`wa Pile of `sBones`^~
+`#`wa Pile of `sBones `wis lying here.`^~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9904
+Vault sarcophagus coffin~
+`#`wa large `sStone `wSarcophagus`^~
+`#`wa large `sStone `wSarcophagus`^~
+~
+15 0 8
+5 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9904 sarcophagus ~
+A large sarcophagus sets here, the lid is cracked open slightly.  
+~
+#9905
+translucent claw shadow dragon dagger~
+`#`w(T`Wra`wns`Wlu`wce`Wnt) `RC`rl`Ra`rw `wof the `sShadow Dragon`^~
+A sharp translucent claw is lying here.~
+~
+5 16 4
+5 105 135 4 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9906
+black grey potion shield~
+a `#`SBlack`^ and `sG`wrey`^ Potion~
+A `#`SBlack`^ and `sG`wrey`^ Potion has been dropped here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9907
+amulet of defense~
+`#`wan `CA`cmulet `wof `RD`refense`^~
+A glowing amulet is laying here.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9908
+golden nose ring~
+`#`Ya `Yg`yolden `Yn`yose `Yr`ying`^~
+A small golden nose ring is lying here.~
+~
+9 64 8
+10 10 6 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9909
+evil piercing eyes~
+`#`wE`svil `RP`ri`Re`rr`Rc`ri`Rn`rg `GE`gyes`^~
+A pair of eyeballs are lying here.~
+~
+9 16 8
+40 40 6 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9910
+demonic breastplate of the fiend~
+`#`RD`remonic `sBreastplate `wof the `RF`riend`^~
+An evil looking breastplate is lying here.~
+~
+9 16 8
+55 55 18 0 0 0 0
+1 5412 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9911
+ruined sword of deception~
+`#`wa `sR`wu`si`wn`se`wd `sSword `wof `RD`re`Rc`re`Rp`rt`Ri`ro`Rn`^~
+A glowing, humming sword is lying here.~
+~
+5 2 4
+2 97 119 80 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9912
+black steel visor~
+a `#`Sblack`^ steel visor~
+A `#`Sblack`^ steel visor lies here.~
+~
+9 64 8
+50 50 10 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9913
+shadow dragon rod~
+`#`rRod `wof the `sShadow `wDragon`^~
+An short rod with the head of a dragon carved into it lies here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+9913 dragon rod~
+This small, 18 inch rod has a dragons head carved out of a translucent stone 
+on one end.  
+~
+#9914
+amulet of deathsight~
+`#`wThe `rAmulet `wof `sDeathSight`^~
+A strange looking amulet is lying here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9915
+serpent armor~
+`#`wa set of `GS`gerpent `GB`gody `GA`grmor`^~
+A set of green tinted chainmail is lying here.~
+~
+9 0 8
+50 50 20 0 0 0 0
+1 1700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9915 serpent armor~
+This chain mail armor has a dark green gemstone in the middle of it.  The 
+gemstone radiates a 5' green aura.  The armor gives the wearer immunity to 
+poisons.  
+~
+#9916
+serpent sword~
+`#`wa `sS`wword `wof the `GS`gerpent`^~
+A strange sword with a dark green color is lying here.~
+~
+5 0 4
+6 89 118 128 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9916 serpent sword~
+The sword  has a dark green color and the hilt has the face of a snake on 
+it.  When the sword hits it injects poison into the victim.  
+~
+#9917
+ragged sign post~
+`#`san old ragged sign`^~
+`#`sAn old ragged sign is posted here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9917 ragged sign~
+You are entering the Ancient Tomb of the Undead.  Be warned that this is not 
+a friendly place.  Only the strong in body shall enter and come out alive.  
+~
+#9918
+tiny pearl warpstone~
+`#`ca `Ct`ciny `Cp`ce`Carl`^~
+`#`ca `Ct`ciny `Cp`ce`Carl`^ is lying here.`^~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9919
+flaming demonic axe of the fiend~
+`#`RD`remonic `sAxe `wof the `RF`riend`^~
+A large `#`Rflaming`^ axe lies here.~
+~
+5 16 4
+5 105 135 1 0 0 0
+1 1255 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9920
+shadow cloak~
+a `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `sShadow `wCloak`^~
+A `#`Wt`wr`Wa`wn`Ws`wl`Wu`wc`We`wn`Wt `sShadow `wCloak`^ is lying here.~
+~
+9 0 8
+55 55 10 0 0 0 0
+1 560 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9921
+serpent ring~
+`wRing `wof the `GS`gerpent`^~
+A strange ring engraved with a symbol of a `#`gserpent`^ is lying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9922
+serpentine leggings~
+`#`wa pair of `GS`gerpentine `GL`geggings`^~
+A pair of green leggings are lying here.~
+~
+9 16 8
+50 50 12 0 0 0 0
+1 1245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#9900
+Entrance to a Tomb~
+~
+Before you are two massive stone columns, and a large stone door that is 
+slightly open in between them.  There is a slight bit of mist seeping out of 
+the door and the wind is blowing lightly with a slight chill to it.  
+~
+1 0 3
+D0
+~
+~
+0 0 9901
+D1
+~
+~
+0 0 59872
+D2
+~
+~
+0 0 59951
+D3
+~
+~
+0 0 59870
+R M 0 9900 1 9900
+S
+#9901
+Inside the Entrance~
+~
+As you canrefully step inside the tomb a large blast of cold air hits you 
+sending chill bumps all over your body.  The room is instantly dark.  You 
+get an eerie feeling about this place.  
+~
+1 0 0
+D0
+~
+~
+0 0 9903
+D2
+~
+~
+0 0 9900
+D3
+~
+~
+1 0 9902
+S
+#9902
+Burial Chamber~
+~
+The musty smell almost knocks you down as you enter into this chamber.  
+There is actually a large coffin resting in the middle of this chamber.  
+~
+1 0 0
+D1
+~
+~
+1 0 9901
+R O 0 9904 0 9902
+  R P 0 9918 1 9904
+S
+#9903
+Hallway inside the Tomb~
+~
+The hallway is not very long, you can see where is makes a left straight
+ahead of you.  Looking back, you can still see the light from the entrance. 
+There is a hallway to your right.  
+~
+1 0 0
+D0
+~
+~
+0 0 9904
+D1
+~
+~
+0 0 9907
+D2
+~
+~
+0 0 9901
+R M 0 9901 15 9903
+  R G 0 9906 0
+S
+#9904
+Hallway inside the Tomb~
+~
+The hallway is not very long, you can see where is makes a left straight
+ahead of you.  Looking back, you can still see the light from the entrance. 
+There is a hallway to your right.  
+~
+1 0 0
+D0
+~
+~
+0 0 9905
+D1
+~
+~
+0 0 9906
+D2
+~
+~
+0 0 9903
+R M 0 9906 15 9904
+  R E 0 9911 0 16
+S
+#9905
+Hallway inside the Tomb~
+~
+The hallway makes a left here.  You can see that it too isnt a very long
+hall but you also notice a lit torch hanging on the wall at the other end.  
+~
+1 0 0
+D2
+~
+~
+0 0 9904
+D3
+~
+~
+0 0 9940
+R M 0 9903 15 9905
+S
+#9906
+Hallway inside the Tomb~
+~
+The hallway leads east and west from here.  You notice a large gathering
+of rats scurrying about to you east.  You feel a drop of something wet and
+gooey hit you on the head.  Looking up you are struck again in the face with
+a blob of the same slim that is seeping from the walls.  
+~
+1 0 0
+D1
+~
+~
+0 0 9908
+D2
+~
+~
+0 0 9907
+D3
+~
+~
+0 0 9904
+R M 0 9902 15 9906
+S
+#9907
+Hallway inside the Tomb~
+~
+The hallway makes a right up ahead and you notice a lit torch hanging on
+the wall.  
+~
+1 0 0
+D0
+~
+~
+0 0 9906
+D1
+~
+~
+0 0 9909
+D3
+~
+~
+0 0 9903
+S
+#9908
+Hallway inside the Tomb~
+~
+Rats scatter as you approach leaving a small pile of decaying flesh at
+your feet.  The hall leads west and north from here.  
+~
+1 0 0
+D0
+~
+~
+0 0 9919
+D3
+~
+~
+0 0 9906
+R M 0 9911 10 9908
+  R E 0 9909 0 6
+S
+#9909
+Hallway inside the Tomb~
+~
+Looking south you see that there is another turn in the hallway.  The air
+in here is very moist making it hard to breath and you notice that there is
+a slimy substance seeping from walls in some places.  
+~
+1 0 0
+D2
+~
+~
+0 0 9910
+D3
+~
+~
+0 0 9907
+R M 0 9902 15 9909
+S
+#9910
+Hallway inside the Tomb~
+~
+The floors seem to be very slippery making it difficult to walk. 
+Straight ahead you see the hallway turn and there is another lit torch on
+the wall.  
+~
+1 0 0
+D0
+~
+~
+0 0 9909
+D1
+~
+~
+0 0 9911
+R M 0 9911 10 9910
+  R E 0 9909 0 6
+S
+#9911
+Hallway inside the Tomb~
+~
+The floors seem to be very slippery making it difficult to walk. 
+Straight ahead you see the hallway turn and there is another lit torch on
+the wall.  
+~
+1 0 0
+D1
+~
+~
+0 0 9912
+D3
+~
+~
+0 0 9910
+R M 0 9910 15 9911
+S
+#9912
+Hallway inside the Tomb~
+~
+It seems to be getting darker even with the torches.  The hallway ahead
+is quite long but you can still see the end.  There are a couple of torches
+hanging on the walls for light.  
+~
+1 0 0
+D0
+~
+~
+0 0 9913
+D3
+~
+~
+0 0 9911
+R M 0 9909 5 9912
+S
+#9913
+Hallway inside the Tomb~
+~
+It seems to be getting darker even with the torches.  The hallway ahead
+is quite long but you can still see the end.  There are a couple of torches
+hanging on the walls for light.  There is still slim leaking from the walls
+and the floor is still slippery.  
+~
+1 0 0
+D0
+~
+~
+0 0 9914
+D2
+~
+~
+0 0 9912
+S
+#9914
+Hallway inside the Tomb~
+~
+You notice an empty torch holder on the wall and below it there is a
+decaying corpse holding an old unlit torch.  The corpse looks like it
+belonged to an Ogre or some other large race.  There are rats eating away on
+the remains.  
+~
+1 0 0
+D0
+~
+~
+0 0 9915
+D2
+~
+~
+0 0 9913
+R M 0 9906 15 9914
+R O 0 9900 0 9914
+  R P 0 9901 1 9900
+  R P 0 9918 1 9900
+S
+#9915
+Hallway inside the Tomb~
+~
+The hallway turns to the east here and also continues straight ahead. 
+You notice that it turns to the west father down the hallway.  
+~
+1 0 0
+D0
+~
+~
+0 0 9916
+D1
+~
+~
+0 0 9942
+D2
+~
+~
+0 0 9914
+R M 0 9902 15 9915
+S
+#9916
+Hallway inside the Tomb~
+~
+The hallway goes east and west from here.  You begin to hear slight
+screeching sounds, it almost sounds like a female whimpering.  
+~
+1 0 0
+D2
+~
+~
+0 0 9915
+D3
+~
+~
+0 0 9917
+R M 0 9901 15 9916
+  R G 0 9906 0
+S
+#9917
+Hallway inside the Tomb~
+~
+There are halls going north and west from here, or you can go back to way
+you came.  The hallway to the north is long and dark and all the torches on
+the wall are not lit.  
+~
+1 0 0
+D0
+~
+~
+0 0 9922
+D1
+~
+~
+0 0 9916
+D3
+~
+~
+0 0 9918
+R M 0 9910 15 9917
+S
+#9918
+Hallway inside the Tomb~
+~
+You notice a strange skull hanging on the wall right in front of you.  It
+has horns but it is too large to be a Minotaur.  Scanning the area you see
+that the hallway now goes north and south.  
+~
+1 0 0
+D0
+~
+~
+0 0 9920
+D1
+~
+~
+0 0 9917
+D2
+~
+~
+0 0 9919
+R O 0 9902 0 9918
+  R P 0 9908 1 9902
+S
+#9919
+Hallway inside the Tomb~
+~
+You notice a strange skull hanging on the wall right in front of you.  It
+has horns but it is too large to be a Minotaur.  Scanning the area you see
+that the hallway now goes north and south.  
+~
+1 0 0
+D0
+~
+~
+0 0 9918
+D2
+~
+~
+0 0 9908
+R O 0 9902 0 9919
+  R P 0 9908 1 9902
+S
+#9920
+Hallway inside the Tomb~
+~
+The hallway goes to the east and there is a door to your left.  Engraved
+on the door is a figure of a Knight riding a large dragon.  
+~
+1 0 0
+D1
+~
+~
+0 0 9922
+D2
+~
+~
+0 0 9918
+D3
+~
+~
+1 0 9921
+S
+#9921
+Burial Chamber~
+~
+You are standing inside one of the burial chambers.  There are several rusty 
+weapons hanging on the walls and in the corner is a large painting that is 
+barely visible of a man on horseback wearing full armor.  There is a small 
+straw pallet in the middle of the room and an old rusty lantern setting on 
+a roughly built wooden table.  As horrid as this place is, it looks as if 
+someone actually lives here.  
+~
+1 9 0
+D1
+~
+~
+1 0 9920
+R M 0 9913 1 9921
+  R E 0 9921 0 17
+  R E 0 9922 0 7
+  R E 0 9915 0 5
+  R E 0 9916 0 16
+S
+#9922
+Hallway inside the Tomb~
+~
+The hallway to the north is long and dark and all the torches on the wall
+are not lit.  There is a closed stone door to the west and the hallway also
+leads back south.  
+~
+1 0 0
+D0
+~
+~
+0 0 9923
+D2
+~
+~
+0 0 9917
+D3
+~
+~
+0 0 9920
+R M 0 9911 10 9922
+  R E 0 9909 0 6
+S
+#9923
+Hallway in the tomb~
+~
+You are standing in the middle of this long hallway.  It is very dark
+here and slim keeps dripping onto your head.  You can hear slight moans and
+screeching coming from the north.  
+~
+1 0 0
+D0
+~
+~
+0 0 9924
+D2
+~
+~
+0 0 9922
+R M 0 9903 15 9923
+S
+#9924
+Hallway inside the Tomb ~
+~
+You can see something moving to your north, and that is where the sounds
+are coming from.  The hallway also leads to the west as well.  
+~
+1 0 0
+D0
+~
+~
+0 0 9925
+D2
+~
+~
+0 0 9923
+D3
+~
+~
+0 0 9929
+R M 0 9902 15 9924
+S
+#9925
+Hallway inside the Tomb~
+~
+The walls and floor here have long fingernail scratches that run at least
+3 feet and are at least half an inch deep.  The hallway runs to the west
+from here or back south the way you came.  
+~
+1 0 0
+D2
+~
+~
+0 0 9924
+D3
+~
+~
+0 0 9926
+R M 0 9907 4 9925
+S
+#9926
+Hallway inside the Tomb~
+~
+You can hear slight moans and screeching coming from the east.  The hallway 
+leads east and west from here.  To the west and east it looks like the 
+hallway makes a turn.
+~
+1 0 0
+D1
+~
+~
+0 0 9925
+D3
+~
+~
+0 0 9927
+R M 0 9903 15 9926
+S
+#9927
+Hallway inside the Tomb~
+~
+There is something moving in the distance to the east.  
+~
+1 0 0
+D1
+~
+~
+0 0 9926
+D2
+~
+~
+0 0 9928
+R M 0 9910 15 9927
+S
+#9928
+Hallway inside the Tomb~
+~
+The hallway continues west from here or you can turn and go north. 
+Although you can see that the hallway to the north turns again after a few
+steps.  
+~
+1 0 0
+D0
+~
+~
+0 0 9927
+D1
+~
+~
+0 0 9929
+D3
+~
+~
+0 0 9930
+R M 0 9901 15 9928
+  R G 0 9906 0
+S
+#9929
+Hallway inside the Tomb~
+~
+You are walking down a long dark hallway.  There are dripping sounds all
+around you and occasionally you feel a drop of slim plop onto your head. 
+All of the torches on this hallway are lit until you reach the end of the
+hallway.  
+~
+1 0 0
+D1
+~
+~
+0 0 9924
+D3
+~
+~
+0 0 9928
+S
+#9930
+Hallway inside the Tomb~
+~
+You are standing at a T intersection.  The hallway goes north, south,
+east and west from here.  To the south and west you see a tomb.  The tomb to
+the south looks as if it has been recently opened.  
+~
+1 0 0
+D1
+~
+~
+0 0 9928
+D2
+~
+~
+1 0 9931
+D3
+~
+~
+0 0 9932
+R M 0 9906 15 9930
+S
+#9931
+Burial Chamber~
+~
+The musty smell almost knocks you down as you enter this chamber.  
+~
+1 0 0
+D0
+~
+~
+1 0 9930
+S
+#9932
+Hallway inside the Tomb~
+~
+To the west is a stone door and the hallway leads south and east from
+here.  
+~
+1 0 0
+D1
+~
+~
+0 0 9930
+D2
+~
+~
+0 0 9933
+D3
+~
+~
+1 0 9934
+S
+#9933
+Hallway inside the Tomb~
+~
+The hallway leads to the north and south from here and there are lit
+torches lining the walls.  
+~
+1 0 0
+D0
+~
+~
+0 0 9932
+D2
+~
+~
+0 0 9935
+R M 0 9911 10 9933
+  R E 0 9909 0 6
+S
+#9934
+Burial Chamber~
+~
+A strong smell of decay floats in the air here.  
+~
+1 0 0
+D1
+~
+~
+1 0 9932
+R M 0 9907 4 9934
+S
+#9935
+Hallway inside the Tomb~
+~
+The hallway leads to the north and south from here and there are lit
+torches lining the walls.  There is a large pile of bones on the floor here.
+~
+1 0 0
+D0
+~
+~
+0 0 9933
+D2
+~
+~
+0 0 9936
+R O 0 9903 0 9935
+  R P 0 9907 1 9903
+S
+#9936
+Hallway inside the Tomb~
+~
+The hallway continues south and east from here and you can see that in
+both directions that the hallway makes a turn after a few steps.  There is a
+crypt to your west.  
+~
+1 0 0
+D0
+~
+~
+0 0 9935
+D1
+~
+~
+0 0 9938
+D2
+~
+~
+0 0 9939
+D3
+~
+~
+1 0 9937
+S
+#9937
+Burial Chamber~
+~
+The musty smell almost knocks you down as you enter into this chamber.  
+~
+1 1 0
+D1
+~
+~
+1 0 9936
+R M 0 9907 4 9937
+S
+#9938
+Hallway inside the Tomb~
+~
+The hallway runs west and south from here and to your south you can see a
+large stone door.  
+~
+1 0 0
+D2
+~
+~
+0 0 9940
+D3
+~
+~
+0 0 9936
+R M 0 9901 15 9938
+  R G 0 9906 0
+S
+#9939
+Hallway inside the Tomb~
+~
+The hall runs north and east from here.  There are strange markings drawn
+on the walls.  
+~
+1 0 0
+D0
+~
+~
+0 0 9936
+D1
+~
+~
+0 0 9940
+R M 0 9902 15 9939
+S
+#9940
+Hallway inside the Tomb~
+~
+You are standing at a T intersection.  The hallway goes north, south,
+east and west from here.  To the south there is a stone door and it looks
+like it has been opened recently.  
+~
+1 0 0
+D0
+~
+~
+0 0 9938
+D1
+~
+~
+0 0 9905
+D2
+~
+~
+1 0 9941
+D3
+~
+~
+0 0 9939
+R M 0 9909 5 9940
+S
+#9941
+Burial Chamber~
+~
+A strong smell of decay floats in the air here.  
+~
+1 0 0
+D0
+~
+~
+1 0 9940
+S
+#9942
+Hallway inside the Tomb~
+~
+The hallway runs north and west from here.  You begin to hear slight
+moans and screeching.  Scanning around you notice something dark move to
+your north.  
+~
+1 0 0
+D0
+~
+~
+0 0 9943
+D3
+~
+~
+0 0 9915
+S
+#9943
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here and you notice that the noises
+are getting louder.  
+~
+1 0 0
+D0
+~
+~
+0 0 9944
+D2
+~
+~
+0 0 9942
+R M 0 9911 10 9943
+  R E 0 9909 0 6
+S
+#9944
+Hallway inside the Tomb~
+~
+The walls and floor here have long fingernail scratches the run at least
+3 feet in length and are at least half an inch deep.  The hallway runs south
+and west from here.  The passage to your west takes a turn northward.  
+~
+1 0 0
+D2
+~
+~
+0 0 9943
+D3
+~
+~
+0 0 9945
+R M 0 9907 4 9944
+S
+#9945
+Hallway inside the Tomb~
+~
+The hallway goes north and east from here.  You hear moans and screeching
+to your east and you can see something dark moving.  The hallway going north
+is long and dark.  None of the Torches are lit save for one in the very far
+end of the hallway.  
+~
+1 0 0
+D0
+~
+~
+0 0 9946
+D1
+~
+~
+0 0 9944
+S
+#9946
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here.  It is a long dark hallway
+except for the single torch.  
+~
+1 0 0
+D0
+~
+~
+0 0 9947
+D2
+~
+~
+0 0 9945
+R M 0 9903 15 9946
+S
+#9947
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here.  It is a long dark hallway
+except for the single torch.  
+~
+1 0 0
+D0
+~
+~
+0 0 9948
+D2
+~
+~
+0 0 9946
+R M 0 9901 15 9947
+  R G 0 9906 0
+S
+#9948
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here.  It is a long dark hallway
+except for the single torch.  There is a stone door to your east.  
+~
+1 0 0
+D0
+~
+~
+0 0 9950
+D1
+~
+~
+1 0 9949
+D2
+~
+~
+0 0 9947
+R M 0 9909 5 9948
+S
+#9949
+Burial Crypt~
+~
+The air smells almost tolerable here.  There is a single torch hanging on 
+the wall here lighting the room.  You wonder why.  
+~
+1 33554432 0
+D3
+~
+~
+1 0 9948
+R M 0 9912 1 9949
+  R E 0 9911 0 16
+  R E 0 9914 0 3
+  R E 0 9912 0 25
+S
+#9950
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here.  It is a long dark hallway
+except for the single torch.  There is a large stone door to your west.  
+~
+1 0 0
+D0
+~
+~
+0 0 9952
+D2
+~
+~
+0 0 9948
+D3
+~
+~
+1 0 9951
+R M 0 9906 15 9950
+S
+#9951
+Burial Crypt~
+~
+The smell of decay is strong here making you almost choke as you try to 
+breath.  
+~
+1 0 0
+D1
+~
+~
+1 0 9950
+S
+#9952
+Hallway inside the Tomb~
+~
+The hallway runs west and south from here.  It is a long dark hallway
+except for the single torch.  There is a large stone door to your north.  
+~
+1 0 0
+D0
+~
+~
+1 0 9953
+D2
+~
+~
+0 0 9950
+D3
+~
+~
+0 0 9954
+R M 0 9910 15 9952
+S
+#9953
+Burial Crypt~
+~
+The smell of decay is strong here making you almost choke as you try to 
+breath.  
+~
+1 0 0
+D2
+~
+~
+1 0 9952
+S
+#9954
+Hallway inside the Tomb~
+~
+The hallway leads north and east from here.  You hear a strange noise
+coming from the north.  
+~
+1 0 0
+D0
+~
+~
+0 0 9955
+D1
+~
+~
+0 0 9952
+R M 0 9903 15 9954
+S
+#9955
+Hallway inside the Tomb~
+~
+The hallway runs north and south from here.  The noise is alot louder now
+though you cannot figure out what it is.  
+~
+1 0 0
+D0
+~
+~
+0 0 9956
+D2
+~
+~
+0 0 9954
+D3
+~
+~
+1 0 9958
+R M 0 9908 1 9955
+S
+#9956
+Hallway inside the Tomb~
+~
+You are at the end of a hallway.  There is a single torch hanging on the
+wall that has been blown out.  The noises that you hear now sound like
+something very large breathing.  
+~
+1 0 0
+D1
+~
+~
+1 0 9957
+D2
+~
+~
+0 0 9955
+S
+#9957
+Burial Crypt~
+~
+This crypt looks almost tolerable, the walls are clean and there is 
+practically no smell of decay at all.  
+~
+1 33554432 0
+D3
+~
+~
+1 0 9956
+R M 0 9905 1 9957
+  R E 0 9905 0 16
+  R G 0 9913 0
+  R E 0 9920 0 12
+S
+#9958
+Burial Crypt~
+~
+You are inside a very large burial crypt, much larger than the others.  
+~
+1 0 0
+D1
+~
+~
+1 0 9955
+R M 0 9904 1 9958
+  R E 0 9910 0 5
+  R E 0 9919 0 16
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,122 @@
+#AREA        Temple of Kreav~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#7530
+altar~
+an altar to `#`YKreav`^~
+An altar to `#`YKreav`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7530
+Entrance to the Temple~
+~
+Large white steps lead up into the magnificent temple before you.  Several 
+stone columns reach high into the air, supporting the roof of the temple.  
+An exotic carved relief winds its way around the edge of the roof, showing 
+ancient victories of the gods of the realm.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 3030
+D2
+~
+~
+0 0 7531
+S
+#7531
+Lighted Hallway~
+~
+Twelve large fluted marble columns line this hallway running north and 
+south.  The floor is made from the finest white marble, with intricate 
+designs etched into the stone with pure gold.  On each column a large brass 
+scone holds a burning torch, filling the cooridor with light.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7530
+D2
+~
+~
+0 0 7532
+S
+#7532
+Before the Altar~
+~
+A large white altar lies before you, its surface gleaming in with light.  A 
+large fire burns on top of it, filling the room with the smell of burning 
+incense.  A large offering box is along the east wall, ready to accept 
+donations to the temple.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7531
+R O 0 7530 0 7532
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

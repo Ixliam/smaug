@@ -1,0 +1,2376 @@
+#AREA        Stupid World: Body Parts Castle~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#4600
+hip guardian head femur~
+the hip guardian~
+A really weird head of a femur glares at you.
+~
+This is the strangest guardien you have ever seen.  It seem that a huge
+head of a femur has grown arm, legs and a head.  Wierd!  The guardian will
+fight till the very end, he tells you.  
+~
+0
+clanname none~
+0
+0
+65 128 -200 C
+40 0 -15 10d108+648 5d14+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4601
+guard leg evil~
+the evil leg guard~
+A mean looking guard of some sort wanders here.
+~
+This guy belongs to the guard force of the left leg.  These troops look like 
+they would defend each other.  He is real mean looking - you better not do 
+anything to upset him!  
+~
+0
+clanname none~
+0
+0
+65 0 -200 C
+42 0 -16 10d119+700 5d14+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4602
+guard leg good~
+the good leg guard~
+A pleasant looking guard of the right is here.
+~
+This guard is guarding the right leg.  He tells you: "My friends will
+help me, and I will help my friends."  
+~
+0
+clanname none~
+0
+0
+1 0 200 C
+42 0 -16 10d119+700 5d14+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4603
+brain mad~
+the mad brain~
+The feared Mad Brain is lookin pathetic.
+~
+So this is the leader of this horrible castle.  You had expected some
+worse and now you fell sorry for the poor creature.  You think maybe you
+should let him live....  Nahhhh!!!  
+~
+0
+clanname none~
+0
+0
+33 128 0 C
+55 0 -24 10d204+1078 5d19+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4604
+guard arm good~
+the good arm guard~
+The guard here look quite nice.....but is he?
+~
+This is a strange creature.  He is made from different body parts.  He
+tells you: "My job is to defend this side of the arm, and my friends will
+help me."  
+~
+0
+clanname none~
+0
+0
+65 0 200 C
+50 0 -21 10d168+930 5d17+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4605
+guard arm evil~
+the evil arm guard~
+This guard is mean looking - better keep your distance!
+~
+This is a strange creature.  He is made from different body parts.  He
+tells you: "My job is to defend this side of the arm, and my friends will
+help me."  
+~
+0
+clanname none~
+0
+0
+65 0 -200 C
+50 0 -21 10d168+930 5d17+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4606
+blood corpuscle white~
+the white blood corpuscle~
+A strange white blood corpuscle floats around here.
+~
+This is a strange blob.  You realise, that it must be a huge blood
+corpuscle.  This one is white.  You wonder where the red ones are.  
+~
+0
+clanname none~
+0
+0
+1 524288 200 C
+47 0 -19 10d149+836 5d16+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4607
+hip guardian head femur~
+the hip guardian~
+A really weird head of a femur glares at you.
+~
+This is the strangest guardian you have ever seen.  It seems that a huge
+head of a femur has grown arms, legs and a head.  Weird!  The guardian will
+fight till the very end, he tells you.  
+~
+0
+clanname none~
+0
+0
+65 128 200 C
+40 0 -15 10d108+648 5d14+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4608
+blood corpuscle red~
+the red blood corpuscle~
+Something here looks like a huge red blood corpuscle.
+~
+There is a red blob here.  The red blood corpuscle of course.  This one
+looks real mean.  You better not mess with the stuff its guarding!  
+~
+0
+clanname none~
+0
+0
+1 524288 -200 C
+47 0 -19 10d149+836 5d16+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4609
+guard neuron royal~
+the royal neuron guard~
+A Royal Neuron Guard is here guarding the castle headquarters.
+~
+This guard looks real good.  He loves being the best that he can be for
+his master, The Mad Brain.  
+~
+0
+clanname none~
+0
+0
+1 128 0 C
+55 0 -24 10d204+1078 5d19+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4610
+captain royal neuron~
+the royal neuron captain~
+This captain must be the leader of The Royal Neuron Guard.
+~
+This creature looks real important.  He is very busy ordering the guards
+around.  It has been a while since his last fight - with all the paperwork,
+but he still looks fit for fight.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+52 0 -22 10d182+988 5d18+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4611
+mean baby toe~
+a mean baby toe~
+A baby toe is playing here....he looks mean.
+~
+At first you think this baby toe is kinda cute, but as you discover the
+big nasty teeth in its mouth you change your mind.  
+~
+0
+clanname none~
+0
+0
+3 1024 -200 C
+37 0 -13 10d92+578 5d12+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4612
+good little toe~
+a good little toe~
+A good little toe is playing with its toys, it looks so peaceful.
+~
+This toe looks cute.  You have never seen anything like this.  
+~
+0
+clanname none~
+0
+0
+3 1024 200 C
+37 0 -13 10d92+578 5d12+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4613
+huge bad toe~
+the huge bad toe~
+There is a huge, mean looking toe here glaring at you.
+~
+You guess this toe is the leader of this little mean toe family.  This is
+the first toe you have ever seen with over 100 teeth.  
+~
+0
+clanname none~
+0
+0
+3 128 -200 C
+36 0 -12 10d87+555 5d12+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4614
+kind father toe~
+the kind toe father~
+There is a big kind looking toe here....he must be the father.
+~
+This toe must be the father.  He is huge, but he looks quite friendly.  
+~
+0
+clanname none~
+0
+0
+3 128 200 C
+36 0 -12 10d87+555 5d12+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4615
+muscle soleus~
+the soleus muscle~
+There is a strange muscle called Soleus here.
+~
+This thing looks really odd.  Its half muscle half man, but it has a kind
+looking face.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+37 0 -13 10d92+578 5d12+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4616
+muscle peroneus longus~
+the peroneus longus muscle~
+This muscle creature says he is called Peroneus Longus...wierd!
+~
+You can smell the evil in this creature.....  He will kill you if you let
+him.  RUN AWAY!  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+37 0 -13 10d92+578 5d12+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4617
+appendix~
+the appendix~
+This thing looks like an appendix with arms and leg.
+~
+At first you think this is a giant straw with arms and legs, but you
+realize, that this must be a gigantic appendix with arms and legs.  This
+creature looks kind in spite of its odd appearance.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+42 0 -16 10d119+700 5d14+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4618
+intestine large~
+the large intestine~
+This large intestine is angry with its wife...or just plain mean.
+~
+You guess this is the man in the intestine house.  He is pretty angry for 
+some reason.  Perhaps its your being here that upsets him....  I would run 
+if I were in your shoes.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+43 0 -16 10d124+733 5d15+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4619
+intestine small~
+the small intestine~
+The small intestine looks angry with her husband.....or you!
+~
+This is the wife in the intestine family.  She looks smaller than her
+husband, but she looks very mean.....  Perhaps she gives her husband a good
+kicking now and then.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+50 0 -19 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4620
+kidney left~
+the left kidney~
+A mean looking kidney tells you to get lost.
+~
+This guy is evil...  You can tell just by looking at him.  He looks at you 
+and says: "Do I really have to kick you out?"  
+~
+0
+clanname none~
+0
+0
+3 128 -200 C
+45 0 -18 10d136+786 5d15+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4621
+kidney right~
+the right kidney~
+A kidney says: "welcome to my office, sit down!"
+~
+Here is a nice looking fellow.  He smiles at you and asks, "What do you want 
+to drink?"  
+~
+0
+clanname none~
+0
+0
+3 128 200 C
+45 0 -18 10d136+786 5d15+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4622
+vien saphenus~
+the saphenus vein~
+A vein called Saphenus is guarding its home here.
+~
+This thing doesn't even give you time to explain.  
+~
+0
+clanname none~
+0
+0
+33 4096 0 C
+41 0 -15 10d113+678 5d14+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4623
+heart~
+the beating heart~
+A heart with arms and leg are beating away here.
+~
+At first you think this is a man.  But as you take a closer look you
+notice, that the body of this thing is beating like a heart.  In fact it is
+a heart!  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+46 0 -18 10d142+815 5d16+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4624
+lung left evil~
+the left lung~
+This left lung look a bit mean you think.
+~
+This lung could provide air for a whale.  It is huge with big nasty
+teeth.  Its real ugly looking, and you guess it could kill you instantly.  
+~
+0
+clanname none~
+0
+0
+3 128 -200 C
+46 0 -18 10d142+815 5d16+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4625
+lung right good~
+the good right lung~
+An ugly but kind looking lung creature is here.
+~
+This lung could provide air for a small city....  It is huge.  This thing 
+has big teeth and smells aweful.  Its look pretty kind though and you dont 
+think it wants to kill you.  
+~
+0
+clanname none~
+0
+0
+3 128 200 C
+46 0 -18 10d142+815 5d16+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4626
+finger evil~
+the evil finger~
+A finger has grown arms and legs...he is looking at you.
+~
+This finger is really tough.....  You can tell just by looking.  He tells 
+you, "I live in this arm, and I will guard my home with my life."  You think 
+he could use a good kicking.  
+~
+0
+clanname none~
+0
+0
+1 0 -200 C
+47 0 -19 10d149+836 5d16+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4627
+finger good~
+the good finger~
+A nice looking finger is here. It asks: "Can I help you?"
+~
+This finger looks like it could really mess you up, but you dont feel
+like fighting it since it looks so nice.  
+~
+0
+clanname none~
+0
+0
+1 0 200 C
+47 0 -19 10d149+836 5d16+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4628
+child finger evil~
+the evil finger child~
+A finger child is destroying toys here. 
+~
+This child is the worst brat you have ever seen.  It is shaped as a finger 
+but you can tell its a brat through the disguise.  This thing needs a good 
+spanking!  
+~
+0
+clanname none~
+0
+0
+3 0 -200 C
+53 0 -23 10d189+1019 5d18+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4629
+child finger good~
+the good finger child~
+A nice looking finger child is here playing with its toys.
+~
+This is one of those kids who always does their homework.  You bet this kid 
+has never skipped one day in school.  He just pisses you off.  
+~
+0
+clanname none~
+0
+0
+3 128 200 C
+53 0 -23 10d189+1019 5d18+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4630
+mean father finger~
+the mean father finger~
+There is a big mean looking finger here.....must be the father.
+~
+This is the worst parent you have ever seen.  He kicks the children around 
+to make them real evil.  It looks as he is real good at that too.  He is one 
+evil parent thats for sure.  
+~
+0
+clanname none~
+0
+0
+5 128 -200 C
+50 0 -21 10d168+930 5d17+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4631
+mother finger good~
+the good mother~
+There is a pleasant looking female finger here...must be the mother.
+~
+This is a great parent you think.  You wish you had a mother like that....  
+Real nice and stuff.  She loves to play with her children too......  Well, 
+that is so cute!  
+~
+0
+clanname none~
+0
+0
+5 128 200 C
+50 0 -21 10d168+930 5d17+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4632
+servant mad brain~
+a servant of the mad brain~
+This servant is bringing stuff to and from the mad brain.
+~
+You are real happy that you are not in the shoes of this guy.  He has to run 
+all the time to make his ruler, the Brain, happy.  Put him out of his 
+misery!  
+~
+0
+clanname none~
+0
+0
+1 128 0 C
+57 0 -25 10d219+1144 5d19+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4633
+testicle giant~
+a giant testicle~
+This is the biggest testicle you will ever see......I hope.
+~
+You didn't think that testicles could look this mean.  They usually seem so 
+cute and fragile.  You can kick these testicles all you like....  They will 
+never break.  You begin to wish you had a pair just like them.  
+~
+0
+clanname none~
+0
+0
+33 0 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4634
+cook chef~
+the cook~
+This cook should be in some sort of army....he is awesome!
+~
+Its an awesome sight.....  You almost fall over backwards at the sight of 
+this cook.  This is like the mad cook from hell.  You would never eat 
+anything this guy would serve.  He is real mean looking, and he would poison 
+you if he could.  
+~
+0
+clanname none~
+0
+0
+3 128 0 C
+54 0 -23 10d196+1053 5d18+31
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4635
+cupcake dragon~
+a `#`Wcu`Ypca`Wke `Ydr`Wag`Yon`^~
+`#A dragon covered with `?m`?u`?l`?t`?i`Y-`?c`?o`?l`?o`?r`?e`?d `Wcu`Ypc`Wake`^ frosting is standing here.
+~
+This dragon is not only immense in size, it is made entirely of frosting. 
+Large multi-colored sprinkles adorn its 'skin', and a long row of miniature 
+cupcakes extend down its back like strange spikes. Swirls of various colors 
+cover its body, and frosting drips from its mouth. 
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#4600
+White key~
+the white key~
+A fine white key, with strange runes on it~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4601
+pile rotting heap bed~
+the heap of carnage~
+There is a bed made of carnage here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4602
+none~
+the troll skin~
+The filthy hide of a beast is laying here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+2 30 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+4602 troll skin~
+This is the skin from a huge (and dead) beast.  It looks bad, smells bad,
+and feels bad.
+~
+#4603
+Black key~
+an opal ring~
+A ring of black opal lies here gathering dust.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 180 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+4603 ring opal~
+It is a full circle of opal, smooth and simple.
+~
+#4604
+leather belt~
+a leather belt~
+An old leather belt is left on the floor.~
+~
+9 64 8
+6 6 0 0 0 0 0
+1 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+4604 leather belt~
+This old, smelly belt looks like it is barely better than rotting cloth.
+~
+#4605
+bone cracked~
+a cracked bone~
+A cracked piece of bone lies here.~
+~
+5 0 4
+3 16 7 0 0 0 0
+1 10 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+4605 bone~
+This piece of bone looks sturdy enough to be used as a weapon, but you
+wouldn't want to entrust your life to it.
+~
+#4606
+bloody crack~
+the fossa poplitea~
+You see a strange bloody crack here....you wonder whats in there.~
+~
+29 0 16
+0 0 4639 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4607
+black key~
+the black key~
+A strange black key with runes on it.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4608
+heart key~
+the heart key~
+An odd little key with a heart on it.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4609
+fantasy~
+the fantasy of the brain~
+The fantasy of the brain fills the air....dare you enter?~
+~
+29 32 16
+0 0 4642 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4610
+key living room~
+the brain's living room key~
+A short key for the brain's living room.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4611
+yellowed armor~
+a hunk of yellowed armor~
+A hunk of `#`Yyellow`^ armor rests here, slowly decaying.~
+~
+9 0 8
+35 35 8 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4612
+skull cap~
+a skull cap~
+Some sort of protection for the skull rests here.~
+~
+9 64 8
+40 40 10 0 0 0 0
+1 450 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4613
+glob flesh~
+a glob of flesh~
+A glob of rotting flesh stinking up the place rests here.~
+~
+9 64 8
+45 45 9 0 0 0 0
+1 450 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4614
+bone earring~
+a `#`cbone`^ earring~
+A brittle earring made of bone lies before you.~
+~
+32 128 32
+0 0 0 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4615
+bone mace~
+a `#`cbone`^ mace~
+A strange mace made of bone is sitting here.~
+~
+5 128 4
+3 11 0 8 0 0 0
+1 200 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4616
+sword bone~
+a sharp sword made of `#`cbone`^~
+A sword made of a sharpened upper arm bone lies here.~
+~
+5 128 4
+4 62 76 8 0 0 0
+1 503 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4617
+bloodletter whip~
+Whip of the `#`RBloodletter`^~
+A blood-drenched whip lies here, waiting to cause havoc.~
+~
+5 2 4
+3 62 76 128 0 0 0
+1 430 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4618
+wicked staff~
+a `#`cW`ri`cc`rk`ce`rd`^ staff~
+A long `#`cw`ri`cc`rk`ce`rd`^ staff laced in poison rests here.~
+~
+5 2 4
+3 78 101 136 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4619
+apron~
+the apron~
+This is some sort of apron....looks rather heavy though.~
+~
+9 1 8
+40 40 10 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4620
+dagger bone~
+the bone dagger~
+This dagger is made of bone.~
+~
+5 0 4
+3 54 68 0 0 0 0
+1 350 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4621
+leggings white metal~
+`#`WWhite`^ metal leggings~
+A durable set of white metal leggings rests here.~
+~
+9 0 8
+8 8 6 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4622
+book of intruders~
+the book of intruders~
+A book with a long list of intruders is here.~
+~
+5 128 4
+5 54 68 32 0 0 0
+1 290 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4623
+rotting sleeves~
+`#`Cdecayed`^ sleeves~
+A set of decayed sleeves lies here, collecting dust.~
+~
+9 1 8
+35 35 14 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4624
+plate rusted heavy~
+a heavy `#`crusted`^ plate~
+A heavy rusted plate lies here, glowing with an orange aura.~
+~
+9 256 8
+40 40 15 0 0 0 0
+1 500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4625
+belt peace inner~
+the belt of inner peace~
+A belt helping calm the nerves, promoting inner peace rests here.~
+~
+9 256 8
+40 40 11 0 0 0 0
+1 480 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4626
+spear jagged~
+a short jagged spear~
+A short jagged spear lays here, waiting to be used.~
+~
+5 128 4
+3 46 59 32 0 0 0
+1 290 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4627
+gauntlets strength~
+gauntlets of strength~
+These gauntlets, adorned with bright colored `#`rjewels`^ would make one formidable in a fight where strength is required.~
+~
+9 0 8
+35 35 7 0 0 0 0
+1 280 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4628
+boots beast~
+boots of the `#`rbeast`^~
+This must be boots for beasts.~
+~
+9 1 8
+35 35 5 0 0 0 0
+1 340 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4629
+ring speed~
+the ring of speed~
+A ring rests here, humming quite violently.~
+~
+33 2 32
+0 0 0 0 0 0 0
+1 290 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4630
+shield leather~
+a `#`cleather`^ shield~
+A shield made of finely tanned leather lies here.~
+~
+9 256 8
+9 9 9 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4631
+aura chaos~
+`#`YAura `Wof `#`?Chaos`^~
+A strange aura floats about here.~
+~
+9 256 8
+45 45 5 0 0 0 0
+1 430 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4632
+necklace yellow rings~
+a necklace of `Yyellow`^ rings~
+A necklace with many `#`Yyellow`^ rings interlinked lies here.~
+~
+9 64 8
+35 35 6 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4633
+stone red bright~
+a `#`Rbright `rred`^ stone~
+A burning kidney stone is here.~
+~
+1 1 1
+0 -1 0 0 0 0 0
+1 280 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4634
+shield corroded acid~
+a shield corroded by `#`gacid`^~
+An shield corroded by acid is here.~
+~
+9 1 8
+40 40 12 0 0 0 0
+1 400 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4635
+no name~
+(no short description)~
+(no description)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4636
+glasses bright glowing~
+a pair of `#`Wbright `Rglowing`^ glasses~
+A pair of glowing glasses lies here, the lenses slightly scratched.~
+~
+9 1 8
+35 35 5 0 0 0 0
+1 300 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4637
+hairy goosebumped skin~
+some `#`Cskin`^~
+There is some hairy, goosebumped skin here.~
+~
+32 2 32
+0 0 0 0 0 0 0
+1 220 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#4640
+cape neural networks~
+the cape of `#`Rn`Be`Ru`Br`Ra`Bl `Rn`Be`Rt`Bw`Ro`Br`Rk`Bs`^~
+A cape made of the `#`Rt`Bi`Re`Bs `Wthat `Rb`Bi`Rn`Bd`^ lies here.~
+~
+15 64 8
+1 0 16 26 0 0 0
+1 550 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#4600
+The questlords room~
+~
+This room is Papillas room.....He prepares quests here.
+~
+1 516 0
+S
+#4601
+The left thigh~
+~
+Here is a room shaped like the inside of a thigh.  It looks like a health
+club.  Some muscles are here working out.  An exit leads north, but you cant
+make out whats in the next room.  If you go south you will get back to the
+knee joint.  
+~
+1 9 0
+D0
+~
+~
+0 0 4609
+D2
+~
+~
+0 0 4608
+R M 0 4601 4 4601
+  R E 0 4622 0 16
+R M 0 4608 10 4601
+E
+plaque~
+This zone (trollden) is created by MERC for any MERC Mud.
+copyright 1992
+~
+S
+#4602
+Crus Sinistra~
+~
+You are standing in a tube shaped room.  It appears to be the inside of
+the left lower leg.  Living beings, that look like muscles, are here.  You
+have a hard time figuring out if its men or muscles.  To the north is the
+strangest room you have ever seen.  Going south will lead you back to the
+left foot.  
+~
+1 9 0
+D0
+~
+~
+0 0 4608
+D2
+~
+~
+0 0 4604
+R M 0 4601 4 4602
+  R E 0 4622 0 16
+R M 0 4616 1 4602
+  R E 0 4628 0 8
+R M 0 4608 10 4602
+  R E 0 4617 0 16
+E
+Half-eaten body rotting corpse~
+YUCK!  You find worms crawling in and out this poor unfortunate former human.
+~
+S
+#4603
+The right foot~
+~
+You feel a bit confused.  Apearently you are standing inside the right
+foot of a huge man.  Some small toes are here.  They obey their leader: The
+Big Toe.  To the north you see some sort of tunnel and the entrance to the
+castle lies west of here.  
+~
+1 9 0
+D0
+You see some sort of tunnel.
+~
+~
+0 0 4606
+D3
+You see the entrance to the castle.
+~
+~
+0 0 4605
+R M 0 4614 1 4603
+  R E 0 4611 0 5
+  R E 0 4626 0 16
+R M 0 4612 4 4603
+  R E 0 4611 0 5
+S
+#4604
+The left foot~
+~
+You have entered a room shaped as the inside of a foot.  The toes seem to
+live here.  To the north you see what looks like the lower part of a leg.  
+~
+1 9 0
+D0
+~
+~
+0 0 4602
+D1
+~
+~
+0 0 4605
+R M 0 4613 1 4604
+  R E 0 4611 0 5
+  R E 0 4626 0 16
+R M 0 4611 4 4604
+  R E 0 4611 0 5
+E
+arm rotting~
+This reminds you of what a baby would do to its formula during dinnertime,
+plastering it on the wall.
+~
+S
+#4605
+Entrance to The Body Parts Castle~
+~
+Welcome to Body Parts!  You have entered a really strange place.  The air
+is thick and there is a rotten smell here.  An old man sits in a corner
+talking nonsense.  He tells you that the ruler of his fair land has been
+blown to pieces and his bodyparts have come alive to revenge his death. 
+They have taken control of everything and they have shaped the castle as a
+human body.  He begs you to help destroy the brain of the "body"....  Before
+it takes over the whole world and makes us all slaves.  To the east and west
+you see rooms shaped as feet...  Strange!  
+~
+1 12 0
+D1
+You see a room shaped as a foot.
+~
+~
+0 0 4603
+D2
+~
+~
+0 0 7912
+D3
+You see a room shaped as a foot.
+~
+~
+0 0 4604
+S
+#4606
+Crus Dextra~
+~
+You find your self in some sort of tunnel.....  Hey now you get it: Its
+the inside of the right lower leg.  Muscles with arms, legs and heads are
+here....  This is really wierd!  To the north is a passage to somewhere even
+stranger than this.  To the south you see the right foot.  
+~
+1 0 0
+D0
+There is a strange room to the north.
+~
+~
+0 0 4607
+D2
+The is a room shaped as a foot to the south.
+~
+~
+0 0 4603
+R M 0 4602 4 4606
+  R E 0 4622 0 16
+R M 0 4615 1 4606
+  R E 0 4627 0 9
+R M 0 4606 10 4606
+  R E 0 4617 0 16
+S
+#4607
+The right knee region~
+~
+You think: "This must be the inside of a knee", and you are absolutely 
+right.  Some strings, that were meant to hold the knee joint together, are 
+running around giving their new arms and legs a workout.  You are beginning 
+to get the feeling, that you would be better off at home.  Going north will 
+lead you to a tunnel and south will lead you back to the lower leg.  
+~
+1 0 0
+D0
+The thigh is to the north.
+~
+~
+0 0 4613
+D2
+You see a room shaped as the lower part of a leg.
+~
+~
+0 0 4606
+R M 0 4602 4 4607
+  R E 0 4622 0 16
+R O 0 4606 0 4607
+R M 0 4606 10 4607
+  R E 0 4617 0 16
+S
+#4608
+The left knee region~
+~
+What has happened here?!!  You browse through your atlas of human
+anatomy.....  Hmmm.  Yes, here it is: You are standing in what seems to be
+the inside of a knee.  There is a strange bloody crack in the floor.....  Do
+you dare to examine it?  To the north is a strange tunnel and the southern
+exit leads you back to the left lower leg.  
+~
+1 0 0
+D0
+~
+~
+0 0 4601
+D2
+~
+~
+0 0 4602
+R O 0 4606 0 4608
+R M 0 4601 4 4608
+  R E 0 4622 0 16
+R M 0 4608 10 4608
+  R E 0 4617 0 16
+S
+#4609
+The left hip joint~
+~
+Somebody has worked on this room so it looks like a hip joint.  A
+guardian is here guarding something....  An entrance?  The guardian is real
+funny looking.  He looks like head of a femur, only he has arms an legs. 
+There must be something mighty important beyond this room.  The only exit
+you see is back to the thigh.  
+~
+1 0 0
+D1
+You see something, that might look like a black door.  
+~
+~
+33 4600 4610
+D2
+To the south is the thigh region.
+~
+~
+0 0 4601
+R M 0 4600 1 4609
+  R G 0 4600 0
+  R E 0 4620 0 16
+R M 0 4601 4 4609
+  R E 0 4622 0 16
+R M 0 4608 10 4609
+S
+#4610
+Pelvis~
+~
+You are in a huge arched room.  The creatures who made this wanted it to
+look like the inside of a pelvis, and they have done a pretty good job too. 
+You start to wonder if it was meant to be the pelvis of a man or a woman. 
+After a few hours you give up, and start to look around.  There is some sort
+of intersection to the north and there is a strange room to the south. 
+Going east and west will take to the hip joints.  
+~
+1 12 0
+D0
+You see a very complicated intersection.  
+~
+~
+0 0 4614
+D1
+You see the right hip joint.  
+~
+~
+33 0 4612
+D2
+No, it can't be...  Yes, it is a huge scrotum.  You have got a bed
+feeling about this.  
+~
+~
+0 0 4611
+D3
+You see the left hip joint.  
+~
+~
+33 0 4609
+S
+#4611
+The Scrotum~
+~
+This is disgusting.  You are standing in what looks like a gigantic
+scrotum....  Bwarr!  This is of course the home of the giant testicles.  You
+are really beginning to think that you should be home in bed.  You can still
+make it: RUN AWAY!  
+~
+1 0 0
+D0
+~
+~
+0 0 4610
+R M 0 4633 2 4611
+  R E 0 4637 0 17
+R M 0 4633 2 4611
+  R E 0 4637 0 17
+S
+#4612
+The right hip joint~
+~
+The walls here have been carefully shaped to look like the inside of a
+hip joint.  You would not think there was anything special about the room if
+it wasn't for the strange guardian standing here.  He is apparently guarding
+something, but you can't figure out what.  The only exit you can see leads
+you back to the knee joint.  
+~
+1 0 0
+D2
+The southern exit leads to the thigh region.
+~
+~
+0 0 4613
+D3
+You see something, that might look like a white door.  
+~
+~
+33 4607 4610
+R M 0 4607 1 4612
+  R G 0 4607 0
+  R E 0 4620 0 16
+R M 0 4602 4 4612
+  R E 0 4622 0 16
+R M 0 4606 4 4612
+  R E 0 4617 0 16
+R M 0 4606 10 4612
+S
+#4613
+The right thigh~
+~
+You are in a room meant to look like a thigh.  It is now the home of a
+huge male femur and his little femur wife.  They have been busy making a
+large family....  You see very small femur babies running around here.  This
+is the wierdest thing you have ever seen.  To the north is a strange room
+and the exit to the south will take you to the knee joint.  
+~
+1 0 0
+D0
+To the north you see a guard guarding something.
+~
+~
+0 0 4612
+D2
+There is the knee joint.
+~
+~
+0 0 4607
+R M 0 4602 4 4613
+  R E 0 4622 0 16
+R M 0 4606 10 4613
+S
+#4614
+Abdominal intersection~
+~
+This is a colossal room.  Many passages meet here.  You think it is a bit
+odd thats there is no creatures here.  Passages lead off in all directions. 
+~
+1 8 0
+D0
+~
+~
+33 4608 4615
+D1
+~
+~
+0 0 4620
+D2
+~
+~
+0 0 4610
+D3
+~
+~
+0 0 4622
+D4
+~
+~
+0 0 4619
+D5
+~
+~
+0 0 4618
+R M 0 4606 10 4614
+  R E 0 4617 0 16
+R M 0 4608 10 4614
+  R E 0 4617 0 16
+S
+#4615
+Pericardium~
+~
+You have entered the Pericardium.  It holds a human heart.  This heart
+look really strange as it stands before you beating away.  This heart looks
+pretty much like a man, its only the beating body, that lets you know you
+are not dealing with your neighbour here.  To the south you see an
+intersection and there is a tunnel to the north.  
+~
+1 4 0
+D0
+~
+~
+0 0 4624
+D1
+~
+~
+0 0 4617
+D2
+~
+~
+33 0 4614
+D3
+~
+~
+0 0 4616
+R M 0 4623 1 4615
+  R E 0 4617 0 16
+  R E 0 4632 0 3
+  R G 0 4632 0
+S
+#4616
+The left lung cavity~
+~
+The fresh air in this room overwhelms you.  The ceiling in this room
+seems to move blowing fresh air in.  Ahhhh, thats nice.  This is also the
+home of a strange lung shaped creature.  He is real mean looking.  I
+wouldn't get too close if I were you!  A passage leads east to the
+pericardium.  
+~
+1 0 0
+D1
+~
+~
+0 0 4615
+R M 0 4624 1 4616
+S
+#4617
+The right lung cavity~
+~
+The first thing you notice about this place is the ceiling.  Its moving! 
+Apparently it is pumping fresh air into the castle.  Its a pity it never
+leaves this room.  A peacefull looking lung creature seems to live here.  An
+exit to the west leads to the pericardium.  
+~
+1 0 0
+D3
+~
+~
+0 0 4615
+R M 0 4625 1 4617
+S
+#4618
+The huge belly button~
+~
+Well, this is not the hub of the Universe, but it looks a lot like it. 
+You are standing in a gigantic navel.  This place would make a great
+swimming pool.  If you go up you will get back to the intersection.  
+~
+1 0 0
+D4
+~
+~
+0 0 4614
+R M 0 4606 10 4618
+  R E 0 4617 0 16
+R M 0 4608 10 4618
+  R E 0 4617 0 16
+S
+#4619
+Spinal cord~
+~
+This room is filled with odd strings.  It looks like a spiders web.  You
+try to figure out where the strings begin and where they end, but you get
+dizzy.  You can go down to the intersection.  
+~
+1 0 0
+D5
+~
+~
+0 0 4614
+R M 0 4606 10 4619
+  R E 0 4617 0 16
+R M 0 4608 10 4619
+  R E 0 4617 0 16
+S
+#4620
+Home of the Appendix~
+~
+You are beginning to think you should have paid more attention in
+biology.  What is this place.....  Hmmmmm.  Oh, now you get it: That looks
+like an appendix.  A passage leads up to some sort of office and you can go
+west back to the intersection.  
+~
+1 8 0
+D3
+~
+~
+0 0 4614
+D4
+~
+~
+0 0 4621
+R M 0 4617 1 4620
+  R G 0 4636 0
+R M 0 4606 10 4620
+R M 0 4608 10 4620
+S
+#4621
+The office of the right kidney~
+~
+This room looks almost normal?!  It seems to be some sort of office. 
+From habit you start filling in some papers.....  How stupid.  You slap
+yourself.  A passage leads down.  
+~
+1 0 0
+D5
+~
+~
+0 0 4620
+R M 0 4621 1 4621
+  R G 0 4608 0
+  R G 0 4633 0
+R M 0 4606 10 4621
+R M 0 4608 10 4621
+S
+#4622
+The home of the intestines~
+~
+Yuck!  This is too much: guts all over the walls.  You throw up, but you
+comfort yourself: You are not the first.  A married couple lives here.  Its
+the large and the small intestine.  If you go up you come to an office of
+some sort and going east leads you back to the intersection.  
+~
+1 0 0
+D1
+~
+~
+0 0 4614
+D4
+~
+~
+0 0 4623
+R M 0 4618 1 4622
+  R E 0 4623 0 10
+R M 0 4619 1 4622
+  R E 0 4634 0 11
+R M 0 4606 10 4622
+R M 0 4608 10 4622
+S
+#4623
+The office of the left kidney~
+~
+You step in to an office of some sort.  You start your own queue.  After
+a while you start to wonder: "What am I waiting for?"  .  You give yourself
+a good kicking.  A passage leads down.  
+~
+1 0 0
+D5
+~
+~
+0 0 4622
+R M 0 4620 1 4623
+  R G 0 4608 0
+  R G 0 4633 0
+S
+#4624
+Cross Roads in the neck region~
+~
+You wonder where you should go now.  Four passages meet here.  You can't
+make up your mind....  Perhaps you should just go home in bed.  To the east
+and west you see something that looks like arms.  The neck continues north
+and you can enter the pericardium to the south.  
+~
+1 12 0
+D0
+~
+~
+0 0 4633
+D1
+~
+~
+0 0 4629
+D2
+~
+~
+0 0 4615
+D3
+~
+~
+0 0 4625
+S
+#4625
+Brachium~
+~
+This area is populated by odd creatures, that look like parts of arms and
+hands.  The air is cold and you get the feeling, that the inhabitants here
+want you to go back home.  You have a feeling, that somebody is staring at
+you from the dark corners of this room.  You want to go back east but you
+can also continue west.  
+~
+1 9 0
+D1
+You see the cross roads in the neck.  
+~
+~
+0 0 4624
+D3
+There is a small room to the west, you wonder what it could be.  
+~
+~
+0 0 4626
+R M 0 4605 4 4625
+  R E 0 4616 0 16
+S
+#4626
+Elbow joint~
+~
+It gets darker as you continue your exploration of this side of the cross
+roads.  The creatures you have meet until now did not make you feel very
+welcome and you think you should turn back.  There is a narrow tunnel to the
+west and the tunnel to the east will lead you to the cross roads.  
+~
+1 9 0
+D1
+There is a tunnel leading back to the cross roads.  
+~
+~
+0 0 4625
+D3
+You see a narrow tunnel.
+~
+~
+0 0 4627
+R M 0 4605 4 4626
+  R E 0 4616 0 16
+S
+#4627
+Antebrachium~
+~
+This is a very narrow tunnel.  You have to crawl on yor hands and knee in
+some places.  The tunnel becomes very narrow to the west, and you want to
+turn back as you here odd voices like screams from a room at the end of the
+tunnel.  There is a passage to the east leading back to the elbow joint.  
+~
+1 9 0
+D1
+You see a room shaped as an elbow joint.  
+~
+~
+0 0 4626
+D3
+There is some sort of living room to the west.
+~
+~
+0 0 4628
+R M 0 4605 4 4627
+  R E 0 4616 0 16
+S
+#4628
+The left hand~
+~
+There is an awful smell in this room.  You soon figure out, that the
+smell comes from the family of walking and talking fingers who live here. 
+These creatures have body parts on the floor as decorations and the walls
+are painted with blood.  I wouldn't get too close if I were you.  The only
+passage leads back east.  
+~
+1 9 0
+D1
+You see a narrow tunnel.  
+~
+~
+0 0 4627
+R M 0 4628 1 4628
+R M 0 4630 1 4628
+  R G 0 4629 0
+S
+#4629
+Brachium~
+~
+You have entered a part of the casle populated by creatures, that look
+like they belong to the upper extremity of a human body.  This room looks a
+lot like the thigh region, the tunnel is just smaller.  You can go west to
+the cross roads in the neck and you see a passage to the east.  
+~
+1 8 0
+D1
+~
+~
+0 0 4630
+D3
+~
+~
+0 0 4624
+R M 0 4604 4 4629
+  R E 0 4616 0 16
+S
+#4630
+Elbow joint~
+~
+The walls here are shaped as bones that meet, you have been in this
+castle long enough to know, that this is some sort of joint.  This is of
+course meant to look like the elbow joint.  You are beginning to think that
+the creatures, that populate this side of the cross roads, look quite
+peacefull.  You wonder how the are on the other side.  You can go east and
+west here.  
+~
+1 0 0
+D1
+~
+~
+0 0 4631
+D3
+~
+~
+0 0 4629
+R M 0 4604 4 4630
+  R E 0 4616 0 16
+S
+#4631
+Antebrachium~
+~
+The tunnel is pretty narrow here.  You crawl on your hands and knees as
+you move forward.  You want to turn back as the passage become very narrow
+to the east, but you notice, that there is room at the end of the tunnel. 
+You can go west back to the elbow joint.  
+~
+1 0 0
+D1
+~
+~
+0 0 4632
+D3
+~
+~
+0 0 4630
+R M 0 4604 4 4631
+  R E 0 4616 0 16
+R M 0 4604 4 4631
+  R E 0 4616 0 16
+S
+#4632
+The right hand~
+~
+This is a really cosy room.  A family of walking, talking fingers live
+here.  If this had been the first room you had seen in this castle, you
+would have been amazed, but you find it rather cute.  A passage leads west
+back to the narrow tunnel.  
+~
+1 0 0
+D3
+~
+~
+0 0 4631
+R M 0 4629 1 4632
+R M 0 4629 1 4632
+R M 0 4629 1 4632
+R M 0 4631 1 4632
+  R G 0 4629 0
+R M 0 4629 1 4632
+S
+#4633
+The skull reception hall~
+~
+You find your self in the entrance of some sort of royal residence.  You
+wonder: "Who could be the owner of this residence.  The Queen...  Nahhh." 
+There is a lot of commotion here: servents and guards running around.  They
+are so busy they don't even notice you.  The headquarters of the guards is
+to the east and a passage leads north.  The passage that you came from has
+closed behind you!  
+~
+1 0 0
+D0
+~
+~
+33 4610 4635
+D1
+~
+~
+0 0 4634
+D2
+~
+~
+0 0 4624
+R M 0 4609 4 4633
+  R E 0 4618 0 16
+  R E 0 4624 0 5
+R M 0 4632 4 4633
+  R E 0 4640 0 12
+S
+#4634
+The Neuron Guard Office~
+~
+This is the headquarters of the Royal Neuron Guards.  Their job is to
+guard the ruler of the castle.  If they are half as tough as you think you
+are in big trouble.  The Royal Neuron Captain uses this room for paper work
+- not that there is a lot of that.  A passage leads west to the reception
+hall.  
+~
+1 0 0
+D3
+~
+~
+0 0 4633
+R M 0 4610 1 4634
+  R E 0 4618 0 16
+  R E 0 4624 0 5
+  R E 0 4625 0 13
+  R G 0 4610 0
+R M 0 4609 4 4634
+  R E 0 4618 0 16
+  R E 0 4624 0 5
+S
+#4635
+The main living room of the Mad Brain~
+~
+This must be where the brain lives.  There are pictures on the wall of a
+brain with arms and legs.  This looks like quite a nice living room and you
+think that this brain might be a nice guy.  You change your mind as you
+discover that the passage has closed behind you.  You can still run away,
+there is an way out to the north.  Passages leads east and west.  
+~
+1 0 0
+D0
+~
+~
+1 0 4638
+D1
+~
+~
+0 0 4636
+D3
+~
+~
+0 0 4637
+R M 0 4609 4 4635
+  R E 0 4618 0 16
+  R E 0 4624 0 5
+R M 0 4632 4 4635
+  R E 0 4640 0 12
+S
+#4636
+The Mad Brain's royal bedroom~
+~
+This must be where the Mad Brain sleeps.  There is a bed here and it
+looks really nice.  You wonder if you should go to sleep in the bed, when
+you discover, that the sheets are all slimy....  Yuck!  The passage west
+leads to the living room.  
+~
+1 0 0
+D3
+~
+~
+0 0 4635
+D5
+~
+~
+0 0 4641
+R M 0 4632 4 4636
+  R E 0 4640 0 12
+S
+#4637
+A kitchen~
+~
+The cook and his helpers prepare the food for the Mad Brain here.  You
+look in some of the pots here and you throw up...  Twice!  No normal man
+could eat this.  You can get to the main living room if you go east.  
+~
+1 0 0
+D1
+~
+~
+0 0 4635
+R M 0 4634 1 4637
+  R E 0 4619 0 12
+R M 0 4609 4 4637
+R M 0 4632 4 4637
+S
+#4638
+The exit of the Body Parts Castle~
+~
+The passage has closed behind you, but you don't care.  You are finally
+free of that horrible castle.  The only passage out of here leads up.  
+~
+1 12 0
+D4
+~
+~
+0 0 4605
+S
+#4639
+Knee-deep in the knee~
+~
+The walls here are sticky and the floor is very bloody.  The smell here is 
+awful and your stomach turns.  Better move on!  A passage opens to the 
+north.  
+~
+1 0 0
+D0
+~
+~
+0 0 4640
+S
+#4640
+Home of the Saphenus Vein~
+~
+A vein has a really nice home here.  He will guard it with his life.  You
+can go up and south.  
+~
+1 0 0
+D2
+~
+~
+0 0 4639
+D4
+~
+~
+0 0 4605
+R M 0 4622 1 4640
+  R G 0 4614 0
+S
+#4641
+The Mad Brain's Shelter~
+~
+The brain must have been expecting your attack.  He has hidden himself in
+this nice little shelter.  You kinda feel pity for him - mighty ruler has to
+hide in a shelter.  And then again you really want to give him a good
+kicking.  You can go back the way you came.  
+~
+1 13 0
+D4
+~
+~
+0 0 4636
+R M 0 4603 1 4641
+  R E 0 4612 0 6
+  R E 0 4618 0 16
+  R E 0 4631 0 18
+  R E 0 4613 0 14
+  R G 0 4613 0
+S
+#4642
+~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

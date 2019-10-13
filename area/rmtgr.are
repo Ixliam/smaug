@@ -1,0 +1,599 @@
+#AREA        remort gear~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#5000
+red dragon~
+a `#`Rred dragon`^~
+A large `#`Rred dragon`^ is here.
+~
+Apparently you have disturbed the ancient red dragon, and I don't think he 
+is very happy now.  
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5001
+blue dragon~
+a `#`Bblue dragon`^~
+A large `#`Bblue dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5002
+black dragon~
+a `#`Sblack dragon`^~
+A large `#`Sblack dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5003
+green dragon~
+a `#`Ggreen dragon`^~
+A large `#`Ggreen dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5004
+white dragon~
+a `#`Wwhite dragon`^~
+A large `#`Wwhite dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#5005
+shadow dragon~
+a `#`Sshadow dragon`^~
+A large `#`Sshadow dragon`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -400 C
+45 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#5000
+potion dreams~
+a potion of `#`?d`?r`?e`?a`?m`?s`^~
+A potion of `#`?d`?r`?e`?a`?m`?s`^ lies here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#5001
+stocks~
+the stocks~
+A large row of wooden stocks is here.~
+~
+12 0 8
+100000 18692 0 -50 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5001 stocks ~
+The stocks are firmly stuck in the ground, with a place for a prisoners head 
+and hands, so that they cannot move while they serve their time for the 
+crimes they committed.  
+~
+#5002
+quest sceptre ixliam~
+the `#`CS`cceptre `wof `CI`cxliam`^~
+The `#`CS`cceptre `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5003
+quest amulet ixliam~
+the `#`CA`cmulet `wof `CI`cxliam`^~
+The `#`CA`cmulet `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5004
+quest cloak ixliam~
+the `#`CC`cloak `wof `CI`cxliam`^~
+The `#`CC`cloak `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5005
+quest shield ixliam~
+the `#`CS`chield `wof `CI`cxliam`^~
+The `#`CS`chield `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5006
+quest signet ixliam~
+the `#`CS`cignet `wof `CI`cxliam`^~
+The `#`CS`cignet `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5007
+decanter endless water~
+a `#`CD`We`Cc`Wa`Cn`Wt`Ce`Wr `Wof `CE`Wn`Cd`Wl`Ce`Ws`Cs `WW`Ca`Wt`Ce`Wr`^~
+A nice looking decanter full of water is here.~
+~
+17 0 16
+50000 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5008
+free restring coupon~
+`#`YFree `GRestring `YCoupon`^~
+A coupon for a free restring lies here.~
+~
+8 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5008 free restring coupon~
+(null)~
+#5010
+judges gavel~
+`#`YJudge's Gavel`^~
+A nasty looking gavel lies here.~
+~
+5 128 4
+50 135 170 14806 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5058
+chunk brain matter~
+a large chunk of brain matter~
+A large chunk of brain matter lies in its juices.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5091
+farslayer sword~
+`#`SFarslayer`w, the `RSword `Sof `RVengeance`^~
+A `#`SBlack-Hilted `WMithril Sword`^ with the symbol of a target on the hilt lies here.~
+~
+5 16 4
+10 6 3 20 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5091 sword farslayer~
+The sword has the symbol of a target on the bottom of the black hilt, with a 
+3' mithril blade.  Farslayer has the ability to kill it's foe at any 
+distance, anywhere.  The user will recite the phrase 'For thy heart, for thy 
+heart, who hast wronged me' and state the name of the victim.  Farslayer 
+will then fly from their hands, and kill the target instantly, save for 
+those who posess other means to defend themselves.  To activate this option, 
+WIELD FARSLAYER and then USE FARSLAYER <victim>. 
+~
+#5092
+cup seandac~
+`#the `WCup `Yof `WSeandac`^~
+An ornate golden cup lies here, glowing with power.~
+~
+17 256 16
+0 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5092 cup seandac~
+Ornate gold carvings adorn the cup, showing the God Seandac in various 
+scenes. Some he is healing the sick by feeding them from a cup, others he is 
+destroying evil with a powerful sword. 
+~
+#5093
+decaying wooden warhammer hammer runic~
+`#the `SWarhammer `Wof `SRot`^~
+A large decaying wooden warhammer is here.~
+~
+5 0 4
+7 89 118 8192 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5094
+sword magibane~
+`#`Sa sword called `c"MagiBane"`^~
+A dark sword with an etched blade lies here.~
+~
+5 0 4
+7 124 168 17 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5094 sword magibane~
+The blade is etched with ancient undecipherable runes.  It appears the blade 
+is adamantium and the runes glow with a slight red glow.  A black crosspiece 
+and grip complete the blade, and upon closer examination you read the name 
+"MagiBane" on the grip.  
+~
+#5095
+ring cralaxtyr~
+`#`SRing `wof `SCralaxtyr`^~
+A silver ring with intricate engravings lies here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5095 ring cralaxtyr~
+This ring is covered by intricate engravings in an unknown language, but it 
+appears to be some form of demonic script.  
+~
+#5096
+token token_snake_bracelet~
+token_snake_bracelet~
+Token_snake_bracelet~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5097
+serpentbracelet bracelet~
+`#`GB`gracelet `wof the `GS`gerpent`^~
+A golden bracelet in the form of a serpent lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5097 serpent bracelet~
+Ancient runes burn in your mind and you believe the bracelet will be able to 
+protect you from a violent death. 
+~
+#5098
+token token_horn_of_blasting~
+token_horn_of_blasting~
+Token_horn_of_blasting~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5099
+horn blasting~
+a `#`YHorn `Wof `YBlasting`^~
+A elegant engraved horn lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+5099 horn blasting~
+Many runes are engraved on the outside of the horn, glowing with power.  To 
+use the horn, hold the horn and `#`CUSE HORN <`Wdirection`C>.  `^ The horn will blast 
+through most doors.  
+~
+#0
+
+
+#ROOMS
+#5000
+Remort Pathway~
+~
+Chose the path you wish to take, be it Dragon, Lich, Angel, Demon, or Golem. 
+ Use the help menu to determine your fate.  
+~
+1 37781504 0
+D0
+~
+~
+0 0 5001
+D1
+~
+~
+0 0 5003
+D2
+~
+~
+0 0 5002
+D3
+~
+~
+0 0 5004
+D5
+~
+~
+0 0 5005
+S
+#5001
+Path of the Dragon~
+~
+~
+1 0 0
+D2
+~
+~
+0 0 5000
+S
+#5002
+Path of the Golem~
+~
+~
+1 0 0
+D0
+~
+~
+0 0 5000
+S
+#5003
+Path of the Angel~
+~
+~
+1 0 0
+D3
+~
+~
+0 0 5000
+S
+#5004
+Path of the Lich~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 5000
+S
+#5005
+Path of the Demon~
+~
+~
+1 0 0
+D4
+~
+~
+0 0 5000
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

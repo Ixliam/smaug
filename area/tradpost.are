@@ -1,0 +1,978 @@
+#AREA        The Trading Post~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7000
+gnome pilot~
+a gnome pilot~
+A `#`GG`gnome `GP`gilot`^ is here, looking at his wrecked device.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7001
+geraro wagon master~
+`#Geraro the `#Wagon `#Master~
+`#Geraro the `#Wagon `#Master stands ready to give you a ride.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7002
+thistle hafling~
+`#`YT`yh`Yi`ys`Yt`yl`Ye`^ the halfling~
+A brightly dressed halfling is here looking quite mischevious.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7003
+furniture maker half-elf~
+a half-elven furniture maker~
+A half-elf is here, whittling on a chair leg.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+92 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7004
+tara alchemist~
+`#`cT`wara `wthe `cA`wlchemist`^~
+`#`cT`wara `wthe `cA`wlchemist stands here stirring a potion.`^
+~
+A beautiful Dagorst female with long dark hair and blue eyes.  She is 
+wearing a red silk sari and an expensive looking jeweled collar.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7005
+slave seller~
+a slave dealer~
+A slave dealer is here, selling his wares of flesh.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7006
+enslaved male angrak~
+an enslaved male angrak~
+An enslaved male angrak is here, hanging his head in shame.
+~
+A large collar with a thick steel chain comes from his neck, and extends 
+down to the ground. Large scars cover his back from the beatings of his 
+master. 
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7007
+weaponsmaster~
+the weaponsmaster~
+A large muscled man is standing here with items to sell.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7008
+dwarf weaponsmaster~
+the dwarven weaponsmaster~
+A large heavily-armored dwarf is here, sharpening an axe.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7009
+farah alchemist~
+`#`cF`warah `wthe `cA`wlchemist`^~
+`#`cF`warah `wthe `cA`wlchemist`^ is standing here, selling potions.
+~
+A beautiful Dagorst female with long dark hair and blue eyes.  She is 
+wearing a red silk sari and an expensive looking jeweled collar.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7010
+unseen transfer mob~
+`#Geraro the `#Wagon `#Master~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7011
+large half-orc shop~
+a large half-orc~
+A large half-orc is here behind the counter of the shop.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7000
+cage birdcage~
+a `#`WB`Sir`Wd`^ cage~
+A `#`WB`Sir`Wd`^ cage is here with a hawk inside.~
+~
+15 0 8
+15 7001 1000 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7001
+silver hawk key~
+a silver birdcage key~
+A small silver key with a hawk on it lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7002
+hunting hawk~
+a `#`WH`Suntin`Wg `WH`Saw`Wk`^~
+A `#`WH`Suntin`Wg `WH`Saw`Wk`^ is flying about here.~
+~
+9 0 8
+10 10 15 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7003
+pile debris~
+a pile of debris~
+A large pile of debris lies here.~
+~
+15 0 8
+0 0 10000 -100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7004
+small pulley wheel~
+a small wheel~
+A small pulley wheel is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7005
+gnomish anti-gravity hat~
+a `#`gG`Gnomish`^ `#`gA`Gnti`w-`gG`Gravity `gH`Gat`^~
+A strange hat with a small propeller on it is flying about here.~
+~
+11 2 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7007
+beholder dagger~
+the `#`RA`Wl`Rm`Wi`Rg`Wh`Rt`Wy `RD`Wa`Rg`Wg`Re`Wr `Sof the `RB`We`Rh`Wo`Rl`Wd`Re`Wr`^~
+A dagger with the pommel of a beholder lies here.~
+~
+5 2 4
+2 97 134 146 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7008
+wolfskin hide~
+a grey wolf hide~
+A heavy hide from a grey wolf is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7009
+potion disguise polymorph armour shield~
+a `#`Spotion `Wof `Sdisguise`^~
+A dark colored potion lies here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7010
+wolfskin cot~
+a `#`SW`wo`Sl`wf`Ss`wk`Si`wn`^ cot~
+A cot made of grey wolfskin is here.~
+~
+12 0 8
+1000 66706 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7011
+book weapons~
+an ancient `#`CB`cook `Sof `CW`ceapons`^~
+An ancient `#`CB`cook `Sof `CW`ceapons`^ is lying here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7012
+dwarven battle axe~
+a `#`RD`rw`Ra`rr`Rv`re`Rn `GB`gattle`Y A`yxe`^~
+A `#`RD`rw`Ra`rr`Rv`re`Rn `GB`gattle`Y A`yxe`^ is here.~
+~
+5 1 4
+4 7 16 17 0 0 0
+1 2300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7013
+dark beard~
+a `#`Sdark beard`^~
+A shaved-off beard lies here.~
+~
+9 0 8
+10 10 10 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7014
+dark goatee~
+a `#`Sdark goatee`^~
+A shaved-off goatee lies here.~
+~
+9 0 8
+5 5 10 0 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7015
+dark moustache~
+a `#`Sdark moustache`^~
+A shaved-off moustache lies here.~
+~
+9 0 8
+10 10 10 0 0 0 0
+1 725 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7016
+potion might giant strength vicegrip protection acid~
+a potion of might~
+A strong-looking potion is here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7017
+potion insight detect hidden invisible dark vision~
+a potion of insight~
+A swirling potion is here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#7018
+potion bondage summon undead protection good~
+a potion of bondage~
+A potion wrapped in chains is here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#0
+
+
+#ROOMS
+#7000
+Forest Road~
+~
+A path has been worn through the forest here by constant trampling by 
+various adventurers.  The trees to the side of the path look to be 
+stretching upwards in an attempt to reach the boundless sky.  The trunks are 
+large enough that it would take three large humans hand-to-hand to encircle 
+it.  By the base of these grand trees, grow the various varieties of 
+undergrowth exploding the lower levels of the forest in a multitude of 
+colour.  Old leaves and twigs litter the path, and a few small rocks lie to 
+the side. 
+~
+1 0 3
+D0
+~
+~
+0 0 7001
+S
+#7001
+Forest Road~
+~
+A path has been worn through the forest here by constant trampling by 
+various adventurers.  The trees to the side of the path look to be 
+stretching upwards in an attempt to reach the boundless sky.  The trunks are 
+large enough that it would take three large humans hand-to-hand to encircle 
+it.  By the base of these grand trees, grow the various varieties of 
+undergrowth exploding the lower levels of the forest in a multitude of 
+colour.  Old leaves and twigs litter the path, and a few small rocks lie to 
+the side. 
+~
+1 0 3
+D0
+~
+~
+0 0 7002
+D1
+~
+~
+0 0 7020
+D2
+~
+~
+0 0 7000
+D3
+~
+~
+0 0 7004
+S
+#7002
+Forest Road~
+~
+A path has been worn through the forest here by constant trampling by 
+various adventurers.  The trees to the side of the path look to be 
+stretching upwards in an attempt to reach the boundless sky.  The trunks are 
+large enough that it would take three large humans hand to hand to encircle 
+it.  By the base of these grand trees grow the various varieties of 
+undergrowth exploding the lower levels of the forest in a multitude of 
+colour.  Old leaves and twigs litter the path, and a few small rocks lie to 
+the side.  The path leads to the north and to the south.  To the east is a 
+rather interesting shop. 
+~
+1 0 3
+D0
+~
+~
+0 0 7003
+D1
+~
+~
+0 0 7005
+D2
+~
+~
+0 0 7001
+S
+#7003
+On a Road~
+~
+The size of the path has expanded greatly as a result of the wagons and 
+people constantly travelling through this area.  The trees reach skyward 
+from their foundations in the ground, and look to be reaching towards the 
+sky in praise of the gods.  The undergrowth has decreased in quantity, but 
+the colours are still rich and enchanting to the eye.  A pile of mechanical 
+debris is in the middle of the path.  Off to the east are the remnants of a 
+mechanical machine, which could only be of Gnomish design, no doubt a life 
+quest.  To the west is a rather large caravan.  The main forest path 
+continues to the north and south. 
+~
+1 0 3
+D0
+~
+~
+0 0 7007
+D1
+~
+~
+0 0 7009
+D2
+~
+~
+0 0 7002
+D3
+~
+~
+0 0 7008
+R O 0 7003 0 7003
+  R P 0 7004 1 7003
+S
+#7004
+A Small Clearing~
+~
+This is a man-made clearing in the forest.  All the trees in this area have 
+be forested and put to use as either fire logs, or wood for constructing 
+buildings and caravans.  The area looks to be rather hospitable as a 
+campsite.  Lush green grass grows in abundance. 
+~
+1 0 2
+D1
+~
+~
+0 0 7001
+R O 0 7000 0 7004
+  R P 0 7002 1 7000
+S
+#7005
+The Slave Pens~
+~
+You have entered the Slave area, this is where slaves are bought and sold.  
+A few guards stand watch to make sure none of the slaves attempt an escaped, 
+most who are criminals.  A few of the more stronger ones have been set aside 
+to be sold to the highest bidder.  The cages are high and are made out of 
+sharp wires, all who try to climb out have their hands cut badly. 
+~
+1 33558536 0
+D3
+~
+~
+0 0 7002
+R M 0 7005 1 7005
+S
+#7006
+Slave Pet Shop~
+~
+~
+1 239632396 0
+R M 0 7006 1 7006
+S
+#7007
+Near a Trading Post~
+~
+The trees have retreated father to the east and west, as the path and its 
+surrounding areas become more barren and worn.  Small patches of grass grow 
+from the dirt providing a little color to the direct area.  To the north is 
+a building constructed completely out of wood and forest material.  A small 
+sign hangs from the roof, which signifies it as a trading post.  The door is 
+solid yet unlocked awaiting your entrance.  The path leads to the south and 
+east into the deeper forest, and to the west you see a robed figure. 
+~
+1 33554432 3
+D0
+~
+~
+1 0 7013
+D1
+~
+~
+0 0 7012
+D2
+~
+~
+0 0 7003
+D3
+~
+~
+0 0 7011
+R M 0 7002 1 7007
+  R E 0 7007 0 16
+S
+#7008
+Crash Site~
+~
+Covering the ground in this small clearing is the wreck of what looks to be 
+a mechanical device designed by a Gnome.  Small part of the machine are 
+scattered across the forest floor and a small fire burns freely on the 
+undergrowth ands grass.  One of the trees to the west has a few branches 
+hanging limply from the main trunk, obviously where the gnomish invention 
+made contact before plummeting to its bent and burning grave.  A Gnome 
+stands by the wreck looking as though he is looking for something in the 
+wreckage. 
+~
+1 33816576 3
+D1
+~
+~
+0 0 7003
+R M 0 7000 1 7008
+S
+#7009
+The Wagon Station~
+~
+You are in a cleared out area of the forest.  The trees have been logged for 
+their wood and no doubt have been put to use in a building nearby somewhere. 
+The clearing is used by caravan as a resting place and a location to sell 
+their wares to passing travellers.  At the present there are about ten 
+different wagons and their horses here queued up awaiting departure.  The 
+wagon drivers are resting peacefully by their steeds.  A man stands in the 
+front of the wagon train, he is no doubt the owner and looks to be  
+organizing for departure. 
+~
+1 33817600 2
+D3
+~
+~
+0 0 7003
+R M 0 7001 1 7009
+S
+#7010
+Inside the Wagon~
+~
+You are inside a small cramped wagon, you can feel it shake as it rolls down 
+the road. There is no windows, just a sheet has be placed around the cabin 
+to prevent rain from getting in, not exactly the best wagon. 
+~
+1 973603852 0
+R M 0 7010 1 7010
+S
+#7011
+Mages Study~
+~
+You are in a small room that looks to be a mages study room.  There are 
+spell scrolls spread across the oaken table in the corner of the room, and 
+books and parchments are stores on the bookshelves lining the walls of the 
+room. 
+~
+1 33554432 0
+D1
+~
+~
+0 0 7007
+S
+#7012
+Deep Within the Forest~
+~
+You are deep within the grand forest.  Trees climb from the soil and reach 
+great heights creating a umbrella canopy preventing any light entering the 
+lower forest levels.  As a result the ground life is rather barren, and only 
+a few varieties of ferns and lichens prosper.  All around are giant trees 
+not helping at all in determining which direction to travel.  Off in the 
+distance is a wolf howling to the sky above. 
+~
+1 0 3
+D3
+~
+~
+0 0 7007
+S
+#7013
+Inside a Trading Post~
+~
+This is the entrance hallway of the trading post.  The walls are made from 
+wood harvested from the outside forests.  There is still a fresh wood like 
+smell radiating from the pine giving the instinct impression this trading 
+post has not be around for a long period of time. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 7015
+D1
+~
+~
+0 0 7016
+D2
+~
+door~
+1 0 7007
+D3
+~
+~
+0 0 7017
+S
+#7014
+~
+~
+~
+1 0 0
+D2
+~
+~
+0 0 7013
+S
+#7015
+Inside a Trading Post~
+~
+You have entered the north section of the trading post.  Lined along the 
+walls in large bookshelves are many tones teaching the arts of battle.  Most 
+however are written in an ancient language no longer understood by the 
+realm.  A large man stands before the bookshelf trying to catch you 
+attention.  He looks to be holding a book of some type to sell.  Perhaps he 
+has found a few books that are useful. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 7019
+D2
+~
+~
+0 0 7013
+D3
+~
+~
+1 0 7018
+R M 0 7007 1 7015
+  R G 0 7011 0
+S
+#7016
+Inside a Trading Post~
+~
+A table and alchemy equipment are set up in this room.  The equipment 
+contains a vile looking liquid that slowly drips from the end of a glass 
+tube into a vial for storage.  Along the walls are bookshelves filled with 
+an assortment of different colored and fragrent potions.  Some are bubbling 
+away looking to be released from their glass prisons, while others rest 
+dormant. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 7013
+R M 0 7009 1 7016
+  R G 0 7018 0
+  R G 0 7017 0
+  R G 0 7016 0
+S
+#7017
+Inside a Trading Post~
+~
+You are in the western section of the trading post.  Along the wooden wall 
+are various items that look to be forged by a master of their craft. These 
+weapons were crafted by the dwarves, masters of their art.  Axes gleam and 
+bracers lie in a pile.  The equipment here would certainly be regarded as 
+the best in the realm. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 7013
+R M 0 7008 1 7017
+  R E 0 7013 0 28
+  R E 0 7012 0 16
+  R G 0 7012 0
+  R G 0 7013 0
+  R G 0 7014 0
+  R G 0 7015 0
+S
+#7018
+Furniture Storage~
+~
+The room is dark and cold.  There are no windows or doors in this room, so 
+light does not enter here to destroy the darkness.  A desk rests easily in 
+the middle of the room; it is made of forest wood, and looks to have been 
+eaten away by termites.  The floor is dusty; it looks like this room was 
+designed not to be found, as it looks to be undisturbed 
+~
+1 8 0
+D1
+~
+door~
+1 0 7015
+R M 0 7003 1 7018
+S
+#7019
+Inside the Mages Workshop~
+~
+Books, scrolls, parchments, potion overwhelm this place.  They are 
+suffocating any spare space in the room.  Potions are brewing and bubbling 
+away and the smoke generated is slowing dissipating into the air.  A soft 
+chant can be heard from the wizard working on his latest concoction. 
+Disturbing this mage at this time could be lethal to not only the mages 
+creation, but to you. 
+~
+1 33554440 0
+D3
+~
+door~
+1 0 7015
+R M 0 7004 1 7019
+S
+#7020
+Ore & Gem Shop~
+~
+Large carts of ore and rough gemstones line the walls of this old shop. Dust 
+and dirt cover the floor, along with the dreams of those who seek to make 
+their fortune in the nearby mines. 
+~
+1 263176 0
+D3
+~
+~
+0 0 7001
+R M 0 7011 1 7020
+  R G 0 804 0
+S
+#0
+
+
+#SHOPS
+ 7007    2  5  0  0  0   100  67         0 23    ; the weaponsmaster
+ 7008    9  5  0  0  0   100  67         0 23    ; the dwarven weaponsmaster
+ 7009   10  0  0  0  0   100  24         0 23    ; `#`cF`warah `wthe `cA`wlchemist`^
+ 7011   56 32  0  0  0   120  75         0 23    ; a large half-orc
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,643 @@
+#AREA        Cave of Beginnings~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1021
+spike metal dog~
+spike, the metal dog~
+Spike, The metal dog is standing here glaring at you.
+~
+This average sized dog seems normal, K-9 teeth, tail, fur? Hmm
+no fur.... oh my, He is made entirely out of silver!
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1022
+fluffy fluff ball~
+fluffy, the fluff ball~
+Fluffy, The fluff ball is standing here acting fluffy.
+~
+Before you stands a big ball of.... well.... Fluff.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1023
+grig~
+a grig~
+A small grig is leaping around the room excitedly.
+~
+The grig is a sprite-like creature with a humanoid body and the legs of a 
+cricket.  A tiny set of wings allow it to fly about, and it can leap quite a 
+distance with it's legs.  It is quite shy and means no harm to anyone.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1024
+centipede~
+a centipede~
+A small orange centipede scurries about the floor.
+~
+The centipede has a multi-segmented body, and each segment sports a set of 
+legs.  It uses two antenae to find things to eat and to navigate about.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1025
+cave bat~
+a cave bat~
+A blind cave bat flies about the cavern.
+~
+There is a cave flying about, obviously disturbed from its slumber.  It 
+carries a little piece of jewelry in its claws.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+3 0 5 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1026
+rock slimy~
+a slime-covered rock~
+There is a rock covered in slime.
+~
+A rock lies here, covered in slime.  Amazingly, it is slowly moving, whether 
+it is the slime that is organic or the rock, it is moving.  There is a bit 
+of slime that seems to hover about the rock.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 7 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1027
+snarling rat~
+a snarling rat~
+A rat is here snarling like it has rabies!
+~
+This rat appears to have some sort of disease and is snarling
+at everything that wanders near it. Watch out!
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1021
+silver collar~
+a `#`Wsilver`^ collar~
+A `#`Wsilver`^ collar rests here on the ground.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1022
+fluffy anklet~
+a `#`Yfluffy`^ anklet~
+A fluffy band of fur for your ankle is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1023
+amber ring~
+an `#`ya`rm`Rb`re`yr`^ ring~
+A small band of amber lies upon the ground.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1023 ring ~
+The thin band of amber glows slightly, and is warm to the touch.  
+~
+E
+1023 amber ~
+The thin band of amber glows slightly, and is warm to the touch.  
+~
+#1024
+centipede feeler~
+a `#`mc`be`mn`bt`mi`bp`me`bd`me`^ feeler~
+The feeler of a centipede has been removed from it's owner.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1024 feeler ~
+This is a tiny piece of the centipede that it used to find it's way about.  
+~
+#1025
+dull bracelet~
+a `#`sdull`^ bracelet~
+A `#`sdull`^ bracelet seems to have been of use at one time.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1026
+floating slime glob~
+a `#`ygooey `mglob`^ of `#`Gslime`^~
+There seems to be a small glob of slime that hovers around. There is no obvious reason for this phenomena, but it floats.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 8 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1027
+small chunk of cheese~
+`wa small chunk of `Ych`yee`Yse`^~
+`wa small chunk of `Ych`yee`Yse `wis laying here.`^~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#1030
+ring power~
+`YRing of Power`^~
+`^A `ygold ring`^ with a strange script written on it.~
+~
+9 256 8
+200 200 200 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1030 ring ~
+On it you read the following:
+One Ring to rule them all, One Ring to find them.
+One Ring to bring them all, and in the darkness bind them.
+~
+#1031
+sign large wooden~
+a large wooden sign~
+A large wooden `#`Rsign`^ rests here.~
+~
+7 64 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1031 wooden ~
+Don't let your first adventure be your last!
+Haven't tested yourself yet?
+Turn back from this path!
+~
+E
+1031 large ~
+Don't let your first adventure be your last!
+Haven't tested yourself yet?
+Turn back from this path!
+~
+E
+1031 sign ~
+Don't let your first adventure be your last!
+Haven't tested yourself yet?
+Turn back from this path!
+~
+#1032
+can canadian whoop arse~
+`#A can of `YGrade A `RC`Wa`Rn`Wa`Rd`Wi`Ra`Wn `^Style `GWhoop-`CArse`^~
+A small red and white can lies here, Pulsating with weird energy.~
+~
+15 2 8
+15 1033 1000 1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1033
+can opener~
+`#`CA `GCan `YOpener`^~
+An odd instrument lies here.~
+~
+5 256 4
+100 2 1 8 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1034
+fortune cookie~
+a fortune cookie~
+A type of cookie lies here.~
+~
+15 0 8
+5 0 1 1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1034 fortune cookie~
+Maybe you should open it to see what fortune you get.
+~
+#1035
+small fortune~
+a small paper fortune.~
+A piece of white paper lies here, with something scribbled on it.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1024
+Northeast corner of the Cave~
+~
+You are within the Cave of Beginnings and all around you strange
+creatures wander about. Some are wearing items which may have some
+value for you and a voice within urges you to obtain these items
+by whatever means possible.
+~
+1 8 0
+D2
+~
+~
+0 0 1026
+R M 0 1023 3 1024
+  R G 0 1023 0
+S
+#1025
+Northwest corner of the Cave~
+~
+You are within the Cave of Beginnings and all around you strange
+creatures wander about. Some are wearing items which may have some
+value for you and a voice within urges you to obtain these items
+by whatever means possible.
+~
+1 8 0
+D2
+~
+~
+0 0 1027
+R M 0 1025 3 1025
+  R E 0 1025 0 14
+S
+#1026
+Eastern wall of the Cave~
+~
+You are within the Cave of Beginnings and all around you strange
+creatures wander about. Some are wearing items which may have some
+value for you and a voice within urges you to obtain these items
+by whatever means possible.
+~
+1 8 0
+D0
+~
+~
+0 0 1024
+D2
+~
+~
+0 0 1029
+R M 0 1027 6 1026
+  R G 0 1027 0
+S
+#1027
+Western wall of the Cave~
+~
+You are within the Cave of Beginnings and all around you strange
+creatures wander about. Some are wearing items which may have some
+value for you and a voice within urges you to obtain these items
+by whatever means possible.
+~
+1 8 0
+D0
+~
+~
+0 0 1025
+D2
+~
+~
+0 0 1030
+R M 0 1027 6 1027
+  R G 0 1027 0
+S
+#1028
+Southern wall of the Cave~
+~
+You are within the Cave of Beginnings and all around you strange
+creatures wander about. Some are wearing items which may have some
+value for you and a voice within urges you to obtain these items
+by whatever means possible.
+~
+1 8 0
+D1
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1030
+S
+#1029
+Southeastern corner of the Cave~
+~
+You have come to the southeastern corner of the cave and to the
+southeast you see a small corridor. There is a dim light coming
+from it and you can hear a scratching noise. The voice on the 
+wind continues to urge you on.
+~
+1 8 0
+D0
+~
+~
+0 0 1026
+D3
+~
+~
+0 0 1028
+D7
+~
+~
+0 0 1031
+R M 0 1024 3 1029
+  R E 0 1024 0 17
+S
+#1030
+Southwestern corner of the Cave~
+~
+You have come to the southwestern corner of the cave and to the 
+southwest you see a corridor. Scratching can be heard coming from
+within and a voice on the wind urges you to enter.
+~
+1 8 0
+D0
+~
+~
+0 0 1027
+D1
+~
+~
+0 0 1028
+D8
+~
+~
+0 0 1033
+R M 0 1026 3 1030
+  R E 0 1026 0 18
+S
+#1031
+Tiny Corridor~
+~
+You are within a tiny corridor and it leads either to
+the northwest or to the south. A bright light gleams from
+the south and you think for a second you see gold.
+~
+1 8 0
+D2
+~
+~
+0 0 1032
+D9
+~
+~
+0 0 1029
+S
+#1032
+Fluffy's Room~
+~
+You have entered a circular cavern with fur all along the 
+walls. The air smells like honey and the floor has a soft
+fluffy feeling about it. The voice on the wind cheers you
+on as you wander about.
+~
+1 8 0
+D0
+~
+~
+0 0 1031
+R M 0 1022 1 1032
+  R E 0 1022 0 17
+S
+#1033
+Corridor~
+~
+You are within a decent sized corridor heading to the south
+and to the northeast. The walls and floor appear to be made 
+over a silvery metal and you can see your reflection within
+them.
+~
+1 8 0
+D2
+~
+~
+0 0 1034
+D6
+~
+~
+0 0 1030
+S
+#1034
+Spike's Room~
+~
+This room is made entirely out of a silver metal and it is like
+being in a room full of mirrors. A small nest of metal shavings
+in is the center of the room and the only exit is to the north.
+~
+1 8 0
+D0
+~
+~
+0 0 1033
+R M 0 1021 1 1034
+  R E 0 1021 0 3
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

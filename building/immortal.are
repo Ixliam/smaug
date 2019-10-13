@@ -1,0 +1,1313 @@
+#AREA Immortal Area~
+
+#AUTHOR Ixliam~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG ~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#2000
+stork~
+a large stork~
+`#`wA huge `Wwhite `wstork is here.`^
+~
+~
+3 524288 0 C
+100 0 0 10d14+480 10d13+55
+170 0
+8 8 3
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+-1 0 0 0 0 128 16 0
+#2001
+doppleganger~
+a doppleganger~
+A large wooden chest is here.
+~
+A large wooden chest is here.
+~
+81 512 0 C
+40 0 0 5d6+235 4d8+13
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+9 0 0 0 0 0 0
+0 0 2047 0 3 0 0 0
+#2002
+frylock box fries~
+`#`RFrylock the `RGenius`^~
+A large red box of fries is floating here.
+~
+A large, red box of fries with white eyes and a goatee is floating here. A
+single fry from the top of the box hangs down, serving as his hand. He looks
+pretty dangerous.
+~
+83 1050792 0 C
+125 0 0 13d16+605 13d17+80
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 455 201359360 1880299523 270336 0 0
+#2003
+rhames2~
+a well `#`cta`ynn`ced`^ skinny `#`Cm`cal`Ce`^ human~
+A well `#`cta`ynn`ced`^ skinny `#`Cm`cal`Ce`^ human stands here.
+~
+Before you stands a male human about six foot tall.  He has light brown hair
+that is short and well kept.  When seen his eyes appear to be multi-hued,
+ranging from dark green on the outside to light blue, amber then orange at
+the center around the pupil.  He has a skinny build and his skin is slightly
+tanned.  He has a scar on his right temple that is in the shape of 3 small
+stars.
+~
+81 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#2004
+female faerie sikozu~
+`#`MS`mi`Mk`mo`Mz`mu`^~
+`#`wa delicate female faerie with `Mi`mr`Mr`mi`Md`me`Ms`mc`Me`mn`Mt `wwings`^
+~
+A tiny female faerie is before you.  Her tiny irridescent wings are a
+shimmering span of the color spectrum.  Her skin is a light lavender color
+and looks soft yet delicate and her hair is also lavender though it is a
+slightly darker lavender.  Her thick hair hangs in ringlets around her
+shoulders and small pointed ears can be seen underneath it.  When seen, her
+eyes are yellow and it changes from light to dark yellow depending on her
+mood.  She stands only about 15 inches tall and could not possibly weigh
+more than 2 pounds.
+~
+65617 524304 0 C
+1 0 0 1d4+1 1d4+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 34815 32804 15 2304 0 0
+#2005
+slythris male~
+a male slythris~
+A large male slythris is standing here.
+~
+~
+65619 301989944 -400 C
+130 0 0 13d16+630 13d17+84
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 201359636 1880299587 270852 10168 0
+#2006
+zandramas~
+zandramas~
+A huge undead beast lumbers about the area.
+~
+Putrid, rotting flesh hangs limply from the bones of this beast.  Calcified,
+partially warped bones comprise much of his structure, flowing down to thin,
+bony legs.
+~
+82001 270549160 0 C
+115 0 0 20d20+800 13d17+80
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 21890 0 9632 0
+#2007
+strange old man mage bade~
+a strange old malkatar male~
+A strange old malkatar male
+~
+An old, frail looking malkatar male. He has salt and pepper colored hair
+that is very long and pulled back into a single long braid and when seen,
+his eyes are light green. It is obvious that the man is over 60 and he walks
+with a limp.
+~
+81 0 0 C
+100 0 0 10d14+480 10d13+55
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 0 0 0 0
+#2008
+black dragon enormous~
+an enormous black dragon~
+An enormous black dragon stands here, ready to devour smaller beings.
+~
+~
+81 302105128 -600 C
+115 0 0 12d15+555 12d15+70
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 57344 1040 0 5664 0
+#2009
+naughty elf~
+a naughty female elf~
+A naughty female elf is here, sitting on Santa's Lap.
+~
+This female, scantily clad with red and green is obviously in trouble..and
+is telling Santa just how naughty she was this Christmas season.
+~
+32851 304136844 0 C
+145 0 0 15d18+705 14d21+100
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 271872 67109016 0 0 0
+#2010
+goblin leader~
+a goblin~
+A large `#`smale `ygoblin`^ leader
+~
+~
+65617 301989944 -400 C
+130 0 0 13d16+630 13d17+84
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 201359636 1880299587 270852 10168 0
+#2011
+detachement serpent army~
+a detachment of the `gs`Ge`gr`Gp`ge`Gn`gt `sa`Wr`smy`^ stands at the ready here.~
+A detachment of the `gs`Ge`gr`Gp`ge`Gn`gt `sa`Wr`smy`^ stands at the ready here.
+~
+Before you stands a detachment of a army hoarde of numbers to large to even
+ponder counting. Trolls, orcs, and hobgoblins stand neatly in strict
+regiments with their hated human counterparts. Admist their masses large
+balista and catipults can be seen, great siege weapons both orc and human in
+nature. Their ranks seem to be neatly formed around large kennels full of
+thousands of dark skinned kobolds and goblins, war fodder. Great siege poles
+can be see rising high into the air in the midst of them, all bearing a red
+flag with the symbol of a `#`Yc`yro`Yw`yne`Yd `ww`Wh`wi`Wt`we `wC`Wo`wb`Wr`wa`^. Every single member of the
+army is ordered and cajolled by dark knights in ethereal black armor, all of
+which bear the same symbol as the flags.
+~
+272105555 305143976 0 C
+125 0 0 13d16+605 13d17+80
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 2047 0 2141192191 0 75524028 0
+#0
+
+#OBJECTS
+#2000
+chill pill~
+a small blue pill~
+A blue pill with some strange human characters~
+~
+26 1048576 1 0
+91 4 -1 -1 -1 0
+1 0 0
+#2001
+arrow death~
+an `#`SArrow `wof `SDeath`^~
+A long arrow tipped with a skull lies here.~
+~
+57 1 16385 0
+1 25 25 -1
+1 0 0
+#2002
+scroll acid blast~
+a scroll of acid blast~
+A rolled up scroll is here with writing on it.~
+~
+2 0 1 0
+58 1 -1 -1 -1 0
+1 0 0
+#2003
+exp cookie~
+a `#`RC`Gh`Rr`Gi`Rs`Gt`Rm`Ga`Rs `GC`Ro`Go`Rk`Gi`Re`^~
+A `#`RC`Gh`Rr`Gi`Rs`Gt`Rm`Ga`Rs `GC`Ro`Go`Rk`Gi`Re`^ baked by `YIxliam`^.~
+~
+19 328487361 1 0
+10 10 0 0
+0 0 0
+E
+cookie christmas~
+This cookie was baked by Ixliam in his special immortal stove.  When you eat
+the cookie, you will gain 2000 XP!!!
+
+`#`RM`Ge`Rr`Gr`Ry `RC`Gh`Rr`Gi`Rs`Gt`Rm`Ga`Rs`^
+
+The Immortal Staff of Whispers of Times Lost
+~
+#2004
+christmas present package~
+a `#`RC`Gh`Rr`Gi`Rs`Gt`Rm`Ga`Rs `GP`Rr`Ge`Rs`Ge`Rn`Gt`^~
+A `#`RC`Gh`Rr`Gi`Rs`Gt`Rm`Ga`Rs `GP`Rr`Ge`Rs`Ge`Rn`Gt`^ from the Immortals.~
+~
+15 1343491 1 0
+1000 1 0 1 -10 0
+0 0 0
+#2005
+voodoo doll~
+a voodoo doll~
+A voodoo doll lies here.~
+~
+8 286032464 16385 0
+0 0 0 0
+5 0 0
+#2006
+glowing crystal gem~
+glowing `#`CCr`Wyst`Cal`^ gem~
+A glowing crystal gem is lying here.~
+~
+0 8388611 65537 0
+0 0 0 0
+0 0 0
+A
+22 -200
+A
+18 30000
+A
+23 500
+A
+24 500
+A
+25 -100
+#2007
+chocolate cadbury egg~
+`#`wa `ychocolate `wcadbury `We`wg`Wg`^~
+A chocolate egg is here.~
+~
+26 8192 1 0
+500 -1 80 56 -1 0
+7 0 0
+#2008
+kyarra's hot pants~
+A pair of `#`MHOT`^ pants!~
+This pair of hotpants obviously belongs to Kyarra.~
+~
+13 16777313 32 0
+0 0 0 0
+1 100000 0
+#2009
+quest token~
+A `#`YBRIGHT `BLARGE `RQUEST`G TOKEN`^~
+A `#`YBRIGHT `BLARGE `RQUEST`G TOKEN`^ lies here.~
+~
+13 25952449 16385 0
+0 0 0 0
+0 0 0
+#2010
+bone throne~
+a `#`Bthrone`^ of `#`Wbone`^~
+A throne made entirely of human bones sits here.~
+~
+12 25952256 32769 0
+1 1000 66706 500 500 0
+1000 0 0
+#2011
+leafy potted plant~
+a `#`Gleafy`^ potted plant~
+A `#`Gleafy`^ potted plant sits in the corner.~
+~
+15 8388608 0 0
+10 0 0 10
+5 1 0
+E
+leafy potted plant~
+A large leafy potted plant sits here in the corner. It looks sort of like a
+fern. The soil is damp to the touch, and the plant looks fairly healthy.
+~
+#2012
+token free restring~
+a `#`Rtoken`w for a `Yfree `Brestring`^~
+A token for a free restring lies here!~
+~
+0 1132466305 1 0
+0 0 0 0
+0 0 0
+#2013
+rotting corpse adian home~
+a rotting corpse~
+An autopsy table rests here, with a rotting corpse upon it.~
+~
+15 25165824 0 0
+1000 5 0 200
+4000 0 0
+#2014
+discoloured heart adian estate~
+a discoloured heart~
+A discoloured heart lies here.~
+~
+13 786432 16385 0
+0 0 0 0
+0 0 0
+#2015
+slimey mass of entrails adian home~
+a slimey mass of entrails~
+A slimey mass of entrails lie here.~
+~
+13 786432 16385 0
+0 0 0 0
+0 0 0
+#2016
+set of lungs adian home~
+a set of lungs~
+A set of lungs lie here.~
+~
+13 524288 16385 0
+0 0 0 0
+0 0 0
+#2017
+brain adian home~
+a brain~
+A brain lies here.~
+~
+13 786432 16385 0
+0 0 0 0
+0 0 0
+#2018
+wicked torture rack adian home~
+a wicked torture rack~
+A wicked torture rack sits here.~
+~
+12 25690176 0 0
+2 2000 1168 -10 -5 0
+0 10000 0
+#2019
+huge skull flames~
+a huge skull engulfed in flames~
+A huge skull engulfed in flames stands here eerily.~
+~
+12 92274705 0 0
+5 5000 65536 0
+0 0 0
+E
+skull huge flames~
+Human skulls are held together magically to form the structure of this large
+skull. Bursting around it vibrantly is a dark blue flame that seems to glow
+eerily.
+~
+#2020
+silver armbad~
+a `#`SS`Wi`Sl`Wv`Se`Wr `mA`srmband`^~
+A `#`SS`Wi`Sl`Wv`Se`Wr `mA`srmband`^ lies here.~
+~
+8 8912961 257 0
+0 0 0 0
+0 0 0
+A
+0 0
+A
+0 0
+A
+0 0
+A
+8 30
+A
+7 30
+A
+2 30
+A
+23 100
+A
+24 100
+A
+25 -50
+A
+22 -150
+A
+17 2000
+A
+18 2000
+#2021
+wooden herb wall rack clan estate~
+a wooden wall rack for herbs~
+`#`ya wooden wall rack for herbs is here`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2022
+storage cabinet clan estate food ~
+a small food cabinet~
+A small `#`yfood`^ cabinet rests here.~
+~
+15 277368832 0 0
+2000 0 0 2000 100 0
+1000 0 0
+#2023
+throne of the sun~
+The `#`Wthrone`^ of the `Ys`tu`Yn`^~
+The `#`Wthrone`^ of the `Ys`yu`Yn`^ sits here, `Yshining `Wbrightly`^.~
+~
+12 25428033 0 0
+1 10000 132242 150 150 0
+0 0 0
+#2024
+hassan executioners axe~
+`#the `RExecutioner's Axe`^~
+A very sharp executioners axe lies here.~
+~
+5 1401729152 8193 0
+4 50 100 25 8441 0
+220 1450 0
+A
+0 0
+#2025
+kronos belt soul~
+`#`SB`we`Sl`st `wof `SD`wa`Sm`wn`Se`wd `SS`wo`Su`wl`Ss`^~
+A belt of damned souls is here.~
+~
+15 26099712 2049 0
+20000 3 0 20000 -50 0
+0 0 0
+#2026
+death scythe~
+`#`wThe `SS`Wc`Sy`Wt`Sh`We `wof `SD`We`Sa`Wt`Sh`^~
+Ixliam's scythe is lying here.~
+~
+5 294133760 8193 0
+0 10 20 20 14494 0
+0 0 0
+#2027
+mists clump cushy floating~
+a floating clump of cushy `#`Ww`Sh`Wi`St`We`s m`Wi`ss`Wt`^~
+A clump of `#`Ww`Sh`Wi`St`We `Sm`Wi`Ss`Wt`^ floats here.~
+~
+12 8388931 1 0
+1 1000 66121 110 115 0
+0 0 0
+E
+mist clump cushy floating~
+You see before you a clump of some white substance, looking like a thick
+mist, floating here looking quite comfortable and inviting.
+~
+#2028
+statue stone~
+a stone statue of %s~
+A stone statue of %s is here.~
+~
+12 59002880 0 0
+0 0 0 0
+-31072 0 0
+#2029
+soulstone~
+a `#`SS`wo`Su`wl`Ss`wt`So`wn`Se`^~
+A `#`SS`wo`Su`wl`Ss`wt`So`wn`Se`^ is here.~
+~
+0 25968661 49153 0
+0 0 0 0
+0 0 0
+#2030
+pool blood~
+a small pool of `Rblood`x~
+A small pool of `Rblood`x is here.~
+~
+17 1342439424 0 0
+1 1 13 0
+0 0 0
+#2031
+hell wheel~
+a steering wheel~
+A steering wheel made of bones is here.~
+~
+0 1351372817 0 0
+2060 0 0 0
+0 0 0
+E
+_TRAVEL~
+The carriage rumbles along, flames leaping from the nightmares nostrils.~
+#2032
+head~
+a shrunken head~
+A shrunken head lies here.~
+~
+0 25427968 16385 0
+0 0 0 0
+1 0 0
+#2033
+bag hide~
+bags made from hides of corpses~
+A bag made from the hide of %s.~
+~
+15 25427968 67108865 0
+500 1 0 55 80 0
+25 75 0
+#2034
+the slayer~
+the slayer~
+The slayer lies here.~
+~
+5 0 8193 0
+0 5 5 0 1024 0
+0 0 0
+#2035
+scroll golden quest remort~
+a `#`sScroll`^ of the `YGolden `Wq`wu`We`ws`Wt`^~
+A scroll of the golden quest lies here.~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+scroll golden quest remort~
+. If it is knowledge and wisdom and power you seek,
+ fetch me these items and then you shall receive.
+
+      (Glowing) an elven golden crown
+      (Glowing) a tiny golden lithe female feylar figurine
+      a small golden sphinx
+      (Flaming) the golden claw
+      a golden nose ring
+      some golden needles
+
+ They are spread throughout the realm.
+ You may ask IC for help in finding these objects.
+ When done, note to IMM and we shall proceed with your remort.
+~
+#2036
+white marble statue zana ~
+a white marble statue~
+A `#`Wwhite marble`^ statue of a young, half-elven woman~
+~
+12 0 0 0
+2 1000 65608 100 100 0
+0 0 0
+E
+white marble statue zana~
+A marble statue of a young, half-elven woman stands here on a platform.  She
+appears thin, with a lightly muscled frame, with skin that looks rather soft
+and smooth, without a blemish.  Her hair looks as though it falls down in
+silken waves about her shoulders, ending about halfway down her back.  Small
+pointed ears peek up from under the mass of what would be silver hair.  Her
+eyes are the only colored feature on this marble statue, which look like a
+sapphire blue.  Despite her athletic build, she shows soft curves that belie
+her human heritage.  The woman is squatting, leaning forward to pat the
+belly of a small wolf pup, who is rolling on its back.  A small smile is set
+in stone on this womans face as she looks down lovingly at the wolf.
+
+`#`sZana, a very loving woman.  Also loved by many.`^
+~
+#2045
+bow pse stingray~
+a `#`RPSE `RS`rt`Ri`rn`Rg`rr`Ra`ry `SCompound Bow`^~
+A large compound bow belonging to Ixliam is here.~
+~
+5 294404112 8193 0
+0 100 100 8 14737 0
+0 0 0
+#2046
+quiver death~
+a `yLeather Quiver`x~
+A quiver lies here.~
+~
+58 277626881 67108865 0
+1000 0 0 1000
+0 0 0
+#2047
+arrow might~
+an `WArrow `Yof `WMight`x~
+A powerful arrow lies here.~
+~
+57 268697665 16385 0
+1 2 2 -1
+1 0 0
+#2048
+black thong~
+a `#`Sblack thong`^~
+A sexy black thong is here~
+~
+0 445173890 17 0
+0 0 0 0
+0 0 0
+A
+0 0
+#2049
+blackened hilt~
+a `#`Sblackened sword hilt`^~
+A `#`Sblackened sword hilt`^ lies here.~
+~
+0 20 16385 0
+2050 2049 2051 0
+0 0 0
+#2050
+gleaming silver blade~
+a `#`Wsilver blade`^~
+A long `#`Wsilver blade`^ from a broken sword lies here.~
+~
+0 3 16385 0
+2049 2049 2051 0
+0 0 0
+#2051
+sword wolvesbane~
+`#`Sa Sword called `R"`WThe Wolvesbane`R"`^~
+A long gleaming sword with a black hilt lies here.~
+~
+5 294133763 8193 0
+1 10 50 3 6417 0
+0 0 0
+#2052
+skeletal door~
+an skeletal door~
+A skeletal door leading out is here.~
+~
+0 1367883776 0 0
+2060 0 0 0
+0 0 0
+#2053
+heavy ball chain shackles~
+a set of heavy iron shackles~
+Hanging off the wall is a set of heavy `#`siron`^ shackles.~
+~
+12 1350844416 0 0
+2 2000 264484 100 100 0
+10000 0 0
+E
+shackles ~
+Glancing at these shackles, they appear very thick and harsh. Strong enough
+to hold just about any creature. There is a chain connected to a collar as
+well heavy chains connected to wrist and ankle holds.
+~
+#2054
+armor adamantium fullplate~
+`#`Wadamantium`^ fullplate armor~
+A set of `#`Wadamantium`^ fullplate armor lies here.~
+~
+9 0 1025 0
+16 20 19 18
+0 100 0
+A
+2 3
+A
+1 5
+#2055
+large glowing stone~
+a humongous stone~
+A humongous stone is here.~
+~
+12 1166819351 0 0
+1 1000 144 100 -75 0
+0 0 0
+E
+stone ~
+You see a humongous stone resting here. It is a blackish green color and is
+made of an unknown substance. The stone is partially embedded into the
+ground where it sits and there is a light greenish glow about it. If you get
+close enough and listen closely you can hear a low humming noise coming from
+it.
+~
+#2056
+tiny jagged stone pebble~
+`#`wa tiny `sblackish `ggreen `wpebble sized rock`^~
+`#`wA tiny `sblackish `ggreen `wpebble sized rock is sitting here.`^~
+~
+9 1166819351 16385 0
+-100 -100 -100 -100
+0 0 0
+E
+stone ~
+You are looking at a tiny jagged stone the size of a pebble. It is a
+blackish green color and is made of an unknown substance. There is a light
+greenish glow about it and it is humming slightly. It looks like it has
+broken off of a larger stone somewhere.
+~
+A
+0 0
+#2057
+wooden potion cabinet clan estate~
+a tall wooden potion cabinet~
+`#`yA tall wooden potion cabinet is here`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2058
+clan estate weapon rack ~
+a large steel weapon rack~
+`#`sA large steel weapon rack is here`^~
+~
+15 294146048 0 0
+2000 0 0 2000
+1000 0 0
+#2059
+clan estate armor rack ~
+a large wooden armor rack~
+`#`yA large wooden armor rack is here`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2060
+carriage hell~
+the `#`RH`rell `RC`rarriage `wof `SIxliam`^~
+A carriage made of human bone pulled by six nightmares is here.~
+~
+0 1351368724 0 0
+2001 10000 31 0
+0 0 0
+#2061
+storage shelf junk clan estate~
+a storage shelf for junk~
+`#`yA storage shelf for junk`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2062
+tall wooden clothing rack clan estate~
+`#`ra tall wooden clothing rack`^~
+`#`ra tall wooden clothing rack is here`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2063
+name tall rounded wooden jewelry case clan estate~
+`#`ca tall rounded wooden jewelry case`^~
+`#`ca tall rounded wooden jewelry case is here.`^~
+~
+15 277368832 0 0
+2000 0 0 2000
+1000 0 0
+#2064
+candy heart~
+a `#`?candy`^ heart~
+A `#`?candy`^ heart lies here.~
+~
+19 268435456 16385 0
+6 6 0 0
+1 1 0
+E
+candy heart~
+A candy heart is here. Upon it is written a cute declaration.
+~
+#2080
+heart quest remort scroll~
+`#`wa scroll of the `RH`re`Ra`rr`rt `WQ`wu`We`ws`Wt`^~
+`#`wa scroll of the `RH`re`Ra`rr`rt `WQ`wu`We`ws`Wt lies here.`^~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+remort quest scroll parchment~
+Bring me these items that I require. `1 They are spread throughout the realm. `1 You may ask IC for help in finding these objects. `1 Put all of them in a bag of some sort and give them to me when you are
+done. `1 `1 1. A heart of fire. `1 2. A large heart-shaped ruby. `1 3. A heart-shaped medallion. `1 4. A tiny heart-shaped sticky gem. `1 5. A gold heart-shaped necklace. `1 6. A heart shaped sugar candy OR a heart shaped box of sweets. `1 `1 Good luck!  Delandria.
+~
+#2081
+emerald quest remort scroll~
+`#`wa scroll of the `GE`gm`Ge`gr`Ga`gl`Gd `WQ`wu`We`ws`Wt`^~
+`#`wa scroll of the `GE`gm`Ge`gr`Ga`gl`Gd `WQ`wu`We`ws`Wt lies here.`^~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+remort quest scroll parchment~
+Bring me these items that I require. `1 They are spread throughout the realm. `1 You may ask IC for help in finding these objects. `1 Put them all in a bag of some sort and give them to me when you are done. `1 `1 1. `#`Y(Glowing)`^ an emerald ring (HAS to be `#`YGLOWING`^) `1 2. A golden goblet adorned with emeralds. `1 3. An emerald bracelet. `1 4. A large, uncut emerald gemstone. `1 5. An emerald sword. `1 6. An emerald mace. `1 `1 Good Luck!  Delandria.
+~
+#2082
+shoe quest remort scroll~
+`#`wa scroll of the `gs`yh`go`ye `yq`gu`ye`gs`yt`^~
+`#`wa scroll of the `gs`yh`go`ye `yq`gu`ye`gs`yt `wlies here.`^~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+remort quest scroll parchment~
+Bring me these items that I require. `1 They are spread throughout the realm. `1 You may ask IC for help in finding these objects. `1 Put them all in a bag of some sort and give them to me when you are done. `1 `1 1. A pair of leather boots. `1 2. The Champion's boots. `1 3. A pair of Uggboots. `1 4. A pair of dancing slippers. `1 5. Some lizardman hunting shoes. `1 6. A pair of black leather boots. `1 `1 Good luck!  Delandria.
+~
+#2083
+wand quest remort scroll~
+`#`wa scroll of the `Cw`ca`Cn`cd `Wq`wu`We`ws`Wt`^~
+`#`wa scroll of the `Cw`ca`Cn`cd `Wq`wu`We`ws`Wt lies here.`^~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+remort quest scroll parchment~
+Bring me these items that I require. `1 They are spread throughout the realm. `1 You may ask IC for help in finding these objects. `1 Put them all in a bag of some sort and give them to me when you are done. `1 `1 1. A Wand of a Thousand Wishes. `1 2. A Sparkling Wand. `1 3. A Radiant Scarlet Wand. `1 4. A Blazing Sun Wand. `1 5. A Small Green Wand. `1 6. A Wooden Wand. `1 `1 Good Luck!  Delandria.
+~
+#2084
+white remort quest scroll~
+`#`wa scroll of the `WW`wh`Wi`wt`We `wQuest`^~
+`#`wa scroll of the `WW`wh`Wi`wt`We `wQuest lies here.`^~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+white remort quest scroll~
+Bring me these items that I require.
+They are spread throughout the realm.
+
+a figurine of a white dragon
+a glowing white potion
+a white cloak
+a white string-wrapped ring
+a delicate white lace ribbon
+a little white pill
+a white biscuit
+a white-gold bracelet
+
+You may ask IC for help in finding these objects.
+Put them all in a bag of some sort and give them to me when you are done.
+YOU MUST GO AND RETRIEVE THE OBJECTS YOURSELF.
+
+Have fun! Delandria
+~
+#2105
+shimmering magic portal 39343~
+a magic portal~
+A magic portal `#`Ws`Ch`ci`Wm`cm`Ce`cr`Ws`^ here.~
+~
+46 64 0 0
+-1 0 0 30009
+0 0 0
+#2110
+potatoes~
+some `#`Wpotatoes`^~
+Some `#`Wpotatoes`^ are growing here.~
+~
+26 0 16385 0
+90 72 29 -1 71 0
+10 16 0
+#2113
+a long oak desk~
+a long oak desk sits here.~
+Here is a long oak desk, nicely polished  with a beautiful finish...with lots of papers on it.~
+~
+15 1351094273 0 0
+10000000 2 0 10000000
+10000 0 0
+#2120
+stat boosting quest token~
+`#`RSTAT `BBOOSTING `YTOKEN`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2121
+2000 xp quest token~
+`#`?2000 exp `?Token`^~
+A quest token lies here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2122
+1000 exp quest token~
+`#`?1000 `?exp `?Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2123
+500 exp quest token~
+`#`?500 `?exp `?Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1401688193 1 0
+0 0 0 0
+0 0 0
+#2124
+100 exp quest token~
+`#`?100 `?exp `?Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2125
+50 exp quest token~
+`#`?50`? exp`? Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2126
+nifty surprise quest token~
+`#`?Nifty `?Surprise`? Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2127
+sword slayer~
+a sword called `#`YS`Ca`Yb`Cl`Ye`c-`YS`Cl`Ya`Cy`Ye`Cr`^~
+An enchanted sword with the script `#`YS`Ca`Yb`Cl`Ye`c-`YS`Cl`Ya`Cy`Ye`Cr`^ etched in the blade is here.~
+~
+5 294387713 8193 0
+1 10 5 3 1 0
+0 0 0
+#2128
+20k gold quest token~
+`#`?20K `?Gold `?Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2129
+10k gold quest token~
+`#`?10K `?Gold`? Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2130
+1k gold quest token~
+`#`?1K `?Gold `?Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2131
+500 gold quest token~
+`#`?500 `?Gold`? Token`^~
+A quest token is here, waiting to be found.~
+~
+0 1384910977 1 0
+0 0 0 0
+0 0 0
+#2136
+ammo clip 7.62~
+a 50 round clip of 7.62mm ammo~
+A large 50 round ammo clip is here.~
+~
+0 294129665 1 0
+50 0 0 0
+0 0 0
+#2137
+egg easter~
+an `#`?E`?a`?s`?t`?e`?r`^ egg~
+An `#`?E`?a`?s`?t`?e`?r`^ egg lies here.~
+~
+9 8388608 16385 0
+0 0 0 0
+0 0 0
+#2138
+arrow love~
+a mug of `#`ggreen`^ beer~
+A mug of `#`ggreen`^ beer lies here, collecting dust.~
+~
+17 8388608 16385 0
+20000 20000 1 0
+0 0 0
+#2188
+clue four clue-by-four~
+a clue-by-four~
+A clue-by-four rests here, ready to smack down some mortals.~
+~
+5 75759683 8193 0
+0 50 50 3 14543 0
+0 0 0
+#2189
+torn parchment tacked wall~
+a torn parchment~
+A torn parchment is here, tacked to the wall.~
+~
+0 25165825 0 0
+0 0 0 0
+0 0 0
+E
+torn parchment tacked wall~
+`#`sYou unroll the letter and read in common script.  `1`1 `R"So You're In Jail"`^`1 A supportive pamphlet by Koslow Galamar`1`1 So, you're in jail.  Maybe you died and forgot to put your weapons away
+before coming back to the world of the living maybe you bought a new weapon
+at the weaponsmith and couldn't wait to get it in your hand however it
+happened, you're now in jail, and I'm sure you're pretty bummed.  `1`1 So where do we go from here?  Well, keep in mind that you're all alone.
+Nobody's watching you, unless they're feeding you.  So what's to stop you
+from having a little fun now and then?  Over the course of my own time in
+prison I've compiled a few suggestions to help pass the time.  `1`1 `W1: Crate Peek-A-Boo!  `^ `1 This one's my favourite.  See those crates sitting nearby?  You know,
+those things you sit on, or look in sometimes when you're curious.  Well,
+guess what?  Just because they're a simple box doesn't mean they can't be
+F-U-N.  Try to figure out your jailer's schedule next time you're in the
+hole.  Just before lunch time, climb into the crate, and when he peeks in
+and sees you're not there, hop out and go PEEK A BOO!  Really loud!  This
+really makes the guards angry, so if you're really aching for that stale
+piece of bread, you might not want to risk it.  But boy is it fun!  `1`1 `W 2: Gone Puddle Fishin'!  `^`1 This one's my favourite for sure!  What's the only thing more relaxing
+than toiling in a jail cell?  Why, fishing, of course!  I actually stole
+this from a young lady I saw doing it once.  Pull up a crate, brandish your
+fishing pole (or IMAGINARY fishing pole!!)  , and let the hilarity commence!
+ It's especially fun to blame your shortcomings on the jailer for "scaring
+all the fish away."  They might even give you an early release, or testify
+at your murder trial for an insanity plea.  It all depends how things go!
+`W3: Stale Bread Jenga!  `^`1 Perfect for two players.  This one is my all-time favourite!  If you
+thought EATING stale bread was fun, wait until you discover all the other
+ways it can be used!  If you feel like hanging out in there for a while, and
+a friend happens to pop in, challenge them to a game of stale-bread jenga!
+Make sure all the breads are stacked up nicely by the time they arrive or
+they might not want to help you with the setup.  It's always good to be
+prepared for new cellmates (or should I say PLAYMATES!!!)  `W4: Invent your
+own!  `^`1 There's an entire universe waiting for you in the Tulgard jail cell.  From
+water dripping, to stale bread piling up, to great big crates just WAITING
+to be explored...  There's a thousand ways to spend your hour in jail.  You
+might even end up coming back for more sometime.  Remember, use your
+imagination, and enjoy!  `1`1 Signed,`1 Koslow the Mentally Stable
+~
+#2191
+scroll shadow quest remort~
+a `#`sScroll`^ of the `WS`shadow `WQ`suest`^~
+A scroll of the shadow quest lies here.~
+~
+0 328765569 1 0
+0 0 0 0
+0 0 0
+E
+remort scroll shadow quest ~
+If it is knowledge and wisdom and power you seek,
+fetch me these items and then you shall receive.
+
+`#`sa book of riddles
+(humming) the Book of the Wise
+Selenia's Book of Wise Sayings
+(Glowing) a Book of Legends
+the shadow shield
+a translucent Shadow Cloak
+(glowing) (humming) the Circlet of Shadows
+(chaos) (wicked) (translucent) Claw of the Shadow Dragon`^
+
+They are spread throughout the realm.
+You may ask IC for help in finding these objects.
+Note to IMM when you are done and we will continue on.
+~
+#2192
+cake wedding~
+a piece of `#`Ww`we`Wd`wd`Wi`wn`Wg`^ cake~
+A piece of `#`Ww`we`Wd`wd`Wi`wn`Wg`^ cake, obviously forgotten.~
+~
+19 0 16385 0
+5 5 0 0
+0 0 0
+#2193
+eyes foresight~
+eyes of foresight~
+Eyes of Foresight rest here, waiting to be worn.~
+~
+9 0 4194305 0
+100 100 100 100
+0 0 0
+A
+0 0
+A
+0 0
+#2194
+piece meteorite~
+a piece of meteorite~
+A piece of `#`cmeteorite`^ lies here, cluttering the area.~
+~
+0 8388611 0 0
+0 0 0 0
+9000 0 0
+#2195
+werewolf protest sign~
+a `#`Sw`se`Sr`se`Sw`so`Sl`sf`^ protest sign~
+Wolves Are People Too! Stand up for the rights of your wolf brethren!  Do not let them oppress the furry ones that inhabit our world!~
+~
+13 0 16385 0
+0 0 0 0
+0 0 0
+#2196
+clover four-leaf leaf~
+a `#`gfour-leaf`^ clover~
+A `#`gfour-leaf`^ clover lies here, collecting dust.~
+~
+0 294395968 16385 0
+0 0 0 0
+22 0 0
+#2197
+plush silk couch~
+a plush silk couch~
+This plush couch looks as though it's soft to the touch and quite inviting.~
+~
+12 1082134593 0 0
+2 9999 1170 100 100 0
+500 0 0
+#2198
+desk~
+a long oak desk~
+A beautifully polished oak desk sits here cluttered with papers.~
+~
+12 1082659137 0 0
+1 999999 3180106 100 100 0
+0 0 0
+#2199
+water~
+`#`Cwater`^~
+`#`Cwater`^~
+~
+17 0 1 0
+10 10 0 0
+0 0 0
+#0
+
+#ROOMS
+#2000
+Realm of Ixliam~
+Flames leap up from huge chunks of basalt rock that make up this landscape
+of nightmares.  Violent screams of pain can be heard in the distance,
+bringing visions of unending torment to your mind.  The ground and floor of
+this realm are made of the skulls and bones of the damned, all leading
+towards the large throne made of skulls sitting here.
+~
+0 1045717132 17 0 0 0
+D5
+~
+~
+0 0 30000 0
+S
+#2001
+Inside the Hell Carriage~
+The inside of the carriage is made of human bones arranged in a large
+room-shaped pattern. A large door lies to the north, leading to the drivers
+seat.
+
+Type BOARD DOOR to leave.
+~
+0 38535176 18 0 0 0
+D0
+~
+door~
+1 0 2008 0
+S
+#2002
+Delandria's Pit~
+~
+0 104898628 0 0 0 0
+S
+#2003
+An Empty Room~
+~
+0 840474752 0 0 0 0
+S
+#2005
+JAIL~
+You are here because you have done something wrong.  The imms will be with
+you shortly.
+~
+0 1071424652 0 0 0 0
+S
+#2007
+Kyarra's Place of Stuff~
+`sA pretty stuffed room.  The walls are colored `mpurple`s and `Sblack`s with a `Mpink`s
+boarder on both the ceiling and floors.  There's a long oak desk that sits
+in the enter of the room, covered messily with papers.  Against one of the
+black walls, there is a `Mbright pink couch`s.  The furthest wall appears to be
+a blackboard with colorful, poorly written words that read: `1 `1 `MTO DO LIST: `1 `1 `mRecommend for memory garden: `1 `1 `SGalaphile, Rosaline, Roalyn, Myne, Mishka, Exal, Sable , Byk, Brell, Ohri,
+Lucia  `1
+~
+0 777822220 0 0 0 0
+D0
+~
+~
+0 0 2007 0
+D1
+~
+~
+0 0 2007 0
+D2
+~
+~
+0 0 2007 0
+D6
+~
+~
+0 0 2007 0
+D7
+~
+~
+0 0 2007 0
+D8
+~
+~
+0 0 2007 0
+D9
+~
+~
+0 0 2007 0
+S
+#2008
+Driver's Seat~
+You are in the drivers seat of the Hell Carriage, commanding a team of six
+flame-breathing nightmare horses.
+~
+0 38543372 18 0 0 0
+D2
+~
+~
+1 0 2001 0
+S
+#2009
+Neena's Office~
+This office is decorated with brilliant blue hues and clean whites. The
+fragrant scent of flowers wafts through the air. Shelves of dog-earred books
+line the wall. The books are obviously well read and treasured. A silver
+plated telescope sits in one corner. `1 `1 80646 beginning vnum `1 80251 - 80300 dreamer cottage `1 64100-64399 Court of Petals `1 1450 -1499 Knighthire Manse - formerly Garik's estate `1 `1Finish Endomer
+~
+0 1048576 0 0 0 0
+E
+telescope ~
+You peer through the telescope and see a white, naked ass with the letters
+"W.O.T.L" drawn in large, black ink. What a sight!
+~
+S
+#0
+
+#RESETS
+D 0 2001 0 1  ; Door: #2001 Inside the Hell Carriage/North => closed
+D 0 2008 2 1  ; Door: #2008 Driver's Seat/South => closed
+O 0 418 0 2000  ; Object: #418 (not in area) => #2000 Realm of Ixliam
+O 0 28726 0 2000  ; Object: #28726 (not in area) => #2000 Realm of Ixliam
+O 0 2052 0 2001  ; Object: #2052 an skeletal door => #2001 Inside the Hell Carriage
+O 0 27041 0 2001  ; Object: #27041 (not in area) => #2001 Inside the Hell Carriage
+O 0 3906 0 2002  ; Object: #3906 (not in area) => #2002 Delandria's Pit
+O 0 3911 0 2002  ; Object: #3911 (not in area) => #2002 Delandria's Pit
+O 0 2197 0 2007  ; Object: #2197 a plush silk couch => #2007 Kyarra's Place of Stuff
+O 0 2198 0 2007  ; Object: #2198 a long oak desk => #2007 Kyarra's Place of Stuff
+O 0 2198 0 2007  ; Object: #2198 a long oak desk => #2007 Kyarra's Place of Stuff
+O 0 2008 0 2007  ; Object: #2008 A pair of `#`MHOT`^ pants! => #2007 Kyarra's Place of Stuff
+O 0 2031 0 2008  ; Object: #2031 a steering wheel => #2008 Driver's Seat
+O 0 18176 0 2008  ; Object: #18176 (not in area) => #2008 Driver's Seat
+S
+
+#SHOPS
+2007 0 0 0 0 0 100 100 0 23 ; a strange old malkatar male
+0
+
+#SPECIALS
+S
+
+#$

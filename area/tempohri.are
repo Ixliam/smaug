@@ -1,0 +1,182 @@
+#AREA        Temple of Dorenne~
+
+
+
+#VERSION     11
+#AUTHOR      ohri~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7510
+priestess~
+a priestess of `#`GDorenne`^~
+A priestess of the temple is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 200 C
+130 43 -100 13d16+630 13d17+84
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7510
+altar~
+an altar to `#`GDorenne`^~
+An altar to `#`GDorenne`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7511
+amulet dorenne~
+an amulet of `#`GDorenne`^~
+An amulet with a tree on it is here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7512
+tiny spring~
+a tiny spring~
+A tiny natural spring flows along the west wall here.~
+~
+25 64 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7510
+Entrance to the Temple~
+~
+Large white steps lead up into the magnificent temple before you.  Several 
+stone columns reach high into the air, supporting the roof of the temple.  
+An exotic carved relief winds its way around the edge of the roof, showing 
+ancient victories of the gods of the realm.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7511
+D2
+~
+~
+0 0 3030
+R M 0 7510 2 7510
+  R E 0 7511 0 3
+S
+#7511
+Lighted Hallway~
+~
+Twelve large fluted marble columns line this hallway running north and 
+south.  The floor is made from the finest white marble, with intricate 
+designs etched into the stone with pure gold.  On each column a large brass 
+scone holds a burning torch, filling the cooridor with light.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7512
+D2
+~
+~
+0 0 7510
+R M 0 7510 2 7511
+  R E 0 7511 0 3
+S
+#7512
+Before the Altar~
+~
+A large white altar lies before you, its surface gleaming in with light.  A 
+large fire burns on top of it, filling the room with the smell of burning 
+incense.  A large offering box is along the east wall, ready to accept 
+donations to the temple.  `1 The entire room seems to hold items that sanctum nature and fertility.  
+Murals on the stone walls depict local animal families, such as a deer 
+grooming its fawn, while the buck is alert in the background.  Shrubs and 
+flowers are placed elegantly around the room, watered by the Priestess' of 
+Dorenne.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 7511
+R O 0 7510 0 7512
+R M 0 7510 2 7512
+  R E 0 7511 0 3
+R O 0 7512 0 7512
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

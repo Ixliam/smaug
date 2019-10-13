@@ -1,0 +1,84 @@
+#AREA        Clan Potions~
+
+
+
+#AUTHOR      None~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#1000
+off white potion haste~
+an off white potion of `#`whaste`^~
+A white potion lays here.~
+~
+10 0 8
+0 0 0 0
+0 100 1
+#1001
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+~
+10 0 8
+0 0 0 0
+0 500 1
+#1002
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 0 0 0
+0 100 1
+#1004
+refreshing potion~
+a refreshing potion~
+A refreshing potion is here on the ground.~
+~
+10 0 8
+0 0 0 0
+0 120 1
+#1019
+portal Throtyl~
+a portal to Throtyl~
+A portal to Nereka stands here~
+~
+29 0 16
+3072 2 27003 0
+0 0 1
+#1020
+portal tulgard~
+a portal to Tulgard~
+A portal to Tulgard stands here.~
+~
+29 0 16
+3072 2 3000 0
+0 0 1
+#0
+
+#ROOMS
+#0
+
+#RESETS
+S
+
+#SHOPS
+0
+
+
+
+
+
+#$

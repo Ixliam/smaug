@@ -1,0 +1,2929 @@
+#AREA        Fire Giant Castle~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1800
+giant troll~
+a giant troll~
+A giant troll is sleeping here.
+~
+Before you is a giant troll.  It is larger than most trolls of the realm
+standing about 11 feet tall.  Its skin reddish brown in color and covered
+with warts and bumps.  It has evil looking red-rimmed eyes that are sunken
+into its face.  The troll has a bit of a pot belly and is hunched over.  Its
+long , muscled arms almost drag on the ground when it is walking.  The troll
+has a strong stench that would drive even flies away.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+73 -1 -45 18d11+295 8d10+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1801
+young fire giant guard black skinned~
+a fire giant guard~
+A young, black skinned giant is standing here.
+~
+Before you stands a young fire giant guard.  The guard is tall at almost
+18 feet, but squat and bulky.  He looks something like an oversized dwarf. 
+The fire giant has large, corded muscles and coal black skin.  The scowl on
+his face and bright orange hair make him look very mean.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+63 0 -47 8d11+385 9d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1802
+giant troll guard~
+a giant troll guard~
+A giant troll guard is walking about.
+~
+Before you is a giant troll.  It is larger than most trolls of the realm
+standing about 11 feet tall.  Its skin reddish brown in color and covered
+with warts and bumps.  It has evil looking red-rimmed eyes that are sunken
+into its face.  The troll has a bit of a pot belly and is hunched over.  Its
+long , muscled arms almost drag on the ground when it is walking.  The troll
+has a strong stench that would drive even flies away.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+73 -1 -45 18d11+295 8d10+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1803
+fire hound large fierce red~
+a large fire hound~
+A large, fierce looking hound with red fur is chained up here.
+~
+The large fire hound before you is a fiery creation from another plane of
+existence.  It has rust-red fur and red glowing eyes.  There are small black
+spots on the hounds body.  Its sharp teeth and tongue are soot black in
+color.  A strong sulfur odor is coming from the fire hound.  
+~
+0
+Clanname none~
+0
+0
+65 32768 -600 C
+75 1 -43 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1804
+ettin large two-headed giant~
+an ettin~
+A large two-headed giant is sitting here.
+~
+You are looking at a large, two-headed giant.  The giant has light brown
+skin that appears to be very soiled.  The two fierce looking heads have
+long, stringy unkempt hair and large, watery eyes.  Their noses look more
+like piggish snouts.  They have large mouths with disgustingly yellow teeth
+many of which are missing.  The giant stinks badly apparently not having
+taken a bath in quite some time, if ever.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+77 1 -54 8d12+400 9d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1805
+cyclops large one-eyed giant~
+a cyclops~
+A large, one-eyed giant is resting here.
+~
+Before you is a monstrous giant with only one eye in the center of its
+head.  The giant is over 20 feet tall and looks very muscular.  The eye is
+very large and deep red in color making the giant look quite angry.  This
+warrior wears now armor, but probably doesnt need it because it has a very
+thick hide.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+75 -1 -56 9d12+410 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1806
+fire giant warrior large bulky black skinned giant~
+a fire giant warrior~
+A large and bulky black skinned giant is standing here.
+~
+Before you stands a large fire giant warrior.  The warrior is tall at
+almost 19 feet, but squat and bulky.  He looks something like an oversized
+dwarf.  The fire giant has large, corded muscles and coal black skin.  The
+scowl on his face and bright orange hair make him look very mean.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+77 0 -58 9d12+430 10d10+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1807
+ancient red dragon huge old~
+an ancient red dragon~
+A huge, old looking red dragon is resting here.
+~
+Before you is an enormous red dragon.  Its body is almost 150 feet long
+with its tail being just as long.  The dragons body is covered with thick
+red scales that are as hard as metal.  The scales have a smooth, dull
+finish.  This dragon looks quite old by dragon standards.  It has large
+intelligent- looking eyes and long, sharp teeth.  The dragons wings are so
+large that they could shelter a small army from rain.  Heat radiates from
+the dragon.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+83 2 -58 9d12+430 10d11+49
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1808
+fire giant king huge noble black skinned giant~
+the fire giant king~
+A huge, noble looking black skinned giant is sitting here.
+~
+Before you stands huge, noble looking fire giant.  The giant is tall at
+more than 20 feet, but squat and bulky.  He looks something like an
+oversized dwarf.  The fire giant has large, corded muscles and coal black
+skin.  The scowl on his face and bright orange hair make him look very mean.
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+91 1 -61 9d13+445 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1809
+fire giant witch doctor cloaked black skinned~
+a fire giant witch doctor~
+A cloaked, black skinned giant is here.
+~
+Before you stands large, cloaked fire giant.  The giant is tall at more
+than 18 feet, but squat and bulky.  He looks something like an oversized
+dwarf.  The fire giant has large, corded muscles and coal black skin.  The
+scowl on his face and bright orange hair make him look very mean.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+86 -1 -57 8d12+415 9d11+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1810
+young warrior~
+a young human maiden~
+A young warrior is being kept prisoner here.
+~
+Tsher young woman, once a warrior, is now looking beaten and worn.  She 
+perhaps came here as a brave warrior seeking to destroy the giants, but her 
+battle ended in misfortune, as she is now kept as a prisoner.  
+~
+0
+Clanname none~
+0
+0
+1 0 400 C
+1 -2 10 1d2+1 1d2+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1811
+fire elemental flame animated huge~
+a fire elemental~
+A huge animated flame is moving about here.
+~
+Before you is what appears to be a huge flame that is animated with life.
+The flame is about 12 feet tall.  It is quite bright and emanates a great
+deal of heat.  There appears to be a face in the flame but with all the
+flickering, it is hard to make out.  Tiny balls of fire periodically shoot
+out of the large flame and arc out a couple feet falling to the ground.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+79 3 -61 9d12+425 9d12+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1812
+fire elemental flame animated huge~
+a fire elemental~
+A huge animated flame is moving about here.
+~
+Before you is what appears to be a huge flame that is animated with life.
+The flame is about 12 feet tall.  It is quite bright and emanates a great
+deal of heat.  There appears to be a face in the flame but with all the
+flickering, it is hard to make out.  Tiny balls of fire periodically shoot
+out of the large flame and arc out a couple feet falling to the ground.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+81 3 -53 8d12+410 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1813
+hermit mage old man~
+a hermit mage~
+A tall old man sits on a large rock here, twiddling a ball of fire.
+~
+This man has to be at a hundred years old.  His skin is covered in wrinkles, 
+so many in fact his face looks like that of a tapestry of spider webs.  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+110 0 -79 11d14+525 11d13+61
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1814
+a huge fire giant guard black skinned~
+a huge fire giant guard~
+A huge, black skinned giant is standing here, abusing the prisoner.
+~
+This huge fire giant, stands at least twenty five feet tall.  He looks like 
+a gargantuan dwarf in comparison and has coal black skin.  His eyes burn 
+with a deep fiery ember and his sinister features shows only so much as to 
+what he really maybe.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+96 1 -69 10d13+480 10d11+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1815
+fire giant warrior large bulky black skinned giant~
+a fire giant warrior~
+A large and bulky black skinned giant is standing here.
+~
+Before you stands a large fire giant warrior.  The warrior is tall at
+almost 19 feet, but squat and bulky.  He looks something like an oversized
+dwarf.  The fire giant has large, corded muscles and coal black skin.  The
+scowl on his face and bright orange hair make him look very mean.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+87 0 -58 9d12+430 10d10+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1816
+fire elemental flame animated huge~
+a fire elemental~
+A huge animated flame is moving about here.
+~
+Before you is what appears to be a huge flame that is animated with life.
+The flame is about 12 feet tall.  It is quite bright and emanates a great
+deal of heat.  There appears to be a face in the flame but with all the
+flickering, it is hard to make out.  Tiny balls of fire periodically shoot
+out of the large flame and arc out a couple feet falling to the ground.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+83 3 -61 9d12+425 9d12+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1800
+huge spiked breast plate~
+a spiked breast plate~
+A huge, spiked breast plate is here.~
+~
+9 64 8
+60 60 23 0 0 0 0
+20 1900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1800 spike breast plate~
+This is a huge, spiked breast plate.  The spikes are on the shoulders and
+extend over a foot into the air.  The plate is made of steel that has a blue
+hue.  
+~
+#1801
+huge open faced helmet~
+an open-faced helmet~
+A huge, open-faced helmet is here.~
+~
+9 64 8
+60 60 18 0 0 0 0
+7 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1801 open faced helmet~
+This is a huge, open-faced helmet.  The helmet is bowl shaped and extends
+down to protect the sides and back of the neck.  It is made of steel that
+has a blue hue.  
+~
+#1802
+green brilliant floating stone~
+a `#`Gbrilliant green`^ stone~
+A `#`Gbrilliant green`^ stone is floating here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1802 green stone~
+This is a stone that seems to float on its own.  The stone it transparent 
+and green in color.  The stone give off light and is shining brightly.  
+~
+#1803
+pair black leather gloves~
+a pair of `#`Sblack`^ leather gloves~
+A pair of `#`Sblack`^ leather gloves lie here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1803 black leather gloves~
+These gloves are made out of leather that has been stained black.  The 
+gloves are very light.  The palm side of the gloves seems to grip very well. 
+ 
+~
+#1804
+large round shield~
+a large round shield~
+A large round shield is here.~
+~
+9 0 8
+10 10 22 0 0 0 0
+3 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1804 large round shield~
+This is a large, round shield.  The shield is fairly heavy and made out of 
+steel.  There is a round spike protruding from the center of the shield.  
+~
+#1805
+crystalline wand~
+a `#`Wcrystalline`^ wand~
+A `#`Wcrystalline`^ wand lies here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+1805 crystalline wand~
+This is a brightly glowing wand.  The wand is clear and completely 
+transparent.  There is a faint humming sound coming from the wand.  
+~
+#1806
+smelly ragged loin cloth~
+a smelly, ragged loin cloth~
+Before you is a pile of cloth emanating an awful stench.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1806 loin cloth ragged~
+Before you is a foul looking loincloth.  The cloth is torn and ready to fall 
+apart.  It has several stains on it.  The loincloth has a pungent odor coming 
+from it.
+~
+E
+1806 stain ~
+Dark colored stains cover this cloth.  Perhaps they are the source of the
+odor.  It does not look like any amount of washing will get the stains out. 
+~
+#1807
+huge spiked club mace~
+a huge, spiked club~
+Before you is a huge, spiked club.~
+~
+5 0 4
+12 97 134 0 0 0 0
+3 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1807 club ~
+This club looks like it was made from the trunk of a young tree.  There
+are several rusted spikes protruding from the crude weapon.  It is quite
+heavy, and not well balanced.  
+~
+#1808
+scattered gold coins~
+some gold coins~
+There are some gold coins scattered about here.~
+~
+20 0 16
+41 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1809
+glowing fiery red cloak~
+a `#`Rfiery red`^ cloak~
+A `#`Rfiery red`^ cloak has been left here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+3 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1809 fiery red cloak~
+This is a huge, fiery red cloak that is glowing brightly.  The cloak is
+made out of a thin cloth material that does not seem to burn no matter how
+hot it gets.  
+~
+#1810
+huge scalemail skirt~
+a huge scalemail skirt~
+A huge scalemail skirt is here.~
+~
+9 64 8
+60 60 13 0 0 0 0
+10 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1810 huge scalemail skirt~
+This is a huge scalemail skirt.  The skirt is quite heavy and would be
+difficult to wear for any normal sized humanoid.  The skirt is made of steel
+that has a blue hue.  
+~
+#1811
+pair huge leather boots~
+a pair of huge leather boots~
+A pair of huge, leather boots is here.~
+~
+9 0 8
+60 60 15 0 0 0 0
+4 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1811 pair huge leather boots~
+These huge boots are made of cured leather.  They are in perfect shape
+and also seem to be glowing.  
+~
+#1812
+huge glowing two-handed sword~
+a huge, glowing two-handed sword~
+Before you is a huge, glowing two-handed sword.~
+~
+5 64 4
+10 116 152 8232 0 0 0
+10 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1812 huge glowing two-handed sword~
+This two-handed sword is gigantic and could only be wielded by the
+strongest of warriors.  It has a long, glowing blade which is made out steel
+that has a blue hue.  
+~
+#1813
+pair huge steel greeves~
+a pair of huge, steel greeves~
+This is a pair of huge, steel greeves.~
+~
+9 0 8
+60 60 22 0 0 0 0
+10 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1813 pair huge steel greeves~
+Before you is a huge pair of steel greeves.  They are quite heavy and
+would be difficult to wear for any normal sized humanoid.  They are made out
+of steel that has a blue hue.  
+~
+#1814
+giant ruby ring~
+a giant `#`rruby`^ ring~
+A giant `#`rruby`^ ring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1814 giant ruby ring~
+This is a huge ruby ring.  The ring is made of gold and has a flawless
+ruby attached.  The ruby is mesmerizing when looked into.  
+~
+#1815
+huge glowing steel bracer~
+a huge, glowing steel bracer~
+Before you is a huge, glowing steel bracer.~
+~
+9 64 8
+60 60 9 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1815 huge glowing steel bracer~
+This is a huge glowing bracer made of steel with a blue hue.  It is so
+large that it could fit around the leg of most men.  
+~
+#1816
+huge steel helmet~
+a huge, steel helm~
+A huge, steel helmet is here.~
+~
+9 0 8
+60 60 17 0 0 0 0
+1 1700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1816 huge steel helmet~
+This is a huge, steel helmet.  The helmet is bowl shaped and extends down
+to protect the sides and back of the neck.  It is in good shape, but it
+looks like it has seen a couple battles in its time.  
+~
+#1817
+huge chainmail tunic~
+a huge chainmail tunic~
+A huge chainmail tunic is here.~
+~
+9 0 8
+55 55 21 0 0 0 0
+1 1780 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1817 huge chainmail tunic~
+This is a huge chainmail tunic.  The chain links are a bit larger and
+thicker than normally used in chain armor, but there is still little room
+for weapons to slip through.  
+~
+#1818
+huge chainmail skirt~
+a huge chainmail skirt~
+A huge scalemail skirt is here.~
+~
+9 0 8
+55 55 12 0 0 0 0
+1 1710 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1818 huge scalemail skirt~
+This is a huge chainmail skirt.  The skirt is quite heavy and would be
+difficult to wear for any normal sized humanoid.  The skirt is made of steel
+chains that are a bit larger and thicker than normally used in chain armor,
+but there is still little room for weapons to slip through.  
+~
+#1819
+pair huge leather sandals~
+a pair of huge, leather sandals~
+A pair of huge, leather sandals is here.~
+~
+9 0 8
+55 55 14 0 0 0 0
+1 1710 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1819 huge leather sandals~
+Before you is a pair of huge, leather sandals.  They are so big that they
+would not fit the feet any normal sized humanoid.  The sandals appear to be
+in remarkably good condition.  
+~
+#1820
+huge two-handed sword~
+a huge two-handed sword~
+Before you is a huge two-handed sword.~
+~
+5 0 4
+8 127 169 33 0 0 0
+1 1740 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1820 huge two-handed sword~
+This two-handed sword is gigantic and could only be wielded by the
+strongest of warriors.  It has a long blade which is made out steel that has
+a blue hue.  
+~
+#1821
+huge steel bracer~
+a huge steel bracer~
+Before you is a huge steel bracer.~
+~
+9 0 8
+55 55 8 0 0 0 0
+1 1700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1821 huge steel bracer~
+This is a huge bracer made of steel with a blue hue.  It is so large that
+it could fit around the leg of most men.  
+~
+#1822
+huge studded leather tunic~
+a huge studded leather tunic~
+A huge studded leather tunic is here.~
+~
+9 0 8
+60 60 19 0 0 0 0
+1 1450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1822 huge studded leather tunic~
+This is a huge studded leather tunic.  The leather looks quite thick and
+strong.  The tunic is in good condition.  
+~
+#1823
+huge studded leather skirt~
+a huge studded leather skirt~
+A huge studded leather skirt is here.~
+~
+9 0 8
+45 45 11 0 0 0 0
+1 1450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1824
+huge black cloak~
+a huge, `#`Sblack`^ cloak~
+A huge, `#`Sblack`^ cloak lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1824 black cloak~
+This is a huge, black cloak that seems to absorb light.  The cloak is
+made out of a thin cloth material that does not seem to burn no matter how
+hot it gets.  
+~
+#1825
+long skull headed staff~
+a long `#`wskull headed`^ staff~
+A long `#`wskull headed`^ staff lies here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+1825 skull head staff~
+This staff is very long and thick.  There is a humanoid skull attached to
+the end of the staff.  The wood of the staff is smooth and has no visible
+imperfections.  
+~
+#1826
+gold pendant~
+a `#`Ygold`^ pendant~
+A `#`Ygold`^ pendant has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1826 shiny gold pendant~
+This is a small, shiny gold pendant.  It has an insignia of a falcon
+engraved in it.  
+~
+#1827
+large catapult stone wheels~
+a large catapult~
+Some large catapults with stone wheels are here.~
+~
+12 0 8
+7500 51492 50 100 0 0 0
+200 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1827 large catapult stone wheels~
+The catapults here are quite large and look like they could hurl a handful of 
+men at a time.  They have stone wheels that could easily crush a man unlucky 
+enough to get caught under them.
+~
+#1828
+large crossbow device~
+a large crossbow device~
+Some large crossbow devices are here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1828 large crossbow device~
+These crossbow devices appear to fire huge missiles the size of a man.  They 
+are much too large and cumbersome to move around let alone take.  
+~
+#1829
+huge stone key~
+a huge stone key~
+A huge stone key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1829 huge stone key~
+This is a huge stone key.  The key is as thick as a humans wrist and is
+quite heavy.  The stone is polished and made of speckled rock; possibly
+granite.  
+~
+#1830
+dirty tattered dress pile fabric~
+a dirty and tattered dress~
+A dirty pile of tattered fabric is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1830 dress ~
+This dress is very soiled and has countless holes torn in it.  It barely 
+conceals anything.  
+~
+#1831
+large rock~
+a large rock~
+A large rock is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1831 rock ~
+This is a large rock that is a grayish color.  It is almost a foot in 
+diameter.  The rock doesn't look like it is all that valuable.
+~
+#1832
+huge stone pillars~
+a huge stone pillar~
+Some huge stone pillars extend high into the air.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1832 stone pillar~
+These are gigantic stone pillars.  The stone they are made out of is grayish 
+tan in color.  The pillars are rather plain, but they look like they could 
+hold up any amount of weight imaginable.  
+~
+#1833
+crates~
+a large wooden crate~
+Some large wooden crates are here.~
+~
+15 0 8
+0 0 500 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1833 crate ~
+Before you are many large wooden crates that are piled up.  Most of them are 
+empty.  
+~
+#1834
+large wooden barrels~
+a large wooden barrel~
+Some large wooden barrels are here.~
+~
+15 0 8
+0 0 500 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1834 barrel ~
+Before you are many large wooden barrels that are piled up.  Most of them 
+are empty.  
+~
+#1835
+grain~
+some grain~
+Some grain is here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1836
+large leather pelt~
+a large leather pelt~
+A large leather pelt is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1836 leather pelt~
+This is a large leather pelt.  Most likely, it was taken from a cow or 
+something bigger yet.  The pelt is a bit worn.  
+~
+#1837
+large iron key~
+a large iron key~
+A large iron key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1838
+smoky quartz shiny black stone warpstone~
+a piece of `#`Ssmoky quartz`^~
+A `#`Sblack coloured`^ stone that shines is sitting here.~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1838 quartz stone~
+This is a black colored stone that is slightly transparent.  The stone gives 
+off a dull shine.  It looks like it might be a gem of sorts, but is not cut 
+very well.  
+~
+#1839
+hard leather pouch~
+a hard leather pouch~
+A hard leather pouch is stuck in the gold here.~
+~
+15 0 8
+5 0 3 100 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1839 leather pouch~
+This is a hard leather pouch.  The pouch is stuck in the gold, but it looks 
+like it can still be opened.  
+~
+#1840
+small ruby~
+a small `#`rruby`^~
+A small `#`rruby`^ has been left here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1840 ruby ~
+This ruby is quite small.  It looks like it is of fair quality.  
+~
+#1841
+onyx ring~
+an `#`Sonyx`^ ring~
+An `#`Sonyx`^ ring has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1842
+wyrm shaped dagger~
+a wyrm shaped dagger~
+A wyrm shaped dagger is here.~
+~
+5 64 4
+9 17 25 1 0 0 0
+1 1750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1842 wyrm dagger~
+This is a wyrm shaped dagger.  The hilt and guard look like the head, body, 
+and wings of a wyrm.  There are tiny rubies set in they eyes of the beast.  
+~
+#1843
+blue colored vial~
+a `#`Bblue`^ coloured vial~
+A `#`Bblue`^ coloured vial is here.~
+~
+15 64 8
+5 0 2 100 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1843 blue vial~
+This vial is blue in color and is transparent.  The glass of the vial is 
+giving off a faint glow.  There is a cork set in the top of the vial.  
+~
+#1844
+rainbow pill~
+a `#`?r`?a`?i`?n`?b`?o`?w `?c`?o`?l`?o`?r`?e`?d`^ pill~
+A `#`?r`?a`?i`?n`?b`?o`?w `?c`?o`?l`?o`?r`?e`?d`^ pill is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+1844 rainbow pill~
+This is a rainbow colored pill.  It is round in shape and quite small.  The 
+coating on the pill is smooth.  It should be easy to swallow.  
+~
+#1845
+redwood staff~
+a `#`rredwood`^ staff~
+A `#`rredwood`^ staff is here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+1845 redwood staff~
+This is a redwood staff.  Half of the staff is sticking out of the gold on 
+the floor, the other half is buried within.  It doesn't look like its going 
+to be possible to get the staff out.  
+~
+#1846
+sword blade~
+a half-buried sword~
+A half-buried sword is here.~
+~
+5 64 4
+14 17 25 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1846 half-buried sword buried~
+The blade of a sword is sticking out of the gold here.  You cannot see any 
+part of the hilt.  The sword looks like it will be impossible to dig out.  
+~
+#1847
+suit platemail plate mail~
+a suit of platemail~
+A suit of platemail is stuck in the gold here.~
+~
+9 64 8
+10 10 22 0 0 0 0
+2 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1847 suit platemail~
+This is a shining suit of platemail.  It looks like it is in remarkably good 
+condition.  The only problem is that half of it is buried within the gold on 
+the floor.  There isn't any easy way to extract it.  
+~
+#1848
+half-buried half buried humanoid skeleton~
+a half-buried skeleton~
+A half-buried humanoid skeleton is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1848 half buried skeleton humanoid~
+Before you is a half-buried skeleton.  The head and torso are sticking out 
+of the gold on the floor and its entire lower half is underneath.  
+~
+#1849
+enormous stone table~
+an enormous stone table~
+An enormous stone table is here.~
+~
+12 0 8
+20000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1849 enormous stone table~
+This table is large enough to seat an entire army of men, but there are only 
+about thirty seats around it.  The table is made out of a slate-like stone.  
+
+~
+#1850
+stone blocks~
+a block of stone~
+Many stone blocks are set around the table for use as chairs.~
+~
+12 0 8
+10000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1850 stone blocks~
+These are huge stone blocks that are spaced evenly around the huge table.  
+They are aparently here for use as chairs.  
+~
+#1851
+huge stone chair~
+a huge stone chair~
+A huge stone chair is here.~
+~
+12 0 8
+10000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1851 huge stone chair~
+This is a huge stone chair.  It is so large, it is almost throne-like.  The 
+chair is positioned at the end of the huge stone table.  
+~
+#1852
+large stone table~
+a large stone table~
+A large stone table is here.~
+~
+12 0 8
+5000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1852 stone table~
+This is a large stone table.  The table is made from hard gray-black rock 
+that looks like slate.  
+~
+#1853
+some animal bones~
+some animal bones~
+Some animal bones are rotting away here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1853 bones ~
+These are the bones of a large mammal.  They have been picked clean of meat 
+and seem to have been rotting away for quite a while.  
+~
+#1854
+large wooden barrels~
+a large wooden barrel~
+Some large wooden barrels are here.~
+~
+15 0 8
+0 0 500 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1854 barrel ~
+There are several large wooden barrels lined up here.  Most of them are 
+empty.  
+~
+#1855
+weapon rack~
+a weapon rack~
+A weapon rack is here.~
+~
+15 0 8
+0 0 200 100 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1855 weapon rack~
+This is a large weapon rack.  It is designed to store weapons.  The rack is 
+made out of wood and seems quite heavy.  
+~
+#1856
+huge stone throne~
+a huge stone throne~
+A huge `#`sstone `wthrone`^ is here.~
+~
+12 0 8
+10000 8338 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1856 huge stone throne~
+This is a huge stone throne.  The throne is made out of gray-black rock.  
+There is no padding on the throne and it doesn't look too comfortable.  
+~
+#1857
+large wooden steel table~
+a large wooden and steel table~
+A large wooden and steel table is here.~
+~
+15 0 8
+0 0 1000 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1857 wooden steel table~
+This is a large wooden and steel table.  The table is so large that it is as 
+high as the shoulders on a normal man.  
+~
+#1858
+milky orange coloured potion fly~
+a `#`wmilky `Rorange`^ coloured potion~
+A `#`wmilky `Rorange`^ coloured potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#1859
+transparent baby blue potion sober~
+a transparent baby blue colored potion~
+A transparent baby blue colored potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#1860
+murky red potion protection good~
+a `#`rmurky red`^ coloured potion~
+A `#`rmurky red`^ coloured potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#1861
+vial green pill powder regeneration poison~
+a vial of green colored powder~
+A vial of green colored powder is here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#1862
+glowing neon-green stone neon green~
+a glowing `#`Gneon-green`^ stone~
+A glowing neon-green stone is here.~
+~
+30 64 16
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1863
+huge battleaxe battle axe marble hilt~
+a huge battleaxe with a `#`Wmarble`^ hilt~
+A huge battleaxe with a `#`Wmarble`^ hilt is here.~
+~
+5 0 4
+20 17 25 32 0 0 0
+3 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1863 battleaxe battle axe marble~
+This is a huge battleaxe that has a hilt made of marble.  The battleaxe is 
+in excellent condition and doesn't look like it has seen battle yet.  
+~
+#1864
+huge morning star marble hilt~
+a huge morningstar with a `#`Wmarble`^ hilt~
+A huge morningstar with a `#`Wmarble`^ hilt is here.~
+~
+5 0 4
+5 7 16 8232 0 0 0
+6 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1864 morning star marble~
+This is a huge morning star that has a hilt made of marble.  The morning 
+star is in excellent condition and doesn't look like it has seen battle yet. 
+ 
+~
+#1865
+huge mace marble hilt~
+a huge mace with a `#`Wmarble`^ hilt~
+A huge mace with a `#`Wmarble`^ hilt is here.~
+~
+5 0 4
+16 14 24 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1865 mace marble~
+This is a huge mace that has a hilt made of marble.  The mace is in 
+excellent condition and doesn't look like it has seen battle yet.  
+~
+#1866
+emerald golden goblet~
+a `#`Ygolden`^ goblet adorned with `#`Gemeralds`^~
+A `#`Ygolden`^ goblet adorned with `#`Gemeralds`^ is here.~
+~
+17 64 16
+4 23 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1866 golden goblet emeralds~
+This is a large golden goblet.  The gold doesn't seem to be very pure but is 
+still shiny.  There are emeralds set in a circle around the goblet.  
+~
+#1867
+emerald golden plate~
+a `#`Ygolden`^ plate adorned with `#`Gemeralds`^~
+A `#`Ygolden`^ plate adorned with `#`Gemeralds`^ is here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1867 golden plate emeralds~
+This is a large golden plate.  The gold doesn't seem to be very pure but is 
+still shiny.  There are emeralds set in a circle around the plate.  
+~
+#1868
+large wooden steel table~
+a large wooden and steel table~
+A large wooden and steel table is here.~
+~
+15 0 8
+0 0 1000 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1868 wooden steel table~
+This is a large wooden and steel table.  The table is so large that it is as 
+high as the shoulders on a normal man.  
+~
+#1869
+large marble key~
+a large marble key~
+A large marble key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1870
+large steel key~
+a large steel key~
+A large steel key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1871
+A globe of fire~
+a globe of `#`Rfire`^~
+A globe of `#`Rfire`^ lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1872
+heart fire~
+a heart of `#`Rfire`^~
+A heart of `#`Rfire`^ hovers here, crackling with flame.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1800
+Canyon's Path~
+~
+The terrain is very barren and lifeless.  The walls remain steep and 
+unclimbable in this area.  The pass abruptly ends here, where it seems a 
+massive pile of rocks have fallen and blocked the path any further.  
+~
+1 0 0
+D0
+~
+~
+0 0 1802
+R M 0 1813 1 1800
+  R G 0 1871 0
+S
+#1801
+A Deep, Narrow Pass~
+~
+You are within a deep, narrow pass in the mountains.  There is no vegetation 
+or life of any sort to be seen.  The walls here are very steep and 
+unclimbable.  You can make your way west through the pass.  
+~
+1 0 5
+D3
+~
+~
+0 0 1802
+E
+walls ~
+The walls rise up on both sides of this pass.  They are made of hard,
+gray colored rock.  They are very steep and would be treacherous to climb.  
+~
+S
+#1802
+A Bend in the Pass~
+~
+You are at a bend in the deep, narrow pass.  The terrain is very barren
+and lifeless.  The walls here remain steep and unclimbable.  The pass bends
+to the north and widens a bit off in the distance, or you can leave east. 
+All other directions are blocked by steep walls of rock.  
+~
+1 0 5
+D0
+~
+~
+0 0 1803
+D1
+~
+~
+0 0 1801
+D2
+~
+~
+0 0 1800
+R O 0 1831 0 1802
+E
+rock ~
+There is rock everywhere you look.  The rocks covering the floor of this
+narrow pass would make resting very uncomfortable.  
+~
+S
+#1803
+End of a Canyon~
+~
+This is the east end of a large Canyon.  The canyon walls rise up around
+you.  The walls here are almost vertical and impossible to climb.  The
+terrain is barren.  There is a mountain pass leading off to the north and
+south.  The canyon floor leads to the west.  On the ground near you, there
+is a dried up puddle.  
+~
+1 0 5
+D0
+~
+~
+0 0 1804
+D2
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1805
+E
+puddle ~
+This dried up puddle is shaped like a humanoid foot.  If it was actually
+made by a foot, the being that made it must be very large.  The imprint is
+about three and a half feet long from end to end.  
+~
+S
+#1804
+A Dead End Pass~
+~
+You have reached the end of a long, narrow pass.  Mountains surround you
+on all sides except to the south.  The steep sides of the mountains are
+impossible to climb.  There is no vegetation to be seen.  There is no way to
+go except back to the south.  
+~
+1 0 5
+D2
+~
+~
+0 0 1803
+R M 0 1800 1 1804
+  R G 0 1829 0
+  R E 0 1807 0 16
+  R E 0 1806 0 13
+E
+mountains ~
+The mountains in this region are very high.  Some of the tips even
+disappear into the clouds beyond sight.  
+~
+S
+#1805
+Within a Canyon~
+~
+You are in the middle of a wide canyon.  The canyon is several hundred
+feet across at this point.  The walls of the canyon are very steep and go up
+as far as the eye can see.  The canyon floor is covered with crushed rocks. 
+They might have fallen from far above.  Aside from the countless rocks, the
+canyon is barren.  You can see mountains far off to the north and south and
+you can travel through the canyon in those directions.  
+~
+1 0 5
+D1
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1806
+E
+rocks ~
+The rocks on the canyon floor vary in size.  The rocks are worthless and
+could not be used for much.  
+~
+S
+#1806
+Entrance to a Castle~
+~
+The canyon comes to an end here.  On the west end of the canyon you can
+see what appears to be the entrance to a strange looking castle.  The castle
+is built into the side of a huge mountain.  Half of the walls appear to be a
+part of the mountain, and the other half made out of enormous blocks of
+stone.  Gigantic stone pillars stand before the entrance to the castle and
+hold up a balcony far above.  Beyond the stone pillars is a set of oversized
+double doors that are also made of hard rock.  
+~
+1 0 5
+D1
+~
+~
+0 0 1805
+D3
+~
+double doors~
+33 1829 1809
+D4
+~
+~
+0 0 1807
+R O 0 1832 0 1806
+E
+doors double~
+These doors are huge by human standards.  They are about 25 feet tall and made 
+completely of stone.  It looks like it would take ten men just to open them.
+~
+S
+#1807
+Before the Balcony~
+~
+You are flying before a large stone balcony.  From here, you can see
+large crossbow devices and catapults on the balcony.  There are also several
+piles of large boulders lying on the balcony.  There is an entry way leading
+into the castle to the west.  This castle appears to be in a very defensible
+position and would be hard for any army to assault.  
+~
+1 4 9
+D3
+~
+~
+0 0 1808
+D5
+~
+~
+0 0 1806
+E
+boulders pile~
+The boulders here vary in size, but most of them average three feet in
+thickness.  It would be difficult for a man to roll one of these stones let
+alone pile them up as they are.  
+~
+S
+#1808
+On a Balcony~
+~
+You are on a large stone balcony.  There are several large crossbow
+devices and catapults on the balcony.  There are also many large piles of
+boulders scattered about.  From here it would be easy to attack any
+approaching force from below.  You can see far into the canyon to the east
+from here.  There is an entryway leading into the castle to the west.  
+~
+1 0 1
+D1
+~
+~
+0 0 1807
+D3
+~
+~
+0 0 1810
+R M 0 1803 4 1808
+R O 0 1827 0 1808
+R O 0 1828 0 1808
+R M 0 1801 4 1808
+  R E 0 1823 0 13
+  R E 0 1822 0 5
+  R E 0 1807 0 16
+E
+boulders ~
+These boulders are piled high.  They vary in size, but each weighs about
+200 pounds and is a couple feet thick.  The boulders look rather useless and
+would be difficult to carry around.  
+~
+S
+#1809
+Inside a Castle on the Lower Level~
+~
+You are just inside the castle on the lower level.  The walls are smooth, 
+but appear to be a part of the mountain.  There are several large pillars 
+going from the floor to ceiling.  The ceiling is far above in the air and is 
+hard to make out.  To the east lies the entrance to the castle and a hallway 
+begins to the west.  
+~
+1 8 0
+D1
+~
+door~
+33 1829 1806
+D3
+~
+~
+0 0 1811
+R M 0 1803 3 1809
+R O 0 1832 0 1809
+E
+ceiling ~
+The ceiling almost 50 feet into the air and is hard to see because of the 
+dim lighting.  There doesn't seem to be anything special about it.  
+~
+S
+#1810
+Inside a Castle on the Upper Level~
+~
+You are just inside the castle on the upper level.  The walls are smooth, 
+but appear to be a part of the mountain.  There are several large pillars 
+going from the floor to ceiling.  The ceiling is almost 50 feet into the air 
+and is hard to make out.  To the east lies the balcony and a hallway begins 
+to the west.  
+~
+1 8 0
+D1
+~
+~
+0 0 1808
+D3
+~
+~
+0 0 1812
+R O 0 1832 0 1810
+E
+ceiling ~
+The ceiling almost 50 feet into the air and is hard to see because of the 
+dim lighting.  There doesn't seem to be anything special about it.  
+~
+S
+#1811
+The Lower Hallway~
+~
+You are in a short hallway.  The walls here are made out of dark, relatively 
+smooth stone which appears to be a part of the mountain.  The ceiling is 
+quite high in the air.  Torches are set in the wall to light the hallway.  
+There is a huge spiraling stone stair case leading upwards.  There are 
+passageways going to the north, south, east, and west.  
+~
+1 8 0
+D0
+~
+~
+0 0 1820
+D1
+~
+~
+0 0 1809
+D2
+~
+~
+0 0 1823
+D3
+~
+~
+0 0 1822
+D4
+~
+~
+0 0 1812
+E
+spiraling stair~
+These spiraling stone stairs extend far into the air.  The stairs themselves 
+are huge, with each step being almost three feet up.  
+~
+E
+torch ~
+There are several torches fastened to the wall here that light the hallway.  
+
+~
+S
+#1812
+The Upper Hallway~
+~
+You are in a short hallway.  The walls here are made out of dark, relatively 
+smooth stone which appears to be a part of the mountain.  The ceiling is 
+quite high in the air.  There is a huge spiraling stone stair case leading 
+downwards.  You can see a door in the southern and northern walls.  There is 
+a huge decorated stone archway on the west end of the hallway.  There is a 
+glow coming from beyond the archway.  There is also a passageway going to 
+the east.  
+~
+1 12 0
+D0
+~
+door~
+1 0 1813
+D1
+~
+~
+0 0 1810
+D2
+~
+door~
+1 0 1814
+D3
+~
+~
+0 0 1815
+D5
+~
+~
+0 0 1811
+R M 0 1801 4 1812
+  R E 0 1823 0 13
+  R E 0 1822 0 5
+  R E 0 1807 0 16
+E
+archway ~
+This archway is made of gigantic stone blocks.  It is so large that a mid 
+sized tree could easily fit through it.  The stone blocks are decorated with 
+symbols of war.  
+~
+S
+#1813
+The Armory~
+~
+You have entered what appears to be an armory.  There are parts of weapons 
+and armor scattered about the room.  There are various weapons in a rack 
+that is sitting on the floor.  You can see some armor hanging from the 
+walls.  Most of the items here look too large for a normal sized person to 
+use.  There are also scraps of useless metal and leather on a large table 
+that are being used to create or mend armor.  Close to the west wall is a 
+gigantic forge.  The only visible exit is the door to the south.  
+~
+1 8 0
+D2
+~
+door~
+1 0 1812
+R M 0 1805 1 1813
+  R E 0 1806 0 13
+  R E 0 1807 0 16
+R O 0 1817 0 1813
+R O 0 1822 0 1813
+R O 0 1852 0 1813
+R O 0 1855 0 1813
+  R P 0 1820 5 1855
+  R P 0 1807 10 1855
+E
+table ~
+There is a large wooden table here that has scraps of metal and leather 
+spread across the top of it.  The scraps do not seem to be worth much.  
+~
+E
+forge ~
+This is a huge forge.  It is cold at the moment and has the remnants of coal 
+in the bottom.  
+~
+S
+#1814
+Some Living Quarters~
+~
+This is a large cavernous area.  There are several stone beds tucked away in 
+different corners and pockets that loosely define rooms.  The beds are 
+covered with some cheap furs.  There is a huge stone table in the middle of 
+the cavern with several stone blocks around it that must be used as chairs.  
+The air in this room is a bit stagnant.  The only visible exit is the door 
+to the north.  
+~
+1 8 0
+D0
+~
+door~
+1 0 1812
+R M 0 1806 3 1814
+  R E 0 1821 0 15
+  R E 0 1821 0 14
+  R E 0 1819 0 8
+  R E 0 1817 0 5
+  R E 0 1820 0 16
+  R E 0 1818 0 13
+  R E 0 1816 0 6
+R O 0 1852 0 1814
+R O 0 1850 0 1814
+E
+beds ~
+These beds are large enough to sleep ten men comfortably.  They are made 
+from huge stone blocks and covered with animal furs.  
+~
+S
+#1815
+The Throne Room~
+~
+This is a huge brightly lit throne room.  There is a gigantic throne on the 
+far end of the room that is made of a dark gray colored stone.  In the 
+middle of the room is a huge stone pit.  Burning embers are ablaze within 
+the pit.  The heat emanating from the pit can be felt throughout the room.  
+The air in the room smells of sulfur.  There are fancy steel doors set in 
+the northern and southern walls of the throne room.  The only other visible 
+exit is a huge stone archway to the east.  
+~
+1 8 0
+D0
+~
+door~
+33 1870 1816
+D1
+~
+~
+0 0 1812
+D2
+~
+door~
+33 1869 1817
+D3
+~
+door~
+33 1869 1818
+D5
+~
+~
+0 0 1819
+R M 0 1808 1 1815
+  R G 0 1869 0
+  R G 0 1870 0
+  R E 0 1815 0 15
+  R E 0 1815 0 14
+  R E 0 1814 0 2
+  R E 0 1813 0 7
+  R E 0 1812 0 16
+  R E 0 1809 0 12
+  R E 0 1811 0 8
+  R E 0 1810 0 13
+  R E 0 1801 0 6
+  R E 0 1800 0 5
+R O 0 1856 0 1815
+E
+pit ~
+This pit is filled with burning coals and gives off a tremendous amount of 
+heat and light.  Even in the farthest reaches of the throne room, the heat 
+is strong enough to cause a burning sensation on the skin of anyone who 
+isn't protected properly.  
+~
+E
+throne ~
+Beyond the throne you can see the silhouette of a door.  
+~
+S
+#1816
+The Witch Doctors Quarters~
+~
+This room looks out of place compared to the rest of the rooms in the 
+castle.  There are strange decorations hanging on the walls and ceiling.  
+There is a large steel and wooden table in the center of the room that holds 
+several potions and powders.  On the far end of the room is a stone bed 
+covered with furs.  The only exit is the door to the south.  
+~
+1 8 0
+D2
+~
+door~
+33 1870 1815
+R M 0 1809 1 1816
+  R E 0 1819 0 8
+  R E 0 1825 0 17
+  R E 0 1824 0 12
+  R E 0 1823 0 13
+  R E 0 1822 0 5
+R O 0 1857 0 1816
+  R P 0 1858 1 1857
+  R P 0 1859 1 1857
+  R P 0 1860 1 1857
+  R P 0 1861 1 1857
+  R P 0 1862 1 1857
+E
+bed furs~
+This bed is large enough to sleep ten men comfortably.  It is made from huge 
+stone blocks and is covered with animal furs.  
+~
+E
+decorations ~
+There are various decorations hanging from the walls and ceiling.  Most of 
+them appear to be religious symbols of some sort.  
+~
+S
+#1817
+The Kings Quarters~
+~
+You have entered an extravagantly decorated room.  There are exotic 
+tapestries and fine weapons adorning the walls.  The floor is covered with 
+what appears to be a dragon skin rug.  There is a table in the middle of the 
+room that has a golden goblet and plate on it.  There is a huge stone bed on 
+the far end of the room that is covered with furs.  The only exit is the 
+door to the north.  
+~
+1 8 0
+D0
+~
+door~
+33 1869 1815
+R O 0 1863 0 1817
+R O 0 1864 0 1817
+R O 0 1865 0 1817
+R O 0 1868 0 1817
+  R P 0 1866 1 1868
+  R P 0 1867 1 1868
+E
+bed furs~
+This bed is large enough to sleep ten men comfortably.  It is made from huge 
+stone blocks and is covered with animal furs.  
+~
+E
+tapestries ~
+The tapestries are covered with scenes of battle and war.  
+~
+S
+#1818
+A Secret Treasure Room~
+~
+You have found a large treasure room.  The room is perfectly square.  The 
+walls are made out of smooth gray stone.  There are shelves built into the 
+north, south, and west walls.  These must be hard times because there isn't 
+much treasure to be found.  The only visible exit is the door to the east.  
+~
+1 8 0
+D1
+~
+door~
+33 1869 1815
+R M 0 1803 5 1818
+R M 0 1803 3 1818
+R O 0 1808 0 1818
+E
+shelves ~
+These shelves are depressions that have been dug into the wall.  They are 
+large enough to serve as a bed for a normal sized human.  
+~
+S
+#1819
+The Fire Pit~
+~
+You have fallen into a pit filled with burning coals.  It is hot enough in 
+here to melt ore.  A terrible stench of sulfur is rising from the coals.  
+The walls of the pit are made of smooth gray colored stone.  There doesn't 
+seem to be any way out of the pit except for up.  
+~
+1 8 0
+D4
+~
+~
+0 0 1815
+R M 0 1812 1 1819
+S
+#1820
+The Mess Hall~
+~
+This room looks like it is the main mess hall of the castle.  There is an 
+enormous stone table that stretches from one end of the mess hall to the 
+other.  There are large stone blocks spaced evenly on three sides of the 
+table that look like they are used for chairs.  There is a large stone chair 
+on the far end.  There is a pair of swinging double steel doors at the west 
+end of the hall and a passageway to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 1811
+D3
+~
+door~
+1 0 1821
+R M 0 1804 1 1820
+  R E 0 1806 0 13
+R O 0 1849 0 1820
+R O 0 1850 0 1820
+R O 0 1851 0 1820
+E
+table ~
+This table is large enough to seat an entire army of men, but there are only 
+about thirty seats around it.  The table is made out of a slate-like stone.  
+
+~
+S
+#1821
+The Kitchen~
+~
+You have entered a large kitchen.  There are huge stone stoves lined up 
+along the north wall of the kitchen.  There are large pots and kettles 
+scattered about.  There is a large stone table in the center of the room 
+that is covered with crumbs.  There are large barrels sitting by the south 
+wall.  The only visible exit is a pair of swinging steel double doors to the 
+east.  
+~
+1 8 0
+D1
+~
+door~
+1 0 1820
+R M 0 1806 3 1821
+  R E 0 1821 0 15
+  R E 0 1821 0 14
+  R E 0 1819 0 8
+  R E 0 1817 0 5
+  R E 0 1820 0 16
+  R E 0 1818 0 13
+  R E 0 1816 0 6
+R O 0 1852 0 1821
+R O 0 1854 0 1821
+  R P 0 1853 5 1854
+E
+stoves ~
+These stoves are large enough to fit a whole cow into.  There are remnants 
+of burnt coal within the stoves.  
+~
+S
+#1822
+The Barracks~
+~
+This is a huge, round room that looks like a large cave.  The floor of the 
+room is relatively smooth and flat.  All of the walls are made of a dark 
+gray stone.  There are many animal skins on the floor that are used for 
+beds.  The air in this room is dank and musty and the temperature is quite 
+hot.  The only visible way out of the room is a passageway to the east.  
+~
+1 8 0
+D1
+~
+~
+0 0 1811
+R M 0 1801 4 1822
+  R E 0 1823 0 13
+  R E 0 1822 0 5
+  R E 0 1807 0 16
+E
+animal skin beds~
+The animal skin beds here do not look like they are very comfortable and are 
+mostly worthless.  
+~
+S
+#1823
+A Store Room~
+~
+You have entered a large store room.  The walls are made of a rough gray 
+stone.  There are crates and barrels piled up on the floor.  Dust covers 
+most of the room and there are cob webs hanging from the ceiling.  There is 
+a staircase leading downward in the back of the store room.  The only other 
+exit is the passage to the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 1811
+D5
+~
+~
+0 0 1824
+R M 0 1802 2 1823
+  R E 0 1807 0 16
+  R E 0 1806 0 13
+R O 0 1833 0 1823
+  R P 0 1836 6 1833
+R O 0 1834 0 1823
+  R P 0 1835 10 1834
+E
+cobwebs web cob~
+These cobwebs look like they have been here a while.  The inhabitant isn't 
+anywhere to be seen at the moment.  
+~
+S
+#1824
+The Beginning of a Passageway~
+~
+This is the beginning of a large passageway that leads to the west.  The 
+passageway is round in shape.  The ceiling is at least thirty feet into the 
+air.  The walls are made out of rough gray rock.  There are small stones and 
+pebbles covering the floor.  On the north wall you can see some bars that 
+form a jail cell.  You can go west into the passageway, up the large stair 
+case, or north through the door of the jail cell.  
+~
+1 8 0
+D0
+~
+cell door~
+33 1837 1834
+D3
+~
+~
+0 0 1825
+D4
+~
+~
+0 0 1823
+R M 0 1801 4 1824
+  R E 0 1823 0 13
+  R E 0 1822 0 5
+  R E 0 1807 0 16
+E
+stones pebbles~
+The stones and pebbles here look like they came from the walls.  They are 
+essentially useless.  
+~
+S
+#1825
+Turn in a Passageway~
+~
+You have come to a turn in the passageway.  The passageway is round in 
+shape.  The ceiling is at least thirty feet into the air.  The walls are 
+made out of rough gray rock.  There are small stones and pebbles covering 
+the floor.  The passageway is dark and silent.  You can either continue to 
+the north, or go east into the passageway.  
+~
+1 9 0
+D0
+~
+~
+0 0 1826
+D1
+~
+~
+0 0 1824
+R O 0 1838 0 1825
+E
+ceiling ~
+The ceiling here is made out of rough gray rock similar to that of the walls 
+and floor.  
+~
+S
+#1826
+Bend in a Passageway~
+~
+You have come to a bend in the passageway.  The passageway is round in 
+shape.  The ceiling is at least thirty feet into the air.  The walls are 
+made out of rough gray rock.  There are small stones and pebbles covering 
+the floor.  The passageway is dark and silent.  As you travel through the 
+passageway, it seems as though the temperature is rising.  You can either 
+continue to the west, or go south into the passageway.  
+~
+1 8 0
+D2
+~
+~
+0 0 1825
+D3
+~
+~
+0 0 1827
+R M 0 1802 2 1826
+  R E 0 1806 0 13
+  R E 0 1807 0 16
+E
+walls ~
+The walls here are made out of hard gray colored rock.  Upon closer 
+inspection you can see shiny black particles imbedded in the rock.  
+~
+S
+#1827
+Intersection in a Passageway~
+~
+This is an intersection in the passageway.  The passageway is round in 
+shape.  The ceiling is at least thirty feet into the air.  The walls are 
+made out of rough gray rock.  There are small stones and pebbles covering 
+the floor.  The air in the passageway smells of sulfur and it has gotten 
+noticeably hotter.  The main passageway leads to the east and west, or there 
+is a slightly smaller tunnel going to the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 1828
+D1
+~
+~
+0 0 1826
+D3
+~
+~
+0 0 1829
+E
+stones pebbles~
+The stones and pebbles here look like they came from the walls.  They are 
+essentially useless.  
+~
+S
+#1828
+A Winding Tunnel~
+~
+You are walking through a long, winding tunnel.  The tunnel is round in 
+shape.  The ceiling is more than twenty feet into the air.  The walls of the 
+tunnel are made out of rough gray rock.  There are small stones and pebbles 
+covering the floor.  The winding tunnel continues on to the west, or you can 
+go back south.  
+~
+1 8 0
+D2
+~
+~
+0 0 1827
+D3
+~
+~
+0 0 1830
+R M 0 1806 3 1828
+  R G 0 1837 0
+  R E 0 1816 0 6
+  R E 0 1818 0 13
+  R E 0 1820 0 16
+  R E 0 1817 0 5
+  R E 0 1819 0 8
+  R E 0 1821 0 14
+  R E 0 1821 0 15
+E
+ceiling ~
+The ceiling here is made out of rough gray rock similar to that of the walls 
+and floor.  
+~
+S
+#1829
+Front End of a Huge Lair~
+~
+The passageway comes to an end here and opens into a wide cavern.  The 
+cavern is brightly lit by molten lava on the far west side.  Farther into 
+the cavern, the floor is covered with what appears to be a huge amount of 
+melted gold.  The walls of the cavern are made of smooth gray-black stone.  
+It is extremely hot within the cavern and the air reeks of sulfur.  From 
+here, you can go west further into the cavern, or back east.  
+~
+1 8 11
+D1
+~
+~
+0 0 1827
+D3
+~
+~
+0 0 1835
+R M 0 1807 1 1829
+E
+walls ~
+The walls are made out of grayish-black stone.  They are quite smooth as 
+though the stone was melted into liquid form at one point.  
+~
+S
+#1830
+Turn in a Tunnel~
+~
+You are walking through a long, winding tunnel.  The tunnel is round in 
+shape.  The ceiling is more than twenty feet into the air.  The walls of the 
+tunnel are made out of rough gray rock.  There are small stones and pebbles 
+covering the floor.  It is very dark and eerily silent here.  The winding 
+tunnel turns to the north here, or you can go back east.  
+~
+1 9 0
+D0
+~
+~
+0 0 1831
+D1
+~
+~
+0 0 1828
+R M 0 1806 3 1830
+  R G 0 1837 0
+  R E 0 1821 0 15
+  R E 0 1821 0 14
+  R E 0 1819 0 8
+  R E 0 1817 0 5
+  R E 0 1820 0 16
+  R E 0 1818 0 13
+  R E 0 1816 0 6
+E
+walls ~
+The walls here are made out of hard gray colored rock.  Upon closer 
+inspection you can see shiny black particles imbedded in the rock.  
+~
+S
+#1831
+Bend in a Tunnel~
+~
+You are walking through a long, winding tunnel.  The tunnel is round in 
+shape.  The ceiling is more than twenty feet into the air.  The walls of the 
+tunnel are made out of rough gray rock.  There are small stones and pebbles 
+covering the floor.  The air here smells of sulfur and the temperature is 
+quite hot.  The winding tunnel bends to the west here, or you can go back 
+south.  There is a glow coming from the west.  
+~
+1 8 0
+D2
+~
+~
+0 0 1830
+D3
+~
+~
+0 0 1832
+E
+stones pebbles~
+The stones and pebbles here look like they came from the walls.  They are 
+essentially useless.  
+~
+S
+#1832
+A Dead End~
+~
+You have reached the end of the winding tunnel.  It is very bright here and 
+the heat here is almost unbearable.  To the south, you can see a huge pool 
+of molten lava.  Its impossible to proceed any further due to the heat of 
+the lava.  There is a strong odor of sulfur coming from the south.  The only 
+way that you can travel is back to the east.  
+~
+1 8 0
+D1
+~
+~
+0 0 1831
+R M 0 1816 1 1832
+E
+pool molten lava~
+There is a huge pool of lava to the south.  You cannot see a ceiling over 
+the lava, but its too hot to move close enough to look further up.  
+~
+S
+#1833
+Above a Pool of Molten Lava~
+~
+You are above a pool of molten lava.  The lava is bubbling and boiling below 
+you.  It is extremely hot here and reeks of sulfur.  
+~
+1 0 0
+D0
+~
+~
+0 0 1832
+R M 0 1811 1 1833
+  R G 0 24100 0
+S
+#1834
+A Jail Cell~
+~
+This is a large jail cell.  Three of the walls are made of hard gray rock 
+and the south wall is comprised of iron bars.  There are chains and shackles 
+hanging from the north wall.  You can see the bones of previous visitors 
+scattered about on the floor.  The iron bars are very thick and spaced close 
+enough together to keep the smallest halfling captive.  The only apparent 
+way out is through the door on the bars to the south, if you are lucky 
+enough to have the key.  
+~
+1 9 0
+D2
+~
+cell door~
+33 1837 1824
+R M 0 1810 1 1834
+  R E 0 1830 0 5
+  R E 0 1826 0 3
+R M 0 1814 1 1834
+  R E 0 1822 0 5
+  R E 0 1816 0 6
+  R E 0 1820 0 16
+E
+bones ~
+These bones look like they have been rotting away here for quite some time.  
+They smell of decay and don't look like they could be used for much.  
+~
+S
+#1835
+Back End of a Huge Lair~
+~
+You are in the far side of the cavern.  The cavern is brightly lit by molten 
+lava just to the west.  The floor of the cavern is covered with what appears 
+to be a huge amount of melted gold.  There are many items sticking up from 
+the gold-like floor including weapons, wands, staves, and bones.  Most of 
+the items are held in place firmly and will not budge.  The walls of the 
+cavern are made of smooth gray-black stone.  There is a huge lava pool in 
+the west end of the cavern, but it is not possible to get close enough to it 
+to see what is beyond.  It is extremely hot within the cavern and the air 
+reeks of sulfur.  The only exit is back to the east.  
+~
+1 4194312 11
+D1
+~
+~
+0 0 1829
+R O 0 1808 0 1835
+R O 0 1846 0 1835
+R O 0 1802 0 1835
+R O 0 1848 0 1835
+R O 0 1839 0 1835
+  R P 0 1840 5 1839
+R O 0 1841 0 1835
+R O 0 1803 0 1835
+R O 0 1847 0 1835
+R O 0 1842 0 1835
+R O 0 1804 0 1835
+R O 0 1845 0 1835
+R O 0 1843 0 1835
+  R P 0 1844 3 1843
+E
+floor melted gold~
+The floor appears to be covered with a huge layer of melted gold.  Upon 
+closer inspection, you find that the gold is rock hard and not worth the 
+time that would be spent trying to dig into it.  
+~
+S
+#0
+
+
+#SHOPS
+ 1813    1  0  0  0  0   100   5         0 23    ; a hermit mage
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

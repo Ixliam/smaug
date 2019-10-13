@@ -1,0 +1,1423 @@
+#AREA        Player Housing Authority~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#700
+death grim reaper~
+`#`SDeath`^~
+Death stands here, ready to send you to meet your maker.
+~
+Death is covered in long flowing black robes.  A skeletal hand wields a 
+scythe and you notice a skull inside his hood with burning bright red eyes.  
+
+~
+0
+clanname none~
+0
+0
+65 524288 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#701
+suspicious looking cloaked figure thief~
+a suspicious looking cloaked figure~
+A suspicious looking cloaked figure is here.
+~
+~
+0
+clanname none~
+0
+0
+129 65536 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#702
+band~
+an acoustic band~
+A band is here, working on the music to keep the folks happy.
+~
+This lively band is playing away, content on keeping those who attend happy, 
+and enjoying themselves. 
+~
+0
+clanname none~
+0
+0
+65 128 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#703
+band member~
+a band member~
+A band member is here, mingling with the group.
+~
+A band member is here, dressed in full attire to impress the group.
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#700
+aquarium~
+an aquarium filled with exotic fish~
+A beautiful aquarium filled with exotic fish stands here.~
+~
+13 2 8
+0 0 0 0 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#701
+aquarium~
+an aquarium with a pet turtle inside~
+A beautiful aquarium with a pet turtle inside stands here.~
+~
+13 2 8
+0 0 0 0 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#702
+aquarium~
+a beautiful aquarium~
+A beautiful aquarium with a large snake crawling about stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#703
+aquarium~
+a beautiful aquarium~
+A beautiful aquarium with a spider crawling inside stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#704
+chair~
+a carved wooden chair~
+A nice carved wooden chair is here.~
+~
+12 0 8
+10000 2336 100 100 0 0 0
+5 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#705
+chair~
+a highback chair~
+A nice highback chair is here.~
+~
+12 0 8
+10000 2336 100 100 0 0 0
+5 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#706
+chair~
+a hard chair~
+A hard chair made of oak is here.~
+~
+12 0 8
+10000 2336 100 100 0 0 0
+5 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#707
+chair~
+a sturdy chair~
+A nice sturdy chair is sitting here.~
+~
+12 0 8
+10000 2336 100 100 0 0 0
+5 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#708
+desk~
+an oak desk~
+A nice oak desk is here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#709
+desk~
+a pine desk~
+A nice pine desk is here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#710
+desk~
+a carved desk~
+A lovely carved desk is here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#711
+desk~
+a polished desk~
+A large polished desk is here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#712
+desk~
+a teak desk~
+A beautiful teak desk is here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#713
+desk~
+a plain desk~
+A plain desk is sitting here.~
+~
+12 0 8
+10000 584 100 100 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#714
+couch sofa~
+a nice plush sofa~
+A nice plush sofa is here.~
+~
+12 0 8
+10000 132242 0 100 0 0 0
+4 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#715
+couch sofa~
+a cheap padded sofa~
+A cheap padded sofa is here.~
+~
+12 0 8
+10000 131218 100 100 0 0 0
+4 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#716
+couch sofa~
+a comfy sofa~
+A nice comfy sofa is here.~
+~
+12 0 8
+10000 132242 100 100 0 0 0
+4 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#717
+couch sofa~
+a fluffed sofa~
+A fluffed-up sofa is here.~
+~
+12 0 8
+10000 132242 100 100 0 0 0
+4 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#718
+stage~
+a large wooden stage~
+A large wooden stage.~
+~
+12 0 8
+8000 1170 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#719
+endtable table~
+an oak endtable~
+An oak endtable is sitting here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#720
+endtable table~
+a pine endtable~
+A pine endtable is sitting here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#721
+endtable table~
+a carved endtable~
+A carved endtable is sitting here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#722
+endtable table~
+a teak endtable~
+A teak endtable is sitting here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#723
+endtable table~
+an endtable~
+An endtable is sitting here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#724
+table dining~
+an oak table~
+A nice oak table is sitting here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#725
+table pine~
+a pine table~
+A nice pine table is sitting here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#726
+carved table~
+a carved table~
+A nice carved table is sitting here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#727
+polished table~
+a polished table~
+A nice polished table is sitting here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#728
+teak table~
+a teak table~
+A nice polished table is sitting here.~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#729
+comfy comfortable recliner~
+a comfortable recliner~
+A comfortable recliner is sitting here~
+~
+12 0 8
+10000 2338 100 100 0 0 0
+5 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#730
+lamp~
+an oil lamp~
+A nice oil lamp is burning here.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 2000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#731
+lantern~
+a lantern~
+A nice iron lantern is burning here.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 1500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#732
+torch~
+a torch~
+A torch is lit here, burning in an iron scone on the wall.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#733
+dresser~
+an oak dresser~
+An oak dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#734
+dresser~
+a pine dresser~
+A pine dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#735
+dresser~
+a carved dresser~
+A carved dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#736
+dresser~
+a polished dresser~
+A well-polished dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#737
+dresser~
+a teak dresser~
+A nice teak dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#738
+dresser~
+a dresser~
+A nice dresser sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#739
+footchest chest~
+an oak footchest~
+An oak footchest sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#740
+footchest chest~
+a pine footchest~
+A pine footchest sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#741
+footchest chest~
+a carved footchest~
+A carved footchest sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#742
+footchest chest~
+a polished footchest~
+A polished footchest sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#743
+footchest chest~
+a teak footchest~
+A teak footchest sits here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#744
+several rows chairs~
+a chair~
+Several rows of chairs sit here.~
+~
+12 0 8
+8000 1170 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#745
+armoire~
+an oak armoire~
+An oak armoire stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#746
+armoire~
+a pine armoire~
+An pine armoire stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#747
+armoire~
+a carved armoire~
+An carved armoire stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#748
+armoire~
+a polished armoire~
+An nicely polished armoire stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#749
+armoire~
+a teak armoire~
+An teak armoire stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#750
+wicker table and chairs~
+a chair~
+A huge wicker table rests here.~
+~
+12 0 8
+8000 1170 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#751
+wardrobe~
+an oak wardrobe~
+An oak wardrobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#752
+wardrobe~
+a pine wardrobe~
+A pine wardrobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#753
+wardrobe~
+a carved wardrobe~
+A carved wardrobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#754
+wardrobe~
+a polished wardrobe~
+A polished wardrobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#755
+wardrobe~
+a teak wardrobe~
+A teak wardrobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#757
+bookcase~
+an oak bookcase~
+An oak bookcase stands here.~
+~
+15 0 8
+16 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#758
+bookcase~
+a pine bookcase~
+A pine bookcase stands here.~
+~
+15 0 8
+16 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#759
+bookcase~
+a carved bookcase~
+A carved bookcase stands here.~
+~
+15 0 8
+16 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#760
+bookcase~
+a polished bookcase~
+A polished bookcase stands here.~
+~
+15 0 8
+16 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#761
+bookcase~
+a teak bookcase~
+A teak bookcase stands here.~
+~
+15 0 8
+16 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#763
+chifferobe~
+an oak chifferobe~
+An oak chifferobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#764
+chifferobe~
+a pine chifferobe~
+A pine chifferobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#765
+chifferobe~
+a carved chifferobe~
+A carved chifferobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#766
+chifferobe polished~
+a polished chifferobe~
+A polished chifferobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#767
+chifferobe~
+a teak chifferobe~
+A teak chifferobe stands here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+10 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#769
+royal bed~
+a royal bed~
+A royal-looking large bed is here, looking very comfortable.~
+~
+12 0 8
+1000 1168 200 200 0 0 0
+1 9900 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#770
+cot~
+a cot~
+A sturdy-looking cot is here.~
+~
+12 0 8
+1000 1168 110 110 0 0 0
+1 1000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#771
+featherbed bed~
+a featherbed~
+A comfortable featherbed is here.~
+~
+12 0 8
+1000 1168 125 125 0 0 0
+1 2500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#772
+canopybed bed~
+a canopybed~
+A large bed with a canopy over it is here.~
+~
+12 0 8
+1000 1168 175 175 0 0 0
+1 8500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#773
+a four-post bed large ~
+a four-post bed~
+A large four-post bed sits here, with `#`Wsilk`^ drapes.~
+~
+12 0 8
+2000 1170 165 165 0 0 0
+1 7500 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#774
+twinbed bed~
+a twin bed~
+A twin bed is sitting here.~
+~
+12 0 8
+2000 1170 130 130 0 0 0
+1 5000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#775
+baby crib~
+a small wooden baby crib~
+A small wooden baby crib is here.~
+~
+12 0 8
+5000 264484 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#776
+rocking chair~
+a comfy wooden rocking chair~
+A comfy wooden rocking chair sits here.~
+~
+12 0 8
+500 584 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#777
+hottub~
+a `#`rburgundy`^ wooded hottub~
+A burgundy wooded hottub is here on a golden incline.~
+~
+12 0 8
+50000 264484 150 130 0 0 0
+200 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+777 hottub ~
+A large golden incline makes up the center of the garden.  Wide planks of 
+smooth burgundy wood form this nize-sized hottub that sits in the middle of 
+the incline.  It's full of water that seem to be warmed by a gnomish device 
+behind it when activated.  
+~
+#778
+wooden swing~
+a wooden swing set~
+A wooden swing set is here.~
+~
+12 0 8
+30000 1170 100 100 0 0 0
+1 8000 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#779
+robust hottub~
+a robust hottub made from polished marble~
+A robust hottub made from polished marble is here in the far corner.~
+~
+12 64 8
+50000 264484 150 150 0 0 0
+300 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+779 robust hottub~
+Rich aromatic steam rises above the hottubs waters.  
+~
+#780
+large stone coffin~
+a large `#`sstone coffin`^~
+A large stone coffin is here.~
+~
+12 16 8
+2000 2304 100 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#781
+altar harpan bael~
+an altar of harpan~
+A large altar with the symbol of Harpan is here.~
+~
+12 0 8
+5000 65536 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+781 altar harpan~
+This is a very large altar that has a large hook in the middle of a golden 
+circle at the top.  There is a life-like statue on the front of the altar 
+with arms out, as if it were there to accept sacrafices. 
+~
+#782
+polished burnt wood pews~
+a pew of polished burnt wood~
+Rows of polished burnt wood pews are lined here.~
+~
+12 0 8
+15000 1169 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#783
+plaque sword soultaker soul taker~
+a sword mounted on a plaque~
+A sword mounted on a plaque is firmly attached to the wall here.~
+~
+7 64 4
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+783 plaque sword soultaker taker~
+The `#`SSoul `RTaker`^ sword, a prized possession of Imari's is hanging here on the 
+wall.  Containing the souls of many, the magic and power it possesses is 
+unmatched. 
+~
+#784
+stone monument~
+a stone monument~
+A triangular stone monument covered with symbols is here.~
+~
+12 2 8
+0 0 0 0 0 0 0
+20 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+784 stone monument symbol~
+The multi-sided stone monument is labled with strange symbols, corresponding 
+to symbols on the Stellar Gateway. 
+`+`+
+`#`YB2R5F `W- `CWorld of Arthos`^
+`#`YA1Z2_ `W- `CStupid World `s(the last symbol is missing)`^
+`#`Y_3O1A `W- `CWorld of Olympus `s(the first symbol is missing)`^
+`Y_5B_C `W- `CWorld of Abaddon `s(some symbols missing)`^
+`#`Ye2_3b `W- `CWorld of Krynn`^
+ 
+`cThe first set of symbols on the Stellar Gateway are `YA - G`^
+`cThe second set of symbols on the Stellar Gateway are `Y1 - 5`^
+`cThe third set of symbols on the Stellar Gateway are `YA - Z`^
+`cThe fourth set of symbols on the Stellar Gateway are `Y1 - 5`^
+`cThe fifth set of symbols on the Stellar Gateway are `YA - G`^
+ 
+`STo use the Stellar Gateway, type `cgate <code>`S.`^
+~
+#0
+
+
+#ROOMS
+#700
+An Abandoned Home~
+~
+This home can be yours once you hit level 20!
+ 
+Type HOME or HELP HOME for options on purchasing it.
+~
+1 1036 0
+D1
+~
+~
+0 0 3079
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

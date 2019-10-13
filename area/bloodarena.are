@@ -1,0 +1,504 @@
+#AREA        Arena of Blood~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#3200
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3204
+D1
+~
+~
+0 0 3201
+S
+#3201
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3205
+D1
+~
+~
+0 0 3202
+D3
+~
+~
+0 0 3200
+S
+#3202
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3206
+D1
+~
+~
+0 0 3203
+D3
+~
+~
+0 0 3201
+S
+#3203
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3207
+D3
+~
+~
+0 0 3202
+S
+#3204
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3208
+D1
+~
+~
+0 0 3205
+D2
+~
+~
+0 0 3200
+S
+#3205
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3209
+D1
+~
+~
+0 0 3206
+D2
+~
+~
+0 0 3201
+D3
+~
+~
+0 0 3204
+S
+#3206
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3210
+D1
+~
+~
+0 0 3207
+D2
+~
+~
+0 0 3202
+D3
+~
+~
+0 0 3205
+S
+#3207
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3211
+D2
+~
+~
+0 0 3203
+D3
+~
+~
+0 0 3206
+S
+#3208
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3212
+D1
+~
+~
+0 0 3209
+D2
+~
+~
+0 0 3204
+S
+#3209
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3213
+D1
+~
+~
+0 0 3210
+D2
+~
+~
+0 0 3205
+D3
+~
+~
+0 0 3208
+S
+#3210
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3214
+D1
+~
+~
+0 0 3211
+D2
+~
+~
+0 0 3206
+D3
+~
+~
+0 0 3209
+S
+#3211
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3215
+D2
+~
+~
+0 0 3207
+D3
+~
+~
+0 0 3210
+S
+#3212
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3216
+D1
+~
+~
+0 0 3213
+D2
+~
+~
+0 0 3208
+S
+#3213
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3217
+D1
+~
+~
+0 0 3214
+D2
+~
+~
+0 0 3209
+D3
+~
+~
+0 0 3212
+S
+#3214
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3218
+D1
+~
+~
+0 0 3215
+D2
+~
+~
+0 0 3210
+D3
+~
+~
+0 0 3213
+S
+#3215
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D0
+~
+~
+0 0 3219
+D2
+~
+~
+0 0 3211
+D3
+~
+~
+0 0 3214
+S
+#3216
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D1
+~
+~
+0 0 3217
+D2
+~
+~
+0 0 3212
+S
+#3217
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D1
+~
+~
+0 0 3218
+D2
+~
+~
+0 0 3213
+D3
+~
+~
+0 0 3216
+S
+#3218
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D1
+~
+~
+0 0 3219
+D2
+~
+~
+0 0 3214
+D3
+~
+~
+0 0 3217
+S
+#3219
+Inside the Arena~
+~
+The wood floor of the Arena is covered in a mixture of sawdust, sand, and 
+ancient bloodstains.  Around the edges of the floor rises the grandstands, 
+filled with the members of the populace cheering at every attack and 
+screaming for blood and death.  
+~
+1 37757068 0
+D2
+~
+~
+0 0 3215
+D3
+~
+~
+0 0 3218
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

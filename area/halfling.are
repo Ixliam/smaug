@@ -1,0 +1,1756 @@
+#AREA        Kenders of Kenderville~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#23100
+pig swine hog~
+a pig~
+A pig is snuffling here.
+~
+This is a common pig. It is coloured pink with black splotches 
+on it. It has large ears and a huge nose. It smells pig like.
+~
+0
+Clanname none~
+0
+0
+129 32 0 C
+7 0 4 2d5+5 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23101
+chicken bird~
+a chicken~
+A chicken is clucking and pecking around here.
+~
+This is a chicken. It is white in colour with a large yellow
+beak. It is pecking about in the dust.
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+3 0 7 1d5+3 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23102
+cockerel~
+a cockerel~
+A cockerel is crowing here.
+~
+The cockerel is a large multicoloured chicken with a definitely
+male attitude to life. It chases the other chicken around like 
+it is the boss and looks at you in a way that would frighten
+another chicken.
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+6 1 4 2d5+4 1d6+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23103
+kender militia guard~
+a kender milita guard~
+A kender militia guard is standing here.
+~
+This is the guard of the village.  He is a middle-aged kender with a little 
+spear and no armour.  His clothing is covered with food splotches, and his 
+brown hair is cut short.  
+~
+0
+Clanname none~
+0
+0
+65 4096 400 C
+20 1 -4 3d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23104
+kender farmer~
+a kender farmer~
+A kender farmer is tending to the crops here.
+~
+This a farmer and resident of Kenderville.  He is wearing a rough cloth 
+overall with a large straw hat.  He has a huge inane grin on his face as he 
+looks at you.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+15 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23105
+female kender woman~
+a kender woman~
+A plump kender woman smiles happily as she goes about her shopping.
+~
+This is obviously a farmer's wife.  She is a portly kender with large blue 
+eyes.  She is carrying nothing but a smile.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+10 0 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23106
+kender child small~
+a kender child~
+A small kender child is playing with some toys here.
+~
+This is a small kender child, probably the son of one of the local farmers.  
+He has a big happy smile, and is wearing a patched playsuit.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+5 0 5 2d5+6 1d6+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23107
+kender teenager~
+a teenaged kender~
+A A young kender kicks at the ground in front of you.
+~
+This is a kender teenager, with very sour looks.  He rarely smiles, and 
+scowls at any visitors that come past.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+15 0 -2 3d5+70 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23108
+kender shopkeeper~
+a kender shopkeeper~
+A kender shopkeeper puffs a pipeweed pipe behind his counter.
+~
+This is the shopkeeper of the general store in Kenderville.  He beams a 
+huge smile at you as you enter, and dusts off his floury hands.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23109
+kender child hardril~
+a kender child~
+A young kender plays jacks here.
+~
+This young chap has a little name sewn into his small overalls, Hardril.  
+It seems this chap was named after the Leader of the Order of the White 
+Banner (with Hardril being a Kender nickname for him).  Other than that he 
+seems just like any other young kender child.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+3 0 7 1d5+3 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23110
+pretty young kender female woman~
+a kender woman~
+A pretty young kender female smiles broadly at you. 
+~
+This is a pretty kender, for her kind.  She carries the fragrance of wild 
+flowers as she walks through the village.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23111
+young kender farmer~
+a young kender farmer~
+A young kender farmer cheerfully tends to the animals here.
+~
+This is a young farmer in Kenderville.  He looks happy in his job.  He 
+wears cotton clothes dyed to a orange green colour.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+18 1 -3 3d5+82 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23112
+kender shopkeeper~
+a kender shopkeeper~
+A kender shopkeeper is polishing the weapons here.
+~
+This plump kender fellow has rosy red cheeks and a big grin.  He has curly 
+brown hair and dimples appear when he smiles.  He cheerfully greets 
+customers, as he tries to sell his goods.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23113
+kender baby~
+a kender baby~
+A young baby lies in a crib here.
+~
+The child looks weak and sick and is quite big for a kender child.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 -1 9 1d4+1 1d3+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23114
+crow bird~
+a crow~
+A small crow steals crops here.
+~
+This is a small black crow. It pecks at the various crops here.
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+3 0 7 1d5+3 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23115
+plump kender jeweler shopkeeper~
+a plump kender jeweler~
+A plump kender is showing off the jewels on display here.
+~
+This plump kender fellow has rosy red cheeks and a big grin.  He has curly 
+brown hair and dimples appear when he smiles.  He cheerfully greets 
+customers, as he tries to sell his goods.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23116
+happy middle-aged kender mayor~
+the mayor of kenderville~
+A happy, middle-aged kender stands here, looking important.
+~
+This is the Mayor of Kenderville.  He seems happy to see you.  He is 
+middle-aged, and is a little on the tubby side.  He has ruddy red cheeks and 
+a wide grin.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+25 0 -7 4d5+110 2d10+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23117
+pony small~
+a small pony~
+A small pony eats the grass here.
+~
+This pony is barely half the height of an ordinary horse, and its limbs and 
+features are more stumpy in nature.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23118
+large cow~
+a large cow~
+A large brown cow is here.
+~
+This large brown cow, stands around with a blank expression on her face.  An 
+expression of common animal stupidity, she wears a bell around her neck and 
+small white horns look like they have just started to grow out of her head.  
+
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23119
+little kender man shopkeeper baker~
+a kender baker~
+A little kender man is icing a pastry here.
+~
+This plump kender fellow has rosy red cheeks and a big grin.  He has curly 
+brown hair and dimples appear when he smiles.  He cheerfully greets 
+customers, as he tries to sell his goods.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23120
+kender lady shopkeeper seamstress~
+a kender seamstress~
+A kender lady is sewing garments for her stall here.
+~
+This is a kender woman, perhaps in her early thirties.  She seems very 
+talented as she snips and tucks the garments she sews.  She has bright blue 
+eyes, and a cheerful smile.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23121
+kender soft voice shopkeeper~
+a kender shopkeeper~
+A kender with a soft voice is selling toys here.
+~
+This kender woman has a lovely soft voice, and curls of golden hair.  She 
+has a happy laugh as she helps the children choose a toy from her stall.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23122
+plump kender woman shopkeeper grocer~
+a plump kender grocer~
+A plump kender woman with a red apron, serves the customers here.
+~
+This friendly kender woman is selling locally grown fruit and vegetables.  
+She is plump and has brown curly hair.  A large grin adorns her face.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23123
+kender man innkeeper~
+a kender innkeeper~
+A kender man is the innkeeper here.
+~
+This cheery fellow is the innkeeper in Kenderville.  He has a large tummy 
+and plump cheeks.  There is always a smile to be seen on his face.  
+~
+0
+Clanname none~
+0
+0
+5 512 400 C
+120 3 -70 1d1000+1000 1d1+500
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#23100
+four poster bed~
+a four poster bed~
+A four poster bed stands in the middle of the room.~
+~
+12 0 8
+1000 1168 200 200 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23101
+chocolate mud cake~
+a chocolate mud cake~
+A chocolate cake sits here looking delicious.~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 320 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23102
+peaches~
+some `#`rpeaches`^~
+Some soft succulent `#`rpeaches`^ rest on the ground here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23102 peaches~
+These peaches look as if they are quite tasty.
+~
+#23103
+plums~
+some `#`mplums`^~
+Some `#`mplums`^ rest on the ground.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23103 plums~
+These plums look perfectly ripe.
+~
+#23104
+apples~
+some `#`Ggreen`^ apples~
+Some `#`Ggreen`^ apples rest on the ground here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23104 apples~
+These apples are crisp and rot free.
+~
+#23105
+pears~
+some `#`ypears`^~
+Some `#`ypears`^ lie on the ground here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23105 pears~
+These pears look perfectly ripe.
+~
+#23106
+bag pipeweed~
+a bag of pipeweed~
+A bag of pipeweed lays here.~
+~
+26 256 16
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23107
+large cabbage~
+a large `#`Gcabbage`^~
+A cabbage lies here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23107 cabbage~
+This is a cabbage.
+~
+#23108
+tomatoes~
+some `#`Rtomatoes`^~
+Some large plump `#`Rtomatoes`^ lie here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23108 tomatoes~
+These are some lovely plump tomatoes, just perfect in ripeness.
+~
+#23109
+large pumpkin~
+a pumpkin~
+`#`gA large pumpkin sits here.`^~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23109 pumpkin~
+This large pumpkin looks good enough to eat.
+~
+#23110
+small-hilted sword small~
+a small-hilted sword~
+A small hilted sword lies here.~
+~
+5 256 4
+2 7 16 0 0 0 0
+1 410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23110 sword~
+This is a well crafted halfling sword, too small for the larger
+peoples.
+~
+#23111
+leather breastplate~
+a small leather breastplate~
+A small leather breastplate lies here.~
+~
+9 256 8
+5 5 5 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23111 leather breastplate~
+The is a well crafted leather breastplate for a halfling. It is
+way too small for the larger peoples
+~
+#23112
+small shield~
+a small shield~
+A small shield lies here.~
+~
+9 256 8
+10 10 5 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23112 small shield~
+This is a halfling's shield. It is too small for the larger
+people.
+~
+#23113
+golden ring~
+`Wa small `Yg`yolden `Wring`^~
+A small golden ring lies in the dust here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 330 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23113 mayor ring~
+This is the mayor's ring of PleasantField. It is a perfect fit
+for those of a smaller size.
+~
+#23114
+sparkling crystal~
+a `#`Ws`Gp`Ba`Wr`Gk`Bl`Wi`Bn`Wg`^ crystal~
+A crystal sparkles here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23115
+white gold bracelet~
+`#`wa `Wwhite`Y-g`yo`Yl`yd `wbracelet`^~
+A bracelet lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 780 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23116
+small hilted sword~
+a small sword~
+A small hilted sword lies here.~
+~
+5 256 4
+2 17 25 0 0 0 0
+1 405 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23116 small sword~
+This is a well crafted halfling sword, too small for the larger
+peoples.
+~
+#23117
+small leather breastplate~
+a small leather breastplate~
+A small leather breastplate lies here.~
+~
+9 256 8
+10 10 5 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23117 leather breastplate~
+This is a well crafted leather breastplate for a halfling. It is
+way too small for the larger peoples.
+~
+#23118
+small shield~
+a small shield~
+A small shield lies here.~
+~
+9 256 8
+10 10 5 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23118 small shield~
+This is a halfling's shield. It is too small for the larger
+peoples.
+~
+#23119
+small room key~
+a small room key~
+A small key lies here.~
+~
+18 256 16
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23119 small key~
+This is a small key made of iron.
+~
+#23120
+apple pastry~
+an `#`rapple`^ pastry~
+A delicious smelling pastry lies here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 59 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23121
+ocean blue silk shirt~
+an `#`Bocean-blue`^ silk shirt~
+A blue silk shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23122
+ruby-red velvet dress~
+a `#`rruby-red`^ velvet dress~
+A velvet dress has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23123
+small green yo-yo~
+a small `#`Ggreen`^ yo-yo~
+A small `#`Ggreen`^ yo-yo is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23124
+little rag doll~
+a little `#`Rr`ra`Bg`^ doll~
+A little `#`Rr`ra`Bg`^ doll lies in a heap here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23125
+sticky lollipop~
+a sticky `#`Wl`Yo`Bl`rl`mi`Rp`Wo`Yp`^~
+A sticky `#`Wl`Yo`Bl`rl`mi`Rp`Wo`Yp`^ is melting here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 59 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23126
+peaches~
+some juicy `#`rpeaches`^~
+`#`gSoft succulent peaches rest on the ground here.`^~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 14 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23126 peaches~
+These peaches look as if they are quite tasty.
+~
+#23127
+bronze lantern~
+a `#`ybronze`^ lantern~
+A bronze lantern lies here.~
+~
+1 0 1
+0 500 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23128
+bright yellow dress~
+a `#`Ybright yellow`^ dress~
+A `#`Ybright yellow`^ dress is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23129
+blue overalls~
+some `#`Bblue`^ overalls~
+Some `#`Bblue`^ overalls lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#23100
+A Path to a Kender Village~
+~
+This is a small cobbled path about a pony cart width wide. It is
+well worn and has no pot holes. Around small leafy plants seem to
+have been planted along the side of the path, and flowers with
+huge heavy bumblebees buzzing around scent the air. Birds fly
+around in the thick hedges either side of the path. Through the
+hedge you can just make out fields with different crops.
+~
+1 0 2
+D0
+The path continues north
+~
+~
+0 -1 23101
+S
+#23101
+A Quaint Little Bridge~
+~
+A quaint, brightly painted bridge, barely the width of a pony cart, crosses 
+a trickling stream here.  The bridge is paved with grey cobble stones, and 
+heads into the halfling village to the north.  Wild flowers are strewn along 
+the banks of the stream, and their fragrant scent fills the air.  
+~
+1 0 2
+D0
+The entrance to the village is in this direction.
+~
+~
+0 0 23102
+D2
+The road leads south.
+~
+~
+0 0 23100
+S
+#23102
+Entrance to the Village~
+~
+The cobbled path, about a pony cart in width continues to the north, and 
+heads over a small bridge to the south.  To the west is a cottage, and to 
+the east, a path leading to more cottages.  Clumps of brightly coloured 
+flowers adorn the pathside attracting butterflies.  
+~
+1 0 1
+D0
+A small bridge is that way.
+~
+~
+0 0 23103
+D1
+~
+~
+0 0 23120
+D2
+A path from the village is in this direction.
+~
+~
+0 0 23101
+D3
+~
+~
+0 0 23112
+R M 0 23105 1 23102
+  R E 0 23128 0 12
+S
+#23103
+The Town Square~
+~
+The town square, cobbled in patterns of grey stone, has paths leading off in 
+several directions.  To the south, cottages line the path, and to the north, 
+kender villagers hustle towards the market shops.  Just east of here is a 
+large dwelling with a `#`Ssign`^ dangling over the doorway.  West of here, a path 
+leads to smaller dwellings.  
+~
+1 0 1
+D0
+The village entrance is in this direction.
+~
+~
+0 0 23113
+D1
+~
+~
+0 0 23122
+D2
+The fields and path out of village are in this direction.
+~
+~
+0 0 23102
+D3
+~
+~
+0 0 23129
+E
+sign ~
+`#`Y<< `GThe Jolly Traveller's Inn `Y>>`^ 
+~
+S
+#23104
+Kenderville Guard's Office~
+~
+This small dwelling is the home of the village guards.  Two desks, covered 
+in paper and folders, stand alongside the walls.  A shrivelled pot plant 
+sits neglected in one corner, and a needlework picture hangs on the wall.  
+~
+1 0 0
+D0
+~
+~
+0 0 23127
+R M 0 23103 2 23104
+  R E 0 23117 0 5
+  R E 0 23118 0 11
+  R E 0 23116 0 16
+R M 0 23103 2 23104
+  R E 0 23117 0 5
+  R E 0 23118 0 11
+  R E 0 23116 0 16
+S
+#23105
+Jasper's Fine Jewels~
+~
+Underneath the bright green awning of this stall is a long glass display 
+case which has a tiny padlock, near where the shopkeeper is standing.  
+Inside the display case are a variety of sparkling, shiny, and colourful 
+gems and trinkets, rings and necklaces.  There are no prices showing, but at 
+a guess the jewels would be on the more expensive side.  
+~
+1 0 0
+D0
+~
+~
+0 0 23118
+R M 0 23115 1 23105
+  R G 0 23114 0
+  R G 0 23115 0
+  R E 0 23129 0 5
+S
+#23106
+A Field of Farm Animals~
+~
+You are standing in a field of long, vibrant green grass.  Animals move 
+around as you walk through the field, and birds fly out of the long grass as 
+you walk through it.  West of here, the fragrant smell of plums and peaches 
+drifts over, and in the distance you see many other fields and orchards.  
+~
+1 0 2
+D3
+~
+~
+0 0 23124
+R M 0 23100 2 23106
+R M 0 23100 2 23106
+R M 0 23102 1 23106
+R M 0 23117 1 23106
+R M 0 23118 1 23106
+R M 0 23111 1 23106
+  R E 0 23129 0 5
+R O 0 39284 0 23106
+R O 0 39284 0 23106
+S
+#23107
+Briebaen's Bakery~
+~
+Below the bright pink awning of this stall, is a selection of delicious 
+smelling pastries and breads.  There are little cupcakes, and large cakes, 
+and sunflower breads, all of which look very tempting.  A plump little 
+fellow with an apron is tending to the stall.  
+~
+1 0 0
+D2
+~
+~
+0 0 23126
+R M 0 23119 1 23107
+  R G 0 23120 0
+  R G 0 23101 0
+  R E 0 23129 0 5
+S
+#23108
+A Field of Pumpkins and Tomatoes~
+~
+You are standing in a field of pumpkin and tomato plants.  The tendrils of 
+the plants end in big round pumpkins and juicy red tomatoes.  They smell 
+sweet and their bright colours indicate they are ready to be harvested.  
+South of here, the scent of apples and pears drifts over, and from the east, 
+the fragrance of peaches and plums.  
+~
+1 0 2
+D1
+~
+~
+0 0 23124
+D2
+~
+~
+0 0 23119
+R O 0 23109 0 23108
+R O 0 23108 0 23108
+R M 0 23104 5 23108
+  R E 0 23129 0 5
+S
+#23109
+Garments Made By Gibwyn~
+~
+Several racks display a selection of smallish clothing, beneath the yellow 
+and white awning of this stall.  The clothing looks like it would fit a 
+kender or creature of similar size.  There are fancy garments with frills 
+and sparkles, and plain cotton threads.  There is a small rack of shoes near 
+where the shopkeeper is standing.  
+~
+1 0 0
+D0
+~
+~
+0 0 23126
+R M 0 23120 1 23109
+  R G 0 23121 0
+  R G 0 23122 0
+  R E 0 23128 0 12
+S
+#23110
+Frub's Weapons and Armor~
+~
+The bright red and white striped awning of this market stall covers a 
+display of small weapons and armor, suitable for a kender, or other 
+similarly small creature.  The shopkeeper is taking his time to polish each 
+item, till the glare is almost blinding when the sun hits the display.  
+~
+1 0 0
+D2
+~
+~
+0 0 23118
+R M 0 23112 1 23110
+  R G 0 23110 0
+  R G 0 23111 0
+  R G 0 23112 0
+  R E 0 23129 0 5
+S
+#23111
+Deriand's Delights For Youngsters~
+~
+The brightly coloured awning is perfect for attracting the young kenders to 
+this stall.  On display are wooden toys, rag dolls, coloured yo-yos, and 
+other little toys.  On the counter near the shopkeeper is a large glass jar 
+filled with sticky sweets, lollipops, and gobstoppers.  
+~
+1 0 0
+D2
+~
+~
+0 0 23128
+R M 0 23121 1 23111
+  R G 0 23123 0
+  R G 0 23124 0
+  R G 0 23125 0
+  R E 0 23128 0 12
+S
+#23112
+A Small Cottage~
+~
+This is the house of a halfling family.  There is a row of pictures along 
+one of the walls showing the members of the family.  There are a number of 
+plush cushions on the floor and there is a chest of drawers against the 
+wall, which holds the clothes of the family.  To the east is the main street 
+of the village.  
+~
+1 8 0
+D1
+~
+~
+0 0 23102
+R M 0 23106 10 23112
+R M 0 23110 10 23112
+  R E 0 23128 0 12
+E
+chest drawers~
+This looks like a rather large chest of drawers. It only contains
+clothes of no worth.
+~
+S
+#23113
+A Cobbled Path in the Village~
+~
+The path of grey cobblestones heads south towards the town square and north 
+towards the local market.  Kender villagers walk through the streets, 
+smiling widely at locals and strangers alike.  The path has been carefully 
+decorated with brightly coloured flowers, and occasionally a butterfly will 
+flutter by, attracted by the sweet fragrance.  
+~
+1 0 1
+D0
+The street continues in that direction.
+~
+~
+0 0 23117
+D2
+The path leads out of the village that way.
+~
+~
+0 0 23103
+E
+sign~
+'Welcome to PleasantFields...spend well and keep this place
+tidy.'
+~
+S
+#23114
+The Mayor's Cottage~
+~
+This is the home of the mayor of Kenderville.  The furniture here is of top 
+elven quality and a little oversized for a kender.  A few fragile antiques 
+adorn the furniture, and a large painting of the mayor himself, hangs over a 
+wooden mantlepiece.  
+~
+1 8 0
+D2
+~
+~
+1 0 23129
+R M 0 23116 1 23114
+  R E 0 23113 0 1
+S
+#23115
+A Cosy Bedroom~
+~
+The bedroom is lavishly decorated with a four-posted bed in the center of 
+the room, and a lush rug draped over the floor.  A brass lantern stands on a 
+finely carved chest of drawers, and there is a slightly faded painting of a 
+valley of apple trees overhaning the chest.  The earthern walls are painted 
+in a soft cream, and accompanied by burgandy velvet curtains and carpet.  
+~
+1 8 0
+D3
+~
+~
+0 0 23122
+R O 0 23100 0 23115
+S
+#23116
+The General Store~
+~
+Clusters of shelves hang on the walls of this general store, and a counter 
+stands along one wall.  Bins of goods are strewn randomly through the shop, 
+selling various goods.  Dried pipeweed hangs from the walls in clumps, and 
+coiled ropes hang on hooks above the counter.  
+~
+1 0 0
+D1
+The village 'street' is in this direction.
+~
+~
+0 0 23117
+R M 0 23108 1 23116
+  R G 0 23106 0
+  R G 0 23127 0
+  R E 0 23129 0 5
+S
+#23117
+A Cobbled Path in Kenderville~
+~
+The cheerful chatter of kenders drifts over from the east, where the path 
+heads towards the village market.  Brightly coloured stalls catch your eye, 
+and you hear the beckoning calls of the shopkeepers enticing you over to the 
+market.  A general store stands to the west of here, and in the distant 
+north you see various fields and orchards.  The town square is south of 
+here.  
+~
+1 0 1
+D0
+The village 'street' continues.
+~
+~
+0 0 23121
+D1
+The village trading post is that way.
+~
+door~
+0 0 23118
+D2
+the village 'street' continues.
+~
+~
+0 0 23113
+D3
+The village common is that way.
+~
+~
+0 0 23116
+S
+#23118
+Entrance to the Town Market~
+~
+The chatter of happy kenders drifts over from the market stalls surrounding 
+you, where the kenders are selling their locally made goods and wares.  To 
+the west the path heads back to the main street of Kenderville.  You can see 
+many brightly coloured stalls in the market, each with a cheerful kender 
+boasting about their cheap prices.  
+~
+1 8 1
+D0
+~
+~
+0 0 23110
+D1
+~
+~
+0 0 23126
+D2
+~
+~
+0 0 23105
+D3
+This is the way out of the shop.
+~
+door~
+0 0 23117
+S
+#23119
+The Apple and Pear Orchard~
+~
+This orchard is filled with apples and pears.  The fruit is almost ready to 
+pick and the ladders used by the kender farmers are already out.  Birds fly 
+through the trees and moths flutter past you as you disturb the branches.  
+The sweet smell of ripened fruit wavers in the air.  
+~
+1 0 2
+D0
+~
+~
+0 0 23108
+D1
+~
+~
+0 0 23121
+R O 0 23104 0 23119
+R O 0 23105 0 23119
+R M 0 23114 10 23119
+R M 0 23104 5 23119
+  R E 0 23129 0 5
+S
+#23120
+A Little Cottage~
+~
+This a cosy cottage for a small kender family.  There a few cots set up 
+along one wall, and there is a little pot belly stove on the opposite wall.  
+On the bench are some tomatoes and plump peaches.  
+~
+1 8 0
+D3
+~
+~
+0 0 23102
+R M 0 23110 10 23120
+  R E 0 23128 0 12
+R M 0 23109 10 23120
+R M 0 23113 10 23120
+S
+#23121
+A Cobbled Path in the Village~
+~
+This cobbled path is about a pony cart wide in width.  It leads north and 
+west to the orchards and fields of Kenderville, where the local kenders grow 
+their crops and produce.  To the south, it heads back towards the main 
+square.  
+~
+1 0 1
+D0
+~
+~
+0 0 23124
+D2
+The village 'street' continues.
+~
+~
+0 0 23117
+D3
+~
+~
+0 0 23119
+S
+#23122
+The Jolly Traveller's Inn~
+~
+This large dwelling is the local inn and tavern.  A polished oakwood bar 
+dominates the cluttered room, enticing the weary traveller to a quiet drink. 
+ A crackling fire sends flickers of light across the room, and cosy 
+armchairs have been placed before the fireplace.  A rosy-cheeked innkeeper 
+wipes down the bar, and grins at you as you enter.  
+ 
+Type LIST to view the rooms for rent.
+~
+1 1107296264 0
+D3
+~
+~
+0 0 23103
+R M 0 23123 1 23122
+  R E 0 23129 0 5
+  R G 0 23119 0
+S
+#23123
+Freraw's Fresh Fruit and Veggies~
+~
+On display at this stall is a selection of the locally grown fruit and 
+vegetables.  There are giant-sized pumpkins, plump red tomatoes, juicy 
+peaches and plums, crisp apples and crunchy pears.  A large bright blue 
+awning keeps the produce cool.  
+~
+1 0 0
+D0
+~
+~
+0 0 23128
+R M 0 23122 1 23123
+  R G 0 23107 0
+  R G 0 23126 0
+  R E 0 23128 0 12
+  R G 0 23105 0
+  R G 0 23104 0
+S
+#23124
+The Peach and Plum Orchard~
+~
+This is an orchard full of peach and plum trees.  The smell in the air is 
+sweet with ripened fruit and peach and plum blossoms.  There are large 
+ladders resting against the trees, for the kenders to gather the fruit.  
+West of here, you see a crop of pumpkins and tomatoes, and east, you here 
+the mingled sounds of animals.  Heading south, the path leads back into the 
+town centre.  
+~
+1 0 2
+D1
+~
+~
+0 0 23106
+D2
+~
+~
+0 0 23121
+D3
+~
+~
+0 0 23108
+R O 0 23102 0 23124
+R O 0 23103 0 23124
+R M 0 23114 10 23124
+R M 0 23104 5 23124
+  R E 0 23129 0 5
+S
+#23125
+A Cobbled Path To And From The Fields~
+~
+This path leads to and from the orchards of the village of
+PleasantField. It has gates to the north, east and west leading
+to different orchards. To the east and west there are large fruit
+trees. To the north are some trees without fruit.
+~
+1 32772 2
+S
+#23126
+A Market Path~
+~
+Kenders doing their shopping bustle past you, chattering cheerfully.  
+Shopkeepers beckon to you as they see you past by, calling out their cheap 
+prices to entice you over to their stall.  East heads further into the 
+market, and west heads back towards the main street.  
+~
+1 0 1
+D0
+~
+~
+0 0 23107
+D1
+~
+~
+0 0 23128
+D2
+~
+~
+0 0 23109
+D3
+~
+~
+0 0 23118
+R M 0 23105 2 23126
+  R E 0 23128 0 12
+S
+#23127
+At the end of a Cobbled Path~
+~
+The cobblestone path ends at a small office to the south.  You can see in 
+the distance fields and orchards surrounding the village, and hear the buzz 
+of bees and chirping of birds.  A wooden `#`Ssign`^ hangs over the door to the 
+south, and to the east, the path heads back to the town square.  
+~
+1 0 1
+D1
+~
+~
+0 0 23129
+D2
+~
+~
+0 0 23104
+E
+sign ~
+`#`W [ `BKenderville Guard's Office`W ]`^
+~
+S
+#23128
+At the End of the Market~
+~
+You have reached the end of the market.  There are stalls north and south of 
+here, but looking east of here, you see only fields and orchards.  The path 
+heads west back towards the main street and other market stalls.  
+~
+1 0 1
+D0
+~
+~
+0 0 23111
+D2
+~
+~
+0 0 23123
+D3
+~
+~
+0 0 23126
+S
+#23129
+A Cobbled Path in the Village~
+~
+The cobbled path heads east in to the town square, and to the north of here 
+there is a rather fancy, well-kept house.  The path continues to the west, 
+to a small office.  Bunches of brightly coloured flowers have been planted 
+along the path, and the scented fragrance drifts through the air.  
+~
+1 0 1
+D0
+~
+~
+1 0 23114
+D1
+~
+~
+0 0 23103
+D3
+~
+~
+0 0 23127
+S
+#0
+
+
+#SHOPS
+ 23108    5  6  7  9  0   160  60         2 22    ; a kender shopkeeper
+ 23112    0  0  0  0  0   160  60         2 22    ; a kender shopkeeper
+ 23115    0  0  0  0  0   160  60         2 22    ; a plump kender jeweler
+ 23119    0  0  0  0  0   160  60         2 22    ; a kender baker
+ 23120    0  0  0  0  0   160  60         2 22    ; a kender seamstress
+ 23121    0  0  0  0  0   160  60         2 22    ; a kender shopkeeper
+ 23122    0  0  0  0  0   160  60         2 22    ; a plump kender grocer
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

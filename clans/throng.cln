@@ -1,0 +1,91 @@
+#CLAN
+Name         Throng~
+Filename     throng.cln~
+Intro        Hail to the Throng!! Death to all that apose us!!~
+Motto        To perpetuate Hell, Death, and Destruction.~
+Description  (null)~
+Warmaster    Fanad~
+Chieftain    Theatyn~
+Badge        &Y/&R\&O\&r THRONG &O/&R\&Y\&D~
+PKillRangeNew   0 3 0 4 14 11 4 3 2 6 20
+PDeathRangeNew  20 3 1 5 22 5 6 10 2 5 85091
+MKills       90774
+MDeaths      1254
+IllegalPK    7
+Score        0
+Type         0
+Members      45
+MemLimit     1000
+Alignment    0
+Board        0
+ClanObjOne   1123
+ClanObjTwo   1125
+ClanObjThree 1126
+ClanObjFour  1127
+ClanObjFive  1128
+Clanstatus   1
+Recall       1123
+Totalpoints  21469
+GuardOne     29101
+GuardTwo     0
+ArenaVictory 228
+Chieflog     1485916226
+Warlog     1485909649
+PKILLAREA         kingdom of heaven~
+PKILLAREA         iron city of dis~
+PKILLAREA         szithlin city~
+PKILLAREA         mines of shatkul~
+PKILLAREA         golden peninsula~
+PKILLAREA         school of shadow~
+PKILLAREA         spider swamp~
+PKILLAREA         tufkul'ar~
+PKILLAREA         kirwood swamp~
+PKILLAREA         ice castle~
+PKILLAREA         cliffs of green~
+PKILLAREA         terizak forest~
+PKILLAREA         harpy landing~
+PKILLAREA         obscure island~
+PKILLAREA         merchant discovery~
+PKILLAREA         vila island~
+PKILLAREA         isle of death~
+PKILLAREA         dakar city~
+PKILLAREA         manoake city~
+PKILLAREA         Tears of Mount Cierra ~
+PKILLAREA         Regius Fonds~
+PKILLAREA         forbidden city~
+PKILLAREA         Haon Dor~
+PKILLAREA         Astral Plane~
+PKILLAREA         Gnome Tower~
+PKILLAREA         Paleon Atheneum ~
+PKILLAREA         Crystal Forest~
+PKILLAREA         Ice Cavern~
+PKILLAREA         Garden~
+PKILLAREA         Tullfuhrzky Manor~
+PKILLAREA         Mystical Rift~
+PKILLAREA         Warlock Keep~
+PKILLAREA         Dragon Exports~
+PKILLAREA         Lost Valley~
+PKILLAREA         Unholy Grounds~
+PKILLAREA         Ixious Village~
+PKILLAREA         Nine Planes of Hell~
+PKILLAREA         Pixadale~
+PKILLAREA         Throng Training Tower~
+PKILLAREA         Mausoleum~
+PKILLAREA         Spiral village~
+PKILLAREA         Bowels of the Citadel~
+PKILLAREA         Newunderdark~
+PKILLAREA         The Apprentice Garden~
+PKILLAREA         Paleon City~
+PKILLAREA         Loramoor City of the Trees~
+PKILLAREA         Citadel~
+PKILLAREA         Caverns~
+PKILLAREA         Paleon Prison~
+PKILLAREA         Abyss~
+PKILLAREA         Durdun~
+PKILLAREA         Under the Volcano~
+PKILLAREA         Shoreline~
+PKILLAREA         Drakkel Sharda~
+PKILLAREA         Village of Jarynth~
+End
+
+#END

@@ -1,0 +1,3042 @@
+#AREA        Festivals~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1520
+ticketmaster~
+the ticketmaster~
+The ticketmaster stands here with a smile.
+~
+The ticketmaster stands proudly here. Colorful tickets poke out of every 
+pocket in his shiny coat. He has a smile for any that pass and a twinkle in 
+his eyes. He seems to be more of a greeter than a seller as he allows the 
+children to pass freely. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+113 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1521
+puss in boots~
+puss in boots~
+Puss in Boots stands here with his fedora in hand.
+~
+Puss in Boots cuts a dashing figure here. His orange and white striped coat 
+is full and glossy. His whiskers tremble as he sniffs the air delicately. He 
+holds his jaunty hat in his paws as he strides around. His high boots come 
+up to mid-thigh and shine as if they were polished daily. His long tail 
+curls against the bottom of his cape and slowly twitches back and forth. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1522
+twelve dancing princesses~
+the twelve dancing princesses~
+The twelve dancing princesses sleep here.
+~
+The king's twelve dancing princesses are here sound asleep. Their dancing 
+shoes are worn down to the tread and the ribbons are ragged and dirty. Their 
+dresses are sweat-stained from their hours of dancing. A twig from a golden 
+branch is nested in one of the princess's strands of hair. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1523
+old woman~
+an old woman~
+An old woman rests her weary bones in the rocker.
+~
+This woman's age can almost be counted with the wrinkles that line her face. 
+She has a look of bewilderment on her old face as she peers out over all of 
+the children. Her face settles as she speaks, a warm glow coming forth as 
+she entertains the children. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 0 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1524
+little boy~
+a little boy~
+A little boy with a big grin is here.
+~
+This little boy clad in overalls and a simple shirt has a big grin on his 
+face. His face is sticky with cotton candy and a smear on the front of his 
+overalls looks suspiciously like chocolate. Overall, this is a happy little 
+boy. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1525
+balloon seller~
+a balloon seller~
+The balloon seller is here.
+~
+The balloon seller is here. Balloons of all colors are held firmly in his 
+grasp. He smiles as the children gather around him for balloons. His pockets 
+bulge with silver, evidence of the children's love of balloons. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1526
+three blind mice~
+three blind mice~
+The three blind mice are wandering around here.
+~
+The three blind mice are wandering here. Their tails are missing, and they 
+are trying to hide the nubs of their tails self consciously. One of them is 
+muttering something under his breath about a crazed farmer's wife. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1527
+pinocchio~
+pinocchio~
+Pinocchio stands here covering his nose.
+~
+Pinocchio, clad in short red overalls and a bright yellow shirt, is here. 
+His wooden hands are clasped to his nose which continues to grow as he 
+speaks. His yellow feathered hat has been stuffed in the back pocket of his 
+overalls. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1528
+jelly belly~
+jelly belly~
+Jelly Belly stands here with his goodies.
+~
+Jelly Belly, aptly nicknamed for the jelly doughnut stains across his wide 
+middle, rests here with his goodies for sale. He has wide face with an easy 
+smile and twinkling blue eyes. A half-empty box of doughnuts sits next to 
+him. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+113 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1529
+candy man~
+the candy man~
+The candy man is here handing out candies.
+~
+The candy man is here with all of his sweets. He wears a striped apron and a 
+clean white chef's hat. His belly is becoming round, evidence of his sweet 
+tooth. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1530
+thumbelina~
+thumbelina~
+Thumbelina sits here in her rose petal chair.
+~
+Thumbelina rests in her tiny petal chair here. Her long golden tendrils curl 
+down to her royal blue dress. Her tiny hat sits back on her head as she 
+leans forward to copy another tale. Her quill is from the tiniest of 
+feathers. She pokes the tip of her tongue out of her mouth as she 
+concentrates. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1531
+goat small~
+a baby goat~
+A baby goat stands here, waiting for some attention.
+~
+This baby goat, stout and muscular in nature is as cute as can be.  When 
+open, light blue eyes sparkle in any bit of light that may happen to touch 
+them. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1532
+sleeping child~
+a sleeping child~
+A child sleeps here.
+~
+This little kid is tuckered out. He snores away as his parents rest nearby. 
+His overalls are caked with chocolate and dirt. He's obviously had a fun 
+time at the festival. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1533
+lamb fluffy~
+a fluffy lamb~
+A fluffy lamb grazes about here.
+~
+This little lamb is quite fluffy in nature, a nice warm coat to keep the 
+body warm. Gazing green eyes peer about as it grazes, looking for something 
+more interesting to get into. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1534
+duck short~
+a waddling duck~
+A duck moves about here, waddling along.
+~
+This duck, beige and brown head to toe, appears to be focused on movement in 
+general, let alone in a specific direction.  The baby duckling just born 
+appears to be learning to walk as you glance over at it. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1535
+deer young~
+a young deer~
+A young deer stands here, watching people pass by.
+~
+This young deer, with a nice muscular structure flowing from head to toe, 
+has a set of light yellow eyes.. much in contrast to the rest of the light 
+brown fur coating over the rest of the body. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1536
+mary~
+mary~
+Mary stands here with some feed for the animals.
+~
+Mary is here clad in her blue dress, white pinafore and bonnet. She holds 
+packets of feeds for the animals and has more stacked behind her. She would 
+probably sell you a few if you wanted to feed the animals at the petting 
+zoo. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1537
+little girl~
+a little girl~
+A little girl is here.
+~
+This little girl's face is lit up with excitement and wonder as she peers 
+around herself. Her hair is in pigtails, and she gives a little giggle as 
+she carefully inspects the surroundings. Her lightweight dress and slippers 
+are perfect for her adventure at the festival. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1538
+sleepy~
+sleepy~
+Sleepy has fallen asleep here with his head on his shovel.
+~
+Sleepy snores away here. His cap has fallen down over his eyes, effectively 
+blocking all light from disturbing his sleep. You notice his clothing is 
+loosely fitted to allow him maximum comfort. Loud snores roll out of him. He 
+doesn't appear as dirty as the other dwarves. This is probably from him 
+falling asleep on the job and not getting as much done. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1539
+happy~
+happy~
+Happy stands here with a big cheesy smile.
+~
+Happy stands here with his hands on his jiggling round stomach. He tries to 
+stand upright as he tells corny jokes to any that will stop to listen. His 
+face is flushed from laughter. "Did you hear the one about the two silkworms 
+that had a race? It ended up in a tie!" Haha! 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1540
+jolly giant~
+the jolly giant~
+The Jolly Giant is hunched over here.
+~
+The Jolly Giant is hunched over here as he writes with dedication. He 
+carefully dips his quill into the inkwell then transcribes the nursery 
+rhymes. He blots his spills then signs his name with a flourish to the end 
+page. His clothes are dotted with drops of blue ink. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1541
+boys girls jacks~
+a group of boys and girls~
+A group of boys and girls are here playing jacks.
+~
+This little group of children is playing jacks quietly. They are up past 
+their bedtime and don't want the old lady to notice them. They are clad in 
+their night gowns and wear little bed caps on their small heads. They yawn 
+constantly and rub their eyes as fatigue slowly overcomes them. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1542
+meihlo~
+meihlo~
+Meihlo stands here next to a chest of toys for sale.
+~
+Meihlo stands here with a smile of satisfaction on his face as he watches 
+the children play. He wears a dark blue apron to cover up all of the stains 
+on his clothing that he aquires from making the toys. Each of his toys is 
+hand-crafted and made with love. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1543
+fluffy puppy dog~
+a fluffy puppy dog~
+A fluffy puppy dog wanders here.
+~
+This fluffy puppy dog is adorable with its soft brown coat and big 
+chocolately brown eyes. He bays soulfully as you approach then flops to his 
+back for a belly rub. His little tail works back and forth in excitement. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1544
+muffin man~
+the muffin man~
+The Muffin Man is here hoarding his muffins.
+~
+The Muffin Man is here, holding all of his muffins. He greedily covers his 
+stash and turns his back to those who come near him to protect it. He is far 
+from Drury lane but his muffins remind him that home is near. He mutters 
+something about rude people always coming to visit him and steal his 
+muffins. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1545
+gingerbread man~
+the gingerbread man~
+The gingerbread man looks around in confusion.
+~
+The little gingerbread man sits down on a table. He looks a bit dazed and 
+confused as he looks around. He's not supposed to be here. The Muffin Man 
+somehow scooped him up in a big pile of muffins as he was running away with 
+a huge stash of them. The Gingerbread Man's buttons are a little crooked and 
+his icing is slowly melting. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1546
+little miss muffet~
+little miss muffet~
+Little Miss Muffet sits here primly.
+~
+Little Miss Muffet sits here in her little prim dress with her empty bowl. 
+She has finally found a spot away from that horrible spider. She has a smug 
+look on her face as she scans the area for other spiders. Every once in a 
+while you can hear her saying under her breath, "Not on this tuffet you 
+don't!" 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+98 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1547
+baby unicorn~
+a baby unicorn~
+A baby unicorn skips lightly over the grasses.
+~
+A baby unicorn looks at you quietly as you inspect it. Its long horn spirals 
+outwards and pulses with a soft white light. Its coat is a pure white, its 
+tail and mane the silver of stardust. The creature seems otherworldly and 
+noble as it calmly looks at you then continues its dance across the grass. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1548
+two jump rope girls~
+two girls playing jump rope~
+Two girls are here playing jump rope.
+~
+Two little girls playing jump rope are here. As you approach, they ask you 
+if you will swing one of the end of the jump rope for them. One of the 
+little girls is clad in a white jumpsuit, and it looks as if she has been 
+sitting in the dirt. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1549
+colorful butterfly~
+a `#`?colorful`^ butterfly~
+A `#`?colorful`^ butterfly flits around.
+~
+This colorful butterflies flies along from flower to flower in search of 
+nectar. Its tiny black feet are covered in yellow pollen. When it lands, it 
+leaves soft yellow prints. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1550
+pretty song bird~
+a pretty song bird~
+A pretty song bird hops along here.
+~
+This song bird has full healthy feathers. The color of its plummage varies 
+as the sun strikes it at different angles. It pecks at the ground and 
+feathers as it looks for food. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1551
+fuzzy caterpillar~
+a `#`Gfuzzy`^ caterpillar~
+A `#`Gfuzzy`^ caterpillar wriggles along here.
+~
+This bright green caterpillar has long shaggy fuzz sprouting off its body. 
+It is no more than a human pinky finger long. It constantly quivers as it 
+moves about, and its movement causes the fuzz on it to wave slowly. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1552
+friendly foodstand woman~
+a friendly foodstand woman~
+A friendly foodstand woman stands here.
+~
+This woman wears a dark blue sundress that has light swirls of gray. Her 
+hair is pulled back away from her freckled face, and her smile is wide for 
+everyone that passes. She stands behind her foodstand with various treats on 
+the counters. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1553
+little boy~
+a little boy~
+A little boy is here playing.
+~
+Dirt and grass stains cover this little boy's overalls. His hair is mussed, 
+and he has a big smile on his face. He is lightly tanned from being out in 
+the sun and his cheeks are rosey. He wanders around from activity to 
+activity. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1554
+little girl~
+a little girl~
+A little girl is playing here.
+~
+This little girl's cheeks and nose are red from being out in the sunlight. 
+Her jumpsuit is still fairly clean, but her braid is coming undone. She 
+looks like she has been playing very hard. Her hands are dirty and when she 
+wipes the sweat out of her eyes, she leaves a small smudge across her 
+forehead. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1555
+curly haired boy~
+a curly haired boy~
+A curly haired boy is here holding a fish above his head.
+~
+This curly haired little boy is beaming with pleasure at his catch. He has 
+water running down his arms as he hoists the big fish over his head. He has 
+been completely drenched in water up to his hips. When he opens his mouth to 
+laugh, you can see where he has recently lost a tooth. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1556
+pair brown ducklings~
+a pair of brown ducklings~
+A pair of brown ducklings swims in the water.
+~
+Two ducklings huddle together here. Their feathers are a light brown with 
+white flecks dusting their wings. Their small beaks are a soft shade of 
+orange. They quack quietly to one another as they snuggle. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1557
+worried mother~
+a worried mother~
+A worried mother calls frantically for her child.
+~
+This woman has a frightened look on her face as she calls out worriedly for 
+her child. Her hair is mussed as if she has constantly ran her fingers 
+through it. Her clothes are stained from the dirt. It looks like she has 
+been crawling on her hands and knees for some reason. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1558
+angry little boy~
+an angry little boy~
+An angry little boy wanders here.
+~
+This little boy has a disgruntled look on his face. He is dirty from 
+playing, and he appears to be quite lost in the maze. His parents are no 
+where to be seen. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1520
+bentwood rocker~
+a bentwood rocker~
+A bentwood rocker is here.~
+~
+12 0 8
+200 1168 100 100 0 0 0
+4 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1520 bentwood rocker~
+An old bentwood rocker is here. The wood has been polished with a dark 
+shine, and the patching in the seat sags a little. It looks like a well used 
+and loved chair. 
+~
+#1521
+yellow balloon~
+a `#`Yyellow`^ balloon~
+A `#`Yyellow`^ balloon floats here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 21 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1522
+paper grab bag~
+a paper grab bag~
+A paper grab bag is here.~
+~
+15 0 8
+1 0 30 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1523
+paper grab bag~
+a paper grab bag~
+A paper grab bag is here.~
+~
+15 0 8
+1 0 30 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1524
+fluffy cotton candy~
+fluffy `#`Mcotton candy`^~
+Delicious fluffy `#`Mcotton candy`^ is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 55 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1525
+colorful sleeping mats~
+`#`?c`?o`?l`?o`?r`?f`?u`?l`^ sleeping mats~
+`#`?C`?o`?l`?o`?r`?f`?u`?l`^ sleeping mats have been placed here.~
+~
+12 0 8
+100 132240 120 120 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1526
+purple book nursery rhymes~
+a `#`mpurple`^ book of nursery rhymes~
+A `#`mpurple`^ book of nursery rhymes as been left here. Perhaps you should look at pages one through seven.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1526 seven ~
+Little Miss Muffet `1 Sat on a tuffet `1 Eating her curds and whey; `1 Along came a spider, `1 Who sat down beside her `1 And frightened Miss Muffet away. 
+~
+E
+1526 six ~
+Bobby Shaftoe went to sea, `1 Silver buckles on his knee. `1 He'll come back and marry me, `1 Pretty Bobby Shaftoe. `1 Bobby Shaftoe's fine and fair, `1 Combing down his auburn hair. `1 He's my friend for evermore, `1 Pretty Bobby Shaftoe. 
+~
+E
+1526 five ~
+Rock-a-bye, baby, `1 in the tree top. `1 When the wind blows, `1 the cradle will rock. `1 When the bough breaks, `1 the cradle will fall, `1 And down will come baby, `1 cradle and all. 
+~
+E
+1526 four ~
+Hickory, dickory, dock, `1 The mouse ran up the clock. `1 The clock struck one, `1 The mouse ran down! `1 Hickory, dickory, dock. 
+~
+E
+1526 three ~
+Hey, diddle, diddle, `1 The cat and the fiddle, `1 The cow jumped over the moon. `1 The little dog laughed `1 To see such sport, `1 And the dish ran away with the spoon. 
+~
+E
+1526 two ~
+Georgie Porgie, puddin' and pie, `1 Kissed the girls and made them cry. `1 When the boys came out to play, `1 Georgie Porgie ran away. 
+~
+E
+1526 one ~
+Do you know the Muffin Man, `1 The Muffin Man, `1 The Muffin Man? `1 Do you know the Muffin Man `1 Who lives in Drury Lane? `1 Yes, I know the Muffin Man, `1 The Muffin Man, `1 The Muffin Man. `1 Yes, I know the Muffin Man `1 Who lives in Drury Lane. 
+~
+#1527
+silver bound book of rhymes~
+a `#`Ssilver`^ bound book of rhymes~
+A `#`Ssilver`^ bound book of rhymes has been left here. Perhaps you should look at pages one through eleven.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1527 eleven ~
+Cross Patch, draw the latch, `1 Sit by the fire and spin; `1 Take up a cup, and drink it up, `1 Then call the neighbors in. 
+~
+E
+1527 ten ~
+Do your ears hang low? `1 Do they wobble to and fro? `1 Can you tie 'em in a knot? `1 Can you tie 'em in a bow? `1 Can you throw 'em over your shoulder `1 Like a continental soldier? `1 Do your ears hang low? 
+~
+E
+1527 nine ~
+Humpty Dumpty sat on a wall. `1 Humpty Dumpty had a great fall. `1 All the king's horses and all the king's men `1 Couldn't put Humpty together again! 
+~
+E
+1527 eight ~
+Old Mother Hubbard `1 Went to the cupboard `1 To fetch her poor dog a bone; `1 But when she came there `1 The cupboard was bare, `1 And so the poor dog had none. 
+~
+E
+1527 seven ~
+On top of spaghetti, `1 All covered with cheese, `1 I lost my poor meatball `1 When somebody sneezed. `1 It rolled off the table `1 And onto the floor, `1 And then my poor meatball `1 Rolled right out the door. 
+~
+E
+1527 six ~
+What are little boys made of? `1 Snips and snails, `1 And puppy dog tails, `1 That's what little boys are made of. `1 `1 What are little girls made of? `1 Sugar and spice, `1 And everything nice, `1 That's what little girls are made of. 
+~
+E
+1527 five ~
+Wee Willie Winkie `1 Runs through the town, `1 Upstairs and downstairs `1 In his nightgown. `1 Rapping at the windows, `1 Crying through the lock, `1 "Are the children all in bed? `1 For it's now eight o'clock. 
+~
+E
+1527 four ~
+Sing a song of sixpence, `1 A pocket full of rye; `1 Four and twenty blackbirds `1 Baked in a pie. `1 When the pie was opened, `1 They all began to sing. `1 Now, wasn't that a dainty dish `1 To set before the King? 
+~
+E
+1527 three ~
+The Queen of Hearts, `1 She made some tarts `1 All on a summer's day. `1 The Knave of Hearts, `1 He stole the tarts `1 And took them clean away. `1 The King of Hearts, `1 Called for the tarts `1 And beat the Knave full sore. `1 The Knave of Hearts, `1 Brought back the tarts `1 And vowed he'd steal no more. 
+~
+E
+1527 two ~
+Pat-a-cake, pat-a-cake, baker's man, `1 Bake me a cake as fast as you can. `1 Roll it, and prick it, and mark it with a "B" `1 And put it in the oven for Baby and me! 
+~
+E
+1527 one ~
+Mary, Mary, quite contrary, `1 How does your garden grow? `1 With silver bells and cockleshells, `1 And pretty maids all in a row. 
+~
+#1528
+feed packet~
+a feed packet~
+A feed packet for the animals is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1529
+picnic blanket~
+a `#`Rc`Wh`Re`Wc`Rk`We`Rr`We`Rd`^ picnic blanket~
+A `#`Rc`Wh`Re`Wc`Rk`We`Rr`We`Rd`^ picnic blanket is spread out.~
+~
+12 0 8
+200 132240 100 100 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1530
+no name 1530~
+bunk beds~
+A short row of bunk beds is here.~
+~
+12 0 8
+100 2192 100 100 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1530 bunk bed~
+A short of of bunk beds is here. Each bunk has the child's initials carved 
+into it. A cuddly stuffed bear is on each of the pillows. 
+~
+#1531
+hand puppet~
+a hand puppet~
+A hand puppet made out of a sock is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1531 hand puppet~
+A hand puppet made out of a sock has been left here. It has two shiny black 
+buttons for eyes and a mouth that has been made from red stitches. Its hair 
+is short strands of scrap fabric. 
+~
+#1532
+heart shaped diary~
+a `#`Rheart`^ shaped girl's diary~
+A `#`Rheart`^ shaped girl's diary has been left here.~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1533
+colorful kite~
+a `#`?c`?o`?l`?o`?r`?f`?u`?l`^ kite~
+A `#`?c`?o`?l`?o`?r`?f`?u`?l`^ kite has been left here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1534
+tube red lipstick~
+a tube of `#`Rred`^ lipstick~
+A tube of `#`Rred`^ lipstick has been left here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1535
+cowboy boots~
+a pair of cowboy boots~
+A pair of cowboy boots is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1536
+white cowboy hat~
+a `#`Wwhite`^ cowboy hat~
+A `#`Wwhite`^ cowboy hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1537
+shoe~
+the entrance of the shoe~
+~
+~
+29 0 16
+0 0 1528 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1538
+hole to the outside~
+a hole to the outside~
+A hole to the outside has been made here.~
+~
+29 0 16
+0 0 1527 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1539
+white picnic table~
+a `#`Wwhite`^ picnic table~
+A `#`Wwhite`^ picnic table is here.~
+~
+12 0 8
+200 584 100 100 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1539 white picnic table~
+A long white picnic table has been placed here. The benches are sturdy, and 
+a clean red and black checkered tablecloth covers it. 
+~
+#1540
+jump rope~
+a jump rope~
+A jump rope is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1541
+swing set~
+a swing set~
+A swing set has been placed here.~
+~
+12 0 8
+200 144 100 100 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1541 swing set~
+A large swing set is here. It has been painted a bright red color. The ropes 
+coming down to the seats seem sturdy. The seats are simple planks of wood. 
+~
+#1542
+tetherball~
+tetherball~
+A tetherball game stands here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1542 tetherball ~
+The pole for this game stands about seven feet tall. Up at the top of the 
+pole, the rope is attached securely. The ball dangles down from the rope, 
+waiting to be hit. 
+~
+#1543
+jungle gym~
+a jungle gym~
+A jungle gym of forged iron is here.~
+~
+12 0 8
+200 146 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1543 jungle gym~
+A large jungle gym has been forged together here. The bars are sleek and 
+shiney. It has been warmed from basking under the sun. Each of the bars is 
+evenly spaced and allows the children to climb safely. 
+~
+#1544
+merry go round~
+a merry-go-round~
+A merry-go-round spins here.~
+~
+12 0 8
+200 146 100 100 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1544 merry go round~
+This merry-go-round is painted orange with swirls of blue. It creaks slowly 
+as it spins under the weight of the occupants. Bars are placed at various 
+intervals, giving the riders something to cling to. 
+~
+#1545
+see saw~
+a see-saw~
+A see-saw teeters back and forth here.~
+~
+12 0 8
+200 144 100 100 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1545 see saw~
+This see-saw has been painted canary yellow. The handle bars are made out of 
+black wrought iron. The seats have been worn smooth by the many bottoms over 
+the years. 
+~
+#1546
+wooden stage~
+a wooden stage~
+A wooden stage has been constructed here.~
+~
+12 0 8
+200 132242 100 100 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1547
+stone water fountain~
+a stone water fountain~
+A stone water fountain bubbles here.~
+~
+25 0 16
+9999999 52 0 0 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1548
+ham sandwich~
+a ham sandwich~
+A delicious ham sandwich with lettuce and tomato is here.~
+~
+19 0 16
+12 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1549
+cup apple juice~
+a cup of apple juice~
+A cup of apple juice is here.~
+~
+17 0 16
+10 48 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1550
+warm hunk sausage~
+a warm hunk of sausage~
+A warm hunk of sausage is here.~
+~
+19 0 16
+12 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1551
+bowl vanilla ice cream~
+a bowl of `#`Wvanilla`^ ice cream~
+A bowl of `#`Wvanilla`^ ice cream is here.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1552
+fat fish~
+a fat fish~
+A big fat fish lies here.~
+~
+19 0 16
+12 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1553
+wooden bucket~
+a wooden bucket~
+A wooden bucket has been left here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1553 wooden bucket~
+This bucket is formed with wooden slats and tightly bound twine. Itt has a 
+small handle with a rope attached to it for easy raising and lowering. 
+~
+#1554
+silver slide~
+a long silver slide~
+A long silver slide has been erected here.~
+~
+12 0 8
+200 18 100 100 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1554 long silver slide~
+The stairs on the slide are covered with purple wisteria vines. They curl 
+tightly around the bars and shade the bars from the sun. The slide is a 
+reflective silver and looks like it has been shined down with something. 
+~
+#0
+
+
+#ROOMS
+#1520
+Start of Festival~
+~
+A large royal blue tent has been erected here at the beginning of a cave. 
+The long sweet-smelling grass sways slowly in the cool breeze. The sounds of 
+a child's carefree laughter carry on the breeze. The atmosphere relaxes and 
+refreshes you as you move towards the ticketmaster. 
+~
+1 33554444 0
+D0
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 879
+R M 0 1520 1 1520
+  R E 0 18186 0 6
+S
+#1521
+Twinkle, Twinkle Little Star~
+~
+The walls of this long tunnel have been painted a dark midnight blue. An 
+enchantment has created little bursts of light that flare brightly on the 
+walls, as if the night sky has been captured and contained within the 
+tunnel. The smell of sweet grass wafts up as the tall, lush grass is pressed 
+down underfoot. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1522
+D2
+~
+~
+0 0 1520
+S
+#1522
+Twinkle, Twinkle Little Star~
+~
+The tunnel ends in a wide circular room. The walls of the room are similar 
+to the tunnel and glitter brightly with the flares of light. Above you, 
+shooting stars and wispy clouds lend to a feeling of a mystical world. 
+Passages lead away from the room. Peering down the passages you can see 
+bright color swirls and hear faint sounds of laughter. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1523
+D1
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1521
+D3
+~
+~
+0 0 1537
+R M 0 1524 10 1522
+R M 0 1543 10 1522
+S
+#1523
+A Passage~
+~
+Brightly colored, childish paintings of cats and mice decorate the walls of 
+this passage. Fingerpainted names of pets are scrawled under a few of the 
+drawings. Swirls of yellow and red are woven throughout the children's 
+drawings and give them a common link. Ahead you can hear faint scurrying and 
+meows. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1524
+D2
+~
+~
+0 0 1522
+R M 0 1525 2 1523
+  R G 0 39226 0
+  R G 0 39225 0
+  R G 0 39224 0
+  R G 0 1521 0
+S
+#1524
+Pickles, Plums, and Pies~
+~
+This room is filled to the brink with the candies and food that the people 
+have bought and stashed here. Pies are lined up on shelves, and boxed 
+lunches sit neatly on the ground. The lunchboxes have different fairy tale 
+and nursery rhyme characters adorning them. Thermoses are grouped together 
+and peeks inside them reveal juice, coffee, and water. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 1523
+D6
+~
+~
+0 0 1525
+D9
+~
+~
+0 0 1526
+R M 0 1544 1 1524
+R M 0 1545 1 1524
+R M 0 1546 1 1524
+R M 0 1537 10 1524
+R M 0 1543 10 1524
+S
+#1525
+Clocks, Tocks, and Thingymajigs~
+~
+This space is filled with clocks and gadgets. Old groaning grandfather 
+clocks and cuckoo clocks tick away and chime out the time. A worktable has 
+been set up behind a smaller pile of junk. On the table tools, wood, and 
+string are spread out. Paint is heaped in a small corner. 
+~
+1 33554440 0
+D8
+~
+~
+0 0 1524
+D9
+~
+~
+0 0 1527
+R M 0 1526 1 1525
+R M 0 1527 1 1525
+S
+#1526
+Two of a Kind~
+~
+This spot has two chairs, desks, quills, and chairs. In the pairs of items, 
+one is massive, the other diminutive. Judging by the inkwells set low into 
+the scarred desks, the odd couple that uses this space are scribers. Pieces 
+of parchment are rolled up neatly in baskets behind the desks. Stubby 
+candles sit behind on a low counter and light the area for the scribers. 
+~
+1 33554440 0
+D6
+~
+~
+0 0 1527
+D7
+~
+~
+0 0 1524
+R M 0 1530 1 1526
+  R G 0 1527 0
+  R G 0 1526 0
+R M 0 1540 1 1526
+S
+#1527
+Boots, Sandals, and Barefoot Lasses~
+~
+Boots, sandals, heels, slippers, every possible shoe imaginable is here. 
+Dull oranges, bright pinks, soft yellows, and more colors are visible in the 
+heaps of shoes. A suspcious smell wafts over from one pile of shoes. This 
+pile of shoes has seen better days. The soles are worn out and holes are 
+visible on the sides. A general funk is coming up from them. Shoes in 
+another pile are bright, shiny, and new. They have the smell of fresh new 
+leather. One of the shoes is quite large. It looks almost as if you could 
+enter it. 
+~
+1 33554440 0
+D7
+~
+~
+0 0 1525
+D8
+~
+~
+0 0 1526
+R O 0 1537 0 1527
+R M 0 1521 1 1527
+  R E 0 39315 0 8
+R M 0 1522 1 1527
+S
+#1528
+Into the Shoe~
+~
+The toe of this enormous shoe swings open to reveal a tiny house inside. The 
+walls are made of black leather and have a faint smell to them. Shoelace 
+holes let in light and air from the outdoors. To the east a creaky set of 
+stairs can be seen. Small children run in and out of the shoe and up and 
+down the stairs. 
+~
+1 0 0
+D1
+~
+~
+0 0 1529
+R O 0 1538 0 1528
+S
+#1529
+Shoe's Kitchen~
+~
+This small kitchen is very hot from the lit stove in the corner. The leather 
+walls of the shoe are beginning to sweat and smell from all of the heat. On 
+the stove, pots of warming chicken broth are waiting for the children. The 
+cupboards are bulging with little bowls and cups. 
+~
+1 0 0
+D3
+~
+~
+0 0 1528
+D4
+~
+~
+0 0 1530
+S
+#1530
+Inside the Shoe~
+~
+This area of the shoe is filled with beds and toys. The beds are bunk-style 
+and each is complete with a raggedy stuffed animal, covers, and pillow. 
+Little nightgowns drape across the pillows and await the wearers. Shoelace 
+holes let the children peek outside and throw crumbs out to the birds. Every 
+once in a while a bird perches at one of the holes and peers in. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 1531
+D5
+~
+~
+0 0 1529
+R O 0 1530 0 1530
+R M 0 1541 1 1530
+S
+#1531
+Top of the Shoe~
+~
+The top of the shoe is a cozy sitting room for the old woman. A bentwood 
+rocker, pushed to one corner of the shoe, is situated for the children to 
+gather around for bedtime stories. An old mended shawl has been draped over 
+the the back of the rocker. The tongue of the shoe has been pushed forward 
+to allow light to come into the room. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 1530
+R O 0 1520 0 1531
+R M 0 1523 1 1531
+S
+#1532
+Jelly Belly's Stand~
+~
+This room is painted with childish unicorns galloping down long rainbows. 
+The paint is bright and cheerful. Little handprints serve as the artists' 
+signatures. At one corner of the room I love Mommy is painted in big orange 
+letters. A tribute to a lost puppy dog is in the middle of the wall. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1522
+R M 0 1528 1 1532
+S
+#1533
+Spacious Paddock~
+~
+This spacious paddock is fenced in by delicate, silver gossamer strands that 
+have been bewitched. The area is hushed as in a reverence. The long sweet 
+grass sways gently in the breeze. Hoof prints have pressed down the grass in 
+places. A soft glow seems to be coming from the middle of the paddock. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 1532
+D6
+~
+~
+0 0 1534
+D7
+~
+~
+0 0 1536
+R M 0 1547 1 1533
+R M 0 1537 10 1533
+S
+#1534
+Candy Man's Shop~
+~
+This little store is jam packed with lollipops, chocolates, and other 
+sweets. Colorful packaging decorates the candies and makes an attractive 
+presentation. A long counter separates the children from the proprietor so 
+that he is not mauled with sticky hands for more candy. A shiny cash box 
+sits on the back counter. 
+~
+1 33554440 0
+D7
+~
+~
+0 0 1535
+D8
+~
+~
+0 0 1533
+R M 0 1529 1 1534
+  R G 0 1524 0
+  R G 0 849 0
+  R G 0 12702 0
+S
+#1535
+Toyland~
+~
+This room is crammed full of toys and chattering children. The children dig 
+excitedly through the boxes of toys and some plead with their parents to buy 
+a few for them. The room is painted a bright yellow to chase away all of the 
+monsters that may be lurking. A doll of a boogieman has been set up in the 
+corner for kids to throw things at. 
+~
+1 33554440 0
+D8
+~
+~
+0 0 1536
+D9
+~
+~
+0 0 1534
+R M 0 1542 1 1535
+  R G 0 1536 0
+  R G 0 1535 0
+  R G 0 1534 0
+  R G 0 1533 0
+  R G 0 1532 0
+  R G 0 1531 0
+R M 0 1524 10 1535
+R M 0 1537 10 1535
+R M 0 1543 10 1535
+S
+#1536
+Fireworks Show~
+~
+This small grassy hill overlooks a large sparkling pond. The sky has been 
+enchanted be in a state of perpetual night. A moon casts a soft glow over 
+the area, and a soft breeze curls around you. Looking up in the sky, bright 
+sparkling lights glitter and rain down. The lights dissipate quietly and 
+harmlessly before they reach the spectators. 
+~
+1 33554440 0
+D6
+~
+~
+0 0 1535
+D9
+~
+~
+0 0 1533
+S
+#1537
+A Passage~
+~
+The walls of this passage are painted with pictures of the children's 
+favorite fairy tale characters. Cinderella is captured in a jig with the 
+wolf as the Frog Prince waits his turn. Prince Charming waltzes with Rose 
+Red as the Piper plays a little tune. The swan brothers are in 
+transformation back to men as their sister throws the garments around them 
+and breaks the spell. The Wicked Witch fumes as Bluebeard charms a lass away 
+from her. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 1522
+D3
+~
+~
+0 0 1538
+S
+#1538
+Diamonds, Emeralds, and Rubys! Oh my!~
+~
+Buckets of diamonds, emeralds, and rubies sit at the entrance to a cave and 
+wait to be polished. The seven dwarves wander in and out of the cave 
+entrance with more buckets. Their faces are smeared with soot, but they all 
+whistle a cheerful tune. Clothes and picks to clean sit next to a group of 
+the buckets. Snow White is noticeably absent as she stays at home to tend to 
+the chores. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 1537
+D8
+~
+~
+0 0 1541
+D9
+~
+~
+0 0 1539
+R M 0 1538 1 1538
+R M 0 1539 1 1538
+S
+#1539
+Mary Had a Little Lamb~
+~
+This space of land is sectioned off with a little picket fence. Inside the 
+fence, animals are separated into their groups. Bleating from fuzzy white 
+lambs sounds throughout the area. Water troughs line the dividing fences but 
+are largely ignored as the animals spy a possible attention giver. 
+~
+1 33554440 0
+D7
+~
+~
+0 0 1538
+D8
+~
+~
+0 0 1540
+R M 0 1536 1 1539
+  R G 0 1528 0
+R M 0 1531 1 1539
+R M 0 1535 1 1539
+R M 0 1534 1 1539
+R M 0 1533 1 1539
+S
+#1540
+Go Fish~
+~
+A pretty blue pond fills the area here. Little fish swim lazily in the clear 
+sparkling water. Little tufts of sweet green grass line the pond. Small 
+fuzzy yellow ducklings waddle in and out of the water. A red and white 
+checkered picnic blanket has been spread out over the bank. This seems to be 
+a lovely spot for a picnic. The water makes a soft repetitive sound as it 
+laps up onto the shore. 
+~
+1 33554440 0
+D6
+~
+~
+0 0 1539
+D7
+~
+~
+0 0 1541
+R M 0 1524 10 1540
+R M 0 1543 10 1540
+R O 0 1529 0 1540
+S
+#1541
+As I lay me down to sleep~
+~
+This spot is filled with little mats and blankets for the tuckered out 
+children to snuggle down on for naps. The mats are in all colors so the 
+children have separated to their favorite colors. Parents sit next to the 
+mats and sing lullabies to their children. Large tree branches form a canopy 
+overhead to keep out rain. Paper lanterns hang on the nearby branches and 
+give off a soft glow. 
+~
+1 33554440 0
+D6
+~
+~
+0 0 1538
+D9
+~
+~
+0 0 1540
+R O 0 1525 0 1541
+R M 0 1532 1 1541
+R M 0 1537 10 1541
+S
+#1542
+Playground~
+~
+A large wooden fence opens here into the playground. The fence door is 
+always held open by a large black rock. Standing at the fenceline, you can 
+see swing sets, a seesaw, and other playground equipment. Children and their 
+parents walk hand-in-hand in and out of the playground. Some of the parents 
+are carrying the smaller children that have tuckered themselves out. 
+~
+1 4 0
+D6
+~
+~
+0 0 1543
+S
+#1543
+Playground Entrance~
+~
+A tall, sturdy wooden fence lines the perimeter of this playground. Small 
+knotholes in the wood allow children to peek outside the playground. Birds 
+perched atop the fence and sing cheerfully as the children play. The ground 
+underfoot is dark red dirt that has been tightly packed by the numerous feet 
+that have traveled over it. 
+~
+1 0 0
+D0
+~
+~
+0 0 1548
+D1
+~
+~
+0 0 1544
+D8
+~
+~
+0 0 1542
+S
+#1544
+Playground~
+~
+The wooden fence continues along the playground here. Colorful pictures 
+adorn the planks of wood. It looks as if each of the children has 
+contributed to the mural with their favorite color of crayon. Childish 
+scrawls spell out various names in bright reds, blues, and oranges. Others 
+have drawn pictures of their homes, parents, pets, or left other messages. 
+Each picture has the child's name above it. 
+~
+1 0 0
+D0
+~
+~
+0 0 1547
+D1
+~
+~
+0 0 1545
+D3
+~
+~
+0 0 1543
+R M 0 1549 10 1544
+R M 0 1553 10 1544
+E
+rhea ~
+You see a little boy and girl standing next to a tall man with silver hair. 
+A woman with long red hair stands with her hand in his. Above their heads, a 
+large red dragon has its wings spread in flight. 
+~
+E
+devon ~
+You see a childish picture of a silver dragon and a black dragon. A small 
+child stands between them. Another black dragon hovers over the child. The 
+dragon is ugly and mangled looking. Under the ugly scribble is another black 
+dragon who has a baby boy in her hands. 
+~
+E
+lena ~
+`1 Those soft, caring eyes `1 The ones that were always `1 Watching over me. `1 `1 The same eyes that watched my mother `1 Caring eyes that had seen so much. `1 So much pain, sorrow, fear and hate. `1 `1 Those gentle eyes may be closed `1 Now forever in eternal sleep, `1 But they are still and always watching over me. `1 `1 Written in honor of `1 My Guardian Angel `1 Miss Zana `1 I love you! 
+~
+E
+kaiya ~
+You see a picture of a family here. There are two smaller children that seem 
+to be sisters and a mother holding a baby. 
+~
+E
+lilia ~
+A small rainbow has been scribbled here in all of the colors she could get 
+her hands on. 
+~
+E
+aleac ~
+A small child's drawing of a cat and a family has been drawn here. Under it 
+reads, I love Mommy and Daddy. 
+~
+E
+dyn ~
+You read a childish scrawl, `#`bRhea, Arathe and Zeky = mine!`^ 
+~
+S
+#1545
+Playground~
+~
+The wooden fence ends in a corner here in the southeastern part of the 
+playground. A clump of wildflowers grows in the corner, and birds peck near 
+the flowers in hopes of a tasty bug. A large picnic table has been placed 
+here, angled so you can look out at the rest of the playground as you eat or 
+rest. 
+~
+1 0 0
+D0
+~
+~
+0 0 1546
+D3
+~
+~
+0 0 1544
+R O 0 1539 0 1545
+R M 0 1554 10 1545
+R M 0 1551 10 1545
+S
+#1546
+Playground~
+~
+This area is a long clear stretch of short, sweet grass. Large and small 
+kites alike fly high in the area. Some of the kites are ornate and shine 
+brightly under the sun. Others are small and simple, but the flyer's face is 
+still smiling. Other people rest at the edge of the small field and watch 
+the kites dance in the air. 
+~
+1 0 0
+D0
+~
+~
+0 0 1551
+D2
+~
+~
+0 0 1545
+D3
+~
+~
+0 0 1547
+R O 0 1533 0 1546
+S
+#1547
+Playground~
+~
+A small fishing hole has been dug out here and stocked with various breeds 
+of fish. Peeking inside the hole, you see whiskered catfish swim along 
+salmon, trout, and even a few goldfish. Sometimes the fish come up and 
+search for food at the top of the water, their mouths puckering and opening 
+quickly. 
+~
+1 0 6
+D0
+~
+~
+0 0 1550
+D1
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1544
+D3
+~
+~
+0 0 1548
+R M 0 1551 10 1547
+S
+#1548
+Playground~
+~
+The sturdy fence lines the area here. Several colored jump ropes have been 
+draped over the fence and still more lay on the ground. Chants of "Teddy 
+bear, Teddy bear, touch the ground" are heard as a group of kids doubles up 
+on one of the long jump ropes. A redundant sound of feeting hitting the hard 
+ground fills your ears as you walk around. 
+~
+1 0 0
+D0
+~
+~
+0 0 1549
+D1
+~
+~
+0 0 1547
+D2
+~
+~
+0 0 1543
+R M 0 1548 1 1548
+  R E 0 1540 0 17
+R M 0 1554 10 1548
+S
+#1549
+Playground~
+~
+The safety fence stretches on through the grass here. Children mill around, 
+waiting for their turn on the colorful swing sets. Parents and bigger 
+children stand behind the swingers and help them get higher as they pump 
+their legs to swing higher. Laughter sounds out as the children swinging try 
+to go higher and higher. Birds sit on the top of the swing sets and peck 
+curiously at them. 
+~
+1 0 0
+D0
+~
+~
+0 0 1554
+D1
+~
+~
+0 0 1550
+D2
+~
+~
+0 0 1548
+R M 0 1550 10 1549
+R M 0 1553 10 1549
+R O 0 1541 0 1549
+R M 0 1557 1 1549
+S
+#1550
+Playground~
+~
+The small fishing hole comes to a curved end here. Children, wading in and 
+out of the shallow end, are splashing in the water and trying to catch the 
+fish with their hands as the parents rest on the shore. Quick fish zip 
+around the children's legs and nibble at them. The unlucky slow ones flop in 
+the hands of some of the children. 
+~
+1 0 6
+D0
+~
+~
+0 0 1555
+D1
+~
+~
+0 0 1551
+D2
+~
+~
+0 0 1547
+D3
+~
+~
+0 0 1549
+R M 0 1556 1 1550
+R M 0 1555 1 1550
+  R E 0 1552 0 17
+S
+#1551
+Playground~
+~
+An old oak tree looms here in the playground. Its branches are wide and look 
+capable of supporting a lot of weight. A rope ladder has been firmly 
+attached to one of the taller branches and trails down to the ground. On the 
+higher branches, a small tree house has been erected. An open trapdoor leads 
+to the inside of it. 
+~
+1 0 0
+D0
+~
+~
+0 0 1556
+D2
+~
+~
+0 0 1546
+D3
+~
+~
+0 0 1550
+D4
+~
+~
+0 0 1552
+R M 0 1550 10 1551
+R M 0 1554 10 1551
+S
+#1552
+Tree House~
+~
+You emerge from the trapdoor into the small treehouse. A windowseat has been 
+carved into the wood alongside one of the walls. Cushions have been piled on 
+it and it looks like a very comfortable place to rest. A few buckets with 
+long ropes sit in a corner. It looks like a system for pulling things up 
+into the tree. 
+~
+1 0 0
+D3
+~
+~
+0 0 1553
+D5
+~
+~
+0 0 1551
+R O 0 1553 0 1552
+S
+#1553
+Tree House~
+~
+This corner of the tree house serves as a look out for the pretend enemies 
+below. Wooden toy swords and shields litter the floor of the tree house. 
+Snacks have been squirreled away in one corner, and a make-shift tent has 
+been made out of a blanket. A little boy stands at one of the windows and 
+calls out orders to his pretend troops. 
+~
+1 0 0
+D1
+~
+~
+0 0 1552
+S
+#1554
+Playground~
+~
+A tall pole has been erected in this open area of the playground. Attached 
+firmly at the top is a long rope. At the end of the rope is a ball for the 
+children to hit back and forth. The children let loose squeals of delight as 
+they play tetherball with each other, dodging the ball as it comes to them. 
+Parents watch carefully on the sidelines and make sure the children do not 
+get knocked out by the swinging ball. 
+~
+1 0 0
+D0
+~
+~
+0 0 1559
+D1
+~
+~
+0 0 1555
+D2
+~
+~
+0 0 1549
+R O 0 1542 0 1554
+S
+#1555
+Playground~
+~
+A large jungle gym has been placed here. It looks as if it has been forged 
+out of huge pieces of iron. The edges have been rounded off, and the entire 
+structure has been bolted firmly to the ground. Children crawl over the bars 
+and hang down from them, laughing as their hair fans out below them. 
+~
+1 0 0
+D0
+~
+~
+0 0 1558
+D1
+~
+~
+0 0 1556
+D2
+~
+~
+0 0 1550
+D3
+~
+~
+0 0 1554
+R O 0 1543 0 1555
+R M 0 1553 10 1555
+S
+#1556
+Playground~
+~
+A big merry-go-round occupies the majority of the room along the fence here. 
+A small freckle faced little girl stands in the middle of it and laughs as 
+the merry-go-round spins. Her pigtails fly outwards from her as she tilts 
+her head back and laughs. A soft squeak sounds as the structure turns under 
+the weight of the pushers. 
+~
+1 0 0
+D0
+~
+~
+0 0 1557
+D2
+~
+~
+0 0 1551
+D3
+~
+~
+0 0 1555
+R O 0 1544 0 1556
+S
+#1557
+Playground~
+~
+A long seesaw has been place in the middle of the area here. The children 
+sing, "See-saw, Marjorie Daw" as they push up and down on the structure. 
+Some of the smaller children are being helped by their parents as they 
+bounce up and down. The grass has been worn away in the spots that the 
+children's feet come down on. 
+~
+1 0 0
+D0
+~
+~
+0 0 1560
+D2
+~
+~
+0 0 1556
+D3
+~
+~
+0 0 1558
+R O 0 1545 0 1557
+S
+#1558
+Playground~
+~
+Another swing set sits here among bunches of wildflowers. Clover, wild 
+violets, blue bonnets, and other flowers spread out over the grass. 
+Buttercups peek up in various spots. In the the early hours, morning glories 
+open up their buds. Butterflies flit in amongst the flowers and mingle with 
+fat bumble bees that look fairly harmless. 
+~
+1 0 0
+D0
+~
+~
+0 0 1561
+D1
+~
+~
+0 0 1557
+D2
+~
+~
+0 0 1555
+D3
+~
+~
+0 0 1559
+R M 0 1550 10 1558
+R O 0 1541 0 1558
+S
+#1559
+Playground~
+~
+The fence runs through the grass here. Children run through here 
+occasionally as they go towards the playground's toys. Adults stroll 
+leisurely behind the children. Shouts of glee and laughter can be heard 
+coming from other parts of the playground. Birds hop along the ground and 
+search for worms and bugs to eat. 
+~
+1 0 0
+D0
+~
+~
+0 0 1562
+D1
+~
+~
+0 0 1558
+D2
+~
+~
+0 0 1554
+R M 0 1549 10 1559
+S
+#1560
+Playground~
+~
+A simple wooden stage has been set up here in the corner of the playground. 
+The stage has been carefully sanded down so the children can run barefoot 
+across it as they perform their impromptu dramas. A screen has been set up 
+behind the stage for the children to change their wardrobes behind. Torches 
+have been placed around the stage so that the area can be lit even at night 
+for the plays. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 1563
+D2
+~
+~
+0 0 1557
+D3
+~
+~
+0 0 1561
+R O 0 1546 0 1560
+S
+#1561
+Playground~
+~
+Blankets have been spread out here on the ground for picnics. Some of the 
+blankets have small pillows on them in case the children need naps. White 
+dandelions and daisies sprout up in big groups around the blankets. One one 
+of the blankets a daisy chain has been left by one of the children. The 
+flowers used on it are still fresh and unwilted. 
+~
+1 0 0
+D0
+~
+~
+0 0 1564
+D1
+~
+~
+0 0 1560
+D2
+~
+~
+0 0 1558
+D3
+~
+~
+0 0 1562
+S
+#1562
+Playground~
+~
+A towering sycamore tree dwarfs the surroundings here. Its branches spread 
+out majestically, and its roots push up above the ground in several parts. 
+Squirrels run up and down the branches and chatter at the birds perching. At 
+the base of the tree, a small gopher peers curiously out of his hole. On the 
+northern side of the tree a heart has been carved. The initials inside it 
+are illegible. 
+~
+1 0 0
+D0
+~
+~
+0 0 1565
+D1
+~
+~
+0 0 1561
+D2
+~
+~
+0 0 1559
+R M 0 1551 10 1562
+S
+#1563
+Playground~
+~
+A stone water fountain butts up to the wooden fence here. The water inside 
+is clean, cool, and seemingly endless. Tin cups fill a small table for those 
+who do not wish to dip their hands in the water. A smaller fountain sits 
+near the large stone one for people to cleanse their hands in. Small tan 
+towels are draped over one side of it. 
+~
+1 0 0
+D2
+~
+~
+0 0 1560
+D3
+~
+~
+0 0 1564
+R M 0 1552 1 1563
+  R G 0 1548 0
+  R G 0 1550 0
+  R G 0 1551 0
+  R G 0 1549 0
+R O 0 1547 0 1563
+S
+#1564
+Playground~
+~
+The grass is cut neatly here in this section of the playground. It looks 
+well watered and tended. It has been carefully trimmed away from the 
+fenceline. Clover spreads out over the grounds in big bunches. Bumblebees 
+fly slowly through the clover and land on the flowers. 
+~
+1 0 0
+D0
+~
+~
+0 0 1566
+D1
+~
+~
+0 0 1563
+D2
+~
+~
+0 0 1561
+D3
+~
+~
+0 0 1565
+S
+#1565
+Playground~
+~
+A big silver slide occupies this corner of the the playground. Purple 
+wisteria curls around the bars of the ladder, and other flowers grow in the 
+shade under the slide. A large, soft cushion for people to land safely on 
+has been placed at the foot of the slide. Parents stand at the end of the 
+slide to catch those who fly past the cushion. 
+~
+1 0 0
+D1
+~
+~
+0 0 1564
+D2
+~
+~
+0 0 1562
+R O 0 1554 0 1565
+S
+#1566
+Into the Corn Maze~
+~
+Rows of corn have been planted here. Seeing through the rows is impossible 
+due how closely they were planted together. Far off in the distance you can 
+hear people talking about who will finish the maze first. Every once in a 
+while you hear people calling out for help inside the maze. There seems to 
+be no prize for finishing it. 
+~
+1 4 0
+D0
+~
+~
+0 0 1567
+D2
+~
+~
+0 0 1564
+S
+#1567
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1568
+D2
+~
+~
+0 0 1566
+D3
+~
+~
+0 0 1569
+D9
+~
+~
+0 0 1570
+S
+#1568
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1567
+S
+#1569
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1570
+D1
+~
+~
+0 0 1567
+D3
+~
+~
+0 0 1570
+S
+#1570
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1569
+D2
+~
+~
+0 0 1569
+D7
+~
+~
+0 0 1567
+S
+#1571
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1572
+D2
+~
+~
+0 0 1576
+D3
+~
+~
+0 0 1568
+S
+#1572
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D2
+~
+~
+0 0 1571
+D7
+~
+~
+0 0 1573
+S
+#1573
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1574
+D2
+~
+~
+0 0 1575
+D9
+~
+~
+0 0 1572
+S
+#1574
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1578
+D3
+~
+~
+0 0 1573
+S
+#1575
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1573
+D1
+~
+~
+0 0 1576
+S
+#1576
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1575
+R M 0 1558 1 1576
+S
+#1578
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1579
+D3
+~
+~
+0 0 1574
+S
+#1579
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D1
+~
+~
+0 0 1580
+D2
+~
+~
+0 0 1578
+D3
+~
+~
+0 0 1581
+S
+#1580
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D3
+~
+~
+0 0 1579
+S
+#1581
+Corn Maze~
+~
+Rows of tightly packed cornstalks line each side of the cleared path. 
+Creatures moving in the field make small rustling noises as they crawl 
+slowly through. Each way you look, the passage is identical. The cornstalks 
+seem to grow taller as you go. 
+~
+1 0 0
+D0
+~
+~
+0 0 1582
+D1
+~
+~
+0 0 1579
+S
+#1582
+End of the Corn Maze~
+~
+The maze opens up to a small cleared area. You have finally come to the end 
+of the corn maze. Spectators are waiting here and cheering your arrival. A 
+small water fountain has been placed here for the weary ones that have run 
+the maze. A pebbled pathway trails off to the side. It looks like it leads 
+back to the playground. 
+~
+1 4 0
+D2
+~
+~
+0 0 1581
+D3
+~
+~
+0 0 1542
+S
+#0
+
+
+#SHOPS
+ 1525    0  0  0  0  0   105 100         0 23    ; a balloon seller
+ 1529    0  0  0  0  0   155 150         0 23    ; the candy man
+ 1530    0  0  0  0  0   105 100         0 23    ; thumbelina
+ 1536    0  0  0  0  0   105 100         0 23    ; mary
+ 1542    0  0  0  0  0   105 100         0 23    ; meihlo
+ 1552    0  0  0  0  0   105 100         0 23    ; a friendly foodstand woman
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

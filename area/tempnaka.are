@@ -1,0 +1,232 @@
+#AREA        Temple of Venalena~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7550
+priest cleric anacor~
+`#`wa priestess of `MVenalena`^~
+A priestess of Venalena is here, reclining patiently.
+~
+She carries the symbol of Venalena to her breast. 
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7551
+bath attendant~
+a hooded bath attendant~
+A hooded bath attendant proffers towels to those bathing.
+~
+White obviously human, this attendant's features are formless beneath the 
+hood of its robe. It passes towels out politely but wordlessly to those in 
+need and reclines in a corner almost invisibly so as not to intrude. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7550
+altar~
+an altar to `#`CVenalena`^~
+An altar to `#`CVenalena`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7551
+white oak seat~
+a `#`ww`Wh`wi`Wt`we`^ oak seat~
+~
+~
+12 256 8
+100000 1168 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7552
+steaming pool~
+a steaming pool~
+~
+~
+12 0 8
+50000 264480 105 105 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7553
+rinsing cool pool~
+a cool rinsing pool~
+~
+~
+12 256 8
+50000 264480 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7550
+Entrance to the Temple~
+~
+Large white steps lead up into the magnificent temple before you.  Several 
+stone columns reach high into the air, supporting the roof of the temple.  
+An exotic carved relief winds its way around the edge of the roof, showing 
+ancient victories of the gods of the realm.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 7551
+D2
+~
+~
+0 0 3039
+S
+#7551
+Lighted Hallway~
+~
+Twelve large fluted marble columns line this hallway running north and 
+south.  The floor is made from the finest white marble, with intricate 
+designs etched into the stone with pure gold.  On each column a large brass 
+scone holds a burning torch, filling the corridor with light.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 7552
+D2
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7553
+S
+#7552
+Before the Altar~
+~
+A large white altar lies before you, its surface gleaming in with light.  A 
+large fire burns on top of it, filling the room with the smell of burning 
+incense.  A large offering box is along the east wall, ready to accept 
+donations to the temple.  
+~
+1 33554440 1
+D2
+~
+~
+0 0 7551
+R O 0 7550 0 7552
+S
+#7553
+A Bathing Room~
+~
+A set of pools carved into the marble have been filled with steaming water 
+and enclosed with embroidered cloth seperators. Around each pool writing of 
+multitudes of languages is lacquered with pure gold. Seats of white oak 
+stand against the wall for those waiting and cooler, rinsing pools on the 
+northern side of the room are for those who have finished. 
+~
+1 33554432 0
+D1
+~
+~
+0 0 7551
+R O 0 7551 0 7553
+R O 0 7552 0 7553
+R O 0 7553 0 7553
+R M 0 7551 1 7553
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

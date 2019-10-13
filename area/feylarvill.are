@@ -1,0 +1,3641 @@
+#AREA        Feylar Village~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#16200
+lost kitten~
+a lost kitten~
+A lost kitten is here.
+~
+This kitten looks sad and meows at your approach.  Its large blue eyes
+peer up at you pleedingly.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+5 0 0 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16201
+Feylar guard~
+a feylar guard~
+A feylar guard is here.
+~
+The Feylar guard has small whiskers across his upper lip, and a tail
+protruding from a hole in his pants.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+53 0 -20 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16202
+feylar leader guard~
+a feylar guard leader~
+The leader of the feylar guard's is here.
+~
+This feylar is quite large for his race.  Thick fur covers his entire body.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+70 2 -40 7d10+360 8d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16203
+feylar archer~
+a feylar archer~
+A feylar archer is here, tightening his bow.
+~
+This feylar looks quite small, but has sharp piercing eyes.  Light colored
+furr covers its body.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+35 1 -10 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16204
+wild cat~
+a wild cat~
+A wild cat prowls about here.
+~
+This cat looks very lean and has blood all over its furr.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16205
+cat domesticated~
+a domesticated cat~
+A domesticated cat is here, licking its paws.
+~
+This cat has long furr, with various colors to it.  It looks very clean,
+plump and contented.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+7 0 0 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16206
+young male feylar~
+a young male feylar~
+A young male feylar is wandering about here.
+~
+This feylar is showing off as much of his chest as possible, and moves with
+an easy boasting grace.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+17 0 -3 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16207
+feylar female young~
+a young female feylar~
+A young female feylar blushes seductively.
+~
+This female feylar is batting her eyelashes, and her cheeks are a rosey
+shade of red.  
+~
+0
+Clanname none~
+0
+0
+129 512 600 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16208
+feylar elder~
+a feylar elder~
+A feylar elder is here, watching the younger feylar.
+~
+This feylar looks very old, and wise.  Lines are creased into its long
+shaggy furr.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16209
+feylar wizard~
+a feylar wizard~
+A feylar wizard is here, reading a book.
+~
+This feylar has pale white fur, and acid scars all over its body.  A look
+of pure insanity is in its eyes.  
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+65 0 -35 6d10+340 7d7+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16210
+feylar cleric~
+a feylar cleric~
+A feylar cleric is here, tending to the wounded.
+~
+This female feylar looks very serene.  Her green eyes are clear and strong.
+Her hair cascades over her furr in a contrasting color of red.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+80 2 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16211
+feylar female~
+a female feylar~
+A female feylar is here, cleaning her fur.
+~
+This plain looking female feylar has a very long tail that swishes along
+the ground behind her.  She has pale green eyes and blistered paws.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+18 0 -3 5d5+125 2d12+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16212
+male feylar~
+a male feylar~
+A male feylar is here, looking for something to do.
+~
+This feylar appears to be in his middle years, he has frown lines across
+his brow and smiling lines around his mouth.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+34 0 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16213
+feylar librarian~
+a feylar librarian~
+A feylar librarian is sorting books here.
+~
+This feylar is muttering to itself and scratching at his head.  Furr has
+been pulled out is clumps.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+33 0 -11 5d6+195 6d4+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16214
+feylar cook~
+a feylar cook~
+A feylar cook is here, stirring a pot.
+~
+This feylar is covered in food scrapes and moves very quickly.  Her hair
+and furr are tangled together and have come loose from their binding.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16215
+feylar kit~
+a feylar kit~
+A feylar kit is playing here.
+~
+This baby feylar is tiny and completely covered in fur.  If it weren't for
+its fingers and feet it would be a cat.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+9 0 0 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16216
+feylar druid~
+a feylar druid~
+A feylar druid is mixing a brew here.
+~
+This feylar has bits of leaves and plants all through her hair and fur 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+38 0 -13 5d6+235 4d8+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16217
+student ranger junior~
+a junior ranger student~
+A junior ranger student is studying here.
+~
+This student appears to have a purpetually humble look on their face.
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+48 0 -18 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16218
+intermediate ranger student~
+an intermediate ranger student~
+An intermediate ranger student is teasing the junior students here.
+~
+This ranger student looks reasonably adept in woodlore skills.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+53 0 -23 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16219
+senior ranger feylar student~
+a senior ranger student~
+A senior ranger student is bossing the intermediate students around.
+~
+This ranger student is lithe and firmly muscled.  A strong sense of
+confidence eminates from them.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16220
+master feylar ranger~
+the master of feylar rangers~
+The master of feylar rangers is here, teaching others.
+~
+This feylar appears to be middle aged for a feylar.  He has a hard yet supple
+body and a very clear look to his gaze.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+90 2 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16221
+gnoll prisoner~
+an arrogant gnoll~
+An arrogant looking gnoll prisoner is here.
+~
+This gnoll appears to be in high spirits.  He looks about as if the whole
+realm was his to roam free in.  
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+88 4 -59 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16222
+wizard's familiar~
+a wizard's familiar~
+A wizard's familiar is looking at you inquisitively.
+~
+An intellegent looking feline looks at you inquisitively.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16223
+feylar worshipper~
+a feylar worshipper~
+A feylar worshipper is kneeling here.
+~
+This feylar has scarrs on their knees from constantly kneeling in homage.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+36 0 -12 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16224
+junior druid student~
+a junior druid student~
+A junior druid student is sorting through its pockets here.
+~
+This feylar looks more interested in the plants in their pocket than the world 
+around them.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+52 0 -22 5d9+285 6d6+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16225
+intermediate druid student~
+an intermediate druid student~
+An intermediate feylar druid is crushing plants in a mortar here.
+~
+This feylar looks more interested in the plants in their pocket than the
+world around them.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+57 0 -27 6d9+305 6d7+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16226
+senior druid student~
+a senior druid student~
+A senior druid student is supervising here.
+~
+This feylar has an intellegent look in their eyes, a strong smell of herbs comes from them.
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+62 0 -32 6d10+325 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16227
+master druid feylar~
+the master of the feylar druids~
+The master of the feylar druids is here teaching the young ones.
+~
+This feylar looks completely at one with the world, she walks with an
+alarming grace.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+92 0 -63 9d13+450 10d11+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16228
+sly looking feylar inexperienced~
+an inexperienced, sly looking feylar~
+A sly looking feylar tries to slip by without being noticed.
+~
+This feylar looks a little unsure of themself, but a devious look in their
+eyes shows there is more to them than first galnces.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+48 0 -18 5d8+265 6d6+18
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16229
+sly looking feylar rogue~
+a sly looking feylar rogue~
+A sly looking feylar rogue is peering about nervously.
+~
+This feylar has a sly look in their eye and they seem to be watching you
+and the surrounding at the same time.  
+~
+0
+Clanname none~
+0
+0
+65 32768 600 C
+53 0 -23 5d9+290 6d7+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16230
+dangerous looking feylar sly~
+a dangerous and sly looking feylar~
+A dangerous looking feylar rogue is watching others here.
+~
+This feylar stands completely still.  They always seem to find a shadow to
+stand in, and attract very little attention.  
+~
+0
+Clanname none~
+0
+0
+65 65536 600 C
+58 0 -28 6d9+310 5d10+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16231
+master feylar rogue~
+the master of feylar rogues~
+The master of feylar rogues is hiding in the shadows here.
+~
+This feylar looks like a cat crouched ready to pounce on its prey.  His eyes 
+are alert and he seems to move in a glide.  
+~
+0
+Clanname none~
+0
+0
+65 65536 600 C
+88 4 -88 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16233
+broad shouldered feylar blacksmith~
+the feylar blacksmith~
+A broad shouldered feylar blacksmith is hammering here.
+~
+This feylar is disproportionately large.  Huge arms extend from a barrel chest 
+that leads into a thick set waist.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+60 2 -30 6d10+350 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16234
+burly feylar soldier shopkeeper~
+a feylar shopkeeper~
+A burly feylar soldier is selling supplies here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+110 4 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16235
+feylar footman~
+a feylar footman~
+A feylar footman is standing at the edge of the path here.
+~
+This feylar footman has thick set legs and is quite short.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+70 2 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16236
+skillful looking feylar soldier~
+a feylar soldier~
+A skillful looking feylar soldier is sparring with an imaginary enemy here.
+~
+This feylar looks quick and skillfull.
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+75 4 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16237
+feylar general~
+the feylar general~
+The feylar general is standing at attention here.
+~
+This Feylar looks highly intelligent, and strong, and skillfull....
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+95 6 -66 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16238
+motherly looking feylar shopkeeper furrball~
+a motherly feylar shopkeeper~
+A motherly looking feylar is selling medicinal items here.
+~
+This feylar, known by the others as Furrball, operates a mobile medicinal 
+store.  She has a soft, motherly look to her.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+110 2 -80 11d14+530 11d14+64
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16239
+male feylar shopkeeper thin built lyster~
+a male feylar shopkeeper~
+A thin built male feylar is selling exotic items here.
+~
+This feylar fellow is thinly built, with long arms and legs.  He is selling 
+exotic items here.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+70 6 -40 7d10+400 8d8+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#16200
+desk~
+a desk~
+A desk stands here.~
+~
+12 0 8
+100 144 100 100 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16201
+chair~
+a chair~
+A chair is here.~
+~
+12 0 8
+-1 144 100 100 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16202
+hard  green leather vest~
+a`#`g green`^ hard leather vest~
+A `#`ggreen`^ hard leather vest has been left here.~
+~
+9 256 8
+5 5 7 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16203
+hard green leather arm guards~
+some`#`g green`^ hard leather arm guards~
+Some `#`ggreen`^ hard leather arm guards lie here.~
+~
+9 64 8
+5 5 5 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16204
+green hard leather leggings~
+some`#`g green`^ hard leather leggings~
+Some `#`ggreen`^ hard leather leggings lie here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16205
+green hard leather helm~
+a`#`g green`^ hard leather helm~
+A `#`ggreen`^ hard leather helm rests here.~
+~
+9 64 8
+10 10 5 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16206
+silver short-sword~
+a`#`s silver`^ short-sword~
+A `#`Ssilver`^ short-sword lies here.~
+~
+5 256 4
+2 62 76 1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16207
+silver broad-sword~
+a`#`s silver`^ broad-sword~
+A `#`Ssilver`^ broad-sword lies here.~
+~
+5 256 4
+3 116 152 16 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16208
+bow composite silver~
+a`#`s silver`^ composite bow~
+A `#`Ssilver`^ composite bow lies here.~
+~
+5 256 4
+2 7 16 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16209
+silver shield~
+a`#`s silver`^ shield~
+A `#`Ssilver`^ shield lies here.~
+~
+9 256 8
+10 10 16 0 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16210
+silk jade-colored dress~
+a silk`#`G jade-colored`^ dress~
+A silk `#`Gjade-coloured`^ dress has been left here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16211
+marble fountain~
+a`#`W marble`^ fountain~
+A `#`Wmarble`^ fountain is here.~
+~
+25 0 16
+-1 10 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16211 fountain marble~
+This fountain has a naked statue of a lithe female feylar in the middle of
+it, with milk coming out her breasts.  
+~
+#16212
+jade-colored cleric robes~
+some`#`G jade-colored`^ clerics robes~
+Some `#`Gjade-coloured clerics robes lie here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16213
+silver quarter-staff~
+a`#`s silver`^ quarter-staff~
+A `#`Ssilver`^ quarter-staff lies here.~
+~
+5 256 4
+4 105 135 288 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16214
+jade-colored mages cloak~
+a`#`G jade-colored`^ mages cloak~
+A `#`Gjade-coloured`^ mages cloak lies here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16215
+silver dagger~
+a`#`S silver`^ dagger~
+A `#`Ssilver`^ dagger has been left here.~
+~
+5 256 4
+3 7 16 10 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16216
+jade-colored librarian robes~
+some`#`G jade-colored`^ librarian robes~
+Some `#`Gjade-coloured`^ librarian robes lie in a heap here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16217
+statue feylar female lithe~
+a statue of a lithe, female feylar~
+A statue of a lithe, female feylar.~
+~
+12 0 8
+200 584 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16217 lithe feylar statue female~
+The statue depicts a lithe female feylar, smiling michieviously at you.  
+~
+#16218
+golden lithe female feylar figurine tiny~
+a tiny`#`Y golden`^ lithe female feylar figurine~
+A tiny `#`Ygolden`^ female feylar figurine stands here.~
+~
+32 1 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16219
+oak barrel~
+an oak barrel~
+An oak barrel is here.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16219 barrel ~
+The barrels are made of oak, tightly bound with flax and sealed on top
+with an oak and silver lid.  
+~
+#16220
+kitty snack~
+a kitty snack~
+A kitty snack is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16221
+all-in-one jade-colored apron~
+an all-in-one`#`G jade-colored`^ apron~
+An all-in-one `#`Gjade-coloured`^ apron lies here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16222
+silver key~
+a`#`S silver`^ key~
+A `#`Ssilver`^ key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16223
+shelf~
+a shelf~
+A shelf.~
+~
+15 0 8
+16 0 20 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16224
+red biscuit~
+a`#`R red`^ biscuit~
+A `#`Rred`^ biscuit is here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16225
+yellow biscuit~
+a `#`yyellow`^ biscuit lies here.~
+A`#`y yellow`^ biscuit.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16226
+green biscuit~
+a`#`g green`^ biscuit~
+A `#`ggreen`^ biscuit lies here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16227
+white biscuit~
+a`#`w white`^ biscuit~
+A `#`wwhite`^ biscuit is here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16228
+silver sickle~
+a`#`S silver`^ sickle~
+A `#`Ssilver`^ sickle has been left here.~
+~
+5 256 4
+2 124 153 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16229
+green rucksac~
+a`#`g green`^ rucksac~
+A `#`ggreen`^ rucksac lies in a heap here.~
+~
+15 256 8
+0 0 50 100 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16230
+silver ring feylar ranger~
+the`#`S silver`^ ring of the feylar~
+A `#`Ssilver`^ ring lies here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16231
+silver bracer feylar ranger~
+the`#`S silver`^ bracer of the feylar~
+A `#`Ssilver`^ bracer lies here.~
+~
+9 256 8
+10 10 5 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16232
+soft green leather shoes~
+some`#`g green`^ soft leather shoes~
+Some `#`ggreen`^ soft leather shoes lie here.~
+~
+9 256 8
+10 10 5 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16233
+soft warm jade coloured cloak~
+a soft and warm `#`Gjade-coloured`^ cloak~
+A soft and warm `#`Gjade-coloured`^ cloak lies here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16234
+ranger rangers silver sword~
+a`#`S silver`^ rangers sword~
+A `#`Ssilver`^ sword lies here.~
+~
+5 256 4
+4 78 101 16 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16235
+iron shackles~
+some iron shackles~
+Some iron shackles are here.~
+~
+9 0 8
+60 60 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16236
+prison fatigues~
+some prisoner's fatigues~
+Some prisoner's fatigues lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16237
+chain iron chains~
+some iron chains~
+Some iron chains hang here.~
+~
+12 0 8
+100 0 50 50 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16237 chain iron chains~
+These chains petrude from the insides of the tree.  The wood itself has
+grown around their ends making them impossible to pull free.  
+~
+#16238
+fixed wooden quiver~
+a fixed wooden quiver~
+A fixed wooden quiver is here.~
+~
+15 0 8
+0 0 10 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16239
+arrow~
+a`#`S silver`^ arrow~
+A `#`Ssilver`^ arrow lies here.~
+~
+44 256 32
+7 6 -1 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16240
+golden scroll~
+a`#`Y golden`^ scroll~
+A `#`Ygolden`^ scroll lies here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16241
+silver scroll~
+a`#`S silver`^ scroll~
+A `#`Ssilver`^ scroll lies here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16242
+book feylar~
+the book of the feylar~
+The book of the feylar is here.~
+~
+13 256 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16242 book feylar~
+This cat like race evolved after the great war.  It is uncertain as to
+whether they mutated from humans or felines, or whether they developed
+individually in their own right.  What is certain though is they have the
+basic physical appearance of humans including height and stature.  However,
+apon closer examination cat-like features are to be found.  Feylar do not have
+a unique language but speak fluent human and have the ability to purr and
+hiss like other felines.  Other unique features of Feylar are extended hair
+growth to the head area, much like a mane found in some felines.  Whiskers
+on the upper lip with sharp eye teeth petruding over their lower lips.  All
+over body hair provide protection against the elements and their
+non-retractable claw like fingers protect against enemies.  The Feylar have
+soft, long tails which are more often than not conceiled under clothing
+rather than left to hang free.  Pointy ears provide exceptional hearing but
+also make them sensitive to loud noises.  Cat-like eyes provide exceptional
+night vision and a sensitive nose provides for an enhanced sense of smell. 
+Feylar prefer to not live in open spaces but in lightly wooded forests, often
+making their homes within the trees.  Feylar, being fond of communal living
+can also be found living quite happily in human communities.  Feylar spend
+much of the day sleeping because of their high metabolic rates, this means
+they will tire quicker than most other races when actively doing something. 
+Feylar are exceptionally fond of the night and can often be found hunting
+individually at this time.  Feylar young are called kits, whom are taught from
+an early age to hate and fear reptiles as all Feylar do.  Feylar rarely put
+faith in the gods and hence struggle as Clerics and Paladins.  Feylar are very
+agile creatures with lightning quick reflexes.  The woodland home of most
+Feylar and their enhanced senses provide an excellent basis for a Feylar to
+become versed in woodlore.  As such Feylar make excellent Rangers and Druids. 
+~
+#16243
+book ranger~
+the book of the ranger~
+The book of the ranger is here.~
+~
+13 256 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+16243 book ranger~
+A subclass of warrior that has taken to the woodlore for learning.  Rangers
+dabble slightly in the druidic powers of summoning, though their prowess
+lies in the melee combat.  This is quite a versatile class that provides a
+bit of everything, including sword and second attack, and has the following
+defaults:
+ 
+`#`GSKILLS:`^
+awareness        wake up when someone approaches as you sleep
+scan             allows you to look before you leap
+sword            the warrior's standby, from rapier to claymore
+spear            this skill covers both spears and staves, but not polearms
+animal training  animal training  allows animals to be more friendly with you
+domesticate      tame animals as your own pet, to follow your commands
+axe              the use of axes, ranging from hand to great (but not halberds)
+build            skill of woodcraft to build certain things, including fires
+sneak            move undetected from room to room
+ 
+`#`GELEMENTS:`^
+animal           summons the powers of nature's animals
+land             summons that offers resistance to the elements
+plant            summons that call on the vegetation
+water            summons that call on the elements of water 
+~
+#16244
+silver mace~
+`#`wa`S silver `wmace`^~
+A `#`Ssilver`^ mace has been left here.~
+~
+5 256 4
+2 17 25 10 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S 0 0
+#16245
+comfortable looking bed~
+a bed~
+A comfortable looking bed is here.~
+~
+12 0 8
+1000 1168 110 110 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+16245 bed ~
+This bed looks very comfortable.
+~
+#16246
+dresser~
+a dresser~
+A dresser is here.~
+~
+15 0 8
+1 0 10 100 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+S 0 0
+#16247
+silver pot~
+a`#`S silver`^ pot~
+A `#`Ssilver`^ pot is here.~
+~
+15 256 8
+0 0 10 100 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16247 pot silver~
+This pot glows with magic, and its weight keeps changing.
+~
+#16248
+silver kitchen knife dagger~
+a`#`S silver`^ kitchen knife~
+A `#`Ssilver`^ kitchen knife has been left here.~
+~
+5 256 4
+2 27 34 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16249
+dull silver dagger~
+a dull looking`#`s silver`^ dagger~
+A dull looking `#`Ssilver`^ dagger has been left here.~
+~
+5 256 4
+3 89 118 128 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16250
+wooden shelf~
+a wooden shelf~
+A wooden shelf.~
+~
+15 0 8
+0 0 4 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16251
+silver letter opener~
+a`#`S silver`^ letter opener~
+A`#`S silver`^ letter opener is here.~
+~
+5 256 4
+2 38 51 0 0 0 0
+1 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16252
+treaty parchment scroll embedded wall~
+a scroll~
+A scroll is embedded in the wall.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16252 scroll treaty embedded wall parchment~
+This scroll is written on brown parchment that has been embroidered with a silk boarder.
+ 
+                              TREATY
+ 
+This is to seal the permanent alliance between the Feylar, and the clan of Slayer.
+If ever in desperate need, Slayer will come to the aid of the Feylar, as will the
+Feylar come to the aid of Slayer.
+ 
+The village of the Feylar is to be considered under sanctuary, and hence
+not to be hunted in.  In return, Feylar shall respect the fortress of the
+Slayer.
+ 
+May this bond be forever unbroken, and forever signify the alliance of
+the clan of Slayer, and the race of the Feylar.
+ 
+Signed: (In Ink) Anita - Lady of the Feylar.
+Signed: (In Blood) Urai - war leader of the Slayer.
+~
+#16253
+comfortable bed~
+a comfortable bed~
+A comfortable looking bed with satin sheets is here.~
+~
+12 0 8
+5000 1170 120 120 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16253 satin sheets comfortable bed~
+The bed looks well worn and extremely comfortable.  Satin sheets have
+been roughly pulled over in an attempt to make the bed.  
+~
+#16255
+silver druid sickle~
+a`#`S silver`^ druids sickle~
+A`#`S silver`^ druids sickle lies here.~
+~
+5 256 4
+2 70 85 8 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16256
+sign wooden~
+a wooden sign~
+A small wooden sign hangs here!~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16256 wooden sign~
+The sign reads:
+ 
+ 
+Currently we have grown vines to:
+Markrist Island
+Tulgard
+Throtyl
+~
+#16257
+silver pike polearm~
+a`#`S silver`^ pike~
+A`#`S silver`^ pike lies here.~
+~
+5 0 4
+3 7 16 40 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16257 silver pike~
+This pike is around six feet long and has a large, flax waxen handle.  
+~
+#16258
+silver flail~
+a`#`S silver`^ handled flail~
+A`#`S silver`^ handled flail lies here.~
+~
+5 0 4
+3 7 16 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16259
+thin silver torso armor~
+some thin `#`Ssilver`^ torso armor~
+Some thin `#`Ssilver`^ torso armor lies here.~
+~
+9 256 8
+10 10 18 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16259 thin silver torso armor~
+This armor bears the insignia of the Feylar on it.
+~
+#16260
+sword avatars feylar~
+sword of the Feylar avatars~
+The sword of the Feylar avatars is here.~
+~
+5 256 4
+4 124 168 256 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16260 sword avatar feylar~
+This sword is made from solid silver....  It has been blessed and the
+blade appears to be strong enough never to blunt.  It is encrusted on its
+handle with the insignia of the feylar armies....  A lithe female Feylar
+kneeling before a young girl.  
+~
+#16261
+comfortable hammock~
+a comfortable looking hammock~
+A comfortable looking hammock hangs here.~
+~
+12 0 8
+10000000 1170 110 110 0 0 0
+100 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16262
+furrball furrballs biscuits soothing biscuit~
+furrballs' soothing biscuit~
+A biscuit lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#16263
+amalgum shield~
+the `#`Yamalgum`^ shield~
+A shield made of many metals lies here.~
+~
+9 0 8
+20 20 25 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16265
+silken dress~
+a silken dress~
+A silken dress lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16266
+16266 token_amalgum_shield~
+token_amalgum_shield_mp16283~
+Token_amalgum_shield_mp16283~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16267
+token_quest_talisman_speech_talisman~
+token_quest_talisman_speech_talisman_mp16291~
+Token_quest_talisman_speech_talisman_mp16291~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16268
+token_quest_talisman_speech_holder~
+token_quest_talisman_speech_holder_mp16292~
+Token_quest_talisman_speech_holder_mp16292~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16269
+token_quest_talisman_speech_delhor~
+token_quest_talisman_speech_delhor_mp16293~
+Token_quest_talisman_speech_delhor_mp16293~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16270
+token_quest_talisman_speech_humility~
+token_quest_talisman_speech_humility_mp16294~
+Token_quest_talisman_speech_humility_mp16294~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16271
+token_quest_talisman_give_matrix~
+token_quest_talisman_give_matrix_mp16295~
+Token_quest_talisman_give_matrix_mp16295~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16272
+token_quest_talisman_give_matrix~
+token_quest_talisman_speech_humble_mp11100~
+Token_quest_talisman_speech_humble~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16273
+token_quest_amalgum_speech_amalgum~
+token_quest_amalgum_speech_amalgum_mp16270~
+Token_quest_amalgum_speech_amalgum_mp16270~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16274
+token_quest_amalgum_give_sword~
+token_quest_amalgum_give_sword_mp16272~
+Token_quest_amalgum_give_sword_mp16272~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16275
+token_quest_amalgum_give_hammer~
+token_quest_amalgum_give_hammer_mp16273~
+Token_quest_amalgum_give_hammer_mp16273~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16276
+token_quest_amalgum_give_helm~
+token_quest_amalgum_give_helm_mp16274~
+Token_quest_amalgum_give_helm_mp16274~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16277
+token_quest_amalgum_give_ring~
+token_quest_amalgum_give_ring_mp16275~
+Token_quest_amalgum_give_ring_mp16275~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#16200
+A Giant Oak Tree~
+~
+Before you towers an immense oak tree, large roots boldly span out in all
+directions from the base of the tree.  The bark on the tree is worn by what
+appears to be thousands of claw marks.  Hushed voices and noises can be
+heard from above.  There is a suspicious looking knot in the base of the
+tree.  
+~
+1 0 3
+D4
+~
+~
+0 0 16201
+D6
+~
+knot~
+1 0 16233
+R M 0 16200 1 16200
+E
+claw marks~
+The claw marks appear to have been scratched into the wood many times,
+almost as if some pleasure was derived from it.  
+~
+S
+#16201
+Guard Hut~
+~
+You are in a wooden thatched hut, that appears to be some sort of guard
+room.  Fine silver weapons racks line the walls and a simple desk and chair
+fill the floor space.  The high quality weapons and armor neatly readied for
+times of trouble seem out of place in this otherwise primitive looking room.
+~
+1 0 3
+D0
+~
+~
+0 0 16204
+D1
+~
+~
+0 0 16203
+D2
+~
+~
+0 0 16241
+D3
+~
+~
+0 0 16202
+D4
+~
+~
+0 0 16218
+D5
+~
+~
+0 0 16200
+R M 0 16201 15 16201
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+R O 0 16200 0 16201
+R O 0 16201 0 16201
+E
+chair desk~
+This desk and chair are facing the entrance to the hut and a quill pen
+and notebook sit on the desk.  
+~
+E
+weapons armor~
+The weapons and armor are all made from silver and kept polished like new.  
+~
+S
+#16202
+Watch Tower~
+~
+This room is made of thatched wood and is slightly higher than the others 
+that can be seen from here.  Another identical tower stands directly east of 
+here on the other side of the guard hut.  A number of arrow slots have been 
+carved into the walls facing the forest below.  A wooden quiver hangs on the 
+wall.  
+~
+1 0 3
+D1
+~
+~
+0 0 16201
+R M 0 16203 2 16202
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16208 0 16
+R O 0 16238 0 16202
+  R P 0 16239 20 16238
+E
+arrow slotts~
+The arrow sloots are angled down towards the forest and are just wide
+enough to peer and shoot arrows through at the same time.  
+~
+S
+#16203
+Watch Tower~
+~
+This room is made of thatched wood and is slightly higher than the others
+that can be seen from here.  Another identical tower stands directly west of
+here on the other side of the guard hut.  A number of arrow slotts have been
+carved into the walls facing the forest below.  
+~
+1 0 3
+D3
+~
+~
+0 0 16201
+R M 0 16203 2 16203
+  R E 0 16208 0 16
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16232 0 8
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+R O 0 16238 0 16203
+  R P 0 16239 20 16238
+E
+arrow slotts~
+The arrow sloots are angled down towards the forest and are just wide
+enough to peer and shoot arrows through at the same time.  
+~
+S
+#16204
+On a Swing Bridge~
+~
+A very thin swing bridge made from wood bound together with flax rope
+stretches to the north.  It moves unsteadily in the wind, and appears to
+require a lot of agility and balance to negotiate.  There are no side rails
+to grip on to and the flax ropes look extremely old and frayed.  
+~
+1 0 3
+D0
+~
+~
+0 0 16205
+D2
+~
+~
+0 0 16201
+R M 0 16204 1 16204
+R M 0 16205 1 16204
+E
+ropes ~
+The ropes have had the resin that preserves them worn off by constant use.  
+~
+S
+#16205
+A Platform~
+~
+You are on a platform with a large cleared room to the north.  To the
+south is an unstable looking swing bridge.  The surface of the floor has
+been thatched together with branches, large preserved leaves and flax rope. 
+~
+1 0 3
+D0
+~
+~
+0 0 16206
+D2
+~
+~
+0 0 16204
+R M 0 16206 6 16205
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+  R E 0 16204 0 7
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+R M 0 16207 6 16205
+E
+branches leaves ropes~
+The floor is covered in flax ropes branches and leaves all of which are
+coated in a resin of some sort to preserve them.  
+~
+S
+#16206
+Great Meeting Room~
+~
+You are in a large meeting room.  The floor has been thatched together as
+the others have, but unlike the other rooms it has been covered in a soft
+layer of moss.  The moss makes for a comfortable seat on the floor.  The
+room itself is centered around a large fountain.  Two circles appear to have
+been warn into the floor all surrounding the fountain.  The inner circle is
+much smaller than the outer and is set about ten hand spans closer to the
+middle.  One particular part of the inner circle looks unwarn and fresh
+foliage grows on it.  A stone tablet sits behind the space with the word
+"protector" written on it.  
+~
+1 8 0
+D0
+~
+~
+0 0 16211
+D1
+~
+~
+0 0 16208
+D2
+~
+~
+0 0 16205
+D3
+~
+~
+0 0 16207
+R M 0 16208 2 16206
+  R E 0 16206 0 16
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16232 0 8
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16218 0 17
+R M 0 16208 2 16206
+  R E 0 16205 0 6
+  R E 0 16232 0 8
+  R E 0 16218 0 17
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+  R E 0 16206 0 16
+R O 0 16211 0 16206
+E
+stone tablet protector~
+The stone tablet is about two knuckles thick on an adult human.  The word
+"protector" has been lovingly carved into its face.  The tablet looks
+generations old.  
+~
+S
+#16207
+On a Swing Bridge~
+~
+A very thin swing bridge made from wood bound together with flax rope
+stretches to the west.  It moves unsteadily in the wind, and appears to
+require a lot of agility and balance to negotiate.  There are no side rails
+to grip on to and the flax ropes look extremely old and frayed.  What
+appears to be a row of houses lies to the west, and a meeting room to the
+east.  
+~
+1 0 0
+D1
+~
+~
+0 0 16206
+D3
+~
+~
+0 0 16209
+R M 0 16205 8 16207
+E
+ropes ~
+The ropes have had the resin that preserves them worn off by constant use.  
+~
+S
+#16208
+On a Swing Bridge~
+~
+A very thin swing bridge made from wood bound together with flax rope
+stretches to the east.  It moves unsteadily in the wind, and appears to
+require a lot of agility and balance to negotiate.  There are no side rails
+to grip on to and the flax ropes look extremely old and frayed.  What
+appears to be a temple lies to the east, and a meeting room to the west.  
+~
+1 0 3
+D1
+~
+~
+0 0 16210
+D3
+~
+~
+0 0 16206
+E
+ropes ~
+The ropes have had the resin that preserves them worn off by constant use.  
+~
+S
+#16209
+Laboratory~
+~
+The walls of this room are blackened with soot.  Clumps of furr cling to
+the walls and patches of blood stain the floor.  Shelves on the eastern
+walls are littered with some full and some empty vials scattered about. 
+Shelves on the western wall have some very warn looking books on them.  The
+shelves, blackened by soot also have various parts melted away, and acid
+stains.  
+~
+1 8 0
+D1
+~
+~
+0 0 16207
+R M 0 16209 1 16209
+  R E 0 16214 0 12
+  R E 0 16215 0 16
+  R E 0 16232 0 8
+R O 0 16223 0 16209
+  R P 0 16240 1 16223
+  R P 0 16241 1 16223
+R M 0 16222 1 16209
+S
+#16210
+Temple~
+~
+A primitive looking temple surrounds you.  On the eastern and western
+walls are rows of candles and in the northern part of the room sits an alter
+of sorts.  Three marble steps lead up to the alter and a beautifully carved
+oak bench rests on the upper most step.  Apon the bench stands a statue of a
+female Feylar smiling mischeviously at you.  The ground below the steps has
+three sets of knee imprints left in it, and just infront of each set is an
+imprint of a forehead.  
+~
+1 8 0
+D3
+~
+~
+0 0 16208
+R M 0 16210 1 16210
+  R E 0 16222 0 17
+  R E 0 16232 0 8
+  R E 0 16212 0 12
+  R E 0 16213 0 16
+R O 0 16217 0 16210
+R M 0 16223 2 16210
+  R E 0 16233 0 12
+  R E 0 16232 0 8
+S
+#16211
+On a Swing Bridge~
+~
+A very thin swing bridge made from wood bound together with flax rope
+stretches to the north.  It moves unsteadily in the wind, and appears to
+require a lot of agility and balance to negotiate.  There are no side rails
+to grip on to and the flax ropes look extremely old and frayed.  
+~
+1 0 3
+D0
+~
+~
+0 0 16212
+D2
+~
+~
+0 0 16206
+E
+ropes ~
+The ropes have had the resin that preserves them worn off by constant use.  
+~
+S
+#16212
+A Platform~
+~
+You are on a platform with rooms to the north east and west.  To the
+south is an unstable looking swing bridge.  The surface of the floor has
+been thatched together with branches, large preserved leaves and flax rope. 
+~
+1 0 3
+D0
+~
+~
+0 0 16216
+D1
+~
+door~
+0 0 16217
+D2
+~
+~
+0 0 16211
+D3
+~
+~
+0 0 16214
+R M 0 16204 5 16212
+R M 0 16205 5 16212
+R M 0 16206 6 16212
+  R E 0 16202 0 5
+  R E 0 16232 0 8
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+R M 0 16207 6 16212
+  R E 0 16210 0 12
+  R E 0 16232 0 8
+E
+branches rope leaves~
+The floor is covered in flax ropes branches and leaves all of which are
+coated in a resin of some sort to preserve them.  
+~
+S
+#16213
+A House~
+~
+This room looks like someone's home.  It is quite messy and has claw
+marks all around it.  Fairly modern cooking equipment and furniture adorns
+the room, but like the other rooms, the house itself looks very primitive. 
+Windows face out the western walls and the room has no door, only a flax mat
+hanging roughly over the entrance to the neighboors house.  
+~
+1 8 0
+D0
+~
+~
+0 0 16214
+R O 0 16245 0 16213
+R O 0 16246 0 16213
+  R P 0 16210 20 16246
+E
+flax mat~
+It seems the inhabitance have little care for privacy for no door
+exhists.  Simple flax mats hang between houses and outside to protect
+against the elements.  
+~
+E
+claw marks~
+The claw marks appear to have been scratched into the wood many times,
+almost as if some pleasure was derived from it.  
+~
+S
+#16214
+A House~
+~
+This room looks like someone's home.  It is quite messy and has claws
+marks all around it.  Fairly modern cooking equipment and furniture adorns
+the room, but like the other rooms, the house itself looks very primitive. 
+Windows face out the western walls, and the room has no door, only a flax
+mat hanging roughly over the entrance.  To the north and south lie this
+homes neighboors.  
+~
+1 8 0
+D0
+~
+~
+0 0 16215
+D1
+~
+~
+0 0 16212
+D2
+~
+~
+0 0 16213
+R M 0 16211 3 16214
+  R E 0 16232 0 8
+  R E 0 16210 0 12
+R M 0 16211 3 16214
+  R E 0 16232 0 8
+  R E 0 16210 0 12
+R M 0 16211 3 16214
+  R E 0 16232 0 8
+  R E 0 16210 0 12
+R M 0 16212 3 16214
+  R E 0 16202 0 5
+  R E 0 16232 0 8
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+R M 0 16212 3 16214
+  R E 0 16206 0 16
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+R M 0 16212 3 16214
+  R E 0 16232 0 8
+  R E 0 16206 0 16
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+R O 0 16245 0 16214
+R O 0 16246 0 16214
+  R P 0 16210 20 16246
+E
+flax mat entrance~
+It seems the inhabitance have little care for privacy for no door
+exhists.  Simple flax mats hang between houses and outside to protect
+against the elements.  
+~
+E
+claw marks~
+The claw marks appear to have been scratched into the wood many times,
+almost as if some pleasure was derived from it.  
+~
+S
+#16215
+A House~
+~
+This room looks like someone's home.  It is quite messy and has claw
+marks all around it.  Fairly modern cooking equipment and furniture adorns
+the room, but like the other rooms, the house itself looks very primitive. 
+Windows face out the western walls, and the room has no door, only a flax
+mat hanging roughly over the entrance to the neighboors house.  
+~
+1 8 0
+D2
+~
+~
+0 0 16214
+R O 0 16245 0 16215
+R O 0 16246 0 16215
+  R P 0 16210 20 16246
+E
+flax mat~
+It seems the inhabitance have little care for privacy for no door
+exhists.  Simple flax mats hang between houses and outside to protect
+against the elements.  
+~
+E
+claw marks~
+The claw marks appear to have been scratched into the wood many times,
+almost as if some pleasure was derived from it.  
+~
+S
+#16216
+The Library~
+~
+You are in what appears to be a library.  There are rows of desks and
+chairs facing towards the center of the room and large bookshelves lining
+the walls.  The shelves and books themselves are of an impressive quality. 
+However the room itself looks primitive.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 16212
+R M 0 16213 1 16216
+  R E 0 16216 0 12
+  R E 0 16251 0 16
+  R E 0 16232 0 8
+R O 0 16223 0 16216
+  R P 0 16242 20 16223
+  R P 0 16243 20 16223
+  R P 0 17784 20 16223
+  R P 0 17785 20 16223
+E
+books shelves~
+Many books line these shelves and all look well worm and read.  No dust
+is to be found anywhere.  
+~
+E
+chairs desks~
+The chairs and desks all face the ceter of the room and form a complete
+circle.  
+~
+S
+#16217
+Home of the Protector~
+~
+This room is no less primitive that the others yet it has some very
+noteable distinctions.  This house has not been inhabited for many
+generations, yet it has been neatly maintained.  Rows of weapons wracks line
+the walls, all empty.  A lone chair stands before the eastern wall.  Out the
+southern window is a clear view of the Temple and through the temple window
+can be seen a statue.  A sign rests in a small stand in the center of the
+floor.  Several arrows stick out from all angles from the empty shell of
+armor, which has long since sunk deep into the floor.  
+~
+1 4194312 0
+D3
+~
+door~
+0 0 16212
+R O 0 16247 0 16217
+  R P 0 16220 30 16247
+R O 0 16211 0 16217
+R O 0 16253 0 16217
+E
+sign ~
+This is the home of the Protector whom failed in his task many years
+past.  May the godess have mercy on his soul and bring peace to his shamed
+family.  We wait for his return, knowing he shall be the shield against our
+enemy.  
+~
+E
+armor shell arrow~
+The armor although still shinning has sunk into the floor and has roots
+growing around it making it impossible to move.  The guantlet on the right
+hand looks as if once held a sword.  
+~
+E
+chair ~
+This chair has a hard wooden back with the insignia of a female Feylar
+carved into it making it very uncomfortable.  
+~
+S
+#16218
+A Guard Hut~
+~
+You are in a wooden thatched hut, that appears to be some sort of guard
+room.  Fine silver weapons racks line the walls.  The high quality weapons
+and armor neatly readied for times of trouble seem out of place in this
+otherwise primitive looking room.  
+~
+1 0 3
+D0
+~
+~
+0 0 16219
+D4
+~
+~
+0 0 16228
+D5
+~
+~
+0 0 16201
+R M 0 16201 15 16218
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+  R E 0 16232 0 8
+E
+weapons armor~
+The weapons and armor are all made from silver and kept polished like new.  
+~
+S
+#16219
+On a Swing Bridge~
+~
+There are no side rails to grip on to and the flax ropes look extremely
+old and frayed.  A very thin swing bridge made from wood bound together with
+flax rope stretches to the north.  It moves unsteadily in the wind, and
+appears to require a lot of agility and balance to negotiate.  There are no
+side rails to grip on to and the flax ropes look extremely old and frayed.  
+~
+1 0 3
+D0
+~
+~
+0 0 16220
+D2
+~
+~
+0 0 16218
+E
+ropes ~
+The ropes have had the resin that preserves them worn off by constant use.  
+~
+S
+#16220
+A Platform~
+~
+You are on a platform with a large cleared room to the north.  To the
+south is an unstable looking swing bridge.  The surface of the floor has
+been thatched together with branches, large preserved leaves and flax rope. 
+~
+1 0 3
+D0
+~
+~
+0 0 16223
+D1
+~
+~
+0 0 16222
+D2
+~
+~
+0 0 16219
+D3
+~
+~
+0 0 16221
+E
+ropes branches leaves~
+The floor is covered in flax ropes branches and leaves all of which are
+coated in a resin of some sort to preserve them.  
+~
+S
+#16221
+Kitchen~
+~
+The kitchen is filled with cooking equipment all engraved with a figure
+of a female feylar.  Pots and pans litter bench tops and dirty dishes lie
+scattered on the floor.  The room itself is covered in thick resin to
+prevent the wood catching on fire.  
+~
+1 8 0
+D1
+~
+~
+0 0 16220
+R M 0 16214 1 16221
+  R E 0 16221 0 12
+  R E 0 16232 0 8
+  R E 0 16248 0 16
+R O 0 16247 0 16221
+  R P 0 16220 30 16247
+E
+pots pans cooking equipment dishes~
+The cooking equipment is all made of blackened silver, it has baked on
+food stains and looks very poorly kept.  
+~
+S
+#16222
+Storage Pit~
+~
+This room holds piles of food packed into barrels.  No windows are here
+to let the light in so it is quite dark.  Barrels containing milk also line
+the walls and the smell of off milk makes the pit stink.  Two unlit torch
+sconses rest on each wall.  
+~
+1 8 0
+D3
+~
+~
+0 0 16220
+R M 0 16204 4 16222
+R O 0 16219 0 16222
+  R P 0 16220 30 16219
+E
+barrels ~
+The barrels are made of oak, tightly bound with flax and sealed on top
+with a oak and silver lid.  
+~
+E
+torch sconses~
+These torches have been unlit for so long that the wicks will not ignite.  
+~
+S
+#16223
+The Nursery~
+~
+This room has windows set in the walls at a low hieght, it has no roof,
+and the walls are as primitive as the rest of the village.  Various play
+items litter the floor, from scratching poles, to balls of flax twine.  A
+make shift climbing structure sits in the middle of the room.  
+~
+1 0 3
+D0
+~
+~
+0 0 16224
+D2
+~
+~
+0 0 16220
+R M 0 16215 3 16223
+R M 0 16215 3 16223
+R M 0 16215 3 16223
+R M 0 16201 3 16223
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+R M 0 16211 5 16223
+  R E 0 16210 0 12
+  R E 0 16232 0 8
+E
+play scratching poles balls flax twine climbing structure~
+There are numerous items littering the floor here.  Balls of twine have
+been ravished and scratching poles decimated.  Most noteable is a large
+climbing structure made of oak branches.  
+~
+S
+#16224
+A Platform~
+~
+You are on a platform just north of a nursary.  The platform is larger
+than the others and looks as though it could support more weight.  The bound
+branches and ropes appear to have been organised better also.  To the north
+lies a room with a door on it.  
+~
+1 0 3
+D0
+~
+door~
+33 16222 16225
+D1
+~
+~
+0 0 16227
+D2
+~
+~
+0 0 16223
+D3
+~
+~
+0 0 16226
+R M 0 16207 5 16224
+  R E 0 16232 0 8
+  R E 0 16210 0 12
+R M 0 16204 4 16224
+E
+ropes ~
+The floor is covered in flax ropes branches and leaves all of which are
+coated in a resin of some sort to preserve them.  
+~
+S
+#16225
+Armoury~
+~
+Unlike most of the other rooms in the village this one has a door on it. 
+No windows are here to let in light but two torch sconces rest on the walls.
+Weapons racks line all of the walls, and a variety of weapons and armor
+reset on wracks and wooden feylar models.  The door has been encrusted with an
+engraving of a lithe female feylar.  
+~
+1 8 0
+D2
+~
+door~
+33 16222 16224
+R O 0 16202 0 16225
+R O 0 16203 0 16225
+R O 0 16204 0 16225
+R O 0 16205 0 16225
+R O 0 16206 0 16225
+R O 0 16207 0 16225
+R O 0 16208 0 16225
+R O 0 16209 0 16225
+R O 0 16215 0 16225
+R O 0 16218 0 16225
+R O 0 16228 0 16225
+R O 0 16234 0 16225
+R O 0 16231 0 16225
+R O 0 16230 0 16225
+R O 0 16228 0 16225
+R O 0 16244 0 16225
+E
+engraving ~
+The engraving is finely carved, and painstakingly detailed.  
+~
+E
+wooden model~
+These wooden models are really just crudely humanoid shaped grouping of
+stick for resting armor on.  
+~
+S
+#16226
+Observation Deck~
+~
+From here a grand view over looks most of the forest.  Some of the trees
+still tower over head.  To the south west a large city can be seen.  The
+giant oak from which the feylar enter their village spirals upward behind you,
+even with your neck arched back you cannot see the top of it.  There are no
+rails here to stop you falling and it would be easy to simply step off and
+plumet to the forest floor.  
+~
+1 0 3
+D1
+~
+~
+0 0 16224
+S
+#16227
+Druid's Den~
+~
+This den gives off a very pungent odour.  The smell of herbs, roots and
+forest plants mix together to give the air a fresh smell of the forest. 
+Rare plants are set in silver pots on the base of several windows, and
+strange looking biscuits are spread on a shelf.  The trimmings off branches
+litter the floor, and they crackle under foot.  
+~
+1 8 0
+D3
+~
+~
+0 0 16224
+R M 0 16216 1 16227
+  R E 0 16228 0 16
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+  R G 0 16226 0
+  R G 0 16227 0
+  R E 0 16229 0 12
+  R E 0 16232 0 8
+R O 0 16250 0 16227
+  R P 0 16225 1 16250
+  R P 0 16224 1 16250
+E
+plants ~
+The plants are uniformily green and some even have vivid red flowers
+growing from them.  
+~
+S
+#16228
+Platform~
+~
+You have reached the highest level of the village.  Not far above you is
+the top of the great tree, its branches span out through the rest of the
+forest boldly claiming its domain.  The platform on which you stand is well
+cared for, and has bleached patches on it where the sun has filtered through
+the tree top.  
+~
+1 4 3
+D0
+~
+~
+0 0 16229
+D5
+~
+~
+0 0 16218
+R M 0 16202 1 16228
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16232 0 8
+  R E 0 16202 0 5
+  R E 0 16207 0 16
+  R E 0 16209 0 11
+E
+bleached ~
+These bleached patches have been burned into the wood by years of gentle
+sunlight.  
+~
+S
+#16229
+Swing Bridge~
+~
+A very thin swing bridge made from wood bound together with flax rope
+stretches to the north.  It moves unsteadily in the wind, and appears to
+require a lot of agility and balance to negotiate.  There are no side rails
+to grip on to and the flax ropes look extremely old and frayed.  To the
+south is a platform and a training ground lies to the north.  
+~
+1 0 3
+D0
+~
+~
+0 0 16230
+D1
+~
+~
+0 0 16231
+D2
+~
+~
+0 0 16228
+D3
+~
+~
+0 0 16232
+S
+#16230
+Central Training Room~
+~
+Paintings of rangers line all the walls in here.  It seems that most Feylar
+aspire to become great rangers like those depicted in the paintings.  Drops
+of blood, spell components, herbs and sweat give tell tail signs of the
+training that is conducted in here.  Two golden rules are written in a
+scroll on the wall.  
+~
+1 8 0
+D2
+~
+~
+0 0 16229
+R M 0 16217 4 16230
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16230 0 1
+  R E 0 16230 0 2
+  R E 0 16231 0 15
+  R E 0 16231 0 14
+  R E 0 16233 0 12
+  R E 0 16234 0 16
+R M 0 16217 4 16230
+  R E 0 16234 0 16
+  R E 0 16233 0 12
+  R E 0 16232 0 8
+  R E 0 16231 0 14
+  R E 0 16231 0 15
+  R E 0 16230 0 2
+  R E 0 16230 0 1
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+R M 0 16218 4 16230
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+  R E 0 16230 0 1
+  R E 0 16230 0 2
+  R E 0 16231 0 14
+  R E 0 16231 0 15
+  R E 0 16232 0 8
+  R E 0 16233 0 12
+  R E 0 16234 0 16
+R M 0 16219 4 16230
+  R E 0 16234 0 16
+  R E 0 16202 0 5
+  R E 0 16232 0 8
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16230 0 1
+  R E 0 16230 0 2
+  R E 0 16231 0 15
+  R E 0 16231 0 14
+  R E 0 16233 0 12
+R M 0 16220 1 16230
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16230 0 2
+  R E 0 16230 0 1
+  R E 0 16231 0 14
+  R E 0 16231 0 15
+  R E 0 16233 0 12
+  R E 0 16207 0 16
+  R E 0 16209 0 11
+  R E 0 16232 0 8
+E
+golden rules scroll~
+A ranger always helps the weak.
+ 
+ 
+A ranger is always humbled by nature.
+~
+E
+painting ~
+One painting catches your attention.  It shows a tiger like striped male
+feylar encircling a five headed dragon.  
+~
+S
+#16231
+Eastern Training Room~
+~
+This room is filled with plants in various stages of growth.  Biscuit
+crumbs litter the floor along with cutting from numerous exotic plants. 
+Many windows are set into the walls making the room somewhat like a green
+house.  Heat trapped in this room from the days sun makes it quite warm. 
+The floor is very well trampled and is showing signs of age.  
+~
+1 8 0
+D3
+~
+~
+0 0 16229
+R M 0 16224 4 16231
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16232 0 8
+  R E 0 16255 0 16
+R M 0 16225 4 16231
+  R E 0 16228 0 16
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+R M 0 16226 4 16231
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16232 0 8
+  R E 0 16228 0 16
+R M 0 16227 1 16231
+  R E 0 16228 0 16
+  R E 0 16232 0 8
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+S
+#16232
+Western Training Room~
+~
+This room has a makeshift wooden and foam dumby in the centre of it.  The
+dumby has about twenty pockets on it.  The back of the dumby has been
+decimated with stab markes.  Several fake doors line the northern wall, all
+of them have different sized locks on them.  Several sections are cast in
+shadow about the size a human could stand in and hide.  
+~
+1 8 0
+D1
+~
+~
+0 0 16229
+R M 0 16229 4 16232
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16249 0 16
+  R E 0 16233 0 12
+  R E 0 16232 0 8
+R M 0 16230 4 16232
+  R E 0 16232 0 8
+  R E 0 16233 0 12
+  R E 0 16249 0 16
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+R M 0 16231 1 16232
+  R E 0 16205 0 6
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16202 0 5
+  R E 0 16249 0 16
+  R E 0 16233 0 12
+  R E 0 16232 0 8
+R M 0 16228 4 16232
+  R E 0 16232 0 8
+  R E 0 16233 0 12
+  R E 0 16249 0 16
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+S
+#16233
+Prison~
+~
+This room has been used as a prison.  Marks scarr the insides of the
+hollowed section of the tree.  Chains hang on the northern wall.  Although
+the room is round, parts of the wall have been carved flat to hand the
+chains on and put torch sconses on the wall.  The room contains no windows
+excpet for a small breathing hole near the bottom of the tree.  
+~
+1 9 0
+D8
+~
+knot~
+1 0 16200
+R M 0 16221 1 16233
+  R E 0 16235 0 9
+  R E 0 16236 0 12
+R O 0 16237 0 16233
+R M 0 16201 15 16233
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16206 0 16
+  R E 0 16232 0 8
+S
+#16234
+unused~
+~
+You are just beneath the very top of the great oak tree.  Small branches
+still spread above your head, but from here you can see well over the tops
+of most other trees and into the distance, the tops of some distant building
+to the south and the south west can be seen.  A number of vines can be seen
+hanging from the tree.  
+~
+1 32768 3
+D5
+~
+~
+0 0 16228
+S
+#16235
+War Barracks~
+~
+This room looks a little fortified as it has sharp branches protruding
+from the top of each wall.  There is no roof, but the lush growth of the
+tree provides some shelter.  There has been dirt loaded onto the floor of
+the room, and in it are the scuff marks of many a set of shoes.  Fake gnolls
+made from sticks are lines against the eastern wall with targets on their
+abdomens.  
+~
+1 0 3
+D0
+~
+~
+0 0 16241
+D1
+~
+~
+0 0 16238
+D2
+~
+~
+0 0 16236
+D3
+~
+~
+0 0 16239
+R M 0 16235 10 16235
+  R E 0 16257 0 16
+  R E 0 16259 0 5
+S
+#16236
+Southern War Barracks~
+~
+This room also has a dirt floor covered in footprints....  The foot
+prints seems somewhat lighter though and in different patterns.  Again fake
+Gnoll made from stick line the eastern wall, but this time the targets are
+on their shoulders and chests.  A door lies to the east and has the emblem
+of the feylar armies on it.  
+~
+1 0 3
+D0
+~
+~
+0 0 16235
+D1
+~
+door~
+1 0 16237
+D3
+~
+~
+0 0 16240
+R M 0 16236 10 16236
+  R E 0 16258 0 16
+  R E 0 16259 0 5
+R M 0 16238 1 16236
+  R G 0 16262 0
+S
+#16237
+General's Headquarters~
+~
+This room has no fortification but it atleast has a roof.  It seems far
+more comfortable than the barracks and has a soft leaf floor.  The portraits
+of several tall and proud looking Feylar line the northern wall, and they
+appear to be the sucsessive generals of the army.  A desk and chair furnish
+the room and a door to the west leads back into the barracks.  
+~
+1 8 0
+D3
+~
+door~
+1 0 16236
+R M 0 16237 1 16237
+  R E 0 16259 0 5
+  R E 0 16209 0 11
+  R E 0 16204 0 7
+  R E 0 16203 0 10
+  R E 0 16205 0 6
+  R E 0 16230 0 1
+  R E 0 16230 0 2
+  R E 0 16260 0 16
+R O 0 16200 0 16237
+R O 0 16201 0 16237
+S
+#16238
+Feylar Armorer~
+~
+This store has been built from solid oaken wood, it has no roof but thick
+foliage grows above it.  A heavy anvil lies behind the counter and several
+solid looking hammers hang on the wall behind the counter.  
+ 
+A sign rests on the counter.
+~
+1 0 3
+D3
+~
+~
+0 0 16235
+R M 0 16233 1 16238
+E
+sign ~
+The sign reads:
+ 
+Temporarily not trading
+I am on a personal assignment.
+~
+S
+#16239
+Kreans War Supplies~
+~
+This room has been set up as a temporary shop.  The weapons and armor lie at 
+the ready behind the counter.  Roughly made walls and a lumpy, unstable 
+looking floor show that this room is not meant to be permanent.  
+~
+1 0 3
+D1
+~
+~
+0 0 16235
+R M 0 16234 1 16239
+  R G 0 16257 0
+  R G 0 16258 0
+  R G 0 16259 0
+  R G 0 16209 0
+S
+#16240
+Lysters' Exotic Items~
+~
+A large counter has been made from makeshift branches from the tree you are 
+in.  It seems the only way to get to the other side is to climb over.  On 
+the other side are piles of various shades of leather and reams of cotton 
+and twine on a wrack.  
+~
+1 0 3
+D1
+~
+~
+0 0 16236
+R M 0 16239 1 16240
+  R E 0 16202 0 5
+  R E 0 16203 0 10
+  R E 0 16204 0 7
+  R E 0 16205 0 6
+  R E 0 16230 0 1
+  R E 0 16230 0 2
+  R E 0 16231 0 14
+  R E 0 16231 0 15
+  R E 0 16232 0 8
+  R E 0 16233 0 12
+  R G 0 16240 0
+  R G 0 16241 0
+  R E 0 16249 0 16
+  R G 0 16202 0
+  R G 0 16203 0
+  R G 0 16204 0
+  R G 0 16205 0
+  R G 0 16230 0
+  R G 0 16231 0
+  R G 0 16232 0
+S
+#16241
+Anita's Study~
+~
+This room is beautifully furnished.  The interior walls are lined with
+waxen oak, and the supporting beams are laden with intricate carvings of
+exotic vines.  A polished oak desk rests against the northern wall and a
+book-shelf filled with dusty books covered in threaded bindings is set into
+the wall.  On the desk lies a globe, candles, parchment and writing
+impliments.  The oak floor is softened by a lush carpet which covers half
+the room.  Statues of a silver and golden dragon line the western wall, and
+a large hammock supported by two lush oak trees that grow into the walls,
+adornes the eastern side of the room.  A fireplace is set behind the
+statues, and the ever burning flames within send shadows of the dragons
+flittering across the room.  Brass fire-stokers stand in a brass hold just
+infront of the fireplace.  An oil painting hangs above the desk.  Alight
+candles flicker to either side of the painting illuminating the scene
+within.
+~
+1 8 0
+D0
+~
+~
+0 0 16201
+D2
+~
+~
+0 0 16235
+R O 0 16211 0 16241
+R O 0 16250 0 16241
+R O 0 16247 0 16241
+  R P 0 16220 40 16247
+R O 0 16261 0 16241
+E
+carvings beam vines~
+The beams extend both from the floor to the roof and across the roof
+making the room appear very stable.  
+~
+E
+desk ~
+The desk has been beautifully carved from the oak off this very tree. 
+You can see the signature of its crafter whom gifted it to anita, scribed on
+its edge.  
+~
+E
+carpet ~
+The carpet is made from a mixture of silk and wool.  It depicts a lithe
+female Feylar kneeling before a young girl.  
+~
+E
+statue dragon silver golden~
+These statues have been carved from marble.  They show a silver and
+golden dragon in all their glory.  A small enscription on each reads..... 
+Our eternal thanks...  Lady of the silver elves.  
+~
+E
+flames fire fireplace~
+These flames burn evenly and constantly making the room comfortably warm
+even on the coldest nights.  The flickering lights send shadows accross the
+room.  
+~
+E
+fire-stokers brass hold~
+A brass holder is here, with two unused fire pokers in it.
+~
+E
+painting oil~
+This painting depicts a feylar village in the trees.  It is half destroyed
+and burning.  Swing bridges link what is left of the village, and feylar's
+rush along them carrying buckets.  In the forefront of the painting is a
+lithe female feylar.  She lies bleeding and writhing in pain on the ground.  A
+young girl sits next to her crying in her lap.  In the distance three looming
+figures are flying away, they appear to be three dragons.  One of them has
+five heads.  
+~
+E
+candles candle~
+These candles are made from pure white wax.  
+~
+S
+#0
+
+
+#SHOPS
+ 16234    5  9  0  0  0   150  40         0 23    ; a feylar shopkeeper
+ 16238   26  0  0  0  0   140  50         0 23    ; a motherly feylar shopkeeper
+ 16239    0  0  0  0  0   120  40         0 23    ; a male feylar shopkeeper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

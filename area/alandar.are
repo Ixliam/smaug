@@ -1,0 +1,1078 @@
+#AREA        Alandar area~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80841
+gentle older elven elf male man chef~
+the chef~
+A gentle looking older elven man is here to cook for you.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80842
+purple butterfly~
+a `#`mp`Mu`Xrp`Ml`me`^ butterfly~
+A shimmering `#`mp`Mu`Xrp`Ml`me`^ butterfly flutters about here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80843
+purple butterfly~
+a `#`mp`Mu`Xrp`Ml`me`^ butterfly~
+A shimmering `#`mp`Mu`Xrp`Ml`me`^ butterfly flutters about here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80844
+beaver brown~
+a brown beaver~
+A brown beaver sits here chewing on some wood contently.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80845
+family swan swans~
+a family of swans~
+A family of swans is here, playing in the water.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80846
+fuzzy bunny~
+a fuzzy bunny~
+A fuzzy bunny hops about here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80847
+injured deer brown~
+an injured deer~
+An injured deer is here, nursing it's healing leg.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80848
+blind tortoise~
+a blind tortoise~
+A blind tortoise is here, wandering aimlessly. 
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80849
+sheep lamb~
+a sheep with a lamb~
+A sheep with her lamb rest here together.
+~
+A sheep with a lamb rest here together. This sheep was found starving while 
+she was pregnant with this lamb. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80850
+pygmy goat~
+a cute pygmy goat~
+A cute little pygmy goat is here, begging for your attention.
+~
+This miniature goat is as cute as can be, it's tiny nose just begs to be kissed.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80851
+neopolitan mastiff candy~
+a huge neopolitan mastiff~
+A huge neopolitan mastiff wags her tail happily here.
+~
+This horse of a dog drools all over when she licks your face. The kids love 
+pretending she is a horse and she is a sweet tempered baby that lets them 
+play with them, and will sleep in the bedroom with the scared children.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80852
+human boy child ~
+a small boy~
+A small boy is here playing with some marbles.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80853
+bear cub~
+a bear cub~
+A bear cub that has an ear wrapped is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80854
+baby coyote~
+a baby coyote~
+A baby coyote that has gotten out of his box is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80855
+nurse~
+a nurse~
+A nurse tending to the babies is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80856
+nanny elven girl braid young~
+a nanny~
+A young elven girl with a braid sits here tending to the young children.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80857
+ghast guard~
+a ghastly guard~
+A ghastly guard is here, patrolling the place with blind determination.
+~
+You see an undead man wearing guards garments, his decaying flesh hanging from
+his loose bones, surrounded by a white, pale aura that seems to draw both
+your attention and your life.
+~
+0
+Clanname none~
+0
+0
+65 4096 -400 C
+32 1 -10 5d6+160 6d4+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80841
+treasury key~
+`#`WAethia's `YTreasury Key`^~
+`#`WAethia's `YTreasury Key`^ is here.~
+~
+31 128 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80842
+canary canaries yellow cage~
+a `#`Yy`We`Yll`Wo`Yw canary`^ cage~
+A large bird cage is here, it is filled with lots of `#`Yy`We`Yll`Wo`Yw canaries`^.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80843
+large wicker swing~
+a large wicker swing~
+A large wicker swing hanging from the porch beams is here.~
+~
+12 0 8
+10000 67872 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80844
+four-poster four poster canopy bed natural oak finish~
+a large `#`ycanopy`^ bed~
+A large four-postered canopy bed made of `#`ynatural oak finish`^ is here.~
+~
+12 0 8
+2000 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80845
+jewelry box white little vanity~
+a little white jewelry box~
+An antique vanity is here, upon it is a little white jewelry box.~
+~
+15 0 8
+5 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80846
+water basin onyx gold inlay~
+a water basin~
+An onyx water basin with gold inlay is here with a well lit mirror hanging above it.~
+~
+17 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80846 mirror lit~
+An image appears infront of you as you gaze into the mirror... It is you! 
+~
+#80847
+large kitchen table chairs~
+a chair at a large kitchen table~
+A large kitchen table with chairs is here.~
+~
+12 0 8
+150000 584 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80848
+oak curio cabinet~
+an oak curio cabinet~
+An oak curio cabinet is here.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80849
+large natural oak table~
+a chair at a large natural oak table~
+A large natural oak table is here, upon it is a bowl overflowing with fruit.~
+~
+12 0 8
+150000 584 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80850
+fruit bowl~
+a fruit bowl~
+~
+~
+15 0 8
+0 0 10000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80850 fruit bowl~
+In the center of the table is a large fruit bowl overflowing with fruit. 
+~
+#80851
+orange~
+a delicious orange~
+A delicious orange makes your mouth water.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80852
+apple~
+a delicious apple~
+A delicious apple makes your mouth water.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80853
+banana~
+a delicious banana~
+A delicious banana makes your mouth water.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80854
+fire fireplace blazing~
+a `#`rb`Rl`Ya`yz`Yi`Rn`rg `Sf`Xi`Srepla`Xc`Se`^~
+A `#`Sf`Xi`Srepla`Xc`Se`^ of onyx `#`rb`Rl`Yaz`Re`rs`^ here warmly.~
+~
+12 0 8
+4 66120 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80855
+coffee table~
+a coffee table~
+A coffee table with a vase of orchids is here.~
+~
+12 0 8
+10000 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80856
+futon large comfortable~
+a `#`Wl`Xa`Wr`Xg`We `rc`Somfortable `rf`Suton`^~
+A `#`Wl`Xa`Wr`Xg`We `rc`Somfortable `rf`Suton`^ centers the room.~
+~
+12 0 8
+3000 2320 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80857
+plush pillow~
+a plush pillow~
+~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80857 plush pillow~
+A large plush pillow is here on the master bed.
+~
+#80858
+red rose~
+a `#`Rr`re`Rd `rr`Ro`rs`Re`^~
+A `#`Rr`re`Rd `rr`Ro`rs`Re`^ is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80859
+bookcase enormous book~
+an enormous bookcase~
+An enormous bookcase containing endless reading materials is here.~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80860
+victorian sofa plush~
+a plush victorian sofa~
+A plush victorian sofa is here, inviting your bum to have a seat.~
+~
+12 0 8
+100000 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80861
+wine rack~
+a wine rack~
+A large wine rack is here.~
+~
+15 0 8
+5 0 50 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80862
+elven wine~
+a bottle of elven wine~
+A bottle of elven made wine lies here.~
+~
+17 0 16
+15 17 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80863
+bottle rum~
+a bottle of rum~
+A bottle of dark rum.  There is a picture of a pirate captain on its side.~
+~
+17 0 16
+15 34 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80864
+absinthe bottle~
+a bottle of absinthe~
+A bottle filled with a glowing green liquid is here.~
+~
+17 0 16
+15 26 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80865
+icewine bottle~
+a bottle of icewine~
+A bottle filled with a purplish colored wine lays here.~
+~
+17 0 16
+15 30 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80866
+applewine bottle~
+a bottle of applewine~
+A bottle filled with a tea-coloured wine lays here.~
+~
+17 0 16
+15 40 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80867
+desks chair desk~
+a desk with a chair~
+A bunch of desks with chairs are here, enough for the whole class.~
+~
+12 0 8
+100000 67872 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80868
+rocking chair wicker~
+`#`wa comfy `ywicker `wrocking chair`^~
+`#`wA comfy `ywicker `wrocking chair`^ sits here.~
+~
+12 0 8
+2000 67872 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80869
+clover patch~
+a nice `#`Gc`glove`Gr`^ patch~
+A beautiful `#`Gc`glove`Gr`^ patch is here.~
+~
+12 0 8
+100000 67872 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80870
+bed roses rosebed~
+a large `#`Rb`re`Rd `ro`Rf `rr`Ro`rs`Re`rs`^~
+A large `#`Rb`re`Rd `ro`Rf `rr`Ro`rs`Re`rs`^ is growing here.~
+~
+12 0 8
+0 264480 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80870 roses bed large~
+A large `#`Rb`re`Rd `ro`Rf `rr`Ro`rs`Re`rs`^ is growing here. The roses are beautiful and the smell is so soothing.
+~
+#80871
+waterfall water~
+a `#`Sso`Xo`Wth`Xi`Sng`^ `#`Bw`ba`St`Xer`Xf`Sa`bl`Bl`^~
+A `#`Sso`Xo`Wth`Xi`Sng`^ `#`Bw`ba`St`Xer`Xf`Sa`bl`Bl`^ is falling gently here.~
+~
+12 0 8
+10000 7405568 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80872
+clear crystal water creek spring~
+a `#`Cf`cr`Ce`cs`Ch`cw`Ca`ct`Ce`cr creek`^~
+~
+~
+25 0 16
+-1 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80872 clear crystal water creek spring~
+This `#`Cf`cr`Ce`cs`Ch`cw`Ca`ct`Ce`cr creek`^ originates from the waterfall and is fresh and pure. 
+~
+#80873
+big plush leather couch~
+a big, plush leather couch~
+A big, plush leather couch sits here, looking big and cushy.~
+~
+12 0 8
+10000 131218 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80874
+large tree birch oak~
+a shady birch tree~
+A large birch tree is here with a swing hanging from a bough.~
+~
+12 0 8
+-1 7929856 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80875
+swing~
+a tree swing~
+~
+~
+12 0 8
+10000 2336 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80876
+see saw seat~
+a see-saw~
+A see-saw sits off to one side begging for children to play on it.~
+~
+12 0 8
+-1 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80877
+magical harp~
+a magical harp~
+A magical harp sits in one corner playing a soft lullaby.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80878
+play house playhouse pink~
+a pink playhouse~
+A `#`Mpink`^ playhouse is here for the children to play in.~
+~
+12 0 8
+-1 67872 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80879
+honey activity table~
+a chair at the activity table~
+A honey colored activity table is here.~
+~
+12 0 8
+-1 66120 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80880
+oval cocktail table~
+an oval cocktail table~
+An oval cocktail table is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80881
+elegant curved sofa ottoman~
+a curved sofa~
+An elegant curved sofa with ottoman is here.~
+~
+12 0 8
+-1 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80882
+chaise couch sofa comfortable~
+a `#`ytan`^ chaise~
+A `#`ytan`^ chaise stuffed with goose feathers is here.~
+~
+12 0 8
+10000 66704 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80883
+a jack-o-lantern necklace~
+a jack-o-lantern necklace~
+A jack-o-latern necklace has been dropped here.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+80883 eerie face~
+A spooky carved face grins out at you. 
+~
+E
+80883 jack-o-lantern necklace~
+A golden necklace with a small pumpkin charm is here. On the charm has been 
+painted an eerie face. 
+~
+#0
+
+
+#ROOMS
+#80841
+A room~
+~
+~
+1 4 0
+S
+#80884
+Rainia's Secret Room~
+~
+This is Rainia's oasis from the rest of the world. A simple room designed to 
+look like something from a storybook. A lush clover flooring and walls made 
+of various flowers and fluttering butterflies gives it a peaceful and serene 
+atmosphere. 
+~
+1 33554444 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

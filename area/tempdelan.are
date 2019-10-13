@@ -1,0 +1,294 @@
+#AREA        Temple of Jivanor~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7520
+priestess~
+a priestess of `#`CJivanor`^~
+A priestess of the temple is here.
+~
+A beautiful human female.  She is wearing a long white robe with purple 
+roses trimming the sleeves and hem.  There is a small tattoo of a red heart 
+on the underside of her wrist.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+130 0 -100 13d16+630 13d17+84
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7520
+purple rose~
+`#`ma `MP`mu`Mr`mp`Ml`me `MR`mo`Ms`me`^~
+A `#`Mp`murple`^ rose is laying here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+7520 purple rose~
+This purple rose is a gift from Delandria, the Goddess of love, beauty, 
+romance and youth.  
+~
+#7521
+holy robes~
+`#`wThe `WH`wo`Wl`wy `WR`wo`Wb`we`Ws `wof `CD`ce`Cl`ca`Cn`cd`Cr`ci`Ca`^~
+A set of robes that glow with radiance of beauty rest here.~
+~
+9 256 8
+22 22 18 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7522
+altar~
+an altar to `#`CJivanor`^~
+An altar to `#`CJivanor`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7520
+Entrance to the Temple~
+~
+You find yourself just inside the entrace to a large temple.  The 
+temperature is a mild and comfortable and there is a sweet aroma of flowers 
+in the air.  You notice that there are rose vines climbing the walls that 
+seem to be growing out of nowhere.  Soft chanting can be heard throughout 
+the temple.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7521
+D2
+~
+~
+0 0 3041
+S
+#7521
+Temple Foyer~
+~
+You find yourself in the grand foyer of a large temple.  The temperature is 
+a mild and comfortable and there is a sweet aroma of flowers in the air.  
+You notice that there are rose vines climbing the walls that seem to be 
+growing out of nowhere.  There is a large altar to your north.  The soft 
+sounds of chanting can be heard throughout.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7522
+D2
+~
+~
+0 0 7520
+R M 0 7520 2 7521
+S
+#7522
+Temple Altar~
+~
+You find yourself in the main worship area to a large temple.  The 
+temperature is a mild and comfortable and there is a sweet aroma of flowers 
+in the air.  You notice that there are rose vines climbing the walls that 
+seem to be growing out of nowhere.  Soft chanting can be heard throughout 
+the temple.  There is a hallway to your east and west.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 7524
+D2
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7523
+R O 0 7522 0 7522
+S
+#7523
+Hallway~
+~
+You are in a long hallway.  The temperature is a mild and comfortable and 
+there is a sweet aroma of flowers in the air.  You notice that there are 
+rose vines climbing the walls that seem to be growing out of nowhere.  Soft 
+chanting can be heard throughout the temple.  The altar is to your east.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 7522
+D3
+~
+~
+0 0 7526
+R M 0 7520 2 7523
+S
+#7524
+Hallway~
+~
+You are in a long hallway.  The temperature is a mild and comfortable and 
+there is a sweet aroma of flowers in the air.  You notice that there are 
+rose vines climbing the walls that seem to be growing out of nowhere.  Soft 
+chanting can be heard throughout the temple.  The altar is to your west.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 7525
+D3
+~
+~
+0 0 7522
+R M 0 7520 2 7524
+S
+#7525
+Hallway~
+~
+You are in a long hallway.  The temperature is a mild and comfortable and 
+there is a sweet aroma of flowers in the air.  You notice that there are 
+rose vines climbing the walls that seem to be growing out of nowhere.  Soft 
+chanting can be heard throughout the temple.  The altar is to your west.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7524
+S
+#7526
+Hallway~
+~
+You are in a long hallway.  The temperature is a mild and comfortable and 
+there is a sweet aroma of flowers in the air.  You notice that there are 
+rose vines climbing the walls that seem to be growing out of nowhere.  Soft 
+chanting can be heard throughout the temple.  The altar is to your east.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 7523
+D2
+~
+~
+0 0 7527
+S
+#7527
+Bewitched Room ~
+~
+One look around and you can tell that the room has been bewitched to look 
+like you have just stepped back outside.  The ceiling looks like you are 
+looking up at the sky, dark and full of stars.  The moon shines brightly and 
+there are no clouds.  Around you it looks like you are standing in a forest 
+clearing.  The ground is covered with a soft mossy.  The temperature is a 
+mild and comfortable in here though the air is slightly more humid.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7526
+S
+#7528
+High Priestess Chambers~
+~
+The room is brightly lit with several lanterns on the walls.  There are a 
+multitude of flowers spread throughout the room creating a soft aroma.  A 
+large table sits in the middle of the room surrounded by several chairs.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7525
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

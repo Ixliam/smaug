@@ -1,0 +1,1765 @@
+#AREA        Orc Fortress~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#3300
+orc general~
+an orc general~
+An orc general is here, studying the maps.
+~
+This powerful orc is well armed and armored.  His skin is covered with
+numerous scars, and he looks quite tough.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+65 2 -30 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3301
+orc aide~
+an orc aide~
+An orc aide is here, assisting the high ranking orcs.
+~
+This sniveling orc seems to be here to run errands for the more powerful
+orcs.  He is dressed only in dirty leather clothes.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3302
+orc guard~
+an orc guard~
+An orc guard is here, half asleep.
+~
+This orc guard looks tough, but also half asleep.  He is fairly well
+armed.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+45 1 -10 5d8+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3303
+orc trainee~
+an orc trainee~
+An orc trainee is here, learning to fight.
+~
+This orc is young, but looks tough enough.  He is here practicing his
+weapons skills with some masters and other trainees.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+33 1 -10 5d6+215 3d10+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3304
+orc chef~
+an orc chef~
+An orc chef is here serving up his latest kill.
+~
+This orc seems to think he is a chef.  He is wearing a big white hat that
+he's stolen somewhere, and is currently whipping up his latest recipe, no
+doubt something with elf in it.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+35 1 -10 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3305
+orc warrior~
+an orc warrior~
+An orc warrior is showing off his swordwork here.
+~
+This orc is very ugly, partly due to the battle scars which cover him. 
+He appears to be highly trained and well armed.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+46 1 -20 5d9+280 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3306
+orc sergeant~
+an orc sergeant~
+An orc sergeant is here, barking out orders.
+~
+This orc is obviously a sergeant, judging from the marking on his armor.  He 
+looks very tough and is well armed.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+53 1 -20 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3307
+orc lieutenant~
+an orc lieutenant~
+An orc lieutenant is here, harassing the lower ranking orcs.
+~
+This battle-hardened orc is well armed and looks like trouble.  His skin
+is covered with scars, but none of them look recent.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+56 1 -30 6d10+320 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3308
+orc weaponmaster~
+an orc weaponmaster~
+An orc weaponmaster is here, sharpening his weapons.
+~
+This massive orc is surrounded by weapons, and looks like he knows how to
+use them all.  He has a fairly intelligent look in his eyes, for an orc.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 1 -20 5d9+280 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3310
+orc torture master~
+an orc torture master~
+An orc torture master is here, looking for an elf to beat.
+~
+This orc is dressed in leather and seems to have tools for torturing others 
+all around him.  There is a mad gleam in his eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 1 -20 5d9+280 5d8+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3311
+orc military advisor~
+an orc military advisor~
+An orc military advisor is here, suggesting war strategies.
+~
+This advisor is a small orc who has a very crafty look to him.  He
+probably knows a lot about war strategies.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+20 0 0 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3312
+kobold slave~
+a kobold slave~
+A kobold slave is trudging along doing some menial task.
+~
+This small kobold looks half-starved and frequently beaten.  There are
+even a few burnt spots on its body.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3313
+goblin slave~
+a goblin slave~
+A goblin slave looks up at you fearfully.
+~
+This scrawny goblin is malnourished and appears to be frequently beaten.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+10 0 0 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3314
+orc dungeon guard~
+an orc dungeon guard~
+An orc dungeon guard is watching the prisoners.
+~
+This orc looks pretty tough, and is clad in a thick suit of armor, with 
+weapons hanging at his sides.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+45 1 -10 5d8+255 6d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3315
+elven prisoner~
+an elven prisoner~
+An elven prisoner is here, recovering from his latest beating.
+~
+This elf is in pretty bad shape.  He is bleeding in many places, and has had 
+some clumps of hair pulled out from his head.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+15 0 0 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3316
+human prisoner~
+a human prisoner~
+A human prisoner is cowering in a corner here.
+~
+This human has obviously been tortured badly.  There are many burnt spots
+on his body, and he is cowering in the corner in fear.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+17 0 0 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3317
+hurt elf 3317 ex-prisoner~
+a hurt elf~
+A hurt elf is here.
+~
+This elf is in pretty bad shape.  He is bleeding in many places, and has had 
+some clumps of hair pulled out from his head.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+15 0 0 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3318
+human tortured 3318 ex-prisoner~
+a tortured human~
+A tortured human is here.
+~
+This human has obviously been tortured badly.  There are many burnt spots
+on his body, and he is cowering in the corner in fear.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+17 0 0 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3300
+golden signet ring~
+a `#`Ygolden`^ signet ring~
+A `#`Ygolden`^ signet ring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1101 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3300 thick golden ring~
+This ring appears to be extremely magical in nature.  From the runes and
+symbols on it, it appears to be a ring of spell turning of some type.  
+~
+#3301
+tightly linked ringmail~
+a tightly linked ringmail~
+A tightly linked ringmail has been left here.~
+~
+9 0 8
+45 45 15 0 0 0 0
+1 1212 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3301 tightly linked ringmail~
+This ringmail is finely made.  The rings are steel, and very small and
+tightly linked.  
+~
+#3302
+double-bladed steel axe o3302~
+a double-bladed steel axe~
+A double-bladed steel axe has been left here.~
+~
+5 0 4
+5 81 117 0 0 0 0
+1 1212 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3302 double-bladed steel axe~
+This axe is made of steel and is extremely sharp and deadly.  It has two
+blades, and a sturdy wooden handle.  
+~
+#3303
+black steel helmet~
+a `#`Sblack steel`^ helmet~
+A `#`Sblack steel`^ helmet has been left here.~
+~
+9 0 8
+45 45 12 0 0 0 0
+1 1203 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3303 black steel helmet~
+This helmet is made of thick, sturdy steel.  It is black in color.  
+~
+#3304
+thin leather armor~
+some thin leather armor~
+Thin leather armor has been left here.~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3304 thin leather armor~
+This armor is thin and dirty.  Doesn't look all that protective.  
+~
+#3305
+black scalemail~
+a `#`Sblack`^ scalemail~
+A `#`Sblack`^ scalemail has been left here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 802 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3305 black scalemail~
+This armor is very thick and appears durable.  It is made from blackened
+steel.  
+~
+#3306
+spiked maul~
+a spiked maul~
+A spiked maul has been left here.~
+~
+5 0 4
+4 54 68 0 0 0 0
+1 842 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3306 spiked maul~
+This heavy club is made of thick wood and has big steel spikes.  
+~
+#3307
+old splintmail~
+an old splintmail~
+An old splintmail has been left here.~
+~
+9 0 8
+30 30 8 0 0 0 0
+1 641 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3307 old splintmail~
+This old splintmail might once have been good but is now in pretty poor
+shape.  Still looks like it could offer decent protection though.  
+~
+#3308
+black steel shortsword sword~
+a `#`Sblack steel`^ shortsword~
+A `#`Sblack steel`^ shortsword has been left here.~
+~
+5 0 4
+2 38 51 0 0 0 0
+1 639 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3308 black steel shortsword~
+This is pretty short for a sword, but appears sturdy enough.  It is made
+of blackened steel.  
+~
+#3309
+old cooking apron~
+an old cooking apron~
+An old cooking apron has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 21 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3309 old cooking apron~
+This old apron is white but is very dirty.  In big red letters on the
+front it says "Kiss the Chef!"  
+~
+#3310
+long wooden spoon~
+a long wooden spoon~
+A long wooden spoon has been left here.~
+~
+5 0 4
+1 38 51 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3310 long wooden spoon~
+This is pretty huge for a spoon, almost 3 feet long.
+~
+#3311
+heavy black platemail~
+a heavy `#`Sblack`^ platemail~
+A heavy `#`Sblack`^ platemail has been left here.~
+~
+9 0 8
+35 35 12 0 0 0 0
+1 920 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3311 heavy black platemail~
+This steel platemail is very thick and looks like it could absorb quite a
+beating.  It has been painted black.  
+~
+#3312
+heavy steel bastard sword~
+a heavy steel bastard sword~
+A heavy steel bastard sword has been left here.~
+~
+5 0 4
+4 62 76 0 0 0 0
+1 945 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3312 heavy bastard sword~
+This huge sword is double edged and very heavy.  Might take two hands for
+some to wield.  
+~
+#3313
+sturdy platemail~
+a sturdy platemail~
+A sturdy platemail has been left here.~
+~
+9 0 8
+40 40 13 0 0 0 0
+1 1010 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3313 sturdy platemail~
+This platemail looks like it offers decent protection, and is not too
+heavy.  
+~
+#3314
+metal-tipped spear o3314~
+a metal-tipped spear~
+A metal-tipped spear has been left here~
+~
+5 0 4
+2 70 85 32 0 0 0
+1 1002 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3314 metal-tipped spear~
+This long, sturdy wooden spear has a sharp steel tip with a barb.  
+~
+#3315
+sturdy black scalemail~
+a sturdy `#`Sblack`^ scalemail~
+A sturdy `#`Sblack`^ scalemail has been left here.~
+~
+9 0 8
+45 45 14 0 0 0 0
+1 1111 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3315 sturdy black scalemail~
+This scalemail is finely wrought from steel, and is painted black.
+~
+#3316
+spiked ball chain flail o3316~
+a spiked ball and chain~
+A spiked ball and chain has been left here.~
+~
+5 0 4
+2 70 85 0 0 0 0
+1 1156 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3316 spiked ball chain~
+This weapon is a spiked steel ball attached to a wooden handle by a thick
+chain.  
+~
+#3317
+thick black suit leather armor~
+a thick `#`Sblack`^ suit of leather armor~
+A thick `#`Sblack`^ suit of leather armor has been left here.~
+~
+9 0 8
+40 40 11 0 0 0 0
+1 922 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3317 thick black suit leather armor~
+This is a very fine suit of leather armor, very thick and of good
+workmanship.  
+~
+#3318
+long black leather whip~
+a long `#`Sblack`^ leather whip~
+A long `#`Sblack`^ leather whip has been left here.~
+~
+5 0 4
+7 65 85 0 0 0 0
+1 924 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3318 long black leather whip~
+This long whip is made of thick black leather braided together to form a
+very effective weapon.  The end has a steel tip.  
+~
+#3319
+black curved dagger~
+a `#`Sblack`^ curved dagger~
+A `#`Sblack`^ curved dagger has been left here.~
+~
+5 0 4
+11 62 76 0 0 0 0
+1 918 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3319 black curved dagger~
+This nasty dagger is made of sturdy steel and has been painted black,
+except for the edges of the blade.  
+~
+#3320
+burlap sack~
+a burlap sack~
+A burlap sack with holes in it has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3320 burlap sack~
+This sack has some holes in it, and looks like someone has been wearing
+it as clothing!  
+~
+#3321
+fancy leather armor~
+some fancy leather armor~
+Some fancy leather armor has been left here.~
+~
+9 0 8
+40 40 2 0 0 0 0
+1 202 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3321 fancy leather armor~
+This black suit of leather armor is very decorative, though doesn't seem
+as thick or protective as it should be.  
+~
+#3322
+metal-tipped flail~
+a metal-tipped flail~
+A metal-tipped flail has been left here.~
+~
+5 0 4
+5 62 76 0 0 0 0
+1 923 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3322 metal-tipped flail~
+This device could probably be used as either a weapon or a torture
+device.  It has a metal handle, to which is attached a dozen strips of
+leather, each with a steel tip.  The leather is very hard, and has
+apparently been specially treated with some unknown substance.  
+~
+#3323
+red robes small insignia~
+some `#`Rred robes`^ with a small insignia~
+Some `#`Rred robes`^ with a small insignia have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3323 red robes small insignia~
+These red robes are well made of fine cloth, and have a small insignia on
+the chest.  The insignia is of a fist in a yellow triangle.  
+~
+#3324
+dirty leather loincloth~
+a dirty leather loincloth~
+A dirty leather loincloth has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 7 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3324 dirty leather loincloth~
+This old scrap of leather has been fashioned into a small loincloth.  
+~
+#3325
+heavy banded mail~
+some heavy banded mail~
+A heavy banded mail has been left here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 795 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3325 heavy banded mail~
+This sturdy armor is made of flexible metal bands attached in such a way
+to offer pretty good protection.  
+~
+#3326
+steel spear~
+a steel spear~
+A steel spear has been left here.~
+~
+5 0 4
+5 54 68 32 0 0 0
+1 818 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3326 steel spear~
+This long spear is made of solid steel, and seem very strong.  
+~
+#3327
+old cotton tunic~
+an old cotton tunic~
+An old cotton tunic has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3327 old cotton tunic~
+An old grey article of clothing that covers most of the body.  
+~
+#3328
+heavy steel helmet~
+a heavy steel helmet~
+A heavy steel helmet has been left here.~
+~
+9 0 8
+45 45 11 0 0 0 0
+1 1102 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3328 heavy steel helmet~
+This helmet is made of thick steel and is very sturdy.  
+~
+#0
+
+
+#ROOMS
+#3300
+Just Inside Gates~
+~
+You are just inside the west gates of a small fortress, in a large
+courtyard.  The ground is covered with garbage and broken objects, mostly
+weapons and armor.  There are some straw practice dummies, some with arrows
+stuck in them.  The courtyard continues east and north, while to the south
+some large tents have been set up.  
+~
+1 0 1
+D0
+~
+~
+0 0 3304
+D1
+~
+~
+0 0 3301
+D2
+~
+~
+0 0 3302
+R M 0 3305 9 3300
+  R E 0 3312 0 16
+  R E 0 3311 0 5
+R M 0 3303 8 3300
+  R E 0 3307 0 5
+  R E 0 3308 0 16
+R M 0 3306 3 3300
+  R E 0 3313 0 5
+  R E 0 3314 0 16
+S
+#3301
+Courtyard~
+~
+The courtyard continues north and west from here, while to the south a
+large tent has been set up.  Straw and garbage covers the ground, including
+everything from rotting meat to broken weapons.  You can enter the
+fortress's main building through an archway to the east.  
+~
+1 0 1
+D0
+~
+~
+0 0 3305
+D1
+~
+~
+0 0 3308
+D2
+~
+~
+0 0 3303
+D3
+~
+~
+0 0 3300
+R M 0 3305 9 3301
+  R E 0 3312 0 16
+  R E 0 3311 0 5
+R M 0 3303 8 3301
+  R E 0 3307 0 5
+  R E 0 3308 0 16
+R M 0 3303 8 3301
+  R E 0 3307 0 5
+  R E 0 3308 0 16
+R M 0 3307 2 3301
+  R E 0 3328 0 6
+  R E 0 3315 0 5
+  R E 0 3316 0 16
+S
+#3302
+Mess Tent~
+~
+In this tent is where the residents of this fortress eat.  There are some
+crude wooden tables standing here, and some benches around them.  Some huge
+pots sit near a big firepit in the south end, and a hole has been cut in the
+tent above to let the smoke out.  A courtyard is outside the tent to the
+north, and another tent is connected to the east.  
+~
+1 8 0
+D0
+~
+~
+0 0 3300
+D1
+~
+~
+0 0 3303
+R M 0 3304 1 3302
+  R E 0 3309 0 12
+  R E 0 3310 0 17
+R M 0 3313 6 3302
+  R E 0 3324 0 5
+S
+#3303
+Soldier's Quarters~
+~
+There must be no room inside the buildings for the lowest rank of
+soldiers, because they all seem to have set up camp in this big tent.  Moldy
+straw mattresses cover the ground, and weapons, armours, and some personal
+items are lying about.  An exit leads outside to the north, and to another
+tent west.  
+~
+1 8 0
+D0
+~
+~
+0 0 3301
+D3
+~
+~
+0 0 3302
+R M 0 3312 6 3303
+  R E 0 3324 0 5
+S
+#3304
+Messy Courtyard~
+~
+Here in the northwest corner of the courtyard, things are especially
+messy.  Lots of refuse has been pushed up against the walls to get it out of
+the way, and has thus created a haven for rats and insects.  The yard
+continues south and east, and there is a small archway leading to a room in
+the thick north wall of the fortress.  
+~
+1 0 1
+D0
+~
+~
+0 0 3306
+D1
+~
+~
+0 0 3305
+D2
+~
+~
+0 0 3300
+R M 0 3305 9 3304
+  R E 0 3312 0 16
+  R E 0 3311 0 5
+R M 0 3303 8 3304
+  R E 0 3307 0 5
+  R E 0 3308 0 16
+R M 0 3312 6 3304
+  R E 0 3324 0 5
+S
+#3305
+Messy Courtyard~
+~
+You are in the northeast section of a large courtyard.  The area is quite
+messy, with piles of trash lying all about.  A few beat-up straw combat
+practice dummies lean against the stone wall.  There is a small archway
+leading to a room in the thick northern wall, and the fortress's main
+building lies east.  There is no entrance from here, however.  
+~
+1 0 1
+D0
+~
+~
+0 0 3307
+D2
+~
+~
+0 0 3301
+D3
+~
+~
+0 0 3304
+R M 0 3305 9 3305
+  R E 0 3312 0 16
+  R E 0 3311 0 5
+R M 0 3303 8 3305
+  R E 0 3307 0 5
+  R E 0 3308 0 16
+R M 0 3313 6 3305
+  R E 0 3324 0 5
+S
+#3306
+Guard Quarters~
+~
+This small room is where some of the fortress's guards live.  It is quite
+messy and smells like something has died here.  There is graffiti on the
+walls, most of it drawings of elves being beaten and the like.  The only
+exit is to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3304
+R M 0 3302 8 3306
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+R M 0 3302 8 3306
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+S
+#3307
+Guard Quarters~
+~
+This small room is where some of the fortress's guards live.  It is quite
+messy and smells like something has died here.  There is graffiti on the
+walls, most of it drawings of elves being beaten and the like.  The only
+exit is to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3305
+R M 0 3302 8 3307
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+R M 0 3302 8 3307
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+S
+#3308
+Wide Hall~
+~
+This wide hall runs east and west.  It seems that once this must have
+been the keep of some powerful lord, as the construction of the walls is
+very good and strong, but the current inhabitants have really ignored the
+upkeep.  The exit to outside is through an archway in the west wall, and
+there are doorways to the north and south.  Further down the hall to the
+east, you can see wide stairways leading up and down.  
+~
+1 8 0
+D0
+~
+~
+0 0 3310
+D1
+~
+~
+0 0 3309
+D2
+~
+~
+0 0 3311
+D3
+~
+~
+0 0 3301
+S
+#3309
+Wide Hall~
+~
+The wide hallway stretches west from here, and seems to end in an exit to 
+the outside in that direction.  On this end there are entrances north and 
+south to small rooms, and wide curved stairways leading up and down.  
+Shouting and loud noises are coming from below.  A few old tapestries cling 
+to the walls, but are so torn and rotten that it is impossible to see what 
+they used to display.  A gate heads off to the east, to a small path.  
+~
+1 8 0
+D0
+~
+~
+0 0 3312
+D1
+~
+~
+1 0 3332
+D2
+~
+~
+0 0 3313
+D3
+~
+~
+0 0 3308
+D4
+~
+~
+0 0 3314
+D5
+~
+~
+0 0 3321
+R M 0 3305 9 3309
+  R E 0 3311 0 5
+  R E 0 3312 0 16
+R M 0 3312 6 3309
+  R E 0 3324 0 5
+S
+#3310
+Guard Room~
+~
+This small room houses some guards who are supposed to watch the front
+entrance.  There are two tables and some old wooden chairs, and a few pails
+of water and unrecognizable material.  On one of the tables are a deck of
+cards and wooden chips, perhaps you've interrupted the game.  
+~
+1 8 0
+D2
+~
+~
+0 0 3308
+R M 0 3302 8 3310
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+R M 0 3302 8 3310
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+S
+#3311
+Guard Room~
+~
+There's not much to look at in this small guard room.  A few tables,
+chairs, and buckets of water and slop.  There are posters on the south wall,
+and when you take a closer look you see that they all show naked female orcs
+in various poses!  The only exit is north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3308
+R M 0 3302 8 3311
+  R E 0 3306 0 16
+  R E 0 3305 0 5
+R M 0 3302 8 3311
+  R E 0 3305 0 5
+  R E 0 3306 0 16
+S
+#3312
+Armoury~
+~
+Here in the armoury the weapons and armours are stacked high on shelves,
+or hanging in racks.  There are mostly heavy leather armors and ringmails,
+as well as a few scalemails.  All are a little larger than human sized, and
+none seem to have been cared for very well.  In the weapon racks there are a
+lot of spears with various tips, and some dull longswords.  The only exit is
+south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3309
+R M 0 3308 1 3312
+  R E 0 3317 0 5
+  R E 0 3318 0 16
+  R E 0 3319 0 17
+R M 0 3313 6 3312
+  R E 0 3324 0 5
+S
+#3313
+Empty Room~
+~
+This large room is empty, except for a few piles of garbage, and smells
+very bad.  As you poke around you occasionally disturb a rat feasting on
+some old scrap of meat, and then you discover the source of the smell -
+Under an old tarp in a corner there are some rotting bodies.  Upon closer
+examination, they seem to be elves.  The only exit is north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3309
+R M 0 3306 3 3313
+  R E 0 3313 0 5
+  R E 0 3314 0 16
+S
+#3314
+Wide Hallway~
+~
+Burning torches line the walls of this wide east-west hallway.  The walls
+are of dark grey stone, and archways lead into rooms to the north and south.
+There is a curved staircase leading down.  
+~
+1 8 0
+D0
+~
+~
+0 0 3319
+D1
+~
+~
+0 0 3328
+D2
+~
+~
+0 0 3320
+D3
+~
+~
+0 0 3315
+D5
+~
+~
+0 0 3309
+S
+#3315
+Wide Hallway~
+~
+The wide hallway leads east from here.  There are open stone archways to
+the north and south, and a larger one to the west, from which a breeze
+comes.  Burning torches line the walls.  
+~
+1 8 0
+D0
+~
+~
+0 0 3316
+D1
+~
+~
+0 0 3314
+D2
+~
+~
+0 0 3318
+D3
+~
+~
+0 0 3317
+R M 0 3313 6 3315
+  R E 0 3324 0 5
+S
+#3316
+War Room~
+~
+Here is the most important room in the fortress, the war room where the
+inhabitants plan their strategies.  There are several sturdy tables with
+maps all over them, and small figurines to symbolize troops.  A window is in
+the west wall and overlooks a city, and the only exit is south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3315
+R M 0 3305 9 3316
+  R E 0 3312 0 16
+  R E 0 3311 0 5
+R M 0 3300 1 3316
+  R E 0 3300 0 2
+  R E 0 3301 0 5
+  R E 0 3302 0 16
+  R E 0 3303 0 6
+R M 0 3301 2 3316
+  R E 0 3304 0 5
+R M 0 3301 2 3316
+  R E 0 3304 0 5
+R M 0 3306 3 3316
+  R E 0 3313 0 5
+  R E 0 3314 0 16
+R M 0 3311 2 3316
+  R E 0 3323 0 12
+R M 0 3311 2 3316
+  R E 0 3323 0 12
+S
+#3317
+Overlook~
+~
+You are on a small outdoor balcony which overlooks a courtyard, and
+beyond that a large city.  A stone archway leads east into the building. 
+There are some tents in the courtyard below.  
+~
+1 0 1
+D1
+~
+~
+0 0 3315
+R M 0 3305 9 3317
+  R E 0 3311 0 5
+  R E 0 3312 0 16
+S
+#3318
+Soldier's Quarters~
+~
+This room is filled with pallets made of straw and covered with old
+cloth.  There is not much in the way of personal items, but there are some
+buckets and bowls of food and drink.  The only exit is through an archway to
+the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3315
+R M 0 3312 6 3318
+  R E 0 3324 0 5
+S
+#3319
+Officer's Quarters~
+~
+These are the quarters of some high ranking officer, if the fine
+furnishings are any indication.  There is a wooden bed that has thick fur
+blankets, and even a few pillows.  Against the wall is a wooden desk, and a
+chair.  A table sits near the only exit, which is to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3314
+S
+#3320
+Soldier's Quarters~
+~
+This room is filled with pallets made of straw and covered with old
+cloth.  There is not much in the way of personal items, but there are some
+buckets and bowls of food and drink.  The only exit is through an archway to
+the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3314
+R M 0 3305 9 3320
+  R E 0 3311 0 5
+  R E 0 3312 0 16
+S
+#3321
+Dungeon Hallway~
+~
+The hallway here leads west through the dungeons, and ends in a stone
+wall east.  There are torches on the walls to illuminate the place, and a
+curved stairway that leads upwards.  There are small rooms to the north and
+south.  
+~
+1 8 0
+D0
+~
+~
+0 0 3323
+D2
+~
+~
+0 0 3324
+D3
+~
+~
+0 0 3322
+D4
+~
+~
+0 0 3309
+R M 0 3313 6 3321
+  R E 0 3324 0 5
+R M 0 3314 2 3321
+  R E 0 3325 0 5
+  R E 0 3326 0 16
+S
+#3322
+Dark Dungeon Hallway~
+~
+Here at the west end of this hallway it is quite dark.  There are small
+cells to the north, south, and west, and the hallway leads east.  
+~
+1 0 0
+D0
+~
+~
+0 0 3325
+D1
+~
+~
+0 0 3321
+D2
+~
+~
+0 0 3326
+D3
+~
+~
+0 0 3327
+R M 0 3312 6 3322
+  R E 0 3324 0 5
+R M 0 3314 2 3322
+  R E 0 3325 0 5
+  R E 0 3326 0 16
+S
+#3323
+Torture Chamber~
+~
+This cramped chamber is stuffed full of torture equipment of various
+types.  There are large items like a rack and iron maiden, and LOTS of whips
+and knives.  The only exit is south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3321
+R M 0 3310 1 3323
+  R E 0 3321 0 5
+  R E 0 3322 0 16
+R M 0 3315 3 3323
+  R E 0 3327 0 5
+S
+#3324
+Prison Cell~
+~
+This small cell has a stone floor and walls, and contains only a moldy
+straw pallet and some chains anchored to the walls.  The exit is north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3321
+R M 0 3316 2 3324
+  R E 0 3327 0 5
+S
+#3325
+Prison Cell~
+~
+This small cell has a stone floor and walls, and contains only a moldy
+straw pallet and some chains anchored to the walls.  The exit is south.  
+~
+1 8 0
+D2
+~
+~
+0 0 3322
+R M 0 3316 2 3325
+  R E 0 3327 0 5
+S
+#3326
+Prison Cell~
+~
+This small cell has a stone floor and walls, and contains only a moldy
+straw pallet and some chains anchored to the walls.  The exit is north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3322
+R M 0 3315 3 3326
+  R E 0 3327 0 5
+S
+#3327
+Prison Cell~
+~
+This small cell has a stone floor and walls, and contains only a moldy
+straw pallet and some chains anchored to the walls.  The exit is east.  
+~
+1 8 0
+D1
+~
+~
+0 0 3322
+R M 0 3315 3 3327
+  R E 0 3327 0 5
+S
+#3328
+Wide Hallway~
+~
+You are at the far east end of a wide hallway.  There are stone archways
+leading into rooms to the north, east, and south.  The area is well-lit by
+torches.  
+~
+1 8 0
+D0
+~
+~
+0 0 3329
+D1
+~
+~
+0 0 3331
+D2
+~
+~
+0 0 3330
+D3
+~
+~
+0 0 3314
+R M 0 3307 2 3328
+  R E 0 3315 0 5
+  R E 0 3316 0 16
+  R E 0 3328 0 6
+S
+#3329
+Officer's Quarters~
+~
+A few of the officers must stay here for there are only three beds in
+this large room, and it is quite nicely furnished.  Next to each bed is a
+desk, and in the center is a large round table and some chairs.  
+~
+1 8 0
+D2
+~
+~
+0 0 3328
+R M 0 3313 6 3329
+  R E 0 3324 0 5
+S
+#3330
+Soldier's Quarters~
+~
+This room is filled with pallets made of straw and covered with old
+cloth.  There is not much in the way of personal items, but there are some
+buckets and bowls of food and drink.  The only exit is through an archway to
+the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 3328
+S
+#3331
+Small Quarters~
+~
+This tiny room appears to be the quarters of someone with power or money.
+The furniture is very well made and comfortable, and includes a desk, table,
+and bed.  
+~
+1 8 0
+D3
+~
+~
+0 0 3328
+R M 0 3305 8 3331
+  R E 0 3311 0 5
+R M 0 3312 6 3331
+  R E 0 3324 0 5
+S
+#3332
+Roughly Cut Path before a Fortress~
+~
+You are on a roughly cut path that leads up to the back entrance of a large 
+keep.  There is a heavy wooden gate to the west, to enter the fortress.  
+Footprints continue to the east, where you see a smaller keep in the distant 
+north.  
+~
+1 0 2
+D1
+~
+~
+0 0 3333
+D3
+~
+~
+1 0 3309
+S
+#3333
+Roughly Cut Path before a Keep~
+~
+Footprints lead up to a small keep, which you can see is guarded by several 
+orcs.  The path is roughly cut, and has been cleared by large heavy feet, 
+rather than by a sickle.  
+~
+1 0 2
+D3
+~
+~
+0 0 3332
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

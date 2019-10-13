@@ -1,0 +1,365 @@
+#AREA        The Temple of Harpan~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#610
+balaal, bishop of death~
+balaal, bishop of pestilence~
+Balaal, Bishop of Pestilence, stands here.
+~
+`#`yStanding before you is a ghastly figure in tattered yellow robes.  He is 
+tall but exceedingly lank and sickly looking.  His hood is drawn back 
+revealing the black decaying head of an ox.  The facial tissue droops and 
+peels and a thick grey tongue hangs bloated and limp from the being's slack 
+jaw.  Maggots and wicked looking insects slither upon the ox head feasting 
+within its empty eye sockets and crawling into its nostrils.  He reeks of 
+death and decay.`^ 
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+103 0 -74 10d14+500 11d12+57
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#611
+slymenstra crow priestess night~
+slymenstra, priestess of the night~
+A small black crow rests on a willow branch.
+~
+`#`sYou see a small black crow flittering amongst the willow branches.  Small 
+and sleek, the bird seems quite mundane and inconspicuous.  Yet from deep 
+within its sullen black eyes an extraordinary intelligence glimmers.  The 
+bird watches you intently.`^ 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+105 0 -75 11d14+505 11d13+59
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#612
+usk maggot decomposer~
+usk, the decomposer~
+An enormous bloated maggot is here gorging on rancid flesh.
+~
+`#`yBefore you rests a hideous monstrosity.  From the waist up the being before 
+you resembles a man, bent and deformed.  From the waist down the being is 
+nothing more than an enormous maggot, well ofer 20 feet in length.  Its body 
+pulsates and undulates sickeningly as it slithers throughout the muck.  The 
+being slurps and gurgles as it devours the rancid meat ravenously.  `^ 
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+105 0 -75 11d14+510 11d13+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#613
+grendam man purifier~
+grendam, the purifier~
+A sinister looking man stands here, overseeing the bedlam.
+~
+`#`yYou see a tall man standing here.  He has blotchy grey skin and long greasy 
+black hair that hangs limply down upon his shoulders.  Naked from the waist 
+up, you can see a thick loosely stitched incision running vertically up the 
+man's chest begining at his waist and ending just below his neckline.  More 
+of the loose stitchwork has been used to sew the man's eyes and mouth shut.  
+`^ 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+105 0 -75 11d14+510 11d13+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#610
+harpan scythe~
+`#`sHarpan's Scythe`^~
+An evil looking scythe rests here.~
+~
+5 16 4
+6 135 170 312 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#611
+fountain gore~
+fountain of gore~
+A fountain of gore sits here.~
+~
+25 0 16
+-1 13 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+611 fountain gore~
+`#`yYou see an enormous statue of a snarling boar.  Its lips are curled back 
+into a sinister sneer, revealing twisted and cracked tusks.  A thick stream 
+of spouting blood and chunks of decaying flesh belches from the boar's 
+mouth, splattering and heaping sickeningly upon the floor.  More of the 
+putrid ooze trickles and pulses from the boar's ears and empty eye sockets.  
+`^ 
+~
+#612
+gnarled old willow tree~
+a gnarly old willow tree~
+A gnarly old willow tree grows here.~
+~
+12 0 8
+200 256 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+612 gnarled gnarly willow tree~
+You see an enormous willow tree, broken and twisted with age.  It stands 
+squat, creaking and groaning under the great weight of its mighty branches.  
+Barren of leaves, the tree looks quite sad and dejected.  
+~
+#613
+mace putrifier~
+`#`yThe Putrifier`^~
+A horrible looking mace pulsates sickeningly here.~
+~
+5 16 4
+6 135 170 8480 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#614
+discipline master~
+`#`sthe discipline master`^~
+A nasty looking whip is here.~
+~
+5 16 4
+6 135 170 64 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#610
+The Cathedral~
+~
+You find yourself within a large open room.  Towering walls of marbled 
+purple and black merge into an awesome ornately carved dome high above your 
+head.  Lining the walls of this hall you see great statues of vile demons 
+and other hideous creatures.  Each is turned, bowing slightly and paying 
+homage to the altar to the north. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 7502
+D2
+~
+~
+0 0 7501
+D6
+~
+~
+0 0 612
+D7
+~
+~
+0 0 614
+D8
+~
+~
+0 0 613
+D9
+~
+~
+0 0 611
+R O 0 27043 0 610
+E
+altar rotting queen~
+`#`sThe altar stands enormous, completely dominating the entire northern wall.  
+Carved from the blackest obsidian it seems to pulse and throb sickeningly.  
+Behind the altar, towering high overhead, stands a monstrous statue of the 
+Rotting Queen in all her vile majesty.  Her blackened flesh hanging slickly 
+from her emaciated form, she keeps stern vigil, overseeing the dark rituals 
+to be held here.  `^ 
+~
+S
+#611
+The Chamber of Rot~
+~
+This room is suffocating with the putrid stench of rot and decaying flesh. A 
+thick soupy puddle of coagulated blood and creamy pus spans the entire floor 
+of this chamber.  Looking around, you see mutilated and dismembered 
+carcasses scattered and heaped haphazardly.  A hoard of bloated squiggling 
+maggots swims throughout the bodies gorging themselves upon the rancid meat. 
+A dense cloud of flies swarms around you and little can be heard above their 
+furious buzzing.  The only exit is to the southeast.  `^ 
+~
+1 33555456 0
+D7
+~
+~
+0 0 610
+R O 0 611 0 611
+R M 0 612 1 611
+  R E 0 613 0 16
+S
+#612
+The Chamber of Madness~
+~
+This room is indescribable.  Nothing within this chamber remains as it is 
+for very long.  There is no up or down here, no left, no right, no semblence 
+of order in any form.  It is as though you have been tossed into a swirling 
+vortex of nothing.  Insanity reigns supreme here.  The only exit is to the 
+southwest.  `^   
+~
+1 33554440 0
+D8
+~
+~
+0 0 610
+R M 0 610 1 612
+  R E 0 610 0 16
+S
+#613
+The Chamber of Purification~
+~
+This is a horrible place, a room where unspeakable acts of cruelty and 
+depravity are performed daily in the name of the Rotting Queen.  All around 
+you see wretched souls being subjected to the most horrifically painful 
+torture.  They scream and beg for mercy but their agonized pleas only go 
+unheeded.  You can see flecks of dried blood and gore spattered periodically 
+upon the stonework throughout the chamber.  The only exit is to the 
+northeast.  `^ 
+~
+1 33554440 0
+D6
+~
+~
+0 0 610
+R M 0 613 1 613
+  R E 0 21515 0 7
+  R E 0 614 0 16
+S
+#614
+The Chamber of the Blackened Sun~
+~
+Bleak and dimly lit, much of this chamber is shrouded in deep ominous shadow 
+making it difficult to gauge the room's exact size.  Cobblestone walls, 
+moldy and grey with age, rise high above you dissapearing into darkness.  A 
+dank spongey bed of decaying leaves covers the entire floor.  It seems 
+unnaturally quiet and still here making even the softest whisper echo and 
+boom loudly.  The only exit is to the northwest.  `^ 
+~
+1 8 0
+D9
+~
+~
+0 0 610
+R O 0 612 0 614
+R M 0 611 1 614
+  R E 0 17773 0 17
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

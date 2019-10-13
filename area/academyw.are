@@ -1,0 +1,1019 @@
+#AREA        Academy West~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#20100
+Will-O-Wisp academy guard~
+a Will-O-Wisp~
+A Will-O-Wisp
+~
+Desc A small ball of light hovers here before the great gates of some type of castle. It twinkles with delight as you approach making a soft humming sound.
+~
+0
+Clanname none~
+0
+0
+3 128 -600 C
+56 30 -26 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20101
+lord verminaard~
+`#`RLord `sVerminaard`^~
+`#`RLord `sVerminaard `wis standing here glaring at you.`^
+~
+Verminaard is a fearsome sight indeed.  Although he is short, he is very 
+well muscled, and has been trained diligently in the art of battle.  
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+75 250 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20102
+mrulik Gnash~
+`#`GM`grulik G`Gnash`^~
+`#`GM`grulik G`Gnash `wthe leader of the `gOgre `sArmy `wis here.`^
+~
+Mrulik Gnash, leader of the Ogre Army, is a behemoth of an ogre. Nearly 8' tall, and about 550 lbs. of muscle, he could easily kill anyone one on one. His black, greasy hair hangs over his small, beady eyes.
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+56 200 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20103
+lesiato~
+`#`MLesatio`^~
+`#`MLesatio`w, a master in all things is here offering her help to you.`^
+~
+Lesiato, a woman of great beauty stands here in the red and blue robes of
+the academy offering her healing hand.  
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+110 10 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20104
+master healer~
+the Master Healer~
+The master healer is here, shrouded in robes.
+~
+The Master Healer is completely covered in thick black robes. His physical features are unable to be determined. He sits at the table writing in ancient text books.
+~
+0
+Clanname none~
+0
+0
+3 128 -600 C
+45 40 -30 10d10+10 10d10+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20105
+altron Deselius~
+`#`BA`bltron `bD`Beselius`^~
+`#`BA`bltron `bD`Beselius`w, `wa young handsome soldier is standing here.`^
+~
+Altron Deselius is a handsome young Soldier.  He has been promoted to Lord 
+Verminaard's assistant, and will do anything he can to be promoted even 
+further.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+65 300 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20106
+velkyn~
+`#`sVelkyn`^~
+`#`sVelkyn `wis here, trying to go unnoticed`^
+~
+A man, blending in with the shadows, no, part of the shadows stands proudly before you.
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20107
+chot Uth Greal~
+`#`sC`Rhot U`wth `RG`sreal`^~
+`#`sC`Rhot U`wth `RG`sreal`w, leader of the `RMinotaur `sArmy`w, is here.`^
+~
+Towering over the battlefield, Chot Uth Greal is a force to be reckoned with. Standing over 8' tall, and built like a hill giant, just his looks can intimidate most men.
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+62 200 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20108
+sleet ancient white dragon~
+`#`WS`wl`We`we`Wt`^~
+`#`WS`wl`We`we`Wt, `wthe ancient white dragon, is here.`^
+~
+A massive white dragon, scales glistening like icicles, is here. 
+~
+0
+Clanname none~
+0
+0
+5 524288 0 C
+68 200 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20109
+krill Thrul~
+`#`sK`wrill `wT`shrul`^~
+`#`sK`wrill `wT`shrul`w, a commander of the `gOgre `sArmy`w, is here.`^
+~
+Krill Thrul is a large ogre helping to command the Ogre Army. He is nearly 7 and a half feet tall, and very well muscled. He seeks to impress his commanders any way possible.
+
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+50 200 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20110
+spewn gnoll~
+`#`GS`gp`Ge`gw`Gn `wthe `gGnoll`^~
+`#`GS`gp`Ge`gw`Gn `wthe `gGnoll `wis standing here.`^
+~
+Spewm is a very large gnoll who knows his business well. He is nicknamed the Nasty Foam O' the Mouth for obvious reasons.
+ 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+62 80 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20111
+alys herrod~
+`#`MA`mlys `mH`Merrod`^~
+`#`MA`mlys `mH`Merrod`w, a female soldier is standing here.`^
+~
+With her penetrating ice blue eyes, it is difficult to see Alys Herrod as a 
+cold-hearted commander.  Her golden hair flows down to her hips, near her 
+scabbard.  
+~
+0
+Clanname none~
+0
+0
+3 0 -200 C
+70 250 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20112
+gazsh hren~
+`#`RG`razsh `rH`Rren`^~
+`#`RG`razsh H`Rren `wa commander of the Minotaur Army, is here.`^
+~
+Gazsh Hren is a rather short, but thickly muscled minotaur commander of the 
+Minotuar Armies.  He is contantly sent to do the higher commander's dirty 
+work, and will stop at nothing to gain recognition within the army.  
+~
+0
+Clanname none~
+0
+0
+3 512 -200 C
+55 200 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20113
+dragon viper~
+`#`RViper`^~
+`RViper`w, a young `sblack dragon `wis here.`#
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+71 300 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20114
+furnace dragon~
+`RF`ru`Rr`rn`Ri`rc`Re`w, a young `rred dragon`^~
+`RF`ru`Rr`rn`Ri`rc`Re`w, a young `rred dragon `wis here.`^
+~
+Furnace, a young red dragon, is here. His scales gleam red, but are black in some spots, possibly a half-breed. He is very aggressive, and quite ruthless. His intentions are unknown.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+62 200 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20115
+emerald dragon~
+`#`GE`gm`Ge`gr`Ga`gl`Gd `ythe `GD`gr`Ga`gg`Go`gn`^~
+`#`GE`gm`Ge`gr`Ga`gl`Gd`w, an adult `ggreen dragon`^.
+~
+Emerald is a large, adult green dragon. She resents serving anyone, but puts up with it because she knows death is her only alternative.
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+77 350 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20116
+scout team human~
+the scout team~
+A scout team of the Human Army is here.
+~
+The scout team consists of five members of the Human Army. The are lightly armed, but with so many of them moving about, they are hard to hit. They are all dressed to blend with their surroundings.
+~
+0
+Clanname none~
+0
+0
+5 0 0 C
+35 200 -50 1d1+744 1d1+144
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20117
+regiment human army~
+the Regiment of the Human Army~
+A regiment of the Human Army is here.
+~
+An entire regiment of the Human Army consisting of maybe 20 men.
+~
+0
+Clanname none~
+0
+0
+5 0 -200 C
+50 200 -35 1d1+1449 20d20+180
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20118
+cavalry~
+a cavalry regiment~
+A cavalry regiment of the Human Army is here.
+~
+A cavalry regiment of the human army.
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+50 200 -40 1d1+2999 1d1+259
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20119
+sabbeth panther~
+`#`sa black panther`^~
+`#`wa beautiful `Ws`sl`we`We`sk black p`wa`sn`wt`sh`we`sr is here.`^
+~
+A beautiful `Dblack`x panther.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 60 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20120
+soldier~
+`#`ra `Rs`roldier`^~
+`#`wA `Rs`roldier `wstands here looking about`^
+~
+A soldier stands before you.  He wears light armor, and wields a simple 
+sword.  
+~
+0
+Clanname none~
+0
+0
+5 0 0 C
+67 75 -37 7d10+345 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20128
+thorn the blacksmith~
+`#`RThorn`^~
+Thorn, a dwarven blacksmith is here minding the forge.
+~
+A large Dwarf is here.  He is covered in ash from his forge.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+70 250 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20129
+wolf nightsong were-wolf~
+`#`sNightsong `wthe `sWere-Wolf`^~
+A beautiful `#`sblack wolf`^ is here.
+~
+A beautiful `Dblack`x wolf is here. It looks solemn, almost sad...
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+63 250 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#20100
+rosewood chest academy clan hall~
+a `#`rrosewood`^ chest~
+A `#`rrosewood`^ chest is here.~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 588 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20101
+marble fountain~
+`Wa `wmarble `Wfountain`^~
+`#A `WMarble `Wfountain`^ is full of water here.~
+~
+25 0 16
+10000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20105
+campfire~
+a `rcampfire`x~
+A `rcampfire`x is here.~
+~
+12 0 8
+10000 584 10 10 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20106
+long granite bench~
+a long granite bench~
+`wa long granite bench is here.`^~
+~
+12 0 8
+10000 9360 110 110 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20107
+red dragon scale~
+`#`wa `Rred d`rr`Ra`rg`Ro`rn `sscale`^~
+A scale from a red dragon is lying here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1002 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20108
+ruined sword of deception~
+`#`wa `sR`wu`si`wn`se`wd `sSword `wof `RD`re`Rc`re`Rp`rt`Ri`ro`Rn`^~
+A glowing, humming sword is lying here.~
+~
+5 2 4
+2 32 3 80 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20109
+bronzed face mask~
+`#`wa `ybronzed `wface `smask`^~
+`#`wa mask made of `ybronze `wis lying here`^~
+~
+9 64 8
+45 45 6 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20110
+wooden spear tipped bone~
+`#`wa `ywooden `sspear `wtipped with `Wb`wo`Wn`we`^~
+A wooden spear with a bone tip is lying here.~
+~
+5 0 4
+17 81 117 48 0 0 0
+1 2245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20111
+gauntlets of ogre power~
+`#`wsome `ygauntlets `wof `gOgre `sPower`^~
+Some sturdy looking gauntlets are on the ground here.~
+~
+9 0 8
+40 40 11 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20122
+table small~
+a small table~
+A small table is here.~
+~
+12 0 8
+10000 1050 100 100 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#20100
+Entrance to the grounds~
+~
+Coming east off of the fork in the road you encounter a large gate.  The
+ancient gate is covered in huge vines that run across the walls the gate
+connects to.  This place seems to be hidden, only showing a bit of its
+ancient work in a few places among the forest.  A small dirt path continues
+forward past the gates and into the short, but wide building that stands
+before you.  
+~
+1 12 0
+D0
+~
+~
+0 0 20101
+D3
+~
+~
+0 0 20189
+R M 0 20120 20 20100
+R M 0 20112 1 20100
+S
+#20101
+The Main Hallway~
+~
+You now stand in the main hallway..  In every direction save the way you
+came can be found a training room.  Each room has its own level of training,
+the most easy at your left, the hard to your right, and the very hardest
+above you.  Pick wisely where you shall go and train today.  
+~
+1 8 0
+D0
+~
+~
+1 0 20104
+D1
+~
+~
+0 0 20103
+D2
+~
+~
+0 0 20100
+D3
+~
+~
+0 0 20102
+D4
+~
+~
+0 0 20105
+D5
+~
+~
+0 0 20110
+R M 0 20120 20 20101
+S
+#20102
+Lessor Arts~
+~
+Coming west from the main hall you enter the training room of the lessor
+arts.  A few small creatures hang about the walls and sit around the room
+waiting to begin your training.  
+~
+1 8 0
+D1
+~
+~
+0 0 20101
+R M 0 20120 20 20102
+R M 0 20109 1 20102
+  R E 0 20111 0 9
+S
+#20103
+Greater Arts~
+~
+Walking east from the main hall you come into the greater arts.  This is
+the last stage you will train at before you take your final test at the
+master arts.  A mage and a warrior stand in front of you waiting to begin
+your training.  
+~
+1 8 0
+D3
+~
+~
+0 0 20101
+R M 0 20120 20 20103
+R M 0 20102 1 20103
+  R E 0 20111 0 9
+S
+#20104
+Higher Arts~
+~
+Coming north from the main hall you enter the higher level training room.
+Several large creatures stand in front of you wearing armor and wielding
+weapons awaiting your attack.  
+~
+1 8 0
+D2
+~
+~
+1 0 20101
+R M 0 20129 1 20104
+S
+#20105
+Master Arts~
+~
+Walking up the marble stairs you come to the last stage of your training
+as a young being.  Here you will finish your stay at the Academy and receive
+a token that shows the population of your achieved goals.  
+~
+1 8 0
+D5
+~
+~
+0 0 20101
+R M 0 20119 1 20105
+S
+#20106
+Entrance to the Academy~
+~
+You are standing at the entrance the the Academy. Tall marble walls 
+surround the Academy protecting it from anyone that may wish to destroy the 
+valuable archives that make up the history of the world. These halls are where 
+all races can come in peace to learn their histories.  
+~
+1 12 0
+D0
+~
+~
+0 0 20189
+D2
+~
+~
+0 0 3031
+R M 0 20105 1 20106
+R M 0 20111 1 20106
+S
+#20107
+A blank walled room~
+~
+~
+1 4 0
+S
+#20108
+Red Rose Sky~
+~
+All around you, red roses constantly fall from above.  Everywhere you
+look you can see a rose, you even notice the ground on which you rest is
+made up of nothing but beautiful red roses.  The smell comes to you, its
+sweet sent pleasing, and the red color entoxicating.  
+~
+1 4 0
+S
+#20109
+`GChislev's Prison`^~
+~
+~
+1 1053337613 0
+S
+#20110
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D0
+~
+~
+0 0 20112
+D1
+~
+~
+0 0 20113
+D4
+~
+~
+0 0 20101
+S
+#20111
+`R A Swirling Pool of Light`x~
+~
+~
+1 4 0
+S
+#20112
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D1
+~
+~
+0 0 20114
+D2
+~
+~
+0 0 20110
+R M 0 20110 1 20112
+  R E 0 20109 0 28
+S
+#20113
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D0
+~
+~
+0 0 20114
+D1
+~
+~
+0 0 20115
+D3
+~
+~
+0 0 20110
+R M 0 20107 1 20113
+  R E 0 20110 0 16
+S
+#20114
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D1
+~
+~
+0 0 20116
+D2
+~
+~
+0 0 20113
+D3
+~
+~
+0 0 20112
+S
+#20115
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D0
+~
+~
+0 0 20116
+D1
+~
+~
+0 0 20118
+D3
+~
+~
+0 0 20113
+S
+#20116
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D1
+~
+~
+0 0 20117
+D2
+~
+~
+0 0 20115
+D3
+~
+~
+0 0 20114
+S
+#20117
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D2
+~
+~
+0 0 20118
+D3
+~
+~
+0 0 20116
+S
+#20118
+Basement Storage Area~
+~
+You are standing in the storage area for the Academy but there is nothing 
+stored here.  
+~
+1 8 0
+D0
+~
+~
+0 0 20117
+D3
+~
+~
+0 0 20115
+R M 0 20114 1 20118
+  R G 0 20107 0
+S
+#20119
+~
+~
+~
+1 4 0
+S
+#20125
+Spewm's Beef Shop~
+~
+Upon entering the shop you see a small counter at the far end. Upon
+this counter is several forms of meat for display. Behind the counter
+a small butchery has been set up. Food lines the walls to the right
+and left.
+~
+1 263176 0
+D0
+~
+~
+0 0 3303
+R M 0 20110 1 20125
+  R G 0 3152 0
+S
+#0
+
+
+#SHOPS
+ 20103    0  0  0  0  0   105 100         0 23    ; `#`MLesatio`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,2444 @@
+#AREA        City of Danaan~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2521
+tavern keeper~
+a tavern keeper~
+`wA tavern keeper is here waiting to serve you.`^
+~
+The Tavern keeper has served many a drink in his time in the realm.  He has 
+a medium build and has long straight black hair that is pulled back into a 
+long braid.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2522
+madam nazmeya~
+`#`wMadam Nazmeya`^~
+`#`cMadam Nazmeya `wstands here dressed in her finest silk robe.`^
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 0 C
+120 90 -90 12d15+580 12d15+74
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2523
+tamad the baker~
+`#`wTamad the Baker`^~
+`#`wTamad the `yBaker `wstands here kneeding some dough.`^
+~
+A tall man with dark hair.  He is dressed in a black tunic and a white 
+apron.  A white turban rests on his head.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2524
+a grouchy looking male dagorst~
+`#`wa grouchy male Dagorst`^~
+`#`wA grouchy looking Dagorst male is here cleaning his nails with a sharp knife.`^
+~
+A tall man with dark hair.  He is dressed in a black tunic and a white 
+apron.  A white turban rests on his head.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2525
+zara the alchemist~
+`#`cZ`wara `wthe `cA`wlchemist`^~
+`#`cZ`wara `wthe `cA`wlchemist stands here stirring a potion.`^
+~
+A beautiful Dagorst female with long dark hair and blue eyes.  She is 
+wearing a red silk sari and an expensive looking jeweled collar.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2526
+jin ~
+`#`wJin the shopkeeper`^~
+`#`rJin `wthe shopkeeper is here polishing a pair of earrings.`^
+~
+A beautiful Dagorst female with long dark hair and blue eyes.  She is 
+wearing a red silk sari and an expensive looking jeweled collar.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2527
+sultan guard~
+`#`wa `Broyal `wguard of the Sultan`^~
+`#`wa `Broyal `wguard of the Sultan is here, standing at attention.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+42 1560 -46 8d11+385 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2528
+aakmed banker~
+`#`sAakmed `wthe banker`^~
+`#`sAakmed `wthe banker stands here waiting for your money.`^
+~
+He looks very rich...
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2529
+shanahan the seamstress~
+`#`mShanahan `wthe Seamstress`^~
+`#`mShanahan `wthe Seamstress stands here measuring some cloth out.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+120 90 -90 12d15+580 12d15+74
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2530
+sitar the seamster~
+`#`wSitar the Seamster`^~
+`#`wSitar the Seamster stands here cutting some cloth out.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+120 90 -90 12d15+580 12d15+74
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2531
+dagorst female~
+`#`wa dagorstian female`^~
+`#`wA `cdagorstian `wfemale is standing here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+39 2 -43 7d11+375 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2532
+assassin dark cloaked figure~
+`#`wan assassin`^~
+`#`wa `sdark figure `wwrapped in a cloak is here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+42 1560 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2533
+priestess~
+a priestess of `#`CJivanor`^~
+A `#`CP`criestess`^ of the temple is here.
+~
+A beautiful human female.  She is wearing a long white robe with purple 
+roses trimming the sleeves and hem.  There is a small tattoo of a red heart 
+on the underside of her wrist.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+130 0 -100 13d16+630 13d17+84
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2534
+sultan~
+the sultan~
+The `#`sSultan`^ is here sitting on a large pillow.
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+93 1560 -62 9d13+450 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2535
+trainer male man dagorst tall muscular~
+a tall muscular dagorstian male~
+`#`wA tall muscular dagorstian man waits here to train you.`^
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2536
+a grouchy looking male dagorst~
+`#`wa grouchy male Dagorst`^~
+`#`wA grouchy looking Dagorst male is here cleaning his nails with a sharp knife.`^
+~
+A tall man with dark hair.  He is dressed in a black tunic and a white 
+apron.  A white turban rests on his head.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2537
+tall muscular male dagorst~
+`#`wa tall muscular male dagorst`^~
+`#`wa tall muscular male dagorst is here polishing a dagger.`^
+~
+A tall man with dark hair.  He is dressed in a black tunic and a white 
+apron.  A white turban rests on his head.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2538
+giana shopkeeper~
+`#`wGiana`^~
+`#`wGiana stands here petting her prized camel.`^
+~
+A beautiful Dagorst female with long dark hair and blue eyes.  She is 
+wearing a red silk sari and an expensive looking jeweled collar.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2539
+aliana shopkeeper~
+`#`wAliana`^~
+`#`wAliana is standing here taming a small dog.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2540
+camel~
+`#`wa `ycamel`^~
+A large `#`ycamel`^ is standing here.
+~
+The camel is a very strong mammal with wide, padded feet.  Thick leathery
+pads cover it's knees and chest.  Bushy eyebrows and long rows of eyelashes
+protect it's eyes from the sands.  Over 7 feet tall at it's hump, and
+weighing in excess of 1600 pounds, this dromedary would prove a formidable
+opponent.  `x 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+20 30 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2541
+store guard~
+`#`wa really large store `sguard`^~
+`#`wa really large store `sguard `wis standing here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+50 1560 -46 8d11+385 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2542
+dagorst harem girl~
+`#`wa `sdagorstian `rharem `wgirl`^~
+`#`wa `sdagorstian `rharem `wgirl is here.`^
+~
+You find yourself looking at a young dagorstian female with charcoal black 
+hair that hangs around her shoulders in tight bouncy unruly curls. She is 
+just 5'3" tall but there is a lot packed into her small body.  Her feminine 
+build is very shapely and voluptuous and her skin is slightly tanned.  When 
+seen, her eyes are a bright green and tend to sparkle when she is up to 
+mischief.  She seems to carries herself with an elegant grace though she 
+seems to be quite friendly and playful.  There is a small tattoo around her 
+ankle of a small dagger with a rose entwined around it. 
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+60 2 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2543
+male man dagorst tall muscular letter~
+a tall muscular dagorstian male~
+A tall muscular dagorstian man waits here to help you.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2521
+featherbed bed~
+a fluffy bed made out of feathers~
+A comfortable featherbed is sitting here.~
+~
+12 0 8
+1000 1168 125 125 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2522
+glass burning sand house special~
+`#`wa glass of the Burning Sand's house `cs`wpecial`^~
+A glass of a clear strong smelling liquid sets here.~
+~
+17 0 16
+4 8 0 0 0 0 0
+2 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2523
+steak stake beef~
+a `#`ysteak`^ on a `#`ystake`^~
+Some delicious `#`ysteak`^ on a `#`ystake`^ is sitting here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2524
+rug comfy cushion~
+a `#`rrug piled high with`^ comfy cushions`^~
+A rug, piled high with`#`y comfy cushions`^, lies here.~
+~
+12 0 8
+3000 1170 130 130 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2525
+hot bath pool~
+a hot bath pool~
+A `#`Csteaming-hot`^ pool of water is here. It looks inviting.~
+~
+12 0 8
+10000 2340 110 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2526
+desert waterskin skin~
+`#`ya desert waterskin`^~
+A waterskin lies here.~
+~
+17 0 16
+50 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2527
+black iron lantern~
+`#`wa `sblack iron `wlantern covered with `Rj`re`Rw`re`Rl`rs`^~
+A `#`Sblack iron`^ lantern has been left here.~
+~
+1 0 1
+0 150 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2528
+roast chicken~
+`#`ya roast chicken`^~
+A roast chicken is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 23 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2529
+bottle goat milk~
+`#`wa `Wbottle `wof goat `Wmilk`^~
+A bottle of milk is sitting here.~
+~
+17 0 16
+20 10 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2530
+date pie~
+`#`wa sweet pie made from `ydates`^~
+`#`wa sweet pie made from `ydates `wis lying here.`^~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2531
+blank scroll~
+a blank scroll~
+A blank scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2532
+empty potion~
+an empty potion~
+A potion bottle is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2533
+altar~
+an altar to `#`CJivanor`^~
+An altar to `#`CJivanor`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2534
+hip belt silver bells~
+`#`wa hip belt lined with `ss`wi`sl`wv`se`wr bells`^~
+A silver belt is lying here, it is covered in bells.~
+~
+15 0 8
+1 0 100 100 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2535
+silver anklet bells~
+`#`wan anklet with `ss`wi`sl`wv`se`wr bells`^~
+`#`wan anklet with `ss`wi`sl`wv`se`wr bells has slipped off someones ankle here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2536
+silver choker bells~
+`#`wa choker with `ss`wi`sl`wv`se`wr bells`^~
+`#`wa choker with `ss`wi`sl`wv`se`wr bells is laying here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2537
+silver bracelet bells~
+`#`wa `ss`wi`sl`wv`se`wr bracelet with dangling bells`^~
+`#`wa `ss`wi`sl`wv`se`wr bracelet with dangling bells lays here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2538
+pair silver zills~
+`#`wa pair of `ss`wi`sl`wv`se`wr zills`^~
+`#`wa pair of `ss`wi`sl`wv`se`wr zills are on the ground here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2539
+midriff baring beaded vest~
+`#`wa midriff baring `Rb`re`sa`Rd`re`Rd `wvest`^~
+`#`wa small vest is laying on the floor.`^~
+~
+9 0 8
+45 45 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2540
+silk beaded sari~
+`#`wa silk `Rb`re`wa`sd`re`Rd `wsari`^~
+`#`wa silk `Rb`re`wa`sd`re`Rd `wsari is lying on the floor.`^~
+~
+9 0 8
+45 45 4 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2541
+long flowing tiered skirt~
+`#`wa long flowing `Rt`ri`we`sr`re`Rd `wskirt`^~
+`#`wa long flowing `Rt`ri`we`sr`re`Rd `wskirt has been left here.`^~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2542
+pair of silk harem pants~
+`#`wa pair of `Rs`ri`wl`sk `Rh`ra`wr`se`Rm `wpants`^~
+`#`wa pair of `Rs`ri`wl`sk `Rh`ra`wr`se`Rm `wpants have been left here.`^~
+~
+9 0 8
+45 45 4 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2543
+silk tunic~
+`#`wa `Rs`ri`wl`sk `Rt`ru`wn`si`Rc`^~
+`#`wa `Rs`ri`wl`sk `Rt`ru`wn`si`Rc `whas been left here.`^~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2544
+black silk slippers~
+`#`wa pair of `sblack silk `wslippers`^~
+`#`wa pair of `sblack silk `wslippers have been lying here.`^~
+~
+9 0 8
+45 45 1 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2545
+goat cheese~
+`#`wa piece of goat `Ycheese`^~
+`#`wa piece of goat `Ycheese `whas been left here.`^~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2546
+jeweled collar~
+`#`wan elegant `Mj`me`Mw`me`Ml`me`Md `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2547
+jeweled collar~
+`#`wan elegant `Yj`ye`Yw`ye`Yl`ye`Yd `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2548
+jeweled collar~
+`#`wan elegant `Bj`be`Bw`be`Bl`be`Bd `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2549
+jeweled collar~
+`#`wan elegant `Gj`ge`Gw`ge`Gl`ge`Gd `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2550
+jeweled collar~
+`#`wan elegant `Cj`ce`Cw`ce`Cl`ce`Cd `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2551
+jeweled collar~
+`#`wan elegant `?j`?e`?w`?e`?l`?e`?d `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2552
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2553
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 290 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#2554
+black leather sandals~
+`#`wa pair of `sblack leather `wsandals`^~
+`#`wa pair of `sblack leather `wsandals have been left here.`^~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2555
+curved black dagger~
+`#`wa `wCurved `SBlack Dagger`^~
+A small curved black dagger lies on the ground here.~
+~
+5 0 4
+4 7 16 17 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2556
+jeweled curved scimitar~
+`#`wa `Rj`re`Rw`re`Rl`re`Rd `wcurved `sscimitar`^~
+A curved scimitar embedded with jewels is laying here.~
+~
+5 0 4
+16 7 16 80 0 0 0
+1 1318 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2557
+black leather breastplate~
+`#`sa Black Leather Breastplate`^~
+A breastplate lies here.~
+~
+9 256 8
+5 5 12 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2558
+black leather leggings~
+`#`sa pair of black leather leggings`^~
+A pair of black leather leggings are on the ground here.~
+~
+9 0 8
+5 5 12 0 0 0 0
+1 1245 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2559
+black leather bracer~
+`#`sa black leather bracer`^~
+A black leather bracer is waits to be worn.~
+~
+9 0 8
+5 5 8 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2560
+black leather armguards~
+`#`sa pair of black leather armguards`^~
+A pair of black leather armguards are on the ground here.~
+~
+9 0 8
+10 10 9 0 0 0 0
+2 1231 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2561
+black leather helmet~
+`#`sa black leather helmet`^~
+A black leather helmet is on the ground here.~
+~
+9 0 8
+5 5 11 0 0 0 0
+1 1366 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2562
+silk boxer shorts~
+`#`wa `Rs`re`Rx`ry `wpair of `Ws`wi`Wl`wk `Rb`rox`re`Rr`rs`^~
+A pair of boxer shorts have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2563
+sexy silk pajama bottoms~
+`#`wa pair of `Rs`re`Rx`ry `Ws`wi`Wl`wk `Rp`ra`Rj`ra`Rm`ra `Wb`wo`Wt`wt`Wo`wm`Ws`^~
+A pair of silk pajama bottoms are on the ground here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2564
+sexy silk pajama top~
+`#`wa `Rs`re`Rx`ry `Ws`wi`Wl`wk `Rp`ra`Rj`ra`Rm`ra `Wt`wo`Wp`^~
+A silk pajama top is on the ground here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2565
+soft silk robe~
+`#`wa soft `Ws`wi`Wl`wk `Rr`ro`Rb`re`^~
+A soft looking silk robe is on the ground here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2566
+black velvet robes~
+`#`wa `SB`wlack `sV`welvet `SR`wobe`^~
+A fine set of black robes are here.~
+~
+9 64 8
+60 60 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2567
+dagger of the sultan~
+`#`wthe `sdagger `wof the `sSultan`^~
+A large dagger with a glowing white blade is on the ground here.~
+~
+5 1 4
+13 124 153 72 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2568
+jeweled collar~
+`#`wan elegant `Rj`re`Rw`re`Rl`re`Rd `wcollar`^~
+A jewelled collar is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2569
+diamond stud earring~
+`#`wa `Wd`wi`Wa`wm`Wo`wn`Wd `sstud `wearring`^~
+A diamond earring has been dropped here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2570
+small gift box~
+`#`wa small `Rg`ri`Rf`rt `wbox`^~
+A small gift box is laying here.~
+~
+15 0 8
+5 0 10 100 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2571
+soft white cloth turban~
+`#`wa soft `Ww`wh`Wi`wt`We `wcloth `Wt`wurban`^~
+A soft looking piece of cloth is here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2572
+baggy cloth harem pants~
+`#`wa pair of baggy `sc`wl`so`wt`sh `wharem `sp`wants`^~
+A pair of baggy harem pants are here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2573
+soft cotton desert tunic~
+`#`wa soft `sc`wo`st`wt`so`wn desert `st`wunic`^~
+A soft cotton tunic is here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2574
+assasin thin black cloak ~
+`#`wA thin `sblack `wc`sl`wo`sa`wk`^~
+An assassin's cloak covers the floor.~
+~
+9 64 8
+35 35 10 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2575
+soft black cloth turban~
+`#`wa soft `sb`wl`sa`wc`sk `wcloth `Wt`wurban`^~
+A soft looking piece of cloth is here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2576
+silver dangling filagree earring ~
+`#`wa `ss`wi`sl`wv`se`wr dangling `sfilagree `wearring`^~
+A silver filagree earring is laying here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2577
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2578
+dagger of marksmanship~
+`#`wa `sDagger `wof `sMar`wksm`sans`whip`^~
+A perfect looking dagger is laying here.~
+~
+5 64 4
+13 78 101 2048 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2579
+stone fountain~
+a stone fountain~
+A stone fountain sits here, bubbling happily.~
+~
+25 1 16
+20000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2580
+heavy ball chain shackles~
+a set of heavy iron shackles~
+Hanging off the wall is a set of heavy `#`siron`^ shackles.~
+~
+12 0 8
+2000 264484 100 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+2580 shackles ~
+Glancing at these shackles, they appear very thick and harsh. Strong enough 
+to hold just about any creature. There is a chain connected to a collar as 
+well heavy chains connected to wrist and ankle holds.
+~
+#2581
+portal~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal`^~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal is here.`^~
+~
+29 0 16
+1024 0 2538 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2582
+portal~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal`^~
+`#`wa `ssh`wad`sow`wy l`soo`wki`sng `wportal is here.`^~
+~
+29 0 16
+1024 0 2538 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2521
+Entrance to the City of Danaan~
+~
+Entering the city of Danaan there is nothing to meet you but sand all around 
+you.  To your north you can see a guard post and a dirt road.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2522
+R O 0 7900 0 2521
+S
+#2522
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+The town is to your east and there is a guard tent to your south.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2544
+D3
+~
+~
+0 0 2521
+S
+#2523
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There is a deep well here for fresh drinking water.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2543
+D1
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2522
+R M 0 2532 25 2523
+  R E 0 2574 0 12
+S
+#2524
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+A large bon fire is burning brightly here and there are several places to 
+rest around it.  To your east you can see a tent larger than any of the 
+others.  There are guards standing around it.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2525
+D2
+~
+~
+0 0 2526
+D3
+~
+~
+0 0 2523
+R M 0 2527 30 2524
+S
+#2525
+Sultan's Tent~
+~
+This is the largest tent in the town.  It is almost as large as the inn.  
+The floor is covered in plush rugs and there is a fire burning in the middle 
+of the tent.  Fluffy pillows are located throughout the tent as well as 
+trays of food and drink.  Whoever lives here is very wealthy.  
+~
+1 33554444 0
+D3
+~
+~
+0 0 2524
+R M 0 2534 1 2525
+  R E 0 2566 0 12
+  R E 0 2567 0 16
+S
+#2526
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2524
+D1
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2527
+R M 0 2531 25 2526
+S
+#2527
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2526
+D1
+~
+~
+0 0 2564
+D2
+~
+~
+0 0 2528
+S
+#2528
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There are two larger tents here.  They look like a business.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2527
+D1
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2546
+S
+#2529
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2528
+D1
+~
+~
+0 0 2530
+R M 0 2532 25 2529
+  R E 0 2569 0 27
+R M 0 2527 30 2529
+S
+#2530
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2529
+S
+#2531
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There are two larger tents here.  They look like a business.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2547
+D1
+~
+~
+0 0 2532
+D2
+~
+~
+0 0 2548
+D3
+~
+~
+0 0 2530
+R M 0 2531 25 2531
+S
+#2532
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2533
+D1
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2531
+R M 0 2532 25 2532
+  R E 0 2569 0 26
+S
+#2533
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2534
+D1
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2565
+S
+#2534
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There are two larger tents here.  They look like a business.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2535
+D1
+~
+~
+0 0 2550
+D2
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2551
+S
+#2535
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2536
+D2
+~
+~
+0 0 2534
+R M 0 2531 25 2535
+R M 0 2527 30 2535
+S
+#2536
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There is a large tent to your east, it looks like a business.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2552
+D2
+~
+~
+0 0 2535
+S
+#2537
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There is a large tent to your north.  Several people are walking in and out 
+of it carrying towels and wearing robes.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2553
+D2
+~
+~
+0 0 2536
+D3
+~
+~
+0 0 2538
+R M 0 2532 25 2537
+S
+#2538
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There is a large tent to your north but to your south there is actually a 
+two story building.  The crowd of people here is large.  There is a tavern 
+to your south and a tent made out of black canvas to your north.  Several 
+half naked ladies are standing around it.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2554
+D1
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2555
+D3
+~
+~
+0 0 2539
+R M 0 2527 30 2538
+S
+#2539
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2538
+D3
+~
+~
+0 0 2540
+R M 0 2531 25 2539
+S
+#2540
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There are two larger tents here.  They look like a business.  The smell of 
+fresh bread is in the air.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2557
+D1
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2541
+S
+#2541
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+~
+1 33554432 1
+D1
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2542
+R M 0 2532 25 2541
+S
+#2542
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There are two larger tents here.  To your west there is a tent that looks 
+like a business and to your north there is a large tent that looks like it 
+is a a temple.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2559
+D1
+~
+~
+0 0 2541
+D2
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2560
+R M 0 2527 30 2542
+S
+#2543
+Dirt Road~
+~
+You are on a hard packed dirt road.  There are very few actual buildings 
+around.  Most all of the houses and businesses are tents of various types.  
+There is a deep well here for fresh drinking water.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 2542
+D2
+~
+~
+0 0 2523
+R M 0 2531 25 2543
+R O 0 2579 0 2543
+S
+#2544
+Guards Tent~
+~
+This tent smells of dirt and sweat.  There are cots all over with sleeping 
+guards.  The floor is covered with thick ragged looking rugs and there is a 
+small fire in the middle of the tent.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 2522
+R M 0 2527 30 2544
+S
+#2545
+Sitar's Clothing for Men~
+~
+The tent is an average sized tent.  It is made of red and white striped 
+canvas and the floor is covered in black carpet.  There are several tables 
+along the walls piled high with many kinds of fancy fabric.  
+~
+1 33554444 0
+D3
+~
+~
+0 0 2528
+R M 0 2530 1 2545
+  R G 0 2554 0
+  R G 0 2543 0
+  R G 0 2542 0
+  R G 0 2562 0
+  R G 0 2572 0
+  R G 0 2573 0
+  R G 0 2571 0
+  R G 0 2575 0
+S
+#2546
+Shanahan's Exotic Clothing ~
+~
+The tent is an average sized tent.  It is made of red and white striped 
+canvas and the floor is covered in black carpet.  There are several tables 
+along the walls piled high with many kinds of fancy fabric.  
+~
+1 33554444 0
+D1
+~
+~
+0 0 2528
+R M 0 2529 1 2546
+  R G 0 2544 0
+  R G 0 2539 0
+  R G 0 2540 0
+  R G 0 2541 0
+  R G 0 2563 0
+  R G 0 2564 0
+  R G 0 2565 0
+S
+#2547
+Dathan's Weaponry~
+~
+This tent looks just like the one to the south only it has weapons in it 
+instead of armor.  The room is brightly lit.  Light is glinting off the 
+newly polished weapons.  There are shelves and tables spread throughout the 
+room containing different types of weapons.  
+~
+1 33554444 0
+D2
+~
+~
+0 0 2531
+R M 0 2537 1 2547
+  R G 0 2555 0
+  R G 0 2556 0
+S
+#2548
+Dathan's Armory~
+~
+This tent is brightly lit making the various armor glint in the light.  
+There are shelves and tables spread throughout the room containing different 
+types of armor.  
+~
+1 33554444 0
+D0
+~
+~
+0 0 2531
+R M 0 2536 1 2548
+  R G 0 2557 0
+  R G 0 2558 0
+  R G 0 2559 0
+  R G 0 2560 0
+  R G 0 2561 0
+S
+#2549
+Training Field~
+~
+You find yourself standing in the middle of a large arena.  It is in a 
+circle and it is staked out with spears.  There is a man standing here 
+waiting for you.  
+~
+1 33554444 1
+D3
+~
+~
+0 0 2532
+R M 0 2535 1 2549
+S
+#2550
+Empty Tent~
+~
+This is a large empty tent..  It looks like some has just moved out.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 2534
+S
+#2551
+Empty Tent~
+~
+This is a large empty tent..  It looks like some has just moved out.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 2534
+S
+#2552
+Zara's Scroll's and Potions~
+~
+The tent is simply furnished.  The air smells sweet and spicy.  There is a 
+table in the back of the tent covered in different herbs and potions in the 
+making.  
+~
+1 33554444 0
+D3
+~
+~
+0 0 2536
+R M 0 2525 1 2552
+  R G 0 2532 0
+  R G 0 2531 0
+  R G 0 2552 0
+  R G 0 2553 0
+S
+#2553
+Public Bath Tent~
+~
+The tent is hot and humid from the bath.  The floor is covered in carpets to 
+keep from getting your feet dirty and there are several screens along the 
+wall for privacy.  The water in the basin stays a constant temperature.  
+~
+1 33554444 0
+D2
+~
+~
+0 0 2537
+R O 0 2525 0 2553
+S
+#2554
+A large and spacious tent~
+~
+There is a sweet and calming fragrance in the air.  The floors are covered 
+in plush carpets and there are several pillows around for you to rest on.  
+The lighting is dim with only a small fire in the corner of the tent.  
+~
+1 33554444 0
+D0
+~
+door~
+1 0 2556
+D2
+~
+~
+0 0 2538
+R M 0 2522 1 2554
+R O 0 2524 0 2554
+S
+#2555
+The Burning Sands Tavern~
+~
+The tent floor is covered with plush carpeting and pillows.  The tables are 
+setting low and the customers are all sitting on the ground.  There is a 
+tall bar in the back of the tent and several half dressed ladies are dancing 
+around.  
+~
+1 33554444 0
+D0
+~
+~
+0 0 2538
+D4
+~
+~
+0 0 2561
+R M 0 2521 1 2555
+  R G 0 2522 0
+  R G 0 2523 0
+R O 0 2524 0 2555
+S
+#2556
+A Darkened Room~
+~
+You find yourself in a small room in the backside of the tent.  The room is 
+extremely dark and the only light is a small lantern resing in the corner.  
+The floor is covered by thick carpeting..  
+~
+1 0 0
+D2
+~
+~
+1 0 2554
+R M 0 2542 1 2556
+  R E 0 2544 0 8
+  R E 0 2536 0 3
+  R E 0 2536 0 4
+  R E 0 2538 0 1
+  R E 0 2538 0 2
+  R E 0 2537 0 14
+  R E 0 2537 0 15
+  R E 0 2535 0 29
+  R E 0 2535 0 30
+  R E 0 2534 0 13
+  R E 0 2542 0 7
+  R E 0 2540 0 12
+  R E 0 2539 0 5
+  R E 0 2578 0 16
+S
+#2557
+Hamad's Tavern~
+~
+This is a small tent compared to most.  There are a couple of tables and 
+chairs for people to eat at.  It is rather hot in here and the room is 
+mostly filled with Hamad's baking supplies in the rear of the tent.  
+~
+1 33554444 0
+D2
+~
+~
+0 0 2540
+R M 0 2523 1 2557
+  R G 0 2545 0
+  R G 0 2528 0
+  R G 0 2530 0
+  R G 0 2529 0
+S
+#2558
+A large Tent~
+~
+This tent is large but it is filled to the roof with boxes of junk.  You 
+would see that the floor is covered in old stained carpets if you could see 
+the floor through the boxes.  There is a counter in the middle of the tent.  
+
+~
+1 33554444 0
+D0
+~
+~
+0 0 2540
+R M 0 2524 1 2558
+  R G 0 2527 0
+  R G 0 2526 0
+S
+#2559
+Temple of Jivanor~
+~
+This tent is made of all white canvas.  There is a flaming torch on either 
+side of the altar and the floor is covered in a crimson colored cloth.  
+~
+1 33554444 0
+D2
+~
+~
+0 0 2542
+R O 0 2533 0 2559
+R M 0 2533 1 2559
+S
+#2560
+Jin's Jewelry and Dancewear~
+~
+This tent is large and spacious.  There are several tables along the walls 
+filled with different things for sale.  In the rear of the room there are 
+several ladies dancing and trying out the wares.  The floor is made of wood 
+instead of carpet and there are several lanterns lighting the room.  
+~
+1 33554444 0
+D1
+~
+~
+0 0 2542
+R M 0 2526 1 2560
+  R G 0 2538 0
+  R G 0 2537 0
+  R G 0 2536 0
+  R G 0 2535 0
+  R G 0 2534 0
+  R G 0 2576 0
+  R G 0 2570 0
+S
+#2561
+Darkened Hallway~
+~
+You are standing in the hallway.  There are two rooms to your north and 
+south.  The walls and floors are made of the same kind of wood and there is 
+a single lantern on the wall that is dimly lighting the hallway.  
+~
+1 33554432 0
+D0
+~
+door~
+1 0 2562
+D2
+~
+door~
+1 0 2563
+D5
+~
+~
+0 0 2555
+S
+#2562
+A small bedroom~
+~
+This room is a small but cozy bedroom.  The walls are made of a darkened 
+wood and there is a small lantern on a bedside table to light the room.  The 
+floors are made of the same wood as the walls.  
+~
+1 33554432 0
+D2
+~
+~
+1 0 2561
+R O 0 2521 0 2562
+S
+#2563
+A small bedroom~
+~
+This room is a small but cozy bedroom.  The walls are made of a darkened 
+wood and there is a small lantern on a bedside table to light the room.  The 
+floors are made of the same wood as the walls.  
+~
+1 33554432 0
+D0
+~
+~
+1 0 2561
+R O 0 2521 0 2563
+S
+#2564
+Aakmed's Loans~
+~
+There is nothing inside of this tent except a single counter and a large 
+vault.  The floor is made of wood and there is a single lantern hanging from 
+the wall.  
+~
+1 33816648 0
+D3
+~
+~
+0 0 2527
+R M 0 2528 1 2564
+S
+#2565
+Giana's Corral~
+~
+This really isnt a tent but a covered pavillion with several stalls housing 
+different animals.  The floor is covered in straw and there is a slight 
+stink in the air from the animals.  
+~
+1 33558536 0
+D1
+~
+~
+0 0 2533
+R M 0 2538 1 2565
+S
+#2566
+~
+~
+~
+1 138969092 0
+R M 0 2540 1 2566
+S
+#2567
+Aliana's Fine Collars~
+~
+This is a large tent made out of thick light colored canvas. The floor is 
+covered in soft black and crimson carpets. There is a counter in the middle 
+of the tent and several tables showing off many different kinds of collars. 
+~
+1 46661640 0
+D3
+~
+~
+0 0 2569
+R M 0 2539 1 2567
+  R G 0 2568 0
+  R G 0 2551 0
+  R G 0 2550 0
+  R G 0 2549 0
+  R G 0 2548 0
+  R G 0 2546 0
+  R G 0 2547 0
+S
+#2568
+~
+~
+~
+1 4 0
+S
+#2569
+Entrance to a large tent~
+~
+This is a large tent made out of thick light colored canvas. The floor is 
+covered in soft black and crimson carpets. To the back of the tent is a 
+counter and several tables showing off many different kinds of collars. 
+~
+1 1028 0
+D1
+~
+~
+0 0 2567
+D3
+~
+~
+0 0 2533
+R M 0 2541 1 2569
+S
+#2570
+Danaan Pigeon Courier~
+~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+~
+1 0 0
+D3
+~
+~
+0 0 2526
+R M 0 2543 1 2570
+  R G 0 2577 0
+S
+#2571
+Back room~
+~
+This room is dark and has no window. There are crates stacked along the 
+walls and a door leading down. 
+~
+1 33554440 0
+D5
+~
+door~
+1 0 2572
+R O 0 2581 0 2571
+S
+#2572
+Basement~
+~
+This is the basement of the tavern. It is cramped and very cold. There is 
+some straw thrown about on the floor as well as a couple bags of rice. 
+~
+1 37748744 0
+D4
+~
+~
+1 0 2571
+R O 0 2580 0 2572
+S
+#0
+
+
+#SHOPS
+ 2521   33  8  2  0  0   100  50         0 23    ; a tavern keeper
+ 2523   19  0  0  0  0   100  75         0 23    ; `#`wTamad the Baker`^
+ 2524   17  1  0  0  0   100  75         0 23    ; `#`wa grouchy male Dagorst`^
+ 2525    0  0  0  0  0   100  75         0 23    ; `#`cZ`wara `wthe `cA`wlchemist`^
+ 2526   33  9  8  0  0   100  75         0 23    ; `#`wJin the shopkeeper`^
+ 2529   11  9  0  0  0   100  75         0 23    ; `#`mShanahan `wthe Seamstress`^
+ 2530   11 33  9  0  0   100  75         0 23    ; `#`wSitar the Seamster`^
+ 2536    9  0  0  0  0   150  50         0 23    ; `#`wa grouchy male Dagorst`^
+ 2537    5  0  0  0  0   150  50         0 23    ; `#`wa tall muscular male dagorst`^
+ 2538    0  0  0  0  0   100  75         0 23    ; `#`wGiana`^
+ 2539    0  0  0  0  0   105 100         0 23    ; `#`wAliana`^
+ 2543    0  0  0  0  0   100  50         0 23    ; a tall muscular dagorstian male
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

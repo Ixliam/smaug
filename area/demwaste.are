@@ -1,0 +1,5032 @@
+#AREA        Demon Wasteland~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#9460
+gargoyle stone grey~
+a stone gargoyle~
+A large gargoyle is here; He eyes you cautiously as others group around him.
+~
+Adorned atop this gargoyle's head are two wicked horns curling from either 
+side of his head. His face appears to be somewhat humanoid in appearance, if 
+not for the dark ashen-gray color or sharp fangs protruding from his lips. 
+His eyes when open are an eerie, glowing yellow. His form, mainly humanoid, 
+still maintains it's enigmatic gargoyle properties with his muscular 
+gargoyle legs, clawed feet and slender but long, whip-like forked tail. Down 
+his back are sharp, thin spines of black bone starting from the base of his 
+neck, to mid-tail. His wings are large and leathery with a small little claw 
+on them. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9461
+kobold ugly drooling~
+a kobold~
+A short fat kobold is here, drooling all over itself.
+~
+A snotty, squat little kobold is here. Dark skin covers his body. Wisps of 
+hair tuft off his nearly bald head. Pointed ears poke from his bulbous head. 
+His eyes glow an eerie red. He smirks amused as his drool falls down over 
+the front of his rusted breastplate. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -22 5d9+285 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9462
+rock centipede worm~
+a rock worm~
+A small rock worm scurrying across the desert is here.
+~
+This rock worm is similar to a large centipede. It scurries across the 
+ground eating rocks and other items that it finds. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9463
+succubi demon female lust luscious succubus~
+a luscious succubus~
+A luscious succubus is here, taunting you with her supple body.
+~
+The perfect woman of your dreams is here. Her supple body entices you to 
+join her...  with what you ask? Does it matter? Her eyes gleam wickedly and 
+you're captivated. Nevermind the tail, the talons... the horns or leathery 
+imp-like wings... She's perfect. Or is she...? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9464
+lesser demon~
+a lesser demon~
+A lesser demon wandering about the wasteland aimlessly is here.
+~
+This demon is almost human like in figure. He stands rather tall and has a 
+dark black skin. His fingernails have grown into razor sharp claws. His eyes 
+are a dark red that pierce into your soul. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+66 10 -36 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9465
+high demon greater~
+a greater demon~
+A greater demon is here, towering over you.
+~
+These demons are quite large. They are similar to the lesser demons except 
+they are larger and they don't have human-like legs. The legs on this 
+greater demon are more goat like. They are hoofed and can kick with some 
+fierce damage. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+70 10 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9466
+demon lord~
+a demon lord~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9467
+demon overlord~
+the demon `#`So`bv`Be`brlo`Br`Sd`^~
+A massively `#`gt`Ge`Yr`yr`rif`yy`Yi`Gn`gg`^ demon `#`So`bv`Be`brlo`Br`Sd`^ is here smokin' a cigar with a smirk.
+~
+Standing.. sitting.. I don't know.. you decide.. is a Friggen HUGE demon. 
+Huge. Just.. just huge. Bulbous greasy arms sprout.. yeah, sprout from his 
+slimy, greasy body. He looks more like a maggot that's been filled with 
+jelly. Waddling about here and there.. jiggling with every movement.. that 
+Smirk.. Omg.. the smirk. That disgusting smirk is always there as he smokes 
+his cigar.. and the SMELL!! GODS!! What IS that SMELL?! You stand there 
+stupified.. should you hit him? Heck.. if you did i bet your sword would 
+bounce off.. wanna try? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9468
+thri-kreen thrikreen soldier~
+a thri-kreen soldier~
+A large thri-kreen soldier stands here proudly.
+~
+This tall grasshopper like insect is quite strong. His mandibles could 
+probably cut you in half. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+70 0 -40 7d10+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9469
+thri-kreen thrikreen queen female~
+a thri-kreen queen~
+A massive thri-kreen queen is here, ordering about the soldiers.
+~
+This thri-kreen is very, very large. She towers over all the rest of the 
+soldiers. It appears as if the soldiers serve her and take care of her. Her 
+carapace is extraordinarily thick compared to normal thri-kreen. Hurting her 
+might prove difficult. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9470
+thrikreen thri-kreen drone~
+a thri-kreen drone~
+A large thri-kreen drone is here protecting his queen!
+~
+This tall grasshopper like insect is quite strong. His mandibles could 
+probably cut you in half. 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+80 10 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9471
+short fat goblin gremlin~
+a short goblin~
+A short, fat goblin wallows about here in his own filth.
+~
+This goblin is short, fat, and disgusting. Enough said? 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#9472
+lost adventurer explorer human~
+a lost explorer~
+A lost explorer stands here, refusing to leave the crevice.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#9460
+rusty short sword shortsword~
+a `#`yrusty`^ shortsword~
+A rusty shortsword lays here collecting dust.~
+~
+5 0 4
+10 62 76 128 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9461
+rusted buckler~
+a `#`yrusted`^ buckler~
+A rusted buckler is here collecting dust.~
+~
+9 0 8
+40 40 12 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9462
+voulge iron flaming~
+an iron voulge~
+A large polearm engulfed in flames is here.~
+~
+5 64 4
+3 81 117 33 0 0 0
+1 698 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9463
+chest treasury~
+a treasure chest~
+A treasure chest is here.~
+~
+15 0 8
+15 9468 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9464
+iron stilleto dagger acid blade corrosion~
+an `#`Xi`Sron `Xs`Stiletto`^~
+An long bladed dagger is here with some acid corrosion on the blade.~
+~
+5 16 4
+6 81 117 128 0 0 0
+1 560 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9465
+horned helm great~
+a great horned helm~
+A massive horned helm is here.~
+~
+9 16 8
+18 17 14 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9466
+lava spout spirt~
+a lava spout~
+A small lava spout is here, bubbling violently.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9467
+ancient book skin~
+an `#`RA`rncient `RB`rook of `RS`rkin`^~
+An `#`RA`rncient `RB`rook of `RS`rkin`^ is here.~
+~
+2 1 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#9468
+obsidian key skin~
+an `#`Xo`Sbsidian`^ key~
+An obsidian key has been left here carelessly.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9469
+gothic shield gold silver gilded~
+a `#`Yg`yi`Xld`ye`Yd`^ `#`Yg`yothic`^ `#`Ys`yhield`^~
+A large gothic shield is here, gilded with gold and silver.~
+~
+9 256 8
+5 5 21 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9469 gothic shield gold silver gilded~
+A large gothic shield is here, gilded with gold and silver. Across the 
+center of the shield are two cross swords, and beneath the swords a coiled 
+serpent. 
+~
+#9470
+lie~
+an ancient door~
+~
+~
+29 0 16
+0 0 9660 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9471
+path~
+an ancient tomb~
+An ancient tomb is here, covered in dust.~
+~
+15 0 8
+5 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+9471 tomb ancient riddle~
+Ancient writings are upon this tomb. They read:
+`1
+`1
+What runs through the woods without a sound?
+`1
+`1
+Open the answer to get your reward.
+~
+#9472
+portal door exit~
+a large portal~
+A large portal is here for you to leave through.~
+~
+29 0 16
+0 0 9578 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9473
+decapitated corpse headless female~
+a decapitated corpse~
+A decapitated corpse of a female human is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9474
+decapitated head female~
+a decapitated head~
+A decapitated head lays here oozing.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#9460
+The Stellar Gateway~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 17
+D0
+~
+~
+0 0 9461
+D1
+~
+~
+0 0 9463
+D2
+~
+~
+0 0 9464
+D3
+~
+~
+0 0 9462
+R O 0 7900 0 9460
+S
+#9461
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9465
+D1
+~
+~
+0 0 9469
+D2
+~
+~
+0 0 9460
+D3
+~
+~
+0 0 9467
+R M 0 9464 10 9461
+  R E 0 9464 0 16
+S
+#9462
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9467
+D1
+~
+~
+0 0 9460
+D7
+~
+~
+0 0 9464
+S
+#9463
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9469
+D3
+~
+~
+0 0 9460
+D8
+~
+~
+0 0 9464
+R M 0 9461 20 9463
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9464
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9460
+D2
+~
+~
+1 0 9510
+D6
+~
+~
+0 0 9463
+D9
+~
+~
+0 0 9462
+R M 0 9462 20 9464
+S
+#9465
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9466
+D1
+~
+~
+0 0 9470
+D2
+~
+~
+0 0 9461
+D3
+~
+~
+0 0 9468
+R M 0 9462 20 9465
+S
+#9466
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9473
+D1
+~
+~
+0 0 9472
+D2
+~
+~
+0 0 9465
+D3
+~
+~
+0 0 9471
+R M 0 9461 20 9466
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9467
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9468
+D1
+~
+~
+0 0 9461
+D2
+~
+~
+0 0 9462
+R M 0 9461 20 9467
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9468
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9471
+D1
+~
+~
+0 0 9465
+D2
+~
+~
+0 0 9467
+D9
+~
+~
+0 0 9476
+R O 0 9466 0 9468
+S
+#9469
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9470
+D2
+~
+~
+0 0 9463
+D3
+~
+~
+0 0 9461
+S
+#9470
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9472
+D2
+~
+~
+0 0 9469
+D3
+~
+~
+0 0 9465
+D6
+~
+~
+0 0 9477
+R O 0 9466 0 9470
+S
+#9471
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9474
+D1
+~
+~
+0 0 9466
+D2
+~
+~
+0 0 9468
+D3
+~
+~
+0 0 9476
+S
+#9472
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9475
+D1
+~
+~
+0 0 9477
+D2
+~
+~
+0 0 9470
+D3
+~
+~
+0 0 9466
+R O 0 9466 0 9472
+S
+#9473
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9480
+D1
+~
+~
+0 0 9475
+D2
+~
+~
+0 0 9466
+D3
+~
+~
+0 0 9474
+R M 0 9462 20 9473
+S
+#9474
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9481
+D1
+~
+~
+0 0 9473
+D2
+~
+~
+0 0 9471
+D3
+~
+~
+0 0 9479
+R O 0 9466 0 9474
+S
+#9475
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9483
+D1
+~
+~
+0 0 9478
+D2
+~
+~
+0 0 9472
+D3
+~
+~
+0 0 9473
+S
+#9476
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9479
+D1
+~
+~
+0 0 9471
+D7
+~
+~
+0 0 9468
+S
+#9477
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9478
+D3
+~
+~
+0 0 9472
+D8
+~
+~
+0 0 9470
+S
+#9478
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9484
+D2
+~
+~
+0 0 9477
+D3
+~
+~
+0 0 9475
+D6
+~
+~
+0 0 9493
+S
+#9479
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9482
+D1
+~
+~
+0 0 9474
+D2
+~
+~
+0 0 9476
+D9
+~
+~
+0 0 9487
+S
+#9480
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9485
+D1
+~
+~
+0 0 9483
+D2
+~
+~
+0 0 9473
+D3
+~
+~
+0 0 9481
+D5
+~
+~
+0 0 12100
+S
+#9481
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9489
+D1
+~
+~
+0 0 9480
+D2
+~
+~
+0 0 9474
+D3
+~
+~
+0 0 9482
+S
+#9482
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9488
+D1
+~
+~
+0 0 9481
+D2
+~
+~
+0 0 9479
+D3
+~
+~
+0 0 9487
+R O 0 9466 0 9482
+S
+#9483
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9486
+D1
+~
+~
+0 0 9484
+D2
+~
+~
+0 0 9475
+D3
+~
+~
+0 0 9480
+S
+#9484
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9492
+D1
+~
+~
+0 0 9493
+D2
+~
+~
+0 0 9478
+D3
+~
+~
+0 0 9483
+R M 0 9462 20 9484
+R O 0 9466 0 9484
+S
+#9485
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9496
+D1
+~
+~
+0 0 9486
+D2
+~
+~
+0 0 9480
+D3
+~
+~
+0 0 9489
+R O 0 9466 0 9485
+S
+#9486
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9498
+D1
+~
+~
+0 0 9492
+D2
+~
+~
+0 0 9483
+D3
+~
+~
+0 0 9485
+S
+#9487
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9482
+D3
+~
+~
+0 0 9490
+D6
+~
+~
+0 0 9488
+D7
+~
+~
+0 0 9479
+R M 0 9462 20 9487
+S
+#9488
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9489
+D2
+~
+~
+0 0 9482
+D6
+~
+~
+0 0 9497
+D8
+~
+~
+0 0 9487
+R O 0 9466 0 9488
+S
+#9489
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9497
+D1
+~
+~
+0 0 9485
+D2
+~
+~
+0 0 9481
+D3
+~
+~
+0 0 9488
+R M 0 9464 10 9489
+  R E 0 9464 0 16
+S
+#9490
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9487
+D3
+~
+~
+1 0 9491
+R O 0 9466 0 9490
+S
+#9491
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D1
+~
+~
+1 0 9490
+D3
+~
+~
+0 0 9644
+D8
+~
+~
+0 0 9645
+D9
+~
+~
+0 0 9518
+S
+#9492
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D2
+~
+~
+0 0 9484
+D3
+~
+~
+0 0 9486
+D7
+~
+~
+0 0 9493
+D9
+~
+~
+0 0 9498
+R M 0 9464 10 9492
+  R E 0 9464 0 16
+S
+#9493
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+1 0 9495
+D3
+~
+~
+0 0 9484
+D4
+~
+~
+0 0 9494
+D8
+~
+~
+0 0 9478
+D9
+~
+~
+0 0 9492
+R O 0 9473 0 9493
+S
+#9494
+Base of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 12 5
+D1
+~
+~
+0 0 9519
+D5
+~
+~
+0 0 9493
+S
+#9495
+A Small Cavern~
+~
+This cavern is small, but it houses a very nasty, little creature. 
+~
+1 0 0
+D3
+~
+~
+1 0 9493
+R M 0 9471 1 9495
+  R E 0 9474 0 17
+S
+#9496
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9498
+D2
+~
+~
+0 0 9485
+D3
+~
+~
+0 0 9497
+D4
+~
+~
+0 0 9499
+R O 0 9466 0 9496
+S
+#9497
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9496
+D2
+~
+~
+0 0 9489
+D8
+~
+~
+0 0 9488
+S
+#9498
+Within the Canyon~
+~
+All about you is a barren wasteland. The occasional lava spout erupts from 
+the ground pouring lava out across the canyon. Various skeletons of plants 
+that used to be twist and turn in the wind that sweeps across the land. Most 
+of the creatures that inhabit this canyon are scavengers that wouldn't mind 
+a fresh meal... 
+~
+1 8 10
+D2
+~
+~
+0 0 9486
+D3
+~
+~
+0 0 9496
+D7
+~
+~
+0 0 9492
+R M 0 9461 20 9498
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9499
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9500
+D5
+~
+~
+0 0 9496
+S
+#9500
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9504
+D1
+~
+~
+0 0 9501
+D2
+~
+~
+0 0 9499
+D3
+~
+~
+0 0 9502
+R O 0 9466 0 9500
+S
+#9501
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9500
+S
+#9502
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9503
+D1
+~
+~
+0 0 9500
+S
+#9503
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9506
+D1
+~
+~
+0 0 9504
+D2
+~
+~
+0 0 9502
+D3
+~
+~
+0 0 9507
+R O 0 9466 0 9503
+S
+#9504
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9515
+D1
+~
+~
+0 0 9505
+D2
+~
+~
+0 0 9500
+D3
+~
+~
+0 0 9503
+R M 0 9462 20 9504
+S
+#9505
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9509
+D1
+~
+~
+0 0 9508
+D2
+~
+~
+0 0 9501
+D3
+~
+~
+0 0 9504
+S
+#9506
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9537
+D1
+~
+~
+0 0 9515
+D2
+~
+~
+0 0 9503
+D3
+~
+~
+0 0 9516
+S
+#9507
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9516
+D1
+~
+~
+0 0 9503
+S
+#9508
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9517
+D3
+~
+~
+0 0 9505
+S
+#9509
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9539
+D1
+~
+~
+0 0 9517
+D2
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9515
+S
+#9510
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+1 0 9464
+D2
+~
+~
+0 0 9511
+D7
+~
+~
+0 0 9513
+D8
+~
+~
+0 0 9512
+S
+#9511
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9510
+D1
+~
+~
+0 0 9513
+D2
+~
+~
+0 0 9514
+D3
+~
+~
+0 0 9512
+R O 0 9463 0 9511
+  R P 0 9467 1 9463
+S
+#9512
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D1
+~
+~
+0 0 9511
+D6
+~
+~
+0 0 9510
+D7
+~
+~
+0 0 9514
+S
+#9513
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D3
+~
+~
+0 0 9511
+D8
+~
+~
+0 0 9514
+D9
+~
+~
+0 0 9510
+R M 0 9463 20 9513
+  R E 0 9462 0 16
+S
+#9514
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9511
+D6
+~
+~
+0 0 9513
+D9
+~
+~
+0 0 9512
+R M 0 9463 20 9514
+  R E 0 9462 0 16
+S
+#9515
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9538
+D1
+~
+~
+0 0 9509
+D2
+~
+~
+0 0 9504
+D3
+~
+~
+0 0 9506
+R M 0 9461 20 9515
+  R E 0 9460 0 16
+S
+#9516
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9535
+D1
+~
+~
+0 0 9506
+D2
+~
+~
+0 0 9507
+D3
+~
+~
+0 0 9543
+S
+#9517
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9540
+D1
+~
+~
+0 0 9544
+D2
+~
+~
+0 0 9508
+D3
+~
+~
+0 0 9509
+S
+#9518
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D2
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9646
+D7
+~
+~
+0 0 9491
+D9
+~
+~
+0 0 9648
+S
+#9519
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9520
+D1
+~
+~
+0 0 9522
+D2
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9494
+R M 0 9460 20 9519
+S
+#9520
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9525
+D1
+~
+~
+0 0 9527
+D2
+~
+~
+0 0 9519
+S
+#9521
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9519
+D1
+~
+~
+0 0 9532
+D2
+~
+~
+0 0 9526
+S
+#9522
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9527
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9519
+R M 0 9460 20 9522
+S
+#9523
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9530
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9534
+D3
+~
+~
+0 0 9522
+S
+#9524
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D3
+~
+~
+0 0 9523
+D8
+~
+~
+0 0 9534
+D9
+~
+~
+0 0 9530
+R M 0 9460 20 9524
+S
+#9525
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9528
+D1
+~
+~
+0 0 9529
+D2
+~
+~
+0 0 9520
+S
+#9526
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9521
+D1
+~
+~
+0 0 9533
+D2
+~
+~
+0 0 9531
+S
+#9527
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9529
+D1
+~
+~
+0 0 9530
+D2
+~
+~
+0 0 9522
+D3
+~
+~
+0 0 9520
+S
+#9528
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D2
+~
+~
+0 0 9525
+D7
+~
+~
+0 0 9529
+S
+#9529
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D2
+~
+~
+0 0 9527
+D3
+~
+~
+0 0 9525
+D7
+~
+~
+0 0 9530
+D9
+~
+~
+0 0 9528
+R M 0 9460 20 9529
+S
+#9530
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9527
+D7
+~
+~
+0 0 9524
+D9
+~
+~
+0 0 9529
+S
+#9531
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9526
+D6
+~
+~
+0 0 9533
+S
+#9532
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9522
+D1
+~
+~
+0 0 9534
+D2
+~
+~
+0 0 9533
+D3
+~
+~
+0 0 9521
+S
+#9533
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9526
+D6
+~
+~
+0 0 9534
+D8
+~
+~
+0 0 9531
+R M 0 9460 20 9533
+S
+#9534
+On the side of the Mountain~
+~
+You stand on the side of a mountain that extends above the canyon walls of 
+the wasteland. Lava pours down the side of the mountain in very precise 
+streams. Rock outcroppings jut out of the side of the mountain making your 
+journey up or down it quite difficult. 
+~
+1 8 5
+D0
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9532
+D6
+~
+~
+0 0 9524
+D8
+~
+~
+0 0 9533
+S
+#9535
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9546
+D1
+~
+~
+0 0 9537
+D2
+~
+~
+0 0 9516
+D3
+~
+~
+0 0 9536
+R M 0 9462 20 9535
+S
+#9536
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9545
+D1
+~
+~
+0 0 9535
+D2
+~
+~
+0 0 9543
+D3
+~
+~
+0 0 9552
+R O 0 9466 0 9536
+S
+#9537
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9547
+D1
+~
+~
+0 0 9538
+D2
+~
+~
+0 0 9506
+D3
+~
+~
+0 0 9535
+R O 0 9466 0 9537
+S
+#9538
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9548
+D1
+~
+~
+0 0 9539
+D2
+~
+~
+0 0 9515
+D3
+~
+~
+0 0 9537
+D5
+~
+~
+0 0 9563
+S
+#9539
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9549
+D1
+~
+~
+0 0 9540
+D2
+~
+~
+0 0 9509
+D3
+~
+~
+0 0 9538
+S
+#9540
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9550
+D1
+~
+~
+0 0 9542
+D2
+~
+~
+0 0 9517
+D3
+~
+~
+0 0 9539
+R M 0 9462 20 9540
+R O 0 9466 0 9540
+S
+#9541
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9564
+D1
+~
+~
+0 0 9569
+D2
+~
+~
+0 0 9571
+D3
+~
+~
+0 0 9570
+D4
+~
+~
+0 0 9563
+D6
+~
+~
+0 0 9615
+D7
+~
+~
+0 0 9635
+D8
+~
+~
+0 0 9608
+D9
+~
+~
+0 0 9626
+S
+#9542
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9551
+D1
+~
+~
+0 0 9553
+D2
+~
+~
+0 0 9544
+D3
+~
+~
+0 0 9540
+S
+#9543
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9536
+D1
+~
+~
+0 0 9516
+S
+#9544
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9542
+D3
+~
+~
+0 0 9517
+S
+#9545
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9546
+D2
+~
+~
+0 0 9536
+S
+#9546
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9558
+D1
+~
+~
+0 0 9547
+D2
+~
+~
+0 0 9535
+D3
+~
+~
+0 0 9545
+R M 0 9461 20 9546
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9547
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9557
+D1
+~
+~
+0 0 9548
+D2
+~
+~
+0 0 9537
+D3
+~
+~
+0 0 9546
+S
+#9548
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9556
+D1
+~
+~
+0 0 9549
+D2
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9547
+S
+#9549
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9555
+D1
+~
+~
+0 0 9550
+D2
+~
+~
+0 0 9539
+D3
+~
+~
+0 0 9548
+S
+#9550
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9554
+D1
+~
+~
+0 0 9551
+D2
+~
+~
+0 0 9540
+D3
+~
+~
+0 0 9549
+R M 0 9461 20 9550
+  R E 0 9460 0 16
+  R E 0 9461 0 11
+S
+#9551
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D2
+~
+~
+0 0 9542
+D3
+~
+~
+0 0 9550
+S
+#9552
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9536
+S
+#9553
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D3
+~
+~
+0 0 9542
+S
+#9554
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D2
+~
+~
+0 0 9550
+D3
+~
+~
+0 0 9555
+S
+#9555
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9561
+D1
+~
+~
+0 0 9554
+D2
+~
+~
+0 0 9549
+D3
+~
+~
+0 0 9556
+S
+#9556
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9555
+D2
+~
+~
+0 0 9548
+D3
+~
+~
+0 0 9557
+R O 0 9466 0 9556
+S
+#9557
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D0
+~
+~
+0 0 9559
+D1
+~
+~
+0 0 9556
+D2
+~
+~
+0 0 9547
+D3
+~
+~
+0 0 9558
+S
+#9558
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 10
+D1
+~
+~
+0 0 9557
+D2
+~
+~
+0 0 9546
+S
+#9559
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 5
+D2
+~
+~
+0 0 9557
+S
+#9561
+A Plateau Above the Canyon~
+~
+On top of this plateau you can see throughout the canyon. The plateau is 
+just as barren as the canyon, and a bit more dangerous. The winds are 
+stronger here, and the monsters a bit meaner. The occasional lava spout 
+erupts from the ground pouring lava across the plateau. Various skeletons of 
+plants that used to be twist and turn in the wind. Most of the creatures 
+that inhabit this canyon are scavengers that wouldn't mind a fresh meal... 
+~
+1 8 5
+D2
+~
+~
+0 0 9555
+S
+#9563
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 12 11
+D4
+~
+~
+0 0 9538
+D5
+~
+~
+0 0 9541
+S
+#9564
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9541
+D6
+~
+~
+0 0 9565
+S
+#9565
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9566
+D3
+~
+~
+1 0 9578
+D8
+~
+~
+0 0 9564
+R M 0 9468 20 9565
+S
+#9566
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9565
+D9
+~
+~
+0 0 9567
+S
+#9567
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9568
+D7
+~
+~
+0 0 9566
+D9
+~
+~
+0 0 9572
+S
+#9568
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9577
+D8
+~
+~
+0 0 9567
+S
+#9569
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9599
+D3
+~
+~
+0 0 9541
+S
+#9570
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9541
+D3
+~
+~
+0 0 9579
+S
+#9571
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9541
+D2
+~
+~
+0 0 9591
+S
+#9572
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D7
+~
+~
+0 0 9567
+D8
+~
+~
+0 0 9573
+S
+#9573
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9574
+D6
+~
+~
+0 0 9572
+S
+#9574
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9573
+D6
+~
+~
+0 0 9575
+S
+#9575
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9576
+D8
+~
+~
+0 0 9574
+S
+#9576
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9577
+D3
+~
+~
+0 0 9575
+S
+#9577
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9576
+S
+#9578
+A Crevice in the Tunnel Wall~
+~
+This small crevice in the wall of the tunnel is large enough for a human to 
+fit into, but too small for the thrikreens to squeeze into. A large ancient 
+door is to the west. 
+~
+1 12 11
+D1
+~
+~
+1 0 9565
+R O 0 9470 0 9578
+E
+door ancient riddle dusty~
+You can barely make out the words upon the door. It looks as if it hasn't 
+been touched in ages. The words read: `1 `1 I'm sometimes white, `1 And always wrong. `1 I can break a heart, `1 And hurt the strong. `1 I can build love, `1 And tear it down. `1 I can make a smile, `1 But more often a frown. `1 `1 What am I? `1 `1 Enter the answer to receive your prize. 
+~
+S
+#9579
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9580
+D1
+~
+~
+0 0 9570
+S
+#9580
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9579
+D3
+~
+~
+0 0 9581
+S
+#9581
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9580
+D9
+~
+~
+0 0 9582
+S
+#9582
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9583
+D7
+~
+~
+0 0 9581
+R M 0 9468 20 9582
+S
+#9583
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9582
+D9
+~
+~
+0 0 9584
+S
+#9584
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9585
+D7
+~
+~
+0 0 9583
+S
+#9585
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 12 11
+D1
+~
+~
+0 0 9584
+D2
+~
+~
+0 0 9586
+S
+#9586
+An Entrance to a Cavern~
+~
+As you walk down this tunnel the walls start to widen out into a cavern. The 
+slime starts to get thicker on the walls, and a thick, pungent odor fills 
+the air. A pile of `#`Scorpses`^ is stacked off to your right. 
+~
+1 8 11
+D0
+~
+~
+0 0 9585
+D2
+~
+~
+0 0 9587
+D7
+~
+~
+0 0 9589
+D8
+~
+~
+0 0 9590
+S
+#9587
+Center of the Cavern~
+~
+You are standing in the center of the cavern. The ceiling is quite high 
+because standing right in front of you is a large thri-kreen! 
+~
+1 8 11
+D0
+~
+~
+0 0 9586
+D1
+~
+~
+0 0 9589
+D2
+~
+~
+0 0 9588
+D3
+~
+~
+0 0 9590
+R M 0 9469 1 9587
+S
+#9588
+Outskirts of the Cavern~
+~
+Along the outskirts of the cavern the walls are covered in a thick slime. 
+Piles of corpses lay about at random. Thri-kreen young wander about. 
+~
+1 8 11
+D0
+~
+~
+0 0 9587
+D6
+~
+~
+0 0 9589
+D9
+~
+~
+0 0 9590
+R M 0 9470 3 9588
+S
+#9589
+Outskirts of the Cavern~
+~
+Along the outskirts of the cavern the walls are covered in a thick slime. 
+Piles of corpses lay about at random. Thri-kreen young wander about. 
+~
+1 8 11
+D3
+~
+~
+0 0 9587
+D8
+~
+~
+0 0 9588
+D9
+~
+~
+0 0 9586
+R M 0 9470 3 9589
+S
+#9590
+Outskirts of the Cavern~
+~
+Along the outskirts of the cavern the walls are covered in a thick slime. 
+Piles of corpses lay about at random. Thri-kreen young wander about. 
+~
+1 8 11
+D1
+~
+~
+0 0 9587
+D6
+~
+~
+0 0 9586
+D7
+~
+~
+0 0 9588
+R M 0 9470 3 9590
+S
+#9591
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9571
+D9
+~
+~
+0 0 9592
+S
+#9592
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9593
+D7
+~
+~
+0 0 9591
+S
+#9593
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9592
+D8
+~
+~
+0 0 9594
+S
+#9594
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9595
+D6
+~
+~
+0 0 9593
+S
+#9595
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9594
+D2
+~
+~
+0 0 9596
+S
+#9596
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9595
+D1
+~
+~
+0 0 9597
+S
+#9597
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9598
+D3
+~
+~
+0 0 9596
+S
+#9598
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9597
+S
+#9599
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9569
+D6
+~
+~
+0 0 9600
+S
+#9600
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9601
+D8
+~
+~
+0 0 9599
+S
+#9601
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9600
+D7
+~
+~
+0 0 9602
+S
+#9602
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9603
+D9
+~
+~
+0 0 9601
+S
+#9603
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9602
+D6
+~
+~
+0 0 9604
+S
+#9604
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9605
+D8
+~
+~
+0 0 9603
+S
+#9605
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9604
+D3
+~
+~
+0 0 9606
+S
+#9606
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9607
+D1
+~
+~
+0 0 9605
+S
+#9607
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9606
+S
+#9608
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9609
+D6
+~
+~
+0 0 9541
+S
+#9609
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9608
+D8
+~
+~
+0 0 9610
+S
+#9610
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9611
+D6
+~
+~
+0 0 9609
+S
+#9611
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9610
+D8
+~
+~
+0 0 9612
+S
+#9612
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9613
+D6
+~
+~
+0 0 9611
+S
+#9613
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9612
+D8
+~
+~
+0 0 9614
+S
+#9614
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9613
+R M 0 9468 20 9614
+S
+#9615
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9616
+D8
+~
+~
+0 0 9541
+S
+#9616
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9617
+D8
+~
+~
+0 0 9615
+S
+#9617
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9616
+D6
+~
+~
+0 0 9618
+S
+#9618
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9619
+D8
+~
+~
+0 0 9617
+S
+#9619
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9620
+D2
+~
+~
+0 0 9618
+S
+#9620
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9621
+D3
+~
+~
+0 0 9619
+S
+#9621
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9620
+D1
+~
+~
+0 0 9622
+S
+#9622
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9621
+D6
+~
+~
+0 0 9623
+R M 0 9468 20 9622
+S
+#9623
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9624
+D8
+~
+~
+0 0 9622
+S
+#9624
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D7
+~
+~
+0 0 9625
+D8
+~
+~
+0 0 9623
+S
+#9625
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D9
+~
+~
+0 0 9624
+S
+#9626
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9627
+D7
+~
+~
+0 0 9541
+S
+#9627
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9628
+D2
+~
+~
+0 0 9626
+S
+#9628
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9627
+D9
+~
+~
+0 0 9629
+R M 0 9468 20 9628
+S
+#9629
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D7
+~
+~
+0 0 9628
+D9
+~
+~
+0 0 9630
+S
+#9630
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9631
+D7
+~
+~
+0 0 9629
+S
+#9631
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9630
+D3
+~
+~
+0 0 9632
+S
+#9632
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9631
+D8
+~
+~
+0 0 9633
+S
+#9633
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9632
+D9
+~
+~
+0 0 9634
+S
+#9634
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D7
+~
+~
+0 0 9633
+R M 0 9468 20 9634
+S
+#9635
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D7
+~
+~
+0 0 9636
+D9
+~
+~
+0 0 9541
+S
+#9636
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9637
+D9
+~
+~
+0 0 9635
+R M 0 9468 20 9636
+S
+#9637
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9636
+D6
+~
+~
+0 0 9638
+S
+#9638
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D1
+~
+~
+0 0 9639
+D8
+~
+~
+0 0 9637
+S
+#9639
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D3
+~
+~
+0 0 9638
+D7
+~
+~
+0 0 9640
+S
+#9640
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D2
+~
+~
+0 0 9641
+D9
+~
+~
+0 0 9639
+S
+#9641
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D0
+~
+~
+0 0 9640
+D7
+~
+~
+0 0 9642
+S
+#9642
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D6
+~
+~
+0 0 9643
+D9
+~
+~
+0 0 9641
+S
+#9643
+A Large Tunnel~
+~
+This tunnel is quite large. The walls of this tunnel are covered in a green, 
+slimy substance. Large crevices are seen randomly set into the walls. The 
+occasional corpse lays on the ground left from those weary explorers that 
+couldn't make their way out of the tunnels. 
+~
+1 8 11
+D8
+~
+~
+0 0 9642
+R M 0 9468 20 9643
+S
+#9644
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9518
+D1
+~
+~
+0 0 9491
+D2
+~
+~
+0 0 9645
+D3
+~
+~
+0 0 9647
+S
+#9645
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9649
+D6
+~
+~
+0 0 9491
+D8
+~
+~
+0 0 9650
+S
+#9646
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9648
+D1
+~
+~
+0 0 9518
+D2
+~
+~
+0 0 9647
+D3
+~
+~
+0 0 9651
+S
+#9647
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9646
+D1
+~
+~
+0 0 9644
+D2
+~
+~
+0 0 9649
+D3
+~
+~
+0 0 9652
+D5
+~
+~
+0 0 9655
+S
+#9648
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D2
+~
+~
+0 0 9646
+D7
+~
+~
+0 0 9518
+D8
+~
+~
+0 0 9651
+R M 0 9463 20 9648
+  R E 0 9462 0 16
+S
+#9649
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9647
+D1
+~
+~
+0 0 9645
+D2
+~
+~
+0 0 9650
+D3
+~
+~
+0 0 9654
+S
+#9650
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9649
+D6
+~
+~
+0 0 9645
+R M 0 9463 20 9650
+  R E 0 9462 0 16
+S
+#9651
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D1
+~
+~
+0 0 9646
+D2
+~
+~
+0 0 9652
+D6
+~
+~
+0 0 9648
+D8
+~
+~
+0 0 9653
+S
+#9652
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9651
+D1
+~
+~
+0 0 9647
+D2
+~
+~
+0 0 9654
+D3
+~
+~
+0 0 9653
+S
+#9653
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D1
+~
+~
+0 0 9652
+D6
+~
+~
+0 0 9651
+D7
+~
+~
+0 0 9654
+R M 0 9463 20 9653
+  R E 0 9462 0 16
+S
+#9654
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9652
+D1
+~
+~
+0 0 9649
+D9
+~
+~
+0 0 9653
+S
+#9655
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9656
+D1
+~
+~
+0 0 9657
+D2
+~
+~
+0 0 9658
+D3
+~
+~
+0 0 9659
+D4
+~
+~
+0 0 9647
+R M 0 9463 20 9655
+  R E 0 9462 0 16
+S
+#9656
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D2
+~
+~
+0 0 9655
+D7
+~
+~
+0 0 9657
+D8
+~
+~
+0 0 9659
+S
+#9657
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D3
+~
+~
+0 0 9655
+D8
+~
+~
+0 0 9658
+D9
+~
+~
+0 0 9656
+S
+#9658
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D0
+~
+~
+0 0 9655
+D6
+~
+~
+0 0 9657
+D9
+~
+~
+0 0 9659
+S
+#9659
+Inside a Cavern~
+~
+This cavern is quite large. The walls of the cavern are made of a granite 
+composite. Many creatures make their home out of it. It shelters them from 
+the elements outside. However, this does not mean that they aren't hungry. 
+~
+1 8 11
+D1
+~
+~
+0 0 9655
+D6
+~
+~
+0 0 9656
+D7
+~
+~
+0 0 9658
+S
+#9660
+A Crevice in the Tunnel Wall~
+~
+You enter into an ancient room. The dust stirs as the door swings open. 
+Across the tomb is a large tomb that has been sealed for years. 
+~
+1 12 11
+R O 0 9471 0 9660
+  R P 0 9469 1 9471
+R O 0 9472 0 9660
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

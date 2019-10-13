@@ -1,0 +1,3707 @@
+#AREA        Shadow Valley~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12700
+pet shoppe owner man~
+the pet shoppe owner~
+A scruffy looking old man peers at you through rheumy eyes. 
+~
+This old man seems almost to be a permanent fixture of this place, he too
+covered in four inches of dust. He could almost be dead but for the slight
+rocking of his chair and almost barely noticeable nod of his head as you
+walk into the shoppe. 
+~
+0
+Clanname none~
+0
+0
+65 32 600 C
+100 390 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12701
+shadow being pet~
+a `#`sshadow `wbeing`^~
+`WYour `Dshadow `Wdances around you`x. 
+~
+Floating before your eyes is a misty figure void of any distinct form
+whatsoever. It melds and dances around you, happily released from its prison
+..... For now. 
+~
+0
+Clanname none~
+0
+0
+1 524288 600 C
+45 180 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12702
+old waitress~
+an old waitress~
+A tired old woman waits patiently.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+50 500 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12703
+baker~
+the baker~
+The baker shifts nervously from one foot to the other. 
+~
+The baker bustles around in his shop almost nervously avoiding your gaze.
+He is not adverse to selling his products to you though... He looks up as if
+to warn you about something but is suddenly cut short with a pained
+expression to his face and a shocked look in his eyes. 
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+50 500 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12704
+pet bat vampire~
+a `#`rvampire`^ bat~
+A `#`rvampire `sbat`^ grins evilly at you.
+~
+Extraordinarily large with unusually piercing eyes, this bat looks
+hungry. In fact, it isn't the type to turn down a feast of blood at any time
+of the day or night.... 
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+55 220 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12705
+old dear lady doddering~
+the old dear~
+A doddering old lady peers at you. 
+~
+She is a shrewd old bat and if you can afford to sell to her, she is the
+only shopkeeper who will buy from you in this derelict old town. Makes you
+wonder how she can afford to do that. 
+~
+0
+Clanname none~
+0
+0
+65 32 200 C
+50 0 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12706
+serpent snake~
+a slim `#`Gserpent`^~
+A `#`Gserpent`^ slips through the weeds, a silent killer.
+~
+`gThis serpent is one of the most poisonous kinds. Definitely not what
+you wanted to hear! It has diamond patterning along its length and vicious
+looking fangs dripping with venom. `x 
+~
+0
+Clanname none~
+0
+0
+33 65536 -200 C
+60 240 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12707
+apparition~
+an `#`wapparition`^~
+An `#`Wapparition`^ passes by.
+~
+`WThis apparition floats gently by seemingly without a care in the world.
+It also seems intent on getting somewhere.... `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+55 220 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12708
+spirit~
+a `#`ccrying `wspirit`^~
+A `#`ccrying `Wspirit`^ looks most miserable.
+~
+`WThis spirit has had a bad day... Or life. Wait ... Aren't spirits dead?
+`x 
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+54 216 -24 5d9+295 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12709
+ghost~
+a `#`wghost`^~
+A `#`Wghost`^ cackles madly at you.
+~
+`WThis ghost doesn't appear to like you much. Better keep out of his way!
+`x 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+55 220 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12710
+spectre~
+a `#`sghostly `Wspectre`^~
+A `#`sghostly `Wspectre`^ floats past.
+~
+`WThis spectre doesn't consist of much, just a few wisps of misty matter,
+which you can see right through... `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+53 212 -23 5d9+290 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12711
+ghostly child~
+a `#`sghostly `Wchild`^~
+A very pale child stands here looking at you. 
+~
+`WMy goodness, this child looks thin and wan. Quite a ghostly sheen on
+her face. `x 
+~
+0
+Clanname none~
+0
+0
+129 32 0 C
+52 208 -22 5d9+285 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12712
+ghostly man~
+a `#`sghostly `Wman`^~
+A pale man wanders by. 
+~
+`WThis man is so pale, he is almost transparent. `x 
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+50 200 -19 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12713
+ghostly woman~
+a `#`sghostly `Wwoman`^~
+A woman floats by purposefully. 
+~
+`WThis transparent being was obviously once a totally organised person.
+Death hasn't changed her. `x 
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+52 208 -22 5d9+290 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12714
+ghostly cat~
+a `#`sghostly `Wcat`^~
+A cat sits here washing itself. 
+~
+`WThis cat is on its 10th life. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+55 220 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12715
+ghostly dog~
+a `#`sghostly `Wdog`^~
+A dog sniffs around your feet. 
+~
+`WThis dog appears to be looking for something... ARGH... Better move
+fast! ! `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+50 200 -20 5d9+275 4d10+18
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12716
+sheet ghost~
+a `#`wsheet`^~
+A `#`sdust `wsheet`^ is draped over something
+~
+`WCareful it may be alive! `x 
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+56 224 -26 6d9+305 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12717
+ghostly servant~
+a `#`sghostly `Wservant`^~
+A servant wanders around dusting. 
+~
+`WThis servant met a gruesome end but that doesn't stop her from
+continuing with her tasks even after death! `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 600 C
+57 228 -27 6d9+305 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12718
+ghostly maid~
+a `#`sghostly `Wmaid`^~
+A maid flutters her eyelashes at you. 
+~
+`WThis maid hasn't lost her touch, has she? `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+58 232 -27 6d9+305 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12719
+ghostly girl amyghost~
+the `#`sghost`^ of `#`cAmy`^~
+A little girl stands here, as pale as a `#`Wghost`^.
+~
+`WThis little girl has lived in the house all her life, unfortunately not
+many years. She likes to play in the attic. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+59 236 -29 6d9+315 5d10+25
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12720
+ghostly boy patrickghost~
+the `#`sghost`^ of `#`cPatrick`^~
+A young boy kicks a football around. 
+~
+`WThis young boy seems to have found the perfect place to kick a ball
+around. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+60 5 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12721
+ghostly woman gertrudeghost~
+the `#`sghost`^ of `#`cGertrude`^~
+A woman sits patiently as if waiting to dance. 
+~
+`WThis woman looks as though her evening has just been ruined. She is all
+dressed up for ballroom dancing, yet there is no orchestra and certainly no
+ball. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+62 372 -31 6d10+320 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12722
+ghostly man gentleman samuelghost~
+the `#`sghost`^ of `#`cSamuel`^~
+A gentleman stands waiting for the music to start. 
+~
+`WThis gentleman enjoys ballroom dancing and appears to be waiting for
+something, his head cocked to one side, as if listening. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+65 390 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12723
+ghostly canary~
+the `#`sghostly `Ycanary`^~
+A pet canary flutters around the room. 
+~
+`WThis once vibrant song bird twitters and sings even in the afterlife. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+61 366 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12724
+ghostly skivvy~
+a `#`sghostly `Wskivvy`^~
+A skivvy looks worn out from scrubbing. 
+~
+`WThis young girl seems to do nothing but scrub floors and do all the
+little jobs around the household that no one else will do. `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 400 C
+63 378 -32 6d10+325 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12725
+ghostly cook~
+a `#`sghostly `Wcook`^~
+A cook bustles around busily. 
+~
+`WThis cook would LOVE to get back to her kitchen as she is sure the
+skivvies are slacking. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+60 240 -30 6d9+320 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12726
+ghostly chamber maid~
+a `#`sghostly `Wchambermaid`^~
+A chambermaid hurries off to wash her hands. 
+~
+`WThis chambermaid has the nasty task of emptying the chamberpots in the
+household. Ghastly smells usually emanate from those things. This one is no
+exception. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 400 C
+59 236 -29 6d9+315 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12727
+ghostly butler~
+the `#`sghostly `Wbutler`^~
+The butler stands to attention. 
+~
+`WThe butler has always been used to being given orders. He is waiting
+for some right now. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+57 228 -27 6d9+310 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12728
+ghostly nanny~
+the `#`sghostly `Wnanny`^~
+The nanny clucks over the children's antics. 
+~
+`WThe nanny still thinks of 'her' children as babies and loves them just
+as much now as she did back then. `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 600 C
+58 232 -27 6d9+305 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12729
+undead~
+a `#`yliving `sundead`^~
+An undead shimmers in and out of view. 
+~
+`WThis undead person doesn't look very healthy. It doesn't look too happy
+about it either. `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 -600 C
+52 208 -22 5d9+285 6d7+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12730
+banshee wailing~
+a `#`Cwailing `sbanshee`^~
+A banshee wails loudly making a frightful noise. 
+~
+`WThis banshee doesn't get any prizes for singing as she screeches
+loudly, hoping to chill your soul. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -400 C
+54 216 -24 5d9+300 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12731
+zombie~
+a `#`rzombie`^~
+A zombie looks straight through you. 
+~
+`WThis person looks totally blank. It walks so mechanically that it could
+be dead. `x 
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+58 232 -27 6d9+305 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12732
+ghast~
+a `#`cg`sh`ca`ss`ct`^~
+A ghast opens its mouth to reveal the horrors within. 
+~
+`WThis ghast would no sooner look at you than breathe its deadly breath
+on you. `x 
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+59 236 -29 6d9+320 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12733
+evil spirit~
+an `#`sevil `Wspirit`^~
+An evil spirit's icy cold fingers trail down your spine. 
+~
+`WThis evil spirit enjoys huntin' and hauntin' people, particularly those
+who have golden auras. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+64 15 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12734
+demon~
+a `#`rmalicious`^ demon~
+A demon sizes you up, looking for your weaknesses. 
+~
+`WThis demon doesn't look at all friendly. He growls throatily and froths
+at the mouth. Best keep out of his way. If you can. `x 
+~
+0
+Clanname none~
+0
+0
+129 524288 -600 C
+60 10 -29 6d9+315 8d6+26
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12735
+ghoul~
+a `#`sg`wh`so`wu`sl`^~
+A ghoul cackles fiendishly at you. 
+~
+`WThis ghoul sounds quite mad as it chortles and cackles to itself. Or
+maybe that is intended to scare you. `x 
+~
+0
+Clanname none~
+0
+0
+65 0 -400 C
+63 378 -33 6d10+330 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12736
+poltergeist~
+a `#`bp`co`bl`ct`be`cr`bg`ce`bi`cs`bt`^~
+A poltergeist throws something at you. 
+~
+`WThis poltergeist has been around for some time and is often up to wild
+and wicked tricks. Particularly on unsuspecting guests. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+62 372 -31 6d10+320 8d6+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12737
+moddey dhoo~
+the `#`sModdey Dhoo`^~
+The Moddey Dhoo howls eerily within your soul. 
+~
+`WThe ghost of this black dog roams around dark places and it is said
+that whomever sees it, dies shortly after. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+65 20 -35 6d10+340 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12738
+djinn~
+a `#`Ctowering `mdjinn`^~
+A towering djinn grins manically and cracks its knuckles. 
+~
+`WThis djinn has a permanent headache as it toils through the burning
+fires of hell. Metaphorically speaking. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+65 390 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12739
+troll evil~
+an `#`mevil `ytroll`^~
+An evil troll is concocting another horrifying experience for someone. 
+~
+`WThis evil troll rubs its gnarled hands together and its eyebrows knit
+in a frown, as its idea takes form in its head. `x 
+~
+0
+Clanname none~
+0
+0
+65 4096 -400 C
+64 384 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12740
+wicked witch~
+a `#`bwicked `cwitch`^~
+A wicked witch throws her head back and cackles with evil delight. 
+~
+`WThis witch obviously has plans in store for uninvited guests. You were
+invited now weren't you? `x 
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+65 390 -34 6d10+335 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12741
+warlock treacherous~
+a `#`rt`sr`re`sa`rc`sh`re`sr`ro`su`rs `Rwarlock`^~
+A treacherous warlock schemes and plots against you. 
+~
+`WThis warlock is inherently evil and his dastardly plans usually involve
+removing parts of his victims' anatomy. `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+65 390 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12742
+evil wizard~
+an `#`sevil `mwizard`^~
+An evil wizard has eyes like black pools of darkness. 
+~
+`WThis evil wizard attempts to mesmerise you with his yawning black
+gaping holes. His eyes want to suck you dry and yet, that can't be
+possible... Can it? `x 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+64 384 -34 6d10+335 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12743
+were maid~
+a `#`ww`se`wr`se`w-`sm`wa`si`wd`^~
+A were-maid is torn between good and evil. 
+~
+`WThis were-maid is a combination of powerful wolf and beautiful maiden.
+She treads a fine line between good and evil. `x 
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+63 378 -33 6d10+330 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12700
+Pet Shoppe Sign~
+pet Shoppe Sign~
+A sign.~
+~
+13 0 8
+0 0 0 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12700 sign~
+1. Choose your pet.
+2. Pay up!
+3. Get outta my shop!
+~
+#12701
+1964 Rockolla Juke Box~
+1964 Rockolla Juke Box~
+An old style juke box is here playing a continuous stream of tunes.~
+~
+34 0 32
+0 0 0 0 0 0 0
+90 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12701 juke~
+To play a song on the juke box, type play list. Then pick your song and
+type play loud (song). This will also broadcast it on the music channel. To
+play a song just in the room and not on the music channel, type play (song).
+~
+E
+12701 box~
+To play a song on the juke box, type play list. Then pick your song and
+type play loud (song). This will also broadcast it on the music channel. To
+play a song just in the room and not on the music channel, type play (song).
+~
+E
+12701 rockolla~
+To play a song on the juke box, type play list. Then pick your song and
+type play loud (song). This will also broadcast it on the music channel. To
+play a song just in the room and not on the music channel, type play (song).
+~
+E
+12701 1964~
+To play a song on the juke box, type play list. Then pick your song and
+type play loud (song). This will also broadcast it on the music channel. To
+play a song just in the room and not on the music channel, type play (song).
+~
+#12702
+glass coke coca-cola~
+a glass of Coca-Cola~
+A glass of Coca-Cola~
+~
+17 0 16
+3 15 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12703
+Rootbeer Float~
+a rootbeer float~
+A scrumptious softdrink of rootbeer and icecream, begging to be drank.~
+~
+17 0 16
+13 16 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12703 float~
+Ahhhhh. Just imagine how good this will taste once it is in your mouth.
+It just might possibly be made from the best stuff on earth. 
+~
+#12704
+bread sticks breadsticks~
+breadsticks~
+Some breadsticks are here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12704 bread~
+These look so delicious it makes you want to eat them up right now. 
+~
+E
+12704 sticks~
+These look so delicious it makes you want to eat them up right now. 
+~
+E
+12704 breadsticks~
+These look so delicious it makes you want to eat them up right now. 
+~
+#12705
+chocolate malt~
+a chocolate malt~
+A very tasty chocolate drink.~
+~
+17 0 16
+7 10 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12705 chocolate~
+MMMMMMMM. This is the best tasting chocolate malt that you will ever have
+in your life. 
+~
+#12706
+sticky bun~
+a sticky bun~
+A sticky gooey bun oozes freshness.~
+~
+19 0 16
+20 0 1 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12707
+gingerbread~
+a piece of gingerbread~
+A piece of sticky freshly made gingerbread.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12708
+piano portal~
+`Wa `Dcorridor `Win time`x~
+`WA broken down old `Dpiano `Wstands `bgloomily `Win one corner`x.~
+~
+29 64 16
+0 1 12721 0 0 0 0
+4 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12709
+feather duster~
+a `Cfeather `Wduster`x~
+A `Cfeather `Wduster`x is the perfect cleaning tool.~
+~
+9 32 8
+45 45 10 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12710
+night light teddybear~
+a `yteddybear `bnight `Clight`x~
+A `yteddybear `bnight `Clight`c glows `Yluminously`x.~
+~
+1 32 1
+0 999 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12711
+football~
+a `Df`xo`Do`xt`Db`xa`Dl`xl~
+A `Df`xo`Do`xt`Db`xa`Dl`xl looks perfect for kicking around.~
+~
+9 256 8
+45 45 12 0 0 0 0
+1 15000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12712
+ballroom gown~
+a `Cturquoise `Bblue `cballroom `Wgown`x~
+A `Cturquoise `Bblue `cballroom `Wgown`x is faded and dusty.~
+~
+9 256 8
+45 45 13 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12713
+cummberbund~
+a `#`Rcummer`rbund`^~
+A `#`Rcummer`rbund`^ is looking rather elegant.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12714
+cuts sores~
+`Rcuts `xand `Msores`x~
+`RCuts `xand `Msores`x don't look very pretty.~
+~
+9 32 8
+45 45 8 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12715
+rolled sleeves~
+rolled-up `Wsleeves`x~
+These `Wsleeves`x are rolled-up.~
+~
+9 256 8
+45 45 10 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12716
+chamberpot~
+a `#`Wceramic `Ychamberpot`^~
+The contents of this chamberpot swish around ominously.~
+~
+9 256 8
+45 45 13 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12717
+tattered dress~
+a `ct`Da`ct`Dt`ce`Dr`ce`Dd `Wdress`x~
+A `Wdress lies in `ct`Da`ct`Dt`ce`Dr`cs`x.~
+~
+9 16 8
+40 40 10 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12718
+crown thorns~
+a `Ycrown `xof `gthorns`x~
+A `Ycrown `xmade of `Dprickly `gthorns`x.~
+~
+9 16 8
+45 45 10 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12719
+gory pus wounds~
+`Rgory `Ypus`x-`yfilled `Rgaping `rwounds`x~
+`RGory `Ypus`x-`yfilled `Rgaping `rwounds`W weep `Rblood `xand `Wgristle`x.~
+~
+9 16 8
+45 45 8 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12720
+slimy mucus~
+`gslimy `Ggreen `ymucus`x~
+A circlet of `gslimy `Ggreen `ymucus`x looks positively disgusting.~
+~
+9 16 8
+45 45 6 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12721
+ball chain shackle~
+a `Dball `Wand `ychain `Ds`xh`Wa`xc`Dk`xl`We`x~
+This `Dball `Wand `ychain `Ds`xh`Wa`xc`Dk`xl`We`x looks cruel and heavy.~
+~
+9 16 8
+45 45 10 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12722
+knuckle spike~
+a `Dgruesome `Rk`rn`Ru`rc`Rk`rl`Re `Dspi`Rke`x~
+A `Dgruesome `Rk`rn`Ru`rc`Rk`rl`Re `Dspi`Rke`x looks perfect for gouging eyes out.~
+~
+9 16 8
+45 45 3 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12723
+hangmans noose~
+a `Dh`Wangman's `ynoose`x~
+This `Dh`Wangman's `ynoose`x is a classic killer.~
+~
+9 16 8
+45 45 6 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12724
+sword enchantment~
+the `Ysword`x of `Cenchantment`x~
+The `Ysword `xof `Cenchantment`x leaves a `ctrail `xof `Yg`xl`yi`xt`Yt`xe`yr`xi`Yn`xg `Ystars `xwhich `Cdazzle `xyou.~
+~
+5 256 4
+2 81 117 146 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12725
+sword demons~
+the `Ysword`x of `Rdemons`x~
+The `Ysword `xof `Rdemons`x has `ranguished `xand `Dtortured `Wfaces `xliving in its `Rhilt`x.~
+~
+5 16 4
+9 81 117 21 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12726
+sword vision~
+the `Ysword `xof `Cv`xi`cs`xi`Co`xn~
+The `Ysword `xof `Cv`xi`cs`xi`Co`xn leaves a `ctrail `xof `Ys`xp`ya`xr`Yk`xl`yi`xn`Yg `Cmystical `Wclarity`x.~
+~
+5 256 4
+2 81 117 208 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12727
+air indecision~
+an `Wair `xof `Di`xn`Wd`xe`Dc`xi`Ws`xi`Do`xn~
+An `Wair `xof `Di`xn`Wd`xe`Dc`xi`Ws`xi`Do`xn `Wshimmers `xand `Dfades`x.~
+~
+1 256 1
+0 999 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12728
+signpost~
+a signpost~
+`DA signpost`x.~
+~
+13 0 8
+0 0 0 0 0 0 0
+20 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12728 signpost~
+`CEnter at Your Own Peril!
+ 
+       `DOr Run in Terror!`x
+ 
+~
+#0
+
+
+#ROOMS
+#12700
+Entrance to the Valley of Shadows~
+~
+There is an air of creepiness here as a gloomy looking valley seems to
+unfold before your very eyes.  Some magical force could be pulling the soul
+out of your mortal body and thrusting it into the land spread out around
+you.  You should probably turn back now before it is too late.   
+~
+1 4 4
+D0
+~
+~
+0 0 12701
+D2
+~
+~
+0 0 986
+R O 0 12728 0 12700
+S
+#12701
+South End of Town~
+~
+This road looks like it hasn't been used in a while.  It is rutted and
+covered in potholes.  Definitely not a good road for a blind person.  There
+are a few shops to the sides of the road here and further into the town. 
+Right at the end of the road, lies a HUGE mansion complete with
+impressive looking gates.  To the east lies a broken down shack.  There is a
+barely readable sign standing at the foot of it.   
+~
+1 8192 1
+D0
+~
+~
+0 0 12704
+D1
+~
+~
+0 0 12702
+D2
+~
+~
+0 0 12700
+R M 0 12715 5 12701
+R M 0 12712 5 12701
+E
+sign~
+All you can make out is 'S a w Va e P t Sho pe'. 
+~
+S
+#12702
+Shadow Valley Pet Shoppe~
+~
+Whoa...  The dust!  Enough to make you cough and wheeze.  This place
+looks like it hasn't been cleaned in years.  There has to be at least four
+inches of dust on everything.  The floorboards creak and whine under your
+feet - quite an uneasy feeling that.  There is a ramshackle old counter to
+the west of the shop and a frail looking old man sunk into a hardwood
+rocking chair.  He barely acknowledges your entrance as he nods his head to
+a sign sitting on the counter top.   
+~
+1 4104 0
+D3
+~
+~
+0 0 12701
+R M 0 12715 5 12702
+R M 0 12700 1 12702
+R O 0 12700 0 12702
+S
+#12703
+Shadow Valley Pet Shoppe Storage~
+~
+You should not be here ... Leave before you get caught! (besides, you
+can't kill pets) 
+~
+1 1036 0
+R M 0 12701 1 12703
+R M 0 12704 1 12703
+S
+#12704
+Middle of Town~
+~
+This is the middle of town.  There are some more buildings up the road
+and belittling all around it, is a massive mansion almost seeming to glare
+down on the rest of the valley before it.  Creepy.  To the east lies an
+old-fashioned soda shoppe and to the west, an aroma of freshly baked bread
+emanates.   
+~
+1 8192 1
+D0
+~
+~
+0 0 12707
+D1
+~
+~
+0 0 12705
+D2
+~
+~
+0 0 12701
+D3
+~
+~
+0 0 12706
+R M 0 12713 5 12704
+R M 0 12711 5 12704
+S
+#12705
+Shadow Valley Soda Shoppe~
+~
+Wow this place sure is old-fashioned.  Medieval even.  It also looks
+like it hasn't been used in a while.  Dust and cobwebs abound.  Broken-down
+stools and decrepit old tables lie in a pile in one corner.  An equally old
+waitress stands ready to take your order.   
+~
+1 8 0
+D3
+~
+~
+0 0 12704
+R M 0 12715 5 12705
+R M 0 12711 5 12705
+R M 0 12702 1 12705
+  R G 0 12702 0
+  R G 0 12703 0
+  R G 0 12705 0
+S
+#12706
+The GingerBread Shoppe~
+~
+Mmmmmmmm....  Don't you just love the smell of freshly baked bread? 
+The way it entices you to sit down and buy a bun or piece of soft, moist and
+chewy breadstick.  However, the shop has a thick layer of dust and the
+products look a bit long in the tooth, as does the owner.   
+~
+1 8 0
+D1
+~
+~
+0 0 12704
+R M 0 12712 5 12706
+R M 0 12703 1 12706
+  R G 0 12704 0
+  R G 0 12706 0
+  R G 0 12707 0
+S
+#12707
+Middle of Town~
+~
+This is still the middle of town.  To the north the old mansion seems
+to tower over the rest of the town, its windows appearing to turn into
+gaping, chilling eyes.  What an imagination!  To the west lies a tumble down
+old store and to the east, the tinkling sounds of a piano being played.   
+~
+1 8192 1
+D0
+~
+~
+0 0 12710
+D1
+~
+~
+0 0 12708
+D2
+~
+~
+0 0 12704
+D3
+~
+~
+0 0 12709
+R M 0 12715 5 12707
+R M 0 12712 5 12707
+S
+#12708
+Shadow Valley Saloon~
+~
+The distinct sound of laughter and tinkling of a piano being played
+gaily, echo throughout the room - yet there is no one here.  There is an old
+broken down piano standing in the corner of the room, but it doesn't look
+like it has been touched in decades.  Cobwebs hang from the dusty
+chandeliers and the floorboards creak eerily around you.  Uh...  Perhaps now
+is a good time to leave this place?   
+~
+1 8 0
+D3
+~
+~
+0 0 12707
+R M 0 12713 5 12708
+R O 0 12708 0 12708
+S
+#12709
+Shadow Valley Antiques~
+~
+This old antique shop appears to have been named aptly.  It looks so
+old that cobwebs and dust might be for sale too.  It might as well be a
+ghost town for all the old dear has to offer, for unless she buys from the
+passing trade, it must be an extremely boring existence.  There is a sign on
+the counter.   
+~
+1 8 0
+D1
+~
+~
+0 0 12707
+R M 0 12714 5 12709
+R M 0 12713 5 12709
+R M 0 12705 1 12709
+E
+sign~
+I buy as well as sell goods. 
+~
+S
+#12710
+End of Town~
+~
+This is the northern most end of town.  There is a tiny overgrown path
+which appears to lead to the mansion which towers over the town to the
+north.  To the east, lies a small shoppe and to the west, children can be
+heard playing.   
+~
+1 8192 0
+D0
+~
+~
+0 0 12713
+D1
+~
+~
+0 0 12711
+D2
+~
+~
+0 0 12707
+D3
+~
+~
+0 0 12712
+R M 0 12711 5 12710
+R M 0 12712 5 12710
+S
+#12711
+Shadow Valley Medicine Shoppe~
+~
+Strange looking medicine shoppe, for sure...  It is completely devoid
+of life or sound.  Completely and utterly deserted.  Almost as if the people
+of this town are, for the most part, avoiding you ...  Or you just can't see
+them ...  Or maybe this IS a real live ghost town!   
+~
+1 8 0
+D3
+~
+~
+0 0 12710
+R M 0 12713 5 12711
+R M 0 12711 5 12711
+S
+#12712
+Shadow Valley School~
+~
+This looks like it used to be the town school.  The playground is
+deserted and there is no sign of life anywhere in the rooms around the
+quadrangle.  Perhaps you were just imagining the noises....   
+~
+1 8 0
+D1
+~
+~
+0 0 12710
+R M 0 12714 5 12712
+R M 0 12711 5 12712
+S
+#12713
+Path to the Mansion~
+~
+This overgrown path doesn't look like it has been used for quite some
+time.  Weeds and grass have sprung up and no attempt has been made to clear
+the way.  The mansion to the north looks somewhat run down from here, with a
+couple of the shutters hanging off the windows and the panes of glass, for
+the most part, shattered and incomplete.   
+~
+1 8192 2
+D0
+~
+~
+0 0 12714
+D2
+~
+~
+0 0 12710
+R M 0 12712 5 12713
+S
+#12714
+Closer to the Mansion~
+~
+The path is extremely overgrown here, so much that it is almost
+impossible to walk through.  Tall bindweed wraps its vines around the trees
+lining the path and more of the same vines snake along the ground covering
+it almost.  The mansion looms up to the north and the path continues into
+town to the south.   
+~
+1 8196 2
+D0
+~
+~
+0 0 12715
+D2
+~
+~
+0 0 12713
+S
+#12715
+Front Gates~
+~
+This is the entrance to the mansion.  A set of impressive looking
+gates, albeit rusted with age and neglect, stand to the north reaching a
+height of about twenty feet.  They stand rusted open and a rusty chain hangs
+off one of them with a sign trailing in the weeds.   
+~
+1 8196 0
+D0
+~
+~
+0 0 12717
+D2
+~
+~
+0 0 12714
+E
+sign~
+B E W A R E  Enter at Your Own Peril 
+~
+S
+#12716
+Grand Foyer~
+~
+This was once an impressive room.  Now it is a derelict shamble.  The
+windows are bereft of their glass and the shutters are hanging off,
+occasionally blowing and creaking in the wind.  Cobwebs hang from the
+ceiling and across the room, draped over the dusty chandeliers and waving
+gently with the passing breeze.  The air is otherwise still and yet... 
+There is a presence here......   
+~
+1 8200 0
+D0
+~
+~
+0 0 12718
+D1
+~
+~
+0 0 12719
+D2
+~
+~
+1 0 12717
+D3
+~
+~
+0 0 12721
+R M 0 12707 5 12716
+S
+#12717
+Mansion Courtyard~
+~
+This is the courtyard of the mansion.  The front gates lie to the
+south, rusted open from years of neglect.  The courtyard has also been left
+to waste with overgrown weeds and plants threatening to take over.  It is a
+veritable jungle in here.  The mansion itself lies to the north, its very
+structure almost seeming to draw you inside, wanting to devour your soul. 
+ 
+~
+1 8192 1
+D0
+~
+door~
+1 0 12716
+D2
+~
+~
+0 0 12715
+R M 0 12715 5 12717
+R M 0 12706 1 12717
+E
+sign~
+Welcome to our humble home. All that we ask is that you wipe your feet
+and close the door behind you. Thank you. The Shadow Family 
+~
+S
+#12718
+Staircase~
+~
+This grandiose staircase is covered in a worn and moth-eaten, faded red
+carpet.  In its day it must have been very plush, but now it really isn't
+anything special.  The staircase winds its way upstairs.  South leads to the
+foyer.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12716
+D4
+~
+~
+0 0 12731
+D5
+Slime oozes out of the cracks in the cellar-door. 
+~
+cellar-door~
+1 0 12760
+R M 0 12710 5 12718
+E
+cellar-door~
+The cellar-door is made of oak. 
+~
+S
+#12719
+Dining Room~
+~
+This is part of the east wing.  Once an elegant dining room, it stands
+in total silence, empty and neglected.  Yet still all the furniture remains,
+albeit covered in dust and cobwebs.  Almost as if the house has stood still
+through the years, the occupants long gone.  And no one has dared to live
+here since....  There are doors to the north and south.   
+~
+1 8200 0
+D0
+~
+door~
+1 0 12727
+D1
+~
+~
+0 0 12720
+D2
+~
+door~
+1 0 12728
+D3
+~
+~
+0 0 12716
+R M 0 12713 5 12719
+S
+#12720
+Sitting Room~
+~
+This is the sitting room where the family rest before partaking of
+their repasts of the day.  It is a light and airy room with a huge bay
+window to the east which overlooks the now overgrown garden.  South leads
+into the conservatory and to the north lies the master's favourite room. 
+Dead flies lie around the base of the bay window.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12729
+D2
+~
+~
+0 0 12730
+D3
+~
+~
+0 0 12719
+R M 0 12707 5 12720
+S
+#12721
+Lobby~
+~
+This is the formal lobby of the mansion.  It is really a continuation
+of the foyer with the same plush rugs lying upon hardwood floors.  If only
+there wasn't so much dust!  Cobwebs adorn the chandeliers and tiny spiders
+scuttle out between your feet, seemingly unused to the passage of feet.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12725
+D1
+~
+~
+0 0 12716
+D2
+~
+~
+0 0 12726
+D3
+~
+grandiose-door~
+1 0 12722
+R M 0 12708 5 12721
+S
+#12722
+Ballroom~
+~
+This glorious room once used to be lively and gay and filled with
+people dancing to their hearts content throughout the year when the owners
+decided to hold a ball.  But now all that remains is a thick layer of dust
+and a multitude of cobwebs dangling from the chandeliers.  The ballroom
+continues to the north and south.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12723
+D1
+~
+grandiose-door~
+1 0 12721
+D2
+~
+~
+0 0 12724
+R M 0 12707 5 12722
+S
+#12723
+Ballroom~
+~
+This is the northern end of the ballroom where the orchestra used to
+sit, to play the waltzes and foxtrots and other gay melodies for the couples
+to dance to.  There is a bay window to the west of the room, which overlooks
+the now overgrown garden.  Sad and faded drapes hang at the windows and a
+thick layer of dust coats the floor.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12722
+R M 0 12708 5 12723
+S
+#12724
+Ballroom~
+~
+The southern end of the ballroom houses the long tables upon which
+would lie a veritable banquet of small eats and glasses of bubbly wine and
+spirits.  Comfortable chairs are arranged in clusters for the womenfolk to
+sit down at whilst not dancing or whilst waiting for their partners to bring
+their plates.  There is a bay window to the west of the room, overlooking
+the overgrown garden and sad and faded drapes hang at the windows as if
+yearning for those old and almost forgotten times.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12722
+R M 0 12709 5 12724
+S
+#12725
+Library~
+~
+This library is quite a formal one with floor to ceiling bookshelves
+housing several hundred books, all covered with dust, of course.  Swathes of
+cobwebs hang down from the ceiling making this room look the least used of
+them all.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12721
+R M 0 12710 5 12725
+S
+#12726
+Trophy Room~
+~
+The walls here are adorned with the trophies of hunts.  Stags heads,
+Moose heads and Buffalo heads rear out from the plaques they are mounted on.
+Cabinets edge the walls and within them, lie the smaller trophies of the
+hunt; the stuffed mongooses, foxes, raccoons and polecats.  Dust covers the
+trophies, floor and cabinets showing that no one has been here in a long
+while.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12721
+R M 0 12707 5 12726
+S
+#12727
+Kitchen~
+~
+This once used to be the busy kitchen of the household.  It stretches a
+good distance to the north and you can only imagine all the bustling
+servants and cooks busily preparing the food for the family.  Now it is
+deserted and no remnants of food lie behind.  Everything appears to have
+been left as it were all those years ago though....  Odd.   
+~
+1 8200 0
+D0
+~
+drapes~
+1 0 12787
+D2
+~
+door~
+1 0 12719
+R M 0 12714 5 12727
+R M 0 12707 5 12727
+S
+#12728
+Drawing Room~
+~
+This room was where the lady of the house used to entertain her
+visitors.  But no more.  The chintz setees lie covered in dust and cobwebs
+with who knows what making homes in the stuffing.  The once elegant velvet
+drapes are faded with age and the tapestries look moth-eaten and worn.   
+~
+1 8200 0
+D0
+~
+door~
+1 0 12719
+S
+#12729
+Billiard Room~
+~
+This is the splendid looking billiard room.  Or it did look splendid
+once upon a time.  It appears that time has stood still though, for the
+table is set as though a game is midway through, the balls covered
+completely in dust as though they haven't been touched for a good number of
+years.  The books in the bookcases, are too, covered in dust and cobwebs and
+yet...  There are footprints on the floor.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12720
+E
+footprints~
+They walk right up to the wall and stop there. 
+~
+S
+#12730
+Conservatory~
+~
+This was once the lady of the house's most favoured room.  Adorned with
+tall plants in elegant vases and jardinieres, this was a lush paradise for
+the lady to escape to, for the enjoyment of peace and solitude.  Now the
+plants have died and the vases lie in fragments around the room, sad and
+neglected.  Yet the moss seems to have survived...  Or is it something else?
+ 
+~
+1 8200 0
+D0
+~
+~
+0 0 12720
+R M 0 12714 5 12730
+R M 0 12709 5 12730
+S
+#12731
+Top of the Stairs~
+~
+The landing at the top of the stairs is carpetted in the same faded red
+carpet, complete with moth-holes and dust.  The walls are made from oak
+panels which seem to be hiding something.  Cobwebs hang down from the
+chandelier here and tiny spiders scuttle about, unused to visitors.  The
+stairs wind their way down to the main foyer.  There is a carved door to the
+south and a plain door to the east.   
+~
+1 8200 0
+D1
+~
+plain-door~
+1 0 12738
+D2
+~
+carveddoor~
+1 0 12732
+D3
+~
+~
+0 0 12788
+D4
+There are strange noises coming from the trapdoor in the ceiling. 
+~
+trapdoor~
+1 0 12740
+D5
+~
+~
+0 0 12718
+R M 0 12708 5 12731
+E
+trapdoor~
+A strange wailing appears to be emanating from the trapdoor. 
+~
+E
+carveddoor~
+The carveddoor has intricate designs carved into it. 
+~
+S
+#12732
+Master Bedroom~
+~
+This is the master bedroom.  Carpetted throughout, it is large and airy
+with windows on two of the walls.  It stretches far to the south and east
+making it a comfortable yet welcoming room.  In this part of the room,
+stands three chintz easy chairs and a small table.  They are, of course,
+coated with a thin film of dust, like the rest of the house.   
+~
+1 8200 0
+D0
+~
+carved-door~
+1 0 12731
+D1
+~
+~
+0 0 12736
+D2
+~
+~
+0 0 12733
+S
+#12733
+Master Bedroom~
+~
+This is a section of the master bedroom.  Carpetted throughout, it is
+large and airy with windows on two of the walls.  It stretches far to the
+north and east making it a comfortable yet welcoming room.  In this part of
+the room, stands the lady's dresser, next to the picture window.  The
+cobwebs float down gently from the faded drapes, making the windows look
+almost frosted.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12732
+D1
+~
+~
+0 0 12734
+S
+#12734
+Master Bedroom~
+~
+This is a section of the master bedroom.  Carpetted throughout, it is
+large and airy with windows on two of the walls.  It stretches far to the
+north and west making it a comfortable yet welcoming room.  In this part of
+the room, lays a lovely white bearskin rug although now it is grey with dust
+and mildew.  There is a door to the east leading to the dressing room and
+the picture window to the south, sheds a musty kind of light on the whole
+room.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12736
+D1
+~
+dressingroom-door~
+1 0 12735
+D3
+~
+~
+0 0 12733
+R M 0 12710 5 12734
+S
+#12735
+Dressing Room~
+~
+The dressing room is quite a large room stretching a long way to the
+north.  On the south wall of the room lies a strangely shaped window.  It is
+a crescent shape.  The panes of glass are covered in dust and dirt making it
+impossible to see through.  There are racks of clothing here, not to mention
+bureaus and chests of drawers.  A long free-standing mirror is also here and
+a small sewing table.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12737
+D3
+~
+dressingroom-door~
+1 0 12734
+S
+#12736
+Master Bedroom~
+~
+This is a section of the master bedroom.  Carpetted throughout, it is
+large and airy with windows on two of the walls.  It stretches far to the
+south and west making it a comfortable yet welcoming room.  In this part of
+the room, stands the large double bed.  It is raised quite high and is in
+the four-poster style.  The drapes around it are faded and moth-eaten, and
+diaphanous swathes of cobweb drape around it, creating curtains of a natural
+kind.  There is a door to the east and one to the north.   
+~
+1 8200 0
+D0
+~
+bathroom-door~
+1 0 12738
+D1
+~
+dressingroom-door~
+1 0 12737
+D2
+~
+~
+0 0 12734
+D3
+~
+~
+0 0 12732
+R M 0 12709 5 12736
+S
+#12737
+Dressing Room~
+~
+The dressing room is quite a large room stretching a long way to the
+south.  At the far south wall lies a strange crescent shaped window.  Almost
+like an eye.  However at this end of the room, stands a long rack of
+clothing as well as bureaus and chests of drawers.  There is also a long
+mirror here and a chintz sofa.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12735
+D3
+~
+dressingroom-door~
+1 0 12736
+S
+#12738
+Bathroom~
+~
+This is the main bathroom of the house which the children and parents
+alike use.  It is a large room stretching far to the east with a large
+fireplace at that end.  Here, however stands a large claw-foot ceramic bath.
+Heavens knows how much water it takes to fill that.  There is a door to the
+south which leads into the master bedroom and a door to the west to the
+landing.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12739
+D2
+~
+bedroom-door~
+1 0 12736
+D3
+~
+plain-door~
+1 0 12731
+R M 0 12710 5 12738
+S
+#12739
+Bathroom~
+~
+This is the main bathroom of the house which the children and parents
+alike use.  It is a large room stretching far to the west with a large
+claw-foot ceramic bath at the end.  At this end however, stands a large
+fireplace which when drawn, heats up the bathroom making it exceedingly
+cosy.  There is also a heated towel rail, sink and toilet here.  They match
+the bath in both colour and style.   
+~
+1 8200 0
+D3
+~
+~
+0 0 12738
+R M 0 12708 5 12739
+S
+#12740
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8204 0
+D0
+~
+~
+0 0 12741
+D2
+~
+~
+0 0 12751
+D3
+~
+~
+0 0 12753
+D5
+~
+trapdoor~
+1 0 12731
+R M 0 12717 5 12740
+  R E 0 12709 0 18
+E
+trapdoor~
+The trapdoor stops unwanted spirits getting out. 
+~
+S
+#12741
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12795
+D1
+~
+~
+0 0 12742
+D3
+~
+~
+0 0 12752
+R M 0 12716 5 12741
+R M 0 12728 1 12741
+S
+#12742
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12744
+D2
+~
+~
+0 0 12743
+D3
+~
+~
+0 0 12741
+R M 0 12720 1 12742
+  R E 0 12711 0 17
+S
+#12743
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12742
+D1
+~
+~
+0 0 12745
+D2
+~
+~
+0 0 12748
+D3
+~
+~
+0 0 12740
+R M 0 12724 3 12743
+  R E 0 12714 0 9
+S
+#12744
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D2
+~
+~
+0 0 12745
+D3
+~
+~
+0 0 12742
+R M 0 12717 5 12744
+  R E 0 12709 0 18
+S
+#12745
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12744
+D1
+~
+~
+0 0 12794
+D2
+~
+~
+0 0 12746
+D3
+~
+~
+0 0 12743
+R M 0 12716 5 12745
+R M 0 12724 3 12745
+  R E 0 12714 0 9
+S
+#12746
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12745
+D2
+~
+~
+0 0 12747
+D3
+~
+~
+0 0 12748
+R M 0 12718 5 12746
+R M 0 12725 2 12746
+  R E 0 12715 0 10
+S
+#12747
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12746
+D3
+~
+~
+0 0 12749
+R M 0 12724 3 12747
+  R E 0 12714 0 9
+S
+#12748
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12743
+D1
+~
+~
+0 0 12746
+D2
+~
+~
+0 0 12749
+R M 0 12716 5 12748
+R M 0 12723 1 12748
+S
+#12749
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12748
+D1
+~
+~
+0 0 12747
+D3
+~
+~
+0 0 12750
+R M 0 12718 5 12749
+R M 0 12726 3 12749
+  R E 0 12716 0 11
+S
+#12750
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12751
+D1
+~
+~
+0 0 12749
+D3
+~
+~
+0 0 12755
+R M 0 12725 2 12750
+  R E 0 12715 0 10
+S
+#12751
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12740
+D1
+~
+~
+0 0 12748
+D2
+~
+~
+0 0 12750
+D3
+~
+~
+0 0 12754
+R M 0 12722 1 12751
+  R E 0 12713 0 13
+  R E 0 12724 0 16
+S
+#12752
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12741
+D2
+~
+~
+0 0 12753
+D3
+~
+~
+0 0 12759
+R M 0 12717 5 12752
+  R E 0 12709 0 18
+S
+#12753
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12752
+D1
+~
+~
+0 0 12740
+D3
+~
+~
+0 0 12758
+R M 0 12718 5 12753
+R M 0 12726 3 12753
+  R E 0 12716 0 11
+S
+#12754
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12753
+D2
+~
+~
+0 0 12755
+D3
+~
+~
+0 0 12757
+R M 0 12716 5 12754
+R M 0 12721 1 12754
+  R E 0 12712 0 5
+S
+#12755
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12754
+D1
+~
+~
+0 0 12750
+D3
+~
+~
+0 0 12756
+R M 0 12717 5 12755
+  R E 0 12709 0 18
+S
+#12756
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12757
+D1
+~
+~
+0 0 12755
+R M 0 12719 1 12756
+  R E 0 12710 0 0
+S
+#12757
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12758
+D1
+~
+~
+0 0 12754
+D2
+~
+~
+0 0 12756
+R M 0 12718 5 12757
+R M 0 12727 1 12757
+S
+#12758
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D0
+~
+~
+0 0 12759
+D1
+~
+~
+0 0 12753
+D2
+~
+~
+0 0 12757
+R M 0 12717 5 12758
+  R E 0 12709 0 18
+S
+#12759
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12752
+D2
+~
+~
+0 0 12758
+R M 0 12716 5 12759
+R M 0 12726 3 12759
+  R E 0 12716 0 11
+S
+#12760
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8205 0
+D0
+~
+~
+0 0 12761
+D1
+~
+~
+0 0 12765
+D2
+~
+~
+0 0 12775
+D3
+~
+~
+0 0 12777
+D4
+Salvation! 
+~
+cellar-door~
+1 0 12718
+R M 0 12732 5 12760
+S
+#12761
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12762
+D2
+~
+~
+0 0 12760
+D3
+~
+~
+0 0 12778
+R M 0 12731 4 12761
+S
+#12762
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12763
+D2
+~
+~
+0 0 12761
+R M 0 12730 5 12762
+  R E 0 12717 0 12
+S
+#12763
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12770
+D2
+~
+~
+0 0 12764
+D3
+~
+~
+0 0 12762
+R M 0 12729 3 12763
+S
+#12764
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12763
+D1
+~
+~
+0 0 12769
+D2
+~
+~
+0 0 12765
+D3
+~
+~
+0 0 12761
+S
+#12765
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12768
+D2
+~
+~
+0 0 12766
+R M 0 12730 5 12765
+  R E 0 12717 0 12
+S
+#12766
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12765
+D1
+~
+~
+0 0 12767
+D3
+~
+~
+0 0 12775
+R M 0 12732 5 12766
+S
+#12767
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12768
+D1
+~
+~
+0 0 12774
+R M 0 12729 3 12767
+S
+#12768
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12769
+D2
+~
+~
+0 0 12767
+D3
+~
+~
+0 0 12765
+R M 0 12731 4 12768
+S
+#12769
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12772
+D2
+~
+~
+0 0 12768
+D3
+~
+~
+0 0 12764
+R M 0 12736 2 12769
+  R E 0 12721 0 7
+S
+#12770
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12771
+D2
+~
+~
+0 0 12769
+D3
+~
+~
+0 0 12763
+R M 0 12730 5 12770
+  R E 0 12717 0 12
+S
+#12771
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12797
+D3
+~
+~
+0 0 12770
+R M 0 12731 4 12771
+S
+#12772
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12771
+D2
+~
+~
+0 0 12773
+D3
+~
+~
+0 0 12769
+R M 0 12729 3 12772
+S
+#12773
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12772
+D2
+~
+~
+0 0 12774
+D3
+~
+~
+0 0 12768
+R M 0 12735 2 12773
+  R E 0 12720 0 14
+S
+#12774
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12773
+D3
+~
+~
+0 0 12767
+R M 0 12730 5 12774
+  R E 0 12717 0 12
+S
+#12775
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12766
+D2
+~
+~
+0 0 12784
+D3
+~
+~
+0 0 12776
+R M 0 12733 1 12775
+  R E 0 12718 0 6
+S
+#12776
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12777
+D1
+~
+~
+0 0 12775
+D3
+~
+~
+0 0 12783
+R M 0 12734 1 12776
+  R E 0 12719 0 8
+S
+#12777
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12778
+D1
+~
+~
+0 0 12760
+D2
+~
+~
+0 0 12776
+D3
+~
+~
+0 0 12782
+R M 0 12731 4 12777
+S
+#12778
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12779
+D1
+~
+~
+0 0 12761
+D3
+~
+~
+0 0 12781
+R M 0 12737 1 12778
+R M 0 12741 1 12778
+S
+#12779
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12762
+D2
+~
+~
+0 0 12778
+D3
+~
+~
+0 0 12780
+R M 0 12732 5 12779
+R M 0 12740 1 12779
+S
+#12780
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12779
+D2
+~
+~
+0 0 12781
+D3
+~
+~
+0 0 12799
+R M 0 12742 1 12780
+S
+#12781
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D1
+~
+~
+0 0 12778
+D2
+~
+~
+0 0 12782
+R M 0 12732 5 12781
+R M 0 12736 2 12781
+  R E 0 12721 0 7
+S
+#12782
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12781
+D2
+~
+~
+0 0 12783
+R M 0 12731 4 12782
+S
+#12783
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12782
+D1
+~
+~
+0 0 12776
+R M 0 12735 2 12783
+  R E 0 12720 0 14
+S
+#12784
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12775
+D2
+~
+~
+0 0 12785
+R M 0 12738 1 12784
+  R E 0 12722 0 1
+  R E 0 12725 0 16
+S
+#12785
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D0
+~
+~
+0 0 12784
+D2
+~
+~
+0 0 12786
+R M 0 12739 1 12785
+  R E 0 12723 0 3
+S
+#12786
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8205 0
+D0
+~
+~
+0 0 12785
+D4
+The grate sheds only a tiny amount of light down here due to the weeds
+and undergrowth which have grown over it. 
+~
+grate~
+1 0 12714
+S
+#12787
+Servants Quarters~
+~
+These are the tiny cramped quarters where the servants live, or rather
+used to live.  They look like they haven't been occupied for some time.  By
+people anyway.  The droppings on the floor indicate other mammals have been
+making their homes here.   
+~
+1 8200 0
+D2
+~
+drapes~
+1 0 12727
+R M 0 12714 5 12787
+R M 0 12709 5 12787
+E
+drapes~
+The drapes open into the kitchen area. 
+~
+S
+#12788
+Landing~
+~
+This part of the landing too has moth-eaten carpet which has faded with
+the passing of the years.  The oak panels on the northern walls, make the
+passageway appear darker than it really is.  However, the chandeliers would
+have solved that problem.  Now however, the only light source is from a
+window at the far west side of the hall.  There is a door to the south.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12731
+D2
+~
+ornate-door~
+1 0 12789
+D3
+~
+~
+0 0 12790
+R M 0 12743 1 12788
+  R E 0 12726 0 16
+  R E 0 12727 0 0
+S
+#12789
+Bedroom~
+~
+This is the only guest bedroom in the house.  The double bed looks
+relatively comfortable and the large fireplace to the west of the room,
+appears to only just have been put out.  Which is rather odd considering the
+layers of dust covering the furniture and floor.  There is an adjoining
+bathroom to the south.   
+~
+1 8200 0
+D0
+~
+ornate-door~
+1 0 12788
+D2
+~
+~
+0 0 12793
+R M 0 12709 5 12789
+S
+#12790
+Landing~
+~
+This is the far west side of the landing, right next to the window on
+the west wall.  The panes of glass are dusty and dirty which makes it very
+difficult to see anything through.  From the geography of the place though,
+this window would overlook the overgrown garden.  There is a sound of
+children laughing which appears to be coming from the south.   
+~
+1 8200 0
+D1
+~
+~
+0 0 12788
+D2
+~
+patterned-door~
+1 0 12791
+R M 0 12710 5 12790
+S
+#12791
+Bedroom~
+~
+This room, once so vibrant with the happy sounds of children playing is
+now silent and empty.  Two beds lie on either side of the room and the walls
+are decorated in bright colours which sadly, are now faded.  Whispering
+appears to be coming from the south.   
+~
+1 8200 0
+D0
+~
+patterned-door~
+1 0 12790
+D2
+~
+playroom-door~
+0 0 12792
+R M 0 12708 5 12791
+S
+#12792
+Playroom~
+~
+This is a large room dedicated to the toys and clothes belonging to the
+children of the house.  What fun it must have been to play in here.  In the
+south wall lies a strangely shaped window, a crescent, complete with window
+seat.  The panes of glass are covered in something....   
+~
+1 8200 0
+D0
+~
+playroom-door~
+0 0 12791
+S
+#12793
+Bathroom~
+~
+The claw-foot ceramic bath is the focus of attention in this room. 
+With a white tiled floor and matching toilet and sink suite, the bathroom
+would be almost a pleasure to use.  There is even a heated towel rail here. 
+ 
+~
+1 8200 0
+D0
+~
+~
+0 0 12789
+S
+#12794
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8204 0
+D0
+~
+~
+0 0 12796
+D3
+~
+~
+0 0 12745
+R M 0 12718 5 12794
+S
+#12795
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 8204 0
+D0
+~
+~
+0 0 12796
+D2
+~
+~
+0 0 12741
+R M 0 12718 5 12795
+S
+#12796
+Attic~
+~
+This is part of the attic, high up in the top of the mansion.  Cobwebs
+hang down from the ceiling and layers of dust and dirt coat the floor. 
+Every room looks the same.  It would be easy to get lost in here.   
+~
+1 1036 0
+D2
+~
+~
+0 0 12794
+S
+#12797
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8201 0
+D2
+~
+~
+0 0 12771
+D3
+~
+~
+0 0 12798
+R M 0 12730 5 12797
+  R E 0 12717 0 12
+S
+#12798
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 1037 0
+D1
+~
+~
+0 0 12797
+S
+#12799
+Cellar~
+~
+This is part of the cellar, deep down in the recesses of the eerie
+mansion.  This is where the wine and stores of vegetables and fruit would be
+kept over the winter.  Now it is dark, damp and gloomy, the floors covered
+in a sticky, slippery slime.  Every room looks the same.  It wouldn't be too
+hard to get lost in here.   
+~
+1 8205 0
+D1
+~
+~
+0 0 12780
+R M 0 12732 5 12799
+S
+#0
+
+
+#SHOPS
+ 12700    0  0  0  0  0   100  75         0 23    ; the pet shoppe owner
+ 12702    0  0  0  0  0   110  95         0 23    ; an old waitress
+ 12703    0  0  0  0  0   110  95         0 23    ; the baker
+ 12705    9  5 13  1 15   125  85         0 23    ; the old dear
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

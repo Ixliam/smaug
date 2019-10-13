@@ -1,0 +1,2202 @@
+#AREA        Eastern Woods Bazaar~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#6400
+short elderly female dagorst shopkeeper~
+an elderly dagorst woman~
+A short elderly female dagorst stands here playing with her cat.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6401
+tall dagorst male shopkeeper~
+a tall dagorst male~
+A thin dagorstian male is standing here tuning a dulcimer.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6402
+young teenage dagorst female shopkeeper~
+a teenage female dagorst~
+A teenage dagorstian female is standing here pouring coffee.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6403
+crusty jack male markian shopkeeper~
+crusty Jack~
+A hefty looking male markian stands here behind a grill.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6404
+young teenage malkatar male shopkeeper~
+a teenage malkatar male~
+A teenage malkatar male is here playing with the toys.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6405
+buxom wench markian female shopkeeper~
+a buxom markian woman~
+A buxom markian woman stands here mending an article of clothing.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6406
+husky looking angrak male shopkeeper~
+a husky looking angrak male~
+A husky looking angrak male stands here looking bored.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6407
+wart covered female dagorst hag shopkeeper~
+a wart covered dagorstian hag~
+A wart covered dagorstian hag stands here examining an unidentified object.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6408
+shapely female markian shopkeeper~
+a shapely female markian~
+A shapely female markian stands here wiping down a counter.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6409
+briela female faerie ~
+`#`wBriela`^~
+`#`MB`mr`Mi`me`Ml`ma`w, a giggly female faerie sits here on the bar counter singing to the customers.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6410
+female malkatar shopkeeper~
+an average looking female malkatar~
+An average looking female malkatar is here going through a pile of scrolls.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6411
+male malkatar shopkeeper~
+a tall, balding male malkatar~
+A tall, balding male malkatar stands here playing with a large mace.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6412
+male slythris shopkeeper~
+a thin male slythris~
+A thin male slythris is standing here grinding some herbs.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6413
+dirty male scarred dwarf shopkeeper~
+a dirty scarred dwarven male~
+A dirty, scarred dwarven male is here shining some armor.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6414
+huge ugly male troll shopkeeper~
+a huge ugly troll~
+A large ugly male troll is standing here hammering on a sword.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6415
+trainer tall shaggy male intori~
+a tall shaggy male intori~
+A tall shaggy looking intori male is standing here ready to train you.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6416
+banker~
+a banker~
+A short, serious looking male cthul is here, ready to do business.
+~
+~
+0
+Clanname none~
+0
+0
+3 32 0 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6417
+short elderly female dagorst shopkeeper~
+a short geeky looking female malkatar~
+A short geeky looking female malkatar is standing here stirring a smoking potion.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6418
+paco chubby male markian~
+`#`wPaco`^~
+A chubby male markian is standing here stirring a batch of cookies.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6419
+short elderly female dagorst shopkeeper~
+a dark haired dargortian female~
+A dark haired dargortian female is here grooming a dog.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6420
+great dane pet~
+a great dane~
+A large great dane is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6421
+pet mongoose~
+a mongoose~
+A mongoose is here getting into things.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6422
+polly parrot bird~
+`#`wPolly`^~
+A large multi-colored parrot sits here on a perch.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6423
+snobby male markian shopkeeper~
+a snobby looking male markian~
+A snobby looking male markian is here tailoring a costume.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6424
+dirty male scarred dwarf shopkeeper~
+a stout male dwarf~
+A stout male dwarf is here moving piles of ore around.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#6425
+pet walrus~
+a walrus~
+A large grey walrus is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#6400
+recorder~
+`#`wa carved `Wi`wv`Wo`wr`Wy `wrecorder`^~
+A recorder has been left here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6401
+bagpipes~
+`#`wa set of `yhand made `sb`wa`yg`sp`wi`yp`se`ws`^~
+A set of bagpipes have been dropped here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6402
+dulcimer~
+`#`wa beautiful hand `ycarved `sd`wu`yl`sc`wi`ym`se`wr`^~
+A dulcimer has been dropped here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6403
+bodhran drum~
+`#`wa lambskin `sbodhran d`wr`su`wm`^~
+A bodhran drum is sitting here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6404
+coffee cup cinnamon~
+a cup of cinnamon coffee~
+A piping hot cup of cinnamon coffee is here.~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6405
+coffee cup hazelnut ~
+a cup of hazelnut coffee~
+A cup of coffee is here.~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6406
+coffee cup chocolate~
+a cup of chocolate flavored coffee~
+A cup of coffee is here.~
+~
+17 0 16
+6 12 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6407
+flapjack~
+an order of flapjacks~
+An order of flapjacks has been left here.~
+~
+19 0 16
+17 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6408
+cup milk~
+a cup of `#`Wmilk`^~
+A cup of `#`Wmilk`^ is here.~
+~
+17 0 16
+6 10 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6408 cup milk~
+A cup of milk.
+~
+#6409
+little rag doll~
+a little `#`Rr`ra`Bg`^ doll~
+A little `#`Rr`ra`Bg`^ doll lies in a heap here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6410
+silk jade gown dress~
+`#`wa soft silken `Gj`ga`Gd`ge `Gc`go`Gl`go`Gr`ge`Gd `wgown`^~
+A silk jade colored gown is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6411
+white slippers~
+a pair of `#`Ww`wh`Wi`wt`We `ws`Wl`wi`Wp`wp`We`wr`Ws`^~
+A pair of white slippers are sitting here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6412
+pair black pants~
+`#`wa pair of baggy `sblack pants`^~
+A pair of black pants are here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6413
+jade tunic~
+`#`wa `Gj`ga`Gd`ge `Gc`go`Gl`go`Gr`ge`Gd `wtunic`^~
+A tunic is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6414
+potion drink mint cause fear~
+`#`wa drink called "`GM`gint `GF`gear`w"`^~
+A green colored drink sits here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6415
+pirate ship shaped sign~
+a pirate ship shaped sign~
+`#`cA large pirate ship shaped sign is stuck in the ground here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6415 sign ~
+Welcome to The Lascivious Faerie Tavern where anything goes! `+
+`+
+Please be kind to the faeries and give them cupcakes. 
+~
+#6416
+handful faerie dust~
+`#`wa handful of `?g`?l`?i`?t`?t`?e`?r`?i`?n`?g `?f`?a`?e`?r`?i`?e `wdust`^~
+A pile of faerie dust is laying here.~
+~
+26 64 16
+0 -1 -1 -1 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#6417
+bottle of honey mead~
+`#`wa tall mug of `yhoney mead`^~
+A bottle of honey mead has been tossed here.~
+~
+17 0 16
+8 20 0 0 0 0 0
+1 55 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6418
+glinting mithril mace~
+`#`wa `sg`wl`si`wn`st`wi`sn`wg `Cm`ci`Ct`ch`Cr`ci`Cl `smace`^~
+A mithril mace has been dropped here.~
+~
+5 64 4
+10 17 25 2048 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6419
+black marble mortar~
+`#`wa `sblack marble `wmortar`^~
+A black marble mortar is sitting here.~
+~
+37 0 32
+0 0 30 0 0 0 0
+1 470 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6420
+leather sleeves~
+`#`wa pair of sturdy `yleather `ssleeves`^~
+Some leather sleeves are on the floor.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6421
+leather boots~
+`#`wa pair of sturdy `yleather `sboots`^~
+Some leather boots are on the floor.~
+~
+9 0 8
+5 5 3 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6422
+leather tunic~
+`#`wa sturdy `yleather `stunic`^~
+A leather tunic is on the floor here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6423
+leather leggings~
+`#`wa set of sturdy `yleather `sleggings`^~
+Some leather leggings are on the floor.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6424
+leather belt~
+`#`wa sturdy `yleather `sbelt`^~
+A leather belt lies here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6425
+stainless steel sword~
+`#`wa sturdy `ss`wt`Wa`si`wn`Wl`se`ws`Ws `ssteel `wsword`^~
+A shiney sword has been dropped here.~
+~
+5 0 4
+3 7 16 16 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6426
+stainless steel axe~
+`#`wa sturdy `ss`wt`Wa`si`wn`Wl`se`ws`Ws `ssteel `waxe`^~
+A stainless steel axe is laying here.~
+~
+5 0 4
+2 14 24 8192 0 0 0
+2 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6427
+butterfly net~
+`#`wa little `Mb`mu`Yt`yt`Me`mr`Yf`yl`My `mnet`^~
+A butterfly net is laying here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 94 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6428
+cookies~
+`#`wa batch of `yPaco's cookies`^~
+A plate of chocolate chip cookies is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6429
+apple cinnamon muffin~
+`#`wan `yapple cinnamon `wmuffin`^~
+A muffin has been dropped here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6430
+whiskey barrel table~
+`#`wA table made out of an old `ywhisky `wbarrel`^~
+`#`wA table made out of an old `ywhisky `wbarrel`^~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6431
+deep well~
+a deep well~
+A deep well is here, with a bucket for drawing water.~
+~
+25 0 16
+30000 52 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6431 deep well bucket~
+A deep well has been dug here.  It has a bucket on a rope for getting water.
+~
+#6432
+plain white nurse's uniform~
+a plain `#`Wwhite`^ nurse's uniform~
+A plain `#`Wwhite`^ nurse's uniform has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6433
+white toga~
+`#`Wa white toga`^~
+A white pile of cloth is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6434
+`xa short `sblack`x maid dress with `wwhite`x lace~
+`XA short `sblack`X maid dress with `Wwhite`X lace~
+`XA short `sblack`X maid dress with `Wwhite`X lace lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6435
+skull crossbone pirate hat~
+a `#`Wskull`^ and `Wcrossbones`^ pirate's hat~
+A black hat with a white skull and crossbones is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6436
+fake pirate hook~
+`#`wa fake `spirate h`wo`so`wk`^~
+A hook is laying on the ground here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#6400
+Entrance the the Bazaar~
+~
+A rectangular sign hangs at the entrance to this bazaar. To enter, you must 
+walk underneath a large wooden archway covered in green vines with strange 
+purplish blossoms on it. The ground is hard packed dirt mixed with gravel. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6401
+E
+sign ~
+Welcome to the Eastern Woods Bazaar! `+
+`+
+We tolerate no fighting and any thieves caught will be severely punished. `+
+`+
+Enjoy your visit! 
+~
+S
+#6401
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6408
+D1
+~
+~
+0 0 6402
+D2
+~
+~
+0 0 6400
+D3
+~
+~
+0 0 6405
+R O 0 6431 0 6401
+S
+#6402
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6429
+D1
+~
+~
+0 0 6403
+D2
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6401
+S
+#6403
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6426
+D1
+~
+~
+0 0 6404
+D2
+~
+~
+0 0 6427
+D3
+~
+~
+0 0 6402
+S
+#6404
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6413
+D3
+~
+~
+0 0 6403
+S
+#6405
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6401
+D3
+~
+~
+0 0 6406
+S
+#6406
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6405
+D2
+~
+~
+0 0 6430
+D3
+~
+~
+0 0 6407
+S
+#6407
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6417
+D1
+~
+~
+0 0 6406
+S
+#6408
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6409
+D2
+~
+~
+0 0 6401
+S
+#6409
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6422
+D1
+~
+~
+0 0 6410
+D2
+~
+~
+0 0 6408
+D3
+~
+~
+0 0 6414
+R O 0 6415 0 6409
+S
+#6410
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6423
+D1
+~
+~
+0 0 6411
+D3
+~
+~
+0 0 6409
+S
+#6411
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6424
+D1
+~
+~
+0 0 6412
+D3
+~
+~
+0 0 6410
+S
+#6412
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6441
+D2
+~
+~
+0 0 6413
+D3
+~
+~
+0 0 6411
+S
+#6413
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6412
+D1
+~
+~
+0 0 6425
+D2
+~
+~
+0 0 6404
+S
+#6414
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6420
+D1
+~
+~
+0 0 6409
+D2
+~
+~
+0 0 6421
+D3
+~
+~
+0 0 6415
+S
+#6415
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6414
+D2
+~
+~
+0 0 6419
+D3
+~
+~
+0 0 6416
+S
+#6416
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6431
+D1
+~
+~
+0 0 6415
+D2
+~
+~
+0 0 6417
+S
+#6417
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6416
+D1
+~
+~
+0 0 6450
+D2
+~
+~
+0 0 6407
+D3
+~
+~
+0 0 6418
+S
+#6418
+The Dirty Dwarf Armory~
+~
+Piles of armor rest throughout this large shop. The shop is not dirty, it is 
+just cluttered. Half a dozen dwarves hammer away at armor in various stages 
+of completion in the back of the shop. `+
+`+
+There is a wooden sign resting on the counter. `+
+
+~
+1 33554440 0
+D1
+~
+~
+0 0 6417
+R M 0 6413 1 6418
+  R G 0 6420 0
+  R G 0 6422 0
+  R G 0 6421 0
+  R G 0 6424 0
+  R G 0 6423 0
+E
+sign ~
+Welcome to mi armory! `+
+`+
+We sell tha best dwarven made armor in tha realm. `+
+`+
+Armor repairs available upon request. `+
+
+~
+S
+#6419
+The Perfumed Possum~
+~
+The smell of all the different herbs is enough to make a person dizzy. The 
+room is lit by a several lanterns hanging about the room and there is a 
+large tree growing up out of the ground in the middle of the shop and up 
+through the roof. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6415
+R M 0 6412 1 6419
+  R G 0 46116 0
+  R G 0 46117 0
+  R G 0 46113 0
+  R G 0 6419 0
+S
+#6420
+The Drunken Cleric~
+~
+There is nothing special about this shop. The floor is a simple wooden floor 
+covered with a soft plush blue rug. There are braziers in every corner of 
+the shop to light the room. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6414
+R M 0 6411 1 6420
+  R G 0 6418 0
+S
+#6421
+The Scroll and The Bottle ~
+~
+Shelves line every inch of this shops space and every shelf is full of some 
+kind of potion or scroll. If you accidently knock into one a dust cloud 
+engulfs you. The floor is wooden but covered in the same dust as the 
+shelves. This shop is lit with candles. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6414
+R M 0 6410 1 6421
+  R G 0 3087 0
+  R G 0 3088 0
+S
+#6422
+The Lascivious Faerie~
+~
+The inside of this tavern is set up to look like the inside of a pirate 
+ship. The tables are made up of wooden barrels with a blocks of wood on top 
+and the wooden floor is covered in straw. The walls are decorated with coils 
+of rope and various hooks and pirate style weapons. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6409
+R O 0 6430 0 6422
+R M 0 6409 1 6422
+R M 0 6408 1 6422
+  R G 0 6414 0
+  R G 0 6417 0
+  R G 0 2803 0
+S
+#6423
+The Raging Flea Mercantile~
+~
+The smell of burning incense fills your nostrils when you walk into this 
+store. There is barely enough light to see and it smells slightly musty. The 
+wooden floor is covered with an area rug that has more holes in it than you 
+can count. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6410
+R M 0 6407 1 6423
+  R G 0 801 0
+  R G 0 802 0
+  R G 0 800 0
+  R G 0 557 0
+S
+#6424
+The Grunting Gallant~
+~
+Several racks are spread throughout this store but only a couple have 
+clothing on them. Wooden crates line the walls with unorganized piles of 
+shoes and boots in them. The carpet is blue, you think. It is so dirty that 
+it is hard to tell. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6411
+R M 0 6406 1 6424
+  R G 0 6413 0
+  R G 0 6412 0
+S
+#6425
+The Buxom Wench~
+~
+Racks and racks of clothing are everywhere. Piles of shoes are so high you 
+trip over them. You can barely make out that the carpet is pink with tiny 
+butterflies on it. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 6413
+R M 0 6405 1 6425
+  R G 0 6410 0
+  R G 0 6411 0
+S
+#6426
+Crusty Jack's Flapjack House~
+~
+The atmosphere in here is very lively but friendly. There are several people 
+engaged in card games and stuffing their faces. Pictures of different kinds 
+of flapjacks hang on the wall, an interesting site indeed. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6403
+R M 0 6422 1 6426
+R M 0 6403 1 6426
+  R G 0 6407 0
+  R G 0 6408 0
+R O 0 6430 0 6426
+S
+#6427
+The Purple Polka Dotted Dragon~
+~
+The walls of this shop are purple and so is the carpet. There are paintings 
+of purple dragons hanging from the walls. The lights hanging from the 
+ceiling light up the room brightly. Everything is purple. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6403
+R M 0 6404 1 6427
+  R G 0 867 0
+  R G 0 6427 0
+  R G 0 863 0
+  R G 0 6409 0
+S
+#6428
+The Wandering Minstrel~
+~
+Tables of different kinds of instruments cover most of this shops space. A 
+young teenage bard stands in the corner playing his lute softly. The 
+lighting is low but still enough to see. The floor is covered in a soft 
+plush sea green carpet. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6402
+R M 0 6401 1 6428
+  R G 0 6402 0
+  R G 0 6400 0
+  R G 0 6403 0
+  R G 0 6401 0
+S
+#6429
+The Frazzled Elf~
+~
+Several tables line the walls of this small but cozy shop. Soft inviting 
+paintings cover the wall. Several couples can be seen huddled together deep 
+in coversation. The smell of the coffee offers a relaxing change. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6402
+R M 0 6402 1 6429
+  R G 0 6404 0
+  R G 0 6406 0
+  R G 0 6405 0
+  R G 0 3197 0
+R O 0 6430 0 6429
+S
+#6430
+Eastern Costume Shop~
+~
+This shop looks like something exploded in it. There are piles of clothing 
+on the floor, on racks, hanging from the walls. A counter is somewhere in 
+the back of the shop if you can find it. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6406
+R M 0 6423 1 6430
+  R G 0 6433 0
+  R G 0 6434 0
+  R G 0 6436 0
+  R G 0 809 0
+  R G 0 6432 0
+  R G 0 6435 0
+S
+#6431
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6432
+D2
+~
+~
+0 0 6416
+D3
+~
+~
+0 0 6449
+S
+#6432
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6431
+S
+#6433
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6434
+D2
+~
+~
+0 0 6432
+S
+#6434
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6435
+D2
+~
+~
+0 0 6448
+D3
+~
+~
+0 0 6433
+S
+#6435
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6447
+D1
+~
+~
+0 0 6436
+D3
+~
+~
+0 0 6434
+S
+#6436
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6446
+D1
+~
+~
+0 0 6437
+D3
+~
+~
+0 0 6435
+S
+#6437
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D1
+~
+~
+0 0 6438
+D2
+~
+~
+0 0 6445
+D3
+~
+~
+0 0 6436
+S
+#6438
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6444
+D1
+~
+~
+0 0 6439
+D2
+~
+~
+0 0 6443
+D3
+~
+~
+0 0 6437
+S
+#6439
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D2
+~
+~
+0 0 6440
+D3
+~
+~
+0 0 6438
+S
+#6440
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6439
+D1
+~
+~
+0 0 6442
+D2
+~
+~
+0 0 6441
+S
+#6441
+Dirt Row~
+~
+You find yourself in the isle of the bazaar. The ground is here hard packed 
+dirt mixed with gravel. There are light posts and trash cans spread 
+throughout the isle in various locations. Small bushes with brightly colored 
+blooms grow along the edge of the path. 
+~
+1 33554440 15
+D0
+~
+~
+0 0 6440
+D1
+~
+~
+0 0 6451
+D2
+~
+~
+0 0 6412
+S
+#6442
+Thorn's Ore and Mining Supplies~
+~
+This is an empty shell of a shop. It looks ready to move in. Not much in 
+this store but a small table and piles of steel. The floor is dirty and the 
+air in here has a fog to it. There is a sign on the table telling you to go 
+visit the armor shop on the other side of the bazaar. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 6440
+R M 0 6424 1 6442
+  R G 0 23661 0
+  R G 0 3137 0
+  R G 0 859 0
+S
+#6443
+Paco's Pastries~
+~
+The smell of fresh pastries fill your nose when you walk into this shop. 
+Shelves line the wall with boxes of cookies and muffins in them. A large 
+glass counter houses different cakes and pies. This shop is extremely clean 
+and well kept. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6438
+R M 0 6418 1 6443
+  R G 0 6428 0
+  R G 0 5708 0
+  R G 0 6429 0
+  R G 0 21644 0
+S
+#6444
+Empty Store~
+~
+This is an empty shell of a shop. It looks ready to move in. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6438
+S
+#6445
+Empty Store~
+~
+This is an empty shell of a shop. It looks ready to move in. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6437
+S
+#6446
+The Exploding Alchemist~
+~
+This place looks dangerous. Several tables are about the shop with different 
+bubbling potions cooking on them. Bits of glass from exploded potion bottles 
+crunch under your feet on the wooden floor. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 6436
+R M 0 6417 1 6446
+  R G 0 2552 0
+  R G 0 827 0
+  R G 0 536 0
+S
+#6447
+First Bank of Eastern Woods~
+~
+A small wooden desk sits in the back corner. The wooden floor is covered in 
+an elegant and expensive carpet and there are several paintings hanging on 
+the walls as well as lanterns to light the room. There is a sign hanging on 
+the wall over the desk. 
+~
+1 33554504 0
+D2
+~
+~
+0 0 6435
+R M 0 6416 1 6447
+E
+sign ~
+Welcome to the First Bank of Eastern Woods where we love your money more 
+than you do. 
+~
+S
+#6448
+Hassan's House of Training~
+~
+Training posts are in every corner of this shop. The floor and walls are 
+covered in a thin gray carpet. Several people can be seen sparring with each 
+other. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 6434
+R M 0 6415 1 6448
+S
+#6449
+The Screaming Troll Weaponry~
+~
+Despite the shop being dirty and grimy, the weapons look like they are top 
+quality. A couple of trolls and humans are in the back on the shop hammering 
+away on something unidentifiable while a young female kobold goes around 
+cleaning and organizing the weapons. `+
+`+
+There is a large sign resting on the counter top. `+
+
+~
+1 33554440 0
+D1
+~
+~
+0 0 6431
+R M 0 6414 1 6449
+  R G 0 6425 0
+  R G 0 6426 0
+E
+sign ~
+Welcome to shop! We have great big weapons to smash with! `+
+`+
+
+~
+S
+#6450
+Eastern Woods Pigeon Service~
+~
+There is nothing in this shop but a single desk resting in the middle of the 
+room. A lantern is sitting on the edge of the desk for light. The floor is 
+wooden and the walls are painted white. There is a window on every wall 
+except the wall with the door. Crates of pigeons waiting to be used rest on 
+the floor around the desk. 
+~
+1 0 0
+D3
+~
+~
+0 0 6417
+R M 0 6400 1 6450
+  R G 0 3199 0
+S
+#6451
+Leader of the Pack Pets~
+~
+Whoa the smell when you walk in this shop. It is apparant that they sell 
+animals here. The floor is covered in straw and there are half a dozen 
+crates resting on the ground. 
+~
+1 33558540 0
+D3
+~
+~
+0 0 6441
+R M 0 6419 1 6451
+S
+#6452
+Pet Storage~
+~
+~
+1 38305804 0
+R M 0 6420 1 6452
+R M 0 6421 1 6452
+R M 0 6425 1 6452
+S
+#0
+
+
+#SHOPS
+ 6400   14  0  0  0  0   100  50         0 23    ; an elderly dagorst woman
+ 6401    0  0  0  0  0   100  50         0 23    ; a tall dagorst male
+ 6402    0  0  0  0  0   105 100         0 23    ; a teenage female dagorst
+ 6403    0  0  0  0  0   105 100         0 23    ; crusty Jack
+ 6404    0  0  0  0  0   105 100         0 23    ; a teenage malkatar male
+ 6405    0  0  0  0  0   100  50         0 23    ; a buxom markian woman
+ 6406    0  0  0  0  0   100  50         0 23    ; a husky looking angrak male
+ 6407    0  0  0  0  0   105 100         0 23    ; a wart covered dagorstian hag
+ 6408    0  0  0  0  0   105 100         0 23    ; a shapely female markian
+ 6410    0  0  0  0  0   105 100         0 23    ; an average looking female malkatar
+ 6411    0  0  0  0  0   105 100         0 23    ; a tall, balding male malkatar
+ 6412    0  0  0  0  0   105 100         0 23    ; a thin male slythris
+ 6413    9  0  0  0  0   105 100         0 23    ; a dirty scarred dwarven male
+ 6414    0  0  0  0  0   100  50         0 23    ; a huge ugly troll
+ 6417    0  0  0  0  0   105 100         0 23    ; a short geeky looking female malkatar
+ 6418    0  0  0  0  0   100  50         0 23    ; `#`wPaco`^
+ 6423    0  0  0  0  0   100  50         0 23    ; a snobby looking male markian
+ 6424    0  0  0  0  0   105 100         0 23    ; a stout male dwarf
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

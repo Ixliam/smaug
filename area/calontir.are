@@ -1,0 +1,3280 @@
+#AREA        Calontir~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#800
+Banker Changer~
+the Banker~
+A tall man is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+100 10 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#801
+trainer tall male muscular malkatar ~
+a tall muscular malkatar male~
+A tall muscular Malkatar male waits here to train you.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#802
+lay healer priest~
+the priest~
+A priest of Seandac is here waiting to heal you.
+~
+This middle-aged man is dressed in the garb of a priest.  Oddly though, he 
+carries a sword at his side.  
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#803
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#804
+a thin attractive female malkatar shopkeeper~
+a thin, attractive female malkatar~
+A thin, attractive female malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#805
+attractive female malkatar shopkeeper~
+an attractive female malkatar~
+An attractive female malkatar with long black hair is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#806
+short broad shoulder male malkatar shopkeeper~
+a short male malkatar~
+A short male malkatar with broad shoulders stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#807
+muscular male malkatar shopkeeper~
+a muscular male malkatar~
+A muscular male malkatar is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#808
+calontir guard~
+a calontir guard~
+A `#`yCalontir`^ guard is here patrolling the town.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+44 5 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#809
+malkatar calontir citizen~
+a citizen of calontir~
+A citizen of `#`gCalontir`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+53 2 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#810
+calontir herald~
+a town herald~
+A herald of Calontir stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+70 2 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#811
+short broad shoulder male malkatar shopkeeper~
+a short male malkatar~
+A short male malkatar with broad shoulders stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#812
+curvy attractive female malkatar shopkeeper~
+a curvy female malkatar~
+A curvacious female malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#813
+calontir elite guard~
+an elite calontir guard~
+An elite `#`yCalontir`^ guard is here patrolling the town.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+72 5 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#814
+unseen_meals_on_wheels~
+`#A prison guard~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#815
+attractive female malkatar shopkeeper~
+an attractive female malkatar~
+An attractive female malkatar with long black hair is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#816
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#817
+short plump female malkatar shopkeeper~
+a short plump female malkatar~
+A short plump female Malkatar is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+120 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#818
+tall dagorst male shopkeeper~
+a tall dagorst male~
+A tall dagorst male is standing here picking on a lute.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#800
+black leather satchel backpack~
+`#`wa `sblack leather `wsatchel`^~
+A black leather bag is on the ground here.~
+~
+15 0 8
+1 0 1000 100 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#801
+black iron lantern~
+a `#`Sblack iron`^ lantern~
+A `#`Sblack iron`^ lantern has been left here.~
+~
+1 0 1
+0 500 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#802
+wooden fishing pole~
+`#`wa long `ywooden `wfishing pole`^~
+A wooden fishing pole has been dropped here.~
+~
+43 0 32
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#803
+loaf bread~
+`wa `yloaf `wof `ybread`^~
+A loaf of bread is lying here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 13 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#804
+sturdy shovel~
+`#`wa sturdy `sshovel`^~
+A sturdy shovel has been left here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+804 sturdy shovel~
+This sturdy shovel has a steel blade and a thick wooden handle.
+~
+#805
+wooden raft~
+a wooden raft~
+A wooden raft has been left here.~
+~
+22 0 16
+0 0 0 0 0 0 0
+9 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+805 wooden raft~
+This sturdy raft is made of 5 thick logs lashed together with some sort of 
+natural material.  It is surprisingly light for its size.  
+~
+#806
+cherry wood desk table~
+`#`wA fancy `rcherrywood `wdesk`^~
+`#`wA fancy `rcherrywood `wdesk rests here.`^~
+~
+12 0 8
+1000 16777800 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#807
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+~
+17 0 16
+300 1 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#808
+white granite tombstone~
+`#`wa `Wwhite g`sr`wa`Wn`si`wt`We `wtombstone`^~
+`#`wa `Wwhite g`sr`wa`Wn`si`wt`We `wtombstone.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+808 tombstone ~
+Here lies Grace Hawkinsworth. Lived 33 years. "I told you I was Sick" 
+~
+#809
+black eye patch~
+`#`wa `sblack `weye patch`^~
+`#`wa `sblack `weye patch has been left here.`^~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#810
+gleaming dagger~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `sdagger`^~
+A gleaming dagger is laying here.~
+~
+5 0 4
+15 7 16 64 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#811
+gleaming sword~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `ssword`^~
+A gleaming sword is laying here.~
+~
+5 0 4
+17 14 24 64 0 0 0
+1 1350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#812
+gleaming silver breastplate~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `ssilver `wbreastplate`^~
+A gleaming silver breastplate is laying here.~
+~
+9 0 8
+5 5 18 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#813
+gleaming greaves leggings~
+`#`wa set of `Wg`wl`se`Wa`wm`si`Wn`wg `sgreaves`^~
+A set of gleaming greaves are laying here.~
+~
+9 0 8
+10 10 13 0 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#814
+gleaming vambraces armguards~
+`#`wa set of `Wg`wl`se`Wa`wm`si`Wn`wg `svambraces`^~
+A set of gleaming vambraces are laying here.~
+~
+9 0 8
+10 10 9 0 0 0 0
+2 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#815
+gleaming bracer~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `sbracer`^~
+A gleaming bracer is laying here.~
+~
+9 0 8
+5 5 8 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#816
+engraved silver anklet~
+`#`wan engraved `ss`wi`sl`wv`se`wr anklet`^~
+An engraved anklet has been dropped here.~
+~
+9 0 8
+10 10 10 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#817
+holy robe cleric~
+`#`WH`wo`Wl`wy Robe of the `CC`cl`Ce`cr`Ci`cc`^~
+A pile of white cloth is here.~
+~
+9 256 8
+5 5 12 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#818
+soft white leather sandals~
+`#`wa pair of soft `Wwhite `wleather sandals`^~
+A pair of white leather sandals have been left here.~
+~
+9 64 8
+10 10 10 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#819
+holy shield of seandac~
+`#`WH`wo`Wl`wy Shield of `CS`ce`Ca`cn`Cd`ca`Cc`^~
+A shiny shield is on the floor.~
+~
+9 256 8
+10 10 19 0 0 0 0
+2 1210 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#820
+ruby gem~
+a `#`Rr`ru`Rb`ry`^~
+A beautiful, if small, ruby is here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#821
+holy mace of seandac~
+`#`wa `WH`wo`Wl`wy `wMace of `CS`ce`Ca`cn`Cd`ca`Cc`^~
+A brightly shining `#`Ssteel`^ mace lies here.~
+~
+5 64 4
+16 7 16 256 0 0 0
+1 1220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#822
+sign~
+`#`wa huge marble sign with `Bblue `wand `Wwhite `wflags flying from it`^~
+`#`wA huge marble sign with `Bblue `wand `Wwhite `wflags flying from it stands here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+822 sign ~
+Welcome to Calontir! All that we ask is that you follow our town law. Please 
+enjoy your stay. `-signed`- The Mayor. 
+~
+#823
+banana heal potion~
+A `#`Ybanana`^ scented potion of `#`wh`We`wa`Wl`wi`Wn`wg`^~
+A brown colored potion of healing is laying here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+823 sweet banana potion divine heal~
+This is a elixir that is brown in color. It smells and tastes like bananas. 
+
+~
+#824
+amethyst colored potion armor peanut butter~
+an `#`mamethyst`^ colored potion of `#`yarmor`^~
+An amethyst colored potion is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+824 peanut strawberry potion armor armour~
+This is a liquid that is amethyst in color. It smells like butter but tastes 
+like peanuts. 
+~
+#825
+peppermint scented potion haste~
+a `#`Wp`Re`Wp`Rp`We`Rr`Wm`Ri`Wn`Rt`^ scented potion of `#`chaste`^~
+A cyan colored potion is resting here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+825 shake potion haste peppermint~
+This is a bubbling substance that is cyan in color. It smells and tastes 
+like peppermint. 
+~
+#826
+lime peppermint tea~
+`#`GL`gi`Gm`ge `RP`We`Rp`Wp`Re`Wr`Rm`Wi`Rn`Wt `GT`ge`Ga`^~
+A glass of tea is sitting here.~
+~
+17 0 16
+4 11 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#827
+caramel potion refresh~
+a thick `#`ycaramel`^ scented potion of `#`wrefresh`^~
+A rose colored potion is sitting here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+827 caramel potion refresh~
+This is a smoking, thick tonic that is rose in color. It smells and tastes 
+like caramel. 
+~
+#828
+purple honey scented potion sanctuary~
+a `#`mpurple `yhoney`^ scented potion of `#`wsanctuary`^~
+A purple colored potion is sitting here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+828 purple honey sanctuary potion~
+This is a reflective elixir that is purple in color. It smells and tastes 
+like honey. 
+~
+#829
+table mahogany rows chairs~
+a chair resting by a small mahogany table~
+Rows of small mahogany tables with chairs line the walls here.~
+~
+12 0 8
+20000 72 100 100 0 0 0
+5 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#830
+sticky sweet honey bun~
+`#`wa sticky sweet `yhoney `wbun`^~
+A honey bun is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#831
+deep well~
+a deep well~
+A deep well is here, with a bucket for drawing water.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+831 deep well bucket~
+A deep well has been dug here.  It has a bucket on a rope for getting water.
+~
+#832
+long wooden bench~
+a long wooden bench~
+A long wooden bench.~
+~
+12 0 8
+10000 9360 110 110 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+832 long wooden bench~
+This bench is crafted from oak wood and is finely made.  It is long enough to support four
+people confortably, and looks quite strong.
+~
+#833
+gleaming helm~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `shelm`^~
+A gleaming helm is laying here.~
+~
+9 0 8
+5 5 11 0 0 0 0
+1 1300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#834
+thick wool blanket pile straw~
+a thick wool blanket covering a pile of straw~
+A thick wool blanket covering a pile of straw.~
+~
+12 0 8
+2000 1168 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#835
+water barrel~
+a stubby water barrel~
+A short barrel, rests here filled with clear liquid.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#836
+calontir jail key~
+`#`wCalontir `sJail `wKey`^~
+An iron key is lying here.~
+~
+31 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+836 calontir jail key~
+This looks like an important key, if found, please return to the Mayor's 
+office. 
+~
+#837
+hot buttered rum~
+a pitcher of `#`yhot buttered rum`^~
+A pitcher of `#`yhot buttered rum`^~
+~
+17 0 16
+6 34 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#838
+sheer black veil~
+`#`wa sheer `sblack `wveil`^~
+A sheer black veil is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#839
+black form fitting silk dress silver braided trim~
+`#`wa `sblack `wform fitting dress with `ss`wi`sl`wv`se`wr braided trim`^~
+A black silk dress is on the ground here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#840
+black silk slippers~
+`#`wa pair of `sblack silk `wslippers`^~
+`#`wa pair of `sblack silk `wslippers have been lying here.`^~
+~
+9 0 8
+5 5 1 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#841
+diamond engagement ring~
+`#`wa `Wd`wi`Wa`wm`Wo`wn`Wd `wengagement ring`^~
+A diamond engagement ring is laying on the ground here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+841 silver wedding band~
+A finely made silver wedding band.  Maybe if you ask nicely an immortal will 
+restring this description to reflect your wedding date etc.  
+~
+#842
+delicate silver filagree ring~
+`#`wa delicate `ssilver filagree `wring`^~
+A silver filagree ring is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#843
+pair black leather studded boots~
+`#`wa pair of `sblack `wleather `ss`wt`su`wd`sd`we`sd `wboots`^~
+A pair of black leather boots are here.~
+~
+9 0 8
+5 5 10 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#844
+heart shaped sapphire ring~
+`#`wa heart shaped `Bs`ba`Bp`bp`Bh`bi`Br`be `wring~
+A heart shaped sapphire ring lies here.~
+~
+9 0 8
+10 10 3 1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#845
+golden navel belly ring~
+`#`ya `Yg`yo`Yl`yd`Ye`yn `Yn`ya`Yv`ye`Yl `yring`^~
+A golden navel ring lires here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#846
+whole dill pickle~
+`#`ga whole dill pickle`^~
+A dill pickle is laying here.~
+~
+19 0 16
+18 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#847
+ice cream sundae~
+`#`wan `Wi`wc`We `Wc`wr`We`wa`Wm `Ws`wu`Wn`wd`Wa`we`^~
+A puddle of ice cream is here.~
+~
+19 0 16
+18 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#848
+long flowing silk loose fitting dress maternity~
+`#`wa long `Wf`wl`Wo`ww`Wi`wn`Wg `wloose-fitting `Cs`ci`Cl`ck dress`^~
+A silk dress is laying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 116 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+848 dress ~
+This dress is extremely soft looking and has lots of material to it.  It 
+hangs down to the ankles and has long sleeves.  
+~
+#849
+double chocolate chip chunk cookie~
+`#`wa double `ychocolate chip `wchunk cookie`^~
+A cookie lays here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#850
+chocolate icing cupcake~
+`#`wa cupcake with `ychocolate `wicing`^~
+`#`wa cupcake with `ychocolate `wicing is here.`^~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#851
+basket small~
+a small basket~
+A small basket lies here.~
+~
+15 0 8
+0 0 30 100 0 0 0
+1 34 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#852
+parchment letter note~
+a piece of parchment~
+A piece of parchment~
+~
+14 0 8
+0 0 1 0 0 0 0
+1 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#853
+cigar blue ribbon~
+`#`wa `ycigar `wwith a `Bblue ribbon `waround it`^~
+A cigar is laying here.~
+~
+42 0 32
+5 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#854
+cigar pink ribbon~
+`#`wa `ycigar `wwith a `Mpink ribbon `waround it`^~
+A cigar is laying here.~
+~
+42 0 32
+5 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#855
+pink baby pacifier~
+a `#`Mpink`^ baby pacifier~
+A `#`Mpink`^ baby pacifier lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#856
+blue baby pacifier~
+a `#`Bblue`^ baby pacifier~
+A `#`Bblue`^ baby pacifier lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#857
+bottle pink baby~
+a `#`Mpink`^ baby bottle~
+A `#`Mpink`^ baby bottle lies here, collecting dust.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#858
+bottle blue baby~
+a `#`Bblue`^ baby bottle~
+A `#`Bblue`^ baby bottle lies here, collecting dust.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#859
+small leather bag~
+`#`wa small `yleather `wbag`^~
+A small leather bag is here.~
+~
+15 0 8
+0 0 20 100 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#860
+engraved platinum wedding band ring~
+`#`wan engraved `spl`wat`sin`wum wedding `sband`^~
+A platinum wedding band is laying here.~
+~
+9 0 8
+10 10 3 1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#861
+wicker baby basket~
+`#`ya wicker baby basket`^~
+A wicker baby basket is here~
+~
+15 0 8
+0 0 20 100 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#862
+small wooden keg~
+a small wooden keg~
+A small wooden keg.~
+~
+17 0 16
+150 1 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#863
+heart balloon~
+`#`wa large `Rheart `wshaped balloon`^~
+`#`wA large `Rheart `wshaped balloon floats here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 21 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#864
+stuffed wolf toy~
+`#`wa stuffed `cw`solf `wtoy with a `cblue `wbow around its neck`^~
+`#`wA stuffed `cw`solf `wtoy with a `cblue `wbow around its neck has been dropped here.`^~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#865
+stuffed bear toy~
+`#`wa stuffed `sbear `wtoy with a `Rred `wbow around its neck`^~
+`#`wA stuffed `sbear `wtoy with a `Rred `wbow around its neck has been dropped here.`^~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#866
+stuffed dragon toy~
+`#`wa stuffed `wd`sr`wa`sg`wo`sn `wtoy with a `mpurple `wbow around its neck`^~
+`#`wA stuffed `wd`sr`wa`sg`wo`sn `wtoy with a `mpurple `wbow around its neck has been dropped here.`^~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#867
+wooden stick pony horse~
+`#`wa `ywooden `wstick `Wp`wo`Wn`wy`^~
+A wooden stick with a horse head on it is laying here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 94 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#868
+silver flute~
+`#`wa `Wg`wl`se`Wa`wm`si`Wn`wg `ssilver `wflute`^~
+`#`wA `Wg`wl`se`Wa`wm`si`Wn`wg `ssilver `wflute is laying here.`^~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#869
+cherrywood harp golden ~
+`#`wa `rcherrywood `wharp`^~
+`#`wA `rcherrywood `wharp is laying here.`^~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#870
+walnut shell lute~
+`#`wa `ywalnut shell `wlute`^~
+`#`wa `ywalnut shell `wlute is laying here.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+870 walnut shell lute~
+A walnut shell has been used to make this lute.  Silkworm silk has been 
+strung across the nutshell for strings, six in all.  This gentle sounding 
+instrument is perfect for accompanying any budding singer.  
+~
+#871
+wooden tambourine~
+`#`wa small `ywooden `stambourine`^~
+`#`wA small `ywooden `stambourine `w is laying here.`^~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 130 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#800
+Entrance to Calontir~
+~
+Welcome to the beautiful City of Calontir.  Please enjoy your visit and all 
+laws are strictly enforced.
+~
+1 0 1
+D0
+~
+~
+0 0 801
+S
+#801
+Cobblestone Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 803
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+D3
+~
+~
+0 0 873
+R M 0 808 20 801
+S
+#802
+Guard Headquarters~
+~
+The walls are painted a dark red and there is heavily walked over beige 
+carpet covering the floor. Small flaming braziers in each corner lights up 
+the room. There are several cots spread about the room as well as a large 
+wooden desk in the eastern corner of the room. There are several chunks of 
+wood missing from the desktop. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 801
+S
+#803
+Mayor Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 801
+D3
+~
+~
+0 0 806
+R M 0 809 20 803
+R O 0 832 0 803
+R O 0 831 0 803
+R O 0 7900 0 803
+S
+#804
+Mayor Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 805
+D3
+~
+~
+0 0 803
+S
+#805
+Mayor Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 808
+D3
+~
+~
+0 0 804
+R M 0 808 20 805
+S
+#806
+Mayor Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 854
+D1
+~
+~
+0 0 803
+D3
+~
+~
+0 0 807
+R M 0 813 14 806
+S
+#807
+Mayor Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 806
+D3
+~
+~
+0 0 877
+R M 0 810 10 807
+R M 0 808 20 807
+S
+#808
+Warrior's Ave~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 809
+D1
+~
+~
+0 0 847
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 878
+R M 0 809 20 808
+S
+#809
+Warrior's Ave~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 810
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 846
+R M 0 808 20 809
+S
+#810
+Seandac Road~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 809
+D3
+~
+~
+0 0 811
+R M 0 813 14 810
+S
+#811
+Seandac Road~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 810
+D3
+~
+~
+0 0 812
+S
+#812
+Seandac Road~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 5705
+D3
+~
+~
+0 0 813
+R M 0 809 20 812
+R O 0 831 0 812
+S
+#813
+Seandac Road~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 850
+D1
+~
+~
+0 0 812
+D3
+~
+~
+0 0 814
+R M 0 809 20 813
+S
+#814
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 815
+R M 0 810 10 814
+S
+#815
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 814
+D2
+~
+~
+0 0 816
+D3
+~
+~
+0 0 833
+R M 0 813 14 815
+S
+#816
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 815
+D1
+~
+~
+0 0 880
+D2
+~
+~
+0 0 807
+D3
+~
+~
+0 0 866
+R M 0 809 20 816
+S
+#817
+Seandac Road~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 818
+D3
+~
+~
+0 0 810
+R M 0 810 10 817
+R M 0 809 20 817
+S
+#818
+Emerald Ave~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 845
+D2
+~
+~
+0 0 817
+D3
+~
+~
+0 0 872
+R M 0 808 20 818
+S
+#819
+Emerald Ave~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 820
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 818
+D3
+~
+~
+0 0 851
+R M 0 813 14 819
+R M 0 809 20 819
+S
+#820
+Bridges Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 3974
+D2
+~
+~
+0 0 819
+D3
+~
+~
+0 0 821
+S
+#821
+Bridges Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 820
+D3
+~
+~
+0 0 822
+R M 0 808 20 821
+S
+#822
+Bridges Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 821
+D3
+~
+~
+0 0 823
+R M 0 809 20 822
+S
+#823
+Bridges Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 849
+D1
+~
+~
+0 0 822
+D3
+~
+~
+0 0 824
+S
+#824
+Bridges Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 823
+D3
+~
+~
+0 0 825
+R M 0 808 20 824
+S
+#825
+Intersection of Bridges and Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 879
+D1
+~
+~
+0 0 824
+D2
+~
+~
+0 0 826
+R M 0 810 10 825
+S
+#826
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 825
+D1
+~
+~
+0 0 853
+D2
+~
+~
+0 0 827
+D3
+~
+~
+0 0 828
+R M 0 809 20 826
+S
+#827
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 876
+D2
+~
+~
+0 0 814
+D3
+~
+~
+0 0 852
+R M 0 808 20 827
+S
+#828
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 826
+D3
+~
+~
+0 0 829
+S
+#829
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 856
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 830
+D3
+~
+~
+0 0 875
+R M 0 808 20 829
+S
+#830
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 829
+D2
+~
+~
+0 0 831
+R M 0 813 14 830
+S
+#831
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 830
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 848
+R M 0 809 20 831
+S
+#832
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 833
+R M 0 808 20 832
+S
+#833
+Rivers Bend~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D1
+~
+~
+0 0 815
+D3
+~
+~
+0 0 832
+S
+#834
+Wooden Dock~
+~
+A long wooden floating dock continues north as it sways gently from the 
+movement of the water. There is a good sized pond to your north. 
+~
+1 0 0
+D0
+~
+~
+0 0 835
+D3
+~
+~
+0 0 819
+S
+#835
+Wooden Dock~
+~
+A long wooden floating dock continues north as it sways gently from the 
+movement of the water. There is a good sized pond to your north. 
+~
+1 0 0
+D0
+~
+~
+0 0 836
+D2
+~
+~
+0 0 834
+R M 0 813 14 835
+S
+#836
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 4 6
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 837
+D2
+~
+~
+0 0 835
+D3
+~
+~
+0 0 838
+S
+#837
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 841
+D3
+~
+~
+0 0 836
+S
+#838
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 836
+S
+#839
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 843
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 836
+D3
+~
+~
+0 0 840
+S
+#840
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 844
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 0 838
+D3
+~
+~
+0 0 863
+S
+#841
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 842
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 839
+S
+#842
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D2
+~
+~
+0 0 841
+D3
+~
+~
+0 0 843
+S
+#843
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 839
+D3
+~
+~
+0 0 844
+S
+#844
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D1
+~
+~
+0 0 843
+D2
+~
+~
+0 0 840
+S
+#845
+Calontir General Store~
+~
+The room smells strange, a mixture of fresh baked bread and lamp oil. The 
+walls are filled with different types of supplies for all purposes. The 
+floor is covered in well worn crimson carpet and the walls are made out out 
+wood. There is a simple looking oil lamp hanging from the ceiling to light 
+the room. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 818
+R M 0 806 1 845
+  R G 0 800 0
+  R G 0 801 0
+  R G 0 803 0
+  R G 0 802 0
+  R G 0 804 0
+  R G 0 805 0
+  R G 0 851 0
+  R G 0 859 0
+S
+#846
+Calontir Armorsmith~
+~
+There is a huge fire blazing in the rear of the building. Several wooden 
+work tables are spread throughout the room. A wide variety of Armor hanging 
+on the wooden walls. The floor is made of dirt. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 809
+R M 0 807 2 846
+  R G 0 812 0
+  R G 0 813 0
+  R G 0 814 0
+  R G 0 815 0
+  R G 0 833 0
+  R G 0 843 0
+S
+#847
+Calontir Weaponsmith~
+~
+There is a huge fire blazing in the rear of the building. Several wooden 
+work tables are spread throughout the room with weapons in various stages of 
+completion laying on them. There are completed weapons displayed on the 
+wooden walls as well as piles of them on the dirt floor. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 808
+R M 0 807 2 847
+  R G 0 810 0
+  R G 0 811 0
+  R G 0 821 0
+S
+#848
+The Ruby Blade Tavern~
+~
+Several round tables made out of empty beer barrels are spread throughout 
+the tavern. The floor and walls are made out of wood. For light there is a 
+huge fireplace is burning in the west corner of the room as as well as the 
+several oil lamps hanging on the walls. 
+ 
+This tavern is famous for its hot buttered rum, served in a wooden pitcher with a hot slug of metal dropped in the pitcher.
+~
+1 33554444 0
+D1
+~
+~
+0 0 831
+R M 0 811 1 848
+  R G 0 862 0
+  R G 0 807 0
+  R G 0 837 0
+S
+#849
+Calontir Training Grounds~
+~
+Two training poles rest in the middle of the room. There are piles of wooden 
+weapons and rusty armor piled along the walls for training. The floor is 
+plain dirt and the walls are painted white but have been stained buy dirt 
+over time. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 823
+R M 0 801 1 849
+S
+#850
+Temple of Seandac~
+~
+A large statue of Seandac stands in the middle of the room. It is almost as 
+high as the ceiling. There is a marble bench at the base of the statue for 
+kneeling. Two small braziers are burning on either side of the statue. The 
+floor is made out of wood and the walls are alabaster white. There is faint 
+scent of lavender in the air. 
+~
+1 0 0
+D2
+~
+~
+0 0 813
+R M 0 802 1 850
+  R G 0 819 0
+R O 0 7560 0 850
+S
+#851
+Calontir Apothecary~
+~
+The walls of this building are painted in a sage green color and there is a 
+worn tan colored rug covering a wooden floor. There is a light odor in the 
+air coming from the many different types of potions brewing. In the far 
+western corner of the building is a large brazier lighting the room. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 819
+R M 0 805 1 851
+  R G 0 823 0
+  R G 0 824 0
+  R G 0 825 0
+  R G 0 827 0
+  R G 0 828 0
+S
+#852
+Calontir Clothing~
+~
+Several racks of various clothing are throughout the store. The floor is 
+made out of hard wood and the walls are painted a light red, almost pink 
+color. Several oil lamps hang high up on the walls for light. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 827
+R M 0 803 1 852
+  R G 0 817 0
+  R G 0 809 0
+  R G 0 838 0
+  R G 0 840 0
+  R G 0 839 0
+  R G 0 818 0
+S
+#853
+Calontir Jewelry~
+~
+The floor is made out of hard wood and the walls are painted a light beige 
+color. Several oil lamps hang high up on the walls for light. There are 
+enclosed cabinets lining the walls filled with different kinds of jewelry 
+and there is a small work table in the rear of the building. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 826
+R M 0 804 1 853
+  R G 0 816 0
+  R G 0 841 0
+  R G 0 842 0
+  R G 0 844 0
+  R G 0 845 0
+  R G 0 860 0
+S
+#854
+Calontir Bank~
+~
+There are no windows at all in this building. The walls are painted plain 
+tan and the floor is made out of wood. Two small lamps hanging on the wall 
+light the room. There is only a tall counter standing in the middle of the 
+room separating you from the rear of the building. 
+~
+1 33554504 0
+D2
+~
+~
+0 0 806
+R M 0 800 1 854
+S
+#855
+Mayor's Office~
+~
+There is a large open window on every wall of this office. The walls are 
+painted a soft blue and there is a plush beige carpet covering the floor 
+that looks barely walked on. Several fancy oil lamps are hanging on the 
+walls to light the room. 
+~
+1 33554444 0
+D2
+~
+~
+0 0 804
+R O 0 806 0 855
+S
+#856
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 857
+D2
+~
+~
+0 0 829
+D3
+~
+~
+0 0 864
+S
+#857
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D2
+~
+~
+0 0 856
+D3
+~
+~
+0 0 865
+D6
+~
+~
+0 0 858
+S
+#858
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D1
+~
+~
+0 0 859
+D8
+~
+~
+0 0 857
+S
+#859
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D1
+~
+~
+0 0 860
+D3
+~
+~
+0 0 858
+S
+#860
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D3
+~
+~
+0 0 859
+D6
+~
+~
+0 0 861
+S
+#861
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D1
+~
+~
+0 0 862
+D8
+~
+~
+0 0 860
+S
+#862
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D3
+~
+~
+0 0 861
+D7
+~
+~
+0 0 863
+S
+#863
+Small Stream~
+~
+A small stream runs slowly and quietly from the pond to the east going in a 
+westward direction. There are fish swimming up and down the creek. Tall 
+trees hang over the stream shading it in the daylight. It is quit peaceful 
+here. 
+~
+1 0 6
+D1
+~
+~
+0 0 840
+D9
+~
+~
+0 0 862
+S
+#864
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D0
+~
+~
+0 0 865
+D1
+~
+~
+0 0 856
+S
+#865
+Small Pond~
+~
+You are on a small pond. The water gently laps around you. You can see fish 
+of all kinds swimming just under the surface out of your reach. A fishing 
+pole would be nice right now. 
+~
+1 0 6
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 864
+S
+#866
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum resting in the far corner of the cemetery. 
+~
+1 4194304 2
+D1
+~
+~
+0 0 816
+D2
+~
+~
+0 0 871
+D3
+~
+~
+0 0 867
+S
+#867
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum resting in the far corner of the cemetery. 
+~
+1 4194304 2
+D1
+~
+~
+0 0 866
+D2
+~
+~
+0 0 870
+D3
+~
+~
+0 0 868
+R O 0 808 0 867
+R O 0 820 0 867
+S
+#868
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum resting in the far corner of the cemetery. 
+~
+1 4194304 2
+D1
+~
+~
+0 0 867
+D2
+~
+~
+0 0 869
+S
+#869
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum here. 
+~
+1 4194304 2
+D0
+~
+~
+0 0 868
+D1
+~
+~
+0 0 870
+S
+#870
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum resting in the far corner of the cemetery. 
+~
+1 4194304 2
+D0
+~
+~
+0 0 867
+D1
+~
+~
+0 0 871
+D3
+~
+~
+0 0 869
+S
+#871
+Calontir Cemetery~
+~
+This is a small and well kept cemetery. There are only about a dozen or so 
+graves here. The tombstones are all exactly alike and made out of white 
+granite. The grass is cut neatly with flowers blooming on each grave. There 
+is a huge mausoleum resting in the far corner of the cemetery. 
+~
+1 4194304 2
+D0
+~
+~
+0 0 866
+D3
+~
+~
+0 0 870
+S
+#872
+Tyra's Tea Room~
+~
+The walls are painted a soft rose color and the floor is covered in a 
+darkened hardwood. The only light in the room is coming from the open 
+windows and the lanterns resting on each table. The atmosphere in here is 
+very calming and pleasant. 
+~
+1 33554444 0
+D1
+~
+~
+0 0 818
+R O 0 829 0 872
+R M 0 812 1 872
+  R G 0 826 0
+  R G 0 830 0
+S
+#873
+Calontir Jail~
+~
+You are in the town's small prison.  The building itself is quite sturdy, 
+with thick stone walls and iron bars on the windows.  A few desks covered 
+with paperwork are here, and some cramped cells are around the main room.  
+An exit to the street is east. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 801
+D3
+~
+door~
+33 836 874
+S
+#874
+Jail Cell~
+~
+This prison cell is small, but clean.  The exit is through a thick wooden 
+door to the east, in which is set a small barred window.  A pile of straw 
+and coarse blanket serves as bedding, and there is a tin chamber pot. 
+~
+1 33554440 0
+D1
+~
+~
+33 836 873
+R O 0 834 0 874
+R O 0 835 0 874
+R M 0 814 1 874
+S
+#875
+Base of a huge tree~
+~
+The walkway here is paved with thousands of stones of different sizes 
+keeping it from getting muddy in the rain. There are all different types of 
+flowers and shrubs growing at the base of the tree. There is a small pond to 
+your north. You can hear water trickling over stones off in the distance. 
+ 
+`#`gThere is a staircase here leading up to a large home built in the limbs of the tree.`^
+~
+1 0 1
+D1
+~
+~
+0 0 829
+S
+#876
+Pickles and Ice Cream ~
+~
+The room is painted in pastel colors with pictures of balloons and blocks 
+decorating the walls. There is a large light hanging down from the middle of 
+the ceiling in the shape of a stork. The wooden floors are neatly swept. 
+~
+1 0 0
+D3
+~
+~
+0 0 827
+R M 0 815 1 876
+  R G 0 846 0
+  R G 0 850 0
+  R G 0 849 0
+  R G 0 847 0
+  R G 0 848 0
+  R G 0 853 0
+  R G 0 854 0
+  R G 0 856 0
+  R G 0 855 0
+  R G 0 857 0
+  R G 0 858 0
+  R G 0 861 0
+S
+#877
+Calontir Pigeon Courier~
+~
+Several cages with pigeons line the north wall, and letters are held in 
+small shelves along the south wall. For all the birds here, it appears to be 
+clean and tidy. To send a letter, type SENDLETTER. 
+~
+1 33554444 0
+D1
+~
+~
+0 0 807
+R M 0 816 1 877
+  R G 0 852 0
+S
+#878
+Calontir Gifts~
+~
+Rows and rows of flowers line the walls here as well as racks of gifts for 
+all occasions. There is a window on all 4 walls letting in plenty of light 
+and a  large door to the east. The floor is made of hardwood. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 808
+R M 0 817 1 878
+  R G 0 866 0
+  R G 0 865 0
+  R G 0 864 0
+  R G 0 863 0
+  R G 0 2570 0
+  R G 0 597 0
+  R G 0 547 0
+  R G 0 545 0
+  R G 0 544 0
+  R G 0 543 0
+  R G 0 542 0
+  R G 0 867 0
+S
+#879
+Mountain Street~
+~
+Buildings of all kinds line the street. Town folks can be seen shuffling 
+about town at almost any hour of the day or night. The walkway is paved with 
+thousands of stones of different sizes keeping it from getting muddy in the 
+rain. Many kinds of flowers and shrubberies are planted along the edge of 
+the walkway. This town is well kept. 
+~
+1 0 1
+D0
+~
+~
+0 0 1520
+D2
+~
+~
+0 0 825
+S
+#880
+Calontir Music~
+~
+The noise when you walk into this room is almost unbearable. There are 
+tables and tables of all kinds of intruments all over the store. It makes 
+the store look slightly junky. If you could see the floor from all the 
+instruments, it would be red carpet. 
+~
+1 33554444 0
+D3
+~
+~
+0 0 816
+R M 0 818 1 880
+  R G 0 868 0
+  R G 0 869 0
+  R G 0 871 0
+  R G 0 870 0
+S
+#0
+
+
+#SHOPS
+ 802    0  0  0  0  0   105 100         0 23    ; the priest
+ 803   11 33  0  0  0   105 100         0 23    ; a short plump female malkatar
+ 804   33 32  8 30  0   105 100         0 23    ; a thin, attractive female malkatar
+ 805    2 10 26  4  3   105 100         0 23    ; an attractive female malkatar
+ 806   19 17  0  0  0   105 100         0 23    ; a short male malkatar
+ 807    5  9  0  0  0   105 100         0 23    ; a muscular male malkatar
+ 811   19 17  0  0  0   105 100         0 23    ; a short male malkatar
+ 812   17 19  0  0  0   105 100         0 23    ; a curvy female malkatar
+ 815    0  0  0  0  0   100  50         0 23    ; an attractive female malkatar
+ 816   14  0  0  0  0   100  50         0 23    ; a short plump female malkatar
+ 817    0  0  0  0  0   105 100         0 23    ; a short plump female malkatar
+ 818    0  0  0  0  0   100  50         0 23    ; a tall dagorst male
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

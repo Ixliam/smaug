@@ -1,0 +1,399 @@
+#AREA        Death~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#10396
+assad executioner~
+`#`RAssad the `RExecutioner`^~
+The executioner stands ready to take your head.
+~
+Assad stands almost 7' tall with his face covered with an executioners 
+hood.  Black robes cover his muscular body, and the stench of death is 
+around him.  In several places on his robes are the stains of old blood.  
+His sharpened axe has many notches on the handle, probably from the number 
+of victims he has found.  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+125 0 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10397
+knight~
+`#a `YKnight`^~
+A Knight is here, protecting his master.
+~
+The Knight is covered in plate armor from head to toe.  He is loyal to his 
+master and will protect them at all cost.  
+~
+0
+Clanname none~
+0
+0
+1 262144 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10398
+death grim reaper~
+`#`SDeath`^~
+Death stands here, ready to send you to meet your maker.
+~
+Death is covered in long flowing black robes.  A skeletal hand wields a 
+scythe and you notice a skull inside his hood with burning bright red eyes.  
+
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#10399
+assad executioner~
+`#`RAssad the `RExecutioner`^~
+The executioner stands ready to take your head.
+~
+Assad stands almost 7' tall with his face covered with an executioners 
+hood.  Black robes cover his muscular body, and the stench of death is 
+around him.  In several places on his robes are the stains of old blood.  
+His sharpened axe has many notches on the handle, probably from the number 
+of victims he has found.  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+125 0 -95 13d16+605 13d17+80
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#10395
+avoid_death_token~
+avoid_death_token~
+Avoid_death_token~
+~
+35 128 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10396
+throne card~
+`#a `YThrone `YCard`^~
+A throne card from the deck of fate lies here.~
+~
+8 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+10396 throne card~
+Go to a high level immortal for redemption of this.  You will be required to 
+download the Offline OLC building software and create your castle.  You are 
+allowed 10 rooms and any non-removeable objects you see fit to place in 
+them.  The builder guide will help you, but the best guide is the websites 
+below.  To download the OLC software, go to the WOTL website.  
+ 
+WOTL Website: http://www.wotl.org
+OLC: Down & Dirty in the Mud:  http://www.mageslair.net/builder/index.html
+~
+#10397
+prison pardon card~
+a prison pardon card~
+A prison pardon card is here.~
+~
+32 128 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+10397 prison pardon~
+This card will allow you to not be jailed if you are arrested or thrown in 
+prison for some reason.  You will automatically be released and pardoned.  
+~
+#10398
+death scythe~
+`#`wThe `SS`Wc`Sy`Wt`Sh`We `wof `SD`We`Sa`Wt`Sh`^~
+Ixliam's scythe is lying here.~
+~
+5 16 4
+10 127 169 14494 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#10395
+Quiet corner~
+~
+This is the southeasternmost corner of the temple.  Rather plain
+compared to the throne room to the north, this small nook is rather sparcely
+furnished.  Only a squat marble pedestal stands here.  
+~
+1 310910985 0
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2518
+D4
+~
+~
+0 0 2518
+D5
+~
+~
+0 0 2518
+S
+#10396
+At the Chopping Block~
+~
+Blood covers the ground as you are brought before the executioner.  A large 
+chopping block with iron shackles on it is here, waiting for the next 
+victim.  A large basket sits at one end of the block to catch your head as 
+it falls.  
+~
+1 977805324 0
+R M 0 10396 1 10396
+S
+#10397
+At Death's Door~
+~
+`#`R
+                ...
+              ;::::;
+            ;::::; :;
+          ;:::::'   :;
+         ;:::::;     ;.
+        ,:::::'       ;           OOO\
+        ::::::;       ;          OOOOO\
+        ;:::::;       ;         OOOOOOOO
+       ,;::::::;     ;'         / OOOOOOO
+     ;:::::::::'. ,,,;.        /  / DOOOOOO
+   .';:::::::::::::::::;,     /  /     DOOOO
+  ,::::::;::::::;;;;::::;,   /  /        DOOO
+ ;'::::::''::::::;;;::::: ,#/  /          DOOO
+ :':::::::';::::::;;::: ;::#  /            DOOO
+ ::':::::::';:::::::: ;::::# /              DOO
+ ':':::::::';:::::: ;::::::#/               DOO
+  :::':::::::';; ;:::::::::##                OO
+  ::::':::::::';::::::::;:::#                OO
+   ::::'::::::::::::;';::#                    O
+    ::::'::::::::;' /  / #
+`^
+Time to meet `YDEATH!!!`^
+~
+1 197664776 0
+D0
+~
+~
+0 0 10398
+D1
+~
+~
+0 0 10398
+D2
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10398
+D5
+~
+~
+0 0 10398
+S
+#10398
+At Death's Door~
+~
+`#`R
+                ...
+              ;::::;
+            ;::::; :;
+          ;:::::'   :;
+         ;:::::;     ;.
+        ,:::::'       ;           OOO\
+        ::::::;       ;          OOOOO\
+        ;:::::;       ;         OOOOOOOO
+       ,;::::::;     ;'         / OOOOOOO
+     ;:::::::::'. ,,,;.        /  / DOOOOOO
+   .';:::::::::::::::::;,     /  /     DOOOO
+  ,::::::;::::::;;;;::::;,   /  /        DOOO
+ ;'::::::''::::::;;;::::: ,#/  /          DOOO
+ :':::::::';::::::;;::: ;::#  /            DOOO
+ ::':::::::';:::::::: ;::::# /              DOO
+ ':':::::::';:::::: ;::::::#/               DOO
+  :::':::::::';; ;:::::::::##                OO
+  ::::':::::::';::::::::;:::#                OO
+   ::::'::::::::::::;';::#                    O
+    ::::'::::::::;' /  / #
+`^
+Time to meet `YDEATH!!!`^
+~
+1 986193928 0
+D0
+~
+~
+0 0 10398
+D1
+~
+~
+0 0 10398
+D2
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10398
+D6
+~
+~
+0 0 10398
+D7
+~
+~
+0 0 10398
+D8
+~
+~
+0 0 10398
+D9
+~
+~
+0 0 10398
+R M 0 10398 1 10398
+  R E 0 10398 0 16
+S
+#10399
+At the Chopping Block~
+~
+Blood covers the ground as you are brought before the executioner.  A large 
+chopping block with iron shackles on it is here, waiting for the next 
+victim.  A large basket sits at one end of the block to catch your head as 
+it falls.  
+~
+1 986456076 0
+R M 0 10399 1 10399
+  R E 0 2024 0 16
+S
+#10400
+Prisoner Belonging Storage Room~
+~
+This room is where all the prisoner's gear are stored in bags.  Do not 
+change or adjust.  
+~
+1 675848204 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

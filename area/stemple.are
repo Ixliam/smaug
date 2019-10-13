@@ -1,0 +1,1083 @@
+#AREA        Temple of Enochalile~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#62300
+ghost massive silver frost dragon morliana~
+a `#`Ws`Xi`Wl`Xv`We`Xr`^ frost-dragon~
+A massive `#`Ws`Xi`Wl`Xv`We`Xr`^ female frost-dragon stands here and glares at you.
+~
+Towering above you at about eighty feet in height is a massive frost dragon 
+gleaming with glittering silver scales. Her misty form is ice cold and soft 
+to the touch. She has a narrow, delicate looking face that holds two soft 
+eyes of a dazzling blue when seen. Her neck is long and slim. Her body is 
+sleek but firm. Her tail is twice the length of her long body. Behind her 
+are two large silvery wings of what appears to be starlight in it's ghostly 
+form. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+101 0 -71 10d14+490 11d12+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62301
+paranoid thief~
+a paranoid thief~
+A paranoid thief thinks you are going to steal his treasures.
+~
+This thief is extremely paranoid. He sees you and thinks you are trying to 
+steal from his treasure chest and attacks! 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+90 0 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62302
+wandering angel~
+a wandering angel~
+A wandering angel walks right past you talking to himself.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+98 0 -68 10d13+470 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62303
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62304
+golden protector fire dragon~
+the `#`YG`yo`Wld`ye`Yn`^ Protector~
+The Golden Protector stands here proudly.
+~
+This large gold dragon is one of the protectors of the sacred chamber. His 
+scales are a solid gold with flecks of topaz gleaming on them. His eyes, 
+when open, are a deep blue. He wields a weapon that has brought his wraith 
+upon all that attack him. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+100 50 -68 10d13+470 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62305
+bronze protector lightning dragon~
+the `#`yBr`xon`yze`^ Protector~
+The Bronze Protector stands here quietly by himself.
+~
+This large bronze dragon was choosen as a protector for his strength, 
+courage, and commitment. His shiny bronze scales have flecks of rubies on 
+them. His eyes, when open, are a dark green. He wields the weapon of a great 
+cleric. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+100 50 -68 10d13+470 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62306
+copper protector acid dragon~
+the `#`yCo`Ypp`yer`^ Protector~
+The Copper Protector stands here looking about angrily.
+~
+This large copper dragon stands here before you. His scales are made from 
+copper, and his eyes are a deep coal black. He attacks you for entering into 
+his chamber. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+100 50 -68 10d13+470 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62307
+silver dragon protector cold ice~
+the `#`SS`wi`Wlv`we`Sr`^ Protector~
+The Silver Protector stands here calmly before you.
+~
+A large silver dragon stands here calmly before you. His scales are made of 
+a pure silver, with flecks of sapphire all across his body. He wears the 
+ring of the pure of heart. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+100 50 -68 10d13+470 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62308
+orifiel angel keeper protector strong~
+orifiel~
+Orifiel, the Keeper of the Sacred Chamber, stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+115 0 -87 12d15+565 12d15+72
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62309
+demon rosaline taint ghost~
+the taint of Rosaline~
+This large female ghost glares at you, and suddenly you want to return home to mommy.
+~
+A demonic woman is here with long, flowing raven-black hair. Her hair 
+cascades down her back in soft waves, shimmering with health in the light. 
+Set upon her face are two almond shaped eyes, a nicely set nose and sly 
+looking lips. Her face is setup softly with her high cheekbones, making it 
+quite easy on the eyes.  Her lips are a fierce blood red, her eyes lined in 
+black, defining them both in a complimenting way. When seen within her mouth 
+are fanged humanoid teeth. Within her eyes are two orbs of a greenish yellow 
+hue, standing out even more so with the black liner. Making her eyes almost 
+glow like greenish fire. They glow eerily and even as shadows pass over 
+them, their brilliance never falters or fades. Her bodily frame is dainty, 
+but still looks like it could handle a great deal of physical wear.  She is 
+slightly muscular but only in a complimenting way.  Her body is pieced 
+together generously with a supple torso, a slim waist and lusciously rounded 
+hips.  Her strong thighs help keep her posture elegant and graceful in all 
+she does. Behind her trails a very long, prehensile tail.  She only stands 
+at about 5'5''. Upon her back are massive raven-feathered wings. Spread 
+completely, each wing has a span of 18 ft. and remains glossy as a raven or 
+crow's with good health. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+115 50 -88 12d15+575 12d15+73
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62310
+menacing imp~
+a menacing imp~
+A short menacing male imp stares at you icily.
+~
+A short menacing male imp stares at you icily. His skin is a burnt red and 
+smolders as he moves about. He's dragging about a sword, and he can't quite 
+seem to keep it up. 
+~
+0
+Clanname none~
+0
+0
+65 32768 -600 C
+100 10 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62311
+guardian temple maze golem~
+a temple guardian~
+A large temple guardian wanders the halls of the maze.
+~
+A large temple guardian wanders these halls. This large golem wanders about 
+aimlessly trying to prevent someone from finding the Sacred Chamber. He is 
+quite large and well made. I don't think it would be a good idea to stand in 
+his way too long. 
+~
+0
+Clanname none~
+0
+0
+65 32768 600 C
+95 20 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62320
+unseen stripper~
+unseen_token_stripper~
+(unseen_token_stripper)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62321
+mihazael angel guardian~
+`#`xMihazael, the guardian`^~
+Mihazael, the guardian of Seandac, stands here proudly.
+~
+Mihazael stands here proudly before you. His hair is a silky blonde, and his 
+eyes when open are a soft blue. His robe is pure white. He spent years 
+serving under Seandac in his army. He slayed many, but now has retired to 
+protect Seandac himself. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+110 25 -75 11d14+505 11d13+59
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62322
+priest cleric kreav~
+a priest of `#`YKreav`^~
+A priest of Kreav is here, with a stern yet sympathetic look on his face.
+~
+A stout young man, he wears a yellow and black robe. 
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#62300
+shimmering blue portal~
+a shimmering blue portal~
+A shimmering blue portal is here tempting you to enter.~
+~
+29 1 16
+4096 1 62400 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62301
+angelic finger sheathe~
+an `#`CA`Xn`Cg`Xe`Cl`Xi`Cc`^ finger sheathe~
+An `#`CA`Xn`Cg`Xe`Cl`Xi`Cc`^ finger sheathe lays here.~
+~
+9 256 8
+60 60 7 0 0 0 0
+1 1342 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62301 angelic finger sheathe~
+An angelic finger sheathe lays here. As you look at it longer you notice 
+that a soft blue aura glows from it. It covers the entire length of your 
+finger with hinges at each of the joints of your finger. It's made of a 
+pearlescent material similar to that of ebony. 
+~
+#62302
+fist heavens mace~
+`#`sF`xi`ss`xt of the `CH`ce`sa`xv`se`cn`Cs`^~
+A large almost fist like mace lays here.~
+~
+5 256 4
+13 127 169 2112 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62302 fist heavens mace~
+A large fist like mace lays here. It glows with a soft blue aura, almost 
+straight from the heavens. It's made from a substance that has never been 
+seen in this realm. 
+~
+#62303
+shimmering red portal~
+a shimmering red portal~
+A shimmering `#`Rr`re`Rd`^ portal is here enticing you to enter.~
+~
+29 16 16
+0 0 62407 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62303 shimmering red portal~
+A shimmering `#`Rr`re`Rd`^ portal is here enticing you to enter. As you peer deep 
+inside, you can almost see what looks like a burial chamber. 
+~
+#62304
+massive two-handed sword~
+a massive two-handed sword~
+A massive two-handed sword lays here.~
+~
+5 16 4
+9 127 169 32 0 0 0
+1 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62304 massive two-handed sword~
+A massive two-handed sword lays here. It's typically used by the damned. 
+Most aren't strong enough to wield it and use it properly. 
+~
+#62305
+small dilapidated treasure chest~
+a small dilapidated treasure chest~
+A small dilapidated treasure chest is here.~
+~
+15 0 8
+7 0 5 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62305 small dilapidated treasure chest~
+A small dilapidated treasure chest is here. It looks like it hasn't been 
+opened in a very long time. Do you dare open it? 
+~
+#62306
+small marble key~
+a small marble key~
+A small marble key has fallen here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62306 small marble key~
+A small marble key is here. It's old and dusty. Doesn't look like it's of 
+much importance. 
+~
+#62307
+pile gold~
+a pile of `#`Ygold`^~
+A good sized pile of gold is here.~
+~
+20 0 16
+50 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62308
+shimmering red portal~
+a shimmering red portal~
+A shimmering `#`Rr`re`Rd`^ portal is here enticing you to enter.~
+~
+29 16 16
+0 0 62327 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62308 shimmering red portal~
+A shimmering `#`Rr`re`Rd`^ portal is here enticing you to enter. As you peer deep 
+inside, you can almost see what looks like a burial chamber. 
+~
+#62309
+heavenly dirk glimmer dagger~
+a `#`WH`ce`Ca`xve`Cn`cl`Wy D`ci`Cr`Wk`^~
+A faint glimmer in the shape of a small dagger catches your eye.~
+~
+5 256 4
+17 116 152 4098 0 0 0
+1 4992 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62309 heavenly dagger glimmer dirk~
+A faint glimmer in the shape of a small dagger catches your eye. As you 
+examine it closer you can see a heavenly aura glows from it. As you wrap 
+your hand around it, your hand turns wickedly cold. 
+~
+#62310
+musty potion snake essence eyes nature wind shield~
+a musty potion~
+An old musty potion lays here, gathering dust.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#62311
+no name 62311~
+(no short description 62311)~
+(no description 62311)~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 460 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#62312
+silver dragonscale bracer~
+a `#`Ws`xilver `Wd`xragonscale `Wb`xracer`^~
+A silver dragonscale bracer lays here, glimmering a brilliant silver.~
+~
+9 0 8
+60 60 10 0 0 0 0
+1 4050 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62313
+golden bracer~
+a `#`Yg`yo`Yl`yd`Ye`yn `Yb`yrace`Yr`^~
+A shining golden bracer lays here.~
+~
+9 0 8
+10 11 7 0 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62313 shining golden bracer~
+A bright golden bracer is here. It glows with a holy aura. It radiates with a strong feeling of strength and power.
+~
+#62314
+no name 62314~
+(no short description 62314)~
+(no description 62314)~
+~
+9 256 8
+19 20 15 0 0 0 0
+3 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62315
+shadow crystal stud earring~
+a `#`Ss`xh`Wad`xo`Sw crystal `Ws`Xt`Wu`Xd`^~
+A shadow crystal stud lays here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62316
+no name 62316~
+(no short description 62316)~
+(no description 62316)~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62317
+part1 token_temple~
+token_temple_part1~
+(no description 62317)~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62318
+part2 token_temple~
+token_temple_part2~
+(no description 62318)~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62319
+part3 token_temple~
+token_temple_part3~
+(no description 62319)~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62320
+part4 token_temple~
+token_temple_part4~
+(no description 62320)~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62321
+piece1 half gold setting right~
+half of a `#`Yg`yo`Yl`yd `Wset`yti`Yng`^~
+The right-half of a gold setting used for surrounding a jewel of some sort.~
+~
+46 0 32
+62321 62325 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62322
+piece2 half gold setting left~
+half of a `#`Yg`yo`Yl`yd `Yse`ytt`Wing`^~
+The left-half of a gold setting that is used for surrounding a jewel of some sort.~
+~
+46 0 32
+62321 62325 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62323
+piece3 half tanzanite stone right~
+half of a `#`Mtan`mza`bni`Bte`^ stone~
+The shine of this stone half catches your eye. It's blue colour which shimmers in a slightly purplish hue is magnificient indeed.~
+~
+46 0 32
+62323 62326 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62324
+piece4 tanzanite left half stone~
+half of a `#`Bta`bnz`man`Mite`^ stone~
+The shine of this stone half catches your eye. It's blue colour which shimmers in a slightly purplish hue is magnificient indeed.~
+~
+46 0 32
+62323 62326 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62325
+half1 gold setting shines~
+a `#`Yg`yo`Yl`yd `Ys`ye`Wtti`yn`Yg`^~
+This gold setting is ready to have a jewel combined with it.~
+~
+46 0 32
+62325 62327 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62326
+half2 tanzanite stone whole~
+a `#`Bt`ba`mn`Mzan`mi`bt`Be`^ stone~
+The shine of this stone catches your eye. It's blue colour which shimmers in a slightly purplish hue is magnificient indeed.~
+~
+46 0 32
+62325 62327 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62327
+tanzanite jewel gold setting~
+a `#`Bt`ba`mn`Mzan`mi`bt`Be `Yj`ye`Ww`ye`Yl`^~
+A blue jewel with a purplish hue catches your eye.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62327 tanzanite jewel gold setting~
+This jewel is very rare indeed. The blue colour of this jewel shines with a 
+purplish hue. The energy radiates from it. The combination of this jewel and 
+it's setting is quite awe inspiring. 
+~
+#62328
+altar seandac~
+an altar of seandac~
+An `#`Saltar`^ of `#`CS`ce`xa`Wn`xd`ca`Cc`^.~
+~
+12 1 8
+5000 196608 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62329
+column niche~
+a tall column~
+~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62329 column niche~
+A small niche has been formed by a crack in one of the columns. 
+~
+#62330
+a tanzanite pendant~
+a `#`Bt`ba`mn`Mzan`mi`bt`Be `Yp`ye`Wn`xd`Wa`yn`Yt`^~
+A pendant made from a blue stone lays here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62330 tanzanite pendant stone blue necklace~
+A pendant made from a blue stone lays here. The stone is a deep blue colour 
+with a purplish hue. The stone is set in a gold setting and hung from a 
+solid gold chain. A small symbol is engraved on the front of the gem. It 
+appears to be a broken sword. 
+~
+#62331
+demon hide fullplate plate~
+a set of `#`Rd`re`Sm`xo`Sn`xh`Si`rd`Re`^ fullplate~
+This hide of a demon has been worked into a set of fullplate.~
+~
+9 64 8
+60 60 23 0 0 0 0
+3 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+62331 demon hide fullplate plate~
+This demonhide has been worked into an insanely strong set of fullplate 
+armor. The instant you wear this armor it links with your very soul. 
+~
+#62332
+brilliant mithril armor~
+brilliant mithril armor~
+(no description 62332)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62333
+brilliant breastplate sunlight~
+a brilliant `#`Xb`Sre`Was`Xtp`Wla`St`Xe`^ of `#`ys`Yu`yn`Yl`yi`Wg`yh`Yt`^~
+A brilliant breastplate of sunlight gleams here.~
+~
+9 256 8
+60 60 23 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62334
+key flaming cobra~
+a cobra entwining a flaming key~
+A small key lays here burning, it seems a small cobra has wrapped around it.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62335
+dagger twisted demon horn flame silver~
+a `#`st`ww`Wist`we`sd `Rd`remon `Rh`rorn`^~
+A twisted demon horn immolated in silvery flames lays here.~
+~
+5 16 4
+14 116 152 384 0 0 0
+1 4992 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#62464
+Chamber of Acid~
+~
+As you look around this room you see beautiful marble walls. Upon closer 
+inspection you notice that the walls are pitted and etched from a strong 
+acid. In the center of the room is a proud protector of the sacred chamber. 
+~
+1 37756940 0
+R M 0 62306 1 62464
+  R E 0 62315 0 27
+S
+#62465
+Chamber of Lightning~
+~
+As you look around you can see that the walls are made from a beautiful 
+marble. As you look across the floor you notice some iron embedded into the 
+floor. In the center of the room is a proud protector of the sacred chamber. 
+
+~
+1 37756940 0
+R M 0 62305 1 62465
+  R E 0 62302 0 16
+S
+#62466
+Chamber of Ice~
+~
+As you enter into this room you are overcome by a sharp chill. The walls are 
+covered in ice. The ice flows smoothly down the walls and across the floor. 
+In the center of the room stands a proud protector of the sacred chamber. 
+~
+1 37756940 0
+R M 0 62307 1 62466
+  R E 0 62301 0 2
+S
+#62467
+Chamber of Fire~
+~
+As you enter into the room you can see that the walls are made of a 
+beautiful marble. Upon closer inspection you can see that the marble has 
+been severly scorched. In the center of the room stands a proud protector of 
+the sacred chamber. 
+~
+1 37756940 0
+R M 0 62304 1 62467
+  R E 0 62333 0 5
+S
+#62468
+The Chamber of Silence~
+~
+You climb up into the peak of the temple. The room is filled with a feeling 
+of serenity. Candles are lit following a red carpet that leads to an altar. 
+Candles float in two large basins on opposing sides of the altar. A large 
+white shield with two black swords across the front of it hang above the 
+altar. White curtains with black tassels hang from the marble walls. 
+~
+1 37748748 0
+R O 0 62328 0 62468
+R M 0 62320 1 62468
+E
+shield tassels swords~
+A large white shield hangs here. Two large, black broadswords hang across 
+the front of it. The edge of the shield has an intricate gold inlay. 
+~
+S
+#62469
+The Sacred Chamber~
+~
+You enter into a large room. The tip of this room comes to a point because 
+you are at the top of the temple. Four large windows allow you to see the 
+entire valley. Two large banners flow down the far wall. A large desk sits 
+between the two banners. 
+~
+1 33554444 0
+R M 0 62321 1 62469
+  R E 0 62330 0 3
+  R E 0 62334 0 17
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

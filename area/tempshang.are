@@ -1,0 +1,345 @@
+#AREA        Temple of Graal~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#7540
+grove lime trees~
+a `#`Glime`^ tree~
+A small grove of lime trees is growing here.~
+~
+15 0 8
+0 0 200 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7541
+giant lime~
+a giant `#`Glime`^~
+A giant lime has been dropped here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7542
+wooden bench~
+a wooden bench~
+A comfortable-looking wooden bench is here.~
+~
+12 0 8
+6000 8455314 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#7545
+altar~
+an altar to `#`SGraal`^~
+An altar to `#`SGraal`^ is here.~
+~
+12 1 8
+1000 196608 150 150 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#7540
+A Vaulted Foyer~
+~
+The antechamber of this temple is adorned with grand white marble and green 
+malachite carvings to either side of the room.  The still figures of unknown 
+scholars and sages with arms reaching skyward support the thirty-foot tall 
+ceiling.  Each of the statues wears a giant glowing amulet of Graal 
+around it's neck, providing adequate lighting for this grand chamber.  
+~
+1 33554440 0
+D1
+~
+door~
+1 0 7549
+D9
+~
+~
+0 0 7541
+S
+#7541
+The Gallery - South Wing~
+~
+Many fine works of art decorate the western wall of this 
+contrastingly-starke gallery.  Items on display range from exotic tapestries 
+to masterfully-worked bronze busts.  One item stands out above all the 
+others here, a simple painting which sits upon a four-foot-tall lapis 
+column.  The gallery continues northward.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 7542
+D7
+~
+~
+0 0 7540
+R O 0 7542 0 7541
+E
+lapis column~
+This dark-blue stone column serves to display a simple painted picture.  
+It's surface is smooth and highly polished, giving it an almost-reflective 
+shine.  
+~
+E
+painting ~
+This still-life, "Acorns upon Stone", was painted by an amateur hand.  There 
+is a large glob of cobalt paint upon one corner of the canvas which covers 
+up most of a signature.  You can only make out "Chr.........  Rks".  
+~
+S
+#7542
+The Gallery - North Wing~
+~
+Displayed items within this section of the gallery include those of arcane 
+nature.  Within the center of the room is a large pool of liquid.  High 
+above this pool many scintillating, prismatic shards of crystal levitate 
+mysteriously.  Upon a stand along the east wall, a dragon-shaped ice 
+sculpture remains unharmed by a blazing shroud of magical flames.  More 
+items are on display in the south wing of the gallery as well.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 7541
+D6
+~
+~
+0 0 7543
+R O 0 7542 0 7542
+E
+blazing shroud magical flames~
+The blue-red flames of this magical vestment appear to make the ice dragon 
+writhe in pain.  Even so, there is no trace of melting ice to be seen 
+anywhere.  
+~
+E
+ice dragon sculpture~
+There is no evidence of melting ice to be seen from this exquisite dragon.  
+The crystal-clear sculpture appears to writhe in pain from the heat of fire 
+around it.  
+~
+E
+pool liquid~
+The liquid contained within this pool is being set ablaze with an entrancing 
+shower of lights.  The rainbow-hued affects are being created by small 
+crystals hovering above the surface of the pool.  
+~
+E
+prismatic shards crystal~
+These small shards of crystal send out rainbows of light across the surface 
+of the pool below, creating a hypnotic display.  
+~
+S
+#7543
+Stained-Glass Hallway~
+~
+Both walls of this long hallway are lined with vivid stained-glass windows.  
+Scenes of sunsets, clouds, and starry skies give the area a very somber 
+feeling.  Some of the fifty windows depict the tell-tale funnel of a tornado 
+descending from the base of a massive cloud.  A great many more of the 
+glassworks have been constructed into the presentation of a voluminous tome. 
+ A large dias stands at the far east end of this fused-silica passage.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 7544
+D8
+~
+~
+0 0 7542
+S
+#7544
+Before the Dias~
+~
+A large stone dias rests here, to which is attached an engraved metal plate. 
+ A long flight of stairs begins to wind it's way around the inside of this 
+towering spire.  You can't even see the ceiling from down here!  A corridor 
+lined with stained-glass lies to the west of here.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 7543
+D4
+~
+~
+0 0 7545
+E
+dias metal plate~
+The metal plate which has been affixed to the front of the dias is engraved 
+with a message.  
+"Three-Thousand Steps will take you there."
+~
+S
+#7545
+Taking Three-Thousand Steps~
+~
+This section of the spiral walkway is quite near the bottom of the spire.  
+The shallowness of the steps makes for a very long journey indeed.  Below 
+you can see the form of a stone dias resting upon the floor.  You cannot see 
+the ceiling from this point of the journey.  
+~
+1 33554440 0
+D4
+~
+~
+0 0 7546
+D5
+~
+~
+0 0 7544
+S
+#7546
+Taking Three-Thousand Steps~
+~
+This is about midway between the base and top of the spire, or so it should 
+seem.  You cannot see the floor or the ceiling from here.  Good thing there 
+is a railing to hold onto.  Up or down, there is a good amount of travel in 
+either direction to get off of the Steps.  
+~
+1 33554440 0
+D4
+~
+~
+0 0 7548
+D5
+~
+~
+0 0 7545
+S
+#7547
+Atop the Spire~
+~
+This lookout atop the Three-Thousand Steps is home to the shrine of Graal, 
+the Keeper of Tradition.  From atop this lofty perch is visable the sprawl 
+of Tulgard and the outlaying lands of the world.  
+~
+1 33554432 1
+D5
+~
+~
+0 0 7548
+R O 0 7545 0 7547
+S
+#7548
+Taking Three-Thousand Steps~
+~
+This portion of the Three-Thousand Steps is very near the top of the spire.  
+The ceiling is now within plain sight, but the floor remains unseen far 
+below you.  The steps lead through an opening in the ceiling and onto the 
+peak of the spire.  The downward spiral of the Steps will eventually lead to 
+the base of this skyward temple.  
+~
+1 33554440 0
+D4
+~
+~
+0 0 7547
+D5
+~
+~
+0 0 7546
+S
+#7549
+The Temple Courtyard~
+~
+You are before the entrance to the temple of Graal.  A cobblestone walk 
+leads westward to the tall doors of the temple foyer.  Well-tended groves of 
+fruit-bearing trees adorn the remainder of the fenced-in courtyard.  To the 
+east, an archway in the wrought-iron fence allows you to leave the temple 
+grounds.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 3097
+D3
+~
+door~
+1 0 7540
+R O 0 7540 0 7549
+  R P 0 7541 9 7540
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

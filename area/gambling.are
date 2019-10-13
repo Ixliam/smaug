@@ -1,0 +1,914 @@
+#AREA        Gambling Hall~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#15000
+dealer highdice dice~
+`#A card dealer~
+A dealer is here ready to play highdice.
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15001
+dice participant player~
+a dice player~
+A highdice participant shakes the dice in his hands.
+~
+This participant's eyes are darting from side to side as he judges his
+throw.  He has been playing this game for most of the night and hopes to
+recoup his losses.  
+~
+0
+Clanname none~
+0
+0
+129 8 -400 C
+6 0 4 2d5+5 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15002
+treasurer greedy man~
+the greedy treasurer~
+The greedy treasurer eyes a stack of coins.
+~
+This treasurer is making mountains of money by the second.  His plan
+to run a thriving business has succeeded ...  And how!  
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+12 0 0 2d5+50 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15003
+player highdice~
+a highdice player~
+This highdice player is pondering his next bet.
+~
+This player is hoping to win back his losses from the highdice dealers.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+9 0 2 2d5+18 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15004
+player chess participant~
+a tables player~
+This chess player sums up his winnings.
+~
+This player has been doing rather well considering he only just
+started playing the game.  Must be beginner's luck.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+2 0 8 1d5+3 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15005
+player slotmachineplayer participant~
+a slots player~
+This slot machine player ponders what to play next.
+~
+This participant likes playing the slots.  He has a tacky shirt on with gold 
+coins embroidered on it.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 6 2d5+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15006
+player raffle participant~
+a dice player~
+This raffles participant judges his throw carefully.
+~
+This dice game is played with three dice.  And this player has been
+winning all night.  He is wondering whether to continue playing or take
+his winnings home before he loses it all.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+3 0 7 2d4+1 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#15007
+onlooker~
+an onlooker~
+An interested onlooker watches the proceedings.
+~
+This onlooker watches the games with interest and wonders if she would
+be any good at any of them.  Unable to decide whether to take the plunge,
+she wavers indecisively.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+3 0 7 2d4+1 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#15001
+3-bar slotmachine~
+a 3-bar slotmachine~
+A 3-bar slot machine [1 Gold] is here.~
+~
+41 0 32
+50 3 50 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15002
+3-bar slotmachine~
+a 3-bar slotmachine~
+A 3-bar slot machine [5 Gold] is here.~
+~
+41 0 32
+88 3 250 500 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15003
+5-bar slotmachine~
+a 5-bar slot machine~
+A 5-bar slot machine [10 Gold] is here.~
+~
+41 0 32
+500 5 500 1000 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15004
+5-bar slotmachine~
+a 5-bar slot machine~
+A 5-bar slot machine [1 Gold] is here.~
+~
+41 0 32
+10 5 5000 50000 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#15000
+Entrance to Ye Olde Gambling Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  To the south
+lies the treasury and betting office and to the west, the familiar paving
+of Wall Road.  
+~
+1 8 0
+D0
+~
+~
+0 0 15001
+D1
+~
+~
+0 0 15007
+D2
+~
+~
+0 0 27086
+S
+#15001
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D0
+~
+~
+0 0 15002
+D1
+~
+~
+0 0 15006
+D2
+~
+~
+0 0 15000
+R O 0 15001 0 15001
+R M 0 15005 7 15001
+S
+#15002
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D1
+~
+~
+0 0 15005
+D2
+~
+~
+0 0 15001
+R O 0 15002 0 15002
+R M 0 15001 5 15002
+S
+#15003
+Betting Office~
+~
+This is the betting office.  The room is sparsely furnished with an
+old wooden desk, a couple of chairs and a large cupboard on the wall. 
+The cupboard is locked with a padlock.  The desk is covered with papers
+and there is also a quill and pot of ink to one side.  North leads to the
+entrance and south to the treasury.  
+~
+1 8 0
+D0
+~
+~
+0 0 15000
+D2
+~
+~
+0 0 15004
+R M 0 15002 1 15003
+S
+#15004
+The Treasury~
+~
+This is the place where all the gold, silver and other treasures are
+kept.  There is a locked cabinet at the far end of the room.  And the
+rest of the room is totally bare.  North leads back to the betting
+office.  
+~
+1 8 0
+D0
+~
+~
+0 0 15003
+R M 0 15005 7 15004
+S
+#15005
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D1
+~
+~
+0 0 15010
+D2
+~
+~
+0 0 15006
+D3
+~
+~
+0 0 15002
+R O 0 15003 0 15005
+S
+#15006
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D0
+~
+~
+0 0 15005
+D1
+~
+~
+0 0 15011
+D2
+~
+~
+0 0 15007
+D3
+~
+~
+0 0 15001
+R O 0 15004 0 15006
+R M 0 15003 7 15006
+S
+#15007
+Entrance Hallway to Ye Olde Gambling Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  Gambling is
+taking place in all corners of the room and the exit to the street lies
+to the west.  
+~
+1 8 0
+D0
+~
+~
+0 0 15006
+D1
+~
+~
+0 0 15012
+D2
+~
+~
+0 0 15008
+D3
+~
+~
+0 0 15000
+S
+#15008
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15007
+D1
+~
+~
+0 0 15013
+D2
+~
+~
+0 0 15009
+R M 0 15000 5 15008
+R M 0 15005 7 15008
+R M 0 15001 5 15008
+S
+#15009
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15008
+D1
+~
+~
+0 0 15014
+R M 0 15000 5 15009
+R M 0 15005 7 15009
+S
+#15010
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D1
+~
+~
+0 0 15015
+D2
+~
+~
+0 0 15011
+D3
+~
+~
+0 0 15005
+R O 0 15002 0 15010
+R M 0 15007 3 15010
+R M 0 15004 4 15010
+R M 0 15003 7 15010
+S
+#15011
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D0
+~
+~
+0 0 15010
+D1
+~
+~
+0 0 15016
+D2
+~
+~
+0 0 15012
+D3
+~
+~
+0 0 15006
+R O 0 15001 0 15011
+R M 0 15007 3 15011
+R M 0 15001 5 15011
+S
+#15012
+Entrance to Ye Olde Gambling hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  Gambling is
+taking place in all corners of the room and the exit to the street lies
+to the west.  
+~
+1 8 0
+D0
+~
+~
+0 0 15011
+D1
+~
+~
+0 0 15017
+D2
+~
+~
+0 0 15013
+D3
+~
+~
+0 0 15007
+R O 0 54 0 15012
+S
+#15013
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15012
+D1
+~
+~
+0 0 15018
+D2
+~
+~
+0 0 15014
+D3
+~
+~
+0 0 15008
+R M 0 15000 5 15013
+R M 0 15004 4 15013
+S
+#15014
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15013
+D1
+~
+~
+0 0 15019
+D3
+~
+~
+0 0 15009
+R M 0 15000 5 15014
+R M 0 15003 7 15014
+S
+#15015
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D1
+~
+~
+0 0 15020
+D2
+~
+~
+0 0 15016
+D3
+~
+~
+0 0 15010
+R O 0 15001 0 15015
+R M 0 15005 7 15015
+R M 0 15006 8 15015
+S
+#15016
+Slot Machine Hall~
+~
+A long hall stretches the length of the building, with an assortment of slot 
+machines to one side.  The hall is fairly ramshackle and the walls look like 
+they are about to blow down.  There is a buzz of low conversation and 
+strange noises coming from different parts of the room.  
+~
+1 8 0
+D0
+~
+~
+0 0 15015
+D1
+~
+~
+0 0 15021
+D2
+~
+~
+0 0 15017
+D3
+~
+~
+0 0 15011
+R O 0 15001 0 15016
+R M 0 15006 8 15016
+S
+#15017
+Entrance to Ye Olde Gambling hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  Gambling is
+taking place in all corners of the room and the exit to the street lies
+to the west.  
+~
+1 8 0
+D0
+~
+~
+0 0 15016
+D1
+~
+~
+0 0 15022
+D2
+~
+~
+0 0 15018
+D3
+~
+~
+0 0 15012
+R M 0 15006 8 15017
+S
+#15018
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15017
+D1
+~
+~
+0 0 15023
+D2
+~
+~
+0 0 15019
+D3
+~
+~
+0 0 15013
+R M 0 15006 8 15018
+R M 0 15001 5 15018
+S
+#15019
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15018
+D1
+~
+~
+0 0 15024
+D3
+~
+~
+0 0 15014
+R M 0 15000 5 15019
+R M 0 15006 8 15019
+S
+#15020
+Cards Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the room is dedicated to the cards games now taking a hold of the city.  
+~
+1 8 0
+D2
+~
+~
+0 0 15021
+D3
+~
+~
+0 0 15015
+R M 0 15006 8 15020
+R M 0 15007 3 15020
+S
+#15021
+Cards Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the room is dedicated to the cards games now taking a hold of the city.  
+~
+1 8 0
+D0
+~
+~
+0 0 15020
+D2
+~
+~
+0 0 15022
+D3
+~
+~
+0 0 15016
+R M 0 15005 7 15021
+R M 0 15003 7 15021
+S
+#15022
+Entrance to Ye Olde Gambling hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  Gambling is
+taking place in all corners of the room and the exit to the street lies
+to the west.  
+~
+1 8 0
+D0
+~
+~
+0 0 15021
+D2
+~
+~
+0 0 15023
+D3
+~
+~
+0 0 15017
+R M 0 15001 5 15022
+R M 0 15003 7 15022
+S
+#15023
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15022
+D2
+~
+~
+0 0 15024
+D3
+~
+~
+0 0 15018
+R M 0 15006 8 15023
+R M 0 15003 7 15023
+S
+#15024
+Tables Hall~
+~
+A long hall stretches the length of the building, with an assortment
+of tables to one side.  The hall is fairly ramshackle and the walls look
+like they are about to blow down.  There is a buzz of low conversation
+and strange noises coming from different parts of the room.  This part of
+the hall is dedicated to the various board or tables games popular in
+this age.  
+~
+1 8 0
+D0
+~
+~
+0 0 15023
+D3
+~
+~
+0 0 15019
+R M 0 15003 7 15024
+R M 0 15006 8 15024
+R M 0 15005 7 15024
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

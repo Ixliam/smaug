@@ -1,0 +1,1362 @@
+#AREA        Desari's Bed and Breakfast~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1600
+muscular black horse~
+`#`wa muscular `sblack `whorse`^~
+`#`wa muscular `sblack `whorse is here.`^
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1601
+muscular white horse~
+`#`wa muscular `Ww`wh`Wi`wt`We `whorse`^~
+`#`wa muscular `Ww`wh`Wi`wt`We `whorse is here`^
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1602
+servant maid human~
+`#`wa `smaid`^~
+`#`wa `smaid `wis here cleaning the home happily.`^
+~
+This plump middle-aged woman seems rather surprised to see you.  
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1603
+white snow tiger~
+`#`wa `Wwhite s`wn`Wo`ww tiger`^~
+`#`wa `Wwhite s`wn`Wo`ww tiger is here.`^
+~
+This large white tiger look fierce but is loyal to his owners.  His name is 
+Snow and he likes to be rubbed behind his ears.  
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+55 3 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1604
+feylar girl~
+a feylar girl~
+A feylar girl is here resting.
+~
+A short female feylar with black, white and grey striped fur.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1605
+chubby female cook~
+`#`wa chubby markian female`^~
+`#`wa chubby markian female cook stands here waiting to serve you.`^
+~
+An older looking short plump markian female is here.  She is dressed in a 
+simple black and white dress with a off white stained apron on.  Her eyes, 
+when seen are a steel gray color and her graying black hair is pulled up 
+into a bun.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+130 0 -100 13d16+630 13d18+85
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1606
+stout dwarf trainer~
+a stout looking dwarf~
+`#`wa stout looking male `sdwarf `wis here checking his weapons.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+130 0 -100 13d16+630 13d18+85
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1607
+slinky ferret~
+a slinky ferret~
+A slinky ferret scurries about, looking for something to get into.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1600
+large black granite fountain~
+a large black granite fountain~
+`#`wa large `sblack `wgranite fountain sits here.`^~
+~
+25 0 16
+30000 0 0 0 0 0 0
+300 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1601
+hot steaming spring~
+`#`Wa `whot steaming `Cc`cr`Cy`cs`Ct`ca`Cl `Wclear `Cspring`^~
+`#`Wa `whot steaming `Cc`cr`Cy`cs`Ct`ca`Cl `Wclear `Cspring`^~
+~
+12 0 8
+99999 18724 120 120 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1602
+black leather sofa couch~
+`#`wa `sblack `wleather sofa`^~
+`#`wa `sblack `wleather sofa sits here.`^~
+~
+12 0 8
+10000 131730 100 100 0 0 0
+4 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1603
+black marble fireplace~
+`#`wa `sblack m`wa`sr`wb`sl`we `wfireplace`^~
+`#`wa `sblack m`wa`sr`wb`sl`we `wfireplace is here warming the room.`^~
+~
+12 0 8
+1000 2336 100 100 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1604
+long rectangular cherrywood table~
+`#`wa long rectangular `Rc`rh`Re`rr`Rr`ry`Rw`ro`Ro`rd `wtable`^~
+`#`wa long rectangular `Rc`rh`Re`rr`Rr`ry`Rw`ro`Ro`rd `wtable is sitting here.`^~
+~
+12 0 8
+10000 586 100 100 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1605
+fire cooking pit~
+`#`wa `Rb`rl`Ra`rz`Ri`rn`Rg hot `Wcooking pit.`^~
+`#`wa `Rb`rl`Ra`rz`Ri`rn`Rg hot `Wcooking pit is in the corner of the room.`^~
+~
+12 1 8
+2000 16400 100 100 0 0 0
+40 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1606
+comfortable full sized bed~
+`#`wa `ccomfortable `wfull sized bed`^~
+`#`wa `ccomfortable `wfull sized bed is here.`^~
+~
+12 0 8
+1000 1168 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1607
+oak whisky golden color liquid barrel~
+`#`wan `yoak barrel `wfilled with a `ygolden `wcolored liquid`^~
+`#`wan `yoak barrel `wfilled with a `ygolden `wcolored liquid is sitting here.`^~
+~
+25 0 16
+-1 5 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1608
+king size royal bed ~
+`#`wa king sized bed with thick `sf`wl`su`wf`sf`wy `sblack `wbedspread on it`^~
+`#`wa king sized bed with thick `sf`wl`su`wf`sf`wy `sblack `wbedspread on it sits here.`^~
+~
+12 0 8
+1000 1168 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1609
+white porcelain claw foot tub~
+`#`wa `Wwhite p`wo`Wr`wc`We`wl`Wa`wi`Wn `wclaw foot tub`^~
+`#`wa `Wwhite p`wo`Wr`wc`We`wl`Wa`wi`Wn `wclaw foot tub sits here.`^~
+~
+12 0 8
+2000 2340 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1610
+a weapons rack~
+a weapons rack~
+`#`wA `ywooden `wrack lined with `sweapons.`^~
+~
+15 0 8
+0 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1611
+burning brazier~
+two large burning braziers~
+Two large burning braziers stand here, filled with `#`Rglowing red coals`^.~
+~
+12 0 8
+0 0 0 0 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1612
+bed of flowers~
+`#`ga large bed of `Mf`ml`Mo`mw`Me`mr`Ms`^~
+`#`ga large bed of `Mf`ml`Mo`mw`Me`mr`Ms `gis growing here`^~
+~
+12 0 8
+2000 504 120 120 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1613
+rope tree swing~
+`#`wa `gtree `wswing`^~
+`#`wa `gtree `wswing hanging from a large oak tree is here.`^~
+~
+12 0 8
+1000 144 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1613 rope tree swing~
+A swing made of rope hangs from the tree.  It has a thick slab of wood for a 
+seat big enough for two people.  The rope is thick and sturdy.  
+~
+#1614
+black marble desk ~
+`#`wan ornately `rcarved `wdesk made of `sblack marble.`^~
+`#`wan ornately `rcarved `wdesk made of `sblack marble.`^~
+~
+12 0 8
+2000 66121 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1615
+rocking chair~
+`#`wa comfy `ywooden `wrocking chair`^~
+`#`wfour comfy `ywooden `wrocking chairs sit here.`^~
+~
+12 0 8
+2000 584 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1616
+bird bath~
+`#`wa `rrose `wcolored marble bird bath`^~
+`#`wa `rrose `wcolored marble bird bath sits here.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1616 bird bath~
+A rose colored marble bird bath.  It is filled with cool clear water.  
+~
+#1617
+silver sword of the feylar~
+`#`SSilver S`ww`Wo`Sr`wd `wof the `gFeylar`^~
+A long and sturdy silver bladed sword is laying here.~
+~
+5 0 4
+11 62 76 64 0 0 0
+1 1416 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1618
+chicken leg~
+a `#`ychicken leg`^~
+A cooked `#`ychicken leg`^ is lying here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1618 chicken leg~
+A cooked chicken leg.
+~
+#1619
+ice-cold beer~
+an `#`Cice-cold`^ beer~
+An `#`Cice-cold`^ beer is sitting here.~
+~
+17 0 16
+3 1 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1620
+juicy steak beef~
+a juicy `#`ysteak`^~
+A juicy steak has been left here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1621
+cup sweet lemonade~
+a cup of `#`Wsweet lemonade`^~
+A cup of `#`Wsweet lemonade`^ is here.~
+~
+17 0 16
+10 6 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1622
+treasury key~
+a `#`ssteel`^ door key~
+A `#`ssteel`^ door key is here.~
+~
+31 128 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1600
+Foyer~
+~
+You find yourself in a large foyer.  The ceiling here extends at least 10 
+feet tall and there is a huge gas operated crystal candelabra hanging from 
+the ceiling to light the room.  The floor is made of smooth black granite 
+and the walls are painted a light rose color.  There is a library to your 
+west and the living room to your east.  Straight north of you is a hallway 
+leading to the kitchen.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1602
+D1
+~
+~
+0 0 1601
+D2
+~
+~
+1 0 1610
+D3
+~
+~
+0 0 1628
+S
+#1601
+Living Room~
+~
+The light in this room is very low.  The floor is a hardwood floor and is 
+covered in a large area rug and the walls are painted a deep crimson color.  
+There is a set of double doors to your east leading out to the garden and 
+the door to your north leads to an office.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1603
+D1
+~
+door~
+1 0 1611
+D3
+~
+~
+0 0 1600
+R O 0 1602 0 1601
+R O 0 1603 0 1601
+S
+#1602
+Hallway~
+~
+You find yourself in a long hallway.  There are several small candelabra's 
+hanging from the ceiling to light the way.  The floor is made of smooth 
+black granite and the walls are painted a light rose color the same as in 
+the foyer.  The kitchen is north of you and the dining room is to your west. 
+ The foyer is to your south.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1605
+D2
+~
+~
+0 0 1600
+D3
+~
+~
+0 0 1604
+D4
+~
+~
+0 0 1607
+D5
+~
+~
+0 0 1619
+R M 0 1602 2 1602
+R M 0 1603 1 1602
+S
+#1603
+Office~
+~
+The floor here is a hardwood floor and the walls are painted a deep crimson 
+color like the living room.  There is a window to your east that looks out 
+onto the flower garden and there are several shelves and cabinets along the 
+other walls.  The door to your south goes back into the living room.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 1601
+R O 0 1614 0 1603
+S
+#1604
+Dining Room~
+~
+The dining room is dimly lit.  This room is one of the larger rooms in the 
+house and there is a long dining room table in the middle of the room.  In 
+the middle of the table sits several candlesticks.  The floor is made of 
+hardwood and has a newly polished look to it and the walls are painted an 
+off white color.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1602
+R O 0 1604 0 1604
+S
+#1605
+Kitchen~
+~
+The kitchen is large and spacious.  There is lots of light from several 
+lanterns hanging from the ceiling.  The floor is made of hardwood and the 
+walls are painted a cool beige color.  In the far western corner of the room 
+sits a huge rock hearth for cooking.  The is a pantry door to your west and 
+the back door to the house to your north.  
+~
+1 33554440 0
+D0
+~
+door~
+1 0 1629
+D2
+~
+~
+0 0 1602
+D3
+~
+~
+0 0 1606
+R O 0 1605 0 1605
+R M 0 1605 1 1605
+  R G 0 1618 0
+  R G 0 1620 0
+  R G 0 1621 0
+  R G 0 1619 0
+S
+#1606
+Pantry~
+~
+The pantry is rather large.  The walls are lined in shelves and are full of 
+food.  There is a latch to a door on the floor leading somewhere.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1605
+D5
+~
+latch~
+1 0 1613
+S
+#1607
+Hallway~
+~
+The hallway runs north to south.  There are doors on both sides of you and 
+one to your north.  The walls are painted a soft grey color and there are 
+gas running lanterns hanging on the wall to light the way.  The stairs are 
+to your south.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1621
+D1
+~
+door~
+1 0 1608
+D2
+~
+~
+1 0 1630
+D3
+~
+door~
+1 0 1609
+D5
+~
+~
+0 0 1602
+S
+#1608
+Bedroom~
+~
+This bedroom is about 10 x 15 feet.  The floor is covered in a soft beige 
+carpet and the walls are painted an off white color.  There is a window on 
+the east wall letting you look out at the garden below.  There is a gas run 
+lantern hanging from the ceiling to light the room.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 1607
+R O 0 1606 0 1608
+S
+#1609
+Bedroom~
+~
+This bedroom is about 10 x 15 feet.  The floor is covered in a soft beige 
+carpet and the walls are painted an off white color.  There is a window on 
+the west wall letting you look out at a large lake.  There is a gas run 
+lantern hanging from the ceiling to light the room.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 1607
+R O 0 1606 0 1609
+S
+#1610
+Front Porch~
+~
+The porch is made of thick black granite and extends the entire length of 
+the front of the house.  It is covered and there are large columns holding 
+the roof up.  There are several rocking chairs on the porch and you can sit 
+here and look out onto the courtyard.  The door to the house is to your 
+north.  
+~
+1 33554432 0
+D0
+~
+door~
+1 0 1600
+D2
+~
+~
+0 0 1614
+R O 0 1615 0 1610
+R M 0 1607 1 1610
+S
+#1611
+Garden~
+~
+The flower garden is large and there are many different kinds of flowers 
+growing here.  The smell in the air is very calming.  Standing in the middle 
+of the garden is a large gazebo covering a natural hot spring.  
+~
+1 33554432 2
+D2
+~
+~
+0 0 1612
+D3
+~
+~
+1 0 1601
+R O 0 1601 0 1611
+S
+#1612
+Garden~
+~
+The flower garden is large and there are many different kinds of flowers 
+growing here.  The smell in the air is very calming.  There is a large oak 
+tree standing in the corner of the garden.  It is very thick and tall 
+looking like it is very old.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 1611
+D2
+~
+~
+0 0 1618
+R O 0 1613 0 1612
+S
+#1613
+Cellar~
+~
+The cellar is dimly lit and very cool.  There is a large block of ice here 
+to keep the room cool.  The floor is nothing but a dirt floor and the walls 
+are made of stone. 
+~
+1 33554440 0
+D4
+~
+~
+1 0 1606
+R O 0 1607 0 1613
+S
+#1614
+Courtyard~
+~
+This large courtyard is covered in cobblestones though the surface is 
+extremely smooth to walk on.  There are several stone benches located in 
+each corner of the courtyard and in the middle you see a large black granite 
+fountain.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 1610
+D1
+~
+~
+0 0 1617
+D2
+~
+~
+0 0 1627
+D3
+~
+~
+0 0 1615
+R O 0 1600 0 1614
+S
+#1615
+Cobblestone Walkway~
+~
+This walkway is covered in cobblestone and the surface is extremely smooth.  
+There is a large courtyard to your east and to the south there is a large 
+pasture with several horses.  To your west you can see a small lake.  
+~
+1 33554432 2
+D1
+~
+~
+0 0 1614
+D2
+~
+~
+0 0 1616
+D3
+~
+~
+0 0 1631
+S
+#1616
+Horse Corral~
+~
+You find yourself in a large pasture.  There are several horses grazing 
+here.  The grass is as tall as your ankles and is bright green.  There is a 
+large water trough here for the animals to drink.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 1615
+R M 0 1601 1 1616
+R M 0 1600 1 1616
+S
+#1617
+Cobblestone Walkway~
+~
+This walkway is covered in cobblestone and the surface is extremely smooth.  
+There is a large courtyard to your west and to the east you can see a flower 
+garden.  If you sniff the air you might get a whiff of the fresh flowers.  
+~
+1 33554432 2
+D1
+~
+~
+0 0 1618
+D3
+~
+~
+0 0 1614
+S
+#1618
+Cobblestone Walkway~
+~
+This walkway is covered in cobblestone and the surface is extremely smooth.  
+There is a large courtyard to your west and to the east and north you can 
+see a flower garden.  If you sniff the air you might get a whiff of the 
+fresh flowers.  
+~
+1 33554432 2
+D0
+~
+~
+0 0 1612
+D3
+~
+~
+0 0 1617
+R M 0 1604 1 1618
+  R E 0 2544 0 8
+  R E 0 39323 0 5
+  R E 0 1617 0 16
+R O 0 1616 0 1618
+R O 0 1612 0 1618
+S
+#1619
+Basement~
+~
+The basement is brightly lit by a 2 large burning braziers sitting 2 corner 
+of the room.  The floor is made of hardwood and the walls are covered in 
+black carpet.  There is several weapons hanging on a weapons rack as well as 
+a couple of wooden poles with chucks cuts out of it.  It looks like this is 
+where someone trains.  There is a door to your east.  
+~
+1 33554440 0
+D1
+~
+door~
+1 0 1620
+D4
+~
+~
+0 0 1602
+R O 0 1611 0 1619
+S
+#1620
+Weapons Room~
+~
+This room isnt very large but there are several weapons racks lining the 
+walls and also hanging on the walls.  The floor is made of hardwood but the 
+walls are made of rock.  There is a single cauldren burning in the west 
+corner to light the room.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 1619
+R O 0 1610 0 1620
+R M 0 1606 1 1620
+S
+#1621
+Hallway~
+~
+The hallway runs north to south.  There are doors on both sides of you and 
+one to your north.  The walls are painted a soft grey color and there are 
+gas running lanterns hanging on the wall to light the way.  The stairs are 
+to your south.  
+~
+1 33554440 0
+D0
+~
+door~
+33 1622 1624
+D1
+~
+door~
+1 0 1622
+D2
+~
+~
+0 0 1607
+D3
+~
+door~
+1 0 1623
+S
+#1622
+Bedroom~
+~
+This bedroom is about 10 x 15 feet.  The floor is covered in a soft beige 
+carpet and the walls are painted an off white color.  There is a window on 
+the east wall letting you look out at the garden below.  There is a gas run 
+lantern hanging from the ceiling to light the room.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 1621
+R O 0 1606 0 1622
+S
+#1623
+Bedroom~
+~
+This bedroom is about 10 x 15 feet.  The floor is covered in a soft beige 
+carpet and the walls are painted an off white color.  There is a window on 
+the west wall letting you look out at a large lake.  There is a gas run 
+lantern hanging from the ceiling to light the room.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 1621
+R O 0 1606 0 1623
+S
+#1624
+Master Bedroom~
+~
+This room is larger than the other bedrooms in the house.  The floors are a 
+soft plush black carpet and the walls are covered in a thick textured mauve 
+colored wallpaper.  There is a large gas operated candelabra hanging from 
+the ceiling to light the room.  On the north wall there is a window looking 
+out into the back yard.  
+~
+1 33554440 0
+D1
+~
+door~
+1 0 1626
+D2
+~
+~
+33 1622 1621
+D3
+~
+door~
+1 0 1625
+R O 0 1608 0 1624
+S
+#1625
+Closet~
+~
+The closet is a walk in closet.  It is filled with many clothes and shoes.  
+This is a large closet for you to store your clothing while you are here.  
+~
+1 33554440 0
+D1
+~
+~
+1 0 1624
+S
+#1626
+Master Bathroom~
+~
+The walls in this bathroom are painted white and is trimmed in black.  The 
+floor is made out of fine black marble tile.  There is a long countertop 
+with two sinks and two mirrors.  There are several gas operated lanterns 
+hanging over the sinks and over the tub to light the room.  
+~
+1 33554440 0
+D3
+~
+~
+1 0 1624
+R O 0 1609 0 1626
+S
+#1627
+Gate to House~
+~
+You find yourself at a tall stone wall surrounding a fairly large home.  The 
+stone is easily 2 feet thick and at least 10 feet tall.  There is a wrought 
+iron gate that is equally as impressive as the wall as well as two large 
+stone statues of gargoyles of either side of the gate.  
+~
+1 0 2
+D0
+~
+~
+0 0 1614
+D1
+~
+~
+0 0 1638
+S
+#1628
+Library~
+~
+The library is brightly lit for better reading.  The floor is covered in a 
+thick black carpet and the walls are painted an off white.  There is a large 
+couch resting in the middle of the room with a coffee table and two lanterns 
+of either side of the couch.  All three blank walls are covered in shelves 
+from floor to ceiling and are full of books on different subjects.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1600
+R O 0 1602 0 1628
+S
+#1629
+Back Porch~
+~
+The porch is made of a smooth granite and extends the entire length of the 
+home.  There are several columns that are holding the roof up.  On the porch 
+there are a few rocking chairs that you can sit on and look out onto the 
+back yard.  
+~
+1 33554432 0
+D2
+~
+~
+1 0 1605
+R O 0 1615 0 1629
+S
+#1630
+Bathroom~
+~
+You find yourself inside of a large bathroom.  The floor is made up of multi 
+colored tiles extending up the walls halfway.  The rest is painted a soft 
+white color.  There is a large shower stall in the east corner beside a 
+porcelain toilet.  There is a large bay window on the west wall letting you 
+see outside.  
+~
+1 33554440 0
+D0
+~
+door~
+1 0 1607
+R O 0 1609 0 1630
+S
+#1631
+Small Dock~
+~
+You are on a small wooden dock overlooking a small lake.  You can see fish 
+jumping out of the water.  The dock is made of sturdy wood and extends out a 
+few feet over the lake.  
+~
+1 33554432 2
+D1
+~
+~
+0 0 1615
+D3
+~
+~
+0 0 1632
+S
+#1632
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D1
+~
+~
+0 0 1631
+D2
+~
+~
+0 0 1634
+D3
+~
+~
+0 0 1633
+S
+#1633
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D1
+~
+~
+0 0 1632
+D2
+~
+~
+0 0 1635
+D3
+~
+~
+0 0 1636
+S
+#1634
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D0
+~
+~
+0 0 1632
+D3
+~
+~
+0 0 1635
+S
+#1635
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D0
+~
+~
+0 0 1633
+D1
+~
+~
+0 0 1634
+D3
+~
+~
+0 0 1637
+S
+#1636
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D1
+~
+~
+0 0 1633
+D2
+~
+~
+0 0 1637
+S
+#1637
+Small Lake~
+~
+You are on a small spring fed lake.  The water is clear and clean looking 
+and you can see all the way to the bottom.  There are fish swimming all 
+around you and the water is a cool temperature year round.  
+~
+1 33554432 6
+D0
+~
+~
+0 0 1636
+D1
+~
+~
+0 0 1635
+S
+#1638
+Stone Walkway~
+~
+A stone walkway leads west up to a large house. The house is surrounded by a 
+tall stone wall and there is a thick wrought iron gate to help separate it 
+from the rest of the world.   
+~
+1 0 2
+D1
+~
+~
+0 0 1639
+D3
+~
+~
+0 0 1627
+S
+#1639
+Stone Walkway~
+~
+A stone walkway leads west up to a large house. The house is surrounded by a 
+tall stone wall and there is a thick wrought iron gate to help separate it 
+from the rest of the world.   
+~
+1 0 2
+D1
+~
+~
+0 0 1640
+D3
+~
+~
+0 0 1638
+S
+#1640
+Stone Walkway~
+~
+A stone walkway leads west up to a large house. The house is surrounded by a 
+tall stone wall and there is a thick wrought iron gate to help separate it 
+from the rest of the world.   
+~
+1 0 2
+D1
+~
+~
+0 0 3110
+D3
+~
+~
+0 0 1639
+S
+#0
+
+
+#SHOPS
+ 1605   17 19  0  0  0   100   0         0 23    ; `#`wa chubby markian female`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

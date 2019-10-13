@@ -1,0 +1,50 @@
+#CITY
+Name          Forbidden City~
+Filename      forbidden.city~
+Bank          forbidden~
+Duke          Arrien~
+Baron         Hekkron~
+Captain       Hexus~
+Sheriff       Kordath~
+Knight        Caelum~
+Allegiance    Halcyon~
+Defense          316
+Offense          325
+OffenseCatapult  0
+DefenseCatapult  1
+Ballista         0
+OffenseSoldiers  50
+DefenseGuards    50
+DefenseArchers   50
+OffenseArchers   50
+DefenseWarriors  50
+OffenseWarriors  50
+Arrows           1
+Platform         0
+Ram              1
+Pitch            1
+Wins             538
+Loses            65
+Recall           35515
+Siege1           35509
+Siege2           35511
+Siege3           35508
+Defend1          35516
+Defend2          35530
+Defend3          35532
+MSoldier         41038
+MArcher          41039
+MGuard           41091
+MWarrior         41092
+OCatapult        41008
+OBallista        41009
+OPitch           41010
+OPlatform        41011
+ORam             41012
+OArrow           41023
+MinHouse         0
+MaxHouse         0
+Hardened         0
+End
+
+#END

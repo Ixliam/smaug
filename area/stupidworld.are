@@ -1,0 +1,7297 @@
+#AREA        Stupid World~
+
+
+
+#VERSION     11
+#AUTHOR      ~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#7900
+bugblatter beast~
+`#a `gBugblatter `gBeast`^~
+Oh no! You forgot your towel and the bugblatter beast is here!
+~
+~
+0
+clanname none~
+0
+0
+1 32 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7901
+middle finger~
+a `#`WMiddle `WFinger`^~
+A big middle finger is here, flipping you off!
+~
+~
+0
+clanname none~
+0
+0
+5 512 0 C
+81 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7902
+snipe~
+a snipe~
+A deadly snipe is here, hiding.
+~
+~
+0
+clanname none~
+0
+0
+129 524288 0 C
+23 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7903
+smelly fart cloud~
+a smelly fart~
+A dark smelly cloud is drifting about.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+96 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7904
+rock lobster~
+a giant `#`rRock `rLobster`^~
+It's not a rock, its a `#`rRock `rLobster`W!!!`^
+~
+~
+0
+clanname none~
+0
+0
+129 32 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7905
+master baiter~
+the `#`WMaster `CBaiter`^~
+The `#`WMaster `CBaiter`^ is here, looking for bait.
+~
+~
+0
+clanname none~
+0
+0
+5 512 0 C
+92 0 -66 10d13+460 10d12+51
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7906
+fluffball kirby~
+kirby the `#`Wfluffball`^~
+Kirby the fluffball stands here, waiting for a challenge.
+~
+~
+0
+clanname none~
+0
+0
+65 4096 0 C
+110 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#7907
+the shocker~
+the shocker~
+The Shocker stands here, ready to shock some people.
+~
+~
+0
+clanname none~
+0
+0
+65 65536 0 C
+108 0 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#8000
+bozo clown~
+`#`?B`?o`?z`?o `Wthe `?C`?l`?o`?w`?n`^~
+A clown in a funny costume is here.
+~
+~
+0
+clanname none~
+0
+0
+65 512 0 C
+38 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#7900
+stellar gateway~
+a `#`YStellar Gateway`^~
+A `#`YStellar Gateway`^ covered with mystical symbols is here.~
+~
+55 1 32
+0 0 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+7900 stellar gateway~
+A large round device stands on the platform to the Stellar Gateway, with 
+strange symbols arrayed in a circle around a large red glowing dome. The 
+gateway itself is 30' in diameter, and has the same strange symbols around 
+it on an inner ring, with an outer ring with 5 large triangles set about the 
+outside. When 5 symbols on the small device are pressed, the inner ring of 
+the gateway spins and the triangles light up one at a time as the proper 
+symbol passes underneath it. Once all 5 symbols are pressed in a correct 
+order, the red dome lights up. It can then be pressed, and a shimmering 
+silver gateway appears inside the inner ring of the Stellar Gateway. 
+~
+#0
+
+
+#ROOMS
+#8192
+A large field~
+~
+Rolling mountains spread about you, each rise leading to parts unknown.  
+~
+1 0 5
+D0
+~
+~
+0 -1 8166
+D1
+~
+~
+0 -1 8193
+D2
+~
+~
+0 -1 8218
+D3
+~
+~
+0 -1 8191
+S
+#8193
+A large field~
+~
+Rolling mountains spread about you, each rise leading to parts unknown.  
+~
+1 0 5
+D0
+~
+~
+0 -1 8167
+D1
+~
+~
+0 -1 8194
+D2
+~
+~
+0 -1 8219
+D3
+~
+~
+0 -1 8192
+S
+#8194
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8168
+D1
+~
+~
+0 -1 8195
+D2
+~
+~
+0 -1 8220
+D3
+~
+~
+0 -1 8193
+S
+#8195
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8169
+D1
+~
+~
+0 -1 8196
+D2
+~
+~
+0 -1 8221
+D3
+~
+~
+0 -1 8194
+S
+#8196
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8170
+D1
+~
+~
+0 -1 8197
+D2
+~
+~
+0 -1 8222
+D3
+~
+~
+0 -1 8195
+S
+#8197
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8171
+D1
+~
+~
+0 -1 8198
+D2
+~
+~
+0 -1 8223
+D3
+~
+~
+0 -1 8196
+S
+#8198
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8172
+D1
+~
+~
+0 -1 8199
+D2
+~
+~
+0 -1 8224
+D3
+~
+~
+0 -1 8197
+S
+#8199
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8173
+D1
+~
+~
+0 -1 8174
+D2
+~
+~
+0 -1 8225
+D3
+~
+~
+0 -1 8198
+S
+#8200
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8174
+D1
+~
+~
+0 -1 8201
+D2
+~
+~
+0 -1 8226
+D3
+~
+~
+0 -1 8225
+S
+#8201
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8175
+D1
+~
+~
+0 -1 8202
+D2
+~
+~
+0 -1 8227
+D3
+~
+~
+0 -1 8200
+S
+#8202
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8176
+D1
+~
+~
+0 -1 8203
+D2
+~
+~
+0 -1 8228
+D3
+~
+~
+0 -1 8201
+S
+#8203
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8177
+D1
+~
+~
+0 -1 8204
+D2
+~
+~
+0 -1 8229
+D3
+~
+~
+0 -1 8202
+S
+#8204
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8178
+D1
+~
+~
+0 -1 8205
+D2
+~
+~
+0 -1 8230
+D3
+~
+~
+0 -1 8203
+S
+#8205
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8179
+D1
+~
+~
+0 -1 8206
+D2
+~
+~
+0 -1 8231
+D3
+~
+~
+0 -1 8204
+S
+#8206
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8180
+D1
+~
+~
+0 -1 8207
+D2
+~
+~
+0 -1 8232
+D3
+~
+~
+0 -1 8205
+S
+#8207
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8181
+D1
+~
+~
+0 -1 8208
+D2
+~
+~
+0 -1 8233
+D3
+~
+~
+0 -1 8206
+S
+#8208
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8182
+D1
+~
+~
+0 -1 8209
+D2
+~
+~
+0 -1 8234
+D3
+~
+~
+0 -1 8207
+S
+#8209
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8183
+D1
+~
+~
+0 -1 8210
+D2
+~
+~
+0 -1 8235
+D3
+~
+~
+0 -1 8208
+S
+#8210
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8184
+D1
+~
+~
+0 -1 8211
+D2
+~
+~
+0 -1 8236
+D3
+~
+~
+0 -1 8209
+S
+#8211
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8185
+D1
+~
+~
+0 -1 8212
+D2
+~
+~
+0 -1 8237
+D3
+~
+~
+0 -1 8210
+S
+#8212
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8186
+D1
+~
+~
+0 -1 8213
+D2
+~
+~
+0 -1 8238
+D3
+~
+~
+0 -1 8211
+S
+#8213
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8187
+D1
+~
+~
+0 -1 8214
+D2
+~
+~
+0 -1 8239
+D3
+~
+~
+0 -1 8212
+S
+#8214
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8188
+D1
+~
+~
+0 -1 8215
+D2
+~
+~
+0 -1 8240
+D3
+~
+~
+0 -1 8213
+S
+#8215
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8189
+D1
+~
+~
+0 -1 8216
+D2
+~
+~
+0 -1 8241
+D3
+~
+~
+0 -1 8214
+S
+#8216
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8190
+D1
+~
+~
+0 -1 8217
+D2
+~
+~
+0 -1 8242
+D3
+~
+~
+0 -1 8215
+S
+#8217
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8191
+D1
+~
+~
+0 -1 8218
+D2
+~
+~
+0 -1 8243
+D3
+~
+~
+0 -1 8216
+S
+#8218
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8192
+D1
+~
+~
+0 -1 8219
+D2
+~
+~
+0 -1 8244
+D3
+~
+~
+0 -1 8217
+S
+#8219
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8193
+D1
+~
+~
+0 -1 8220
+D2
+~
+~
+0 -1 8245
+D3
+~
+~
+0 -1 8218
+S
+#8220
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8194
+D1
+~
+~
+0 -1 8221
+D2
+~
+~
+0 -1 8246
+D3
+~
+~
+0 -1 8219
+S
+#8221
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8195
+D1
+~
+~
+0 -1 8222
+D2
+~
+~
+0 -1 8247
+D3
+~
+~
+0 -1 8220
+S
+#8222
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8196
+D1
+~
+~
+0 -1 8223
+D2
+~
+~
+0 -1 8248
+D3
+~
+~
+0 -1 8221
+S
+#8223
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8197
+D1
+~
+~
+0 -1 8224
+D2
+~
+~
+0 -1 8249
+D3
+~
+~
+0 -1 8222
+S
+#8224
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8198
+D1
+~
+~
+0 -1 8199
+D2
+~
+~
+0 -1 8250
+D3
+~
+~
+0 -1 8223
+S
+#8225
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8199
+D1
+~
+~
+0 -1 8226
+D2
+~
+~
+0 -1 8251
+D3
+~
+~
+0 -1 8250
+S
+#8226
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8200
+D1
+~
+~
+0 -1 8227
+D2
+~
+~
+0 -1 8252
+D3
+~
+~
+0 -1 8225
+S
+#8227
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8201
+D1
+~
+~
+0 -1 8228
+D2
+~
+~
+0 -1 8253
+D3
+~
+~
+0 -1 8226
+S
+#8228
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8202
+D1
+~
+~
+0 -1 8229
+D2
+~
+~
+0 -1 8254
+D3
+~
+~
+0 -1 8227
+S
+#8229
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8203
+D1
+~
+~
+0 -1 8230
+D2
+~
+~
+0 -1 8255
+D3
+~
+~
+0 -1 8228
+S
+#8230
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8204
+D1
+~
+~
+0 -1 8231
+D2
+~
+~
+0 -1 8256
+D3
+~
+~
+0 -1 8229
+S
+#8231
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8205
+D1
+~
+~
+0 -1 8232
+D2
+~
+~
+0 -1 8257
+D3
+~
+~
+0 -1 8230
+S
+#8232
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8206
+D1
+~
+~
+0 -1 8233
+D2
+~
+~
+0 -1 8258
+D3
+~
+~
+0 -1 8231
+S
+#8233
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8207
+D1
+~
+~
+0 -1 8234
+D2
+~
+~
+0 -1 8259
+D3
+~
+~
+0 -1 8232
+S
+#8234
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8208
+D1
+~
+~
+0 -1 8235
+D2
+~
+~
+0 -1 8260
+D3
+~
+~
+0 -1 8233
+S
+#8235
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8209
+D1
+~
+~
+0 -1 8236
+D2
+~
+~
+0 -1 8261
+D3
+~
+~
+0 -1 8234
+S
+#8236
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8210
+D1
+~
+~
+0 -1 8237
+D2
+~
+~
+0 -1 8262
+D3
+~
+~
+0 -1 8235
+S
+#8237
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8211
+D1
+~
+~
+0 -1 8238
+D2
+~
+~
+0 -1 8263
+D3
+~
+~
+0 -1 8236
+S
+#8238
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8212
+D1
+~
+~
+0 -1 8239
+D2
+~
+~
+0 -1 8264
+D3
+~
+~
+0 -1 8237
+S
+#8239
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8213
+D1
+~
+~
+0 -1 8240
+D2
+~
+~
+0 -1 8265
+D3
+~
+~
+0 -1 8238
+R M 0 7902 75 8239
+S
+#8240
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8214
+D1
+~
+~
+0 -1 8241
+D2
+~
+~
+0 -1 8266
+D3
+~
+~
+0 -1 8239
+R M 0 8000 50 8240
+S
+#8241
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8215
+D1
+~
+~
+0 -1 8242
+D2
+~
+~
+0 -1 8267
+D3
+~
+~
+0 -1 8240
+S
+#8242
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8216
+D1
+~
+~
+0 -1 8243
+D2
+~
+~
+0 -1 8268
+D3
+~
+~
+0 -1 8241
+S
+#8243
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8217
+D1
+~
+~
+0 -1 8244
+D2
+~
+~
+0 -1 8269
+D3
+~
+~
+0 -1 8242
+S
+#8244
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8218
+D1
+~
+~
+0 -1 8245
+D2
+~
+~
+0 -1 8270
+D3
+~
+~
+0 -1 8243
+S
+#8245
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8219
+D1
+~
+~
+0 -1 8246
+D2
+~
+~
+0 -1 8271
+D3
+~
+~
+0 -1 8244
+R M 0 7902 75 8245
+R M 0 8000 50 8245
+S
+#8246
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8220
+D1
+~
+~
+0 -1 8247
+D2
+~
+~
+0 -1 8272
+D3
+~
+~
+0 -1 8245
+S
+#8247
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8221
+D1
+~
+~
+0 -1 8248
+D2
+~
+~
+0 -1 8273
+D3
+~
+~
+0 -1 8246
+S
+#8248
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8222
+D1
+~
+~
+0 -1 8249
+D2
+~
+~
+0 -1 8274
+D3
+~
+~
+0 -1 8247
+S
+#8249
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8223
+D1
+~
+~
+0 -1 8224
+D2
+~
+~
+0 -1 8275
+D3
+~
+~
+0 -1 8248
+R M 0 7902 75 8249
+S
+#8250
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8224
+D1
+~
+~
+0 -1 8251
+D2
+~
+~
+0 -1 8276
+D3
+~
+~
+0 -1 8275
+S
+#8251
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8225
+D1
+~
+~
+0 -1 8252
+D2
+~
+~
+0 -1 8277
+D3
+~
+~
+0 -1 8250
+S
+#8252
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8226
+D1
+~
+~
+0 -1 8253
+D2
+~
+~
+0 -1 8278
+D3
+~
+~
+0 -1 8251
+R M 0 7903 30 8252
+S
+#8253
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8227
+D1
+~
+~
+0 -1 8254
+D2
+~
+~
+0 -1 8279
+D3
+~
+~
+0 -1 8252
+S
+#8254
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8228
+D1
+~
+~
+0 -1 8255
+D2
+~
+~
+0 -1 8280
+D3
+~
+~
+0 -1 8253
+S
+#8255
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8229
+D1
+~
+~
+0 -1 8256
+D2
+~
+~
+0 -1 8281
+D3
+~
+~
+0 -1 8254
+S
+#8256
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8230
+D1
+~
+~
+0 -1 8257
+D2
+~
+~
+0 -1 8282
+D3
+~
+~
+0 -1 8255
+S
+#8257
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8231
+D1
+~
+~
+0 -1 8258
+D2
+~
+~
+0 -1 8283
+D3
+~
+~
+0 -1 8256
+R M 0 7903 30 8257
+S
+#8258
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8232
+D1
+~
+~
+0 -1 8259
+D2
+~
+~
+0 -1 8284
+D3
+~
+~
+0 -1 8257
+S
+#8259
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8233
+D1
+~
+~
+0 -1 8260
+D2
+~
+~
+0 -1 8285
+D3
+~
+~
+0 -1 8258
+S
+#8260
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8234
+D1
+~
+~
+0 -1 8261
+D2
+~
+~
+0 -1 8286
+D3
+~
+~
+0 -1 8259
+S
+#8261
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8235
+D1
+~
+~
+0 -1 8262
+D2
+~
+~
+0 -1 8287
+D3
+~
+~
+0 -1 8260
+S
+#8262
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8236
+D1
+~
+~
+0 -1 8263
+D2
+~
+~
+0 -1 8288
+D3
+~
+~
+0 -1 8261
+R M 0 7903 30 8262
+S
+#8263
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8237
+D1
+~
+~
+0 -1 8264
+D2
+~
+~
+0 -1 8289
+D3
+~
+~
+0 -1 8262
+S
+#8264
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8238
+D1
+~
+~
+0 -1 8265
+D2
+~
+~
+0 -1 8290
+D3
+~
+~
+0 -1 8263
+S
+#8265
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8239
+D1
+~
+~
+0 -1 8266
+D2
+~
+~
+0 -1 8291
+D3
+~
+~
+0 -1 8264
+S
+#8266
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8240
+D1
+~
+~
+0 -1 8267
+D2
+~
+~
+0 -1 8292
+D3
+~
+~
+0 -1 8265
+R M 0 7903 30 8266
+S
+#8267
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8241
+D1
+~
+~
+0 -1 8268
+D2
+~
+~
+0 -1 8293
+D3
+~
+~
+0 -1 8266
+S
+#8268
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8242
+D1
+~
+~
+0 -1 8269
+D2
+~
+~
+0 -1 8294
+D3
+~
+~
+0 -1 8267
+S
+#8269
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8243
+D1
+~
+~
+0 -1 8270
+D2
+~
+~
+0 -1 8295
+D3
+~
+~
+0 -1 8268
+R M 0 7900 50 8269
+S
+#8270
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8244
+D1
+~
+~
+0 -1 8271
+D2
+~
+~
+0 -1 8296
+D3
+~
+~
+0 -1 8269
+S
+#8271
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8245
+D1
+~
+~
+0 -1 8272
+D2
+~
+~
+0 -1 8297
+D3
+~
+~
+0 -1 8270
+S
+#8272
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8246
+D1
+~
+~
+0 -1 8273
+D2
+~
+~
+0 -1 8298
+D3
+~
+~
+0 -1 8271
+S
+#8273
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8247
+D1
+~
+~
+0 -1 8274
+D2
+~
+~
+0 -1 8299
+D3
+~
+~
+0 -1 8272
+S
+#8274
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8248
+D1
+~
+~
+0 -1 8249
+D2
+~
+~
+0 -1 8300
+D3
+~
+~
+0 -1 8273
+S
+#8275
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8249
+D1
+~
+~
+0 -1 8276
+D2
+~
+~
+0 -1 8301
+D3
+~
+~
+0 -1 8300
+R M 0 7901 40 8275
+S
+#8276
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8250
+D1
+~
+~
+0 -1 8277
+D2
+~
+~
+0 -1 8302
+D3
+~
+~
+0 -1 8275
+S
+#8277
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8251
+D1
+~
+~
+0 -1 8278
+D2
+~
+~
+0 -1 8303
+D3
+~
+~
+0 -1 8276
+S
+#8278
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8252
+D1
+~
+~
+0 -1 8279
+D2
+~
+~
+0 -1 8304
+D3
+~
+~
+0 -1 8277
+S
+#8279
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8253
+D1
+~
+~
+0 -1 8280
+D2
+~
+~
+0 -1 8305
+D3
+~
+~
+0 -1 8278
+S
+#8280
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8254
+D1
+~
+~
+0 -1 8281
+D2
+~
+~
+0 -1 8306
+D3
+~
+~
+0 -1 8279
+S
+#8281
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8255
+D1
+~
+~
+0 -1 8282
+D2
+~
+~
+0 -1 8307
+D3
+~
+~
+0 -1 8280
+S
+#8282
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8256
+D1
+~
+~
+0 -1 8283
+D2
+~
+~
+0 -1 8308
+D3
+~
+~
+0 -1 8281
+S
+#8283
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8257
+D1
+~
+~
+0 -1 8284
+D2
+~
+~
+0 -1 8309
+D3
+~
+~
+0 -1 8282
+S
+#8284
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8258
+D1
+~
+~
+0 -1 8285
+D2
+~
+~
+0 -1 8310
+D3
+~
+~
+0 -1 8283
+S
+#8285
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8259
+D1
+~
+~
+0 -1 8286
+D2
+~
+~
+0 -1 8311
+D3
+~
+~
+0 -1 8284
+S
+#8286
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8260
+D1
+~
+~
+0 -1 8287
+D2
+~
+~
+0 -1 8312
+D3
+~
+~
+0 -1 8285
+S
+#8287
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8261
+D1
+~
+~
+0 -1 8288
+D2
+~
+~
+0 -1 8313
+D3
+~
+~
+0 -1 8286
+S
+#8288
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8262
+D1
+~
+~
+0 -1 8289
+D2
+~
+~
+0 -1 8314
+D3
+~
+~
+0 -1 8287
+S
+#8289
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8263
+D1
+~
+~
+0 -1 8290
+D2
+~
+~
+0 -1 8315
+D3
+~
+~
+0 -1 8288
+S
+#8290
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8264
+D1
+~
+~
+0 -1 8291
+D2
+~
+~
+0 -1 8316
+D3
+~
+~
+0 -1 8289
+S
+#8291
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8265
+D1
+~
+~
+0 -1 8292
+D2
+~
+~
+0 -1 8317
+D3
+~
+~
+0 -1 8290
+S
+#8292
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8266
+D1
+~
+~
+0 -1 8293
+D2
+~
+~
+0 -1 8318
+D3
+~
+~
+0 -1 8291
+S
+#8293
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8267
+D1
+~
+~
+0 -1 8294
+D2
+~
+~
+0 -1 8319
+D3
+~
+~
+0 -1 8292
+S
+#8294
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8268
+D1
+~
+~
+0 -1 8295
+D2
+~
+~
+0 -1 8320
+D3
+~
+~
+0 -1 8293
+S
+#8295
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8269
+D1
+~
+~
+0 -1 8296
+D2
+~
+~
+0 -1 8321
+D3
+~
+~
+0 -1 8294
+S
+#8296
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8270
+D1
+~
+~
+0 -1 8297
+D2
+~
+~
+0 -1 8322
+D3
+~
+~
+0 -1 8295
+S
+#8297
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8271
+D1
+~
+~
+0 -1 8298
+D2
+~
+~
+0 -1 8323
+D3
+~
+~
+0 -1 8296
+S
+#8298
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8272
+D1
+~
+~
+0 -1 8299
+D2
+~
+~
+0 -1 8324
+D3
+~
+~
+0 -1 8297
+S
+#8299
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8273
+D1
+~
+~
+0 -1 8274
+D2
+~
+~
+0 -1 8325
+D3
+~
+~
+0 -1 8298
+S
+#8300
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8274
+D1
+~
+~
+0 -1 8301
+D2
+~
+~
+0 -1 8326
+D3
+~
+~
+0 -1 8325
+R M 0 8000 50 8300
+S
+#8301
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8275
+D1
+~
+~
+0 -1 8302
+D2
+~
+~
+0 -1 8327
+D3
+~
+~
+0 -1 8300
+R M 0 8000 50 8301
+S
+#8302
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8276
+D1
+~
+~
+0 -1 8303
+D2
+~
+~
+0 -1 8328
+D3
+~
+~
+0 -1 8301
+S
+#8303
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8277
+D1
+~
+~
+0 -1 8304
+D2
+~
+~
+0 -1 8329
+D3
+~
+~
+0 -1 8302
+S
+#8304
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8278
+D1
+~
+~
+0 -1 8305
+D2
+~
+~
+0 -1 8330
+D3
+~
+~
+0 -1 8303
+R M 0 7904 15 8304
+S
+#8305
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8279
+D1
+~
+~
+0 -1 8306
+D2
+~
+~
+0 -1 8331
+D3
+~
+~
+0 -1 8304
+R M 0 7904 15 8305
+S
+#8306
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8280
+D1
+~
+~
+0 -1 8307
+D2
+~
+~
+0 -1 8332
+D3
+~
+~
+0 -1 8305
+S
+#8307
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8281
+D1
+~
+~
+0 -1 8308
+D2
+~
+~
+0 -1 8333
+D3
+~
+~
+0 -1 8306
+S
+#8308
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8282
+D1
+~
+~
+0 -1 8309
+D2
+~
+~
+0 -1 8334
+D3
+~
+~
+0 -1 8307
+S
+#8309
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8283
+D1
+~
+~
+0 -1 8310
+D2
+~
+~
+0 -1 8335
+D3
+~
+~
+0 -1 8308
+S
+#8310
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8284
+D1
+~
+~
+0 -1 8311
+D2
+~
+~
+0 -1 8336
+D3
+~
+~
+0 -1 8309
+S
+#8311
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8285
+D1
+~
+~
+0 -1 8312
+D2
+~
+~
+0 -1 8337
+D3
+~
+~
+0 -1 8310
+S
+#8312
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8286
+D1
+~
+~
+0 -1 8313
+D2
+~
+~
+0 -1 8338
+D3
+~
+~
+0 -1 8311
+S
+#8313
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8287
+D1
+~
+~
+0 -1 8314
+D2
+~
+~
+0 -1 8339
+D3
+~
+~
+0 -1 8312
+S
+#8314
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8288
+D1
+~
+~
+0 -1 8315
+D2
+~
+~
+0 -1 8340
+D3
+~
+~
+0 -1 8313
+R M 0 7902 75 8314
+S
+#8315
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8289
+D1
+~
+~
+0 -1 8316
+D2
+~
+~
+0 -1 8341
+D3
+~
+~
+0 -1 8314
+S
+#8316
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8290
+D1
+~
+~
+0 -1 8317
+D2
+~
+~
+0 -1 8342
+D3
+~
+~
+0 -1 8315
+S
+#8317
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8291
+D1
+~
+~
+0 -1 8318
+D2
+~
+~
+0 -1 8343
+D3
+~
+~
+0 -1 8316
+S
+#8318
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8292
+D1
+~
+~
+0 -1 8319
+D2
+~
+~
+0 -1 8344
+D3
+~
+~
+0 -1 8317
+R M 0 8000 50 8318
+S
+#8319
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8293
+D1
+~
+~
+0 -1 8320
+D2
+~
+~
+0 -1 8345
+D3
+~
+~
+0 -1 8318
+S
+#8320
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8294
+D1
+~
+~
+0 -1 8321
+D2
+~
+~
+0 -1 8346
+D3
+~
+~
+0 -1 8319
+S
+#8321
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8295
+D1
+~
+~
+0 -1 8322
+D2
+~
+~
+0 -1 8347
+D3
+~
+~
+0 -1 8320
+S
+#8322
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8296
+D1
+~
+~
+0 -1 8323
+D2
+~
+~
+0 -1 8348
+D3
+~
+~
+0 -1 8321
+S
+#8323
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8297
+D1
+~
+~
+0 -1 8324
+D2
+~
+~
+0 -1 8349
+D3
+~
+~
+0 -1 8322
+S
+#8324
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8298
+D1
+~
+~
+0 -1 8299
+D2
+~
+~
+0 -1 8350
+D3
+~
+~
+0 -1 8323
+S
+#8325
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8299
+D1
+~
+~
+0 -1 8326
+D2
+~
+~
+0 -1 8351
+D3
+~
+~
+0 -1 8350
+R M 0 7900 50 8325
+S
+#8326
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8300
+D1
+~
+~
+0 -1 8327
+D2
+~
+~
+0 -1 8352
+D3
+~
+~
+0 -1 8325
+S
+#8327
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8301
+D1
+~
+~
+0 -1 8328
+D2
+~
+~
+0 -1 8353
+D3
+~
+~
+0 -1 8326
+S
+#8328
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8302
+D1
+~
+~
+0 -1 8329
+D2
+~
+~
+0 -1 8354
+D3
+~
+~
+0 -1 8327
+S
+#8329
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8303
+D1
+~
+~
+0 -1 8330
+D2
+~
+~
+0 -1 8355
+D3
+~
+~
+0 -1 8328
+S
+#8330
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8304
+D1
+~
+~
+0 -1 8331
+D2
+~
+~
+0 -1 8356
+D3
+~
+~
+0 -1 8329
+R M 0 7903 30 8330
+S
+#8331
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8305
+D1
+~
+~
+0 -1 8332
+D2
+~
+~
+0 -1 8357
+D3
+~
+~
+0 -1 8330
+S
+#8332
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8306
+D1
+~
+~
+0 -1 8333
+D2
+~
+~
+0 -1 8358
+D3
+~
+~
+0 -1 8331
+S
+#8333
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8307
+D1
+~
+~
+0 -1 8334
+D2
+~
+~
+0 -1 8359
+D3
+~
+~
+0 -1 8332
+S
+#8334
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8308
+D1
+~
+~
+0 -1 8335
+D2
+~
+~
+0 -1 8360
+D3
+~
+~
+0 -1 8333
+S
+#8335
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8309
+D1
+~
+~
+0 -1 8336
+D2
+~
+~
+0 -1 8361
+D3
+~
+~
+0 -1 8334
+S
+#8336
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8310
+D1
+~
+~
+0 -1 8337
+D2
+~
+~
+0 -1 8362
+D3
+~
+~
+0 -1 8335
+S
+#8337
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8311
+D1
+~
+~
+0 -1 8338
+D2
+~
+~
+0 -1 8363
+D3
+~
+~
+0 -1 8336
+S
+#8338
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8312
+D1
+~
+~
+0 -1 8339
+D2
+~
+~
+0 -1 8364
+D3
+~
+~
+0 -1 8337
+S
+#8339
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8313
+D1
+~
+~
+0 -1 8340
+D2
+~
+~
+0 -1 8365
+D3
+~
+~
+0 -1 8338
+S
+#8340
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8314
+D1
+~
+~
+0 -1 8341
+D2
+~
+~
+0 -1 8366
+D3
+~
+~
+0 -1 8339
+S
+#8341
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8315
+D1
+~
+~
+0 -1 8342
+D2
+~
+~
+0 -1 8367
+D3
+~
+~
+0 -1 8340
+S
+#8342
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8316
+D1
+~
+~
+0 -1 8343
+D2
+~
+~
+0 -1 8368
+D3
+~
+~
+0 -1 8341
+S
+#8343
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8317
+D1
+~
+~
+0 -1 8344
+D2
+~
+~
+0 -1 8369
+D3
+~
+~
+0 -1 8342
+S
+#8344
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8318
+D1
+~
+~
+0 -1 8345
+D2
+~
+~
+0 -1 8370
+D3
+~
+~
+0 -1 8343
+S
+#8345
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8319
+D1
+~
+~
+0 -1 8346
+D2
+~
+~
+0 -1 8371
+D3
+~
+~
+0 -1 8344
+R M 0 7902 75 8345
+S
+#8346
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8320
+D1
+~
+~
+0 -1 8347
+D2
+~
+~
+0 -1 8372
+D3
+~
+~
+0 -1 8345
+S
+#8347
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8321
+D1
+~
+~
+0 -1 8348
+D2
+~
+~
+0 -1 8373
+D3
+~
+~
+0 -1 8346
+R M 0 7900 50 8347
+S
+#8348
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8322
+D1
+~
+~
+0 -1 8349
+D2
+~
+~
+0 -1 8374
+D3
+~
+~
+0 -1 8347
+S
+#8349
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8323
+D1
+~
+~
+0 -1 8324
+D2
+~
+~
+0 -1 8375
+D3
+~
+~
+0 -1 8348
+R M 0 7904 15 8349
+R M 0 7904 15 8349
+R M 0 7902 75 8349
+S
+#8350
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8324
+D1
+~
+~
+0 -1 8351
+D2
+~
+~
+0 -1 8376
+D3
+~
+~
+0 -1 8375
+S
+#8351
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8325
+D1
+~
+~
+0 -1 8352
+D2
+~
+~
+0 -1 8377
+D3
+~
+~
+0 -1 8350
+S
+#8352
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8326
+D1
+~
+~
+0 -1 8353
+D2
+~
+~
+0 -1 8378
+D3
+~
+~
+0 -1 8351
+S
+#8353
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8327
+D1
+~
+~
+0 -1 8354
+D2
+~
+~
+0 -1 8379
+D3
+~
+~
+0 -1 8352
+S
+#8354
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8328
+D1
+~
+~
+0 -1 8355
+D2
+~
+~
+0 -1 8380
+D3
+~
+~
+0 -1 8353
+S
+#8355
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8329
+D1
+~
+~
+0 -1 8356
+D2
+~
+~
+0 -1 8381
+D3
+~
+~
+0 -1 8354
+S
+#8356
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8330
+D1
+~
+~
+0 -1 8357
+D2
+~
+~
+0 -1 8382
+D3
+~
+~
+0 -1 8355
+S
+#8357
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8331
+D1
+~
+~
+0 -1 8358
+D2
+~
+~
+0 -1 8383
+D3
+~
+~
+0 -1 8356
+S
+#8358
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8332
+D1
+~
+~
+0 -1 8359
+D2
+~
+~
+0 -1 8384
+D3
+~
+~
+0 -1 8357
+S
+#8359
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8333
+D1
+~
+~
+0 -1 8360
+D2
+~
+~
+0 -1 8385
+D3
+~
+~
+0 -1 8358
+S
+#8360
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8334
+D1
+~
+~
+0 -1 8361
+D2
+~
+~
+0 -1 8386
+D3
+~
+~
+0 -1 8359
+S
+#8361
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8335
+D1
+~
+~
+0 -1 8362
+D2
+~
+~
+0 -1 8387
+D3
+~
+~
+0 -1 8360
+S
+#8362
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8336
+D1
+~
+~
+0 -1 8363
+D2
+~
+~
+0 -1 8388
+D3
+~
+~
+0 -1 8361
+S
+#8363
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8337
+D1
+~
+~
+0 -1 8364
+D2
+~
+~
+0 -1 8389
+D3
+~
+~
+0 -1 8362
+S
+#8364
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8338
+D1
+~
+~
+0 -1 8365
+D2
+~
+~
+0 -1 8390
+D3
+~
+~
+0 -1 8363
+S
+#8365
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8339
+D1
+~
+~
+0 -1 8366
+D2
+~
+~
+0 -1 8391
+D3
+~
+~
+0 -1 8364
+S
+#8366
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8340
+D1
+~
+~
+0 -1 8367
+D2
+~
+~
+0 -1 8392
+D3
+~
+~
+0 -1 8365
+S
+#8367
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8341
+D1
+~
+~
+0 -1 8368
+D2
+~
+~
+0 -1 8393
+D3
+~
+~
+0 -1 8366
+S
+#8368
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8342
+D1
+~
+~
+0 -1 8369
+D2
+~
+~
+0 -1 8394
+D3
+~
+~
+0 -1 8367
+S
+#8369
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8343
+D1
+~
+~
+0 -1 8370
+D2
+~
+~
+0 -1 8395
+D3
+~
+~
+0 -1 8368
+S
+#8370
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8344
+D1
+~
+~
+0 -1 8371
+D2
+~
+~
+0 -1 8396
+D3
+~
+~
+0 -1 8369
+S
+#8371
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8345
+D1
+~
+~
+0 -1 8372
+D2
+~
+~
+0 -1 8397
+D3
+~
+~
+0 -1 8370
+S
+#8372
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8346
+D1
+~
+~
+0 -1 8373
+D2
+~
+~
+0 -1 8398
+D3
+~
+~
+0 -1 8371
+S
+#8373
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8347
+D1
+~
+~
+0 -1 8374
+D2
+~
+~
+0 -1 8399
+D3
+~
+~
+0 -1 8372
+S
+#8374
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8348
+D1
+~
+~
+0 -1 8349
+D2
+~
+~
+0 -1 8400
+D3
+~
+~
+0 -1 8373
+S
+#8375
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8349
+D1
+~
+~
+0 -1 8376
+D2
+~
+~
+0 -1 8401
+D3
+~
+~
+0 -1 8400
+R M 0 7901 40 8375
+S
+#8376
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8350
+D1
+~
+~
+0 -1 8377
+D2
+~
+~
+0 -1 8402
+D3
+~
+~
+0 -1 8375
+R M 0 7900 50 8376
+S
+#8377
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8351
+D1
+~
+~
+0 -1 8378
+D2
+~
+~
+0 -1 8403
+D3
+~
+~
+0 -1 8376
+S
+#8378
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8352
+D1
+~
+~
+0 -1 8379
+D2
+~
+~
+0 -1 8404
+D3
+~
+~
+0 -1 8377
+S
+#8379
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8353
+D1
+~
+~
+0 -1 8380
+D2
+~
+~
+0 -1 8405
+D3
+~
+~
+0 -1 8378
+S
+#8380
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8354
+D1
+~
+~
+0 -1 8381
+D2
+~
+~
+0 -1 8406
+D3
+~
+~
+0 -1 8379
+S
+#8381
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8355
+D1
+~
+~
+0 -1 8382
+D2
+~
+~
+0 -1 8407
+D3
+~
+~
+0 -1 8380
+S
+#8382
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8356
+D1
+~
+~
+0 -1 8383
+D2
+~
+~
+0 -1 8408
+D3
+~
+~
+0 -1 8381
+S
+#8383
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8357
+D1
+~
+~
+0 -1 8384
+D2
+~
+~
+0 -1 8409
+D3
+~
+~
+0 -1 8382
+S
+#8384
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8358
+D1
+~
+~
+0 -1 8385
+D2
+~
+~
+0 -1 8410
+D3
+~
+~
+0 -1 8383
+S
+#8385
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8359
+D1
+~
+~
+0 -1 8386
+D2
+~
+~
+0 -1 8411
+D3
+~
+~
+0 -1 8384
+S
+#8386
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8360
+D1
+~
+~
+0 -1 8387
+D2
+~
+~
+0 -1 8412
+D3
+~
+~
+0 -1 8385
+R M 0 7903 30 8386
+S
+#8387
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8361
+D1
+~
+~
+0 -1 8388
+D2
+~
+~
+0 -1 8413
+D3
+~
+~
+0 -1 8386
+S
+#8388
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8362
+D1
+~
+~
+0 -1 8389
+D2
+~
+~
+0 -1 8414
+D3
+~
+~
+0 -1 8387
+S
+#8389
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8363
+D1
+~
+~
+0 -1 8390
+D2
+~
+~
+0 -1 8415
+D3
+~
+~
+0 -1 8388
+R M 0 7903 30 8389
+S
+#8390
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8364
+D1
+~
+~
+0 -1 8391
+D2
+~
+~
+0 -1 8416
+D3
+~
+~
+0 -1 8389
+S
+#8391
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8365
+D1
+~
+~
+0 -1 8392
+D2
+~
+~
+0 -1 8417
+D3
+~
+~
+0 -1 8390
+S
+#8392
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8366
+D1
+~
+~
+0 -1 8393
+D2
+~
+~
+0 -1 8418
+D3
+~
+~
+0 -1 8391
+R M 0 7902 75 8392
+S
+#8393
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8367
+D1
+~
+~
+0 -1 8394
+D2
+~
+~
+0 -1 8419
+D3
+~
+~
+0 -1 8392
+S
+#8394
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8368
+D1
+~
+~
+0 -1 8395
+D2
+~
+~
+0 -1 8420
+D3
+~
+~
+0 -1 8393
+S
+#8395
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8369
+D1
+~
+~
+0 -1 8396
+D2
+~
+~
+0 -1 8421
+D3
+~
+~
+0 -1 8394
+S
+#8396
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8370
+D1
+~
+~
+0 -1 8397
+D2
+~
+~
+0 -1 8422
+D3
+~
+~
+0 -1 8395
+S
+#8397
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8371
+D1
+~
+~
+0 -1 8398
+D2
+~
+~
+0 -1 8423
+D3
+~
+~
+0 -1 8396
+S
+#8398
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8372
+D1
+~
+~
+0 -1 8399
+D2
+~
+~
+0 -1 8424
+D3
+~
+~
+0 -1 8397
+S
+#8399
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8373
+D1
+~
+~
+0 -1 8374
+D2
+~
+~
+0 -1 8425
+D3
+~
+~
+0 -1 8398
+R M 0 7900 50 8399
+S
+#8400
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8374
+D1
+~
+~
+0 -1 8401
+D2
+~
+~
+0 -1 8426
+D3
+~
+~
+0 -1 8425
+R M 0 8000 50 8400
+S
+#8401
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8375
+D1
+~
+~
+0 -1 8402
+D2
+~
+~
+0 -1 8427
+D3
+~
+~
+0 -1 8400
+R M 0 7901 40 8401
+S
+#8402
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8376
+D1
+~
+~
+0 -1 8403
+D2
+~
+~
+0 -1 8428
+D3
+~
+~
+0 -1 8401
+S
+#8403
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8377
+D1
+~
+~
+0 -1 8404
+D2
+~
+~
+0 -1 8429
+D3
+~
+~
+0 -1 8402
+S
+#8404
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8378
+D1
+~
+~
+0 -1 8405
+D2
+~
+~
+0 -1 8430
+D3
+~
+~
+0 -1 8403
+S
+#8405
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8379
+D1
+~
+~
+0 -1 8406
+D2
+~
+~
+0 -1 8431
+D3
+~
+~
+0 -1 8404
+S
+#8406
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8380
+D1
+~
+~
+0 -1 8407
+D2
+~
+~
+0 -1 8432
+D3
+~
+~
+0 -1 8405
+S
+#8407
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8381
+D1
+~
+~
+0 -1 8408
+D2
+~
+~
+0 -1 8433
+D3
+~
+~
+0 -1 8406
+S
+#8408
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8382
+D1
+~
+~
+0 -1 8409
+D2
+~
+~
+0 -1 8434
+D3
+~
+~
+0 -1 8407
+S
+#8409
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8383
+D1
+~
+~
+0 -1 8410
+D2
+~
+~
+0 -1 8435
+D3
+~
+~
+0 -1 8408
+S
+#8410
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8384
+D1
+~
+~
+0 -1 8411
+D2
+~
+~
+0 -1 8436
+D3
+~
+~
+0 -1 8409
+S
+#8411
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8385
+D1
+~
+~
+0 -1 8412
+D2
+~
+~
+0 -1 8437
+D3
+~
+~
+0 -1 8410
+S
+#8412
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8386
+D1
+~
+~
+0 -1 8413
+D2
+~
+~
+0 -1 8438
+D3
+~
+~
+0 -1 8411
+S
+#8413
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8387
+D1
+~
+~
+0 -1 8414
+D2
+~
+~
+0 -1 8439
+D3
+~
+~
+0 -1 8412
+S
+#8414
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8388
+D1
+~
+~
+0 -1 8415
+D2
+~
+~
+0 -1 8440
+D3
+~
+~
+0 -1 8413
+S
+#8415
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8389
+D1
+~
+~
+0 -1 8416
+D2
+~
+~
+0 -1 8441
+D3
+~
+~
+0 -1 8414
+S
+#8416
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8390
+D1
+~
+~
+0 -1 8417
+D2
+~
+~
+0 -1 8442
+D3
+~
+~
+0 -1 8415
+S
+#8417
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8391
+D1
+~
+~
+0 -1 8418
+D2
+~
+~
+0 -1 8443
+D3
+~
+~
+0 -1 8416
+R M 0 7901 40 8417
+S
+#8418
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8392
+D1
+~
+~
+0 -1 8419
+D2
+~
+~
+0 -1 8444
+D3
+~
+~
+0 -1 8417
+R M 0 7902 75 8418
+S
+#8419
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8393
+D1
+~
+~
+0 -1 8420
+D2
+~
+~
+0 -1 8445
+D3
+~
+~
+0 -1 8418
+S
+#8420
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8394
+D1
+~
+~
+0 -1 8421
+D2
+~
+~
+0 -1 8446
+D3
+~
+~
+0 -1 8419
+R M 0 7902 75 8420
+R M 0 7901 40 8420
+S
+#8421
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8395
+D1
+~
+~
+0 -1 8422
+D2
+~
+~
+0 -1 8447
+D3
+~
+~
+0 -1 8420
+S
+#8422
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8396
+D1
+~
+~
+0 -1 8423
+D2
+~
+~
+0 -1 8448
+D3
+~
+~
+0 -1 8421
+S
+#8423
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8397
+D1
+~
+~
+0 -1 8424
+D2
+~
+~
+0 -1 8449
+D3
+~
+~
+0 -1 8422
+R M 0 7902 75 8423
+S
+#8424
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8398
+D1
+~
+~
+0 -1 8399
+D2
+~
+~
+0 -1 8450
+D3
+~
+~
+0 -1 8423
+S
+#8425
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8399
+D1
+~
+~
+0 -1 8426
+D2
+~
+~
+0 -1 8451
+D3
+~
+~
+0 -1 8450
+S
+#8426
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8400
+D1
+~
+~
+0 -1 8427
+D2
+~
+~
+0 -1 8452
+D3
+~
+~
+0 -1 8425
+S
+#8427
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8401
+D1
+~
+~
+0 -1 8428
+D2
+~
+~
+0 -1 8453
+D3
+~
+~
+0 -1 8426
+S
+#8428
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8402
+D1
+~
+~
+0 -1 8429
+D2
+~
+~
+0 -1 8454
+D3
+~
+~
+0 -1 8427
+S
+#8429
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8403
+D1
+~
+~
+0 -1 8430
+D2
+~
+~
+0 -1 8455
+D3
+~
+~
+0 -1 8428
+S
+#8430
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8404
+D1
+~
+~
+0 -1 8431
+D2
+~
+~
+0 -1 8456
+D3
+~
+~
+0 -1 8429
+S
+#8431
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8405
+D1
+~
+~
+0 -1 8432
+D2
+~
+~
+0 -1 8457
+D3
+~
+~
+0 -1 8430
+S
+#8432
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8406
+D1
+~
+~
+0 -1 8433
+D2
+~
+~
+0 -1 8458
+D3
+~
+~
+0 -1 8431
+S
+#8433
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8407
+D1
+~
+~
+0 -1 8434
+D2
+~
+~
+0 -1 8459
+D3
+~
+~
+0 -1 8432
+S
+#8434
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8408
+D1
+~
+~
+0 -1 8435
+D2
+~
+~
+0 -1 8460
+D3
+~
+~
+0 -1 8433
+S
+#8435
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8409
+D1
+~
+~
+0 -1 8436
+D2
+~
+~
+0 -1 8461
+D3
+~
+~
+0 -1 8434
+S
+#8436
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8410
+D1
+~
+~
+0 -1 8437
+D2
+~
+~
+0 -1 8462
+D3
+~
+~
+0 -1 8435
+S
+#8437
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8411
+D1
+~
+~
+0 -1 8438
+D2
+~
+~
+0 -1 8463
+D3
+~
+~
+0 -1 8436
+S
+#8438
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8412
+D1
+~
+~
+0 -1 8439
+D2
+~
+~
+0 -1 8464
+D3
+~
+~
+0 -1 8437
+S
+#8439
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8413
+D1
+~
+~
+0 -1 8440
+D2
+~
+~
+0 -1 8465
+D3
+~
+~
+0 -1 8438
+S
+#8440
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8414
+D1
+~
+~
+0 -1 8441
+D2
+~
+~
+0 -1 8466
+D3
+~
+~
+0 -1 8439
+S
+#8441
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8415
+D1
+~
+~
+0 -1 8442
+D2
+~
+~
+0 -1 8467
+D3
+~
+~
+0 -1 8440
+S
+#8442
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8416
+D1
+~
+~
+0 -1 8443
+D2
+~
+~
+0 -1 8468
+D3
+~
+~
+0 -1 8441
+R M 0 7901 40 8442
+S
+#8443
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8417
+D1
+~
+~
+0 -1 8444
+D2
+~
+~
+0 -1 8469
+D3
+~
+~
+0 -1 8442
+S
+#8444
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8418
+D1
+~
+~
+0 -1 8445
+D2
+~
+~
+0 -1 8470
+D3
+~
+~
+0 -1 8443
+R M 0 7902 75 8444
+S
+#8445
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8419
+D1
+~
+~
+0 -1 8446
+D2
+~
+~
+0 -1 8471
+D3
+~
+~
+0 -1 8444
+S
+#8446
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8420
+D1
+~
+~
+0 -1 8447
+D2
+~
+~
+0 -1 8472
+D3
+~
+~
+0 -1 8445
+S
+#8447
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8421
+D1
+~
+~
+0 -1 8448
+D2
+~
+~
+0 -1 8473
+D3
+~
+~
+0 -1 8446
+R M 0 7902 75 8447
+S
+#8448
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8422
+D1
+~
+~
+0 -1 8449
+D2
+~
+~
+0 -1 8474
+D3
+~
+~
+0 -1 8447
+R M 0 7900 50 8448
+S
+#8449
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8423
+D1
+~
+~
+0 -1 8424
+D2
+~
+~
+0 -1 8475
+D3
+~
+~
+0 -1 8448
+S
+#8450
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8424
+D1
+~
+~
+0 -1 8451
+D2
+~
+~
+0 -1 8476
+D3
+~
+~
+0 -1 8475
+R M 0 8000 50 8450
+S
+#8451
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8425
+D1
+~
+~
+0 -1 8452
+D2
+~
+~
+0 -1 8477
+D3
+~
+~
+0 -1 8450
+S
+#8452
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8426
+D1
+~
+~
+0 -1 8453
+D2
+~
+~
+0 -1 8478
+D3
+~
+~
+0 -1 8451
+S
+#8453
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8427
+D1
+~
+~
+0 -1 8454
+D2
+~
+~
+0 -1 8479
+D3
+~
+~
+0 -1 8452
+R M 0 7902 75 8453
+S
+#8454
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8428
+D1
+~
+~
+0 -1 8455
+D2
+~
+~
+0 -1 8480
+D3
+~
+~
+0 -1 8453
+S
+#8455
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8429
+D1
+~
+~
+0 -1 8456
+D2
+~
+~
+0 -1 8481
+D3
+~
+~
+0 -1 8454
+S
+#8456
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8430
+D1
+~
+~
+0 -1 8457
+D2
+~
+~
+0 -1 8482
+D3
+~
+~
+0 -1 8455
+S
+#8457
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8431
+D1
+~
+~
+0 -1 8458
+D2
+~
+~
+0 -1 8483
+D3
+~
+~
+0 -1 8456
+R M 0 7902 75 8457
+S
+#8458
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8432
+D1
+~
+~
+0 -1 8459
+D2
+~
+~
+0 -1 8484
+D3
+~
+~
+0 -1 8457
+S
+#8459
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8433
+D1
+~
+~
+0 -1 8460
+D2
+~
+~
+0 -1 8485
+D3
+~
+~
+0 -1 8458
+S
+#8460
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8434
+D1
+~
+~
+0 -1 8461
+D2
+~
+~
+0 -1 8486
+D3
+~
+~
+0 -1 8459
+S
+#8461
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8435
+D1
+~
+~
+0 -1 8462
+D2
+~
+~
+0 -1 8487
+D3
+~
+~
+0 -1 8460
+S
+#8462
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8436
+D1
+~
+~
+0 -1 8463
+D2
+~
+~
+0 -1 8488
+D3
+~
+~
+0 -1 8461
+S
+#8463
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8437
+D1
+~
+~
+0 -1 8464
+D2
+~
+~
+0 -1 8489
+D3
+~
+~
+0 -1 8462
+S
+#8464
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8438
+D1
+~
+~
+0 -1 8465
+D2
+~
+~
+0 -1 8490
+D3
+~
+~
+0 -1 8463
+S
+#8465
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8439
+D1
+~
+~
+0 -1 8466
+D2
+~
+~
+0 -1 8491
+D3
+~
+~
+0 -1 8464
+S
+#8466
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8440
+D1
+~
+~
+0 -1 8467
+D2
+~
+~
+0 -1 8492
+D3
+~
+~
+0 -1 8465
+S
+#8467
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8441
+D1
+~
+~
+0 -1 8468
+D2
+~
+~
+0 -1 8493
+D3
+~
+~
+0 -1 8466
+R M 0 7901 40 8467
+S
+#8468
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8442
+D1
+~
+~
+0 -1 8469
+D2
+~
+~
+0 -1 8494
+D3
+~
+~
+0 -1 8467
+S
+#8469
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8443
+D1
+~
+~
+0 -1 8470
+D2
+~
+~
+0 -1 8495
+D3
+~
+~
+0 -1 8468
+S
+#8470
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8444
+D1
+~
+~
+0 -1 8471
+D2
+~
+~
+0 -1 8496
+D3
+~
+~
+0 -1 8469
+S
+#8471
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8445
+D1
+~
+~
+0 -1 8472
+D2
+~
+~
+0 -1 8497
+D3
+~
+~
+0 -1 8470
+S
+#8472
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8446
+D1
+~
+~
+0 -1 8473
+D2
+~
+~
+0 -1 8498
+D3
+~
+~
+0 -1 8471
+S
+#8473
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8447
+D1
+~
+~
+0 -1 8474
+D2
+~
+~
+0 -1 8499
+D3
+~
+~
+0 -1 8472
+S
+#8474
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8448
+D1
+~
+~
+0 -1 8449
+D3
+~
+~
+0 -1 8473
+R M 0 7900 50 8474
+S
+#8475
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8449
+D1
+~
+~
+0 -1 8476
+R M 0 7905 10 8475
+R M 0 7902 75 8475
+R M 0 7901 40 8475
+R M 0 7901 40 8475
+R M 0 7900 50 8475
+R M 0 7900 50 8475
+S
+#8476
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8450
+D1
+~
+~
+0 -1 8477
+D3
+~
+~
+0 -1 8475
+S
+#8477
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8451
+D1
+~
+~
+0 -1 8478
+D3
+~
+~
+0 -1 8476
+R M 0 8000 50 8477
+S
+#8478
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8452
+D1
+~
+~
+0 -1 8479
+D3
+~
+~
+0 -1 8477
+S
+#8479
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8453
+D1
+~
+~
+0 -1 8480
+D3
+~
+~
+0 -1 8478
+R M 0 7900 50 8479
+S
+#8480
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8454
+D1
+~
+~
+0 -1 8481
+D3
+~
+~
+0 -1 8479
+S
+#8481
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8455
+D1
+~
+~
+0 -1 8482
+D3
+~
+~
+0 -1 8480
+S
+#8482
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8456
+D1
+~
+~
+0 -1 8483
+D3
+~
+~
+0 -1 8481
+R M 0 7901 40 8482
+S
+#8483
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8457
+D1
+~
+~
+0 -1 8484
+D3
+~
+~
+0 -1 8482
+R M 0 8000 50 8483
+S
+#8484
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8458
+D1
+~
+~
+0 -1 8485
+D3
+~
+~
+0 -1 8483
+R M 0 7902 75 8484
+S
+#8485
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8459
+D1
+~
+~
+0 -1 8486
+D3
+~
+~
+0 -1 8484
+R M 0 7900 50 8485
+S
+#8486
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8460
+D1
+~
+~
+0 -1 8487
+D3
+~
+~
+0 -1 8485
+S
+#8487
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8461
+D1
+~
+~
+0 -1 8488
+D3
+~
+~
+0 -1 8486
+R M 0 7905 10 8487
+S
+#8488
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8462
+D1
+~
+~
+0 -1 8489
+D3
+~
+~
+0 -1 8487
+R M 0 7902 75 8488
+R M 0 7901 40 8488
+S
+#8489
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8463
+D1
+~
+~
+0 -1 8490
+D3
+~
+~
+0 -1 8488
+S
+#8490
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8464
+D1
+~
+~
+0 -1 8491
+D3
+~
+~
+0 -1 8489
+S
+#8491
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8465
+D1
+~
+~
+0 -1 8492
+D3
+~
+~
+0 -1 8490
+R M 0 7900 50 8491
+R M 0 7900 50 8491
+S
+#8492
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8466
+D1
+~
+~
+0 -1 8493
+D3
+~
+~
+0 -1 8491
+R M 0 7902 75 8492
+S
+#8493
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8467
+D1
+~
+~
+0 -1 8494
+D3
+~
+~
+0 -1 8492
+R M 0 7901 40 8493
+S
+#8494
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8468
+D1
+~
+~
+0 -1 8495
+D3
+~
+~
+0 -1 8493
+S
+#8495
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8469
+D1
+~
+~
+0 -1 8496
+D3
+~
+~
+0 -1 8494
+S
+#8496
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8470
+D1
+~
+~
+0 -1 8497
+D3
+~
+~
+0 -1 8495
+R M 0 7902 75 8496
+S
+#8497
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8471
+D1
+~
+~
+0 -1 8498
+D3
+~
+~
+0 -1 8496
+R M 0 7900 50 8497
+S
+#8498
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8472
+D1
+~
+~
+0 -1 8499
+D3
+~
+~
+0 -1 8497
+S
+#8499
+A large field~
+~
+A large field stretches before you, leading to parts unknown. 
+~
+1 0 2
+D0
+~
+~
+0 -1 8473
+D1
+~
+~
+0 -1 8474
+D3
+~
+~
+0 -1 8498
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

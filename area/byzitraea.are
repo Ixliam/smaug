@@ -1,0 +1,1717 @@
+#AREA        Byzitraea~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12100
+demon lord~
+a demon lord~
+A towering, demon lord is here, striding down the street with avengence.
+~
+This rather large male demon is quite nasty looking. His legs are similar to 
+a goats with sharp hoofs. Two massive horns stick out the top of his head 
+pointing forward. The tips of the horns look like they could cause some 
+extreme damage. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12101
+demon greater menacing~
+a greater demon~
+A greater demon is here, conjuring up a spell.
+~
+This rather large male demon is quite nasty looking. His legs are similar to 
+a goats with sharp hoofs. Two massive horns stick out the top of his head 
+pointing forward. The tips of the horns look like they could cause some 
+extreme damage. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12102
+demon overlord~
+the demon `#`So`bv`Be`brlo`Br`Sd`^~
+A massively `#`gt`Ge`Yr`yr`rif`yy`Yi`Gn`gg`^ demon `#`So`bv`Be`brlo`Br`Sd`^ is here smokin' a cigar with a smirk.
+~
+Standing.. sitting.. I don't know.. you decide.. is a Friggen HUGE demon. 
+Huge. Just.. just huge. Bulbous greasy arms sprout.. yeah, sprout from his 
+slimy, greasy body. He looks more like a maggot that's been filled with 
+jelly. Waddling about here and there.. jiggling with every movement.. that 
+Smirk.. Omg.. the smirk. That disgusting smirk is always there as he smokes 
+his cigar.. and the SMELL!! GODS!! What IS that SMELL?! You stand there 
+stupified.. should you hit him? Heck.. if you did i bet your sword would 
+bounce off.. wanna try? 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12103
+cambion citizen~
+a `#`RC`ra`Smbi`ro`Rn `rC`Xi`Stiz`Xe`rn`^~
+A cambion citizen walks along the streets here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12104
+gurke demon shop armor~
+gurke, The Armorer~
+A very stout demon is here waiting impatiently for your business.
+~
+This stout demon has very bad breath, but decent skills with a hammer. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12105
+narkal demon weaponsmith shop~
+narkal, The Weaponsmith~
+A smelly demon is here trying to fall asleep on the counter.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12106
+ugzak demon jeweler jewelry shopkeeper~
+ugzak, The Jeweler~
+A tall, scrawny demon is here, staring at a diamond greedily.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12107
+feefee alchemy demon succubus succubi~
+feefee, The Jeweler~
+A supple female demon is here just waiting to take your order.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12108
+weremar general store demon chubby~
+weremar, The Retailer~
+A chubby, old male demon is here enjoying a cigar.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12109
+yila trainer demon succubus succubi~
+yila, the Trainer~
+An atheletic, female demon is here to whip you into shape.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12110
+shadow heal healer figure demon~
+a shadowy figure~
+A shadowy figure is here, hoping to put some bounce in your step.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12111
+demon banker bank succubus succubi~
+akashka, The Banker~
+A luscious female demon is here, wearing revealing clothing.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12100
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12101
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 290 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12102
+potion armor~
+a potion of armor~
+A potion of armor is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 425 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12103
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12104
+refreshing potion~
+a refreshing potion~
+A refreshing potion is here on the ground.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12105
+off white potion haste~
+an off white potion of `#`whaste`^~
+A white potion lays here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12106
+blank scroll~
+a blank scroll~
+A blank scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12107
+empty potion~
+an empty potion~
+A potion bottle is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12108
+obsidian plate belt~
+an `#`Xo`Sbsidian`^ plated belt~
+A belt made out of a strong dark stone is here.~
+~
+9 16 8
+10 10 11 0 0 0 0
+1 1840 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12109
+obsidian plate gauntlets gloves~
+a pair of `#`Xo`Sbsidian`^ plate gauntlets~
+A pair of gauntlets made out of a strong dark stone are here.~
+~
+9 16 8
+10 10 12 0 0 0 0
+1 1860 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12110
+obsidian plated boots~
+a pair of `#`Xo`Sbsidian`^ plated boots~
+A pair of boots made out of a strong dark stone are here.~
+~
+9 16 8
+10 10 12 0 0 0 0
+1 1840 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12111
+obsidian plate legs~
+a pair of `#`Xo`Sbsidian`^ leg plates~
+A pair of leg plates made of a strong dark stone are here.~
+~
+9 16 8
+5 5 15 0 0 0 0
+1 2010 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12112
+obsidian plate vambraces arm~
+a pair of `#`Xo`Sbsidian`^ plate vambraces~
+A pair of vambraces made from a strong dark stone are here.~
+~
+9 16 8
+5 5 15 0 0 0 0
+1 1980 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12113
+obsidian breastplate plate armor armour~
+an `#`Xo`Sbsidian`^ breastplate~
+A breastplate made from a strong dark stone is here.~
+~
+9 16 8
+5 5 18 0 0 0 0
+2 2360 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12114
+obsidian full helm head~
+an `#`Xo`Sbsidian`^ full helm~
+A helm made from a strong dark stone is here.~
+~
+9 16 8
+10 10 15 0 0 0 0
+1 2240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12115
+obsidian dagger~
+an `#`Xo`Sbsidian`^ dagger~
+A dagger made from a strong dark stone is here.~
+~
+5 16 4
+6 17 25 136 0 0 0
+1 2910 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12116
+obsidian stone mace~
+an `#`Xo`Sbsidian`^ mace~
+A mace made from a strong dark stone is here.~
+~
+5 16 4
+15 7 16 136 0 0 0
+1 3010 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12117
+obsidian stone whip~
+an `#`Xo`Sbsidian`^ laced whip~
+A whip made from a strong dark stone is here.~
+~
+5 16 4
+10 14 24 136 0 0 0
+1 3110 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12118
+one-handed handed obsidian axe stone~
+an `#`Xo`Sbsidian`^ one-handed axe~
+A one-handed axe made from a strong dark stone is here.~
+~
+5 16 4
+11 7 16 136 0 0 0
+1 3250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12119
+obsidian halberd stone~
+an `#`Xo`Sbsidian`^ halberd~
+A halberd made from a strong dark stone is here.~
+~
+5 16 4
+9 17 25 168 0 0 0
+1 3310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12120
+obsidian longsword sword~
+an `#`Xo`Sbsidian`^ longsword~
+A longsword made out of a strong dark stone is here.~
+~
+5 16 4
+15 14 24 136 0 0 0
+1 3120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12121
+obsidian ring stone~
+an `#`Xo`Sbsidian`^ ring~
+A ring made from a strong dark stone is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 2560 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12122
+obsidian pendant stone~
+an `#`Xo`Sbsidian`^ pendant~
+A pendant made from a strong dark stone is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 2810 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12123
+obsidian bracelet stone~
+an `#`Xo`Sbsidian`^ bracelet~
+A bracelet made from a strong dark stone is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 3510 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12124
+obsidian earring stud stone~
+an `#`Xo`Sbsidian`^ stud earring~
+A stud earring made from a strong dark stone is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 3230 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12125
+obsidian anklet stone~
+an `#`Xo`Sbsidian`^ anklet~
+An anklet made from a strong dark stone is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 3120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12126
+leg malkatar bbq barbequed chicken~
+a barbequed malkatar leg~
+A freshly barbequed malkatar leg is here to eat.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 39 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12127
+elven skin waterskin water~
+an elven-skin waterskin~
+A waterskin made from a skinned elven boy has been left here.~
+~
+17 0 16
+100 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12128
+pack back backpack skin dragonhide~
+a dragonhide backpack~
+A dragonhide backpack has been left here.~
+~
+15 0 8
+1 0 200 45 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12128 pack back backpack large dragonhide leather~
+It looks pretty big on the inside.
+~
+#12129
+burning soul light~
+a burning soul~
+A burning soul is here emitting a lot of energy.~
+~
+1 64 1
+0 175 0 0 0 0 0
+1 389 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12130
+bedroll skin minotaur~
+a minotaur-skin bedroll~
+A bedroll made from minotaur skin has been left here.~
+~
+12 16 8
+9999 9362 115 115 0 0 0
+1 106 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#12100
+Entrance to Byzitraea~
+~
+You enter into the city of Byzitraea. The walls and ceiling of the city are 
+made entirely out of obsidian from the lava flows above. Demons and cambions 
+walk the streets. Occasionally a steam vent opens and releases hot steam 
+from the ground and walls. The occasional gem can be found to sell. 
+~
+1 0 0
+D0
+~
+~
+1 0 12101
+D4
+~
+~
+0 0 9480
+S
+#12101
+Power and Pain~
+~
+You enter into the city of Byzitraea. The walls and ceiling of the city are 
+made entirely out of obsidian from the lava flows above. Demons and cambions 
+walk the streets. Occasionally a steam vent opens and releases hot steam 
+from the ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12104
+D1
+~
+~
+0 0 12103
+D2
+~
+~
+1 0 12100
+D3
+~
+~
+0 0 12102
+R M 0 12103 20 12101
+S
+#12102
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 12125
+S
+#12103
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12119
+D3
+~
+~
+0 0 12101
+S
+#12104
+Street of Power~
+~
+Along the Street of Power, north of you is the center of the city. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12105
+D2
+~
+~
+0 0 12101
+S
+#12105
+Wealth and Power~
+~
+At the cross of Wealth and Power, to the west is the governor's mansion and 
+to the east are the shops. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12106
+D1
+~
+~
+0 0 12108
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12132
+R M 0 12103 20 12105
+S
+#12106
+Street of Power~
+~
+Along the Street of Power, south of you is the center of the city. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12107
+D2
+~
+~
+0 0 12105
+S
+#12107
+Power and Greed~
+~
+At the cross of Power and Greed, Street of Greed runs east and west, and the 
+Street of Power runs south. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12111
+D2
+~
+~
+0 0 12106
+D3
+~
+~
+0 0 12109
+R M 0 12103 20 12107
+S
+#12108
+Street of Wealth~
+~
+Along the Street of Wealth, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12134
+D1
+~
+~
+0 0 12110
+D2
+~
+~
+0 0 12135
+D3
+~
+~
+0 0 12105
+S
+#12109
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12107
+D3
+~
+~
+0 0 12123
+S
+#12110
+Street of Wealth~
+~
+Along the Street of Wealth, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12136
+D1
+~
+~
+0 0 12131
+D2
+~
+~
+0 0 12137
+D3
+~
+~
+0 0 12108
+S
+#12111
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12147
+D1
+~
+~
+0 0 12112
+D3
+~
+~
+0 0 12107
+S
+#12112
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12113
+D3
+~
+~
+0 0 12111
+R M 0 12100 20 12112
+S
+#12113
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12114
+D3
+~
+~
+0 0 12112
+S
+#12114
+Suffering and Greed~
+~
+At the corner of Suffering and Greed, Street of Greed runs west, and Street 
+of Suffering to the south. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D2
+~
+~
+0 0 12115
+D3
+~
+~
+0 0 12113
+R M 0 12103 20 12114
+S
+#12115
+Street of Suffering~
+~
+Along the Street of Suffering, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12114
+D2
+~
+~
+0 0 12116
+R M 0 12101 20 12115
+S
+#12116
+Street of Suffering~
+~
+Along the Street of Suffering, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12115
+D2
+~
+~
+0 0 12117
+R M 0 12100 20 12116
+S
+#12117
+Street of Suffering~
+~
+Along the Street of Suffering, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12116
+D2
+~
+~
+0 0 12118
+R M 0 12101 20 12117
+S
+#12118
+Pain and Suffering~
+~
+At the corner of Pain and Suffering, Street of Pain runs west, and Street 
+of Suffering to the north. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12117
+D3
+~
+~
+0 0 12121
+R M 0 12103 20 12118
+S
+#12119
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12121
+D3
+~
+~
+0 0 12103
+R M 0 12100 20 12119
+S
+#12121
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12118
+D3
+~
+~
+0 0 12119
+S
+#12122
+Greed and Desolation~
+~
+At the corner of Greed and Desolation, Street of Greed runs east, and Street 
+of Desolation to the south. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12124
+D2
+~
+~
+0 0 12128
+R M 0 12103 20 12122
+S
+#12123
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12109
+D3
+~
+~
+0 0 12124
+R M 0 12100 20 12123
+S
+#12124
+Street of Greed~
+~
+Along the Street of Greed, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12123
+D3
+~
+~
+0 0 12122
+S
+#12125
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12102
+D3
+~
+~
+0 0 12126
+R M 0 12100 20 12125
+S
+#12126
+Street of Pain~
+~
+Along the Street of Pain, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 12125
+D3
+~
+~
+0 0 12127
+S
+#12127
+Desolation and Pain~
+~
+At the corner of Desolation and Pain, Street of Pain runs east, and Street 
+of Desolation to the north. The walls and ceiling of the city are made 
+entirely out of obsidian from the lava flows above. Demons and cambions walk 
+the streets. Occasionally a steam vent opens and releases hot steam from the 
+ground and walls. The occasional gem can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12130
+D1
+~
+~
+0 0 12126
+R M 0 12103 20 12127
+S
+#12128
+Street of Desolation~
+~
+Along the Street of Desolation, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12122
+D2
+~
+~
+0 0 12129
+R M 0 12101 20 12128
+S
+#12129
+Street of Desolation~
+~
+Along the Street of Desolation, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12128
+D2
+~
+~
+0 0 12130
+R M 0 12100 20 12129
+S
+#12130
+Street of Desolation~
+~
+Along the Street of Desolation, the street runs north and south. The walls 
+and ceiling of the city are made entirely out of obsidian from the lava 
+flows above. Demons and cambions walk the streets. Occasionally a steam vent 
+opens and releases hot steam from the ground and walls. The occasional gem 
+can be found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12129
+D2
+~
+~
+0 0 12127
+R M 0 12101 20 12130
+S
+#12131
+Healer~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 12110
+R M 0 12110 1 12131
+S
+#12132
+Street of Wealth~
+~
+Along the Street of Wealth, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 12145
+D1
+~
+~
+0 0 12105
+D2
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12133
+S
+#12133
+Before the Governor's Mansion~
+~
+Along the Street of Wealth, the street runs east and west. The walls and 
+ceiling of the city are made entirely out of obsidian from the lava flows 
+above. Demons and cambions walk the streets. Occasionally a steam vent opens 
+and releases hot steam from the ground and walls. The occasional gem can be 
+found to sell. Before you is the Governor's Mansion. This Mansion is huge 
+for underground mansions. 
+~
+1 33554444 1
+D1
+~
+~
+0 0 12132
+D3
+~
+~
+1 0 12138
+S
+#12134
+Gurke's Armor Shop~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 12108
+R M 0 12104 1 12134
+  R G 0 12108 0
+  R G 0 12109 0
+  R G 0 12110 0
+  R G 0 12111 0
+  R G 0 12112 0
+  R G 0 12113 0
+  R G 0 12114 0
+S
+#12135
+Narkal's Weapons Shop~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 12108
+R M 0 12105 1 12135
+  R G 0 12118 0
+  R G 0 12117 0
+  R G 0 12116 0
+  R G 0 12115 0
+  R G 0 12119 0
+  R G 0 12120 0
+S
+#12136
+Ugzak's Jewelry Shop~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 12110
+R M 0 12106 1 12136
+  R G 0 12125 0
+  R G 0 12124 0
+  R G 0 12123 0
+  R G 0 12122 0
+  R G 0 12121 0
+S
+#12137
+Yila's Training~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 12110
+R M 0 12109 1 12137
+S
+#12138
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 12139
+D1
+~
+~
+1 0 12133
+D2
+~
+~
+0 0 12140
+D4
+~
+~
+0 0 12143
+D5
+~
+~
+0 0 12144
+S
+#12139
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 12142
+D2
+~
+~
+0 0 12138
+S
+#12140
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 12138
+D1
+~
+~
+0 0 12141
+S
+#12141
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 12140
+S
+#12142
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 12139
+S
+#12143
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D5
+~
+~
+0 0 12138
+R M 0 12102 1 12143
+  R E 0 9468 0 17
+S
+#12144
+Inside the Mansion~
+~
+The walls of this mansion are entirely different from the rest of the city. 
+The walls are made of pure gold. A thick red carpet runs down the center of 
+the room. The occasional skull rests ontop of a table. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 12138
+S
+#12145
+Feefee's Alchemy~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 12132
+R M 0 12107 1 12145
+  R G 0 12100 0
+  R G 0 12101 0
+  R G 0 12102 0
+  R G 0 12103 0
+  R G 0 12104 0
+  R G 0 12105 0
+  R G 0 12107 0
+  R G 0 12106 0
+S
+#12146
+Weremar's General Store~
+~
+A standard shop for the underground city. The walls are made of obsidian and 
+the only furniture in the room is the counter that the clerk stands behind. 
+A single torch light hangs from the wall. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 12132
+R M 0 12108 1 12146
+  R G 0 12126 0
+  R G 0 12127 0
+  R G 0 12128 0
+  R G 0 12129 0
+  R G 0 12130 0
+S
+#12147
+Byzitraea City Bank~
+~
+Welcome to the Byzitraea city bank. The walls are made of obsidian and the 
+only furniture in the room is the counter that the clerk stands behind. A 
+single torch light hangs from the wall. 
+~
+1 33554504 0
+D2
+~
+~
+0 0 12111
+R M 0 12111 1 12147
+S
+#0
+
+
+#SHOPS
+ 12104    9  9 11  0  0   150  75         1 23    ; gurke, The Armorer
+ 12105    5  6  7  0  0   150  75         1 23    ; narkal, The Weaponsmith
+ 12106    8 30 32 33  0   150  75         0 23    ; ugzak, The Jeweler
+ 12107   10  2 26  4  3   110  75         0 23    ; feefee, The Jeweler
+ 12108    1  8 13 15 19   150  75         0 23    ; weremar, The Retailer
+ 12109    0  0  0  0  0   150  75         0 23    ; yila, the Trainer
+ 12110    0  0  0  0  0   150  75         0 23    ; a shadowy figure
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

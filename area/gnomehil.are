@@ -1,0 +1,6976 @@
+#AREA        Gnome Hill~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#23600
+Melinsah gnomish barkeep silver haired female gnome~
+melinsah, the gnomish barkeep~
+A silver haired female gnome stands at the bar, serving drinks.
+~
+Before you stands a middle aged gnome female, her grey hair sparkles 
+slightly, making it seem silver.  Although she has a kind, and welcoming 
+smile on her face, she looks as though she knows her way around a bar, and 
+could easily kick out any drunks who cause trouble.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+130 1 -70 12d15+500 15d15+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23601
+gnome gnomish innkeeper~
+the gnomish innkeeper~
+An old gnomish man sits at the desk here.
+~
+This old gnome looks kind-hearted and wise.  His old wrinkled face is 
+covered in grey whiskers.  He looks well kept, but he is a bit portly.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+120 2 -90 12d16+585 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23602
+old gnome balorg trapper~
+balorg the trapper~
+An old but muscular gnome stands here, selling supplies.
+~
+This grey haired old gnome looks mean and weathered.  His arms are thick and 
+muscular, his face a permanent sour grin.  Although he seems so mean, and 
+grumpy, there is a friendly twinkle is his eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 0 -70 10d13+500 12d12+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23603
+pretty little gnomish katla flower girl ~
+katla, the flower girl~
+A pretty little gnomish girl stands here, making bouquets of flowers.
+~
+This small gnomish girl looks young and fragile, her hair is light golden, 
+and her large eyes are green when open.  Her face looks happy, and she 
+always seems to have a smile on her face.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d15+500 5d10+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23604
+tall gnome Gohar Stablemaster~
+gohar, the stablemaster~
+A tall gnome stands here, selling his mounts.
+~
+This gnome stands tall and proud, taller than most gnomes, he seems almost 
+human, clean shaven, and bright eyed, this is one strange gnome.  He's 
+steady and calm around the mounts, and seems to know what he's doing.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 1 0 10d14+500 11d12+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23605
+war pig~
+a large war pig~
+A large mean looking pig stands here, snorting to itself.
+~
+This large pig has matted black hair, and large yellow tusks.  It looks 
+strong and sturdy, and on it's back is a saddle.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23606
+grey mule~
+a grey mule~
+A grey mule stand here, with a dull look on it's face.
+~
+This mule looks really dumb, it stares off into nothing, with a vacant and 
+dull look on it's face.  Despite that, it looks strong, and sturdy, and 
+would make a nice mount.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23607
+golden chocobop large bird  ~
+a `#`Ygolden`^ cockatrice~
+A large, `#`Ygolden`^-plumed bird stands here, bobbing its head.
+~
+This large bird is a famed `#`Ygolden cockatrice`^ of Gnome Hill.  Unlike normal 
+cockatrice, this bird is about five feet tall with a large back to sit on.  
+It stands on two large powerful legs.  It's feathers are a bright `#`Ygolden 
+yellow`^ color, and it's head is plumed with a crown of red feathers.  It has 
+a large golden beak, and looks like it could run fast.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23608
+giant wolf grey spider~
+a giant wolf spider~
+A giant grey spider stands here, hissing softly.
+~
+Before you stands a giant grey spider.  It has furry legs that look large 
+and on the abdomen of this beast, is a large leather saddle, perfect for 
+someone to climb up, and ride upon.  The spider has beedy `#`Rred`^ eyes, and 
+large `#`Ggreen`^ fangs.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23609
+old steel haired gnome copperpot blaacksmith~
+copperpot, the blacksmith~
+An old, steel haired gnome stands here, banging metal with his hammer.
+~
+The old gnome has seen better days, there are wrinkles around his pale blue 
+eyes, and along his forehead.  His hair, and beard are a steel grey color, 
+like metal, and is covered in soot.  His arms are muscular, and powerful, 
+from all his days at the forge, he looks more like a dwarf than a gnome, 
+except for the quickness of his speech, and the twinkle in his eye.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+100 0 -70 11d13+500 10d11+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23610
+dorthwamp brewer old gnome ~
+dorthwamp, the brewer~
+An old gnome sits at the desk, shrouded in musty robes.
+~
+This old gnome, is shrowded in dusty old robes.  His face is full of 
+wrinkles, and he has quite an eccentric grin on his face.  His grey hair is 
+all messed up, and he giggles to himself a bit.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d11+500 12d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23611
+large clean goblin lady baker ~
+a female goblin baker~
+A large clean goblin lady stands here, selling baked goods.
+~
+This large goblin lady, stands here, smiling.  She is very clean for a 
+goblin, and her hair is well kept, and pulled back into a bun.  Her green 
+skin, is light, and her hair is a light auburn.  She looks burly and tough, 
+and very out of place in this small gnomish store.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 0 -70 10d13+500 12d12+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23612
+tall female gnome stablemaster~
+ellena, the pet keeper~
+A tall female gnome stands here, taking care of the pets.
+~
+This female gnome stands tall and proud, taller than most gnomes, she cares 
+for the pets with a gentleness.  Bright eyed, and clean, she seems very 
+pretty, and thoughtful.  She is steady and calm around all the animals, and 
+seems to know what she's doing.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+100 1 0 10d14+500 11d12+60
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23613
+orange turkey~
+a festively plump turkey~
+A chubby, orange feathered turkey stands here.
+~
+This fat little turkey looks dumb, and mindless, it looks like your average 
+turkey, with orange feathers, and a funny ugly head.  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23614
+pot bellied pig small~
+a pink pot bellied pig~
+A small, pink pig, with a large pot belly, stands here.
+~
+This small pig, is sooo cute, you just want to hug it to death!  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23615
+scruffy haired little mutt~
+a scruffy mutt~
+A scruffy haired little mutt snuffles around here.
+~
+This cute little dog, has scruffy hair everywhere, he looks like a big mop 
+with eyes.  He's just so cute.  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23616
+clockwork man tin~
+a clockwork tin-man~
+A little man, made of tin stands here
+~
+This little man, is made completely out of tin, and metal.  Sticking out of 
+his back, is a large knob, who knows what it does.  His hard metal face is 
+painted with bright colors, in an attempt to make him look more real.  When 
+standing close to the litte man, you hear a strange tick-tock sound.  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23617
+old lady gnome~
+a old lady gnome~
+A grumpy old lady gnome stands here.
+~
+This old female gnome looks surly and in a bad mood.  She moves around 
+cleaning just about everything, in an almost obsessive manner.  She has 
+brown hair, that is greying a bit, and a slightly large nose, of course, 
+like all gnomes, she's short and stumpy.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23618
+old gnome balorg magi~
+balorg the magi~
+A gnome stands here, shrowded in musty robes.
+~
+This old gnome, is shrowded in dusty old robes.  His face is full of 
+wrinkles, and he has quite an eccentric grin on his face.  His grey hair is 
+all messed up, and he mutters grumpily to himself.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d11+500 12d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23619
+grizzled old gnome gem cutter~
+a grizzled old gnome~
+A grizzled old gnomish gem cutter sits here, inspecting a stone.
+~
+This old gnome, has a weathered face, and leathery skin.  His salt and 
+pepper hair is thick, and curly, and he has a thick beard.  His eyes twinkle 
+slightly, but his face seems to be in a permanent scowl.  He examines a 
+rough cut gem in his hand, with great care.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d11+500 12d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23620
+young gnome lady~
+a young gnome lady~
+A pretty young gnome lady stands here, looking at herself in a mirror.
+~
+This young gnome lady, stands here, looking at herself in a hand mirror.  
+She seems to be trying to make herself more beautiful.  She's pretty, in a 
+gnomish kind of way.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23621
+gnome man~
+a gnome man~
+A gnome man stands here, looking a bit confused.
+~
+This gnome man stands here, looking around.  He seems to be lost, or trying 
+to find something.  He's short, and like your typical gnome, has a large 
+nose, and thick bushy eyebrows.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+6 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23622
+gnome child~
+a gnome child~
+A gnome child stands here, looking oh so cute.
+~
+This little gnome child looks sooo cute, you just want to give him a big 
+hug!  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23623
+gnomish gate keeper gnome~
+a gnomish gate keeper~
+A gnome stands here, guarding the gates.
+~
+This gnome is wearing armor, and holds his spear with the skill of a 
+veteran.  He seems dedicated to his task, and pays attention to everything.  
+He seems a little short for a warrior, but what he lacks, he makes up in 
+dedication, and quickness.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+38 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23624
+gnome guard~
+a gnome guard~
+A gnome stands here, guarding the streets.
+~
+This gnome is wearing armor, and holds his polearm with the skill of a 
+veteran.  He seems dedicated to his task, and pays attention to everything.  
+He seems a little short for a warrior, but what he lacks, he makes up in 
+dedication, and quickness.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+38 0 -13 5d6+225 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23625
+burly grey-haired gnome grey hair gnome~
+a burly grey-haired gnome~
+A particularly burly gnome, with grey hair stands here.
+~
+This gnome is big and burly, a very odd trait for a gnome.  His full beard, 
+and thick mustache are a silver-grey.  His hair is full, and thick, making 
+him almost seem like a dwarf.  His arms ripple with muscles, and his armor 
+and hammer are polished to a gleam.  He has a kind look in his eye, but a 
+frown on his face.  He looks like he'd help anyone in need.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+76 0 -50 8d12+400 9d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23626
+gnomish gate keeper gnome~
+a gnomish gate keeper~
+A gnome stands here, guarding the gates.
+~
+This gnome is wearing armor, and holds his spear with the skill of a 
+veteran.  He seems dedicated to his task, and pays attention to everything.  
+His seems a little short for a warrior, but what he lacks, he makes up in 
+dedication, and quickness.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23627
+chubby halfling lady cook~
+a halfling cook~
+A chubby halfling lady stands here, cooking furiously.
+~
+This chubby halfling female seems to be the cook.  She stands over the 
+stove, cooking furiously.  Her chestnut brown hair is pulled up in a bun, 
+and her cheeks are rosy.  She must be working hard..  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23628
+gnome gnomish servant~
+a gnomish servant~
+A young gnome stands here, in servant's garb.
+~
+This gnome stands here, rigid to attention.  His clothes are well kept, and 
+clean.  He seems to be smiling to himself, as if he knows something you 
+don't.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+100 2 -60 50d100+500 100d30+20
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23629
+a grey pigeon~
+a pigeon~
+A grey pigeon flutters around madly here.
+~
+This small grey pigeon flutters around madly.  It has glassy green eyes, and 
+a small pink beak.  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23630
+gnomish acolyte~
+a gnomish acolyte~
+A gnomish acolyte kneels here, deep in prayer.
+~
+Kneeling on the floor, this female gnome is deep in prayer, you hear the 
+occasional muffled word, but you cannot make it out.  Her small hands are 
+pressed together, close to her breast, and her head is down.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+36 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23631
+gnomish alcolyte~
+a gnomish alcolyte~
+A gnomish alcolyte kneels here, deep in prayer.
+~
+Kneeling on the floor, this male gnome is deep in prayer, you hear the 
+occasional muffled word, but you cannot make it out.  His small hands are 
+pressed together, close to his chest, and his head is down.  He looks pretty 
+old, but he has an air of tranquility to him.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23632
+old gnome senile bell-keeper~
+the senile bell-keeper~
+An old looking gnome stands here, muttering to himself.
+~
+This old gnome looks a bit dotty, he mutters to himself quietly, maybe he's 
+trying to figure something out?  His grey hair looks unkempt, and he has a 
+very long grey beard.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23633
+gnome worshipper~
+a gnome worshipper~
+A gnome sits hear worshipping silently.
+~
+This gnome sits here, hands clapped together in silent prayer.  The gnome is 
+fully devoted to what he believes in it seems.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23634
+holy gnome~
+the holy gnome~
+The holy gnome sits at a desk here.
+~
+This old gnome looks short and feeble, although he is surrounded by a halo 
+of kindness and holy power.  His grey hair, and beard are long and uncut, 
+and his face is covered with wrinkles, he must be really old.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+60 0 -54 10d13+475 10d11+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23635
+unholy gnome death large black scaly~
+the unholy gnome of death~
+A large black scaly gnome stands here.
+~
+This large scaly creature stands about eight feet all.  It has two large 
+leather wings that sprout out it's back, and a long slender tail, that ends 
+in a wicked spike.  It's body is covered in hard black scales, and large 
+black spikes stick out at every joint.  His head is crowned by two large 
+jagged spikes that glow black, as if sucking in light.  It's eyes glow a 
+`#`Rdeep red`^.  His face looks gnomish though, oddly.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+85 1 -57 9d12+425 10d10+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23636
+bright angel tall slender woman~
+the divine gnome~
+A divine looking gnome lady with white wings floats here. 
+~
+This lady glows with an inner divine light, her wrathful righteouness can be 
+felt like a barrier, slowing you down.  She stands before you, the only 
+thing that is strange about her, is the pure white wings that extend from 
+her back.  
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+85 2 -56 9d12+429 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23637
+gnome gnomish wisman~
+the gnomish wiseman~
+An old gnome stands here, looking at some papers.
+~
+This gnome man looks pretty old, his hair is grey, and his face is wrinkled. 
+ He looks pretty senile, and quite harmless.  But he has a twinkle in his 
+eye....  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+80 2 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23638
+gnome farmer~
+a gnome farmer~
+A gnomish farmer stands here, arguing with the judge about his cow.
+~
+This gnome man stands here, speaking loudly.  He seems to be very angry, and 
+arguing with the judge.  He's short, and like your typical gnome, has a 
+large nose, and thick bushy eyebrows.  His clothes are a bit dirty, and 
+there is hay in his hair..  He must be a farmer.  
+~
+0
+Clanname none~
+0
+0
+129 512 400 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23639
+gnomish judge~
+the gnome judge~
+A gnomish judge sits here, listening patiently to the farmer.
+~
+This fat little gnome sits on his bench with a bored look on his face.  He's 
+listening to an angry farmer pour out his problems.  He looks a little 
+ridiculous in his judicial robes, but seems like a fair gnome.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23641
+gnomish bureaucrat~
+a gnomish bureaucrat~
+A gnomish bureaucrat is here, shuffling papers.
+~
+This chubby gnome looks like he's spent his life indoors.  His skin is pale 
+and pasty, and his hair is plastered with sweat.  He looks really busy, and 
+he mumbles to himself a bit.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23642
+burly gnomish miner~
+a burly gnomish miner~
+A burly gnomish miner stands here, digging for ore.
+~
+This burly little gnome looks mean and tough.  He's swinging his mining pick 
+with strength, and he looks pretty surly.  His face and arms are covered in 
+soot, and his white eyes look pretty funny in all the dirt.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23643
+young gnomish miner~
+a young gnomish miner~
+A young gnomish miner stands here, working hard.
+~
+This young gnome looks proud, and dedicated.  He is still young and weak, 
+but he is working hard in the mine.  He's covered in soot and dust, and he 
+looks a bit confused and lost.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23644
+cow~
+a cow~
+A daisy cow stands here, chewing cudd.
+~
+This large white and black cow stands here, chewing on some cudd.  It's eyes 
+are glossy and dumb looking.  Every now and then, she moos.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23645
+burly gnomish miner~
+a burly gnome~
+A burly gnome stands here, barking orders.
+~
+This gnome is large and burly.  He also looks a bit mean too.  He stands 
+here, barking orders at everyone.  It seems that he just enjoys shouting.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23646
+thick little gnome gnomish mage novice~
+the gnomish mage novice~
+A thick little gnome adorned in white is here.
+~
+Before you stands a gnome adorned in white cloth.  He has no beard and a 
+slightly pudgy appearance with stubby hands, arms, feet, and legs.  He has 
+curly blonde hair which covers all of his head.  He has two blue eyes, a 
+round nose and a small mouth.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+23 0 -6 4d5+105 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23647
+young gnomish miner~
+a young gnomish miner~
+A young gnomish miner sits here, scarfing down food.
+~
+This young gnome looks proud, and dedicated.  He's still young and weak but 
+he looks strong.  He's covered in soot and dust, and he looks hungry.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23648
+slime mold~
+a `#`gs`Gl`gi`Gm`ge`^ mould~
+A large hunk of green mould seems to be alive...
+~
+This lump of green mould seems to flow like a slime.  It sticks to the 
+surface of rocks, and seems to leave a trail of gooey slime wherever it 
+goes.  It is pretty disgusting.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23649
+short sturdy gnome white mage mentor~
+the white mage mentor~
+A short yet sturdy looking gnome adorned in white is sitting here.
+~
+Before you rests a sagely old gnome.  His head is covered by a hat which 
+would probably reveal his baldness.  He has a long dwarf-like beard which 
+curls to his shoulders, it would be much longer if it were straight.  His 
+face is void of wrinkles but holds an aged look.  His teeth are as pearl 
+white as his skin and he always seems to show them in a quiet open-mouth 
+look.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+80 0 -49 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23650
+conventional mage gnomish~
+a gnomish mage~
+A conventional mage dressed in plain white is here.
+~
+Before you is an average looking gnome at about four feet.  He holds himself 
+in an odd slouch and wears a basic thin robe, pants, and shirt.  He has a 
+full head of blonde hair and a small growing beard.  His face seems bright 
+but without satisfaction.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23651
+advanced gnomish mage~
+the advanced mage~
+An advanced gnomish mage in solid white is here.
+~
+Before you stands a moderately old mage.  He stands at maybe four feet but 
+has a powerful look.  He is slightly rounded and carries a stubby 
+appearance.  His face is expressionless as he carries about his business.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+65 1 -34 6d10+340 7d8+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23652
+elven tower janitor~
+the elven custodian~
+A female elven custodian is here tending the tower.
+~
+At about five feet, little higher than the gnomes, this lady walks around as 
+the tower janitor.  She has long curled ears and a bright look on her face.  
+Her long black hair reaches to her waist and a bit below.  Her face is a 
+blueish hue and matches her sapphire eyes and pink lips.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23653
+gnomish beginner mage~
+the beginner mage~
+A gnomish beginner mage is here.
+~
+This young and lively mage seems to be new to the art.  He looks about 
+uttering strange words under his breath.  He has a nice head of blonde hair 
+and a seemingly permanent smile on his face.  His body is slim compared to 
+his surroundings and he may be four feet in height.  His hands and feet are 
+very stubby and he seems to waddle rather than walk.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 10 -9 5d6+235 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23654
+conventional red gnome gnomish mage~
+a gnomish robed mage~
+A conventional looking gnome dressed in red is here.
+~
+This lightly robed gnome seems to be content in his ways.  He has a sturdy 
+look to him but that which has not mastered all of their ways.  His head is 
+full of blonde hair and a small beard protrudes from his chin.  He may be 
+about four feet in height, give or take a few inches.  On closer inspection, 
+you notice the signs of aging as little wrinkles seem to be forming on his 
+face.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+65 0 -34 6d10+340 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23655
+red burly gnome gnomish master~
+the red gnomish master~
+A burly looking gnome dressed in red is here.
+~
+Before you rests a gnome heavily dressed in red attire.  He seems to be 
+currently buried in a tome and pays no attention to you.  He has a bald head 
+but a beard a dwarf would envy.  His exterior is rounded and a bit plump and 
+stubby.  If he were to stand, he would probably be about 4 foot.  He looks 
+to be the mentor of the students as he watches all of them carefully.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+80 1 -54 8d11+400 9d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23656
+gnome gnomish high mage~
+a gnomish high mage~
+A gnome dressed in white rests here, chanting.
+~
+This gnome rests in the circle with three gnomes chanting silently.  They 
+seem not to see you and wear identical clothing.  One has black hair, the 
+other two have blonde and all have short little curly beards.  There hands 
+and feet are somewhat hidden but you can expect them to be stubby.  They 
+glow with a sense of pure white magic.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+69 2 -38 7d10+355 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23659
+training red mages~
+the red gnomish mage~
+A gnomish mage in red robes chants softly.
+~
+This mage chants quietly in unison with the other mages.  As they chant, 
+they also begin to levitate up and then back down again.  All dressed in the 
+same thick red robes and tidy red shoes and pants.  They have their heads 
+bowed making it hard to see what they are doing.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -200 C
+70 1 -39 7d10+357 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23670
+high gnomish magi~
+the high magi~
+The high gnomish magi is here scoping out your value.
+~
+This sagely gnome here seems to be the center of power.  His thin sterling 
+steel spectacles and finely made clothing suggest he is the master of the 
+tower.  His height is an unusual five feet exactly.  His skin bares many 
+wrinkles and he glows with energy.  You notice that just before you blink, 
+he seems to go out of phase.  Though he seems to be too old to continue, he 
+glows with a magic that would be enough for any other student to obey.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+85 2 -57 9d12+435 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23671
+large steel golem~
+the `#`Ssteel `^golem~
+A large golem made of steel sits here making chugging sounds.
+~
+This large golem seems to made out of steel plates that have been bolted 
+together.  On it's back is a large steel drum, from which steam wafts out.  
+This golem has two large strong looking arms, and a strange tubular device 
+that is attached to it's shoulder.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+80 1 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23672
+flying machine  strange contraption~
+a gnomish flying machine~
+A strange contraption sits here.
+~
+This is a strange blimp like contraption.  There is a small compartment that 
+would fit maybe two gnomes, three at the most.  The top has strange bird 
+resembling wings which spread from an egg shaped balloon made of some 
+gnomish material.  There is a small cannon like contraption that seems to 
+yield no purpose other than to fill a space.  It doesn't appear to be able 
+to really take off but at the moment it hovers with the aid of several thick 
+ropes.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+26 10 -6 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23673
+frizzled haird gnome gnomish inventor~
+a gnomish inventor~
+A frizzled haired gnome stands here, tinkering with a strange device.
+~
+This frizzled haired gnome looks deep in concentration.  He's tinkering on 
+the strange device, with an almost mad frenzy.  His clothes and hair are 
+unkempt, and he dosen't look like he pays much attention to his 
+surroundings.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23700
+grey stone statue golem~
+the stone golem~
+A grey stone statue of a golem is here.
+~
+Before you rests a large stone golem on a pedastal which nearly touches the 
+ceiling.  It is made to resemble armor around his body and a huge sword 
+spans from his hands which he holds with both.  His eyes are a soft jade 
+colour and on his forehead are many different symbols.  You can make out a 
+flame, a bolt of lightning and what appears to be ice.  There are four other 
+unrecogniseable ones.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+78 4 -49 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23736
+old gnome gnomish astronomer~
+gnomish astronomer~
+An old gnome stands here, looking at the charts.
+~
+This old gnome doesn't seem to pay much attetion to anything but the charts 
+on the wall that he is looking at.  He is covered in dust it seems.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#23737
+old gnome gnomish astronomer~
+a gnomish astronomer~
+An old gnome stands here, looking through the tube.
+~
+This old gnome doesn't seem to pay much attention to anything but the tube 
+he's looking through.  He is covered in dust it seems.  
+~
+0
+Clanname none~
+0
+0
+65 512 200 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#23600
+bar stool barstool~
+a barstool~
+A row of barstools line the bar.~
+~
+12 0 8
+600 16 101 101 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23601
+large couch comfortable~
+a large couch~
+A large comfortable couch sits in a corner.~
+~
+12 0 8
+4000 1168 102 102 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23602
+iron key one~
+an iron key engraved with a one~
+An iron key engraved with a one lies here rusting away...~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23602 iron key one~
+It's an old iron key of gnomish make.  Upon it a one has been engraved by a 
+gnome that must have been drunk.  
+~
+#23603
+iron key two~
+an iron key engraved with a two~
+An iron key engraved with a two lies here rusting away...~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23603 iron key one~
+It's an old iron key of gnomish make.  Upon it a two has been engraved by a 
+gnome that must have been drunk.  
+~
+#23604
+iron key three~
+an iron key engraved with a three~
+An iron key engraved with a three lies here rusting away...~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23604 iron key three~
+It's an old iron key of gnomish make.  Upon it a three has been engraved by 
+a gnome that must have been drunk.  
+~
+#23605
+iron key four~
+an iron key engraved with a four~
+An iron key engraved with a four lies here rusting away...~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23605 iron key four~
+It's an old iron key of gnomish make.  Upon it a four has been engraved by a 
+gnome that must have been drunk.  
+~
+#23606
+bottle exotic dwarven brew glass~
+`#`wa `sbottle `wof exotic `Bd`Rw`Wa`Br`Rv`We`Bn `wbrew`^~
+This is small glass bottle used to hold spirits and liquor.~
+~
+17 0 16
+4 26 0 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23607
+small cup mulberry wine~
+a cup of mulberry wine~
+A small cup sits here.~
+~
+17 0 16
+2 33 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23608
+oven fresh raisin muffin~
+an oven fresh raisin muffin~
+Someone has carelessly left a raisin muffin here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23609
+sizzling rack of lamb~
+a `#`Ysizzling`x`^ rack of lamb~
+A rack of lamb has been left here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23610
+large wooden ale mug~
+a large mug of gnomish ale~
+A large wooden mug, that look like it's made for ale, has been placed here.~
+~
+17 0 16
+3 4 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23611
+spicy fried buckroot ~
+an order of `#`RSPICY`w`^ fried buckroot~
+Someone has left a plate of fried buckroot here.. it smells good.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23612
+deep well~
+a well~
+A deep well is here with a bucket for drawing water.~
+~
+25 0 16
+-1 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23613
+huge keg ale~
+a huge keg of ale~
+A HUGE keg of ale sits on it's side here with a tap for filling mugs.~
+~
+25 0 16
+-1 4 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23614
+plain white shirt~
+a `#`Wwhite`^ shirt~
+A plain white shirt lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23615
+plain brown leggings pair~
+a pair of plain `#`ybrown`^ leggings~
+A pair of clean brown leggings lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23616
+simple leather boots~
+a pair of simple leather boots~
+A plain pair of leather boots lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23617
+big hunk dried salted beef rations  ~
+salted beef rations~
+A big hunk of dried beef is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23618
+gnomish travel pack strange leather backpack~
+`#`wa `ygnomish `stravel `wpack`^~
+A strange looking leather backpack is here.~
+~
+15 0 8
+1 0 1000 80 0 0 0
+1 73 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23619
+gaudy bedroll~
+a `#`?g`?a`?u`?d`?y`^ looking `#`cbedroll`^~
+A `#`?g`?a`?u`?d`?y`^ looking `#`cbedroll`^ has been laid out here.~
+~
+12 0 8
+9999 1170 105 105 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23620
+gnomish extended water storage device~
+`#`wa `ygnomish `wextended `cwater `wstorage `sdevice`^~
+A strange looking waterskin lies on the ground here.~
+~
+17 0 16
+100 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23621
+a copper hooded oil lamp~
+a `#`ycopper hooded`^ oil lamp~
+A `#`ycopper hooded`^ oil lamp lies here.~
+~
+1 0 1
+0 60 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23622
+copper gnome sword~
+a `#`ycopper`^ gnome sword~
+A `#`ycopper`^ sword lies here.~
+~
+5 0 4
+4 14 24 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23623
+pair magic dancing pants ~
+a pair of `#`RM`BA`YG`GI`MC`x`^ dancing pants~
+A strange pair of multicolored pants lie here.~
+~
+11 1 8
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23624
+copper cooking pot helm ~
+a `#`ycopper`^ pot helm~
+A large copper cooking pot rest here.~
+~
+9 0 8
+35 35 3 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23625
+thick leather dirty oily apron ~
+a thick leather apron~
+A dirty oily apron lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23626
+sturdy iron hammer~
+a sturdy iron hammer~
+A sturdy iron hammer lies here.~
+~
+5 0 4
+2 46 59 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23627
+grey musty robe~
+a musty old grey robe~
+A musty old grey robe lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23628
+potion golem power giant strength stone skin slow~
+a potion of golem power~
+A dull grey potion lies here, bubbling slowly.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 2500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23629
+green potion magic mushroom brew create buffet barkskin~
+some `#`rm`ma`bg`gi`yc`^ mushroom brew~
+A bubbling green potion lies here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23630
+strange magic brew potion shaping chaos~
+a potion of `#`?strange `rm`ma`bg`gi`yc`x`^~
+A strange brew is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23631
+gnomish small bottle holy water~
+some gnomish holy water~
+A small bottle of water lies here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 7000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23632
+map gnome hill~
+a map of gnome hill~
+A map lies on the ground here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23632 map gnome hill~
+`cGnome Hill                                   Map Not to Scale
+  =============================================================`x
+                  Mage Tower                The Mine
+                      |                        |
+        Magic Goods --+              Home +----+--The Church
+                      |                 \/     |
+                      | Inventor Guild  /\   Gem Store
+        Housing       |         |      / Home
+            +         +----+----+----+
+            |         |              |
+            |         |              |
+ Town Hall--+----+----+--Potion Shop +-- Gift & Flower Shop
+            |         |             /  
+            |         |           /
+            +         +  Bakery--+
+         Housing       \         |
+                         \       |
+                           +-----+-- Inn
+                                 |
+                                 |
+               Travel Supplies --+-- Pet Shop
+                                 |
+                                 |
+        Weapon and Armour Shop --+-- Stable
+                                 |
+                                 |
+                               Gates
+~
+#23633
+string dried onions~
+a string of dried onions~
+A string of dried onions hangs here.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23634
+wooden crate~
+a wooden crate~
+A wooden crate lies on the floor here.~
+~
+15 0 8
+0 0 400 80 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23635
+dried apple~
+a dried apple~
+A dried apple rests here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23636
+black iron woods stove~
+a wood stove~
+A black iron wood stove sits in the corner of the room.~
+~
+12 1 8
+2000 16 20 20 0 0 0
+40 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23637
+large fluffy bed~
+a large fluffy bed~
+A large fluffy looking bed is here.~
+~
+12 0 8
+100 1170 150 150 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23638
+large cream pastry~
+a large cream pastry~
+A large pastry, topped with whip cream.~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23639
+large piece apple pie~
+a large piece of apple pie~
+A gooey piece of apple pie has been left here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23640
+chocolate cake~
+a chocolate cake~
+A large chocolate cake! Yum!~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23641
+bouquet dozen red roses~
+a bouquet of a dozen `#`Rred`^ roses~
+A large bouquet of roses lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23641 boquet 12 red rose~
+These 12 rose, are beautiful, their petals are like red velvet, and seems to 
+shine, almost with a light of their own.  It is almost sad, that such 
+beautiful flowers have been cut, and will die soon...  
+~
+#23642
+bouquet bright daisies~
+a bouquet of bright daisies~
+A large bouquet of bright daisies sits here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23643
+bouquet deep purple lilacs~
+a bouquet of `#`mpurple`^ lilacs~
+A bouquet of deep purple lilacs rest here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23644
+gold wedding band~
+`#`Wa `Yg`yo`Yl`yd`Ye`yn `Ww`we`Wd`wd`Wi`wn`Wg band`^~
+`#`Wa `Yg`yo`Yl`yd`Ye`yn `Ww`we`Wd`wd`Wi`wn`Wg band has been left here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23644 gold wedding band~
+A finely made gold wedding band.  Maybe if you ask nicely an immortal will 
+restring this description to reflect your wedding date etc.  
+~
+#23645
+silver wedding band~
+`#`Wa `Ssilver `Ww`we`Wd`wd`Wi`wn`Wg band`^~
+`#`Wa `ssilver `Ww`we`Wd`wd`Wi`wn`Wg band lies here.`^~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23645 silver wedding band~
+A finely made silver wedding band.  Maybe if you ask nicely an immortal will 
+restring this description to reflect your wedding date etc.  
+~
+#23646
+heart shaped sugar candy~
+a heart shaped sugar candy~
+A large sugar candy, shaped like a heart, lies here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23647
+magic bag strange ~
+a `#`Rm`Ba`Yg`Gi`Mc`^ bag~
+A strange glowing bag sits here, humming to itself.~
+~
+15 2 8
+1 0 50 70 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23648
+magic torch strange blue~
+a `#`Rm`Ba`Gg`Bi`Yc`^ torch~
+A strange blue torch sits here.~
+~
+1 1 1
+0 100 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23649
+heart shaped box sweets candy ~
+a heart shaped box of sweets~
+A candy box, in the shape of a heart lies on the floor here.~
+~
+15 0 8
+1 0 12 100 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23649 heart shaped box sweets candy~
+.
+This red velvet box looks expensive, and is probably filled with candy and chocolates.
+~
+#23650
+blank scroll~
+a blank scroll~
+A blank scroll lies here.~
+~
+2 1 2
+0 -1 -1 -1 0 0 0
+1 90 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23651
+empty potion~
+an empty potion~
+An empty potion lies here.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 90 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23652
+pink candy bag small ~
+a bright `#`Mpink`^ candy bag~
+A small bag, made of pink velvet lies here.~
+~
+15 0 8
+1 0 9 100 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23653
+mint leaf green sugar candy ~
+a mint leaf sugar candy~
+A green sugar candy lies here, smelling sweet.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23654
+sugar candy cane shaped~
+a cane shaped sugar candy~
+A long sugar candy, in the shape of a cane lies here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23655
+gummy candy strange~
+a gummy candy~
+A strange gummy candy lies on the floor here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23656
+hazelnut chocolate small round~
+a hazelnut chocolate~
+A small round peice of chocolate lies on the ground here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23657
+almond nut chocolate small round ~
+an almond nut chocolate~
+A small round peice of chocolate is here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23658
+chocolate covered cherry small round~
+a chocolate covered cherry~
+A small round peice of chocolate lies here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23659
+caramel chocolate small round~
+a caramel chocolate~
+A small round peice of chocolate lies here.~
+~
+19 0 16
+5 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23660
+big shiny red gem~
+a big shiny `#`Rred`^ gem~
+A big shiny red gem lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23661
+large hunk iron ore~
+a large hunk of iron ore~
+A large hunk of iron ore lies here.~
+~
+56 0 32
+0 1 4 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23662
+big shiny green emerald~
+a big shiny `#`Ggreen`^ emerald~
+A big shiny emerald lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23663
+large hunk pure steel ore~
+a large hunk of pure steel~
+A large hunk of pure steel lies here.~
+~
+56 0 32
+0 1 4 0 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23664
+stone fountain large~
+large stone fountain~
+A large stone fountain, with the statue of a gnome man above it.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23664 large stone fountain~
+This fountain is circular in shape, with large stone pedestal in the middle. 
+ Two spouts of crystal clear spring water rise from either side of the 
+pedestal.  On the large pedestal, is a engraved `#`Ycopper plaque`^, and on the 
+pedestal, stands the statue of a male gnome.  The gnome of the statue is 
+fairly short, ( for a gnome) with a largish nose, and wild hair, that sticks 
+out in all directions.  
+~
+E
+23664 copper plaque~
+`#`Y|(<<<[`C======`Y>-------------<`C===`Y>--------<`C===`Y>-------------<`C======`Y]>>>)|`1`1`c This fountain is to honor Ologg, the Great Mage of Gnome Hill,`1For his courage, and bravery, in facing the dragon who terrorized the Gnome Village.`1Also, for his much needed help in rebuilding of our great village, to what it now is.`1`1`Y|(<<<[`C======`Y>-------------<`C===`Y>--------<`C===`Y>-------------<`C======`Y]>>>)|`^
+~
+#23665
+simple white dress~
+a simple `#`Wwhite`^ dress~
+A simple white dress lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23666
+steel hilted stone hammer~
+a `#`Ssteel`^ hilted stone hammer~
+A stone hammer, with a nice steel hilt lies here.~
+~
+5 2 4
+17 97 134 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23667
+long copper tipped polearm~
+a long `#`ycopper`^ tipped polearm~
+A long polearm, steel shafted with a copper tip lies here.~
+~
+5 0 4
+9 46 59 32 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23668
+small copper breastplate~
+a small `#`ycopper`^ breastplate~
+A small copper breastplate lies here.~
+~
+9 0 8
+35 35 10 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23669
+grey bracer gnome power~
+`#`wa `sbracer `wof `ygnome `rpower`^~
+A grey bracer lies here.~
+~
+9 64 8
+50 50 9 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23670
+a table~
+a table~
+A large table sits in the corner.~
+~
+12 0 8
+200 1168 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23671
+a wooden chair~
+a wooden chair~
+A wooden chair sits at the table.~
+~
+12 0 8
+900 144 101 101 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23672
+a wooden chair~
+a wooden chair~
+A wooden chair sits at the table.~
+~
+12 0 8
+900 144 101 101 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23673
+a four-post bed large ~
+a four-post bed~
+A large four-post bed sits here, with `#`Wsilk`^ drapes.~
+~
+12 1 8
+100 1170 200 200 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23674
+tall elegant bottle champagne~
+a bottle of champagne~
+A tall elegant bottle has been left here.~
+~
+17 0 16
+3 19 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23675
+expensive wine bottle small dainty~
+an expensive wine~
+A small dainty looking bottle has been left here.~
+~
+17 0 16
+16 30 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23676
+ratty bed flea-ridden mattres~
+a ratty bed~
+A small flea-ridden mattress lies here.~
+~
+12 0 8
+999 1170 90 90 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23677
+pure white robe~
+a pure `#`Wwhite`^ robe~
+A white robe has been left here.~
+~
+11 256 8
+0 0 0 0 0 0 0
+1 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23678
+golden pendant hammer knor~
+a `#`Ygolden`^ pendant of Knor~
+A pendant of gold depicting a hammer has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23679
+silver pendant of delhor~
+a `#`Ssilver`^ pendant of Delhor~
+A pendant of silver depicting a sparrow has been left here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23680
+large brass bell~
+a large brass bell~
+A large bell, made out of brass hangs from the rafters here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23681
+white cedar desk~
+a desk~
+A large white cedar desk sits here.~
+~
+15 1 8
+15 23682 10 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23682
+white steel forged key~
+a key forged of `#`Wwhite`^ steel~
+A large white steel key is here.~
+~
+18 1 16
+0 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23683
+gold golden key~
+a `#`Ygolden`^ key~
+A strange key made of a wierd gold metal is here.~
+~
+18 1 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23684
+holy robes of knor~
+`#`YT`Whe `YH`Woly `YR`Wobes of `YK`Wnor`^~
+A small set of robes that glow with raidiance of beauty rest here.~
+~
+9 256 8
+45 45 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23685
+long staff the healing staff of knor~
+`#`YT`Whe `YH`Wealing `YS`Wtaff of `YK`Wnor`^~
+A long staff made of a white wood floats here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#23686
+pair sandals leather~
+a pair of leather sandals~
+A pair of leather sandals lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23687
+strang holy pendant of knor  ~
+`#`YT`Whe `YH`Woly `YP`Wendant of `YK`Wnor`^~
+A strange pendant lies here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 990 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23688
+mace of knor~
+a large `#`Ygolden`^ mace~
+A large but simple mace made out of gold floats here.~
+~
+5 2 4
+12 17 25 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23688 large golden mace knor~
+This large mace seems to be made of pure gold! It is large and solid 
+looking, and must be worth a fortune. The edges have been inlaid and 
+strengthened with steel rivets. The rivets are covered with ancient runes 
+that glow and hum. The handle of the mace has been wrapped neatly in ancient 
+leather. This is truly a special mace. 
+~
+#23689
+black judges robes~
+a black judge's robe~
+An important set of black robes has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23690
+wooden gavel~
+a wooden gavel~
+A small but powerful looking wooden gavel lies here.~
+~
+5 64 4
+2 46 59 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23691
+oak desk~
+an oak desk~
+A large oak desk sits here.~
+~
+12 0 8
+300 1176 100 100 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23692
+ripped cloth white undershirt~
+a ripped undershirt~
+A ripped up peice of white cloth lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23693
+spiked chain whip large link~
+a `#`Rsp`mik`Re`md `Wchain`^ whip~
+A large link of spiked chains lies here.~
+~
+5 0 4
+3 46 59 8 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23694
+metal spike~
+a blunt metal spike~
+A blunt metal spike lies here.~
+~
+5 0 4
+2 27 34 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23695
+hard steel pick-axe~
+a hard `#`Ssteel`^ pick-axe~
+A large pick-axe, one end blunt, the other ends in a spike, is here.~
+~
+5 0 4
+3 27 34 8 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23696
+large hard steel blunt axe~
+a large, hard `#`Ssteel`^ axe~
+A large, blunt axe lies here.~
+~
+5 0 4
+7 46 59 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23697
+large oak table~
+a large oak table~
+A large oak table has been placed here.~
+~
+12 0 8
+500 1240 100 100 0 0 0
+13 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23698
+crudely painted sign~
+a crudely painted sign~
+A crudely painted sign has bee nailed to a board here.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23698 name crudely painted sign~
+`#`R  W  A R N EN!    S L I M Y     T I NG S      A H EA D !!!!
+`1`1   S T A Y   B AC  K !!
+`1`1                                 `y- Mine Ward'n 
+~
+#23699
+wrinkled white robe~
+a wrinkled `#`Wwhite`^ robe~
+Piled on the floor is a wrinkled `#`Wwhite`^ robe~
+~
+9 256 8
+50 50 9 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23700
+thin white shirt~
+a thin `#`Wwhite`^ shirt~
+A thin `#`Wwhite`^ shirt is here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23701
+pair thick white pants~
+a pair of thick `#`Wwhite `^pants.~
+Some thick `#`Wwhite `^leggings are here.~
+~
+9 256 8
+50 50 8 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23702
+standard white dagger~
+a standard `#`Wwhite`^ dagger~
+A short dagger is here glowing softly.~
+~
+5 64 4
+3 89 118 266 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23703
+decorative white cap~
+a decorative `#`Wwhite`^ cap~
+A `#`Wwhite`^ cap is here.~
+~
+9 128 8
+55 55 12 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23704
+thick white gold coloured shirt~
+a thick `#`Wwhite`^ and `Ygold`^ coloured shirt~
+A glowing pile of gold and white coloured material is here.~
+~
+9 256 8
+55 55 16 0 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23705
+glass like staff gold letters fragile~
+a glass-like staff inscribed with `#`Ygold`^ letters~
+A fragile looking glass staff is floating harmlessly here.~
+~
+5 256 4
+4 105 135 114 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23705 staff glass~
+This staff is beutifully crafted.  It waves like the curves of an our glass 
+two times on most sides od the hand grips.  When the glass comes closer, 
+there is a centimeter strip of `Ygolden glowing `xsymbols.  At the tip of this 
+weapon is a valley where bright light seems to be building up.  All inside 
+this clear staff are tiny star like sparkles which eluminate the whole area. 
+~
+#23706
+long leggings gold stripes~
+some long `#`Wleggings`^ with `#`Ygold stripes`^~
+A neat set of leggings which have a dress like appearance is here.~
+~
+9 256 8
+55 55 16 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23707
+mithril ring patches gold white~
+a `#`Wmithril `^ring with patches of `Ygold`^~
+A `#`Wwhite`^ and `#`Ygold`^ ring is here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23708
+thin red shirt cloth~
+a thin `#`rred`^ shirt~
+A pile of `#`rred cloth `^is here.~
+~
+9 64 8
+50 50 5 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23709
+long red pants~
+some long `#`rred`^ pants~
+Some `#`rred `^pants are here.~
+~
+11 16 8
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23710
+thick red robe cloth~
+a thick `#`rred`^ robe~
+A pile of thick `#`rred `^cloth is here.~
+~
+9 16 8
+50 50 11 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23711
+flaming tipped three flonged whip~
+a `#`Rflame`^ tipped three flonged whip~
+A whip lies here, burning at the tip.~
+~
+5 16 4
+7 89 118 21 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23712
+token 23636~
+token23636~
+TOKEN23636 - CHECKS IF $N HAS BEEN TO THE INN BEFORE~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23713
+gnome cannon~
+a gnome cannon~
+A large cannon is here, resting on two wheels.~
+~
+13 0 8
+0 0 0 0 0 0 0
+30 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23714
+strange large metal tube~
+a strange metal tube~
+A large metal tube sticks out of the dome here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23715
+cherry red circlet~
+a `#`Rcherry red`^ circlet~
+A circlet that apears to be ablaze is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23716
+grey stone red runes~
+a grey stone with `#`rred`^ runes~
+A grey stone with `#`rred runes`^ is here.~
+~
+5 2 4
+5 108 136 21 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23716 stone ~
+This ovally yet fairly thin rock has two red ruins on both sides.  One is a 
+triangle with strange figures, and on the otherside, a tree like figure with 
+more strange words and tiny dipictions.  It glows with energy.  
+~
+#23717
+clear translucent ring red ruby~
+a clear crystal ring studded with a large `#`Rred ruby`^~
+A translucent ring with a large `#`Rred `^jewel is here.~
+~
+33 2 32
+0 0 0 0 0 0 0
+1 1600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23718
+long flowing red robe~
+a long flowing `#`Rred`^ robe~
+A pile of `#`Rred `^leather is here.~
+~
+9 64 8
+55 55 3 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23718 robe ~
+This is a fairly thick and long red robe.  It is mainly a black shade but is 
+inscribed with many tiny red symbols.  There are some small red rocks also 
+imbued into the finely crafted leather in carefully positioned areas.  
+~
+#23719
+red jewel~
+a `#`Rred jewel`^ encased in translucent glass~
+A `#`Rred jewel`^ encased in translucent glass is floating here quietly.~
+~
+30 64 16
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23720
+a sturdy bunk bed~
+a sturdy bunk bed~
+Five sturdy bunk beds are here spaced out equally.~
+~
+12 0 8
+1000 1170 102 102 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23720 bunk bed~
+These bunk beds look quite comfortable.  They are covered with thick red 
+pillows and comforters.  The frame is solid and seems like it would carry a 
+lot of weight.  
+~
+#23721
+five sturdy bunk beds~
+five sturdy bunk beds~
+Five sturdy white cusioned bunk beds are here.~
+~
+12 0 8
+1000 66706 102 102 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23721 bed bunk white~
+These five bunk beds are spaced equally apart.  The cusions and pillows are 
+white and the thick frame of these beds seem very sturdy.  Each bed seems to 
+hum quietly an enchanting tune of slumber.  On some there are ruins etched 
+into the frame.  There appears to be enough room for one person on the 
+bottom and one on the top of each of these 5 bunk beds.  
+~
+#23722
+copper coloured portal~
+a `#`ycopper coloured`^ portal~
+A `#`ycopper portal`^ is here casting a strange aura.~
+~
+29 1 16
+3072 32 23611 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23723
+pearl white portal~
+a `#`Wpearl white`^ portal~
+A `#`Wpearl white portal`^ is here.~
+~
+29 1 16
+3072 32 3000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23724
+bright red portal~
+a `#`Rbright red `^portal~
+A `#`Rbright red `^portal is here.~
+~
+29 1 16
+1024 32 27003 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23725
+long white staff~
+a long `#`Wwhite staff`^ with a jagged tip~
+A long `#`Wwhite staff`^ is here.~
+~
+5 64 4
+3 108 151 40 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23725 staff ~
+This staff is about 4 feet long and is completely cylinder like.  It widens 
+at the top and comes to a flat point at the bottom like a cone with the 
+bottom having the diameter of a mere centimeter where as the top is maybe 
+three with many small spikes.  There are many ridges and valleys on the 
+staff's holding area which makes for good gripping.  
+~
+#23726
+thick white robe red crest~
+a thick `#`Wwhite`^ robe with a `#`Rred`^ crest~
+A thick pile of glowing material is here.~
+~
+9 64 8
+55 55 15 0 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23726 robe ~
+This strange robe seems relatively light and is very strange.  The texture 
+is to hard to be leather yet much to light to be any metal or alloy.  There 
+are no pockets and is completely white spare the fine `Rred crest`x on the 
+backside.  
+~
+E
+23726 crest ~
+This red crest depicts a gnome of seeminly high stature holding a star like 
+figure.  The picture is surrounded with a finely embroided cherry red 
+border.  
+~
+#23727
+red studded mithril ring~
+a `#`Rred`^ studded `Wmithril`^ ring~
+A `#`Rred`^ studded `Wmithril`^ ring is floating about here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 2700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23727 a red studded mithril ring~
+This ring is beautifully crafted and not one part is engraved with some 
+small arcane word or depiction.  There are 3 red jewels on the top side each 
+ranging in different sizes going from small to big from left to right.  
+~
+#23728
+fingerless pair white gloves~
+a fingerless pair of `#`Wwhite`^ gloves~
+A pair of fingerless gloves are here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23729
+pair one red boot white~
+a pair of one `#`Rred `^boot, and one `Wwhite `^boot~
+A red boot and a white boot are here.~
+~
+9 64 8
+55 55 13 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23730
+thin crystal bracelet~
+a thin `#`Ccrystal`^ bracelet~
+A thin crystal bracelet is here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23730 crystal bracelet~
+This thick bracelet eminates a strange glow which seems to absorb all 
+outside forces.  Within it are two red rubies and two pearls each in ranging 
+sizes incased within that rotate quietly which create a humming noise.  Each 
+jewel flares up every so often almost blindingly at times as they go of one 
+after another every 20 or so minutes.  
+~
+#23731
+oval-like red stone~
+an oval-like `#`Rred`^ stone~
+An oval-like `#`Rred`^ stone floats here.~
+~
+8 2 8
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23731 oval stone~
+This stone is perfectly smooth and oval like.  A small circle with about two 
+centimeters in diameter and one centimeter deep sinks into the stone.  In 
+the very center, a pointed blood red rock points out which seems to be 
+filled with fire.  The stone itself appears very plain as rocks go with a 
+normal grey coating with many rocky black dots.  
+~
+#23732
+library master key~
+the library's master key~
+The library's master key is here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23733
+huge grey stone sword~
+a huge `#`Sgrey stone`^ sword~
+A huge grey stone sword lies here.~
+~
+5 0 4
+24 105 135 40 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23734
+strange gnomish device metal~
+a strange gnomish device~
+A strange metal device lies here, looking very odd.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23734 strange metal device gnomish~
+This strange device makes no sense, it's a small sealed glass disk, in it is 
+a clear water which appears to be water.  In the middle is a small double 
+ended needle which is half painted red, half painted white.  
+~
+#23735
+strange gnomish device metal~
+a strange gnomish device~
+A strange metal device lies here, looking very odd.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23735 strange metal device gnomish~
+This strange device makes no sense.  It's a small metal tube, with a handle 
+at one end.  In the handle is a small peice of metal that looks like it 
+should be pulled.  Above the handle is a tiny hammer thin that's attached at 
+it's base with a screw.  
+~
+#23736
+strange gnomish device metal~
+a strange gnomish device~
+A strange metal device lies here, looking very odd.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+23736 strange metal device gnomish~
+This mass of metal string and tubing dosen't even begin to make sense.
+~
+#23737
+lotsa money~
+money for the deposit~
+Money for the deposit~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23738
+dusty tome gnomish book spells~
+a gnomish book of spells~
+A large dusty tome lies here.~
+~
+2 1 2
+0 -1 -1 -1 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#23739
+mage stone cyan~
+a `#`Cmage`^ stone~
+A strange cyan stone floats here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23740
+circlet of knowledge~
+the `#`Ycirclet`^ of `#`mkn`Mow`mled`Mg`me`^~
+A strange circlet floats here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#23600
+Before the Gates of a Village~
+~
+This appears to be the gates of a village.  There is large, stone wall, that 
+close one end of a small valley.  You can't see much over the walls, except 
+chimneys, and large puffs of smoke, wafting slowly upwards in the cool 
+mountain air.  There is a large gate to the north made out of copper, and 
+engraved with two hammers.  
+~
+1 0 1
+D0
+This large copper gate, looks sturdy, and well made.  On it, two large 
+hammers have been engraved, their heads at opposite ends.  
+~
+gate~
+1 0 23601
+R M 0 23623 2 23600
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+  R E 0 23624 0 6
+E
+gate gates~
+This large copper gate, looks sturdy, and well made.  On it, two large .  F 
+This large copper gate, looks sturdy, and well made.  On it, two large 
+hammers have been engraved, their heads at opposite ends.  
+~
+S
+#23601
+The Gates on High Street~
+~
+This is a large cobbled road, that leads from north to south.  To the south 
+stands a large stone wall, with a pair of copper gates, which seems to close 
+off the small mountain valley, where this village is located.  On either 
+side of the cobbled road, there are small buildings, they look like stores, 
+with their doors wide open, ready for business.  The road, and the stone 
+walls, seem particularly clean and new, indicating this must be a young 
+village.  
+~
+1 0 1
+D0
+The cobbled road continues north in this direction.
+~
+~
+0 0 23602
+D1
+You see a stable in this direction.
+~
+~
+0 0 23634
+D2
+This large copper gate, looks sturdy, and well made.  On it, two large 
+hammers have been engraved, their heads at opposite ends.  
+~
+gate~
+1 0 23600
+D3
+You see a shop in this direction.
+~
+~
+0 0 23636
+R M 0 23621 6 23601
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+R M 0 23624 6 23601
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+E
+gate gates~
+This large copper gate, looks sturdy, and well made.  On it, two large 
+hammers have been engraved, their heads at opposite ends.  
+~
+S
+#23602
+High Street~
+~
+This is a small neat cobbled road.  This road runs from south to north, and 
+there are stores on either side of the road.  Small gardens grow on the side 
+of the road, and a few young saplings have been planted in front of the 
+stores.  
+~
+1 0 1
+D0
+The cobbled road continues north in this direction.
+~
+~
+0 0 23603
+D1
+You see a pet shop in this direction.
+~
+~
+0 0 23639
+D2
+The cobbled road continues south in this direction.
+~
+~
+0 0 23601
+D3
+You see a shop in this direction.
+~
+~
+0 0 23627
+S
+#23603
+An Intersection on High Street~
+~
+You are standing in a small intersection of three cobbled roads.  The roads 
+lead north and south and west, where the roads slopes down a bit, with the 
+terrain.  To the east, is a large building, that is at least two stories 
+high.  
+~
+1 0 1
+D0
+The road continues north in this direction.
+~
+~
+0 0 23605
+D1
+A large wooden building stands here.  Above the doorway, a small sign has 
+been painted, depicting a rooster that seems to be on fire.  Above the 
+rooster, in simple common, the words "INN" have been painted.  
+~
+~
+0 0 23613
+D2
+The road continues south in this direction.
+~
+~
+0 0 23602
+D3
+The road continues west in this direction, sloping down a bit.  
+~
+~
+0 0 23604
+R M 0 23624 6 23603
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23604
+Low Street~
+~
+This small cobbled road curves downward, northwest, into the valley.  On 
+both sides of the road trees and gardens grow.  It is quite pretty, in its 
+neatness.  To the east, you see a buiding, and bustling streets, to the 
+northwest, you see less busy streets.  
+~
+1 0 1
+D1
+~
+~
+0 0 23603
+D9
+~
+~
+0 0 23612
+S
+#23605
+High Street~
+~
+This cobbled road turns northeast, with a small road leading off to the 
+west.  Before you, to the north, a large building rises up.  The road 
+northeast seems to go around the back of the building.  To the south, the 
+road appears to lead to a busy market section of town.  
+~
+1 0 1
+D2
+~
+~
+0 0 23603
+D3
+~
+~
+0 0 23643
+D6
+~
+~
+0 0 23606
+R M 0 23621 6 23605
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+S
+#23606
+High Street~
+~
+You are standing on a small cobbled road, it curves from the southwest, to 
+the north.  On the west side of the road, a large stone wall of a building 
+stands, and the road follows it's edge.  On the east side of the road, a 
+small building stands, it's garden full of all kinds of flowers and it's 
+door open for business.  
+~
+1 0 1
+D0
+~
+~
+0 0 23607
+D1
+~
+~
+0 0 23642
+D8
+~
+~
+0 0 23605
+R M 0 23620 6 23606
+  R E 0 23616 0 8
+  R E 0 23665 0 5
+S
+#23607
+Intersection of Gear Street and High Street~
+~
+You are standing on the corner of a street, two cobbled roads meet, one from 
+the west, one from the south.  To the northeast, is a small forested area, 
+with a dirt road that leads through it.  To the southwest, there is the 
+corner of a large stone building, that towers high.  The western road slopes 
+down a bit, along the side of this stone building, and you can hear strange 
+loud noises from this direction.  
+~
+1 0 1
+D2
+~
+~
+0 0 23606
+D3
+~
+~
+0 0 23608
+D6
+~
+~
+0 0 23629
+R M 0 23624 6 23607
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23608
+Gear Street~
+~
+You are standing on a cobbled road, running east to west.  To the north, an 
+odd, mismatched building stands, it's gate made of copper.  It's a large, 
+and somewhat square building, but attachments have been made everywhere, out 
+of different materials, making for a chaotic looking building.  To the east, 
+you can see the road turns southward.  
+~
+1 0 1
+D0
+~
+gate~
+1 0 23724
+D1
+~
+~
+0 0 23607
+D3
+~
+~
+0 0 23609
+S
+#23609
+Gear Street~
+~
+You are standing on a cobbled road, running east to west.  To the north, an 
+odd, mismatched building stands, there is no gate or door from here, but you 
+can see a gate further down the road to the east.  It is a large, and 
+somewhat square building, but attachments have been made everywhere, out of 
+different materials, making for a chaotic looking building.  To the west you 
+can see the road intercepts another road.  
+~
+1 0 1
+D1
+~
+~
+0 0 23608
+D3
+~
+~
+0 0 23610
+S
+#23610
+End of Low Street~
+~
+The cobbled road running north-south here is intersected by a road from the 
+east.  From the east you can hear a strange banging noise, and sometimes a 
+scream.  To the north, you can see a small road, and a large red stone 
+tower, to the south, a large plaza.  
+~
+1 0 1
+D0
+~
+~
+0 0 23632
+D1
+~
+~
+0 0 23609
+D2
+~
+~
+0 0 23611
+R M 0 23621 6 23610
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+S
+#23611
+A Large Plaza on Low Street~
+~
+You are standing in a large stone plaza.  In the middle of this plaza stands 
+a fountain.  Nice grey slate stone, has been set in a circular fashion 
+surrounding the plaza.  At the edge of the plaza, little trees grow in a 
+ring around the plaza, and a line of bushes mark the edge of the plaza.  
+Cobbled roads lead off in all other directions.  
+~
+1 0 1
+D0
+~
+~
+0 0 23610
+D1
+~
+~
+0 0 23637
+D2
+~
+~
+0 0 23612
+D3
+~
+~
+0 0 23628
+R O 0 23664 0 23611
+R M 0 23622 4 23611
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+R M 0 23620 6 23611
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+R M 0 23625 1 23611
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23666 0 16
+  R E 0 23669 0 14
+  R E 0 23669 0 15
+S
+#23612
+Low Street~
+~
+This cobbled roads leads from north to southwest.  It slopes slightly 
+northwards.  On the side of the road is a white picket fence, and then what 
+seems to be a garden beyond that.  To the north is what seems to be a plaza 
+of some sorts.  
+~
+1 0 1
+D0
+You see what appears to be a Plaza in this direction.  
+~
+~
+0 0 23611
+D7
+~
+~
+0 0 23604
+S
+#23613
+Flaming Rooster Inn~
+~
+You are standing in the bar of the common rooster inn.  Near the east wall 
+is the bar, lined with bottles of all shapes.  A small passage leads east, 
+into what must be the kitchen.  There is a door in the west wall, and an 
+entrance in the north wall.  
+~
+1 8 0
+D0
+You see a small room.
+~
+~
+0 0 23615
+D1
+Seems like a place where people cook.
+~
+~
+0 0 23614
+D3
+~
+~
+0 0 23603
+R O 0 23601 0 23613
+R O 0 23600 0 23613
+R O 0 23600 0 23613
+R O 0 23600 0 23613
+R O 0 23600 0 23613
+R M 0 23600 1 23613
+  R G 0 23606 0
+  R G 0 23607 0
+  R G 0 23610 0
+  R G 0 23609 0
+  R G 0 23608 0
+  R G 0 23611 0
+S
+#23614
+A Busy Kitchen~
+~
+You are standing in what appears to be a busy kitchen.  There are piles of 
+plates everywhere, some clean, some dirty.  Two big wash basins sit on the 
+counter, and a big cast iron stove stands in the corner.  This room is 
+filled with smells of spicy cooked meat.  There are two exits, an entry way 
+to the west, and a door to the east.  
+~
+1 8 0
+D1
+A stout oak door, how typical of gnomes.
+~
+~
+1 0 23624
+D2
+~
+~
+0 0 23626
+D3
+You see a large common room.
+~
+~
+0 0 23613
+D5
+It's too dark to see very far.
+~
+latch~
+1 0 23621
+R M 0 23627 1 23614
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23625 0 12
+  R E 0 23635 0 17
+  R G 0 23633 0
+R O 0 23636 0 23614
+S
+#23615
+Small Room at the Base of the Stairs~
+~
+You are standing in a small room, which is the hall connecting to a set of 
+stairs that lead upwards.  At the base of the stairs, a small desk has been 
+set up, and behind it, a rack of keys.  There is one small window on the 
+west wall.  There is an opening to the south and you can hear the sounds of 
+muffled talking, and smell spicy foods.  
+ 
+Type LIST to see the rooms for rent.
+~
+1 1107296264 0
+D2
+From this direction, you see cheery firelight, and a large room, also, spicy 
+smells of food waft in.  
+~
+~
+0 0 23613
+D4
+Just a normal staircase.
+~
+~
+0 0 23616
+R M 0 23601 1 23615
+  R G 0 23602 0
+  R G 0 23603 0
+  R G 0 23604 0
+  R G 0 23605 0
+  R E 0 23614 0 5
+  R E 0 23623 0 7
+R O 0 23681 0 23615
+S
+#23616
+Hallway at the Top of the Stairs~
+~
+You are standing in a wooden hallway, at the top of a staircase.  The 
+ceiling here is low, and fresh air blows in through the window.  The hallway 
+leads east.  
+~
+1 0 0
+D1
+You see more hallway in this direction.
+~
+~
+0 0 23617
+D5
+You see a staircase leading downwards.
+~
+~
+0 0 23615
+S
+#23617
+A Hallway~
+~
+You are in a hallway, that leads east to west.  The ceiling here is fairly 
+low.  There are two doors, one to the south, the other on the north side.  
+~
+1 8 0
+D1
+You see more hallway in this direction.
+~
+~
+0 0 23618
+D3
+You see more hallway in this direction, and a set of stairs.
+~
+~
+0 0 23616
+S
+#23618
+A Hallway~
+~
+You are standing in a hallway, it leads west, and there are two doors, on 
+the east and west sides of it.  This hallway has a very low ceiling.  
+~
+1 8 0
+D3
+You see more hallway in this direction.
+~
+~
+0 0 23617
+S
+#23619
+A large single bedroom~
+~
+This is a small bare wooden room.  The ceiling here is a little higher than 
+the one in the hall.  On the north wall, there is a small oiled paper 
+window.  
+~
+1 8 0
+D2
+~
+~
+1 0 23617
+S
+#23620
+A large spacious room~
+~
+This room is fairly large, and seems well kept.  The floor boards are 
+smooth, and the room smells nice.  There is plenty of space here, and there 
+is the fresh smell of an evergreen tree filling the room.  There is a door 
+to the north.  
+~
+1 8 0
+D0
+~
+~
+1 0 23617
+R O 0 23637 0 23620
+S
+#23621
+A Musty Cellar~
+~
+You are standin in what appears to be a cellar, this room's walls and floors 
+are made of mud, and a pair of wooden steps lead upward.  This is a damp, 
+and dark room, but seems pretty clean, and cool.  
+~
+1 9 0
+D4
+~
+latch~
+1 0 23614
+R O 0 23613 0 23621
+S
+#23622
+A Small Dusty Room~
+~
+This room is very small and dusty.  There is hardly room to move, and the 
+ceiling is very low.  The soiled mattress they call a bed barely fits into 
+this room.  Overall, this is a very uncomfortable room.  There is a door to 
+the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 23618
+R O 0 23676 0 23622
+S
+#23623
+A Large, Elegantly Decorated Room~
+~
+This large room is elegant and grand.  The floors are shiny, and the large 
+fire pit contains a roaring fire.  The walls are a deep oak, and there is 
+not a spot of dust or dirt anywhere in the room.  This is truly a room fit 
+for a king.  There is a door to the north.  
+~
+1 8 0
+D0
+~
+~
+1 0 23618
+R O 0 23673 0 23623
+R M 0 23628 1 23623
+  R G 0 23607 0
+  R G 0 23606 0
+  R G 0 23675 0
+  R G 0 23674 0
+  R G 0 23641 0
+  R G 0 23644 0
+  R G 0 23645 0
+  R E 0 23615 0 7
+  R E 0 23614 0 5
+  R E 0 23616 0 8
+R O 0 23670 0 23623
+R O 0 23672 0 23623
+R O 0 23671 0 23623
+S
+#23624
+Backyard of the Flaming Rooster Inn~
+~
+You are standing in a small yard.  To your west is the back of a large 
+house.  A large wooden fence surrounds this grassy yard, maybe it is to keep 
+animals out.  There is a small door to the west.  A cool wind blows in from 
+the cold mountain tops to the east.  
+~
+1 0 1
+D3
+You see the back of large house small, in it a small wooden door.
+~
+~
+1 0 23614
+R O 0 23612 0 23624
+S
+#23625
+Before the Hearth~
+~
+You are standing in the corner of the bar.  Before you is a large stone 
+fireplace, which radiates heat like a furnace.  The fire place's setting and 
+chimney are of thick stone, and very well made, assuring that no ash or 
+sparks escape.  There are a few tables set up here and there.  The bar 
+continues to the west.  
+~
+1 0 0
+D3
+~
+~
+0 0 23626
+R O 0 23600 0 23625
+R O 0 23670 0 23625
+R O 0 23672 0 23625
+R O 0 23671 0 23625
+R O 0 23601 0 23625
+S
+#23626
+Dark, Dank Corner of the Bar~
+~
+This is the back corner of the bar, is probably the most poorly lit place in 
+the inn.  The shadows here almost seem unnatural, compared to the cheery 
+light that streams in from the west.  To the north is a small doorway.  
+~
+1 12 0
+D0
+~
+~
+0 0 23614
+D1
+~
+~
+0 0 23625
+R O 0 23670 0 23626
+R O 0 23671 0 23626
+R O 0 23672 0 23626
+S
+#23627
+Balorg's Travel Supplies~
+~
+This is one large room!  A large counter has been set up on the east side of 
+the room with an assortment of odd objects lined up along it.  All over the 
+walls are stuffed heads of strange animals, a tiger, and other strange heads 
+are mounted on plaques.  Arcoss the east wall, a fully stuffed alligator has 
+been hung.  
+~
+1 8 0
+D1
+~
+~
+0 0 23602
+R M 0 23602 1 23627
+  R E 0 23615 0 7
+  R E 0 23614 0 5
+  R E 0 23616 0 8
+  R G 0 23617 0
+  R G 0 23618 0
+  R G 0 23619 0
+  R G 0 23620 0
+  R G 0 23621 0
+  R G 0 23632 0
+R M 0 23617 6 23627
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23628
+Town Street~
+~
+This cobbled road, is smaller than the roads running east to west.  To the 
+east you can see a large plaza, and to the west, you can see a large 
+building that seems like some sort of palace.  
+~
+1 0 1
+D1
+~
+~
+0 0 23611
+D3
+~
+~
+0 0 23653
+S
+#23629
+A Small Dirt Road~
+~
+You are standing on a small dirt path, that looks pretty worn, and well 
+used.  It leads from the southwest to the northeast.  All around, small 
+mountain trees grow, and tough looking shrubs sprout up.  The path continues 
+through the trees to the northeast, and to the southwest it connects to a 
+small cobbled road.  A cottage has been built to the southeast and 
+northwest.  
+~
+1 0 1
+D6
+~
+~
+0 0 23630
+D7
+~
+~
+0 0 23650
+D8
+~
+~
+0 0 23607
+D9
+~
+~
+0 0 23644
+S
+#23630
+A Turn in the Small Dirt Road~
+~
+You are walking along a small dirt road that turns from the northeast, and 
+heads east.  A small grove of short trees are clumped around the edge of the 
+small rise in terrain, that ends the valley.  To the east the trees clear up 
+a bit.  
+~
+1 0 1
+D1
+~
+~
+0 0 23631
+D8
+~
+~
+0 0 23629
+R M 0 23620 6 23630
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23631
+At the End of a Small Dirt Road~
+~
+You are standing in a small clearing, all around you small squat trees grow. 
+ To the south, above the trees, you see a small building.  To the north, a 
+large cave mouth opens and in the darkness of the caves, you can see torches 
+burning, and you can here a large, strange banging sound.  To the east, a 
+church is nestled into the cold mountain valley.  To the west the dirt road 
+curves off into the distance.  
+~
+1 0 1
+D0
+~
+~
+0 0 23662
+D1
+~
+~
+0 0 23701
+D2
+~
+~
+0 0 23641
+D3
+~
+~
+0 0 23630
+R M 0 23622 4 23631
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+R M 0 23624 6 23631
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23632
+Magi's Road~
+~
+You are standing on a small road where a small house stands to the west.  Up 
+ahead to the north is a tall tower made of red umber.  The road leads 
+directly to the base of the tower, through the gates.  
+~
+1 0 1
+D0
+~
+~
+0 0 23736
+D2
+~
+~
+0 0 23610
+D3
+~
+~
+0 0 23638
+S
+#23634
+Gohar's Stable~
+~
+This is a small stable with several stalls.  The smell of hay and grass, and 
+other not so pleasant smells fill the air.  The stalls look small for the 
+average-sized horses.  
+~
+1 4104 0
+D3
+~
+~
+0 0 23601
+R M 0 23604 1 23634
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+S
+#23635
+Stable PET STORAGE ROOM (`BOOC`r) `x~
+~
+WHAT THE **** ARE YOU DOING IN A PET STORAGE ROOM!!??  GET OUT OF HERE NOW!  
+
+~
+1 4235268 0
+R M 0 23606 1 23635
+R M 0 23605 1 23635
+R M 0 23607 1 23635
+R M 0 23608 1 23635
+S
+#23636
+CopperPot's War Supplies~
+~
+This appears to be a large store.  All around you, you see oiled weapons, 
+hanging from racks and lying on pillows.  This store has the smell of a 
+forge, and you can feel it's heat.  In the corner, you can see a large suit 
+of ancient full plate mail.  
+~
+1 8 0
+D1
+~
+~
+0 0 23601
+R M 0 23609 1 23636
+  R G 0 23622 0
+  R G 0 23623 0
+  R G 0 23624 0
+  R E 0 23625 0 5
+  R E 0 23616 0 8
+  R E 0 23615 0 7
+  R E 0 23626 0 16
+  R G 0 23668 0
+S
+#23637
+Dorthwamp's Exotic Brew~
+~
+The first thing that hits you when you enter the store, is the awful smell.  
+It is the smell of brimstone and other less pleasant things.  All around 
+this shop, large glass jugs sit, their contents different colors, clear and 
+opaque, some seem to boil by themselves.  The only empty surface, is that of 
+a small wooden desk that sits in the corner of the shop.  The only exit is 
+the door to the west.  
+~
+1 8 0
+D3
+~
+~
+0 0 23611
+R M 0 23610 11 23637
+  R E 0 23627 0 12
+  R E 0 23616 0 8
+  R G 0 23628 0
+  R G 0 23629 0
+  R G 0 23630 0
+  R G 0 23631 0
+S
+#23638
+Balorg's Magic Supplies~
+~
+The first thing you notice when you enter this store, is that it's filled 
+with books, scrolls, and other strange magical things.  Many old quills lie 
+discarded on the floor, and some scrunched up balls of paper.  Bookshelves 
+line the walls, and on them are many wonderous things.  This store has the 
+smell of parper and ink, and a musty smell too.  The only exit is the door 
+east.  
+~
+1 8 0
+D1
+~
+~
+0 0 23632
+R M 0 23618 1 23638
+  R E 0 23615 0 7
+  R E 0 23627 0 5
+  R G 0 23650 0
+  R G 0 23651 0
+  R G 0 23647 0
+  R G 0 23648 0
+S
+#23639
+Ellena's Fantastic Pets ~
+~
+This small shop, is filled with cages of all kinds.  You hear squawking 
+noises all around, coming from cages, from up high, from almost everywhere.  
+This shop doesn't smell all that bad, considering all the animals in it.  
+All the cages are different sizes, and the many wonderous animals that fill 
+them are truly fantastic.  The only exit from this shop is a door to the 
+west.  
+~
+1 4104 0
+D3
+~
+~
+0 0 23602
+R M 0 23612 1 23639
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+S
+#23640
+PET SHOP STORAGE ROOM, LEAVE NOW~
+~
+You are in a very OOC room, and you should not be here.  I dunno how you got 
+here, but get out now!  
+~
+1 5283844 0
+R M 0 23613 1 23640
+R M 0 23614 1 23640
+R M 0 23615 1 23640
+R M 0 23616 1 23640
+S
+#23641
+A Small Log Cabin~
+~
+This small log cabin is very dusty.  A small door in the north wall is the 
+only exit.  A large counter divides the room, and behind it, you see a large 
+sturdy oak chest, built into the wall.  There are two small windows on the 
+east and south walls, through which you can see a mountain landscape.  
+~
+1 8 0
+D0
+~
+~
+0 0 23631
+R M 0 23619 1 23641
+  R E 0 23615 0 7
+  R E 0 23614 0 5
+  R E 0 23616 0 8
+  R G 0 23660 0
+  R G 0 23661 0
+  R G 0 23662 0
+  R G 0 23663 0
+S
+#23642
+Katla's Gift and Flower Shop~
+~
+This small shop is filled flowers, everywhere, on the floors, on shelves, 
+are flowers of all kinds.  The small windows, on each wall are open, and let 
+a cool breeze flow through the building.  There is also a small door to the 
+west.  On the wall, there is a large sign.  The sign has a large red title 
+that says in common: "`#`RCANDY STORE INSTRUCTIONS!  `^" 
+~
+1 262152 0
+D3
+~
+~
+0 0 23606
+R M 0 23603 1 23642
+  R E 0 23614 0 5
+  R E 0 23623 0 7
+  R E 0 23616 0 8
+  R G 0 23641 0
+  R G 0 23642 0
+  R G 0 23643 0
+  R G 0 23644 0
+  R G 0 23645 0
+  R G 0 23652 0
+  R G 0 23649 0
+  R G 0 23646 0
+  R G 0 23653 0
+  R G 0 23654 0
+  R G 0 23655 0
+  R G 0 23656 0
+  R G 0 23657 0
+  R G 0 23658 0
+  R G 0 23659 0
+E
+large sign candy store instrutions~
+`#`g|_/\_,/--,-``-{`R@ `Y Instructions:  `R@`g}-,-'--\,_/\_|`^`1`1
+`g1)`^  Buy one of the two containers for candy, the `Mpink`^ bag, or the heart shaped box! ( It will be empty, but don't worry!)`1`1
+`g2)`^  Now buy the ten candies that you want. ( Each box can take about 10 candies. )`1`1
+`g3)`^  Now put all the candies you bought, into the container, and give it to someone as a gift, or keep it all for yourself! ( Greedy greedy! )`1`1
+                `M- Katla, The Flower Girl`^
+~
+S
+#23643
+The Tasty Treats Bakery~
+~
+This store smells so good!  The smells of fresh bread, and baking pastries 
+fill your nose as you enter.  The floor is clean, and there are two long 
+counters, filled with baked goods of all kinds.  This dainty little shop has 
+two windows, and a door to the east.  The counters block the way west, where 
+the kitchen is.  
+~
+1 262152 0
+D1
+~
+~
+0 0 23605
+R M 0 23611 1 23643
+  R E 0 23618 0 8
+  R E 0 23625 0 5
+  R E 0 23615 0 7
+  R G 0 23608 0
+  R G 0 23638 0
+  R G 0 23639 0
+  R G 0 23640 0
+R M 0 23617 6 23643
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23644
+Inside a Large Home~
+~
+This seems like the living room of a fairly large home, there are two 
+exits to this room.  The door to the south, and to halls north .  In 
+the corner of this room, and small fire burns, keep the room warm.  There is 
+a large rug laid out, and some furniture here and there.  
+~
+1 8 0
+D0
+You see a kitchen in this direction.
+~
+~
+0 0 23645
+D7
+~
+~
+0 0 23629
+S
+#23645
+A Small Kitchen~
+~
+This small kitchen is bare, several cupboard here and there, and a strong 
+smell of raisons too.  There is a hatch in the floor leading down, and an 
+exit to the south.  
+~
+1 8 0
+D0
+~
+~
+0 0 23647
+D2
+You see a large room in this direction.
+~
+~
+0 0 23644
+D5
+Just a simple wooden hatch.
+~
+hatch~
+1 0 23646
+R O 0 23633 0 23645
+R O 0 23636 0 23645
+R M 0 23617 6 23645
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23646
+A Root Cellar~
+~
+You are standing in the cellar of a small.  Light filters down throught the 
+floor boards that are the ceiling.  Dried onions and vegetables adorn the 
+walls, and crates of food lie here and there.  The floor and walls here are 
+earth, making this room smell like a forest.  
+~
+1 8 0
+D4
+Just a simple wooden hatch.
+~
+hatch~
+1 0 23645
+R O 0 23633 0 23646
+R O 0 23634 0 23646
+  R P 0 23633 20 23634
+  R P 0 23635 30 23634
+  R P 0 23617 100 23634
+S
+#23647
+A Hallway~
+~
+This small hallway has stone walls, and a dirt floor.  There are two doors, 
+on to the north, and one to the east.  The hallway leeds west.  
+~
+1 8 0
+D0
+Just a plain spruce door.  
+~
+~
+1 0 23648
+D1
+Just a plain spruce door.  
+~
+~
+1 0 23649
+D2
+~
+~
+0 0 23645
+S
+#23648
+A Large Bedroom~
+~
+This large bedroom in square and plain.  There is a door to the south, and a 
+window on the north wall.  The floor is wood panels, and the walls a wood 
+boarding.  It looks like an adult bedroom.  
+~
+1 8 0
+D2
+~
+~
+1 0 23647
+R O 0 23637 0 23648
+R M 0 23620 6 23648
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23649
+A Small Bedroom~
+~
+South wall, and a door to the west.  This small bedroom, looks like it was 
+made for a kid.  The walls are painted a sky blue, and the floor is covered 
+with a shag carpet, here and there, but none of them look worth taking.  The 
+is a small window on the east and south wall, and a door to the west.  
+~
+1 8 0
+D3
+~
+~
+1 0 23647
+R O 0 23637 0 23649
+S
+#23650
+The Living Room of a Gnome House~
+~
+You are standing in a small living room, in what appears to be a gnome 
+house.  The wooden floor in covered in rugs, and there is sparse furniture 
+here and there.  Two hallways extend east and south, and there is door to 
+the north.  
+~
+1 8 0
+D1
+A wooden door..
+~
+~
+1 0 23652
+D2
+You see a small kitchen in this direction.
+~
+~
+0 0 23651
+D9
+~
+~
+0 0 23629
+R M 0 23621 6 23650
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+S
+#23651
+A Small Kitchen~
+~
+You are standing in a small room, it appears to be a kitchen.  Several 
+cutting boards have been set up, and the smell of food wafts from the stove. 
+ There is one exit, which is to the north.  
+~
+1 8 0
+D0
+A small room can be seen in this direction.  
+~
+~
+0 0 23650
+R O 0 23633 0 23651
+R O 0 23636 0 23651
+R O 0 23634 0 23651
+  R P 0 23635 30 23634
+  R P 0 23617 100 23634
+R M 0 23617 6 23651
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23652
+A Bedroom~
+~
+This is a plain bedroom, on the east wall, a open window lets in a cool 
+breeze.  There is a door to the west.  
+~
+1 8 0
+D3
+A wooden door..
+~
+~
+1 0 23650
+R O 0 23637 0 23652
+S
+#23653
+Town Street~
+~
+You are standing in front of the gates of a tall palace structure.  The 
+large gates are tall, and made of copper and iron.  The walls are of a slate 
+grey stone, with veins of red running through it.  To the north, and to the 
+south, small cobbled paths lead to an array of small gnome houses.  
+~
+1 0 1
+D0
+~
+~
+0 0 23654
+D1
+~
+~
+0 0 23628
+D2
+~
+~
+0 0 23655
+D3
+~
+gate~
+0 0 23718
+R M 0 23626 1 23653
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23654
+Small Cobbled Path~
+~
+You are at the fork of a small cobbled path.  Small gnome houses stand to 
+the east, west, and north.  They are small, but quaint and well made, and 
+look like a nice place to live.  They each have a small garden, with strange 
+but beautiful plants in them.  The path leads to the south, towards a large 
+palace like structure.  
+~
+1 0 1
+D0
+Just a sturdy oak door.
+~
+~
+1 0 23658
+D1
+Just a sturdy oak door.
+~
+~
+1 0 23656
+D2
+~
+~
+0 0 23653
+D3
+Just a sturdy oak door.
+~
+~
+1 0 23657
+R M 0 23621 1 23654
+  R E 0 23614 0 5
+  R E 0 23615 0 5
+  R E 0 23616 0 5
+R M 0 23622 4 23654
+  R E 0 23615 0 7
+  R E 0 23614 0 5
+R M 0 23624 6 23654
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23655
+Small Cobbled Path~
+~
+You are at the fork of a small cobbled path.  Small gnome houses stand to 
+the east, west, and south.  They are small, but quaint and well made, and 
+look like a nice place to live.  They each have a small garden, with strange 
+but beautiful plants in them.  The path leads to the north, towards a large 
+palace like structure.  
+~
+1 0 1
+D0
+~
+~
+0 0 23653
+D1
+Just a sturdy oak door.
+~
+~
+1 0 23660
+D2
+Just a sturdy oak door.
+~
+~
+1 0 23659
+D3
+Just a sturdy oak door.
+~
+~
+1 0 23661
+R M 0 23622 4 23655
+  R E 0 23615 0 7
+  R E 0 23614 0 5
+R M 0 23620 6 23655
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+R M 0 23624 6 23655
+  R E 0 23624 0 6
+  R E 0 23668 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23667 0 16
+S
+#23656
+In a Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D3
+Just a Sturdy oak door.
+~
+~
+1 0 23654
+R O 0 23636 0 23656
+R M 0 23617 6 23656
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23657
+In a Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D1
+Just a stury oak door.
+~
+~
+1 0 23654
+R O 0 23636 0 23657
+R M 0 23620 6 23657
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23658
+In a Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D2
+Just a sturdy oak door.
+~
+~
+1 0 23654
+R O 0 23636 0 23658
+R M 0 23620 6 23658
+S
+#23659
+A Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D0
+Just a sturdy oak door.
+~
+~
+1 0 23655
+R O 0 23636 0 23659
+R M 0 23617 6 23659
+  R E 0 23665 0 5
+  R E 0 23616 0 8
+S
+#23660
+A Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D3
+Just a sturdy oak door.
+~
+~
+1 0 23655
+R O 0 23636 0 23660
+S
+#23661
+A Small Gnomish Home~
+~
+This is a small house made from quality wood.  It is half dug into the 
+ground.  It is apparently only one room, to keep it warm, in the long winter 
+months of the mountain.  You can see the expert workmanship that went into 
+making it, and the house has a certain gnomish charm to it.  
+~
+1 8 0
+D1
+Just a sturdy oak door.
+~
+~
+1 0 23655
+R O 0 23636 0 23661
+S
+#23662
+The Entrance to the Mine~
+~
+You are standing in the opening of a cave.  To the north, a large crack in 
+the rock yawns in the darkness.  You can see lights in the darkness.  At the 
+edge of the crack, a steel ladder has been attached, that goes down into the 
+darkness.  Light shines in from the open end of the cave, to the south.  A 
+large system of wheels and cogs, attached to a crank, runs a wire frist up 
+to a suspended wheel attached to the ceiling.  
+~
+1 8 0
+D2
+You see the opening of a cave.
+~
+~
+0 0 23631
+D5
+You see a large hole, that goes down into the darkness.
+~
+~
+0 0 23663
+R M 0 23645 3 23662
+  R E 0 23693 0 16
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23624 0 6
+R M 0 23642 4 23662
+  R E 0 23696 0 16
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+R M 0 23643 5 23662
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23695 0 16
+S
+#23663
+A long shaft, with a ladder.~
+~
+You are climbing down a long dark shaft.  The metal ladder, makes it easy to 
+climb, and torches have been jammed into the walls, in a line leading down.  
+This dark shaft is very long, for you cannot see the top nor the bottom.  
+Two long cables extend up and down in the darkness.  
+~
+1 8 5
+D4
+~
+~
+0 0 23662
+D5
+~
+~
+0 0 23664
+S
+#23664
+A Large Cavern~
+~
+You are standing in a large cavern.  The floor here has been leveled, and a 
+square field of fungus grows here.  In the north corner of this cavern, a 
+metal ladder leads up to a large crack in the ceiling.  Two thick metal 
+wires extend down out of the crack, attached to a large wooden platform that 
+hangs a few inches off the ground.  Here and there, on the distant walls of 
+the caverns, torches shed a dim light.  The ceiling is too high even to see. 
+ Three large tunnels, with a line of torches extends to the east, north, and 
+west.  
+~
+1 8 0
+D0
+~
+~
+0 0 23665
+D1
+~
+~
+0 0 23670
+D3
+~
+~
+0 0 23667
+D4
+~
+~
+0 0 23663
+R M 0 23645 3 23664
+  R E 0 23693 0 16
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23624 0 6
+R M 0 23642 4 23664
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23696 0 16
+R M 0 23643 5 23664
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23695 0 16
+S
+#23665
+The Northern Tunnel~
+~
+This long tunnel, is lit by a row of torches.  The tunnel is relatively flat 
+although the ceiling is a bit jagged.  It leads from north to south.  The 
+floor has a layer of crushed rock dust, making walking easy.  
+~
+1 8 0
+D0
+~
+~
+0 0 23666
+D2
+~
+~
+0 0 23664
+S
+#23666
+A Dead End~
+~
+You are standing at the end of a tunnel.  It opens up a bit here, and the 
+end wall is mainly rubble.  A small vein of gold shimmers here, obviously 
+the gnomes decided it was not worth the bother of all the miners, to mine 
+the gold here.  Two large torches illuminate the small space.  The only exit 
+is the tunnel that extends to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 23665
+R M 0 23642 4 23666
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23696 0 16
+R M 0 23643 5 23666
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23695 0 16
+S
+#23667
+The Western Tunnel~
+~
+You are standing in a stone corridor, that leads from east to west.  The 
+stone is well cut, and square.  On the south wall, an arch has been cut into 
+the wall, and a wooden door has been set.  A cool breeze blows from the 
+east.  
+~
+1 8 0
+D1
+~
+~
+0 0 23664
+D2
+A wooden door.
+~
+~
+1 0 23678
+D3
+~
+~
+0 0 23668
+S
+#23668
+A Downward Sloping Tunnel~
+~
+This stone passageway slopes down toward the east, coming from the west.  A 
+line of torches line the north wall, and the floor seems very smooth in this 
+particular tunnel.  
+~
+1 8 0
+D1
+~
+~
+0 0 23667
+D3
+~
+~
+0 0 23669
+S
+#23669
+Dead End, before a Rich Vein of Ore~
+~
+This large cavern opens up, the walls are jagged and seem to be cut here and 
+there.  Large black veins of ore run through the stone, and seem to be very 
+rich.  A large jagged opening in the ceiling blows a cold wind down on you.  
+
+~
+1 8 11
+D1
+~
+~
+0 0 23668
+R M 0 23645 3 23669
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23624 0 6
+  R E 0 23693 0 16
+R M 0 23643 5 23669
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23694 0 16
+  R E 0 23626 0 17
+R M 0 23643 5 23669
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23695 0 16
+R M 0 23642 4 23669
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23696 0 16
+S
+#23670
+The Eastern Tunnel~
+~
+You are standing in a jagged tunnel, the walls and floor are not well cut, 
+and the rubble is piled carelessly here.  It leads deeper, to the east.  It 
+seems as if it hasn't been used for a long time, there is dust on the 
+floors.  
+~
+1 8 0
+D1
+~
+~
+0 0 23671
+D3
+~
+~
+0 0 23664
+S
+#23671
+Dead End before a Pile of Rubble~
+~
+You are standing above a jagged hole in the rock floor, rubble covers most 
+of it.  A drip of water falls from the ceiling here, and a strange glowing 
+moss grows here.  
+~
+1 9 0
+D3
+~
+~
+0 0 23670
+D5
+~
+~
+0 0 23672
+R O 0 23698 0 23671
+S
+#23672
+In a Rubble Filled Shaft~
+~
+This shaft is filled with jagged rubble.  Water drips down, from above, 
+making the surface slick.  A strange moss grows here, glowing in the dark.  
+To the north, the jagged shaft opens, to a fairly smooth, but circle-shaped 
+tunnel.  The shaft leads upwards.  
+~
+1 9 5
+D0
+~
+~
+0 0 23673
+D4
+~
+~
+0 0 23671
+S
+#23673
+A Downward Sloping Shaft~
+~
+This circle shaped tunnel, slopes sharply downward.  The walls and floors 
+are slick with a gooey ooze, and a glowing moss.  It curves from the south, 
+to the northeast, making it seem very unnatural.  
+~
+1 9 5
+D2
+~
+~
+0 0 23672
+D6
+~
+~
+0 0 23674
+R M 0 23648 20 23673
+R M 0 23648 20 23673
+R M 0 23648 20 23673
+R M 0 23648 20 23673
+R M 0 23648 20 23673
+S
+#23674
+In a Downward Sloping Shaft~
+~
+This circle shaped tunnel, slopes sharply downward.  The walls and floors 
+are slick with a gooey ooze, and a glowing moss.  It curves from the 
+southwest, to the north, making it seem very unnatural.  There are jagged 
+cracks in the walls, and the air near the cracks seems hotter.  
+~
+1 9 5
+D0
+~
+~
+0 0 23675
+D8
+~
+~
+0 0 23673
+R M 0 23648 20 23674
+R M 0 23648 20 23674
+S
+#23675
+Jagged Curve in the Tunnel~
+~
+You are standing in a circle shaped tunnel which has come to an abrupt end.  
+The ground and walls here are dry and warm.  Smells of brimstone waft in 
+from the south.  
+~
+1 9 5
+D2
+~
+~
+0 0 23674
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+R M 0 23648 20 23675
+S
+#23678
+A Small Stone Room~
+~
+The small stone room is square cut.  There is a wooden door to the north.  
+The floor has a small rug laid out.  Other than that, this a plain square 
+room.  
+~
+1 0 0
+D0
+A wooden door.
+~
+~
+1 0 23667
+R O 0 23672 0 23678
+R O 0 23697 0 23678
+R O 0 23671 0 23678
+R O 0 23671 0 23678
+R M 0 23647 3 23678
+  R E 0 23614 0 5
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23617 0 17
+  R G 0 23611 0
+  R G 0 23606 0
+S
+#23679
+An Entrance Hall~
+~
+You are standing in a hallway.  There are open arches to both the east and 
+west sides, and two large oak doors to the south.  The floor is richly 
+carpeted in a grey and burnt amber colored pattern.  To the north, a large 
+double staircase, ascends and descends.  The walls are a grey stone with 
+wood panels.  
+~
+1 8 0
+D0
+~
+~
+0 0 23680
+D1
+~
+~
+0 0 23681
+D2
+~
+~
+0 0 23736
+D3
+~
+~
+0 0 23682
+R M 0 23652 5 23679
+  R E 0 23614 0 5
+  R E 0 23616 0 8
+  R E 0 23615 0 7
+S
+#23680
+Huge Stairway, Ground Floor~
+~
+This large set of stairs is carpeted and made of oak.  They go up and down.  
+The railing is brass, and there are arcane runes running up and down the 
+walls here.  There is an opening to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 23679
+D4
+~
+~
+0 0 23685
+D5
+~
+~
+0 0 23698
+S
+#23681
+The White Study~
+~
+You are standing in what appears to be a room for study.  There are rows of 
+desks, with a large desk at the front.  In the middle of the room, there is 
+a small clearing in the desks, with a blackened circle in it.  Along the 
+south wall, there is a long counter, with hooks above it.  It appears to be 
+a place to mix spell components.  There is a door to the north, and an 
+entrance way to the east.  The main color used in this room is white, the 
+wood used is a pale spruce, and a white carpet lines the floor.  
+~
+1 8 0
+D0
+~
+~
+1 0 23684
+D3
+~
+~
+0 0 23679
+R M 0 23649 1 23681
+  R E 0 23707 0 1
+  R E 0 23699 0 12
+  R E 0 23706 0 7
+  R E 0 23705 0 16
+  R E 0 23704 0 5
+  R E 0 23703 0 6
+R M 0 23650 3 23681
+  R E 0 23702 0 16
+  R E 0 23701 0 7
+  R E 0 23699 0 12
+  R E 0 23700 0 5
+R M 0 23651 3 23681
+  R E 0 23703 0 6
+  R E 0 23699 0 5
+  R E 0 23700 0 12
+  R E 0 23701 0 7
+  R E 0 23702 0 16
+S
+#23682
+The Red Study~
+~
+You are standing in what appears to be a room for study.  There are rows of 
+desks, with a large desk at the front.  In the middle of the room, there is 
+a small clearing in the desks, with a blackened circle in it.  Along the 
+south wall, there is a long counter, with hooks above it.  It appears to be 
+a place to mix spell components.  There is a door to the north, and an 
+entrance way to the east.  The main color used in this room is red, the wood 
+is stained red, and a red carpet contrasts with the stone walls.  
+~
+1 8 0
+D0
+A plain wooden door.
+~
+~
+1 0 23683
+D1
+~
+~
+0 0 23679
+R M 0 23653 3 23682
+  R E 0 23711 0 16
+  R E 0 23710 0 12
+  R E 0 23709 0 7
+  R E 0 23708 0 5
+R M 0 23654 4 23682
+  R E 0 23711 0 19
+  R E 0 23711 0 16
+  R E 0 23710 0 12
+  R E 0 23709 0 7
+  R E 0 23708 0 5
+R M 0 23655 1 23682
+  R E 0 23719 0 18
+  R E 0 23716 0 16
+  R E 0 23715 0 6
+  R E 0 23718 0 12
+  R E 0 23717 0 1
+S
+#23683
+The Red Dorms~
+~
+This room is obviously a dorm of some sorts.  Bunk beds line the walls, each 
+one with red sheets, and pillows.  The room is very red, with a red shaggy 
+carpet, and red wood baseboards.  Windows line the west wall.  There is a 
+door to the south.  
+~
+1 8 0
+D2
+A plain wooden door.
+~
+~
+1 0 23682
+S
+#23684
+The White Dorms~
+~
+This room is obviously a dorm of some sorts.  Bunk beds line the walls, each 
+one with white sheets, and pillows.  The room is very white, with a white 
+shaggy carpet, and spruce baseboards.  Windows line the east wall.  There is 
+a door to the south.  
+~
+1 8 0
+D2
+~
+~
+1 0 23681
+S
+#23685
+A Stairway~
+~
+This large set of stairs is carpeted and made of oak.  They go up and down.  
+The railing is brass, and there are arcane runes running up and down the 
+walls here.  There is an opening to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 23687
+D4
+~
+~
+0 0 23686
+D5
+~
+~
+0 0 23680
+R M 0 23652 5 23685
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+S
+#23686
+The Top of the Stairs~
+~
+This large set of stairs is carpeted and made of oak.  The stairs go 
+downwards.  The railing is brass, and there are arcane runes running up and 
+down the walls here.  There is a landing to the south, where a solid set of 
+oak doors stand.  
+~
+1 8 0
+D2
+A solid set of strong oak doors.  
+~
+~
+1 0 23694
+D5
+~
+~
+0 0 23685
+S
+#23687
+The High Magi's Study~
+~
+This looks like a more mature study area.  The room is roughly square, but 
+the south wall is curved.  The floor here, is tiled in a red-white pattern.  
+The walls here are a grey stone.  There is a large glass `Wwindow`X to the 
+south.  In the middle of the ceiling of this room, a large book is painted.  
+There are hallways to the north, east and west.  
+~
+1 8 0
+D0
+~
+~
+0 0 23685
+D1
+~
+~
+0 0 23688
+D3
+~
+~
+0 0 23689
+R M 0 23652 5 23687
+  R E 0 23614 0 5
+  R E 0 23616 0 8
+  R E 0 23615 0 7
+E
+window ~
+You are looking out over the gnome village.  To the north, you can see the 
+tall, elegant bell tower, of the quaint church, between the various plain 
+buildings of the village.  To the east, you can barely make out a strange, 
+mosh-posh building, with a large flat area on it's roof.  To the north west, 
+you can see a large, stubby cylinder shaped building.  At the edge of your 
+vision east, and west you can see large mountains, that form the valley that 
+the gnome village is neslted in.  
+~
+S
+#23688
+The White Labratory~
+~
+This seems to be a room for practicing magic.  In the middle of the room, a 
+large white and gold circle has been painted on the floor.  The grey stone 
+walls here, have arcane runes running along the bottom of them, of course, 
+they too are in gold and white.  There is a large oak door to the north.  
+There are large shiny smooth spots in the stone of the walls and floor.  In 
+one corner of the room, the walls seem to shimmer strangely.  
+~
+1 8 0
+D0
+A sturdy oak door.  
+~
+door~
+1 0 23693
+D1
+~
+door~
+1 0 23692
+D3
+~
+~
+0 0 23687
+R M 0 23656 6 23688
+  R E 0 23700 0 5
+  R E 0 23701 0 7
+  R E 0 23699 0 12
+  R E 0 23702 0 16
+S
+#23689
+The Red Laboratory~
+~
+This seems to be a room for practicing magic.  In the middle of the room, a 
+large red circle has been painted on the floor.  The grey stone walls here, 
+have arcane runes running along the bottom of them, of course, they too are 
+in red.  There is a large oak door to the north.  Here and there, large 
+blackened splotches adorn the floor.  
+~
+1 8 0
+D0
+A large, sturdy oak door.  
+~
+door~
+1 0 23690
+D1
+~
+~
+0 0 23687
+D3
+~
+door~
+1 0 23691
+R M 0 23659 6 23689
+  R E 0 23709 0 7
+  R E 0 23711 0 16
+  R E 0 23710 0 12
+  R E 0 23708 0 5
+S
+#23690
+A Large Bedroom~
+~
+This small stone room is fairly barren, except for the thick red carpet on 
+the floor.  All across the room, red runes have been scrawled on the grey 
+stone wall, as if the writer ran out of paper, in the middle of an idea.  
+There is a door to the south.  
+~
+1 8 0
+D2
+~
+~
+1 0 23689
+R O 0 23720 0 23690
+S
+#23691
+A Large Bedroom~
+~
+This room like the laboratory is covered with strange red runes.  The place 
+seems to be completely littered with them like graffiti.  There are five 
+bunk beds made of some fine wood all with soft and welcoming cushions.  The 
+ground has a spiralling red carpet which has a hypnotic tone to it.  There 
+is a window west of here, covered by a red curtain and a dull red light 
+shines providing sufficient light.  
+~
+1 8 0
+D1
+~
+~
+1 0 23689
+R O 0 23720 0 23691
+S
+#23692
+A Large Bedroom~
+~
+This room like the laboratory is covered with strange white runes.  The 
+place seems to be completely littered with them like graffiti.  There are 
+five bunk beds made of some fine wood all with soft and welcoming cushions.  
+The ground has a spiralling white and grey carpet which has a hypnotic tone 
+to it.  There is a window east of here, covered by a white curtain and a 
+bright white light shines providing sufficient light.  
+~
+1 8 0
+D3
+~
+~
+1 0 23688
+R O 0 23721 0 23692
+S
+#23693
+A Large Bedroom~
+~
+This small stone room is fairly barren, except for the rich grey carpet on 
+the floor.  On the north wall, there is a `Wsmall painting`X.  The rest of the 
+walls are bare grey stone.  There is a door to the south.  
+~
+1 8 0
+D2
+A plain oak door.
+~
+~
+1 0 23688
+R O 0 23721 0 23693
+E
+picture painting small~
+This painting depicts a young gnome adorned in fine white clothing awell as 
+red clothing.  He holds a white cylinder staff in one hand and and a small 
+stone in the other.  His attire cosists of both red and white items.  Power 
+illuminates through this picture and slowly you see the young gnome age into 
+a much older and withered gnome.  The sense of power still exists.  
+~
+S
+#23694
+A Dark Laboratory~
+~
+This dim room is illuminated only by the round window in the curving south 
+wall.  The floor here is marble, and the walls are a pure white stone.  The 
+ceiling is higher than normal for gnomes, a sign of wealth perhaps.  There 
+is a set of double oak doors to the south, and a wooden door on both the 
+east and west walls.  This room seems to be a laboratory.  
+~
+1 8 0
+D0
+A solid set of strong oak doors. 
+~
+~
+1 0 23686
+D1
+~
+door~
+1 0 23696
+D3
+~
+~
+1 0 23695
+R M 0 23652 5 23694
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+S
+#23695
+The Portal Room~
+~
+This room is made of a plain stone.  There is nothing special, except for 
+all the portals, that have been set up.  The glowing portals give the room a 
+strange, magical colour.  
+~
+1 8 0
+D1
+~
+~
+1 0 23694
+R O 0 23722 0 23695
+R O 0 23723 0 23695
+R O 0 23724 0 23695
+S
+#23696
+The High Magi's Study~
+~
+You are standing in what seems to be an office of some kind.  It is a very 
+nice office too.  There is a beautifully patterned rug covering the floor.  
+The walls are wood panelled with a dark red wood.  There are bookshelves on 
+the east and south walls.  There is a wooden door to the east and north.  
+Large candles stand lighting the room.  
+~
+1 8 0
+D0
+A simple wooden door.
+~
+~
+1 0 23697
+D3
+~
+~
+1 0 23694
+R M 0 23670 1 23696
+  R E 0 23731 0 19
+  R E 0 23730 0 14
+  R E 0 23728 0 9
+  R E 0 23729 0 8
+  R E 0 23727 0 1
+  R E 0 23703 0 6
+  R E 0 23726 0 5
+  R E 0 23725 0 16
+S
+#23697
+The Personal Chambers of the High Magi~
+~
+This appears to be a bedroom of some sorts.  The floor here is carpeted, and 
+there are large pillows in the corner.  The room's ceiling is fairly low, 
+making anyone of human height or higher duck when they enter this room.  
+Other than that, the room is fairly large and spacious for a bedroom.  There 
+is a large fireplace in the north wall.  On the east wall there is a `#`Blarge 
+`Bportrait`x`x.  There is a door to the south.  
+~
+1 8 0
+D2
+A simple wooden door.
+~
+~
+1 0 23696
+E
+large portrait~
+This picture depicts a gnome man, standing tall and proud, in his right 
+hands is a large volume, symbolising knowledge, and intelligence.  In left 
+hand is a hammer, depicting strengh and courage.  Around his neck, is a 
+silver chain, with a grey sparrow attached to it, one of the symbols of 
+great knor.  This obviously is what the gnome mages strive for, it is there 
+opinion of excellence.  
+~
+S
+#23698
+The Bottom of a Stairway~
+~
+This large set of stairs is carpeted and made of oak.  The stairs go 
+upwards.  The railing is brass, and there are arcane runes running up and 
+down the walls here.  There is a stone hall to the south, which seems 
+gloomy.  There seem to be some large bookcases that way.  
+~
+1 8 0
+D2
+~
+~
+0 0 23699
+D4
+~
+~
+0 0 23680
+S
+#23699
+The Library~
+~
+You are standing in a dim library.  The lighting comes from dim balls of 
+light, which float close to the ground.  The walls are covered with 
+bookshelves, the books are not dusty, and seem well kept.  The floor is bare 
+stone.  The place has an air of ancient times, and deep knowledge.  
+~
+1 8 0
+D0
+~
+~
+0 0 23698
+D3
+~
+~
+33 23732 23700
+R M 0 23700 1 23699
+  R E 0 23733 0 16
+  R E 0 23732 0 3
+S
+#23700
+The Treasure Room~
+~
+This is a bare room of stone, covered in dust.  It seems like no one has 
+been here in ages.  The only exit is a stone door to the east.  
+~
+1 8 0
+D1
+~
+~
+33 23732 23699
+R O 0 23738 0 23700
+R O 0 23739 0 23700
+R O 0 23740 0 23700
+S
+#23701
+On the Steps before a Church~
+~
+You are standing on the wide steps of a large building.  This building is 
+tall, and very elegant, and seems to be a church or temple of some sort.  
+The wide steps are made of well cut stone, and on either side of them, is a 
+row of bushes.  To the east, are the large double doors of the church which 
+are solid oak, and very impressive.  To the west, you can see a dirt road.  
+~
+1 0 1
+D1
+To the east, stands a large double door, made of thick dark wood.  
+~
+~
+1 0 23702
+D3
+~
+~
+0 0 23631
+R M 0 23629 5 23701
+R M 0 23629 5 23701
+R M 0 23629 5 23701
+R M 0 23629 5 23701
+R M 0 23629 5 23701
+S
+#23702
+The Grand Hall~
+~
+This hall is huge...  Looking up high into the rafters, you can see the high 
+stone ceiling.  Rows of benches line the hall, all facing the east.  The 
+north and south walls are dotted with large stained-glass windows, in 
+between the strong stone columns.  The windows depict the rise and fall of 
+the gnomish empire.  This hall is airy and elegant, very unusual for a 
+gnomish building.  
+~
+1 8 0
+D1
+~
+~
+0 0 23703
+D3
+To the west, stands a large double door, made of thick dark wood.  
+~
+~
+1 0 23701
+R M 0 23630 5 23702
+  R E 0 23677 0 12
+  R E 0 23686 0 8
+  R E 0 23678 0 3
+S
+#23703
+The Altar~
+~
+You are standing before what appears to be an altar of some sorts.  It is a 
+large block of red stone, with various arcane symbols and lettering carved 
+into it.  In the middle of the round stone altar, stands an anvil which 
+seems to be made completely out of copper.  Rising above the anvil is a 
+large round copper disk, with the symbol of a sparrow carved into it.  To 
+the west stretches a large hall, to the north is a small door in an alcove, 
+and to the south is a small hallway.  
+~
+1 8 0
+D0
+~
+~
+1 0 23704
+D1
+This is an altar.
+~
+~
+33 23683 23706
+D2
+~
+~
+0 0 23705
+D3
+~
+~
+0 0 23702
+R M 0 23631 5 23703
+  R E 0 23678 0 3
+  R E 0 23686 0 8
+  R E 0 23677 0 5
+R M 0 23630 5 23703
+  R E 0 23678 0 3
+  R E 0 23686 0 8
+  R E 0 23677 0 5
+R M 0 23633 2 23703
+  R E 0 23677 0 12
+  R E 0 23616 0 8
+S
+#23704
+A Small Chapel~
+~
+This small chapel seems to be a place of quiet worship.  The wall to the 
+north is filled with three large stained glass windows, which filter the 
+sunlight into a pale blue during the day.  On the east wall, is a large 
+engraving depicting a sparrow clutching a hammer.  There is a wooden door 
+that leads to the south.  
+~
+1 0 0
+D2
+~
+~
+1 0 23703
+R M 0 23630 5 23704
+  R E 0 23677 0 12
+  R E 0 23686 0 8
+  R E 0 23679 0 3
+R M 0 23633 2 23704
+  R E 0 23677 0 12
+  R E 0 23616 0 8
+S
+#23705
+Hall, Next to a Stairway~
+~
+You are standing at the junction of two halls.  A large, thick stone 
+stairway extends up and down into darkness here, and halls lead to the north 
+and east.  In the west wall is a wooden door.  It is somewhat quiet here, in 
+these stone walls.  
+~
+1 8 0
+D0
+~
+~
+0 0 23703
+D1
+~
+~
+1 0 23707
+D3
+~
+~
+0 0 23708
+D4
+~
+~
+0 0 23712
+D5
+~
+~
+0 0 23714
+S
+#23706
+Behind The Altar~
+~
+This small room is quite cramped, the two small doors in the south and west 
+walls are barely the height of an average gnome.  The walls and floor are 
+all plain grey stone.  Most of the room is filled by the low pedestal in the 
+center, which glows with a soft blueish light.  
+~
+1 4204552 0
+D2
+~
+~
+33 23683 23707
+D3
+~
+~
+33 23683 23703
+R O 0 23688 0 23706
+S
+#23707
+The Holy Sanctuary~
+~
+This room is quite pleasant.  The floor is covered in a rich white carpet, 
+and the stone walls are engraved with strange runes and symbols that make no 
+sense.  To the west is a plain but sturdy wooden door, and to the north, is 
+a large metal door, engraved with `Yglowing magical`x runes.  
+~
+1 4202504 0
+D0
+~
+~
+33 23683 23706
+D3
+~
+~
+1 0 23705
+R O 0 23681 0 23707
+  R P 0 23683 1 23681
+R M 0 23634 1 23707
+  R E 0 23684 0 12
+  R E 0 23685 0 17
+  R E 0 23686 0 8
+  R G 0 23631 0
+  R E 0 23687 0 3
+  R G 0 23682 0
+S
+#23708
+A Hallway~
+~
+This is a plain, but somewhat cramped and thin stone hallway.  The hallway 
+leads from east to west.  On the south wall is a small wooden door.  The 
+silence here is very somber, you can almost here the rustle of dust.  
+~
+1 8 0
+D1
+~
+~
+0 0 23705
+D2
+~
+~
+1 0 23711
+D3
+~
+~
+0 0 23709
+S
+#23709
+A Hallway~
+~
+This is a plain, but somewhat cramped and thin stone hallway.  The hallway 
+ends to the west, but leads eastward.  On the south wall is a small wooden 
+door.  The silence here is very somber, you can almost here the rustle of 
+dust.  
+~
+1 8 0
+D1
+~
+~
+0 0 23708
+D2
+~
+~
+1 0 23710
+S
+#23710
+A Simple Room~
+~
+This a simple room.  It is quite clean, but sparse.  There is a small 
+window, on the south wall, and a simple door to the north.  The stone walls 
+and floor are quite cold, but the air here is quite warm.  
+~
+1 8 0
+D0
+~
+~
+1 0 23709
+R M 0 23630 5 23710
+  R E 0 23677 0 5
+  R E 0 23679 0 3
+  R E 0 23686 0 8
+S
+#23711
+A Simple Room~
+~
+This a simple room.  It is quite clean, but sparse.  There is a small 
+window, on the south wall, and a simple door to the north.  The stone walls 
+and floor are quite cold, but the air here is quite warm.  
+~
+1 8 0
+D0
+~
+~
+1 0 23708
+R M 0 23630 5 23711
+  R E 0 23677 0 5
+  R E 0 23678 0 3
+  R E 0 23686 0 8
+S
+#23712
+The Stairway~
+~
+The large wide stone steps get smaller hear, as they lead up, but downward, 
+they get wider.  There are no windows, and not much light in this stairwell. 
+ Cobwebs hang down from the ceiling, and the place smells of dust.  
+~
+1 8 0
+D4
+~
+~
+0 0 23713
+D5
+~
+~
+0 0 23705
+S
+#23713
+The Bell Tower~
+~
+Your are standing in what appears to be the bellfry of a large bell tower.  
+The wind is cold up here, and you can look out the stone arches and see the 
+village spread out below.  Some stone steps lead downward into the dark.  
+~
+1 0 0
+D5
+~
+~
+0 0 23712
+R M 0 23632 1 23713
+  R E 0 23627 0 12
+R O 0 23680 0 23713
+S
+#23714
+Dusty Stairs~
+~
+These stairs are dusty and dank.  Cobwebs stick all over them, and dust 
+lines the cracks.  The stone steps lead down from above and end here, a 
+hallway leads to the north.  
+~
+1 8 0
+D0
+~
+~
+0 0 23715
+D4
+~
+~
+0 0 23705
+S
+#23715
+The Crypt~
+~
+You are standing in what appears to be a dank crypt.  The air here is musty 
+and still, and the smell is of dust, aged and long dead flesh.  The stone 
+walls and floor seem pretty new, for a crypt.  There is a thin layer of dust 
+covering everything.  There is a passage way to the south, and two alcoves, 
+one to the west, the other to the north.  
+~
+1 9 0
+D0
+~
+~
+0 0 23717
+D2
+~
+~
+0 0 23714
+D3
+~
+~
+0 0 23716
+S
+#23716
+An Alcove in the Crypt~
+~
+This is a small cramped alcove, used to store coffins.  The smell here is 
+awful, with the stench of ancient rotting flesh.  The alcove opens to the 
+east.  There is a small rise in the stone floor, in which a `Wcoffin`x is 
+placed.  
+~
+1 9 0
+D1
+~
+~
+0 0 23715
+E
+coffin ~
+This is a plain, open casket, made out of boring grey stone. 
+~
+S
+#23717
+An Alcove in the Crypt~
+~
+This is a small cramped alcove, used to store coffins.  The smell here is 
+awful, of freshly rotting flesh.  The alcove opens to the south.  There is a 
+small rise in the stone floor, in which a `Wcoffin`x is placed.  
+~
+1 9 0
+D2
+~
+~
+0 0 23715
+E
+coffin ~
+This large coffin is open, and made of a strange white stone.  Around the 
+edges are strange glowing runes, which make no sense at all.  The inside of 
+the coffin is padded with a reb velvet, that must be ancient, and permiated 
+with dust.  
+~
+S
+#23718
+The Gardens~
+~
+This appears to be a small garden.  A small stone path leads through it.  It 
+is fairly small, on all sides are tall stone walls, with spikes at the top.  
+To the west, a large dome-like building stands.  It's main doors are large.  
+Obviously this building is used for many people.  There is a gate to the 
+east.  
+~
+1 0 2
+D1
+~
+gate~
+0 0 23653
+D3
+~
+gate~
+0 0 23719
+S
+#23719
+A Huge Meeting Hall~
+~
+This room is big!  It seems to be a hall, in which people come to meet.  It 
+is circular in shape, and has windows all along the top of the ceiling.  The 
+floor here is all wood, and looks expensive.  The walls are a smooth stone.  
+Two large supporting columns stand in the middle of the room, holding the 
+building in place.  To the east, is a large set of doors, to the west is a 
+small door, behind a large stand.  
+~
+1 8 0
+D1
+~
+~
+0 0 23718
+D3
+A wooden door.
+~
+~
+0 0 23720
+R M 0 23639 1 23719
+  R E 0 23614 0 5
+  R E 0 23686 0 8
+  R E 0 23689 0 12
+  R E 0 23690 0 16
+R M 0 23638 1 23719
+  R E 0 23615 0 7
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+R M 0 23644 1 23719
+S
+#23720
+A Waiting Room~
+~
+This small waiting room has a wooden floor.  The walls are stone, and the 
+ceiling is fairly low.  There are four doors, one on each wall.  
+~
+1 8 0
+D0
+A wooden door.
+~
+~
+0 0 23721
+D1
+A wooden door.
+~
+~
+0 0 23719
+D2
+A wooden door.
+~
+~
+0 0 23722
+D3
+A wooden door.
+~
+~
+0 0 23723
+S
+#23721
+A Small Office~
+~
+This is a small cramped office.  It is pretty small, and the desk just 
+barely fits.  The one shelf is covered with paper.  On the wall, there is a 
+crest depicting a crossed black hammer and sword, on a red field, under it 
+says " Military Department, Gnome Hill."  There is a wooden door to the 
+south, it is the only exit.  A small window in the north wall lets in 
+daylight.  
+~
+1 8 0
+D2
+A wooden door.
+~
+~
+0 0 23720
+R O 0 23691 0 23721
+R M 0 23641 2 23721
+  R E 0 23686 0 8
+  R E 0 23627 0 12
+  R E 0 23615 0 7
+S
+#23722
+A Small Office~
+~
+This is a small cramped office.  It is pretty small, and the desk just 
+barely fits.  The one shelf is covered with paper.  On the wall, there is a 
+crest depicting a golden hammer, on a white background, under it says " 
+Department of Religious Affairs, Gnome Hill."  There is a wooden door to the 
+north, it is the only exit.  A small window in the south wall lets in 
+daylight.  
+~
+1 8 0
+D0
+A wooden door.
+~
+~
+0 0 23720
+R O 0 23691 0 23722
+R M 0 23641 2 23722
+  R E 0 23686 0 8
+  R E 0 23627 0 12
+  R E 0 23615 0 7
+S
+#23723
+A Large Office~
+~
+This large office looks important.  It is well kept and spacious.  The desk 
+and chairs are set up, with one behind it, and two in front.  The walls are 
+filled with different papers, pinned up at random, each of them looks like 
+an important civil document.  There is a door to the east.  Also, there is a 
+`Ylarge crest`x on the west wall, above the desk.  
+~
+1 8 0
+D1
+A wooden door.
+~
+~
+0 0 23720
+R O 0 23691 0 23723
+R M 0 23637 1 23723
+  R E 0 23686 0 8
+  R E 0 23627 0 12
+E
+large crest~
+This large icy blue crest, looks very important.  This crest depicts a grey 
+sparrow, it's arms open wide, and in it's claws a horizontal golden dagger.  
+On the four corners of this shield, there is a small grey symbol, depicting 
+the 4 great guilds of the gnomes.  A dagger for the Mage's guild, a minning 
+pick for the Miner's Guild, a metal cog for the Inventor's Guild, and 
+finally a Hammer, for the Clerics of Knor.  Under the crest, it says " Civil 
+Affairs, Gnome Hill."  
+~
+S
+#23724
+A Hall~
+~
+This wooden hall is quite grand.  The hall is wide, and the floor made of 
+stone.  Along the floor and across the walls are large grooves, and 
+scratches, as if something large and heavy has been moved through the hall.  
+Doors stand to the south, and in every other direction a hall leads away.  
+~
+1 8 0
+D0
+~
+~
+0 0 23728
+D1
+~
+~
+0 0 23727
+D2
+~
+gate~
+1 0 23608
+D3
+~
+~
+0 0 23725
+S
+#23725
+South End of the Testing Range~
+~
+This is an open grassy field, with walls to the east and south, and a 
+building to the north.  The field continues north, and there is an open door 
+to the east.  There are some mud puddles here and there, but mostly the 
+grass is thick and soft.  There is one large crater, pretty large and black 
+too.  
+~
+1 0 2
+D0
+~
+~
+0 0 23726
+D1
+~
+~
+0 0 23724
+R O 0 23713 0 23725
+R M 0 23673 4 23725
+  R E 0 23615 0 7
+  R E 0 23625 0 12
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23735 0 17
+S
+#23726
+North End of the Testing Range~
+~
+This is a small grassy area, with a wall to the east, and more fields to the 
+south.  The north wall is a sheer cliff, and large chunks have been ripped 
+out of it, leaving chunks in the face of it.  At the base of the cliff is a 
+large pile of blackened rubble.  
+~
+1 0 2
+D2
+~
+~
+0 0 23725
+S
+#23727
+The Machine Shop~
+~
+This large room is filled with `#`mn`ro`mi`rs`me`^!  The wooden floor is covered in 
+sawdust and metal filings, and the windows are clouded with dust and soot.  
+On the east side of the room seems to be some sort of furnace and kiln.  All 
+around the room are tables with strange gnomish devices.  Strange indeed.  
+There is hall to the west.  
+~
+1 8 0
+D3
+~
+~
+0 0 23724
+R M 0 23671 1 23727
+R M 0 23673 4 23727
+  R E 0 23615 0 7
+  R E 0 23625 0 12
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23734 0 17
+S
+#23728
+Stairway~
+~
+This is just a plain wooden stairway.  The landing leads to the south, or 
+you could climb it upwards.  A small ragged red carpet has been laid down, 
+in a attempt to cover all the dents and nicks in the wood.  There are even a 
+few charred spots.  
+~
+1 8 0
+D2
+~
+~
+0 0 23724
+D4
+~
+~
+0 0 23729
+S
+#23729
+Stairwell~
+~
+This is just a plain wooden stairway.  The landing leads to the south, or 
+you could climb it upwards and downwards.  A small ragged red carpet has 
+been laid down, in a attempt to cover all the dents and nicks in the wood.  
+There are even a few charred spots.  
+~
+1 8 0
+D2
+~
+~
+0 0 23730
+D4
+~
+~
+0 0 23735
+D5
+~
+~
+0 0 23728
+S
+#23730
+A Hallway~
+~
+This is a plain wooden hall, that leads from north to the east.  The walls 
+are askew, and here and there are some nicks and missing boards.  
+~
+1 8 0
+D0
+~
+~
+0 0 23729
+D1
+~
+~
+0 0 23731
+S
+#23731
+The Landing Pad~
+~
+This appears to be a part of the roof in this building.  It is cleared, and 
+smoothed with stone tiles.  It is wide and square.  There is an archway in 
+the west wall.  In every other direction, is the edge of the roof.  There is 
+a large "L" painted on the floor.  Towering above you to the west appears to 
+be a large tower with two domes at the top of it.  To the east is a small 
+building which looks odd, because of the strange accordian-like device 
+sticking out of it's side.  
+~
+1 0 0
+D1
+~
+~
+0 0 23739
+D3
+~
+~
+0 0 23730
+R M 0 23672 1 23731
+R M 0 23673 4 23731
+  R E 0 23615 0 7
+  R E 0 23625 0 12
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+  R E 0 23736 0 17
+S
+#23732
+Top of the Stairs~
+~
+This is just a plain wooden stairway.  To the east and west are doorways 
+leading to other rooms.  A ragged red carpet has been laid down, in an 
+attempt to cover all the dents and nicks in the wood.  There are even a few 
+charred spots.  
+~
+1 8 0
+D1
+~
+~
+0 0 23734
+D3
+~
+~
+0 0 23733
+D5
+~
+~
+0 0 23735
+S
+#23733
+Chart Room~
+~
+This room is a large dome, the walls and floors are painted black.  The room 
+is very dark, except the ceiling which is covered in points of light, 
+emulating the night sky.  The points seem to be placed at random, although 
+there are some patterns.  
+~
+1 8 0
+D1
+~
+~
+0 0 23732
+R M 0 23736 1 23733
+  R E 0 23627 0 5
+S
+#23734
+Observatory~
+~
+This large room is domed with a metal ceiling.  The dome seems to be on 
+tracks, and could probably turn.  There is a large opening in the dome, and 
+you can see the sky through it.  The floor here is stone, and is painted 
+black.  There is an archway to the west.  
+~
+1 8 0
+D3
+~
+~
+0 0 23732
+R O 0 23714 0 23734
+R M 0 23737 1 23734
+  R E 0 23626 0 8
+  R E 0 23625 0 12
+S
+#23735
+Stairwell~
+~
+This is just a plain wooden stairway.  You can climb it upwards or 
+downwards.  A small ragged red carpet has been laid down, in an attempt to 
+cover all the dents and nicks in the wood.  There are even a few charred 
+spots.  
+~
+1 8 0
+D4
+~
+~
+0 0 23732
+D5
+~
+~
+0 0 23729
+R M 0 23673 4 23735
+  R E 0 23615 0 7
+  R E 0 23625 0 12
+  R E 0 23616 0 8
+  R E 0 23614 0 5
+S
+#23736
+Magi's Road~
+~
+You are standing on a small road.  The most specatacular thing, is the 
+building to the north where a tall tower stands, it's stone a smooth red 
+umber.  The doors and window frames are made of a dark, solid black oak.  At 
+the base of the tower is a small wall made of stone.  Two large solid black 
+oak doors stand slightly open, directly to the north.  The wall surrounds 
+the tower, but is too low to provide any real defense.  The road leads 
+directly to the base of the tower, through the gates.  
+~
+1 0 1
+D0
+~
+~
+0 0 23679
+D2
+~
+~
+0 0 23632
+S
+#23739
+Reception Hall~
+~
+This is small room, it's carpeted in red, and has sky-blue wall paper.  On 
+the west wall, above the doorway, is a large sign that says "Welcome  
+visitors, to Gnome Hill". 
+~
+1 8 0
+D3
+~
+~
+0 0 23731
+S
+#0
+
+
+#SHOPS
+ 23600   18  0  0  0  0   105 100         0 23    ; melinsah, the gnomish barkeep
+ 23602   15  1 17  0  0   120  60         0 23    ; balorg the trapper
+ 23603   33  0  0  0  0   105 100         0 23    ; katla, the flower girl
+ 23604    0  0  0  0  0   105 100         0 23    ; gohar, the stablemaster
+ 23609    9  5  0  0  0   300  60         5 20    ; copperpot, the blacksmith
+ 23610   10  4  2  3  0   110  60         0 23    ; dorthwamp, the brewer
+ 23611    0  0  0  0  0   105 100         0 23    ; a female goblin baker
+ 23618    0  0  0  0  0   110  90         0 23    ; balorg the magi
+ 23619   32  8  0  0  0   150  50         0 23    ; a grizzled old gnome
+ 23628    0  0  0  0  0   120  80         0 23    ; a gnomish servant
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

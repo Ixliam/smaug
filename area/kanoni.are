@@ -1,0 +1,3016 @@
+#AREA        Kanoni~
+
+
+
+#VERSION     11
+#AUTHOR      mahinae~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80501
+hatchling baby~
+a baby hatchling~
+A baby hatchling is in the nest, trying to stand up.
+~
+A small, fuzzy baby hatchling is before you.  Various teals and grays swirl 
+through the thin fur-like coating that is starting to develop.  Small webbed 
+feet barely support its frail body, making its movements somewhat erratic. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80502
+bluejay~
+a chirping `#`Cbluejay`^~
+A chirping `#`Cbluejay`^ flits around here.
+~
+This bluejay is singing its little heart out. Its sleek blue feathers puff 
+out with pride as it notices you listening to its song. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80503
+white squirrel~
+a `#`Wwhite`^-bellied squirrel~
+A `#`Wwhite`^-bellied squirrel twitches his tail at you.
+~
+This small squirrel has a soft white belly. His body and tail are a dark 
+chesnut brown. His tail twitches as he looks at you. His small dark eyes 
+watch your every move. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80504
+rabid opossum~
+a rabid opossum~
+A rabid opossum snarls angrily.
+~
+A rabid opossum has backed into the corner here. Her sharp teeth are bared 
+and gnashing at anything that comes close to her. Foam drips from her mouth. 
+Her silver and white fur is matted down with dirt and blood. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80505
+caterpillar~
+a fuzzy `#`Gcaterpillar`^~
+A fuzzy `#`Gcaterpillar`^ crawls along here.
+~
+This tiny caterpillar wriggles along here. Its back is covered in tiny fuzzy 
+hairs. It looks like it would be a cute pet, except that it would be 
+squished easily. Oh well. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80506
+termite~
+a winged `#`ytermite`^~
+A winged `#`ytermite`^ munches at wood.
+~
+This termite has little translucent wings attached to its body. Its antennae 
+stick out straight, the microscopic sensors on them searching out more food. 
+Its fat waist bulges out. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 3 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80507
+skunk~
+a small stinky skunk~
+A small stinky skunk has curled up here.
+~
+A small stinky skunk peers out at you. It waves its tail at you and you 
+catch a whiff of something horrid. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80508
+raccoon~
+a chattering `#`Sraccoon`^~
+A chattering `#`Sraccoon`^ scurries around here.
+~
+This furry mammal peers back at you curiously. His bushy ringed tail fluffs 
+out and his bandit's mask clearly identify him as a raccoon. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+17 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80509
+prairie dog~
+a prairie dog~
+A prairie dog ducks back into his burrow.
+~
+This prairie dog has short yellow, bushy fur that hides his small ears. His 
+tiny black tail is curled close to his body. His dirty white feet carry him 
+swiftly back into his burrow as his bark-like call warns the others. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80510
+vulture~
+a huge vulture~
+A huge vulture feeds on the carcass.
+~
+A huge, disease ridden vulture is here. Its black feathers are dull and 
+filled with pests. A scrap of carrion is dangling in its horrible beak. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+7 0 3 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80511
+harried mother redbird~
+a harried mother `#`Rredbird`^~
+A harried mother `#`Rredbird`^ dangles worms over her babies.
+~
+A harried redbird mother flies over her babies and tries to drop worms into 
+their crying beaks. She ignores you as you approach. Her foremost concern is 
+hushing her chicks. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80512
+hoard squalling redbird~
+a hoard of squalling `#`Rredbirds`^~
+A hoard of squalling `#`Rredbirds`^ huddles together here.
+~
+A hoard of baby redbirds is here. Their incessant squalling is aggravating 
+their mother. They peer up at you and chirp unhappily. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80513
+small determined redbird~
+a small determined `#`Rredbird`^~
+A small determined `#`Rredbird`^ flaps his wings wildly and tries to fly.
+~
+A small but determined redbird flaps crazily here. He hops a few times, 
+trying to imitate his mother in flight. He almost makes it to the air but 
+falls flat on his fuzzy behind. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+7 0 3 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80514
+motherly avian~
+a motherly looking avian~
+A motherly looking avian is here looking after the hatchlings.
+~
+A motherly looking avian is here. Her feathers are a brilliant gold with 
+light touches of dusky blue. Her bird-like face holds nothing but concern 
+and warmth for the small hatchlings. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80515
+rabble delicate blue butterflies~
+a rabble of delicately winged `#`Cblue`^ butterflies~
+A rabble of delicately winged `#`Cblue`^ butterflies hovers here.
+~
+A rabble of butterflies hovers here. Their delicate wings are blue with 
+satiny white edges. They float gracefully through the air, never landing for 
+long. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80516
+aged avian dusky wings~
+an aged avian with dusky wings~
+An aged avian with dusky wings looks out over the lands.
+~
+An aged avian stands here. His face is weary, bordering on haggard. Infinite 
+wisdom pools in the depths of his eyes. His wings are no longer brilliant, 
+and they hang limply against his back. Scars mark his body, and feathers no 
+longer grow in some spots on his body. Overall, he is not much to look at, 
+but you realize he has accomplished more in this lifetime than most will in 
+many. 
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+18 0 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80517
+black spider~
+a small black spider~
+A small black spider weaves his web here.
+~
+A small black spider weaves delicate gossamar here. His body is compact, his 
+legs long and spindly. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80518
+adult avian~
+an adult avian~
+An adult avian is here, sleeping in a small nest.
+~
+This avian woman is a bit sleepy, and appears to be resting quite well. 
+Well-coloured plumage decorates her worn, and tired body. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+12 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80519
+ill-tempered avian wife~
+an ill-tempered avian wife~
+An ill-tempered avian wife is screaming at her husband here.
+~
+A loud-mouthed, irate avian woman is here. Her eyes are fiery with passion, 
+her feathers ruffled. She is currently screaming obscenities at her 
+unfortunate husband. 
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80520
+cowering avian male~
+a cowering avian male~
+A cowering avian male is trying to hide here.
+~
+An unfortunate avian male is here. He has his feathered hands clamped over 
+his ears as he tries to block out his wife's screaming. The poor man has no 
+idea what he has done wrong. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80521
+raving avian~
+a raving avian~
+A raving avian flaps insanely around the room.
+~
+A crazy avian is flying all around the room here. He constantly rams into 
+the walls, shakes his head, then flies again. His wings are torn and dirty. 
+His body is thin and sickly. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80522
+burdened avian healer~
+a burdened avian healer~
+A burdened avian healer walks slowly among the sick.
+~
+A weary avian healer walks through his charges. Stress lines his face as he 
+quietly talks to the sick. His wings are a pristine white that his thin dark 
+robes constrast with. 
+~
+0
+Clanname none~
+0
+0
+65 128 600 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80523
+excited avian scientist~
+an excited avian scientist~
+An excited avian scientist mumbles to himself.
+~
+An excited avian scientist is here. He bends over his table and mumbles 
+something about calcium to himself. He straightens and yells "YES! I got 
+it!" 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80524
+disgusting roach~
+a disgusting roach~
+A disgusting roach crawls around.
+~
+A nasty black roach crawls around here and infests the area. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+8 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80525
+small avian boy~
+a small avian boy~
+A small avian boy plays here.
+~
+A small avian boy is here. His feathered body is compact, and his voice is 
+still squeaky when he talks excitedly. His little overalls bulge with small 
+hidden toys. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+11 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80526
+young avian girl~
+a young avian girl~
+A happy avian girl giggles here.
+~
+A young avian girl giggles softly as she sees you. Her feathers are soft, 
+and a youthful light spills around her. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+11 0 0 2d5+22 1d10+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80527
+avian woman~
+an avian woman~
+An avian woman stands here.
+~
+An avian woman is before you. Her long feathers are a light blue. By avian 
+standards, she is pretty. She smiles as you near. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80528
+avian man~
+an avian man~
+An avian man stands here.
+~
+An adult avian male is here. His feathers and other features are fully 
+developed. He moves through the trees, stopping occassionally to chat. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+17 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80529
+aderyn~
+aderyn~
+Aderyn stands proudly behind her wares.
+~
+This smiling avian proudly beams over her goods. She has worked hard to 
+establish herself and is proud of her position. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80530
+sad molt teenage avian~
+a sad eyed, molting teenage avian girl~
+A sad eyed, molting teenage avian girl sighs heavily as she gazes out the window.
+~
+An unhappy avian teenager is here. Her feathers are molting, leaving her a 
+bit pathetic looking. She can frequently be found curled up in front of her 
+window, daydreaming about the boy she hopelessly loves. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80531
+stiff avian man~
+a stiff-backed avian man~
+A stiff-backed avian man dusts here.
+~
+A stiff-backed avian man is frantically dusting here. He peers at each of 
+his chairs in turn, trying to make sure he gets all of the dust. His 
+brilliant blue feathers seem to be shaped uniformly. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80532
+avian toddler~
+a mischievous avian toddler~
+A mischievous avian toddler wobbles around here.
+~
+This avian toddler has trouble written all over him. A wide smile spreads as 
+he spies new things to get into. His wings are a sunny yellow, his eyes a 
+light brown. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80533
+fussing avian parents~
+fussing avian parents~
+Fussing avian parents lean over the eggs here.
+~
+Avian parents lean over the nest and peer in at the eggs. They cluck 
+fretfully to each other as they worry about their eggs. Somehow they both 
+keep an eye on their toddler so he doesn't stray far. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80534
+yosiale mayor kanoni~
+yosiale, mayor of kanoni~
+Yosiale, Mayor of Kanoni waddles around here.
+~
+Judging by the girth of this avian's belly, he has never missed a meal in 
+his life and never refuses seconds. Gaudy orange feathers grace his fat 
+body. The feathers look a bit greasy. The avian appears jovial, just a bit 
+fat and unkempt. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+19 0 -4 3d5+82 2d7+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80535
+jastair~
+jastair~
+Jastair stands here preening his wings.
+~
+Jastair, love of the young teenager downstairs, stands here. His feathers 
+are a glossy black, but closer inspection reveals a few pests have settled 
+in them. He flashes a practiced smile at you as he notices you checking him 
+out. He wears tacky jewelry and reeks of bad cologne. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+17 0 -3 3d5+72 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80536
+avian teenage bum~
+a teenaged avian bum~
+A teenaged avian bum lounges here in the filth.
+~
+This teenaged bum is a friend of Jastair's. His youthful face lacks any 
+intelligence. He is easily riled at this age and has zero motivation except 
+the alcohol and girls. He wallows here in the filth he and his friends have 
+created. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80537
+snoring avian teenager~
+a snoring avian teenager~
+A snoring avian teenager is sprawled here.
+~
+This male avian teenager is sprawled out over his dirty nest. His wings are 
+ruffled and stained with a smelly substance. Loud snores roll out of him. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80538
+studying cleric~
+a studying cleric~
+A studying cleric is bent over a scroll.
+~
+This holy man is bent over a large scroll. His eyes are a vivid blue and are 
+a little watery from peering at the inscriptions. His wings are a light 
+yellow. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 0 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80539
+mage scorched wing~
+an avian mage with scorched wings~
+An avian mage with scorched wings sits quietly and studies.
+~
+This avian mage looks like she has had a small accident with her fireball 
+spell. Her wings are a little crispy around the edges, and soot marks her 
+face. She furrows her brow and leans closer to her book. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80540
+pacing avian druid~
+a pacing avian druid~
+An avian druid paces slowly back and forth.
+~
+This avian druid is pacing slowly back and forth. His long silver wings 
+brush the floor as he walks. He looks like he has seen a few rough nights 
+judging by the scars encircling his arms. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80541
+squinting mole~
+a squinting mole~
+A squinting mole burrows in the dirt.
+~
+This unhappy mole tries to burrow itself further in the dirt as you approach 
+with a light.  His little brown body quivers as he frantically claws. His 
+fearful eyes try to squint shut against the harsh light. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80542
+dozing pink snake~
+a dozing `#`Mpink`^ snake~
+A dozing `#`Mpink`^ snake is curled up here.
+~
+This pink snake looks relatively harmless upon first glance. Small white 
+fangs jut out of its narrow mouth. Its skin is smooth and unblemished. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80543
+bent avian elder~
+a bent avian elder~
+A bent avian elder bows his head in prayer.
+~
+This bent avian elder wears heavy wooden prayer beads and robes of 
+starlight. The wind has tousled his feathers and rosied his cheeks. He 
+continues to pray as you approach. 
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80544
+ladybug cute~
+a cute `#`RL`xa`Rd`xy`Rb`xu`Rg`^~
+A cute `#`RL`xa`Rd`xy`Rb`xu`Rg`^ scuttles along here.
+~
+This small winged wonder is coated with a delicate red shell, having black 
+and white dots.  Quite speedy in nature, it's capable of moving around 
+erratically without an issue to evade predators that may wish to kill it. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80545
+lv_checker_kanoni~
+lv_checker_kanoni~
+Lv_checker_kanoni
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80501
+putrid carcass~
+a putrid carcass~
+A putrid carcass has been left here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80502
+rotting hand~
+a rotting hand~
+A rotting hand has fallen off the carcass.~
+~
+19 0 16
+3 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80503
+butterfly amber~
+a small butterfly encased in amber~
+A small butterfly encased in amber has dropped here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80504
+large nest~
+a large nest made with twigs and leaves~
+A large nest made with twigs and leaves is home to the crying chicks.~
+~
+12 0 8
+50 65824 100 100 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80505
+small holy book~
+a small holy book~
+A small holy book is here. A page on how to create peace between all the races is marked with a brilliant red bookmark.~
+~
+2 1 2
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80506
+small nest~
+a small nest~
+A small nest has been built in the corner.~
+~
+12 0 8
+150 67732 100 100 0 0 0
+2 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80507
+small silver fork~
+a small silver fork~
+A small silver fork is here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80508
+comfortable pallet~
+a row of comfortable looking pallets~
+A row of comfortable looking pallets is here.~
+~
+12 0 8
+200 133552 105 100 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80509
+short strand prayer beads~
+a short strand of wooden prayer beads~
+A short strand of wooden prayer beads has been left here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80510
+nasty green potion cure light starvation~
+a nasty looking `#`Ggreen`^ potion~
+A nasty looking `#`Ggreen`^ potion, one of the scientist's failures, is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 85 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80511
+stained white lab coat~
+a stained white lab coat~
+A stained white lab coat has been left here. What looks to be the remains of the owner's lunch is smeared on it.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80512
+cozy yellow sofa~
+a cozy `#`Yyellow`^ sofa~
+A cozy `#`Yyellow`^ sofa is here.~
+~
+12 0 8
+200 66704 100 100 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80513
+cushy silver armchair~
+a cushy `#`Ssilver`^ armchair~
+A cushy `#`Ssilver`^ armchair is here.~
+~
+12 0 8
+150 66704 100 100 0 0 0
+3 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80514
+set jacks~
+a set of jacks~
+A child's set of jacks has been forgotten here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80515
+pink pinafore~
+a `#`Mpink`^ pinafore~
+A girl's `#`Mpink`^ pinafore is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80516
+broken bottle~
+a broken bottle~
+A broken bottle lies here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80517
+chocolate bonbon~
+a chocolate bonbon~
+A chocolate bonbon melts here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80518
+sugar gumdrop~
+a sugar covered gumdrop~
+A sugar covered gumdrop has been left here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80519
+lady white linen handkerchief~
+a lady's `#`Wwhite`^ linen handkerchief~
+A lady's `#`Wwhite`^ linen handkerchief has been dropped here. Small stitches form a red rose in the corner.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80520
+stubby fragrant cigar~
+a fragrant stubby cigar~
+A fragrant stubby cigar is here.~
+~
+42 0 32
+5 0 0 0 0 0 0
+1 60 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80521
+long pink ribbon~
+a long `#`Mpink`^ hair ribbon~
+A long `#`Mpink`^ hair ribbon is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80522
+pink love potion charm person~
+a `#`Mlove`^ potion~
+A `#`Mlove`^ potion in a heart shaped vial is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80523
+long tapered feather~
+a long tapered feather~
+A long tapered feather has dropped here. The tip of it looks quite sharp.~
+~
+44 0 32
+5 1 -1 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80524
+feather duster~
+a feather duster~
+A feather duster has been left here.~
+~
+5 0 4
+1 14 24 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80525
+vase wildflower table~
+a pretty vase of wildflowers on a table~
+A pretty vase of wildflowers sits here on a polished table.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80526
+cozy nest~
+a cozy nest~
+A cozy nest made of vines and leaves fills the corner.~
+~
+15 0 8
+0 0 100 0 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80527
+blue baby rattle~
+a `#`Bblue`^ baby rattle~
+A `#`Bblue`^ baby rattle is here.~
+~
+8 2 8
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80528
+blue egg~
+a pale blue avian egg~
+A pale blue avian egg is here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80529
+staff jewel encrusted~
+a jewel encrusted staff~
+A jewel encrusted staff lies here, collecting dust.~
+~
+5 0 4
+3 17 25 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80530
+green bottle beer~
+a green bottle of beer~
+A green bottle of beer has been dropped here.~
+~
+17 0 16
+1 1 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80531
+heavy bottle whiskey~
+a heavy burgandy bottle of whiskey~
+A heavy burgandy bottle of whiskey has fallen here.~
+~
+17 0 16
+4 5 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80532
+colorful cup juice~
+a colorful cup of juice~
+A colorful cup of juice sits here.~
+~
+17 0 16
+10 51 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80533
+blue scroll~
+a brilliant `#`Cblue`^ scroll~
+A brilliant `#`Cblue`^ scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80534
+short yellowed scroll~
+a short `#`yyellowed`^ scroll~
+A short `#`yyellowed`^ scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80535
+curled green scroll~
+a curled `#`Ggreen`^ scroll~
+A curled `#`Ggreen`^ scroll is here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80536
+pile acorns~
+a pile of acorns~
+A pile of acorns is half hidden here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80537
+soft starlight robe~
+a soft robe made of `#`Wstarlight`^~
+A soft robe made of `#`Wstarlight`^ is here.~
+~
+9 0 8
+10 10 5 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80538
+glittering mineral~
+a glittering mineral~
+A glittering mineral is embedded in the soil.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80539
+spiderweb~
+a piece of `#`Ssilver`^ spiderweb~
+A piece of `#`Ssilver`^ spiderweb has been left here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80540
+bundle broken twigs~
+a bundle of broken twigs~
+A bundle of broken twigs has been left here.~
+~
+46 0 32
+80540 80544 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80541
+long red vine~
+a long `#`rred`^ vine~
+A long `#`rred`^ vine is curled up here.~
+~
+46 0 32
+80540 80544 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80542
+vivid pink egg~
+a vivid `#`Mpink`^ egg~
+A vivid `#`Mpink`^ egg is nestled here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80543
+a soft tiny blanket~
+a soft `#`Yyellow`^ blanket~
+A soft `#`Yyellow`^ blanket is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80544
+whip vine~
+a `#`Gvine`^ whip~
+A `#`Gvine`^ whip lies here, waiting to be used.~
+~
+5 0 4
+1 5 0 128 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#80501
+At the bottom of a mountain~
+~
+A tall mountain filled with trees dominates the landscape before you. The 
+ground here is rocky and holds little vegetation. In the distance you can 
+see lush grasses around the trees. Birds call out warnings as you approach. 
+Prairie dogs can be seen ducking back into their burrows. 
+~
+1 0 0
+D1
+~
+~
+0 0 80502
+R M 0 80509 1 80501
+S
+#80502
+Traveling up a mountain~
+~
+The ground slowly begins to climb upwards here. Small green grasses dot the 
+terrain, contrasting with the dull brown of the rocks. Along the side of the 
+road a small carcass is visible. Vultures swarm the carcass, fighting over 
+what little meat is left. More vultures swarm overhead, calling for their 
+chance at the remains. 
+~
+1 0 0
+D1
+~
+~
+0 0 80503
+D3
+~
+~
+0 0 80501
+R M 0 80510 1 80502
+R O 0 80501 0 80502
+  R P 0 80502 1 80501
+R M 0 80528 1 80502
+S
+#80503
+Before a colossal tree~
+~
+A colossal tree blocks the way further up the mountain. A small hole allows 
+entrance at the bottom of the massive structure. A cursory glance inside the 
+tree reveals that the tree has been hollowed out. Chirping birds and 
+movement can be detected further up the tree. There is no way to go except 
+up the tree or back down the mountain. 
+~
+1 0 0
+D3
+~
+~
+0 0 80502
+D4
+~
+~
+0 0 80504
+S
+#80504
+In a massive tree~
+~
+The inside walls of the tree are smooth except for small knotholes where 
+bugs and woodpeckers have left their mark. Tiny bits of sap seep out of the 
+holes and dribble down the walls to congeal on the floor. A caterpillar is 
+trying to wriggle its way into one of the holes to find a new home. 
+~
+1 0 0
+D4
+~
+~
+0 0 80505
+D5
+~
+~
+0 0 80503
+R M 0 80505 2 80504
+S
+#80505
+Inside the tree~
+~
+More amber sap is visible on the carved walls of the tree. Closer inspection 
+of the sap reveals that small insects have been immobilized for life in some 
+of the pockets. Pecking is faintly heard from the outside of the tree. An 
+open hole shows a flash of feathers as the woodpecker flies away. 
+~
+1 8 0
+D3
+~
+~
+0 0 80507
+D4
+~
+~
+0 0 80506
+D5
+~
+~
+0 0 80504
+R O 0 80503 0 80505
+R M 0 80527 2 80505
+R M 0 80528 2 80505
+S
+#80506
+On a long branch~
+~
+The massive tree branches off here. It looks possible to jump to the next 
+tree from the eastern branch. Pitiful squawking can be hearing coming from 
+above. A few downy feathers drift down slowly from above. 
+~
+1 8 0
+D1
+~
+~
+0 0 80510
+D4
+~
+~
+0 0 80509
+D5
+~
+~
+0 0 80505
+S
+#80507
+Inside a branch~
+~
+Although the trunk of the tree is quite sturdy, this limb veering off looks 
+delicate and unable to support much weight. Small bugs travel past easily, 
+but the limb creaks as you experimentally step forward. A crack forms 
+underfoot and the limb groans under the stress. 
+~
+1 8 0
+D1
+~
+~
+0 0 80505
+D3
+~
+~
+0 0 80508
+R M 0 80515 2 80507
+R M 0 80544 2 80507
+R M 0 80508 1 80507
+S
+#80508
+Inside a branch~
+~
+The limb ends here abruptly. The branch bends dangerously under your weight, 
+and sharp cracks are heard as the wood splinters. Squirrels and other 
+creatures scurry back to the sturdy trunk that promises safety. A pile of 
+acorns, the squirrel's cache, crunches under your feet as you try to 
+backpeddle. 
+~
+1 8 0
+D1
+~
+~
+0 0 80507
+R M 0 80503 2 80508
+R O 0 80536 0 80508
+S
+#80509
+The top nest~
+~
+The top of the tree is home to a nest of small crying chicks and one harried 
+mother. The babies squabble in their nest as they ignore her attempts to 
+feed them with wriggling worms clamped in her beak. One chick has fallen out 
+of the nest and is determinedly flapping his tiny wings, trying to get back 
+in. 
+~
+1 8 0
+D5
+~
+~
+0 0 80506
+R O 0 80504 0 80509
+R M 0 80511 1 80509
+R M 0 80512 1 80509
+R M 0 80513 1 80509
+S
+#80510
+Branching off~
+~
+This long, durable branch trails off to the next tree over. Green leaves 
+stick out in all directions and flutter in the wind. A canopy of branches 
+and leaves link under the branch, making it impossible to see the ground or 
+shimmy downward. 
+~
+1 8 0
+D1
+~
+~
+0 0 80511
+D3
+~
+~
+0 0 80506
+S
+#80511
+Further along the branch~
+~
+The end of the branch approaches. The distance between this branch and the 
+next tree's looks like it could be crossed easily. The faint crying of the 
+redbirds reaches your ears from the west. Talking can be heard from the 
+north. 
+~
+1 8 0
+D1
+~
+~
+0 0 80513
+D3
+~
+~
+0 0 80510
+D6
+~
+~
+0 0 80512
+R M 0 80502 2 80511
+R M 0 80508 2 80511
+R M 0 80507 1 80511
+S
+#80512
+Small Tree Home~
+~
+A nest made of various sizes of branches and sticks rests firmly on the 
+branch here. Tight interwoven straw lines it, giving it a nice cushion for 
+the eggs and baby hatchlings that will eventually end up there. A few stray 
+smaller branches stick out of the sides, not all that uncommon amongst nests 
+of this sort, designed to provide a bit of warmth, and protection from the 
+elements. 
+~
+1 8 0
+D8
+~
+~
+0 0 80511
+R O 0 80504 0 80512
+R M 0 80501 15 80512
+R M 0 80514 1 80512
+S
+#80513
+A massive tree~
+~
+You stumble as you jump across the gap from the last tree's branch to this 
+tree. A knot protruding from the trunk provides you a steady handhold. 
+Flying squirrels cross the gap without a second thought. The bark on this 
+tree trunk is silvery and flakey. Strips peel off easily in your hand. 
+~
+1 8 0
+D3
+~
+~
+0 0 80511
+D4
+~
+~
+0 0 80517
+D5
+~
+~
+0 0 80514
+R M 0 80503 2 80513
+R M 0 80544 2 80513
+S
+#80514
+Inside the tree~
+~
+The slick silvery walls of the trunk make getting hand and foot holds nearly 
+impossible. Liquid amber oozes out of the silver walls, making footing even 
+more treacherous. The orange liquid contrasts with the silver walls, making 
+the small cracks seem to almost glow. 
+~
+1 8 0
+D4
+~
+~
+0 0 80513
+D5
+~
+~
+0 0 80515
+S
+#80515
+Inside the tree~
+~
+Delicately woven silver spider webs cross the inside of the tree and blend 
+with the walls in places. Black spiders carefully spin their ways through 
+the inside of the trunk as they make new strands of delicate gossamar. 
+Tangled bits of web catch in your hair as you move through the room 
+~
+1 8 0
+D4
+~
+~
+0 0 80514
+D5
+~
+~
+0 0 80516
+D9
+~
+~
+0 0 80523
+R M 0 80517 3 80515
+R M 0 80528 2 80515
+R M 0 80526 2 80515
+S
+#80516
+Inside the bottom of the tree~
+~
+Sticky amber has pooled here at the bottom of the tree. The sparkling liquid 
+appears to be at least a foot deep. Small insects try to crawl out of the 
+liquid, but more unsuspecting ones light on liquid and become stuck. Through 
+the amber you can see something large and dark. 
+~
+1 8 0
+D4
+~
+~
+0 0 80515
+R M 0 80525 2 80516
+R O 0 80540 0 80516
+S
+#80517
+Inside the tree~
+~
+The silver walls of the tree trunk are peeling, creating graceful, delicate 
+curves of bark that form an arch overhead.  Tiny, brilliantly colored 
+butterflies flit slowly through the room. A lantern shines out of one 
+corner, lighting your way. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 80518
+D5
+~
+~
+0 0 80513
+D6
+~
+~
+0 0 80519
+R M 0 80502 3 80517
+R M 0 80515 2 80517
+R M 0 80505 2 80517
+S
+#80518
+On the treetop~
+~
+You emerge out of the tree and stand atop its majestic branches. Birds of 
+several colorful species flock around you in the cool, brisk air. The small 
+butterflies have found their way up here also. An aged avian looks out over 
+the distant lands. A city can be seen in the far west. 
+~
+1 0 0
+D5
+~
+~
+0 0 80517
+R M 0 80515 3 80518
+R M 0 80516 1 80518
+  R E 0 80505 0 17
+R M 0 80526 1 80518
+S
+#80519
+On a tree branch~
+~
+The majestic tree extends a long branch here. Squirrels and other wildlife 
+playfully scamper along the branch as it sways gently in the soft wind. 
+Caterpillars inch along, and birds hop along behind you curiously. The 
+footing is sure and steady under you. 
+~
+1 0 0
+D6
+~
+~
+0 0 80520
+D8
+~
+~
+0 0 80517
+R M 0 80508 1 80519
+R M 0 80505 4 80519
+R M 0 80503 2 80519
+S
+#80520
+On a tree branch~
+~
+The leaves and branches have been carefully trimmed back here to allow 
+passage to the next tree over. The silvery branch continues to the northeast 
+where faint bickering can be heard. Birds peer in, but do not dare to cross 
+the threshold to the small home. 
+~
+1 12 0
+D6
+~
+~
+0 0 80521
+D7
+~
+~
+0 0 80522
+D8
+~
+~
+0 0 80519
+S
+#80521
+Small Tree Home~
+~
+The furniture in this small home is in complete disarray. Cooking utensils 
+fly through the air and gouge the silver walls as the wife angrily grabs and 
+launches them at the poor husband. Amber leaks out of the tiny gouges and 
+drips onto the floor. More screaming is heard from the wife as she notices 
+the additional amber. 
+~
+1 33554440 0
+D8
+~
+~
+0 0 80520
+R M 0 80519 1 80521
+  R E 0 80507 0 16
+R M 0 80520 1 80521
+S
+#80522
+On the neighboring tree limb~
+~
+This wide limb connects to the next massive tree trunk. Underfoot, small 
+crunching noises are heard. Termites and other pests gnaw their way through 
+the once beautiful tree. This limb is still sturdy as the termites have not 
+yet managed to eat all the way through the silvery wood. 
+~
+1 0 0
+D7
+~
+~
+0 0 80524
+D9
+~
+~
+0 0 80520
+R M 0 80506 1 80522
+R M 0 80504 1 80522
+S
+#80523
+Small Tree Home~
+~
+A proud avian has made his home here. Orange amber leaks out of the 
+reflective silver walls of the branch and makes a fine coating on his 
+possessions. Lanterns have been strung up throughout the room and the light 
+sparkles off the silver and orange. A small picture is mounted above his 
+bed. 
+~
+1 33554440 0
+D7
+~
+~
+0 0 80515
+R O 0 80506 0 80523
+R M 0 80518 1 80523
+S
+#80524
+In a large rotting tree~
+~
+The hollowed out belly of the trunk is marred with pest holes and dangling 
+spiderwebs. Dirty amber slicks down the walls, and countless insects find 
+themselves trapped in the sticky substance. A woodpecker has pecked a 
+massive hole in the trunk, allowing a glimpse of the outside. 
+~
+1 8 0
+D4
+~
+~
+0 0 80525
+D5
+~
+~
+0 0 80526
+D9
+~
+~
+0 0 80522
+R O 0 80539 0 80524
+R M 0 80504 2 80524
+R M 0 80524 3 80524
+R M 0 80505 1 80524
+R M 0 80517 3 80524
+S
+#80525
+Inside a tree~
+~
+Termites, roaches, and other pests crawl out of the dark holes in the dirty 
+walls. The walls are crusted with dark tree sap that has trapped many 
+insects. A beetle lies on the floor. He has been turned over on his shiny 
+black shell and cannot flip over. Passerby glance at the beetle but do not 
+stop to help. 
+~
+1 8 0
+D4
+~
+~
+0 0 80531
+D5
+~
+~
+0 0 80524
+R M 0 80506 3 80525
+R M 0 80524 5 80525
+S
+#80526
+Inside a rotting tree~
+~
+Dead birds litter the dirty, sticky floor around the middle opening of the 
+tree. Maggots writhe over the decaying bodies. Musty, rank air flows through 
+the dark belly of the tree. Cries of the ailing float on the wind, their 
+cries going unheeded. Spiders swoop down and feast upon the writhing 
+maggots. 
+~
+1 8 0
+D4
+~
+~
+0 0 80524
+D5
+~
+~
+0 0 80527
+R M 0 80504 1 80526
+R M 0 80506 3 80526
+S
+#80527
+Inside a rotting tree~
+~
+A crazed avian, his mind broken by illness, has made his home here. Broken 
+toys and artifacts are crammed into the small area. The space is confining 
+and the dusty air makes breathing laborious. Scurrying rodents can be heard 
+in the darkness as they crawl in the walls and around the avian's 
+possessions. 
+~
+1 8 0
+D1
+~
+~
+0 0 80529
+D4
+~
+~
+0 0 80526
+D5
+~
+~
+0 0 80528
+R M 0 80521 1 80527
+  R E 0 80516 0 16
+R M 0 80524 2 80527
+S
+#80528
+Base of a Rotten Tree~
+~
+The trunk of the unhealthy tree ends abruptly here. Its sides sink down into 
+the moist earth. The scent of the earth fills your nostrils as you move in 
+the bottom of the base. Tree roots begin at the base and curl deep into the 
+earth. It looks like you may be able to enter one of the roots. 
+~
+1 12 0
+D4
+~
+~
+0 0 80527
+D5
+~
+~
+0 0 80547
+S
+#80529
+Branching out~
+~
+The rotting tree leans a sickly limb against the next tree here. The dark 
+wood is fragmented and oozing with illness. Birds swoop down, picking up the 
+wriggling insects that crawl along the branch to the next tree. The branch 
+creaks under the stress of your weight, and you quickly run for the other 
+tree. 
+~
+1 0 0
+D1
+~
+~
+0 0 80530
+D3
+~
+~
+0 0 80527
+S
+#80530
+On a branch~
+~
+This sturdy, wide branch is attached to the next tree. Birds perch on the 
+limb and sing cheerfully as they peck at the bugs that fall from the other 
+tree. This tree looks decidedly more healthy than the last. Talking can be 
+heard coming from the tree trunk. 
+~
+1 0 0
+D1
+~
+~
+0 0 80536
+D3
+~
+~
+0 0 80529
+R M 0 80544 3 80530
+S
+#80531
+Inside a tree~
+~
+Sick birds perch in the termite created holes in the slick walls. They 
+huddle together here for comfort. One chirps feebly at you for attention as 
+you enter. Avians pass through here, heading to the healer at the top of the 
+tree. Worms and other insects pass safely here as the birds are too sick to 
+inspect them for a meal. 
+~
+1 8 0
+D4
+~
+~
+0 0 80532
+D5
+~
+~
+0 0 80525
+S
+#80532
+Top of a tree~
+~
+Sickly avians bed down at the top of this tree. Their pallets are stained 
+and rank. Their healer leans over them, his prayer book clasped against his 
+chest. He tries to soothe his charges as they let loose horrible cries in 
+their pain. Dark soot marks the walls and floats through the air from the 
+many candles. This place has obviously been touched by disease and despair. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 80533
+D5
+~
+~
+0 0 80531
+R O 0 80543 0 80532
+R M 0 80504 1 80532
+R M 0 80507 1 80532
+R M 0 80522 1 80532
+  R E 0 80509 0 15
+R O 0 80508 0 80532
+S
+#80533
+On a vine bridge~
+~
+This bridge leading away from the ill avians is made of tightly woven vines. 
+It stretches through the air and swings precariously in the wind. Birds try 
+to perch on the bridge but the movement is too jarring for them. Small holes 
+in the vines allow you a view of the distant ground. 
+~
+1 0 0
+D1
+~
+~
+0 0 80532
+D8
+~
+~
+0 0 80534
+S
+#80534
+On a vine bridge~
+~
+The bridge curves sharply in the wind, throwing your course off. The bridge 
+is anchored to the west by sturdy pikes. You scramble forward to get out of 
+the harsh wind and to settle your stomach, made queasy by the violent 
+movement of the bridge. 
+~
+1 0 0
+D3
+~
+~
+0 0 80535
+D6
+~
+~
+0 0 80533
+S
+#80535
+A small enclosed hut~
+~
+Further exploration of the tree trunk has been barred by a thatched floor. 
+This small avian home stands alone on this tree. Strange smells drift out of 
+the doorway and assault the senses. Failed attempts have been thrown with 
+abandon into the corner. The smell seems to be a result of all the broken 
+vials and potions mixing together. 
+~
+1 8 0
+D1
+~
+~
+0 0 80534
+R M 0 80523 1 80535
+  R E 0 80511 0 5
+R O 0 80510 0 80535
+S
+#80536
+Into an archway~
+~
+A small archway is cut into the side of the tree trunk to allow easy access 
+to the hollowed out inside. A small plaque has been firmly attached to the 
+trunk. An elegant inscription reads "Welcome home, friends. " This tree 
+seems to be the main residential area of the avian village. 
+~
+1 8 0
+D1
+~
+~
+0 0 80537
+D3
+~
+~
+0 0 80530
+S
+#80537
+Common Room~
+~
+The archway leads to this cozy common room. Small hanging lanterns light the 
+cheerful room for the families of avians wander in and out. Comfortable 
+furniture has been placed against the sparkling amber coated walls. A sense 
+of a strong community is evident here as the families interact with each 
+other. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 80536
+D4
+~
+~
+0 0 80538
+D5
+~
+~
+0 0 80539
+R O 0 80512 0 80537
+R O 0 80513 0 80537
+R M 0 80525 3 80537
+  R E 0 80514 0 16
+R M 0 80526 3 80537
+  R E 0 80515 0 5
+R M 0 80527 3 80537
+R M 0 80528 3 80537
+S
+#80538
+Small Home~
+~
+This small avian home is filled with scents of wildflowers that the children 
+have brought their mother. A pretty orange rug adorns the floor, and the 
+walls are decorated with the children's drawings. A small framed portrait is 
+above the doorway. It shows the happy family snuggled together. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 80540
+D5
+~
+~
+0 0 80537
+R O 0 80525 0 80538
+R M 0 80526 2 80538
+R M 0 80505 2 80538
+R M 0 80527 1 80538
+S
+#80539
+Aderyn's Delights~
+~
+A small store has been established at the base of this tree. Aderyn's 
+Delights boasts a small clean counter with shelves of stock lined up neatly. 
+Brightly colored pictures line the walls. Smiling customers and family are 
+the primary focus of the pictures. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 80537
+R M 0 80529 1 80539
+  R G 0 80517 0
+  R G 0 80518 0
+  R G 0 80519 0
+  R G 0 80520 0
+R M 0 80525 1 80539
+R M 0 80526 1 80539
+R M 0 80528 1 80539
+R M 0 80527 1 80539
+S
+#80540
+Small Home~
+~
+This small home is littered with shed feathers and candy wrappers. A twig 
+and vine nest has been made under the large window. Romance novels line the 
+shelves on the northern wall. Jewelry crowds a tiny mirrored vanity. 
+Parchment lines a brown trashcan tucked into the corner. On one of the 
+parchments you can read "Dear Jastiar". 
+~
+1 33554440 0
+D4
+~
+~
+0 0 80541
+D5
+~
+~
+0 0 80538
+R O 0 80506 0 80540
+R M 0 80530 1 80540
+  R E 0 80521 0 6
+  R E 0 80522 0 17
+R O 0 80523 0 80540
+S
+#80541
+Small Home~
+~
+The avian home is pristine, with completely scrubbed walls and floors. No 
+trace of dirt can be found in the space. A contraption catches the orange 
+amber as it seeps out of the walls and diverts it outside. The furniture is 
+neatly arranged and looks rather stiff. Perfectly hung rows of tasteful 
+pictures line one wall to create a conversation piece. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 80544
+D4
+~
+~
+0 0 80542
+D5
+~
+~
+0 0 80540
+R O 0 80506 0 80541
+R M 0 80531 1 80541
+  R E 0 80524 0 16
+S
+#80542
+Small Home~
+~
+Baby toys fill the floors of this avian home. A rattle peeks out from under 
+the couch, and clothes are draped over the back of it. Through the large 
+window, lush fields of sunflowers can be seen when the sun is shining 
+brightly down. Birds and other animals occasionally stop in to inspect the 
+avian toddler and the new eggs. 
+~
+1 8 0
+D4
+~
+~
+0 0 80543
+D5
+~
+~
+0 0 80541
+R O 0 80526 0 80542
+  R P 0 80528 2 80526
+R M 0 80532 1 80542
+  R E 0 80527 0 17
+R M 0 80533 1 80542
+R O 0 80532 0 80542
+S
+#80543
+Library~
+~
+A big wooden table cluttered with scrolls of all shapes and sizes lines the 
+walls of the room, conserving space and adding a bit of odd decor to it. 
+Benches and chairs are scattered about, worn down from many years of 
+studying by the scholars. Various bottles, flasks, and stacks of parchment 
+coat the table as well, with notes and things of that sort attached to the 
+wall in some fashion, leaving the area in general disarray. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 80546
+D5
+~
+~
+0 0 80542
+R M 0 80538 1 80543
+  R E 0 80534 0 17
+R M 0 80539 1 80543
+  R E 0 80533 0 17
+R M 0 80540 1 80543
+  R E 0 80535 0 17
+S
+#80544
+Jastair's Lair~
+~
+This space seems small and cramped due to the fancy looking nest that 
+spreads out. Touches of satin are woven with the vines and leaves to make 
+it. A lack of other furniture leads one to suspect the nest is the most 
+important feature to this owner. Empty alcohol bottles litter the floor next 
+to the bed. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 80541
+D9
+~
+~
+0 0 80545
+R M 0 80535 1 80544
+  R E 0 80530 0 17
+S
+#80545
+Small Dirty Home~
+~
+Empty alcohol bottles and burned out cigars line the floor of this home. The 
+furniture is dirty and well used. Pin ups of avian girls crowd the walls. It 
+looks like someone has thrown a party recently. Dishes are piled high in the 
+sink, and a rank smell comes from the garbage. 
+~
+1 33554440 0
+D7
+~
+~
+0 0 80544
+R M 0 80536 2 80545
+R M 0 80537 1 80545
+R M 0 80524 1 80545
+R O 0 80530 0 80545
+R O 0 80530 0 80545
+R O 0 80531 0 80545
+E
+pin-up ~
+This pin-up features a half clothed avian woman. Her feathers are a saucy 
+red, and her robes are arranged carefully to not actually show anything 
+naughty. 
+~
+S
+#80546
+Small Treetop Home~
+~
+The view from this treetop home is lovely. One can see for miles on a clear 
+day. In the distance, the light of Tulgard are visible. The mayor of Kanoni 
+resides here in this home. His too-small nest has been built into one 
+corner, and his desk into the other. Small holes shaped into the wall are 
+perfect for ranged weaponry, and spotting attacks just the same.  Defending 
+the avian village is a must, and is overseen first and foremost by Yosiale. 
+~
+1 8 0
+D5
+~
+~
+0 0 80543
+R M 0 80534 1 80546
+  R E 0 80529 0 16
+R M 0 80515 2 80546
+R O 0 80541 0 80546
+S
+#80547
+Into the Root~
+~
+A small opening in the dirty brown root allows you entrance here. Visibility 
+inside the root is poor as the light is completely blocked from the tree. 
+The air is filled with the moist scent of earth. Scurrying animals and 
+insects can be heard inside the roots. 
+~
+1 9 0
+D4
+~
+~
+0 0 80528
+D8
+~
+~
+0 0 80548
+R M 0 80541 1 80547
+S
+#80548
+Deeper in the tunnels~
+~
+A small tunnel running along the roots splits off here in a few directions.  
+Moles have been hard at work developing a well-established tunnel network 
+for transportation and safety. Small bugs roam through the tunnels, 
+scurrying about randomly. 
+~
+1 9 0
+D2
+~
+~
+0 0 80552
+D6
+~
+~
+0 0 80547
+D7
+~
+~
+0 0 80549
+S
+#80549
+Deeper Yet~
+~
+Deeper into the tunnel network things are more packed, fortified against the 
+shifting earth above it. Packed clay lines the walls, with various claw 
+marks visible from a distance. Various hunks of minerals can barely be seen 
+packed in the clay as well, something quite uncommon for this area. 
+~
+1 9 0
+D2
+~
+~
+0 0 80550
+D9
+~
+~
+0 0 80548
+S
+#80550
+A Twist In The Tunnel~
+~
+Branching off in various directions, this is a wider junction of the tunnel 
+network.  Randoms scraps of items long left behind slowly rot away.  Various 
+small animals and insects that live within the tunnel network appear to 
+frequent this section, the floor of it tightly packed down. 
+~
+1 9 0
+D0
+~
+~
+0 0 80549
+D1
+~
+~
+0 0 80553
+D2
+~
+~
+0 0 80551
+D8
+~
+~
+0 0 80558
+R M 0 80541 2 80550
+R M 0 80524 1 80550
+R M 0 80517 1 80550
+S
+#80551
+End Of The Tunnel~
+~
+This tunnel, running parallel to a gigantic root next to it, appears to stop 
+here.  Deep clay marks in various directions show no signs of further 
+advancement possible.  Small piles of dirt lie near the end of the tunnel, 
+obvious attempts at expanding it. 
+~
+1 9 0
+D0
+~
+~
+0 0 80550
+S
+#80552
+End of a Root~
+~
+The tendril of the root comes to a stop here at a sudden dead end. The 
+root's walls close in and end in a small point. A faint rustling can be 
+heard towards the end of the root. Soft hissing follows the rustling as a 
+snake situates itself. 
+~
+1 1 0
+D0
+~
+~
+0 0 80548
+R M 0 80542 1 80552
+S
+#80553
+Dead End~
+~
+A tendril of the root dead ends here due to a small cave in of dirt and 
+rocks. The dirt is becoming muddy due to the amount of water seeping through 
+the ground. Small bugs crawl deep into the soil as they dig out new homes. A 
+small mineral deposit glints at the end of the root. 
+~
+1 9 0
+D3
+~
+~
+0 0 80550
+R M 0 80525 1 80553
+R M 0 80506 2 80553
+R M 0 80524 1 80553
+R O 0 80538 0 80553
+S
+#80554
+Before a Hazy Outline~
+~
+As you are placed gently upon the ground by the bird, the thick silver fog 
+cloaks you. The land  is hushed in a kind of reverence. No birds can be 
+heard chirping, and the wind carries only its  own wuthering. Reaching out 
+through the fog you find your path clear. A hazy outline of a tree is  
+before you. The tree appears to be the only creature in the area besides 
+yourself. 
+~
+1 33554444 0
+D1
+~
+~
+0 0 80555
+R O 0 80542 0 80554
+E
+tree ~
+It looks as if you could pass your hands through the hazy tree trunk and 
+enter it. 
+~
+S
+#80555
+Short Marble Hall~
+~
+You pass through the trunk of the tree into an unexpected marble hallway. 
+The apparition of the tree trunk closes soundlessly behind you. Testing the 
+see through wall reveals you can easily slide your hands through the 
+barrier. Although the hall is enclosed, wind wuthers through the entire 
+length. Runes are marked on the walls. This is obviously a sacred place. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 80556
+D3
+~
+~
+0 0 80554
+S
+#80556
+Before a Golden Door~
+~
+The marbled hall ends here, and a wide golden door before you pulses with a 
+glow. Looking at the  door is almost painful as the gold shines clearly. A 
+simple iron knob allows the door to be  opened. There is no lock. Your hand 
+is oddly steady as you reach for the knob, as if you know what rests on the 
+other side means you no harm. 
+~
+1 33554432 0
+D1
+~
+~
+1 0 80557
+D3
+~
+~
+0 0 80555
+E
+golden door~
+This beautiful golden door pulses with energy and light. The knob is aged 
+but well oiled. The  entranceway is clearly cared for. 
+~
+S
+#80557
+Into the Wind and Starlight~
+~
+You emerge in a world that is at a constant twilight. Silver flecks of 
+stardust swirl around the  nebulous clouds in the darkened sky. Golden 
+colors stream through the air. A warm, soft wind swirls around you as the 
+golden door closes. Arcane runes made with onyx pebbles weigh down the green 
+grass. A large altar is at the top of the grassy hill. A robed avian stands 
+at the altar with his head bowed in prayer. 
+~
+1 33554444 0
+R M 0 80543 1 80557
+  R E 0 80537 0 5
+S
+#80558
+A Stretch Of Tunnel~
+~
+This narrow stretch of tunnel connects to the main tunnel network to the 
+northeast, and to unknown parts heading southwest.  Small piles of tiny 
+objects lie here, more than likely pillaged from someone who carelessly left 
+them about. 
+~
+1 9 0
+D6
+~
+~
+0 0 80550
+D8
+~
+~
+0 0 80559
+R M 0 80541 2 80558
+S
+#80559
+The Bend~
+~
+The bend in the tunnel extends somewhat northeast, with a path tracing back 
+to the west. Quite unlike the tunnel section to the northeast, it has an odd 
+shape to it, as if something not so skilled at digging was doing the work. 
+~
+1 9 0
+D3
+~
+~
+0 0 80560
+D6
+~
+~
+0 0 80558
+S
+#80560
+The Dog Leg~
+~
+This stretch of tunnel fans that out east and west is well constructed, and 
+able to take plenty of abuse and travel by those that inhabit the tunnel 
+network. Various small bugs can be heard slowly shifting through the tunnel 
+at all hours of night, and day. 
+~
+1 9 0
+D1
+~
+~
+0 0 80559
+D3
+~
+~
+0 0 80561
+S
+#80561
+The Dog Leg~
+~
+This stretch of tunnel fans that out east and west is well constructed, and 
+able to take plenty of abuse and travel by those that inhabit the tunnel 
+network. Various small bugs can be heard slowly shifting through the tunnel 
+at all hours of night, and day. 
+~
+1 9 0
+D1
+~
+~
+0 0 80560
+D8
+~
+~
+0 0 80562
+S
+#80562
+A Slight Bend~
+~
+The slight shift in direction in this tunnel comes from the beginning in the 
+west, heading deeper into the tunnels off to the northeast.  Listening 
+carefully, chirping crickets can barely be heard in the distance. 
+~
+1 9 0
+D3
+~
+~
+0 0 80563
+D6
+~
+~
+0 0 80561
+S
+#80563
+Another Flat Stretch~
+~
+Nothing is really out of the ordinary, or exciting about this section of 
+tunnel.  Claw marks are seen quite well, as if the weight of the one moving 
+forced them to sink into the packed dirt floor. 
+~
+1 9 0
+D1
+~
+~
+0 0 80562
+D3
+~
+~
+0 0 80564
+S
+#80564
+A Connecting Root~
+~
+A few cheerful sunbeams are visible. This root must lead above ground 
+somewhere. You have traveled for many miles underground and wonder where you 
+will be let out. The sunlight is a welcome relief for your strained eyes. 
+You can again hear birds chirping in the distant, and the underground 
+creatures crawl back into the deep root system to escape the light. 
+~
+1 13 0
+D1
+~
+~
+0 0 80563
+D4
+~
+~
+0 0 42415
+S
+#0
+
+
+#SHOPS
+ 80529    0  0  0  0  0   150  75         0 23    ; aderyn
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

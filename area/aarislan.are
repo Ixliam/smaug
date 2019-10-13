@@ -1,0 +1,2301 @@
+#AREA        Aarislan, Land of Lost Children~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#16050
+child moon~
+a peaceful-looking child~
+A child is here, sitting in the crescent of the moon.
+~
+This child has a dreamy look on their face, as they sit in the crescent of 
+the moon, gazing up at the stars.  Their face has the sweet, innocent look 
+of a young child and their is a peacefulness about them.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16051
+young girl summer garden~
+a young girl~
+A young girl is here, prancing like a horse.
+~
+This child has a dreamy look on their face, as she prances about, pretending 
+to be a horse.  Her face has the sweet, innocent look of a young child and 
+their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16052
+young boy playing flute~
+a young boy~
+A young boy is here, playing a flute.
+~
+This child has a dreamy look on his face, as he sits among the grasses, 
+playing merry tunes on his flute.  His face has the sweet, innocent look of 
+a young child and there is a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16053
+child eating cake~
+a child eating cake~
+A child is here, eating some birthday cake.
+~
+This child has a dreamy look on her face, as she nibbles on the piece of 
+birthday cake which she is holding in her hand.  Her face has the sweet, 
+innocent look of a young child and their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16054
+child leader~
+a child being the leader~
+A child is here, being the leader
+~
+This child has a dreamy look on his face, as he plays at being the leader, 
+leading his friends through the grass.  His face has the sweet, innocent 
+look of a young child and there is a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16055
+child autumn garden hiding~
+a child~
+A child is hiding here in the garden.
+~
+This child has a dreamy look on his face, as he hides in the garden, 
+thinking no one can find him.  His face has the sweet, innocent look of a 
+young child and there is a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16056
+child rainbow~
+a child on a rainbow~
+A child is here, sliding on a rainbow.
+~
+This child has a dreamy look on her face, as she slides down the rainbow, 
+laughing with joy.  Her face has the sweet, innocent look of a young child 
+and there is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16057
+young girl fresias~
+a young girl~
+A young girl is twirling about, in the fresias here.
+~
+This child has a dreamy look on their face, as she twirls about, amongst the 
+fresias.  Her face has the sweet, innocent look of a young child and their 
+is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16058
+child eating candy~
+a child eating candy~
+A child is here, eating candies from the tree.
+~
+This child has a dreamy look on his face, as he picks sweet candies from the 
+tree and eats them.  His face has the sweet, innocent look of a young child 
+and there is a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16059
+child making snowman~
+a child~
+A child is here, making a snowman.
+~
+This child has a dreamy look on his face, as he goes about making a snowman out of snow and sticks.  His face has the sweet, innocent look of a young child 
+and there is a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16060
+young girl~
+a young girl~
+A young girl is playing with a squirrel here.
+~
+This child has a dreamy look on their face, as she plays with a friendly 
+squirrel here.  Her face has the sweet, innocent look of a young child and 
+their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16061
+child bubble~
+a child in a bubble~
+A child is here, floating in a bubble.
+~
+This child has a dreamy look on their face, as she floats along, inside a 
+bubble.  Her face has the sweet, innocent look of a young child and their is 
+a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16062
+child floating leaf~
+a child on a leaf~
+A child is floating down the river here, on a leaf.
+~
+This child has a dreamy look on his face, as he floats down the river on a 
+leaf.  His face has the sweet, innocent look of a young child and there is a 
+peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16063
+young girl sunflowers~
+a young girl~
+A young girl is dancing among the sunflowers here.
+~
+This child has a dreamy look on their face, as she dances in and out of the 
+tall sunflowers.  Her face has the sweet, innocent look of a young child and 
+their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16064
+young boy seashells~
+a young boy~
+A young boy is collecting seashells here.
+~
+This child has a dreamy look on his face, as he collects flowers of the sea. 
+ His face has the sweet, innocent look of a young child and there is a 
+peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16065
+young girl cloud~
+a young girl on a cloud~
+A young girl is playing on a cotton candy cloud.
+~
+This child has a dreamy look on their face, as she plays on the cloud of 
+cotton candy here.  Her face has the sweet, innocent look of a young child 
+and their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16066
+girl reading~
+a girl~
+A girl is here, reading a book.
+~
+This child has a dreamy look on their face, as she quietly reads her book, 
+amongst the tulips.  Her face has the sweet, innocent look of a young child 
+and their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16067
+boy dirty face~
+a boy with a dirty face~
+A boy with a dirty face, is playing with some kittens here.
+~
+This child has a dreamy look on his face, as he happily gets more and more 
+dirty.  His face has the sweet, innocent look of a young child and there is 
+a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16068
+girl dressing up~
+a girl dressing up~
+A girl is here, dressing up.
+~
+This child has a dreamy look on their face, as she plays games while 
+dressing up in fancy costumes.  Her face has the sweet, innocent look of a 
+young child and their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16069
+girl eating cupcakes~
+a girl eating cupcakes~
+A girl is picking cupcakes from the tree here.
+~
+This child has a dreamy look on their face, as she picks cupcakes from the 
+tree and eats them.  Her face has the sweet, innocent look of a young child 
+and their is a peacefulness about her.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16070
+boy blowing bubbles~
+a boy blowing bubbles~
+A boy is here, blowing bubbles across the garden.
+~
+This child has a dreamy look on his face, as he blows bubbles across the 
+garden.  His face has the sweet, innocent look of a young child and there is 
+a peacefulness about him.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16071
+girl quest star sad~
+a sad looking girl~
+A girl looks at you with home-sick eyes, welled up with tears.
+~
+This child, once happy to live in this dreamy land of childhood daydreams, 
+now has a lonely, lost look on her face, and her head hangs sadly.  When you 
+arrive, she looks up at you, with a slight glimmer of hope dawning on her 
+face.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16072
+child smelling roses~
+a child~
+A child is here, smelling a rose.
+~
+This child has a dreamy look on her face, as she tenderly holds a rose in 
+her hand, smelling its sweet scent.  Her face has the look of sweet 
+innocence that all children do.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16073
+fairie flowers~
+the fairie of flowers~
+The fairie of the flowers flits about, looking after her flowers.
+~
+This delicate fairie looks like a tiny girl with fragile wings.  She has a 
+cute little face with a bright smile.  She looks after the flowers, 
+sprinkling them with water every day, and tucking them into bed at night.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16074
+fairie tooth~
+the tooth fairie~
+The tooth fairie is here, making a necklace.
+~
+This delicate fairie looks like a tiny girl with fragile wings.  She has a 
+cute little face with a bright smile.  She is the tooth fairie, flying down 
+to children who have left a tooth beside their bed, and in return leaving a 
+gold coin for them.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16075
+fairie sweets~
+the fairie of sweets~
+The fairie of sweets is making some lovely sugar-coated cherries.
+~
+This delicate fairie looks like a tiny girl with fragile wings.  She has a 
+cute little face with a bright smile.  She is the fairie of sweets, making 
+sure there is always enough sweets for every child.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16076
+fairie snow~
+the snow fairie~
+The snow fairie is sprinkling snowflakes here.
+~
+This delicate fairie looks like a tiny girl with fragile wings.  She has a 
+cute little face with a bright smile.  She is the snow fairie, and every 
+day, sprinkles snowflakes across the meadow for the children to play in.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16077
+bushy-tailed squirrel~
+a bushy-tailed squirrel~
+A bushy-tailed squirrel is playing in the trees here.
+~
+This cute looking squirrel has a bushy-tail and is very friendly with the 
+children here.  It has soft golden fur and large brown eyes.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16078
+beautiful white pony~
+a beautiful white pony~
+A beautiful white pony stands here, for the children to ride.
+~
+This beautiful white pony has a calm nature, and enjoys the attention the 
+children give it.  It happily stands here neighing to the children.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 8 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16079
+fluffy yellow chicks~
+some fluffy yellow chicks~
+Some fluffy yellow chicks peck at the ground here.
+~
+Some baby chicks peck at the ground here.  They are soft and fluffy and have 
+yellow feathers.  They make a tiny little "peep" when they are cuddled.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16080
+cat~
+some small kittens~
+Some small kittens mew softly here.
+~
+These tiny little kittens are newly born and their fur is all fluffy and 
+soft.  They have a small, soft mew when they get cuddled.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16081
+pink-winged butterfly~
+a `#`Mpink-winged`^ butterfly~
+A `#`Mpink-winged`^ butterfly is flying over the flowers here.
+~
+This butterfly has bright `#`Mpink`^ wings which are delicate and almost 
+transparent.  It quietly flits from one flower to another.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16082
+snowy-white bunny rabbit~
+a snowy-white bunny rabbit~
+A snowy-white bunny rabbit hops about.
+~
+This little rabbit is covered with grey fur.  Tall, tapered ears droop lazily on its
+head.  A pink nose is centered perfectly on its face, twitching occasionally.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16083
+A little grey pony~
+`#`wa little `Sgrey `wpony`^~
+`#`wA `Sgrey `wpony lays back on the soft grass here.`^
+~
+Here is a little grey pony barely three feet from head to toe.  It seems to 
+enjoy rolling onto its back on the grass.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#16084
+castatlevel 50 bless~
+i'm here to bless you!~
+I'm here to bless you!
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#16050
+porcelain doll~
+a small doll~
+A small girl's doll is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16050 small doll~
+This tiny doll, made of porcelain, looks a little dusty, but underneath the 
+dust is a sweet girl-like face, although the paint is now faded.  She is 
+wearing a faded, red dress with gold trimmings.  
+~
+#16051
+girl's hair ribbon~
+a girl's hair ribbon~
+A ribbon lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16051 girl's hair ribbon~
+A red hair ribbon is hair.  The ends are slightly tassled from age.  
+~
+#16052
+crown~
+a beautiful `#`Ycrown`^~
+A `#`Ycrown`^ has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16053
+locket necklace~
+a small locket~
+A small locket lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16053 pictures ~
+Looking closely at the pictures, it looks to be a man in one half of the 
+locket, and a woman in the other.  Both are smiling.  
+~
+E
+16053 locket ~
+This small locket is made of gold, though it is worn and has lost its shine. 
+ It hangs on a gold chain, and is the shape of a heart.  It opens into two 
+halves, and inside are two faded pictures which you can barely make out.  
+~
+#16054
+puppy dog~
+a puppy with big brown eyes~
+`#`BA puppy is here, looking up at you with big brown eyes.`^~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16054 puppy dog~
+This little puppy dog looks up at you with big brown eyes.  He doesn't know 
+whether to hide from you, or to run to you.  He has floppy ears and soft 
+fur.  
+~
+#16055
+oak tree~
+a swing hanging from a tree~
+A swing hangs from a tree here.~
+~
+12 0 8
+500 144 0 0 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16056
+blossoming tree~
+a tree covered in blossoms~
+A tree grows here, covered in apple blossoms.~
+~
+13 0 8
+0 0 0 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16057
+cupcake tree~
+a tree with flowering cupcakes~
+A tree with flowering cupcakes grows here.~
+~
+15 0 8
+0 0 100 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16058
+pink icing cupcake~
+a cupcake with `#`Mpink`^ icing~
+A cupcake with `#`Mpink`^ icing is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16059
+purple icing cupcake~
+a cupcake with `#`mpurple`^ icing~
+A cupcake with `#`mpurple`^ icing is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16060
+blue icing cupcake~
+a cupcake with `#`Cblue`^ icing~
+A cupcake with `#`Cblue`^ icing is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16061
+green peppermint icing cupcake~
+a cupcake with `#`Gpeppermint green`^ icing~
+A cupcake with `#`Gpeppermint green`^ icing is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16062
+strawberries~
+some `#`Rripe strawberries`^~
+Some `#`Rripe strawberries`^ grow here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16063
+watermelon~
+a large watermelon~
+A large watermelon grows here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16064
+crater~
+a crater in the moon~
+~
+~
+15 0 8
+0 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16065
+a table~
+a table~
+A table stands here.~
+~
+15 0 8
+0 0 100 100 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16065 under~
+There is a puppy whimpering under the table.  
+~
+#16066
+under the table~
+there is a puppy under the table.~
+~
+~
+13 0 8
+0 0 0 0 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16067
+chocolate cake~
+a chocolate cake topped with candles~
+A chocolate cake topped with candles is on the table here.~
+~
+19 1 16
+5 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16068
+candies tree candy~
+a tree flowering with candies~
+A tree flowering with candies grows here.~
+~
+15 0 8
+0 0 100 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16069
+pink marshmallow puff~
+a `#`Mpink`^ marshmallow puff~
+A `#`Mpink`^ marshmallow puff is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16070
+white marshmallow puff~
+a `#`Wwhite`^ marshmallow puff~
+A `#`Wwhite`^ marshmallow puff is here.~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16071
+green white striped candy canes~
+a `#`Gg`Wr`Ge`We`Gn`^ and `#`Ww`Gh`Wi`Gt`We`^ striped candy cane~
+A `#`Gg`Wr`Ge`We`Gn`^ and `#`Ww`Gh`Wi`Gt`We`^ striped candy cane is here~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16072
+chocolate covered cherries cherry~
+a chocolate covered `#`rcherry`^~
+A chocolate covered `#`rcherry`^ is here~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16073
+peppermint leaf~
+a `#`Gpeppermint`^ leaf~
+A `#`Gpeppermint`^ leaf is here~
+~
+19 0 16
+2 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16074
+branches~
+some barren branches~
+~
+~
+15 0 8
+0 0 100 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16075
+small book tiny creature~
+a small book with a tiny creature on the front~
+A small book has been left here~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16075 tiny creature~
+Looking at the tiny creature, it looks to be a little girl with wings. It must be a fairy.
+~
+E
+16075 fairy~
+`#`YFaeries`^ 
+ 
+The spores of mushrooms are said to be magical, and to bestow special powers to those 
+who eat them.  Under these mushrooms, from time to time, a special flower 
+blossoms.  Each flower is of a different color, and a different smell.  They 
+are among the most beautiful sights one can imagine.  They are the mothers 
+of the faeries.  From within each of these flowers, a faerie is born.  
+  `#`W<Hey, that is me!  Me is faerie!  Faeries are cool!>`^ 
+ 
+ Andromeda, called Mellyn the first faerie that was born.  She was blessed 
+with divine powers.  She is the faerie of light and life.  
+  `#`Y<Andromeda is golden!  She shiiiiiines!  Like the sun!>`^ 
+ Mellyn instructed her to protect the faeries, and above all, to care for 
+life.  
+  <Me likes life!  Me likes!>
+The next four faeries to be born were special too.  They are silver 
+faeries, and the unicorns taught them the secrets of the elements.  
+  `#`S<Shiny horses with a stick on their heads!  Hihihihi>`^ 
+ Selenia deals with fire she was born during summer, and has a dragon as 
+friend.  She loves gold, but no one knows what she does with it.  
+  `#`Y<Selenia smart!>`^ 
+ Pix has the powers of water, having been born in the winter.  
+ `#`Y<Faeries good!>`^   
+ Tylara, the faerie of spring, masters air, and Titania, born in the fall, 
+has knowledge of earth.  Lastly, there is Lilantra, who is master of the 
+essence of magic.  She received her knowledge from all the unicorns.  
+  `#`W<Me!  Me!  Lilantra is me!>`^
+ 
+ Faeries come from life, they are life and they protect life.  They aren't 
+much larger than the palm of the hand, and have colored wings...  
+ `#`Y<Mine is full of stars!  Look!  Aren't stars pretty?>`^ 
+...  And hair.  
+  `#`C<Cyan wings!  Like mine!>`^ 
+ They are little spirits, sweetly smiling at you...  
+  `#`W<Me smiles!>`^ 
+  ...  At one moment, biting you at the next.  Ouch!  They travel the world, 
+unseen to most eyes, protecting life.
+~
+#16076
+snowflake~
+a `#`Wsnowflake`^~
+A pile of snow melts here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16077
+Snow Woman~
+a snow-woman made of the `#`Wpurest white snow`^ stands half finished here.~
+A snow-woman made of the `#`Wpurest white snow`^ stands half finished here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16078
+token_quest_doll~
+token_quest_doll_mp16062~
+Token_quest_doll_mp16062~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16079
+token_quest_ribbon~
+token_quest_ribbon_mp16063~
+Token_quest_ribbon_mp16063~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16080
+token_quest_book~
+token_quest_book_mp16064~
+Token_quest_book_mp16064~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16081
+token_quest_locket~
+token_quest_locket_mp16065~
+Token_quest_locket_mp16065~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16082
+token_quest_puppy~
+token_quest_puppy_mp16066~
+Token_quest_puppy_mp16066~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16083
+token_quest_counter~
+token_quest_counter_mp16067~
+Token_quest_counter_mp16067~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16084
+token_completed_aarislan_quest~
+token_completed_aarislan_quest_mp16067~
+Token_completed_aarislan_quest_mp16067~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16085
+magician's hat~
+a `#`Smagician's`^ hat~
+A top hat has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16086
+dress-up box~
+a dress-up box~
+A dress-up box is here, draped with play clothes.~
+~
+15 0 8
+0 0 100 100 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16087
+wooden flute~
+a wooden flute~
+A wood flute lies here, waiting to be played.~
+~
+16 0 16
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16088
+floral pinafore~
+a pinafore with a `#`Mf`rl`Yo`Rr`Ba`ml`^ pattern~
+A girl's pinafore has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16089
+baby pink dress~
+a `#`Mbaby-pink`^ dress~
+A `#`Mbaby-pink`^ dress has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16090
+blue playsuit~
+a `#`Bblue`^ playsuit~
+A `#`Bblue`^ playsuit has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16091
+striped playsuit green~
+a playsuit with `#`Gg`gr`Ge`ge`Gn`^ stripes~
+A playsuit with `#`Gg`gr`Ge`ge`Gn`^ stripes has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16092
+rose-coloured pinafore~
+a `#`rrose-coloured`^ pinafore~
+A `#`rrose-coloured`^ pinafore has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16093
+transparent gem faerie dust~
+a `#`Ctransparent`^ gem of swirling `#`Wf`Sa`?e`Mr`Si`We `Sd`Mu`?s`Wt`^~
+A `#`Ctransparent`^ gem floats here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+16093 faerie dust gem~
+A gem as transparent as glass floats here.  Captured inside the gem, 
+glittering faerie dust swirls and dances by some magic of its own.  
+~
+#16094
+river chocolate~
+a river of chocolate~
+A river of chocolate~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16095
+bowl of punch~
+a bowl of punch~
+A bowl of fruit punch sits on the table.~
+~
+25 0 16
+10000 39 0 0 0 0 0
+2 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#16050
+Aarislan, Land of the Lost Children~
+~
+The sun is richly warm in a sky of cornflower blue.  The green earth and 
+distant fields are mellow in its light.  The air tingles with magic, and the 
+joyful sound of children's laughter mixes with the melodies of a trickling 
+brook and a dancing flute.  As far as the eye can see, fields of glorious 
+flowers in their full splendour, blossom and dance in the gentle wind.  The 
+sweet smell of candy and roses drift towards you, beckoning to you, to 
+delight in this wonderland of childish daydreams.  
+~
+1 0 2
+D2
+~
+~
+0 0 16054
+D6
+~
+~
+0 0 16080
+D7
+~
+~
+0 0 16055
+D8
+~
+~
+0 0 16053
+D9
+~
+~
+0 0 16081
+S
+#16051
+Field of Sunflowers~
+~
+Gold petalled sunflowers fill the field with a brilliant radiant yellow, 
+blending into the green of their stems and soft, leathery leaves.  A sweet 
+pollen musk floats through the air as you walk through the field.  The 
+petals sway ever so slightly in the breeze and the grass beneath your feet 
+is soft as you walk through the field.  
+~
+1 0 2
+D1
+~
+~
+0 0 16079
+D3
+~
+~
+0 0 16080
+D9
+~
+~
+0 0 16056
+R M 0 16063 1 16051
+  R E 0 16088 0 5
+S
+#16052
+Field of Tulips~
+~
+Brilliant deep reds, and bright golden yellows splash the field with colour. 
+ Dancing tulips of red, yellow, blue, and white grow in clumps across the 
+field, and tilt slightly as the breeze blows over them.  Looking up you see 
+a brilliant baby-blue sky filled with cotton candy clouds, moving and 
+changing into shapes of rabbits, and dragons, and puppy dogs.  
+~
+1 33554432 2
+D1
+~
+~
+0 0 16081
+D3
+~
+~
+0 0 16060
+D6
+~
+~
+0 0 16059
+R M 0 16066 1 16052
+  R E 0 16075 0 17
+  R E 0 16089 0 5
+S
+#16053
+Field of Poppies~
+~
+A rainbow of colours dot the field with wild wispy poppies.  Fresh green, 
+crisp white, velvet purple, and sweetheart red, every colour grows 
+splendidly, speckled with a black centre.  The air is warm, and the breeze 
+gentle as it sweeps through the field, bringing the poppies to life, as they 
+dance and bob about in the wind.  
+~
+1 0 2
+D3
+~
+~
+0 0 16064
+D6
+~
+~
+0 0 16050
+S
+#16054
+A Birthday Party~
+~
+A children's party is here decorated with coloured balloons and bright 
+streamers.  A table is laid out with children's sweets and a chocolate cake 
+topped with several lit candles.  Party hats lie at one end of the table, 
+and there are many beautifully wrapped gifts on the ground nearby.  You hear 
+a soft whimper from under the table.  Children are running about playing 
+party games and laughing merrily.  
+~
+1 0 2
+D0
+~
+~
+0 0 16050
+D7
+~
+~
+0 0 16070
+D8
+~
+~
+0 0 16069
+R M 0 16083 10 16054
+R M 0 16053 1 16054
+  R E 0 16089 0 5
+R M 0 16075 1 16054
+R O 0 16065 0 16054
+  R P 0 16054 20 16065
+R O 0 16067 0 16054
+R O 0 16095 0 16054
+S
+#16055
+Field of Roses~
+~
+The sweet, delicate aroma of rosebuds floats through the air, reminding you 
+of peaches and strawberries.  Tightly furled rosebuds of snow white, soft 
+cream, deep lavendar, and plum red grow up amongst the roses in full bloom.  
+Each blossom tilting towards the sun, grows proudly and with splendour.  
+~
+1 0 2
+D1
+~
+~
+0 0 16075
+D9
+~
+~
+0 0 16050
+R M 0 16072 1 16055
+  R E 0 16088 0 5
+S
+#16056
+Meadow of Wild Azaleas~
+~
+A bubbling brook trickles through the meadow of wild azaleas.  The pink 
+floral clusters grow delicately alongside the stream reflecting pools of 
+rippling pink as the water flows on, and over the pebbles.  A fresh scent of 
+sweet sugar fills the air, as the breeze blows the pollen over the meadow.  
+The sky is a swirl of blues and purple-lavendars, with no blemish of clouds. 
+ 
+~
+1 0 2
+D7
+~
+~
+0 0 16051
+D9
+~
+~
+0 0 16057
+R M 0 16082 1 16056
+S
+#16057
+Flowers of the Sea~
+~
+Swept up onto the sand, flowers of the sea lie waiting like treasure, for a 
+small hand to pick them up.  Tiny seashells, curled and spiralling drift 
+onto the beach, as the warm, sky-blue watery waves lap back and forth.  A 
+tingling smell of fresh salt is carried on the waves and a golden, setting 
+sun melts across the horizon, blending into a purple haze of dreamy colour.  
+
+~
+1 0 2
+D4
+~
+~
+0 0 16058
+D7
+~
+~
+0 0 16056
+D8
+~
+~
+0 0 16059
+R M 0 16064 1 16057
+  R E 0 16091 0 5
+S
+#16058
+On a Cotton Candy Cloud~
+~
+Floating on a cotton candy cloud, which drifts gently across the sky, you 
+look down over all of Aarislan, and see a rainbow of swirling colour, as the 
+flowering meadows blend into one.  As you walk on the cloud, each footstep 
+sinks down as if you are walking in snow, but their is a lightness to your 
+step, and only the sound of a quiet breeze brushing against your cheek.  The 
+cotton cloud feels like a snuggly blanket and smells just like sweet candy.  
+
+~
+1 0 0
+D5
+~
+~
+0 0 16057
+R M 0 16065 1 16058
+  R E 0 16088 0 5
+S
+#16059
+Meadow of Morning Glories~
+~
+Beautiful, trumpet-shaped morning glories dazzle the meadow with splashes of 
+purple, pink, white and blue.  Tall, wispy grass grows in amongst the 
+flowers and you weave through the grass as you walk through the meadow.  The 
+sky above is a brilliant blue, with scattered soft, white puff-clouds.  A 
+sweet scent floats in the air.  
+~
+1 0 2
+D6
+~
+~
+0 0 16057
+D8
+~
+~
+0 0 16052
+R M 0 16073 1 16059
+S
+#16060
+Field of Sweet Peas~
+~
+You walk into a field of wild and tangled sweet peas which twist and wind 
+themselves around the trees, creating a dazzling world of bright cherry, 
+pink, white, and yellow flowers.  The sweet peas scent the air ever so 
+slightly and their petals are soft to the touch.  A swing hangs from one of 
+the branches and swings out over the field of wild sweet peas.  
+~
+1 0 2
+D1
+~
+~
+0 0 16052
+D3
+~
+~
+0 0 16061
+R M 0 16067 1 16060
+  R E 0 16091 0 5
+R M 0 16080 1 16060
+R O 0 16055 0 16060
+S
+#16061
+Spring Garden~
+~
+The sound of new-born creatures surrounds you as you walk into this garden 
+of blossoming trees and daffodil-filled fields.  Everywhere, young baby 
+animals stand with their new eyes taking in the world around them.  
+Honeysuckle flowers blossom on the trees, and apple buds sprinkle the 
+tree-tops with pink colour.  The air is alive with movement and wonder.  
+~
+1 0 2
+D1
+~
+~
+0 0 16060
+D4
+~
+~
+0 0 16062
+D7
+~
+~
+0 0 16063
+R M 0 16070 1 16061
+  R E 0 16090 0 5
+R M 0 16079 1 16061
+R O 0 16056 0 16061
+S
+#16062
+Swinging on a Star~
+~
+The night-sky twinkles with the light of hundreds of stars, flickering and 
+glowing.  You are on one unique star amongst the many, which has a swing 
+hanging from it, which swings right out over the skies, up into the night 
+glow, and back, looking down at the fields and gardens below.  The air is 
+still and quiet as you swing to and fro under the stars.  
+~
+1 0 0
+D5
+~
+~
+0 0 16061
+R M 0 16071 1 16062
+  R E 0 16092 0 5
+R M 0 16084 1 16062
+S
+#16063
+Field of Camellias~
+~
+The air is a cool luke warm, and blows gently across a field of candy pink 
+and cherry red camellias.  Many tall willows and oaks provide shade for the 
+delicate flowers and blot out the blue sky above, letting only trinkles of 
+light shine through their leaves.  Butterflies dance from flower to flower, 
+resting momentarily on their petals, before being carried on by the breeze 
+to the next flower.  
+~
+1 0 2
+D7
+~
+~
+0 0 16064
+D9
+~
+~
+0 0 16061
+R M 0 16074 1 16063
+R M 0 16081 1 16063
+S
+#16064
+An Orchard of Cupcake Trees~
+~
+The field spills into an orchard of bright green trees, decorated with 
+blossoming cupcakes, growing in splendiforous iced pinks, and greens, and 
+blues, and purples, and sprinkled with rainbow sprinkles.  Several cupcakes 
+have fallen to the ground, ripe and ready to be eaten.  The air is filled 
+with sweetness as you wander through the orchard.  
+~
+1 0 2
+D1
+~
+~
+0 0 16053
+D2
+~
+~
+0 0 16065
+D9
+~
+~
+0 0 16063
+R M 0 16069 1 16064
+  R E 0 16088 0 5
+R O 0 16057 0 16064
+  R P 0 16058 50 16057
+  R P 0 16059 50 16057
+  R P 0 16060 50 16057
+  R P 0 16061 50 16057
+S
+#16065
+Field of Daffodils~
+~
+Cheerfully bright, yellow daffodils with orange centres grow in full 
+splendour across the field.  The scent of newness and spring floats on the 
+air, drifting over the fresh green stems, beneath the yellow flowerheads.  A 
+soft, blue sky fills the sky above and dreamy cotton candy clouds sail on 
+the breeze.  
+~
+1 0 2
+D0
+~
+~
+0 0 16064
+D2
+~
+~
+0 0 16067
+R M 0 16068 1 16065
+  R G 0 16052 0
+  R G 0 16085 0
+  R E 0 16089 0 5
+R O 0 16086 0 16065
+  R P 0 16088 1 16086
+S
+#16067
+Summer Garden~
+~
+Dancing in the warm, summer breeze are white lady-tresses, and rosy trumpet 
+creepers, and dandelions, butterfly weeds, and purple mist flowers.  The air 
+is alive with the scent of pollen, and the sweet smell of strawberries, and 
+watermelons and peaches.  The sky above is a brilliant blue with streaked 
+puffy cotton clouds which drift slowly across the sky.  
+~
+1 0 2
+D0
+~
+~
+0 0 16065
+D4
+~
+~
+0 0 16068
+D6
+~
+~
+0 0 16069
+R M 0 16051 1 16067
+  R E 0 16088 0 5
+R M 0 16078 1 16067
+R O 0 16062 0 16067
+R O 0 16063 0 16067
+S
+#16068
+Sitting in the Crescent of a Moon~
+~
+The world below is blanketed with a deep black sky filled with twinkling 
+stars.  You are sitting in the crescent of a silver moon, nestled into its 
+curved shape, and looking around you can see the shimmering shapes of 
+flowers and trees blown by the wind below, and glowing, sprinkles of stars 
+above.  In one of the craters, you see the trimming on a piece of material.  
+The air is still and quiet, and you feel very safe in the comforting 
+crescent of this moon.  
+~
+1 0 0
+D5
+~
+~
+0 0 16067
+R M 0 16050 1 16068
+  R E 0 16090 0 5
+R O 0 16064 0 16068
+  R P 0 16050 5 16064
+S
+#16069
+Meadow of Summer Grasses~
+~
+Buttercup yellow and four-leafed clovers grow in abundance across the meadow 
+of summer grasses.  Rye grass and wheat blends into a haze of gold, coloured 
+with the purples and whites of the foxtails.  The sky is still, and clear 
+blue, with no clouds, and the air is hot and warm.  
+~
+1 0 2
+D6
+~
+~
+0 0 16054
+D8
+~
+~
+0 0 16067
+R M 0 16052 1 16069
+  R E 0 16087 0 17
+  R E 0 16091 0 5
+S
+#16070
+Meadow of Autumn Grasses~
+~
+Frolicking in the wading autumn sun, wild clumps of bush clover and 
+bellflowers, blow in the wind against a backdrop of pampas grass which cover 
+the ground in a carpet of plumage and autumn grass.  The field is a dry, 
+golden, dusky colour of flowers and grasses leaving their goodness behind 
+and drifting into the barren winterless season without colour or life.  
+~
+1 0 2
+D7
+~
+~
+0 0 16071
+D9
+~
+~
+0 0 16054
+R M 0 16054 1 16070
+  R E 0 16090 0 5
+S
+#16071
+Autumn Garden~
+~
+Autumn leaves dance gently as they waft to the ground, splashing the ground 
+with a landscape of firey oranges, golden yellows, and rusty reds.  The 
+grand trees are alight with the colours of autumn, and a slightly chilled 
+breeze blows through the branches, sending more leaves floating to the 
+ground.  Tall autumn grasses grow around the trees and there is a warm, 
+musky smell in the air.  
+~
+1 0 2
+D0
+~
+~
+0 0 16074
+D4
+~
+~
+0 0 16072
+D9
+~
+~
+0 0 16070
+R M 0 16055 1 16071
+  R E 0 16091 0 5
+S
+#16072
+On a `#`RR`ra`Yi`Gn`Bb`mo`Mw`^~
+~
+You are on a wonderful, coloured rainbow which stretches across the meadows. 
+ The rainbow begins at deep red, and goes through the spectrum of colours to 
+indigo.  Each colour is a brilliant colour, yet almost transparent 
+simultaneously.  It feels like a gentle mist, yet it holds you high amongst 
+the cotton candy clouds.  
+~
+1 0 0
+D5
+~
+~
+0 0 16071
+R M 0 16056 1 16072
+  R E 0 16089 0 5
+S
+#16074
+Field of Fresias~
+~
+The fresh, delicate yet sweet smell of a field of blossoming fresias greets 
+you as you roam through the field.  The field is splashed with bright 
+yellows, whites, burgandies and violets, with dashes of green stems.  Above, 
+the sky is bright blue and filled with floating cotton candy clouds.  A warm 
+breeze blows through the field, making the fresias tremble.  
+~
+1 0 2
+D0
+~
+~
+0 0 16075
+D2
+~
+~
+0 0 16071
+R M 0 16057 1 16074
+  R E 0 16089 0 5
+S
+#16075
+An Orchard of Candy Trees~
+~
+A path leads through a brilliant, leafy orchard of trees covered in 
+delightful candies.  There are pink and white marshmallow puffs, and green 
+and white striped candy canes, and chocolate covered cherries, and 
+peppermint leaves.  Several candies lie on the ground beneath the trees, 
+waiting to be eaten, and over-ripe.  A mingling scent of sweetness and sugar 
+fills the air, and tempting you to pick a candy from the tree.  
+~
+1 0 2
+D2
+~
+~
+0 0 16074
+D3
+~
+~
+0 0 16055
+D6
+~
+~
+0 0 16076
+R M 0 16058 1 16075
+  R E 0 16091 0 5
+R O 0 16068 0 16075
+  R P 0 16069 50 16068
+  R P 0 16070 50 16068
+  R P 0 16071 50 16068
+  R P 0 16072 50 16068
+  R P 0 16073 50 16068
+S
+#16076
+A Snow-Covered Field~
+~
+Your feet crunch on the freshly dusted, pure white snow beneath you.  The 
+snow is chilled to the touch, seeming as though it came down in the last 
+night, and only a few deer hoofs spoil the icing-like snow.  The air is 
+chilly and crisp, and the few trees are barren from leaves, and you can see 
+something red caught in the branches.  Light, delicate snow-flakes drift 
+gently to the ground around you.  
+~
+1 0 2
+D6
+~
+~
+0 0 16077
+D8
+~
+~
+0 0 16075
+R M 0 16059 1 16076
+  R E 0 16090 0 5
+R O 0 16077 0 16076
+R M 0 16076 1 16076
+R O 0 16074 0 16076
+  R P 0 16051 1 16074
+E
+red ~
+It looks like a piece of frayed ribbon, caught in the branches.
+~
+S
+#16077
+Winter Garden~
+~
+The field is covered in soft, fresh snow, and the dark green pines fill the 
+air with a scent of pine.  Pine cones lay scattered across the meadow, along 
+with nuts, seed pods, dried weed flowers, milkweed pods, and cat tails.  
+Bushes of green mistletoe dotted with red berries brighten the white field 
+with colour, and the feel of christmas.  Some children have made a snowman 
+with sticks in the middle of the meadow and there are several squirrels 
+playing in the trees.  
+~
+1 0 2
+D3
+~
+~
+0 0 16079
+D4
+~
+~
+0 0 16078
+D8
+~
+~
+0 0 16076
+R M 0 16060 1 16077
+  R E 0 16089 0 5
+R M 0 16077 1 16077
+S
+#16078
+Floating in a Bubble~
+~
+You float inside a rainbow, delicate bubble across the fields.  The bubble 
+is like a giant crystal ball, swept about on the breeze.  You can see 
+through the swirl of crystalized colours down to the fields below which are 
+coloured in fiery autumns, and snowy whites, and chocolate browns.  The 
+bubble floats on dreamily.  
+~
+1 0 0
+D5
+~
+~
+0 0 16077
+R M 0 16061 1 16078
+  R E 0 16089 0 5
+S
+#16079
+On a Chocolate River~
+~
+A flowing river of melted chocolate streams alongside the field.  Spearmint 
+reeds grow along the river bank and chocolate coated leaves hang from the 
+flakey chocolate tree branches overhead.  Something catches your eye as it 
+sparkles in the water.  A sweet chocolatey aroma wafts through the air, 
+mixed with a sugary scent.  The river of chocolate is slightly warm to the 
+touch and tastes divine.  
+~
+1 0 2
+D1
+~
+~
+0 0 16077
+D3
+~
+~
+0 0 16051
+R M 0 16062 1 16079
+  R E 0 16091 0 5
+R O 0 16094 0 16079
+  R P 0 16053 1 16094
+E
+something ~
+You move towards the object which is sparkling in the sunlight.  Looking 
+closer it seems to be a necklace on a chain.  
+~
+S
+#16080
+Field of Wild Flowers~
+~
+A mingling blend of sweet scents wafts heavily through the air, drifting up 
+from the myriad of wildflowers in the field.  Honeybees dot the flowers, 
+collecting pollen from the smorgasbord of flowers, and carrying it away on 
+the breeze to make honey.  The petals tickle your legs as you walk through 
+the field.  
+~
+1 0 2
+D1
+~
+~
+0 0 16051
+D8
+~
+~
+0 0 16050
+S
+#16081
+Field of Lush Green Grass~
+~
+A sea of luscious long grass sweeps over the field in waves, dancing with 
+the gentle wind.  The grass feels soft and ticklish as you run your hands 
+through it, and it tickles playfully against your legs as you tread through 
+the field.  
+~
+1 0 2
+D3
+~
+~
+0 0 16052
+D7
+~
+~
+0 0 16050
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

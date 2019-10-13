@@ -1,0 +1,6037 @@
+#AREA        Dawn Resources~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1
+death~
+death~
+You see Death, sitting on an undescribable throne.
+~
+You are looking at the end and the beginning of Life as you know it.  It is 
+both beautiful and dreadful, fearful and calm, quiet and exciting, enticing 
+and cold.  All in One.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+200 20 -50 15d15+1000 30d20+100
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#2
+welcome death mob1~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3
+welcome death mob2~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#4
+knight~
+`#a `YKnight`^~
+A Knight is here, protecting his master.
+~
+The Knight is covered in plate armor from head to toe.  He is loyal to his 
+master and will protect them at all cost.  
+~
+0
+Clanname none~
+0
+0
+1 262144 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#50
+little brown bat~
+a little brown bat~
+A little brown bat flies overhead here.
+~
+This small creature looks like a rodent with wings.
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51
+black rabbit~
+a black rabbit~
+A black rabbit sits quietly here.
+~
+This small, furry creature has long ears, a small tail, large feet, and 
+black fur.  It is most often seen innocently hopping about.
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52
+three legged dog~
+a three legged dog~
+A three legged dog hobbles about here.
+~
+This grey dog has only three legs, but, oddly enough, it looks strangely 
+like it's supposed to be that way.  There is no stump or ragged fur, just a 
+smooth area where its shoulder should be.
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#53
+huge black wolf~
+a huge black wolf~
+A huge black wolf stalks about here.
+~
+This black wolf is much larger than most wolves, standing well over three 
+feet at the shoulders.  Intense black eyes look out at the world, seeming 
+to regard everything as prey.
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#54
+tiny newt~
+a tiny newt~
+A tiny newt looks for a patch of sun here.
+~
+This tiny reptilian creature is undoubtably a newt.  It has large feet and 
+a thin, lithe body, which is a mix of bright reds and yellows.
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+2 0 8 1d4+6 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#55
+large brown bear~
+a large brown bear~
+A large brown bear is here.
+~
+This large brown bear has sharp claws and looks to be quite hungry.
+~
+0
+Clanname none~
+0
+0
+1 0 0 C
+12 0 0 2d5+45 1d10+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#56
+huge grinning troll~
+a huge grinning troll~
+A huge grinning troll is here.
+~
+Nothing quite inspires fear in the majority of the inhabitants of the land 
+the way a troll does, and it's easy to see why.  He has great, yellowed 
+teeth and a heavily muscled body, which would be enough to inspire fear 
+into the average man, but, in addition, his eyes bear a wicked, intense 
+gleam.  He looks to enjoy pulling smaller things apart.
+~
+0
+Clanname none~
+0
+0
+33 512 -200 C
+14 0 -1 2d5+55 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#57
+green black bird~
+a green and black bird~
+A green and black bird flies overhead here.
+~
+This small bird has a black body with bright green wings and tail feathers. 
+ It looks to be quite agile, as if it could easily fly circles around most 
+other birds.  Its form is so perfect that it almost seems to be a product 
+of magic instead of nature.
+~
+0
+Clanname none~
+0
+0
+1 524288 200 C
+4 0 2 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#58
+tall sturdy tree~
+a tall sturdy tree~
+A tall sturdy tree grows here.
+~
+This tall tree stretches well over one hundred feet into the air, its 
+branches filled with deep green leaves.  Its bark is thick, giving it a 
+sturdy appearance.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+15 0 -2 3d5+100 1d1+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#59
+tiny black pig~
+a tiny black pig~
+A tiny black pig is here.
+~
+This black pig is rather ordinary in every way except one: it is only about 
+two inches tall.  Other than that, though, it's just a pig.
+~
+0
+Clanname none~
+0
+0
+129 32768 0 C
+1 0 9 1d4+1 1d4+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#60
+bear massive brown~
+a bear~
+A massive, brown bear stands here.
+~
+A massive bear, standing on its back paws, greets you with a mouth full of 
+sharp teeth. Its fur is a warm dark brown and is in trimmed around its face, 
+showing fierce looking features. Its eyes gaze down at you fearlessly. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#61
+stag thick furred~
+a stag~
+A thick furred stag stands here.
+~
+Before you stands a majestic stag. It is covered by its thick coat of 
+shiny, light brown fur. Now and again it lifts its head to the sky sniffing 
+the air with its nose. On top of its head its sharp tipped rack swings 
+dangerously through the air as it does so. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#62
+swallow black-tailed~
+a swallow~
+A black-tailed swallow is here.
+~
+This quite small bird is covered in long, sleek black and white feathers. 
+The slight tufts at the back of its neck grow upwards creating a slightly 
+comical look. When not flying it supports itself on two thin legs with 
+fierce looking claws. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#63
+osprey grey feathered~
+an osprey~
+A grey feathered osprey is here.
+~
+Grey feathers line the wings of this powerful, hawk-like bird. Its small 
+head has two pitch-black, beady eyes and a razor sharp beak. A crown of 
+smaller, white feathers stands atop his head. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64
+green tortoise turtle~
+a tortoise~
+A green tortoise with a mottled carapace is here.
+~
+This giant tortoise stands four hands tall at the shoulder, its clumsy body 
+obscured by the heavy, mottled grey carapace it carries on its back.  Its 
+flesh is leathery, and tough, and adorned with small black spots.  Its 
+too-short legs end in sharp claws, used for burrowing through muck and mire. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#65
+black raven feathered bird~
+a raven~
+A black-feathered raven casts a watchful glance here.
+~
+A wealth of onyx-coloured feathers cover the minute form of this small bird, 
+meshing seamlessly with its caliginous, sharp beak.  Its slight frame is 
+supported by two thin legs, which end in sharp claws, ideal for gripping 
+branches or pulling away carrion.  Its eyes are absent and deep black, like 
+its feathers, casting a watchful glance around the surroundings. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#66
+bat small brown furred~
+a bat~
+A small, brown furred bat is here.
+~
+This winged mammal has two small wings, that it has wrapped around it's 
+furry body. The wings are ribbed and look more like large duck feet with 
+small sharp nails protruding at the edges. The little creatures face is 
+twisted and houses a flat nose and a mouth full of miniscule yet sharp 
+teeth. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#67
+grey furred timber wolf~
+a wolf~
+A grey-furred timber wolf stands here proudly.
+~
+This sleek animal is covered in a thick coat of grey fur, obscuring somewhat 
+its muscular frame.  It stands no less than seven hands at the shoulder, a 
+broad muzzle extending from its head.  Its vice-like jaws conceal a 
+tooth-lined maw, while a bushy ash-coloured tail sways lazily behind it. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#68
+serpent luminous multicoloured scales~
+a serpent~
+A serpent covered in luminous, multicoloured scales slithers here.
+~
+This snake measures no less than six feet in length, its lithe body wrapped 
+into a tight coil.  Overlapping scales gleam in a spectrum of hues, a 
+luminous, multi-coloured sheath which seems to pulsate with every movement. 
+Its head is flat, and broader than its body, the wickedly sharp tips of two, 
+curved fangs visible protruding from its upper palatte.  A forked, black 
+tongue darts out as blind eyes survey the surroundings, tasting the air 
+cautiously. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#69
+toad wart-covered~
+a toad~
+A wart-covered toad hops here.
+~
+This small creature is a better descripted by a large pile of warts. say It 
+sits hunched between it's proportionally large back legs. Now and again it 
+hops to a destination a few feet from where it once stood. It's skin is a 
+slimy yellow, brown and green in colour. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#70
+brown feather owl~
+an owl~
+A brown-feathered owl flaps its wings here.
+~
+This wise-looking bird is covered in brown and white feathers, growing 
+lighter as they reach the tips of its wings.  Its eyes seem too large for 
+its rotund body, a discerning slate colour as they scan the surroundings 
+vigilantly.  A hooked, yellow beak protrudes from its face, while stubby, 
+thin legs end in wickedly curved talons. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#71
+hare light brown~
+a hare~
+A light brown hare stands here.
+~
+Slightly larger than your average rabbit and definatly alot less cute, this 
+hare stands here looking at it's surrounding with a rather apathetic 
+sidelong glance. It's long, strong hind legs stand on either side of his 
+body and look ready to catapult this creature at a high pace at any sign of 
+danger. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#72
+zombie~
+a zombie~
+A newly risen zombie is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#73
+skeleton warrior~
+a skeleton warrior~
+A skeleton warrior is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+25 0 -7 4d5+115 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#74
+shade~
+a shade~
+An evil shade is lurking about.
+~
+Formed of nothingness, the shades torment the mortal realm looking for
+wealth.  It is believed that they think wealth is the key to life.  
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#75
+wraith~
+a wraith~
+A wraith is here, looking for a soul to devour.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80
+stone golem wings~
+a stone golem~
+A mighty stone golem with massive wings hovers here.
+~
+This golem is huge, it hovers off the ground, held there by mighty stone 
+wings which beat with magical rhythm.  The stone body of this golem seems 
+supple as it moves with grace which has obviously been bestowed upon it by 
+magic means.  Its face is set with a hard look, unyeilding, impassive and 
+defintely not willinging to talk.  Stone covers its body, looking close you 
+can see an engraving over the golems heart, the initials T.D are inscribed 
+here.  Slashed across the golems front are three words, 
+                      "United in knowledge".
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+25 10 -10 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#90
+spirit semi transperant ~
+a semi-transperant looking spirit~
+A semi-transperant looking spirit is here.
+~
+Before you is a pale semi-transperant looking spirit.
+~
+0
+Clanname none~
+0
+0
+1 524288 600 C
+10 0 5 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#91
+dog mangy~
+a mangy dog~
+A mangy dog is here, sniffing around for something to eat.
+~
+This mangy dog is full of fleas, and doesn't look particularly well-fed.  It 
+is sniffing everything it comes across, hoping to find some food.
+
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#92
+cat~
+an alley cat~
+An alley cat hisses at you.
+~
+The alley cat is half starved and more than a little feral.
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+5 1 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#93
+deer buck~
+a white-tailed buck~
+A white-tailed buck is startled by your approach.
+~
+This buck is a majestic creature, curiously unafraid of you.  It has an 
+impressive rack of at least 20 points.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+13 0 -2 1d1+90 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#94
+dark skunk white strips~
+a dark skunk with two white stripes~
+A dark skunk with two white stripes is stinking here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#95
+metallic red dragon~
+`#`Ra metallic red dragon`^~
+A `#`Rmetallic red dragon`^ is here, sharpening its talons.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+79 0 -67 10d13+465 10d13+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#96
+metallic blue dragon~
+`#a`B metallic blue dragon`^~
+`#A great dragon is here, with `Bmetallic blue scales`^.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+95 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#97
+bluebird bird~
+a bluebird~
+A bluebird is perched here.
+~
+This bird is mostly blue in color, but with a little black and white also.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#98
+basilisk~
+a basilisk~
+An 8' large green lizard with hypnotic black eyes is here.
+~
+The basilisk is a large lizard, around 7-8 feet long including the tail.  It 
+has greenish, iridescent scales and hypnotic black eyes.  The scales are 
+fine and smooth, and have no markings.  The creature has a flickering black 
+tongue, and moves gracefully and weighs about 150 lbs.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+18 0 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#99
+demon~
+a demon enveloped in `#`Rflames`^~
+A massive demon with `#`Ssmoking skin`^ enveloped in `Rflames`^ is here.
+~
+This demon is huge and is covered with a smoking black skin.  His eyesockets 
+are filled with blazing fire, and what would be hair atop his head is 
+instead long whisps of flames.  He stands well over fifteen feet tall, and 
+must weigh as much as 5 trolls.  
+~
+0
+Clanname none~
+0
+0
+129 4096 -600 C
+52 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#100
+cow~
+a fat milking cow~
+A fat milking cow is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#101
+a grey pigeon~
+a pigeon~
+A grey pigeon flutters around madly here.
+~
+This small grey pigeon flutters around madly.  It has glassy green eyes, and 
+a small pink beak.  
+~
+0
+Clanname none~
+0
+0
+129 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#102
+war pig~
+a large war pig~
+A large mean looking pig stands here, snorting to itself.
+~
+This large pig has matted black hair, and large yellow tusks.  It looks 
+strong and sturdy, and on it's back is a saddle.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#103
+small frog~
+small frog~
+A small frog is here croaking.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+14 0 -1 2d10+190 1d12+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#104
+giant red beetle guard~
+`#a giant `Rred`^ beetle guard~
+`#A giant `Rred`^ beetle guard is posted here.
+~
+A giant sized beetle is here and its hard exoskeleton glows with a bright 
+crimson color.  It has large black eyes on the center of its head.  At the 
+end of each leg is a sharp point used for ripping apart it's victim.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+22 0 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#105
+black ant~
+a black ant~
+A black ant is here, to ruin the picnic.
+~
+This tiny black ant looks fairly harmless, though it can bite.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+1 0 9 1d4+0 1d1+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#106
+vyr controlled_vyr strange horse dragon animal dracons~
+an undead dracon~
+A strange animal is here, it is part horse and part dragon.
+~
+A pitch black dracon is here.  It upper torso is the head and neck of a 
+dragon, its lower torso is that of a horse.  It holds itself proudly with 
+its mouth twisted in a sneer.  Dark black horse like legs support a shorter 
+than normal dragon shaped neck, gleaming teeth show.  Claw like hands 
+protrude from its front torso making it look all the more horrible.
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+91 4 -60 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#107
+vyr wild_vyr strange horse dragon animal dracons~
+an undead dracon~
+A strange animal is here, it is part horse and part dragon.
+~
+A pitch black dracon is here.  It upper torso is the head and neck of a 
+dragon, its lower torso is that of a horse.  It holds itself proudly with 
+its mouth twisted in a sneer.  Dark black horse like legs support a shorter 
+than normal dragon shaped neck, gleaming teeth show.  Claw like hands 
+protrude from its front torso making it look all the more horrible.
+~
+0
+Clanname none~
+0
+0
+33 524288 -600 C
+91 4 -60 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#108
+black yellow bee~
+a black and yellow bee~
+A black and yellow bee is working here.
+~
+Its body is all striped with black and yellow. This bee has transparent wings, 
+which don't stop working, making a soft bzzzz...
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#109
+yak~
+a hairy yak~
+A large beast digs around in the snow.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+70 120 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#499
+-~
+`YDO NOT BUILD MOBS IN AREA!~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+~
+20 0 16
+1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#6
+rock~
+a large rock~
+A large rock rests here.~
+~
+12 0 8
+1000 9362 150 150 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+6 rock ~
+A large rock made of granite is here.  On one side of the rock there is some 
+writing which reads:`1 `SKalahn, Dec 2000.  `x 
+~
+#7
+steel flask water crystal~
+a steel flask of crystal water~
+An unadorned steel flask filled with crystal water has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#8
+steel flask water~
+a steel flask of water~
+An unadorned steel flask filled with water has been left here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#9
+dummy~
+a dummy item, to be tweaked and stuff as needed~
+(no description)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 16
+0 0 1 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 16
+0 0 1 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+~
+19 0 16
+16 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+~
+19 0 16
+5 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18
+pile ashes~
+a pile of ashes~
+A pile of ashes is here.~
+~
+12 0 8
+99999 4681 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18 ashes pile~
+A pile of charred wood and ashes.  Looks like the remains of a small fire.  
+~
+#19
+small fire blazing restspot~
+a small fire~
+A small fire is burning here.~
+~
+12 0 8
+999999 585 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+19 small fire~
+A pile of small logs and sticks is burning merrily here.
+~
+#20
+mushroom~
+a mushroom~
+A delicious mushroom is here.~
+~
+19 0 16
+1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 64 1
+0 100 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#22
+spring~
+a spring~
+A spring flows from the ground here.~
+~
+25 64 16
+100000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+~
+15 64 8
+16 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#24
+meat slice~
+a sliced bit of meat~
+Some sliced meat is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+~
+29 64 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26
+large parchment map world~
+a large world map~
+A large world map lies here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26 map parchment world large~
+Please visit the maps and directions available on
+https://www.reddit.com/r/wotlmud/.  
+ 
+Please join our Discord server, link can be found there.
+~
+#27
+small map Tulgard~
+a small map of Tulgard~
+A small map has been left here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+27 map small Tulgard~
+`B                           (Tulgard)                      
+                                                                `BBlue:  Shops`+
+                                                                `gGreen: Travel`+
+                          `gNorth Gate    `BBargains                `bNavy Blue: Local Feature`+
+                              `W|             |                   `RRed:    Guild
+ `W+------+------+------+-------+-----+-------+-------+-------+   `SGrey:   Law
+ `W|             |              |                             |   `WWhite: Roads
+ `W|         `BFurniture          `W|                             |   `YYellow: Recall
+ `W+--`BPottery             Pets`W--+--`bPark            `SGuards HQ`W--+
+ |                            |                             |
+ |                            |                             |
+ +--`BMarket            `RTemple`W--+--`BAntiques                   `W|
+ |                            |                             |
+ |                            |  `bDancing            Silver`W--+
+ +--`bPublic Baths      Healer`W--+--`bDragon             Platter `W|
+ |                            |  `bBar                        `W|
+ |    `BMagic                   `W|                             | 
+ |    `BItems Clothes Supplies  `W| `BApothecary Weapons Maps     `W|
+`gWest    `W|      |      |       |     |       |       |     `gEast 
+`gGate`W----+------+------+-----`YPlaza`W---+-------+-------+-----`gGate  `SCrossroads >>
+ `W|      |      |      |       |     |       |       |       |
+ |    `BToys  `RArcanum `BArmoury   `W| `BJewellery `RFighters `BTannery  `W|
+ |                            |                             |
+ |                            |                             |
+ +--`bInn                 `BBank`W--+--`BBakery                     `W|
+ |                            |                             |       `YN 
+ `W|                            |                             |     `s..`B^`s.. 
+ `W|                   `RKnights`W--+--`BLocksmith          `SPrison`W--+     `s.`b\|/`s. 
+ `W|                            |                             |   `YW`B<`b-=`BO`b=-`B>`YE 
+ `W|                            |                             |     `s'`b/|\`s' 
+ `W|                   `BAuction`W--+--`gCity Stables               `W|     `s''`Bv`s'' 
+ `W|   `bTavern  `gBoats    `BHall`W    |            `BJobs             `W|       `YS 
+ `W|      |      |              |             |               |
+ +------+------+------+-------+-----+-------+-------+-------+                 
+        |                     |                         
+      `gPort             `gRiver Crossing 
+ 
+ 
+~
+#28
+small map Throtyl~
+a small map of Throtyl~
+Map~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+28 map small Throtyl~
+`C                         (Throtyl)`m                  LEGEND `+
+         `YN                                              `BBlue: Shops `+
+       `s..`B^`s..               Crossroads                   `gGreen: Travel`+
+       `s.`b\|/`s.                   ^                        `bNavy Blue: Local Feature `+
+     `YW`B<`b-=`BO`b=-`B>`YE                 `s^                        `RRed: Guild `+
+       `s'`b/|\`s'                 `gNorth                      `WWhite: Roads`+
+       `s''`Bv`s''                 `gGate                       `YYellow: Recall`+
+         `YS                     `W|
+   +-----------+---------------+----------------------+-------+
+   |           |               `W|                      |       `W|  
+   |        `gCarriage           `W|                  `BBargains    `W|
+   `W+--`BCap in Hand   `BBeastiary`W--+--`bCourier`W                     +--`bPestilence
+   `W|                           `W|  `bService`W                     |     `bPit Inn
+   `W|                           `W|                              | 
+   +--`bBlack Market       `BGems`W--+--`BBank                  Maps`W--+
+   |                           `W|                              |
+   |                           `W|                              | 
+   | `gStable  `BFish  Butcher     `W| `BWeaponry `RArcanum `BCopperworks `W| `RNecromicon 
+   `W|    |      |      |        |      |       |       |       |     |
+`gWest`W----+------+------+-----`YSquare`W----+-------+-------+-------+-----+-----`bFortress
+`gGate    `W|      |      |        |      |       |       |       |     | 
+   |  Hovel   `BRags Supplies    `W|  `BArmoury `RFighters `BDelicacies `W|  `RKnights
+   `W|                           |                              |     
+   |                           |   `bThe                        `W| 
+   +--`RThieves        `bChaotica`W--+--`bDrunken              `RWagon`W--+
+   |   `RUnion                   `W|  `bStupor                      `W|   
+   |                    `bThe    `W|                              |
+   |                  `bTrellis`W--+--`BMetalworks                  `W+--`BMagicks
+   `W|   `BTabacco  `bDen            `W|           `BPoisons            `W|
+   |      |      |             |              |               |
+   +------+------+------+------+------+-------+-------+-------+                    
+          |      |      |      |      |       |       |
+        `gBoats  `BRugs  Woodworks `W|   `BTannery  `WHovel `BSlaughterhouse
+                             `gSouth
+                             Gate`+
+~
+#29
+strange translucent mists~
+some strange translucent mists~
+Some strange translucent mists seem to swirl together here.~
+~
+12 1 8
+1000000 584 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+29 some strange translucent mists~
+This strange translucent mist seems to swirl together in the shape of some 
+sort of spherical ball.  It has a faint almost gloomy pale like colour to it 
+and it emits this awkward soothing warmth from it.  
+~
+#30
+rose~
+a red rose~
+A red rose is lying on the ground.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+30 rose~
+It's a beautiful red rose, with a soft and romantic fragrance.
+~
+#31
+paper crumpled~
+some paper~
+A piece of paper with words on it~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+31 words writing~
+Hi, Citizens of Tulgard
+Tulgard is looking forward to raising a militia, but for that it would need
+some volunteers. Tulgard is really in need of people to defend it's
+citizens, if you are interested, and that you are of good will. Come in to
+Tulgard and go see the sly looking human. or send a note to me, i need your
+names.  The arm of justice of Tulgard militia, is open to your membership.
+This note is not an obligation to be a member, just speak to me or leave a 
+note with me if you are interested.
+
+Thank you from the sly human.
+-Ranor
+
+Arm of justice, militia of Tulgard
+~
+#32
+banner~
+an embroided dragon banner~
+This is the dragon banner of Naraxi.~
+~
+1 64 1
+0 999 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+32 embroided pattern design dragon naraxi~
+OOn a field of diagonal gray and red stripes lays the silhouette of a black 
+sword.  Entwined about the sword like a vine is a sinuous white dragon, whose 
+eyes, teeth, and scales have all been meticulously stitched with scarlet thread.  
+~
+#33
+wooden raft~
+a wooden raft~
+A wooden raft has been left here.~
+~
+22 0 16
+0 0 0 0 0 0 0
+9 11 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+33 wooden raft~
+This sturdy raft is made of 5 thick logs lashed together with some sort of 
+natural material.  It is surprisingly light for its size.  
+~
+#34
+newbie guide book~
+a small newbie guide book~
+A small booklet lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+34 newbie guide book small~
+`cHELP GAME`x`#`+
+ `c*********************`+
+ * `YNEWBIE GUIDE BOOK`c *`+
+ *********************`x`+
+`^Welcome to DoT (Dawn of Time).  This is a quick start guide to help you 
+learn the very basics.  If you get confused type `Cooc help me please.  `x`+
+ `+
+The book is divided into easy chapters.  You see the Table of Contents:`+
+ `+
+Chapter 1 (type `clook chapter-1`x) ....  How do I find someone to help me?  `+
+Chapter 2 (type `clook chapter-2`x) ....  How do I move and talk?  `+
+Chapter 3 (type `clook chapter-3`x) ....  How do I look at my statistics / score 
+                                        / character information / configuration?  `+
+Chapter 4 (type `clook chapter-4`x) ....  How do I get a 'long description' and 
+                                          'short description'? `+ 
+Chapter 5 (type `clook chapter-5`x) ....  How do I buy and wear things?  `+
+Chapter 6 (type `clook chapter-6`x) ....  How do I gain experience and levels?  `+
+Chapter 7 (type `clook chapter-7`x) ....  How do I Practice and Train to gain 
+                                          more skills and spells?  `+
+Chapter 8 (type `clook chapter-8`x) ....  What do I do when I'm dead?  `+
+Chapter 9 (type `clook chapter-9`x) ....  How do I heal?  `+
+Chapter 10 (type `clook chapter-final`x) Final advice!  `+
+ `+
+If you read through these `Yshort and easy`x steps from Chapter 1 to 10 which 
+won't take you long, you will be playing Dawn of Time like a regular!  Good 
+luck!  `x`+
+ 
+~
+E
+34 chapter-2 ~
+`#`WChapter 2. How do I move and talk?`^
+                        
+`YSTEP 1. `^Type `cN`^, this will move you north. Type `chelp move`^ for more detail. If you get lost type `crecall`^. To follow someone type `cfollow <person/keyword>`^.
+   
+`#`YSTEP 2. `^Try these things with an object: `cget <object>`^, `cdrop <object>`^,`c wear <object> `^and `cremove <object>`^. With drinking containers you can `cfill <object>`^ and `cempty <object>`^. To give an object to someone `cgive <object> <person/keyword>`^.
+  
+`#`YSTEP 3. `^*You have maps when you start!* To view them type `clook map`^ and `clook 2.map`^.
+   
+`#`YSTEP 4. `^If you cannot speak human, refer to chapter-7 (`clook chapter-7`^) as human is the main spoken in character language on dawn. Try these commands:
+    
+`c ooc hello`^                    This is a real life channel.
+`c say hello`^                    This sends a message to the room.
+      
+You cannot say or ask anything IC (in character) on the OOC channel, but you may talk about real life issues here. To get into the chat rooms type `cgoooc`^ then you may talk about real life using `csay`^.
+   
+Note: If you are confused about the difference between OOC(Real life/out of character) and IC(In character) ask your friendly newbie helper! :)
+ 
+Note: `RYou cannot swear either OOC or IC. `^Read `chelp swear`^ and `chelp rules`^ for more detail.
+   
+References : `chelp MOVE`^, `chelp SAY`^, `chelp GET`^,`c help WEAR`^,`c help FILL`^,`c help RECALL`^,`c help OUT OF CHARACTER`^,`c help IN CHARACTER`^,`c help -CHANNELS`^,`c help SWEAR `^and `chelp RULES`^.
+~
+E
+34 chapter-3 ~
+`#`WChapter 3. How do I look at my stats/score/character information/configuration?`^
+        
+`YSTEP 1. `^These commands will give you character information. Type these out and see what they do!
+            
+          `cSCORE`^   shows your character stats, experience and level.
+          `cWORTH`^   shows your tiredness, how much gold and other info.
+          `cSKILL`^   shows you the skills and realms/spheres you have.
+          `cAFFECT`^  shows if you are affected by any spells.
+          `cSPELL`^   shows the spells you may cast.
+          `cAUTO`^    shows what configuration you are set to.
+          `cINV`^     shows what you have in inventory.
+          `cWIMPY`^   sets the amount of hp you flee from combat.
+          `cPANIC`^   sets the amount of hp you recall from combat.
+          
+`YSTEP 2. `^If you type `ccommands`^, it shows a list of commands. WARNING: long list!
+        
+`YSTEP 3. `^For the magic users of the realm, typing `ccspinfo <class>`^ gives you a list of spells for that class. ie. cspinfo mage
+      
+On a side note, please be patient in learning spells, once you `Ylevel`^ you gain spells - unless you learn some other way! ;)
+           
+ References : `chelp SCORE`^,`c help WORTH`^,`c help SKILL`^,`c help AFFECT`^,`c help SPELL`^,`c help AUTO`^,`c help WIMPY`^,`c help PANIC`^,`c help MAGIC-SYSTEM`^ and `chelp CSPINFO`^.
+~
+E
+34 chapter-4 ~
+`#`WChapter 4. How do I get a 'long description' and 'short' description?`^
+  
+`YSTEP 1. `^Type `cdlook`^. Your LONG is what you see when you `clook <person>`^. It is a good idea to write down on paper what you want your character to look like. Read `chelp long`^ before you type in your description. Once you have an idea, type out these commands using this as an example:
+     
+`#   `cdesc `^(enter editor)
+    `cAn elf with brown hair is here.`^ (enter your own description)
+                        
+    `^NOTE: `RYou are in the editor at this point you cannot talk or action. 
+                           To get out of it and talk type `c@`^.
+    
+    `c .h`^ (for help)
+    `c .s`^ (for show)
+    `c .f`^ (format...word wrapping is your friend!)
+    `c @ `^ (indicates finish and now you can type `csay`^ once again.)
+   
+`YSTEP 2. `^A SHORT is what you see when someone walks into the room. Eg. `BA tall blonde man is standing here. `^Read `chelp short`^ before asking an immortal to set your short.
+   
+`#`YSTEP 3.`^ After this you can be `Yletgained`^. Read `chelp history`^ and `chelp histor-requirements`^ - `R*IF YOU DO NOT READ THIS YOUR HISTORY MAY BE DECLINED!*`^ Histories are to be entered by typing `chistory`^ and filling it out as you did your long description and may be posted upon our yahoo group upon request. You may look at other currently online players' histories by typing `chlook <person>`^. When in doubt, ask an immortal. Finally type `crequestletgain <your short>`^ Eg. requestletgain a brown haired elf (Note: Do not include punctuation at the end.)
+  
+References :  `chelp LONG`^, `chelp SHORT`^,`c help LONG-EXAMPLE`^,`c help DESCRIPTION-EDITOR`^,`c help HISTORY`^,`c help LETGAIN`^ and `chelp HISTORY-REQUIREMENTS`^.
+~
+E
+34 chapter-5 ~
+`#`WChapter 5. How do I buy and wear things?
+  
+`YSTEP 1. `^ Go to the Armory on the map. If you can't find it ASK someone by typing `csay Where is the Armory?`^ or look at your map.
+  
+`YSTEP 2.`^ Once at the armory you need clothes! Type `clist 1 `^(1 is for your level). You will see a list come up somthing like this:
+ 
+ [ 1    42 -- ] a leather belt 
+ [ 1    42 -- ] leather boots 
+ `#[ `R1`^    93 -- ] leather sleeves 
+  
+`YSTEP 3.`^ Buy some level 1 equipment. Type `chelp buy`^ for more detail. Buy *SUGGESTED EQUIPMENT*: Belt, boots, leggings, vest, gloves, cap and sleeves. Now type `clist boot`^. If you have a list like this:
+  
+ [35  1050  1 ] some leather boots 
+ [50  1500  1 ] some heavy leather boots 
+ `#[ `R1`^    42 -- ] leather boots
+  
+`#You need to buy the level `R1`^ boot. Type buy `Y3`^.boot. The leather boots are `Y3`^rd on the list. Wear what you bought (refer to chapter-2).
+ 
+`YSTEP 4.`^ After that go to the General store and buy a lamp, a waterskin and bread.
+ 
+`YSTEP 5.`^ Type `cskill`^ to find out your `Yweapon skill`^. For example thieves use daggers. Go to the weapon shop on the map. Buy two (level 1) daggers. Type `cwear dagger`^ to wear the first one, then type `csecond dagger`^ to put the other dagger in your off hand. If you are cleric you would get a mace etc, all depending on your `Yweapon skill`^.
+   
+References : `chelp BUY`^ and `chelp SECOND`^.
+~
+E
+34 chapter-6 ~
+`#`WChapter 6. How do I gain experience and levels?`^
+     
+There are TWO ways to gain experience: Roleplay and combat.
+    
+`YSTEP 1. ROLEPLAY:`^ Yes roleplaying gives you experience, it is an automatic system! Type `chelp emote`^. Try this example: `cemote smiles softly.`^
+    
+`YSTEP 2.`^ Type `csocial`^. Warning: long list!
+ 
+`YSTEP 3. `^If an immortal or noble sees you roleplaying well, you may get MOOTED. If you feel like living on the edge type `chelp quester`^. Dawn has `Yboth`^ autoquests and player/imm ran quests.
+    
+`#`YSTEP 4. COMBAT:`^ Good places to fight when you start is the park in Tulgard and if you start in Throtyl try killing pigeons in the town. Type `carea`^ to see the different areas in which you can fight and explore, another long list! 
+   
+`YSTEP 5.`^ Before battle checklist: 
+`Y* `^Have you bought a weapon(s) and armor?
+`Y* `^Have you practiced your weapon skill to 75% (70% for barbarians)?
+`Y* `^Have you trained your hp? 
+`Y* `^Do you have wimpy and panic set?
+      
+`YSTEP 6.`^Type `cconsider <mobile/monster>`^. It will show you a rating of what your chances are of winning against it. If you feel lucky type `ckill <mob>`^. Killing mobs earn you gold and experience. To cast a spell, `cc 'spell name' <person/monster> `^. Eg. c 'fireball' goblin
+  
+References : `chelp EMOTE`^,`c help SOCIAL`^,`c help NOBLE`^,`c help QUESTER`^,`c help EXPERIENCE`^,`c help WIMPY`^,`c help PANIC`^,`c help CONSIDER`^,`c  help KILL`^ and `chelp CAST`^.
+~
+E
+34 chapter-7 ~
+`#`WChapter 7. How do I Practice and Train to gain more skills and spells?`^
+    
+Before you go to fight something it is a good idea to practice your weapon skill. To do this you need to find your GUILD hall.
+    
+`YSTEP 1.`^ Type `cscore`^, it will show your `Yclass`^. Each class has a `Yguild`^. Eg. If I was a mage I would want to find the arcanum. Use your map to find the location. If you can't find it, type `crecall`^ and ask someone.
+   
+`YSTEP 2.`^ Once in your guild, type `cgain list`^, `cpractice`^, and `ctrain`^. It is best to `ctrain hp`^. Type `chelp attribute`^ for more detail.
+  
+`YSTEP 3.`^ If you don't have human, type `cgain human`^. Then after this type `cpractice human`^. Practice it until it is 75% (70% for barbarians.) Although you do not have to practice this is it recommended.
+  
+`YSTEP 4.`^Type `cskill`^ and find your weapon skill, the `cpractice <weaponskill>`^ Eg. practice sword, until it is at 75%. Then type `cscore`^ to see if you have any trains or practices and if you have used them as you would like.
+  
+`YSTEP 6.`^To get spells you need to have the SKILLS of `Yrealms`^, `Yshperes`^, `Yelements`^ or `Yseasons`^. When you PRACTICE these skills your chance improves to learn a spell when you level.  
+ 
+You cannot 'gain spells' here. You gain spells by `Ylevelling `^and other methods.
+   
+Now you are ready to start `Ya`Rd`Cv`Be`Gn`Mt`ru`Wr`Yi`Rn`gg`B!`^
+   
+References : `chelp GUILD`^,`c help SCORE`^,`c help CLASS`^,`c help GAIN LIST`^,`c help TRAIN`^,`c help PRACTICE`^,`c help ATTRIBUTES`^,`c help MAGIC-SYSTEM`^ and`c help SKILL`^.
+~
+E
+34 chapter-8 ~
+`#`WChapter 8. What do I do when I'm dead?`^
+ 
+Usually what happens is the gods bless you and you get a second chance. *wink* If you die in a battle against a mob you get transported up to purgatory.
+  
+`YSTEP 1. `^Well, don't just sit there! Type `crecall`^ and return.
+ 
+`YSTEP 2. `^You are completely naked like you were at the start. Find where your body is or if you don't think you can, ask someone by typing `csay Could you please help me get my equipment back?`^ 
+ 
+`YSTEP 3. `^If you cannot seem to get it back, buy some new things and continue to explore. Remember it is a game and nearly everyone dies once or twice... or even more!
+ 
+`YSTEP 4. `^If you are `Yplayer killed`^, this is different. 
+ 
+`RYou *must* write a pkill note TO PKILL no more half an hour real life past the time you killed someone or were killed.`^
+  
+It will display a pkill message when this happens in `RRED.`^ Ask a newbie helper how to write notes if you do not know how.
+  
+`YSTEP 5. `^Dawn has a `Ykarn`^ system. Karns are your lives and you get a maximum of five karns. You can only pkill if you are LETGAINED. But you can be pkilled if you are not letgained. You may get letgained as low as level 1.
+ 
+References : `chelp DYING`^,`c help PKILL`^,`c help KARN`^ and `chelp LETGAIN`^.
+~
+E
+34 chapter-9 ~
+`#`WChapter 9. How do I heal?`^
+  
+`YSTEP 1. `^The best thing to do if you are hurt and not 'tired' is to type `crest.`^
+ 
+`YSTEP 2. `^Sometimes you are poisoned. When this happens type `crecall`^ and find a healer. Once in the healers type `cheal`^ and it will bring up a list. Or better yet, ask someone for help, making friends and having fun on dawn is what we aim for.
+  
+`YSTEP 3. `^If you are past level 6, a message like this could appear on the screen:
+ 
+You are tired.
+ 
+If this happens find a safe place and type `csleep`^ and `Ywait`^ until you fall asleep. Hunger and thirst heightens the chance you will get tired quicker.
+ 
+`YSTEP 4. `^Sleeping or resting by fires and bedrolls gives you a better chance of recovering quicker. To pass the time while your character is sleeping, read notes by typing `cnote`^ or `cidea`^ or even read our mythos `chelp mythos.`^
+ 
+References : `chelp REST`^, `chelp NOTES`^,`c help MYTHOS`^ and `chelp TIRED`^.
+~
+E
+34 chapter-final~
+`#`WChapter 10. Final advice!`^
+  
+`Y*`^ When stuck, ask a friendly newbie helper.
+ 
+`Y*`^ Be nice to newbie helpers and immortals, you never know when they might come in handy ;)
+  
+`Y*`^ The SCAN skill is good when adventuring.
+ 
+`Y*`^ Look at your prompt. Your prompt can tell you alot about your character including hit points, movement, mana and time of day. Type `chelp prompt`^ for a clear explanation.
+   
+`Y*`^ Unless you intend to roleplay, generally buying equipment higher than your level is not beneficial.
+ 
+`Y*`^ Explore as much as possible and be prepared to make mistakes and die.
+ 
+`Y*`^ When you see 'you are tired' appear try and sleep or you will find that your character will pass out.
+  
+`Y*`^ Make as many friends as you can and maybe later on join one of our CLANS.
+ 
+`Y*`^ Have FUN!
+ 
+You have read the newbie book, any questions please ask a `Ynewbie helper`^ or on the `Yquestion channel`^. Good luck!
+~
+E
+34 chapter-1 ~
+`#`WChapter 1. How do I find someone to help me?`^
+          
+If you don't understand something type `chelp <subject>`^ - <subject> is any keyword you wish to find help on. If you cannot understand this there are people who will help you.
+  
+`YSTEP 1. `^Type `cwho`^ and look at the list. You might see players like this:
+   
+      [***] Ka 
+      [+++] Zyria
+  `r-======= `GIMMORTALS `r=======-
+      `G[`rDEM`G] Yonae`^
+    
+                  ....this means Zyria is a 'newbie helper' the [+++] indicates this. You can also ask an immortal if they are present, in this example the immortal is Yonae.
+          
+`YSTEP 2. `^For example, type `ctell Zyria help me please`^ and the player will respond to any questions you may have. 
+    
+`YSTEP 3. `^If there is no [+++] player. Type `cooc help me please.`^
+      
+`YSTEP 4. `^Alternatively, type `cquestion <your question>`^ to ask a question on the question channel.
+    
+Ettiquette is important on dawn and `Rit is a rule to not share or ask character information over OOC`^. 
+     
+References`^ : `chelp WHO`^, `chelp OUT OF CHARACTER`^ and `chelp -CHANNELS`^.
+~
+#35
+small camouflaged shelter~
+a small camouflaged shelter~
+A small camouflaged shelter.~
+~
+12 0 8
+99999 18468 110 110 0 0 0
+88 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+35 small camouflaged shelter~
+This small shelter has been built from branches, leaves, and other natural 
+materials, all cut expertly fromt he surrounding forest.  It looks big 
+enough to squeeze a person or two inside, and quite protective from the 
+elements.  
+~
+#36
+rp item~
+an rp item~
+(no description)~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#37
+hammer spirit~
+a `#`Bspirit`^ hammer~
+A spirit hammer is lying here, bathed in it's own radiance.~
+~
+5 256 4
+0 0 20 256 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#38
+finely carved wooden staff~
+a finely carved wooden staff~
+A finely carved wooden staff has been set here.~
+~
+5 0 4
+0 0 0 32 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#39
+skinned vest~
+skinned vest~
+(no description)~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#40
+skinned cape~
+skinned cape~
+(no description)~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#41
+skinned hat~
+skinned hat~
+(no description)~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#42
+skinned leggings~
+skinned leggings~
+(no description)~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#43
+skinned boots~
+skinned boots~
+(no description)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#44
+arrow~
+a `#`ywooden arrow`^~
+A wooden arrow lies here.~
+~
+44 0 32
+3 5 -1 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#45
+silver arrow~
+a `#`Ssilver arrow`^~
+An arrow tipped with silver lies here.~
+~
+44 0 32
+3 5 -1 0 0 0 0
+1 60 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#46
+quiver death~
+a `#`yleather quiver`^~
+A quiver lies here.~
+~
+45 0 32
+0 0 1 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#47
+longbow wooden~
+a wooden longbow~
+A nice wooden longbow lies here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48
+slingshot~
+a nice slingshot~
+A nice slingshot lies here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#49
+stone~
+a slingshot stone~
+A nice round stone lies here.~
+~
+44 0 32
+4 4 -1 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#50
+floating hooded brass lantern~
+a floating, hooded brass lantern~
+A hooded brass lantern floats a few inches above the ground~
+~
+1 64 1
+0 999 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51
+huge chunk cheese~
+a huge chunk of cheese~
+A huge chunk of cheese sits here~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52
+wood metal meshed quarterstaff staff~
+a quarterstaff of meshed wood and metal~
+An oddly fashioned quarterstaff is here~
+~
+5 0 4
+2 8 7 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#53
+small metal ring~
+a small metal ring~
+A small metal ring is here~
+~
+9 16 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#54
+huge stone fountain~
+a huge stone fountain~
+A huge stone fountain is here.~
+~
+25 0 16
+9999999 52 0 0 0 0 0
+40 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#55
+small round stone~
+a small round stone~
+A small round stone is here~
+~
+30 64 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#56
+small green gem warpstone~
+a small green gem~
+A small green gem is here~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#57
+long wooden bench~
+a long wooden bench~
+A long wooden bench.~
+~
+12 0 8
+500 9362 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#58
+shackle ball chain iron~
+a ball and chain shackle~
+An iron ball attached to a chain is here~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#59
+single leather glove~
+a single leather glove~
+A leather glove is here, its match absent~
+~
+9 64 8
+2 2 2 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#60
+gnarled staff druidstaff~
+a gnarled druidstaff~
+A gnarled staff has been left here.~
+~
+5 0 4
+0 0 0 32 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#61
+carved wooden totem totemstaff~
+a carved wooden totemstaff~
+A carved wooden totemstaff lies here.~
+~
+5 0 4
+0 0 0 32 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#62
+dart~
+a dart~
+A sharp dart lies here.~
+~
+44 0 32
+4 4 -1 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#63
+blowgun~
+a nice blowgun~
+A long blowgun lies here.~
+~
+5 0 4
+4 14 24 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64
+newborn baby girl daughter~
+a newborn baby girl~
+A lovely newborn baby girl is here, wrapped in a pink blanket.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#65
+couch l-shaped~
+an l-shaped couch~
+A comfortable looking L-shaped couch is here.~
+~
+12 0 8
+0 9360 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#66
+newborn baby boy son~
+a newborn baby boy~
+A lovely newborn baby boy is here, wrapped in a blue blanket.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#67
+flask crystal wolvesbane silver~
+a flask of ground wolvesbane~
+A flask of ground wolvesbane and silver sits here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#68
+flask crystal holy blessed water holywater~
+a flask of holy water~
+A flask of holy water swirls about magically here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#69
+voodoo doll~
+a voodoo doll~
+A voodoo doll lies here.~
+~
+8 16 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#70
+avoid_death_token~
+avoid_death_token~
+Avoid_death_token~
+~
+35 128 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#71
+statue stone~
+a stone statue of %s~
+A stone statue of %s is here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#72
+prison pardon card~
+a prison pardon card~
+A prison pardon card is here.~
+~
+32 128 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+72 prison pardon~
+This card will allow you to not be jailed if you are arrested or thrown in 
+prison for some reason.  You will automatically be released and pardoned.  
+~
+#73
+celestial dagger~
+`#`CCelestial Dagger`^~
+A dark unholy dagger burns the dirt it lies upon.~
+~
+5 64 4
+12 6 28 192 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#74
+whip anihilation~
+`#`SWhip `wof `SAnihilation`^~
+A whip lies here.~
+~
+5 128 4
+3 28 4 8208 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#75
+rager axe~
+`#`YS`yharp `YA`yxe of the `YR`yager`^~
+A deadly looking axe is here.~
+~
+5 16 4
+3 30 1 8328 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#76
+Death Mace~
+the Mace of Death~
+A mace lies here, radiating an aura of death.~
+~
+5 16 4
+3 26 27 129 0 0 0
+1 4800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#77
+berserker sword~
+the sword named `#`MBerserker`^~
+A large sword lies here, gathering dust.~
+~
+5 0 4
+5 18 25 56 0 0 0
+2 1450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#78
+bag hide~
+bags made from hides of corpses~
+A bag made from the hide of %s.~
+~
+15 0 8
+1 0 55 80 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#79
+serpentbracelet bracelet~
+`#`GB`gracelet `wof the `GS`gerpent`^~
+A golden bracelet in the form of a serpent lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+79 serpent bracelet~
+Ancient runes burn in your mind and you believe the bracelet will be able to 
+protect you from a violent death. 
+~
+#80
+unleashed fury sword artifact3~
+a double edged sword~
+A sword with a clear blade lies here.~
+~
+4 256 4
+0 0 0 -1 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+80 sword unleashed fury~
+This sword is very intricate, runes of power line its length to the very
+tip of the blade.  The hilt is inlaid with gold and silver, thick leather 
+bonds the hilt tight.  Where the hilt meets the blade an inscription is
+set into the strange see-through blade.  It reads :
+
+      "The sword of unleashed fury, Holy sword of the Angelic Hosts"
+       "Gifted for my beloved ReiJin, may his soul rest peacefully"
+~
+#81
+justice unleashed fury sword artifact3-temp~
+a double edged sword~
+A sword with a clear blade lies here.~
+~
+5 256 4
+10 9 20 25 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+81 sword unleashed fury~
+This sword is very intricate, runes of power line its length to the very
+tip of the blade.  The hilt is inlaid with gold and silver, thick leather 
+bonds the hilt tight.  Where the hilt meets the blade an inscription is
+set into the strange see-through blade.  It reads :
+
+      "The sword of unleashed fury, Holy sword of the Angelic Hosts"
+       "Gifted for my beloved ReiJin, may his soul rest peacefully"
+~
+#82
+token token_horn_of_blasting~
+token_horn_of_blasting~
+Token_horn_of_blasting~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#83
+horn blasting~
+a `#`YHorn `Wof `YBlasting`^~
+A elegant engraved horn lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+83 horn blasting~
+Many runes are engraved on the outside of the horn, glowing with power.  To 
+use the horn, hold the horn and `#`CUSE HORN <`Wdirection`C>.  `^ The horn will blast 
+through most doors.  
+~
+#84
+orb dragonorb~
+`#`rThe `RD`rragon`RO`rrb`^~
+A large sphere swirling with colors lies here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 18600 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#85
+pool blood~
+a `#`rpool of blood`^~
+A `#`rpool of blood `^congeals here in a small puddle.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#86
+puddle~
+a small rain puddle~
+A small rain puddle is here.~
+~
+17 0 16
+2 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#87
+snow~
+a blanket of snow~
+A layer of `#`Wwhite snow`^ covers the ground.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#88
+cloud~
+a `#`Wfluffy white cloud`^~
+A `#`Wfluffy white cloud`^ drifts through the air.~
+~
+12 0 8
+10000 165010 110 110 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#89
+decaying wooden warhammer hammer runic~
+`#the `SWarhammer `Wof `SRot`^~
+A large decaying wooden warhammer is here.~
+~
+5 0 4
+7 7 7 8192 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#90
+gate portal stargate~
+a `Cs`Wh`Ci`Wm`Cm`We`Cr`Wi`Cn`Wg `#`ssilvery portal`^~
+`#`wA `Cs`Wh`Ci`Wm`Cm`We`Cr`Wi`Cn`Wg `ssilvery portal`w ripples inside the `YStellar Gateway`x.~
+~
+29 64 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#91
+sword magibane~
+`#`Sa sword called `c"MagiBane"`^~
+A dark sword with an etched blade lies here.~
+~
+5 0 4
+7 7 3 17 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+91 sword magibane~
+The blade is etched with ancient undecipherable runes.  It appears the blade 
+is adamantium and the runes glow with a slight red glow.  A black crosspiece 
+and grip complete the blade, and upon closer examination you read the name 
+"MagiBane" on the grip.  
+~
+#92
+farslayer sword~
+`#`SFarslayer`w, the `RSword `Sof `RVengeance`^~
+A `#`SBlack-Hilted `WMithril Sword`^ with the symbol of a target on the hilt lies here.~
+~
+5 16 4
+10 6 3 20 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+92 sword farslayer~
+The sword has the symbol of a target on the bottom of the black hilt, with a 
+3' mithril blade.  Farslayer has the ability to kill it's foe at any 
+distance, anywhere.  The user will recite the phrase 'For thy heart, for thy 
+heart, who hast wronged me' and state the name of the victim.  Farslayer 
+will then fly from their hands, and kill the target instantly, save for 
+those who posess other means to defend themselves.  To activate this option, 
+WIELD FARSLAYER and then USE FARSLAYER <victim>. 
+~
+#93
+head~
+a shrunken head~
+A shrunken head lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#94
+stellar gateway~
+a `#`YStellar Gateway`^~
+A `#`YStellar Gateway`^ covered with mystical symbols is here.~
+~
+55 1 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+94 stellar gateway~
+A large round device stands on the platform to the Stellar Gateway, with 
+strange symbols arrayed in a circle around a large red glowing dome. The 
+gateway itself is 30' in diameter, and has the same strange symbols around 
+it on an inner ring, with an outer ring with 5 large triangles set about the 
+outside. When 5 symbols on the small device are pressed, the inner ring of 
+the gateway spins and the triangles light up one at a time as the proper 
+symbol passes underneath it. Once all 5 symbols are pressed in a correct 
+order, the red dome lights up. It can then be pressed, and a shimmering 
+silver gateway appears inside the inner ring of the Stellar Gateway. 
+~
+#95
+decanter endless water~
+a `#`CD`We`Cc`Wa`Cn`Wt`Ce`Wr `Wof `CE`Wn`Cd`Wl`Ce`Ws`Cs `WW`Ca`Wt`Ce`Wr`^~
+A nice looking decanter full of water is here.~
+~
+17 0 16
+50000 52 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#96
+free restring coupon~
+`#`YFree `GRestring `YCoupon`^~
+A coupon for a free restring lies here.~
+~
+8 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+96 free restring coupon~
+(null)~
+#97
+quest sceptre ixliam~
+the `#`CS`cceptre `wof `CI`cxliam`^~
+The `#`CS`cceptre `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#98
+quest amulet ixliam~
+the `#`CA`cmulet `wof `CI`cxliam`^~
+The `#`CA`cmulet `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#99
+quest cloak ixliam~
+the `#`CC`cloak `wof `CI`cxliam`^~
+The `#`CC`cloak `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#100
+dummy item~
+a dummy item~
+(no description)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#101
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the north.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#102
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the south.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#103
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the east.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#104
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the west.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#105
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the northeast.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#106
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the southeast.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#107
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the northwest.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#108
+wall fire~
+a `#`Rwall of fire`^~
+A `#`Rwall of fire`^ is blazing here, blocking the path to the southwest.~
+~
+12 64 8
+10000 280868 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#109
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the north.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#110
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the south.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#111
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the east.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#112
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the west.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#113
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the northeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#114
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the southeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#115
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the northwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#116
+wall ice~
+a `#`Cwall of ice`^~
+A `#`Cwall of ice`^ is here, blocking the path to the southwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#117
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the north.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#118
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the south.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#119
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the east.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#120
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the west.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#121
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the northeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#122
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the southeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#123
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the northwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#124
+wall ice~
+a `#`swall of stone`^~
+A `#`swall of stone`^ is here, blocking the path to the southwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#125
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the north.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#126
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the south.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#127
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the east.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#128
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the west.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#129
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the northeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#130
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the southeast.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#131
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the northwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#132
+wall thorns~
+a `ywall of thorns`^~
+A `#`Gp`gr`Gi`gc`Gk`gl`Gy `ywall of thorns`^ is here, blocking the path to the southwest.~
+~
+12 64 8
+10000 0 -500 -500 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#133
+quest shield ixliam~
+the `#`CS`chield `wof `CI`cxliam`^~
+The `#`CS`chield `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#134
+quest signet ixliam~
+the `#`CS`cignet `wof `CI`cxliam`^~
+The `#`CS`cignet `wof `CI`cxliam`^ is here.~
+~
+8 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#200
+cooked rabbit alaghi~
+a cooked rabbit~
+A cooked rabbit is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#201
+juicy worm avian~
+a `#`Mworm`^~
+A juicy `#`Mworm`^ is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#202
+slab meat draconian~
+a slab of meat~
+A slab of raw meat is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#203
+giant spider leg drow~
+a spider leg~
+A giant spider leg is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#204
+salted rat~
+a salted rat~
+A salted rat lies here, lifeless.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#205
+silver fruit elves elf~
+a `#`Ssilver`^ fruit~
+A `#`Ssilver`^ fruit is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#206
+carrion crawler~
+a carrion crawler~
+A succulent carrion crawler is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#207
+bone gnoll~
+a `#`Wbone`^~
+A scrumptious `#`Wbone`^ is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#208
+cheese wedge gnome~
+a wedge of `#`Ycheese`^~
+A wedge of `#`Ycheese`^ is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#209
+bone meat half-orc~
+a meaty bone~
+A meaty bone is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#210
+tomato halfling~
+a `#`Rtomato`^~
+A plump `#`Rtomato`^ is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#211
+bread loaf human~
+a loaf of bread~
+A loaf of bread is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#212
+baked mushroom kobold~
+a baked mushroom~
+A baked mushroom is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#213
+fish fresh lizardman~
+a fish~
+A fresh fish is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#214
+turkey large minotaur~
+a large turkey~
+A large turkey is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#215
+kitty snack feylar~
+a kitty snack~
+A kitty snack is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#216
+flesh hunk orc~
+a hunk of flesh~
+A hunk of flesh is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#217
+buckroot leafy voadkyn~
+a buckroot~
+A leafy buckroot is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#218
+watermelon half-elf~
+a `#`rwatermelon`^~
+A succulent `#`rwatermelon`^ is here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#219
+sticky honeycomb~
+a sticky `#`yhoneycomb`^~
+A sticky `#`yhoneycomb`^ lies here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#220
+rack ribs~
+a rack of `#`Rbloody`^ ribs~
+A rack of `#`Rbloody`^ ribs lies here.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#299
+grill~
+a grill~
+A mortal-sized grill is here, with crispy remains still clinging to the top.~
+~
+12 0 8
+99999 140434 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+299 grill ~
+The grill is long and thin and has a big propane tank attached to it.  The 
+crispy remains of former annoying mortals still cling to the top.  
+~
+#300
+salmon~
+a salmon~
+A freshly caught salmon lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#301
+rock bass~
+a rock bass~
+A freshly caught rock bass lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#302
+largemouth bass~
+a largemouth bass~
+A freshly caught largemouth bass lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#303
+smallmouth bass~
+a smallmouth bass~
+A freshly caught smallmouth bass is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#304
+black crappie~
+a black crappie~
+A freshly caught black crappie is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#305
+white crappie~
+a white crappie~
+A freshly caught white crappie is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#306
+striped bass~
+a striped bass~
+A freshly caught striped bass is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#307
+channel catfish~
+a channel catfish~
+A freshly caught channel catfish is here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#308
+grey catfish~
+a huge grey catfish~
+A freshly caught grey catfish is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#309
+rainbow trout~
+a `#`?r`?a`?i`?n`?b`?o`?w `^trout~
+A freshly caught `#`?r`?a`?i`?n`?b`?o`?w `^trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#310
+spotted bass~
+a `#`Ss`wp`So`wt`St`we`Sd `wbass`^~
+A freshly caught spotted bass is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#311
+spotted sunfish~
+a `#`Ss`wp`So`wt`St`we`Sd `Ysunfish`^~
+A freshly caught spotted sunfish is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#312
+bluegill~
+a `#`cblue`bgill`^~
+A freshly caught bluegill is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#313
+minnow~
+a small minnow~
+A freshly caught minnow is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#314
+brook trout~
+a `#`cbrook trout`^~
+A freshly caught brook trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#315
+brown trout~
+a `#`ybrown trout`^~
+A freshly caught brown trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#316
+walleye~
+a walleye~
+A freshly caught walleye is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#317
+sauger~
+a large sauger~
+A freshly caught large sauger is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 43 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#318
+goldfish fish~
+a `#`Ygoldfish`^~
+A freshly caught `#`Ygoldfish`^ is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#319
+redbreasted bream~
+a `#`Rredbreasted bream`^~
+A freshly caught `#`Rredbreasted bream`^ is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#320
+warmouth bream~
+a `#`rwarmouth bream`^~
+A freshly caught warmouth bream is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#321
+grass pickerel~
+a grass pickerel~
+A freshly caught grass pickerel is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#322
+rusted mug~
+an old rusted mug~
+An old rusted mug filled with mud is here.~
+~
+17 0 16
+2 9 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#323
+white bass~
+a `#`Wwhite bass`^~
+A freshly caught white bass is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#324
+hybrid bass~
+a `#`Wh`Sy`Wb`Sr`Wi`Sd `Wb`Sa`Ws`Ss`^~
+A freshly caught `#`Wh`Sy`Wb`Sr`Wi`Sd `Wb`Sa`Ws`Ss`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 27 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#325
+smelly carp~
+a smelly carp~
+A freshly caught carp is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#326
+clump gold coin~
+a clump of `#`Ygold coins`^ from a shipwreck~
+A clump of `#`Ygold coins`^ pulled from a shipwreck are here.~
+~
+20 0 16
+3 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+326 clump gold coin~
+The coins glisten in the large clump.  Maybe if you drop them and pick them 
+up again, they will fall apart and you can get the gold coins from it.  
+~
+#327
+lantern beat old~
+a beat-up old lantern~
+A beat-up old lantern is here.~
+~
+1 0 1
+0 5 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#328
+bamboo fishing pole fishingpole~
+a bamboo fishing pole~
+A bamboo fishing pole lies here.~
+~
+43 0 32
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#329
+old boot mud~
+an old boot full of mud~
+An old boot full of mud is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#330
+dead fish corpse~
+a rotten dead fish~
+A rotting dead fish is here.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#331
+oyster~
+a large `#`Woyster`^~
+A freshly caught oyster is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#332
+clam~
+a small clam~
+A freshly caught clam is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#333
+triggerfish~
+a `#`Mtriggerfish`^~
+A freshly caught triggerfish is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#334
+snowcrab crab~
+a `#`Wsnowcrab`^~
+A freshly caught snow crab is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#335
+black reef shark~
+a `#`Sblack-tipped reef shark`^~
+A freshly caught black-tipped reef shark is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#336
+tiger shark~
+a `#`yt`ri`yg`ye`rr `ys`rh`ya`rr`yk`^~
+A freshly caught `#`yt`ri`yg`ye`rr `ys`rh`ya`rr`yk`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#337
+amberjack~
+an `#`camberjack`^~
+A freshly caught `#`camberjack`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#338
+black sea bass~
+a `#`Sblack `wsea `Sbass`^~
+A freshly caught `#`Sblack `wsea `Sbass`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#339
+barracuda~
+a `#`Wsharp-toothed`^ barracuda~
+A freshly caught barracuda is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#340
+bluefish~
+a `#`Bbluefish`^~
+A freshly caught `#`Bbluefish`^ is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#341
+cobia~
+a cobia~
+A freshly caught cobia is here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#342
+croaker~
+a croaker~
+A freshly caught croaker is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#343
+dolphinfish~
+a `#`cdolphinfish`^~
+A freshly caught dolphinfish is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#344
+black drum~
+a `#`Sblack drum`^~
+A freshly caught black drum is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#345
+flounder~
+a `#`gflounder`^~
+A freshly caught flounder is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#346
+grouper~
+a grouper~
+A freshly caught grouper is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#347
+ladyfish~
+a `#`Rladyfish`^~
+A freshly caught ladyfish is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#348
+king mackeral~
+a king mackeral~
+A freshly caught king mackeral is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#349
+yellowfin tuna~
+a `#`Yyellowfin tuna`^~
+A freshly caught `#`Yyellowfin tuna`^ is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#350
+blue marlin~
+a `#`Bblue marlin`^~
+A freshly caught `#`^blue marlin`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#351
+sailfish~
+a `#`Csailfish`^~
+A freshly caught sailfish is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#352
+red snapper~
+a `#`Rred snapper`^~
+A freshly caught `#`Rred snapper`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#353
+swordfish~
+a `#`bswordfish`^~
+A freshly caught `#`bswordfish`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#354
+tarpon~
+a tarpon~
+A freshly caught tarpon is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#355
+blackfin tuna~
+a `#`Sblackfin tuna`^~
+A freshly caught blackfin tuna is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#356
+wahoo~
+a `#`Mwahoo`^~
+A freshly caught wahoo is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#357
+clump gold coin~
+a clump of `#`Ygold coins`^ from a shipwreck~
+A clump of `#`Ygold coins`^ pulled from a shipwreck are here.~
+~
+20 0 16
+3 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+357 clump gold coin~
+The coins glisten in the large clump.  Maybe if you drop them and pick them 
+up again, they will fall apart and you can get the gold coins from it.  
+~
+#358
+lantern beat old~
+a beat-up old lantern~
+A beat-up old lantern is here.~
+~
+1 0 1
+0 5 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#359
+old boot mud~
+an old boot full of mud~
+An old boot full of mud is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#360
+dead fish corpse~
+a rotten dead fish~
+A rotting dead fish is here.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#400
+mace~
+a mace~
+A mace is lying here.~
+~
+5 0 4
+1 54 68 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+400 mace~
+A standard mace.  Nothing special about it.
+~
+#401
+dagger~
+a dagger~
+A dagger is lying here.~
+~
+5 0 4
+1 4 11 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+401 dagger~
+A standard dagger.  Nothing special about it.
+~
+#402
+shortsword sword~
+a shortsword~
+A shortsword is lying here.~
+~
+5 0 4
+1 6 3 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+402 shortsword sword~
+A standard shortsword.  Nothing special about it.
+~
+#403
+staff~
+a small staff~
+A small staff is here.~
+~
+5 0 4
+1 14 13 32 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+403 staff ~
+A standard staff.  Nothing special about it.
+~
+#404
+small hand axe~
+a small hand axe~
+A small hand axe is lying here.~
+~
+5 0 4
+1 6 1 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+404 small hand axe~
+A small light axe.  Pretty standard as far as materials and crafstmanship.  
+~
+#405
+flail~
+a flail~
+A flail is lying here.~
+~
+5 0 4
+1 6 27 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+405 flail ~
+ëêêêì~
+#406
+whip~
+a whip~
+A whip is lying here.~
+~
+5 0 4
+1 5 26 0 0 0 0
+1 51 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+406 whip~
+A standard whip.  Nothing special about it.
+~
+#407
+halberd polearm~
+a halberd~
+A halberd is lying here.~
+~
+5 0 4
+1 14 34 32 0 0 0
+1 76 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+407 halberd~
+A standard halberd.  Nothing special about it.
+~
+#408
+sickle~
+a sickle~
+A sickle is lying here.~
+~
+5 0 4
+1 6 27 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+408 sickle ~
+A standard sickle.  Nothing special about it.
+~
+#409
+leather vest~
+a leather vest~
+A leather vest is lying here.~
+~
+9 0 8
+3 3 1 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+409 leather vest~
+A standard leather vest.  Nothing special about it.
+~
+#410
+small wooden shield~
+a small wooden shield~
+A small wooden shield is lying here.~
+~
+9 0 8
+3 3 2 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+410 A small wooden shield.~
+A standard wooden shield.  Nothing special about it.
+~
+#411
+oil lamp~
+an oil lamp~
+An oil lamp is lying here.~
+~
+1 0 1
+0 160 0 0 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#412
+leather sleeves~
+leather sleeves~
+Leather sleeves are lying here.~
+~
+9 0 8
+2 2 2 0 0 0 0
+1 62 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+412 leather sleeves~
+Standard leather sleeves.  Nothing special about them.
+~
+#413
+leather cap~
+a leather cap~
+A leather cap is lying here.~
+~
+9 0 8
+2 2 1 0 0 0 0
+1 36 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+413 leather cap~
+A standard leather cap.  Nothing special about it.
+~
+#414
+leather gloves~
+leather gloves~
+Leather gloves are lying here.~
+~
+9 0 8
+2 2 1 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+414 leather gloves~
+Standard leather gloves. Nothing special about them.
+~
+#415
+leather leggings~
+leather leggings~
+Leather leggings are lying here.~
+~
+9 0 8
+2 2 2 0 0 0 0
+1 48 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+415 leather leggings~
+Standard leather leggings.  Nothing special about them.
+~
+#416
+leather boots~
+leather boots~
+Leather boots are lying here.~
+~
+9 0 8
+1 2 1 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+416 leather boots~
+Standard leather boots.  Nothing special about them.
+~
+#417
+leather belt~
+a leather belt~
+A leather belt is lying here.~
+~
+9 0 8
+2 1 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+417 leather belt~
+A standard leather belt.  Nothing special about it.
+~
+#418
+red hot forge~
+a `#`Rred-hot`^ forge~
+A `#`Rred-hot`^ forge is in the corner.~
+~
+8 1 8
+0 0 0 0 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#420
+wooden donation chest~
+a wooden donation chest~
+A wooden donation chest is here.~
+~
+15 0 8
+0 0 999999 999999 0 0 0
+10 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+420 donation chest wooden~
+The wooden chest here has been purposely built to receive donations from 
+throughout the lands.  
+~
+#421
+runestone rune stone~
+a runestone~
+An unmarked runestone is here.~
+~
+52 64 32
+0 0 0 0 0 0 0
+1 1250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#499
+no name 499~
+`YDO NOT BUILD OBJECTS IN AREA!~
+(no description 499)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1
+The Immortal Office~
+~
+This is the Immortal Office.  If this had been an actual office, you would 
+have been informed that it was an office.  This is only a test.  
+~
+1 840737804 3
+S
+#2
+Limbo~
+~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+1 34604044 0
+S
+#3
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 3
+S
+#4
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 4
+S
+#5
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 5
+S
+#6
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 6
+S
+#7
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 7
+S
+#8
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 8
+S
+#9
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 9
+S
+#10
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 10
+S
+#11
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 11
+S
+#12
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 12
+S
+#13
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 13
+S
+#14
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 14
+S
+#15
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 15
+S
+#16
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 1 16
+R O 0 6 0 16
+S
+#17
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 17
+S
+#18
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 18
+S
+#19
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 19
+S
+#20
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 20
+S
+#21
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 21
+S
+#22
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 22
+S
+#23
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 23
+S
+#24
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 24
+S
+#25
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 25
+S
+#26
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 26
+S
+#27
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 27
+S
+#28
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 28
+S
+#29
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 29
+S
+#30
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 30
+R M 0 2 45 30
+S
+#31
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 31
+S
+#32
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 7
+R M 0 2 45 32
+S
+#33
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 33
+S
+#34
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 34
+S
+#35
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 35
+R M 0 2 45 35
+S
+#36
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 36
+S
+#37
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 37
+S
+#38
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 38
+S
+#39
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 39
+S
+#40
+A bright green clearing~
+~
+You awaken to find youself in a beautiful glade.  Light dances through the 
+leaves, making kalidescopic patterns on the forest floor.  You can hear the 
+quiet, comforting murmur of a small brook, and you are surrounded by peace 
+and calm.  The soft scent of lilac and honeysuckle wafts through the air, 
+mixed with the smell of freshly-baked sweets.  Even the grass beneath your 
+feet seems more lush than any you have ever seen and everything around you 
+is vibrant with with colors and sounds of life.  `1Around you, the trees go so high you can't make out their end.  The light 
+that comes from above, passing through the many leaves, shows a great and 
+colourful pattern on the floor and all around you.  
+~
+1 38011916 0
+R M 0 2 45 40
+S
+#93
+~
+~
+~
+1 4 0
+S
+#100
+Name Change Room~
+~
+Your name is in violation of our name change policy.  Please note imm with 
+your new name, and it will changed.  You will not not be released until your 
+name has been changed.  See HELP NAME for more information.  
+~
+1 1045995660 0
+D0
+~
+~
+0 0 100
+D1
+~
+~
+0 0 100
+D2
+~
+~
+0 0 100
+D3
+~
+~
+0 0 100
+D6
+~
+~
+0 0 100
+D7
+~
+~
+0 0 100
+D8
+~
+~
+0 0 100
+D9
+~
+~
+0 0 100
+S
+#299
+Path of the Damned~
+~
+You are walking on what seems to be a path formed out of an endless rib
+cage.  Huge vertebrae stretch out as a walk way under your feet, preventing
+you from falling into the seemingly endless abyss below.  Huge ribs stick
+out from the infinitely long spinal cord, towering over you.  It is eerily
+quiet all around you, the only sounds are the ones you make.
+~
+1 517742732 3
+D0
+~
+~
+0 0 299
+D1
+~
+~
+0 0 299
+D2
+~
+~
+0 0 299
+D3
+~
+~
+0 0 299
+R O 0 299 0 299
+S
+#499
+`YDO NOT BUILD ROOMS IN AREA!~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

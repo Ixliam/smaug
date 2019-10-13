@@ -1,0 +1,96 @@
+#PLAYER
+Version      6
+Name         Bael~
+Sex          1
+Class        15
+Secondclass  -1
+Thirdclass   -1
+Race         15
+Age          0 14 10 937
+Languages    1 1
+Level        2
+Firstlevel   0
+Secondlevel  0
+Thirdlevel   0
+Played       4791
+Room         33263
+HpManaMove   98 98 110 110 166 141
+BaseHp       0 
+Blood        10 13
+Money         0 10 50 100 2000 -1
+Exp           2000
+Firstexp      0
+Secondexp     0
+Thirdexp      0
+Height        73
+Weight        200
+Act           570426952&4096
+AffectedBy    512
+Channels      chat say swear ooc shout yell icc wartalk event music info ask answer flirt hint auction reunion osay~
+Speed         32
+Position      115
+Style         2
+Practice      3
+SavingThrows  0 0 0 0 0
+Alignment     -1000
+AppBlood      0
+Hitroll       0
+Damroll       0
+Armor         100
+Mentalstate   0
+Password      110df7b381450928d6ee3075d75aaaf8ed4e6930db864f316960da299a4a64a5~
+Title          the young adventurer~
+Lastip         76.111.42.88~
+RECAST          0
+KeepAlive      5
+GetsDExp     0
+LDExpUpdate  1507778052
+tmpsecond -1
+tmpthird -1
+Textspeed          5
+PotionTimer        0 0 0
+FirstExpR          0
+SecondExpR         0
+ThirdExpR          0
+MartialArts        0
+UsedTrade          0
+Faith              0
+ChanInvite         0
+QuestCurr          0
+QuestAccum         0
+MobCount           0
+ObjCount           0
+ArenaWins          0
+ArenaLoss          0
+MapToggle          0
+MapSize            0
+MapDescToggle      0
+MapNameToggle      0
+MapType            0
+Htown      Dakar City~
+Flags        163846
+Bardtimer    0
+Bardsn       0
+PKills       0
+PDeaths      0
+MKills       1
+MDeaths      0
+IllegalPK    0
+AttrPerm     22 18 12 20 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 200 200 0
+Site         76.111.42.88
+LastNews     1479250459
+Holdbreath 0
+Frostbite 0
+Adjust 0
+Killed       33215
+THYQuestN 26 6 0 0 1 0
+MaxColors    111
+Colors       0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 31 22 27 17 23 28 18 24 29 19 25 30 20 26 16 21 8 8 4 9 0 5 8 8 14 8 8 8 4 8 8 11 2 8 8 4 8 8 8 3 8 4 10 8 8 14 8 8 1 4 3 8 8 9 11 11 1 8 3 8 11 3 4 3 2 14 10 11 10 5 4 4 4 9 8 9 9 14 13 9 10 11 2 3 5 4 11 2 6 3 11 9 8 9 5 
+i3perm       0
+i3flags      256
+Portalstonelag     0
+End
+
+#END

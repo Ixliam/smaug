@@ -1,0 +1,579 @@
+#AREA        Misc/SmallQuest Immortal~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#3521
+oldstyle santa claus~
+santa Claus~
+Santa Claus is here, checking on who has been naughty...
+~
+It's a jolly old man, with red cheeks and a roly-poly belly and a laugh
+as jolly as you can get. Must be Santa Claus!
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+44 0 -17 5d8+260 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3522
+unseen general purpose mob prog person~
+unseen general purpose mob prog person~
+I am used to trigger mobprogs.
+~
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3523
+oldstyle pile coins~
+the pile of gold coins~
+A pile of gold coins lies on the ground.
+~
+A large sparkly pile of gold coins.
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+30 0 -10 5d6+160 6d4+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3524
+leech owner bobu~
+the pet store owner~
+An odd, wiry man stands behind the counter.
+~
+An odd, wiry man is here standing behind the counter. He eyes you 
+suspiciously as you look at him. 
+Type <list> to see whats for sale today
+~
+0
+Clanname none~
+0
+0
+65 32 400 C
+100 5 -15 10d13+600 10d15+200
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3582
+no name~
+(no short description)~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#3599
+borlin tall human spirit wizened old ranger~
+the spirit of an old ranger~
+A tall human spirit of a wizened old ranger is here, hovering around the spring.
+~
+This tall humanoid figure looks as if he used to be a human but now is 
+nothing more than an ethereal apparition of what he used to be.  His 
+appearance is that of stern features and appearance. 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+68 1 -38 7d10+355 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3521
+santa's lap~
+santa's lap~
+Santa's lap is here awating the next person in line.~
+~
+12 0 8
+1000 16 100 100 0 0 0
+5 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3523
+a small silver key~
+a small silver key~
+A key is lying here, shimmering in the light.~
+~
+18 2 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3524
+a small silver key~
+a small silver key~
+A key is lying here, shimmering in the light.~
+~
+18 2 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3525
+sign wooden~
+a wooden sign~
+A wooden sign is here, with much writing on its surface.~
+~
+7 256 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3525 wooden sign~
+By decree of the town mayor, Hassan, all dragons and lycanthropes must be in 
+their human forms while inside of Tulgard. `+
+`+
+Vampires are prohibited inside of the city and will be staked on site. `+
+`+
+Please make sure that you read the signs around town and know the laws. 
+~
+#3526
+xeal voodoo doll~
+a voodoo doll~
+A voodoo doll lies here.~
+~
+8 16 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3527
+birthday cake~
+a `#`Mb`Yi`Wr`Yt`Mh`Yd`Wa`Yy`^ cake~
+A `#`Mb`Yi`Wr`Yt`Mh`Yd`Wa`Yy`^ cake is here.~
+~
+19 0 16
+18 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3527 birthday cake~
+Happy Birthday Zaroth!
+One year closer to kicking the can.
+Have a Good Birthday and don't forget that dentues need cleaning too.
+~
+#3528
+christmas present package~
+a birthday present~
+A birthday present lies here.~
+~
+15 2 8
+1 0 1 -10 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3529
+dentures~
+a pair of dentures~
+A pair of shiny white dentures lie here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3530
+piece of cake~
+a piece of birthday cake~
+A piece of birthday cake lies here.~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3572
+tulgard noticeboard~
+tulgard noticeboard~
+A large noticeboard hangs on the wall, pieces of paper tacked to it.~
+~
+15 256 8
+16 0 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3573
+dull brass neckguard~
+`#a `ydull brass`^ neckguard~
+`#a `ydull brass`^ neckguard lies here.~
+~
+9 64 8
+10 11 8 0 0 0 0
+1 2650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3573 dull brass neckguard~
+This simple and rather plain appearing neckguard looks to be made from some 
+sort of dull in colour type of brass.  It has a strange pattern or symbol of 
+some sorts engraved on it. 
+~
+#3574
+dark green leather tunic~
+a dark green leather tunic~
+A dark green leather tunic lies here.~
+~
+9 64 8
+22 23 16 0 0 0 0
+1 2650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3574 dark green leather tunic~
+This decent looking tunic has been made from a sort of leather and been dyed 
+to a dark green.  With leather strippings hanging off the sides of it, and a 
+few chain link straps dangling from the sides, its appearance is rather 
+exotic and looks to be expensive. 
+~
+#3575
+dark green leather pants~
+some dark green leather pants~
+Some dark green leather pants lie here.~
+~
+9 64 8
+15 17 17 0 0 0 0
+1 2650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3575 dark green leather pants~
+This leather pants have been dyed in a dark green dye and polished over with 
+some sort of clear acrylic.  On the belt loops of the pants there is small 
+metal links with holes in them and on the sides the leather is fringed 
+slightly. 
+~
+#3576
+radiant white broadaxe avenger axe~
+a radiant white broadaxe~
+A broadaxe radianting an aura of white lies here.~
+~
+5 64 4
+15 4 20 256 0 0 0
+1 3650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3576 radiant white broadaxe avenger   ~
+This fairly large iron axe seems to glimmer with a white aura of sorts, its 
+blade looks rather shape and looks as if it could slice a tree down in one 
+swipe.  
+~
+#3577
+dark green leather boots~
+some dark green leather boots~
+Some dark green leather boots lie here.~
+~
+9 64 8
+14 11 11 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3577 dark green leather boots~
+These leather books have been dyed in a dark green dye, the soles of the 
+boots appear to have been nailed together to the leather and have been sewn 
+into many layers.  
+~
+#3578
+spiraled green stone~
+`#a spiraled `ggreen stone`^~
+`#A spiraled `ggreen stone`^ lies here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 2650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+3578 spiraled green stone~
+This small stone looks irregular and exotic in dimensional features.  
+Spiraling in a strange way and the colour of emerald this little stone looks 
+like it could be quite valuable.  
+~
+#3579
+flask crystal holy blessed water holywater~
+a flask of holy water~
+A flask of holy water swirls about magically here.~
+~
+8 256 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3580
+small crystal clear spring~
+a small crystal clear spring~
+A small crystal clear spring is here, gushing out of the ground.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3581
+flask crystal wolvesbane silver~
+a flask of ground wolvesbane~
+A flask of ground wolvesbane and silver sits here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#3582
+potion justice red~
+a `#`Rpotion `wof `Rjustice`^~
+A `#`Rbright red`^ potion is here, `Ch`cu`Cm`cm`Ci`cn`Cg`^ with `Ypower`^.~
+~
+10 2 8
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#0
+
+
+#ROOMS
+#3521
+`#`YQUEST ROOMS`^~
+~
+~
+1 4 0
+R M 0 3521 1 3521
+  R G 0 541 0
+  R G 0 400 0
+S
+#3522
+The White Room~
+~
+Your in a room, surrounded by white walls.  Theres a door to the south, but 
+its locked.  `1`1The walls are slowly closing in.  
+~
+1 4194304 2
+D2
+~
+~
+33 3523 3052
+S
+#3523
+An odd room.~
+~
+You've walked inside regular looking room. Tanks of weird, leech creatures 
+are lining the shelves on the side. 
+~
+1 37752844 0
+R M 0 3524 1 3523
+S
+#3524
+Symbiote Room~
+~
+~
+1 4751372 0
+S
+#3531
+Dark Forest~
+~
+You've entered a dark forest.  The trees around you are baren and mysterious 
+crys can be heard echoing through.  The ground is dark, maggots and spiders 
+crawling everywhere.  
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+ 3524    0  0  0  0  0   105 100         0 23    ; the pet store owner
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

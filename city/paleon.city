@@ -1,0 +1,50 @@
+#CITY
+Name          Paleon City~
+Filename      paleon.city~
+Bank          paleon~
+Duke          Margaret~
+Baron         Nicodemus~
+Captain       Legend~
+Sheriff       Verrana~
+Knight        Kyndai~
+Allegiance    Alliance~
+Defense          20
+Offense          420
+OffenseCatapult  2
+DefenseCatapult  1
+Ballista         2
+OffenseSoldiers  50
+DefenseGuards    0
+DefenseArchers   1
+OffenseArchers   50
+DefenseWarriors  1
+OffenseWarriors  50
+Arrows           1
+Platform         2
+Ram              2
+Pitch            1
+Wins             69
+Loses            90
+Recall           16007
+Siege1           3503
+Siege2           16140
+Siege3           16142
+Defend1          16019
+Defend2          16018
+Defend3          16002
+MSoldier         41038
+MArcher          41039
+MGuard           41091
+MWarrior         41092
+OCatapult        41008
+OBallista        41009
+OPitch           41010
+OPlatform        41011
+ORam             41012
+OArrow           41023
+MinHouse         54001
+MaxHouse         55000
+Hardened         0
+End
+
+#END

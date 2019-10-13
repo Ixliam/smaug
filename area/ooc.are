@@ -1,0 +1,544 @@
+#AREA        OOC Rooms~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#30000
+lag beast tyrone leroy jenkins~
+`#`RLeroy `RJenkins`^~
+`#`RLeroy `RJenkins`^ is here, ready for battle.
+~
+Decked out in leather armor with a spiked warrior helm, he is ready for 
+charging in and raising chaos. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+88 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#30000
+rp board~
+rp notes to be readen~
+The `#`?RP`^ board begs you "`#`?Read me, please!!`^"~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+30000 note-3 ~
+I want to apologize for the way this quest slowed down.  As most of you 
+surely noticed, I am not around much, due to a lot of rl things.  And the 
+quest is rather personalized, which means I usually have to rp with only 
+one, or two, of you at a time.  Which slowls the quest down even more.  I 
+will try to get Kriesara and Farheen into this asap, to help me to go on.  `1 `1 Until there, sorry for they delay.  `1 `1 `#`cYlerin`^ 
+~
+E
+30000 note-2 ~
+Now, to the quest itself.
+ 
+This quest will get you all to do things rather different from the day-to-day 
+rp of the mud. Each of you will be contacted by me, and we will discuss what 
+kind of activity you want to work on, what area of interest you have. In fact, 
+that was the purpose of my note, but its meaning got lost by most *chuckle*
+ 
+Most of you will interact IC in the most different ways, all of them far from:
+"Who was killed today?" and "Where can I hunt, do you know" ;)
+Mostly, it will have to do with jobs. Work. You will be either hired by someone, 
+or be given a mission, or maybe invited to join a dark group? *grin*
+ 
+The work and rp you will conduct will not demand any building of areas, or 
+anything. From neither you or us imms (well, prolly I'll have to do something 
+*chuckle*). But if you want to do something, that will be certainly 
+appreciated :)
+ 
+I will be talking to each of you in the next days. So I can know in which part 
+of the quest you will fill better in :)
+ 
+`#`cYlerin`^
+~
+E
+30000 note-1 ~
+Hey, everyone,
+ 
+Welcome to our small (hm, maybe not that small?) quest group. This note is 
+to tell you more about the nature of this quest.
+ 
+Before anything else, we have a sweet rule here: the `#`YRP Golden Rule`^, 
+which is to never, never, never mix ooc and ic. In order to make that easier, 
+avoid to discuss quest matters with pretty much anyone on ooc.
+ 
+First of all, understand that this quest is an effort to bring some realism 
+to our rp. In other words, to create some real rp here :) Thus, expect people 
+to react as in real life. Kings will be insulted, and your actions will have 
+consequences, contrary to what happens 90% of the time here. But I think you 
+already know all of this, so I'll skip this.
+ 
+Another thing you should understand is that this quest will not get you power, 
+or awesome items, or anything like that, out of the blue. Whatever is achieved 
+will be due to your efforts. If you want to be part of something, you must 
+create and work for it. Work here, obviously, means rp. And I must tell you, it 
+will be very, very hard for anyone to get anything. After all, the harder to 
+get, the better it is ;)
+ 
+The third thing you should realize is that this quest will not be lightning 
+fast. On the contrary. You will soon realize you will be involved in something. 
+Everyone else will be involved in something else as well. Hopefully I'll drag 
+some other imms on, but they all have tons of stuff to do. So patience is a 
+must here. This quest may go on for months (I at least hope it will do). Make 
+this our `#`sOOC Silver Rule`^: Patience.
+ 
+The forth thing you should know is that I will be sending tells everytime I 
+see something that strikes me as bad rp. That is not intended to offend anyone, 
+and if at any time you feel so, please tell me. Its purpose will be to help 
+you to be part of the general rp, and to get more fun out of it :)
+ 
+The last thing is that I hope to keep what I start here in a permanent basis. 
+If all goes well, that is what will happen. So, let us all work towards that.
+ 
+`#`cYlerin :)`^
+ 
+P.S. I knew I was forgetting something. This room is to remain secret from the 
+others, the non-participants ;)
+~
+E
+30000 rp board~
+You see a curious-looking board: it is square, with a glass screen over 
+it. On a corner, you see 'Nec' written. You wonder what that means?
+ 
+Notes so far:
+ 
+`#`Cnote-1`^
+`#`Cnote-2`^
+`#`Cnote-3`^
+ 
+Hmm, pretty descriptive the name of the notes, don't you think? ;)
+ 
+`#`cYlerin`^
+~
+#30001
+big plush leather couch~
+a big, plush leather couch~
+A big, plush leather couch sits here, looking big and cushy.~
+~
+12 0 8
+10000 131218 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30002
+big cuban cigar~
+a big cuban cigar~
+A big cuban is here.~
+~
+9 0 8
+60 60 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30003
+golden winged helmet~
+`#`ya `Yg`yo`Yl`yd`Ye`yn `Yw`yi`Yn`yg`Ye`yd helmet`^~
+A helmet with small wings lies here.~
+~
+9 64 8
+60 60 10 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30004
+double-broad axe~
+a `#`Rdouble-broad`^ axe~
+A huge axe with two broad blades lies here.~
+~
+5 0 4
+3 108 151 56 0 0 0
+4 680 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30005
+enstruman~
+an enstruman~
+An enstruman lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30006
+foto-camera~
+a foto-camera~
+A foto-camera lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30007
+ping-pong paddle~
+a ping-pong paddle~
+A ping-pong paddle lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30008
+pimp mug~
+a `#`Wdiamond encrusted `Ygold mug`^~
+A `#`Wdiamond encrusted `Ygold mug`^ belonging to the pimp is here.~
+~
+17 0 16
+2 26 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30009
+pimp cane~
+a `#`Wdiamond encrusted `Ygold pimp cane`^~
+A `#`Wdiamond encrusted `Ygold pimp cane`^ is here.~
+~
+5 1 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#30010
+chrome silver grill~
+`#`SChromed Teeth`^~
+Some `#`Schromed teeth`^ from a pimp are here.~
+~
+11 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#30000
+Chat Room Center~
+~
+This is the centre chat room.  The chat rooms are made so people can come 
+and have both group and private conversations OOC (see help ooc).  The chat 
+rooms are NOT for IC (see help ic) conversations.  While you are in the chat 
+rooms you will not get hungry, thirsty or tired.  Any spell effects on you 
+and or timers, ie Safe timer, will remain the same as when you entered the 
+chat rooms.
+ 
+           ***Please take a LOOK at these special NOTES***
+ 
+To leave the ooc rooms, type 'recall', and you will be transferred back 
+to the room which you entered from.
+~
+1 35390476 0
+D0
+~
+~
+0 0 30008
+D1
+~
+~
+0 0 30002
+D2
+~
+~
+0 0 30004
+D3
+~
+~
+0 0 30006
+D4
+~
+~
+0 0 30009
+D6
+~
+~
+0 0 30001
+D7
+~
+~
+0 0 30003
+D8
+~
+~
+0 0 30005
+D9
+~
+~
+0 0 30007
+R O 0 30001 0 30000
+R M 0 30000 1 30000
+  R E 0 30002 0 28
+  R E 0 30003 0 6
+  R E 0 30004 0 16
+E
+Post3~
+The chat rooms are completely OOC, please do not abuse them.  Examples of said abuse are:
+	IC Conversations
+	and Equipment exchanges
+~
+E
+Post2~
+Please do not drop link in the chat rooms, as time does not pass in the chat rooms dropping 
+link in them will mean you will remain in the game until it is reset or an Immortal forces 
+you to quit.
+~
+E
+Post1~
+Take special note the chat rooms are not to be used by people who have a current PK timer.
+If you have been involved in a PK the chat rooms are not to be used as a safe place to hide.
+You may use them after your timer has run out. 
+~
+E
+Notes~
+There are some POSTINGS here you should read, they are labeled:
+		
+		Post1
+		Post2
+		Post3
+~
+S
+#30001
+Private Chat Room~
+~
+This is a private chat room that only 2 people can use at a time.  
+See NOTES in the central chat room for some more information about 
+the chat rooms and their operation. 
+~
+1 1312268 0
+D8
+~
+~
+0 0 30000
+S
+#30002
+Public Chat Room~
+~
+This is a public chat room that everyone can use.  See NOTES in the 
+central chat room for some more information about the chat rooms 
+and their operation. 
+~
+1 1311756 0
+D3
+~
+~
+0 0 30000
+S
+#30003
+Private Chat Room~
+~
+This is a private chat room that only 2 people can use at a time.  
+See NOTES in the central chat room for some more information about 
+the chat rooms and their operation. 
+~
+1 1312268 0
+D9
+~
+~
+0 0 30000
+S
+#30004
+Public Chat Room~
+~
+This is a public chat room that everyone can use.  See NOTES in the 
+central chat room for some more information about the chat rooms 
+and their operation. 
+~
+1 1311756 0
+D0
+~
+~
+0 0 30000
+S
+#30005
+Private Chat Room~
+~
+This is a private chat room that only 2 people can use at a time.  
+See NOTES in the central chat room for some more information about 
+the chat rooms and their operation. 
+~
+1 1312268 0
+D6
+~
+~
+0 0 30000
+S
+#30006
+Public Chat Room~
+~
+This is a public chat room that everyone can use.  See NOTES in the 
+central chat room for some more information about the chat rooms 
+and their operation. 
+~
+1 1311756 0
+D1
+~
+~
+0 0 30000
+S
+#30007
+Private Chat Room~
+~
+This is a private chat room that only 2 people can use at a time.  
+See NOTES in the central chat room for some more information about 
+the chat rooms and their operation. 
+~
+1 1312268 0
+D7
+~
+~
+0 0 30000
+S
+#30008
+Public Chat Room~
+~
+This is a public chat room that everyone can use.  See NOTES in the 
+central chat room for some more information about the chat rooms 
+and their operation. 
+~
+1 1311756 0
+D2
+~
+~
+0 0 30000
+S
+#30009
+The OOC Loft~
+~
+Up here is the lovely and spacious OOC loft.  From here you can look down 
+and see those in the room below, chatting away about whatever.  This room is 
+solitary, so one can read notes to their heart's content without concern, 
+please enjoy.  
+~
+1 1050624 0
+D5
+~
+~
+0 0 30000
+S
+#30010
+A hole in the World of OOC~
+~
+This room is a solitary confirmed room, not very large in size.  Its main 
+objective is for the lucky person who wants to go into solitary to read 
+notes without people spamming them constantly.  
+~
+1 1051652 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

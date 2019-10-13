@@ -1,0 +1,2887 @@
+#AREA        Laka'Rhi'Nata~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#51800
+terrance the Tinkerer~
+terrance the Tinkerer~
+Terrance the Tinkerer stands here, hawking his wares.
+~
+From the look of him, Terrance seems to be a gypsy.  From experience,
+you know there aren't many gypsies in this part of the world, and you wonder
+how he came to be here.  Nonetheless, he's got a cart full of items, so why
+not take a look at what he's got?  
+
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51801
+Submittant Lazy~
+a Lazy Submittant~
+A lazy submittant strolls here, admiring the gardens and neglecting her studies.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 400 C
+38 38 -13 5d6+225 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51802
+Guard Temple~
+a Temple Guard~
+A Laka'Rhi'Nata Temple guard stands here, watching you warily.
+~
+He's big.  Really big.
+He's strong.  Really strong.
+Better not mess with the ladies of the Order while he's around.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+40 40 -14 5d7+242 4d8+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51803
+dock hand~
+a Dock Hand~
+A dock hand hurries by you, trying to prepare the ferry.
+~
+~
+0
+Clanname none~
+0
+0
+5 0 0 C
+36 36 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51804
+priestess~
+a Priestess~
+A Laka'Rhi'Nata Order Priestess is here, passing on her blessings.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 200 C
+43 43 -15 5d7+245 3d12+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51805
+pilgrim praying~
+a Praying Pilgrim~
+A pilgrim sits here, praying on a bench.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+37 37 -12 5d6+220 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51806
+pilgrim chapel~
+a Pilgrim~
+A pilgrim is here, being blessed by the Priestesses.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+40 40 -13 5d6+225 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51807
+choir member~
+a Choir Member~
+A Laka'Rhi'Nata Choir Member is here, practicing her songs.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 200 C
+47 47 -16 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51808
+boy kitchen~
+a kitchen boy~
+A Kitchen Boy scurries by, helping to prepare food.
+~
+~
+0
+Clanname none~
+0
+0
+129 0 200 C
+49 49 -13 5d6+230 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51809
+girl kitchen~
+a Kitchen Girl~
+A Kitchen Girl scurries by, helping to prepare food.
+~
+~
+0
+Clanname none~
+0
+0
+129 0 200 C
+49 49 -13 5d6+230 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51810
+worker stockhouse~
+a Stockhouse Worker~
+A Stockhouse Worker runs by, carrying supplies.
+~
+~
+0
+Clanname none~
+0
+0
+1 0 200 C
+53 53 -23 5d9+295 6d7+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51811
+pilgrim male~
+a Male Pilgrim~
+A Male Pilgrim is here, spending the night.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+56 56 -26 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51812
+pilgrim female~
+a Female Pilgrim~
+A Female Pilgrim is here, spending the night.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+56 56 -26 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51813
+tithe collector~
+the Tithe Collector~
+The tithe collector stands here, asking for your donations.
+~
+The tithe collector for the Laka'Rhi'Nata has chose, as his post, the
+spot in front of the Portrait of Crane.  As people come by, he simply asks
+for their tithes, and as a reward, gives them a glimpse of the ancient
+portrait of the first Laka'Rhi.  
+
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51814
+spirit crane~
+the Spirit of Crane~
+The Spirit of Crane hovers here, forlorn and lost.
+~
+~
+0
+Clanname none~
+0
+0
+33 524288 600 C
+70 70 -39 7d10+355 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51815
+guard gallery~
+a Gallery Guard~
+A Temple Gallery Guard stands here, protecting the ladies of the Order.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 600 C
+63 63 -34 6d10+340 8d7+30
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51816
+submittant~
+a Submittant~
+A Submittant is here, hard at work on her studies.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 600 C
+66 66 -36 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51817
+priestess resting~
+a Resting Priestess~
+A Priestess is here, resting quietly in her room.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 400 C
+69 69 -39 7d10+355 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51818
+tahari advisor chief~
+tahari the Chief Advisor~
+Tahari, the Chief Advisor stands here, screening the Laka'Rhi's visitors.
+~
+~
+0
+Clanname none~
+0
+0
+5 4096 400 C
+73 73 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51819
+palatina laka'rhi~
+laka'Rhi Palatina~
+Laka'Rhi Palatina sits here, relaxing in her private chambers.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 600 C
+77 77 -47 8d11+385 8d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51820
+octaviana~
+octaviana, Crane Reborn~
+Octaviana is here, wasting away in this cell.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 600 C
+76 75 -49 8d11+395 9d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51821
+spirit unquiet~
+an Unquiet Spirit~
+An unquiet spirit hovers here, screaming her agony.
+~
+~
+0
+Clanname none~
+0
+0
+33 524288 0 C
+40 40 -13 5d6+230 5d6+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#51822
+bob captain~
+captain Bob~
+Captain Bob is here, trying to fix his boat...again...
+~
+He looks to be quite the salty chap.  Gruff and rude, he looks as
+though he'd just as soon stab you as take you across the lake.  But... 
+Money changes everything...  
+
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+90 0 0 1d1+1 1d1+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#51800
+dream dagger runic~
+the `#`BD`Cr`We`Ca`Bm`^ Dagger~
+A dagger lies here, glowing light blue.~
+~
+5 64 4
+5 46 59 10 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51801
+rutabaga~
+a rutabaga~
+A rutabaga lies here...better take it before it rots.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51802
+wine strawberry~
+A flask of Strawberry Wine~
+A leather flask with it's rim stained pink lies here.~
+~
+17 0 16
+10 2 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51803
+hat pilgrim~
+a pilgrim's hat~
+A rough, old leather hat lies here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51804
+oar~
+a boat oar~
+An old boat oar lies here...it looks like it's beginning to rot.~
+~
+5 0 4
+3 46 59 32 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51805
+novel romance~
+A romance novel~
+A tattered paperback romance novel lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51806
+helm crane's~
+Crane's Helm~
+A strange silver helmet lies here, glowing a pale blue.~
+~
+9 64 8
+45 45 14 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51807
+dream reaver sword~
+the `#`BD`Cr`We`Ca`Bm`^ Reaver~
+A silver sword lies here, glowing a pale blue.~
+~
+5 256 4
+3 81 117 14 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51808
+mace tahari's~
+`#`RT`rahari's `sM`wace`^~
+A very sturdy-looking mace lies here.~
+~
+5 64 4
+5 97 134 64 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51809
+robe of righteousness~
+Robe of Righteousness~
+A beautiful silk robe lies here, getting dirty.~
+~
+9 256 8
+50 50 15 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51810
+staff serpent~
+Serpent Staff~
+A strange staff, carved like writhing snakes, lies here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#51811
+ball soul octaviana's~
+`#`CO`cctaviana's `RS`roul`^~
+A strange ball, glowing blue, lies on the ground here.~
+~
+32 64 32
+0 0 0 0 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51812
+herbs magic~
+some herbs~
+Some herbs with vibrant yellow flowers lie here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#51813
+beach portal~
+the beach portal~
+A magical portal stands here, leading back to the mainland.~
+~
+29 64 16
+12288 1 51801 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#51814
+staff vengeance~
+a `#`CStaff`^ of `CV`cen`sgea`cnc`Ce`^~
+The staff of vengeance lies here.~
+~
+5 1 4
+3 30 20 2084 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#51800
+Edge of a Dense Forest~
+~
+You stand at the edge of a dense forest.  Behind you, the trees seem like a 
+wall, cutting you off from all but what lies ahead.  Before you, there is an 
+inviting sandy beach, and beyond that, a beautiful, crystal clear lake.  
+From here, you may either return into the forest and to the main road, or 
+continue on toward the lake.  
+~
+1 4 3
+D0
+~
+~
+0 0 51801
+S
+#51801
+On the Beach~
+~
+You stand on the sandy beach of the Crystalline Lake.  Clear, blue water 
+shines before you, and the eternally shifting sand rests beneath your feet.  
+Close by, you can see a boat dock and a tired-looking ferryboat tied to the 
+dock's moorings.  Out on the lake, you can see a small island upon which 
+rests perhaps the most majestic and etherial temple you've ever seen.  
+Perhaps you can find the ferryboat's captain and bribe your way across the 
+lake...   
+~
+1 0 2
+D0
+~
+~
+0 0 51802
+D2
+~
+~
+0 0 51800
+S
+#51802
+On the dock~
+~
+You stand on an old, creaking dock.  Moored to it's rotting pillars is
+a sad-looking ferryboat.  Cap'n Bob, the ferry's owner, is busily attending
+to his vessel.  You can see the temple on the island out in the middle of
+the Crystalline Lake; perhaps if you ask nice enough and give him enough
+money, he'll take you across.  
+
+~
+1 4 2
+D2
+~
+~
+0 0 51801
+R M 0 51822 1 51802
+R M 0 51803 2 51802
+  R E 0 51804 0 16
+S
+#51803
+Island Docks~
+~
+You've finally made it to the island in the middle of the Crystalline
+Lake, although you don't know exactly how you've made it.  Cap'n Bob's boat
+was far from seaworthy, and the docks on this side of the lake are no better
+than the ones you just left.  From here, you may go north and explore the
+temple.  
+
+~
+1 4 0
+D0
+~
+~
+0 0 51804
+S
+#51804
+On A RockY Beach~
+~
+You stand on a rocky beach just beyond the island's docks.   To the
+left of you, the beach extends for a few more feet, and to the right of you,
+a tinkerer with a cart has somehow made it across the lake to sell his
+wares.   From here, you may go east and haggle with the tinkerer, or
+west and explore the beach.  
+
+~
+1 0 2
+D0
+~
+~
+0 0 51807
+D1
+~
+~
+0 0 51806
+D2
+~
+~
+0 0 51803
+D3
+~
+~
+0 0 51805
+S
+#51805
+On a sandy beach~
+~
+Well, there's not much to do here, unless you're into gazing at the
+temple on the island or letting your feet dangle in the cool water of the
+lake.  Why not just get on with it and go back to the path.  
+
+~
+1 0 2
+D1
+~
+~
+0 0 51804
+R O 0 51813 0 51805
+S
+#51806
+A more rocky section of beach~
+~
+This part of the beach is considerably more rocky than the rest.  There
+is a cart nearby, sitting precariously on the severely tilted ground. 
+Looking at it, you wonder how anything could remain here and remain upright.
+ 
+~
+1 4 2
+D3
+~
+~
+0 0 51804
+R M 0 51800 1 51806
+  R G 0 51802 0
+  R G 0 51803 0
+  R G 0 51801 0
+S
+#51807
+The Courtyard path~
+~
+You stand on a path leading to the temple.  Up ahead, a grand courtyard
+opens up before you, filled with benches, trees and flowers.  Beyond the
+courtyard, you can see the great oaken door of the temple itself.  
+
+~
+1 0 2
+D0
+~
+~
+0 0 51808
+D2
+~
+~
+0 0 51804
+R M 0 51801 2 51807
+  R G 0 51805 0
+S
+#51808
+The Laka'Rhi'Nata Grand Courtyard~
+~
+Plants and trees of all kinds surround you on all sides.  A garden the
+likes of this is rarely seen anywhere, and by simply looking, you can tell
+the Sisters of the Laka'Rhi take great pride in their horticulture. 
+Fountains and benches are nestled here and there, some just next to the
+path, some almost out of sight, seemingly lost in the garden's glorious
+tangles.  Just ahead is the massive door to the temple, and behind you lies
+the beach.  
+
+~
+1 0 2
+D0
+~
+~
+1 0 51809
+D2
+~
+~
+0 0 51807
+R M 0 51802 2 51808
+  R E 0 51800 0 16
+S
+#51809
+Inside the door to the temple~
+~
+You stand just inside the door of the temple, inside it's musty, dank
+vestibule.  The main chapel lies spread out before you, filled will pilgrims
+and Laka'Rhi Priestesses.  To either side, there are small rooms used for
+private prayer.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51812
+D1
+~
+~
+1 0 51811
+D2
+~
+~
+1 0 51808
+D3
+~
+~
+1 0 51810
+S
+#51810
+Prayer Closet~
+~
+You stand in a small room which is actually no larger than a broom
+closet.  A small bench has been placed along one wall, and a sculpture of a
+golden crane has been set against the other.  As you look around, it becomes
+obvious that this room is reserved for private prayer.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51809
+R M 0 51805 2 51810
+S
+#51811
+Prayer Closet~
+~
+You stand in a small room which is actually no larger than a broom
+closet.  A small bench has been placed alon one wall, and a sculpture of a
+golden crane has been set against the other.  As you look around, it becomes
+obvious that this room is reserved for private prayer.  
+
+~
+1 1024 0
+D3
+~
+~
+1 0 51809
+R M 0 51805 2 51811
+S
+#51812
+Chapel Center Aisle~
+~
+You stand in the magnificent center aisle of the Laka'Rhi'Nata main
+chapel.  Looking ahead of you, you can see that it extends before you all
+the way to the pulpit, where the current Laka'Rhi, Palatina, delivers her
+teachings.  A few rows of pews line either side of the aisle, filled with
+Priestesses and pilgrims.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51815
+D1
+~
+~
+0 0 51814
+D2
+~
+~
+0 0 51809
+D3
+~
+~
+0 0 51813
+S
+#51813
+Chapel Pew~
+~
+You stand between two rows of pews situated in the main chapel. 
+Pilgrims mill all around you, resting on the pews, praying, and recieving
+blessings from the Priestesses.  Another row of pews is directly in front of
+you, and the main aisle is to your right.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51816
+D1
+~
+~
+0 0 51812
+R M 0 51804 2 51813
+R M 0 51806 2 51813
+S
+#51814
+Chapel Pew~
+~
+You stand between two rows of pews situated in the main chapel. 
+Pilgrims mill all around you, resting on the pews, praying, and recieving
+blessings from the Priestesses.  Another row of pews is in front of you, and
+the main aisle is to your left.   
+~
+1 0 0
+D0
+~
+~
+0 0 51817
+D3
+~
+~
+0 0 51812
+S
+#51815
+Chapel Center Aisle~
+~
+You stand in the magnificent center aisle of the Laka'Rhi'Nata main
+chapel.  Looking ahead of you, you can see that it extends before you all
+the way to the pulpit, where the current Laka'Rhi, Palatina, delivers her
+teachings.  A few rows of pews line either side of the aisle, filled with
+Priestesses and pilgrims.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51818
+D1
+~
+~
+0 0 51817
+D2
+~
+~
+0 0 51812
+D3
+~
+~
+0 0 51816
+S
+#51816
+Chapel Pew~
+~
+You stand before a row of pews situated in the main chapel.  Pilgrims
+mill all around you, resting on the pews, praying and recieving blessings
+from the Priestesses.  Another row of pews lies behind you, and the main
+aisle is to your right.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51815
+D2
+~
+~
+0 0 51813
+S
+#51817
+Chapel Pew~
+~
+You stand before a row of pews situated in the main chapel.  Pilgrims
+mill all around you, resting on the pews, praying, and recieving blessings
+from the Priestesses.  Another row of pews lies behind you, and the main
+aisle is to your left.  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51814
+D3
+~
+~
+0 0 51815
+R M 0 51806 2 51817
+R M 0 51804 2 51817
+S
+#51818
+Chapel Center Aisle~
+~
+You stand in the magnificent center aisle of the Laka'Rhi'Nata main
+chapel.  Looking ahead of you, you can see that it extends before you all
+the way to the pulpit.  A few rows of choir benches line either side of the
+aisle.  
+
+~
+1 4 0
+D0
+~
+~
+0 0 51825
+D1
+~
+~
+0 0 51822
+D2
+~
+~
+0 0 51815
+D3
+~
+~
+0 0 51819
+S
+#51819
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two more rows of benches to your
+left, and the main aisle is to your right.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51826
+D1
+~
+~
+0 0 51818
+D3
+~
+~
+0 0 51820
+R M 0 51807 12 51819
+S
+#51820
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There is a row of benches to your left, and a
+row of benches to your right; the main aisle is further to your right.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51827
+D1
+~
+~
+0 0 51819
+D3
+~
+~
+0 0 51821
+R M 0 51807 12 51820
+S
+#51821
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your right,
+and the main aisle is further to your right.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51828
+D1
+~
+~
+0 0 51820
+R M 0 51807 12 51821
+S
+#51822
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your right,
+and the main aisle is to your left.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51829
+D1
+~
+~
+0 0 51823
+D3
+~
+~
+0 0 51818
+R M 0 51807 12 51822
+S
+#51823
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There is a row of benches to your right, and a
+row of benches to your left; the main aisle is further to your left.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51830
+D1
+~
+~
+0 0 51824
+D3
+~
+~
+0 0 51822
+R M 0 51807 12 51823
+S
+#51824
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your left, and
+the main aisle is further to your left.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51831
+D3
+~
+~
+0 0 51823
+R M 0 51807 12 51824
+S
+#51825
+Chapel Center Aisle~
+~
+You stand in the magnificent center aisle of the Laka'Rhi'Nata main
+chapel.  As you step across the floor here, it sounds strangely hollow
+compared to the rest of the floor.  Looking behind you, you can see that the
+aisle extends all the way back to the main chapel door, and to the pulpit
+directly in front of you.  A few rows of choir benches line either side of
+the aisle.  
+
+~
+1 4 0
+D0
+~
+~
+0 0 51832
+D1
+~
+~
+0 0 51829
+D2
+~
+~
+0 0 51818
+D3
+~
+~
+0 0 51826
+D5
+~
+~
+1 0 51895
+S
+#51826
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your left, and
+the main aisle is to your right.  
+
+~
+1 0 0
+D0
+~
+~
+1 0 51833
+D1
+~
+~
+0 0 51825
+D2
+~
+~
+0 0 51819
+D3
+~
+~
+0 0 51827
+R M 0 51807 12 51826
+S
+#51827
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There is a row of benches to your left, and a
+row of benches to your right; the main aisle is further to your right.  
+~
+1 0 0
+D1
+~
+~
+0 0 51826
+D2
+~
+~
+0 0 51820
+D3
+~
+~
+0 0 51828
+R M 0 51807 12 51827
+S
+#51828
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your right,
+and the main aisle is further to your right.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51827
+D2
+~
+~
+0 0 51821
+R M 0 51807 12 51828
+S
+#51829
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your right,
+and the main aisle is to your left.  
+
+~
+1 0 0
+D0
+~
+~
+1 0 51834
+D1
+~
+~
+0 0 51830
+D2
+~
+~
+0 0 51822
+D3
+~
+~
+0 0 51825
+R M 0 51807 12 51829
+S
+#51830
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There is a row of benches to your right, and a
+row of benches to your left; the main aisle is further to your left.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51831
+D2
+~
+~
+0 0 51823
+D3
+~
+~
+0 0 51829
+R M 0 51807 12 51830
+S
+#51831
+Chapel Choir Loft~
+~
+You stand between two rows of choir benches.  Hymnals are scattered
+about here and there, and the occasional Priestess or Submittant can be
+found practicing her hymns.  There are two rows of benches to your left, and
+the main aisle is further to your left.  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51824
+D3
+~
+~
+0 0 51830
+R M 0 51807 12 51831
+S
+#51832
+Chapel Pulpit~
+~
+This pulpit is large compared to any you have seen before.  It has
+golden cranes attached to it's front, and there are several shelves on it's
+back containing papers, hymnals and the Laka'Rhi prayer book.  The chapel's
+main aisle extends behind you, and there is a small space in front of you,
+as well.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51835
+D2
+~
+~
+0 0 51825
+S
+#51833
+Choir Loft Closet~
+~
+This closet isn't much to look at.  Old choir robes and out-dated
+hymnals lie scattered around everywhere.  There is a thick coat of dust on
+everything, and just looking at the dust makes you want to sneeze.  
+
+~
+1 0 0
+D2
+~
+~
+1 0 51826
+S
+#51834
+Choir Loft Closet~
+~
+This closet isn't much to look at.  Old choir robes and out-dated
+hymnals lie scattered around everywhere.  THere is a thick coat of dust on
+everything, and just looking at the dust makes you want to sneeze.  
+
+~
+1 0 0
+D2
+~
+~
+1 0 51829
+S
+#51835
+Behind the Pulpit~
+~
+You stand behind the pulpit of the Laka'Rhi'Nata.  There are two large
+leather chairs here, perhaps where the Laka'Rhi Palatina and Chief Advisor
+Tahari rest prior to and after a sermon.  There are huge shelves of ancient
+books to your right and left, as well as large doors.  The pulpit is just
+behind you along with the chapel's center aisle.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51837
+D2
+~
+~
+0 0 51832
+D3
+~
+~
+0 0 51836
+S
+#51836
+Laka'Rhi'Nata Library~
+~
+You stand before what serves as the temple library.  There aren't may
+books here, but the books they have are very important.  Most, however, are
+books that show the Laka'Rhi order in a good light.  There is a door to your
+right, and the stack of books is directly in front of you.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51835
+D4
+~
+~
+0 0 51863
+S
+#51837
+Laka'Rhi'Nata Library~
+~
+You stand before what serves as the temple library.  There aren't many
+books here, but the books they have are very important.  Most, however, are
+books that show the Laka'Rhi order in a good light.  There is a door to your
+left, and the stack of books is directly in front of you.  
+
+~
+1 0 0
+D3
+~
+~
+0 0 51835
+D4
+~
+~
+0 0 51865
+S
+#51838
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51841
+D1
+~
+~
+0 0 51839
+D4
+~
+~
+0 0 51862
+D6
+~
+~
+0 0 51842
+R M 0 51808 10 51838
+S
+#51839
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51842
+D1
+~
+~
+0 0 51840
+D3
+~
+~
+0 0 51838
+R M 0 51809 10 51839
+S
+#51840
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51843
+D3
+~
+~
+0 0 51839
+D4
+~
+~
+0 0 51866
+D9
+~
+~
+0 0 51842
+R M 0 51808 10 51840
+S
+#51841
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51844
+D1
+~
+~
+0 0 51842
+D2
+~
+~
+0 0 51838
+R M 0 51809 10 51841
+S
+#51842
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51845
+D1
+~
+~
+0 0 51843
+D2
+~
+~
+0 0 51839
+D3
+~
+~
+0 0 51841
+D6
+~
+~
+0 0 51846
+D7
+~
+~
+0 0 51840
+D8
+~
+~
+0 0 51838
+D9
+~
+~
+0 0 51844
+R M 0 51808 10 51842
+R M 0 51809 10 51842
+S
+#51843
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51846
+D2
+~
+~
+0 0 51840
+D3
+~
+~
+0 0 51842
+R M 0 51809 10 51843
+S
+#51844
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51845
+D2
+~
+~
+0 0 51841
+D7
+~
+~
+0 0 51842
+R M 0 51808 10 51844
+S
+#51845
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51849
+D1
+~
+~
+0 0 51846
+D2
+~
+~
+0 0 51842
+D3
+~
+~
+0 0 51844
+R M 0 51809 10 51845
+S
+#51846
+Inside the Laka'Rhi'Nata kitchen~
+~
+You stand in the busy kitchen of the Laka'Rhi'Nata.  Young boys and
+girls scurry about, chopping vegetables, preparing meat, and delivering
+trays of steaming food.  You consider a quick bite off one of the trays
+until you spy the kitchen's overseer, a very large, very stern-looking
+woman.  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51843
+D3
+~
+~
+0 0 51845
+D8
+~
+~
+0 0 51842
+R M 0 51808 10 51846
+S
+#51847
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51848
+S
+#51848
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51853
+D1
+~
+~
+0 0 51849
+D3
+~
+~
+0 0 51847
+S
+#51849
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 4 0
+D0
+~
+~
+0 0 51854
+D1
+~
+~
+0 0 51850
+D2
+~
+~
+0 0 51845
+D3
+~
+~
+0 0 51848
+S
+#51850
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51855
+D1
+~
+~
+0 0 51851
+D3
+~
+~
+0 0 51849
+S
+#51851
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 0 0
+D3
+~
+~
+0 0 51850
+S
+#51852
+Inside the Laka'Rhi'Nata Storage House~
+~
+You stand inside a frail-looking wooden building designed to store the
+foodstuffs for the ladies of the Laka'Rhi order.  A few cattle stand in
+their stalls, mooing at you as you pass by.  In here, as well, pigs and
+chickens roam free.  There are barrels of vegetables lining the walls, and
+sacks of grain are propped haphazardly everywhere.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51857
+D1
+~
+~
+1 0 51853
+R M 0 51810 3 51852
+S
+#51853
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 4 0
+D0
+~
+~
+1 0 51859
+D1
+~
+~
+0 0 51854
+D2
+~
+~
+0 0 51848
+D3
+~
+~
+1 0 51852
+S
+#51854
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 4 0
+D1
+~
+~
+0 0 51855
+D2
+~
+~
+0 0 51849
+D3
+~
+~
+0 0 51853
+S
+#51855
+The Laka'Rhi'Nata Inner Bailey~
+~
+You are standing in the inside the temple's inner bailey.  It is paved
+with rough stones, and pieces of grass poke up between the stones here and
+there.  Livestock, such as pigs and chickens, seem to have free reign here,
+as you must dodge them with almost every step.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51860
+D1
+~
+~
+0 0 51856
+D2
+~
+~
+0 0 51850
+D3
+~
+~
+0 0 51854
+S
+#51856
+Female pilgrim's quarters~
+~
+This is a room for a female pilgrim that has no where else to stay. 
+For a minimum donation to the temple, a woman can spend the night here in a
+semi-clean, semi-warm bed, and at least have some warm food in her sotmach. 
+From the looks of the place, perhaps they should ask for a little bit more
+of a donation from the pilgrims that use this room.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51861
+D3
+~
+~
+0 0 51855
+R M 0 51812 2 51856
+S
+#51857
+Inside the Laka'Rhi'Nata Storage House~
+~
+You stand inside a frail-looking wooden building designed to store the
+foodstuffs for the ladies of the Laka'Rhi order.  A few cattle stand in
+their stalls, mooing at you as you pass by.  In here, as well, pigs and
+chickens roam free.  There are barrels of vegetables lining the walls, and
+sacks of grain are propped haphazardly everywhere.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51858
+D2
+~
+~
+0 0 51852
+S
+#51858
+Inside the Laka'Rhi'Nata Storage House~
+~
+You stand inside a frail-looking wooden building designed to store the
+foodstuffs for the ladies of the Laka'Rhi order.  A few cattle stand in
+their stalls, mooing at you as you pass by.  In here, as well, pigs and
+chickens roam free.  There are barrels of vegetables lining the walls, and
+sacks of grain are propped haphazardly everywhere.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51859
+D3
+~
+~
+0 0 51857
+S
+#51859
+Inside the Laka'Rhi'Nata Storage House~
+~
+You stand inside a frail-looking wooden building designed to store the
+foodstuffs for the ladies of the Laka'Rhi order.  A few cattle stand in
+their stalls, mooing at you as you pass by.  In here, as well, pigs and
+chickens roam free.  There are barrels of vegetables lining the walls, and
+sacks of grain are propped haphazardly everywhere.  
+
+~
+1 0 0
+D2
+~
+~
+1 0 51853
+D3
+~
+~
+0 0 51858
+S
+#51860
+Male pilgrim's quarters~
+~
+This is a room for a male pilgrim that has no where else to stay.  For a
+minimum donation to the temple, a man can spend the night here in a
+semi-clean, semi-warm bed, and at least have some warm food in his stomach. 
+From the looks of the place, perhaps they should ask for a little bit more
+of a donation from the pilgrims that use this room.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51861
+D2
+~
+~
+0 0 51855
+R M 0 51811 1 51860
+S
+#51861
+Pilgrim washroom~
+~
+This dirty little room is what passes as a washroom for the pilgrims
+who stay in the rooms to the west and south of here.  From the looks of
+things here, you would get dirtier trying to clean up than you were to start
+with.  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51856
+D3
+~
+~
+0 0 51860
+S
+#51862
+Laka'Rhi'Nata Hall of Portraits~
+~
+You stand in an ornate marble hallway, extends to your left.  On
+either side of you hangs portraits of Laka'Rhis come and gone, some ancient,
+some more modern.  There is a door leading to a staircase going down behind
+you, and a long, balconied hall with many doors extends out before you.  
+
+~
+1 4 0
+D1
+~
+~
+0 0 51863
+D2
+~
+~
+0 0 51868
+D5
+~
+~
+0 0 51838
+R M 0 51815 5 51862
+  R E 0 51807 0 16
+S
+#51863
+Laka'Rhi'Nata Hall of Portraits~
+~
+You stand in an ornate marble hallway, extending to your left.  On
+either side of you hangs portraits of Laka'Rhis come and gone, some ancient,
+some more modern.  There is a door leading to a staircase going down behind
+you.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51864
+D3
+~
+~
+0 0 51862
+D5
+~
+~
+0 0 51836
+S
+#51864
+Laka'Rhi'Nata Hall of Portraits~
+~
+You stand in the center of the Hall of Portraits.  This is a holy place
+for the order; it's the spot they reserve to honor Crane, the very first
+Laka'Rhi.  Her portrait adorns the wall, and the floor just below it is worn
+from many knees bent in prayer.  There is a door opening on to a staircase
+that leads up behind you, and the Hall of Portraits spreads to your left and
+right.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51865
+D3
+~
+~
+0 0 51863
+D4
+~
+~
+0 0 51891
+R M 0 51813 1 51864
+S
+#51865
+Laka'Rhi'Nata Hall of Portraits~
+~
+You stand in an ornate marble hallway, extending to your left.  On
+either side of you hangs portraits of Laka'Rhis come and gone, some ancient,
+some more modern.  There is a door leading to a staircase going down behind
+you.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51866
+D3
+~
+~
+0 0 51864
+D5
+~
+~
+0 0 51837
+S
+#51866
+Laka'Rhi'Nata Hall of Portraits~
+~
+You stand in an ornate marble hallway, extending to your left.  On
+either side of you hangs portraits of Laka'Rhis come and gone, some ancient,
+some more modern.  There is a door leading to a staircase going down behind
+you, and a long, balconied hallway with many doors extends out before you.  
+
+~
+1 4 0
+D2
+~
+~
+0 0 51869
+D3
+~
+~
+0 0 51865
+D5
+~
+~
+0 0 51840
+R M 0 51815 5 51866
+  R E 0 51807 0 16
+S
+#51867
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51868
+R M 0 51816 3 51867
+  R G 0 51812 0
+S
+#51868
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51862
+D2
+~
+~
+0 0 51872
+D3
+~
+~
+1 0 51867
+S
+#51869
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51866
+D1
+~
+~
+1 0 51870
+D2
+~
+~
+0 0 51873
+S
+#51870
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51869
+S
+#51871
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51872
+S
+#51872
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51868
+D2
+~
+~
+0 0 51876
+D3
+~
+~
+1 0 51871
+S
+#51873
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51869
+D1
+~
+~
+1 0 51874
+D2
+~
+~
+0 0 51877
+S
+#51874
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51873
+R M 0 51817 3 51874
+  R G 0 51812 0
+S
+#51875
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51876
+R M 0 51816 3 51875
+  R G 0 51812 0
+S
+#51876
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51872
+D2
+~
+~
+0 0 51880
+D3
+~
+~
+1 0 51875
+S
+#51877
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51873
+D1
+~
+~
+1 0 51878
+D2
+~
+~
+0 0 51881
+S
+#51878
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51877
+S
+#51879
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51880
+S
+#51880
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51876
+D2
+~
+~
+0 0 51884
+D3
+~
+~
+1 0 51879
+S
+#51881
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51877
+D1
+~
+~
+1 0 51882
+D2
+~
+~
+0 0 51885
+S
+#51882
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51881
+R M 0 51817 3 51882
+  R G 0 51812 0
+S
+#51883
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51884
+S
+#51884
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51880
+D2
+~
+~
+0 0 51888
+D3
+~
+~
+1 0 51883
+S
+#51885
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  The hall stretches
+out before you, and behind you is the Laka'Rhi'Nata Hall of Portraits.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51881
+D1
+~
+~
+1 0 51886
+D2
+~
+~
+0 0 51889
+S
+#51886
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51885
+R M 0 51817 3 51886
+  R G 0 51812 0
+S
+#51887
+Submittant's Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D1
+~
+~
+1 0 51888
+R M 0 51816 3 51887
+R M 0 51812 2 51887
+S
+#51888
+Submittant Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+left, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+right, you find an ornate wooden door, which is closed.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51884
+D3
+~
+~
+1 0 51887
+R M 0 51815 5 51888
+  R E 0 51806 0 6
+S
+#51889
+Priestess Gallery~
+~
+You stand in a long hallway.  If you look over the balcony to your
+right, you can see the magnificent Laka'Rhi'Nata temple's chapel.  To your
+left, you find an ornate wooden door, which is closed.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51885
+D1
+~
+~
+1 0 51890
+R M 0 51815 5 51889
+  R E 0 51806 0 6
+S
+#51890
+Priestess' Room~
+~
+This room, while sparse, seems as though it would be comfortable. 
+There is a small bed along one wall, and a small chest of drawers along
+another wall near a small, open window.  
+
+~
+1 0 0
+D3
+~
+~
+1 0 51889
+S
+#51891
+Laka'Rhi Palatina's Audience Chamber~
+~
+You stand in the opulent audience chamber of Palatina, the current
+Laka'Rhi.  This is the place where Palatina meets pilgrims and ambassadors
+to speak with them, either about religious or political matters.  There is a
+highly-decorated door to the north, but it seems to be locked.  
+
+~
+1 0 0
+D0
+~
+~
+1 0 51892
+D5
+~
+~
+0 0 51864
+R M 0 51818 1 51891
+  R E 0 51808 0 16
+S
+#51892
+Palatina's Sitting Room~
+~
+You find yourself in Palatina's private sitting room.  This is by far
+the most opulent room in the temple.  Velvet cushioned chairs fill the room,
+and thick, plush carpet covers the floor.  The windows are heavily draped
+with rich damask, and the walls are painted a bright blue.  There seems to
+be another room up ahead, and the door to the Audience chamber is behind
+you.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51893
+D2
+~
+~
+1 0 51891
+S
+#51893
+Palatina's Private Chambers~
+~
+You stand in the private bedroom of Laka'Rhi Palatina.  The room is
+magnificent to behold, and you think about the poor pilgrims, sleeping in
+such dirty rooms and wonder why some of this wealth can't be spent on them. 
+Behind you is the Laka'Rhi's sitting room, and there seems to be some kind
+of trap door in the ceiling above your head.  Perhaps that's what the ladder
+is for that's propped up agains the far wall...  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51892
+D4
+~
+~
+1 0 51894
+R M 0 51819 1 51893
+  R E 0 51809 0 12
+  R E 0 51810 0 17
+S
+#51894
+Octaviana's Cell~
+~
+This dismal place seems to be a secret prison cell of some kind.  When
+you first glimpsed this magnificent temple, you would never have dreamed
+such a horrible place existed somewhere inside.  This is the place where
+Palatina, fearful of losing her position as Laka'Rhi, has placed Crane
+Reborn, Octaviana.  
+
+~
+1 0 0
+D5
+~
+~
+1 0 51893
+R M 0 51820 1 51894
+  R G 0 51811 0
+S
+#51895
+Laka'Rhi'Nata Catacombs~
+~
+You stand in the dank, smelly underground catacombs of the
+Laka'Rhi'Nata.  The earthly remains of the Laka'Rhi's of the past lie here,
+most nothing more than bone and a few scraps of material.  A cool wind blows
+through the catacombs, chilling you to the bone.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51896
+D4
+~
+~
+1 0 51825
+R M 0 51821 3 51895
+S
+#51896
+Laka'Rhi'Nata Catacombs~
+~
+You stand in the dank, smelly underground catacombs of the
+Laka'Rhi'Nata.  The earthly remains of the Laka'Rhi's of the past lie here,
+most nothing more than bone and a few scraps of material.  A cool wind blows
+through the catacombs, chilling you to the bone.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51897
+D3
+~
+~
+0 0 51895
+S
+#51897
+Laka'Rhi'Nata Catacombs~
+~
+You stand in the dank, smelly underground catacombs of the
+Laka'Rhi'Nata.  The earthly remains of the Laka'Rhi's of the past lie here,
+most nothing more than bone and a few scraps of material.  A cool wind blows
+through the catacombs, chilling you to the bone.  
+
+~
+1 0 0
+D1
+~
+~
+0 0 51898
+D3
+~
+~
+0 0 51896
+R M 0 51821 3 51897
+S
+#51898
+Laka'Rhi'Nata Catacombs~
+~
+You stand in the dank, smelly underground catacombs of the
+Laka'Rhi'Nata.  The earthly remains of the Laka'Rhi's of the past lie here,
+most nothing more than bone and a few scraps of material.  A cool wind blows
+through the catacombs, chilling you to the bone.  
+
+~
+1 0 0
+D2
+~
+~
+0 0 51899
+D3
+~
+~
+0 0 51897
+S
+#51899
+Laka'Rhi'Nata Catacombs~
+~
+You stand in the dank, smelly underground catacombs of the
+Laka'Rhi'Nata.  The earthly remains of the Laka'Rhi's of the past lie here,
+most nothing more than bone and a few scraps of material.  A cool wind blows
+through the catacombs, chilling you to the bone.  
+
+~
+1 0 0
+D0
+~
+~
+0 0 51898
+R M 0 51821 3 51899
+S
+#0
+
+
+#SHOPS
+ 51800    0  0  0  0  0   120  60         0 23    ; terrance the Tinkerer
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

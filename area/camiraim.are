@@ -1,0 +1,724 @@
+#AREA        Camiraim Gnomish Village~
+
+
+
+#VERSION     11
+#AUTHOR      chemosh delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#25212
+tisletop gnome~
+tisletop~
+Tisletop stands here with a silly grin on his face.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+90 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25228
+tumbertop gnome~
+tumbertop~
+Tumbertop the Tailor is here, ready to make some clothes.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+90 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#25229
+gnome~
+a gnome~
+A short pudgy gnome smiles at you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+16 30 -2 3d5+72 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#25200
+shiney glasses~
+a pair of `#`Ys`yh`Yi`yn`Ye`yy `Yglasses`^~
+A pair of `#`Ys`yh`Yi`yn`Ye`yy `Yglasses`^ lay here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25201
+belt of many pouches~
+`#`yBelt of Many `RP`rouches`^~
+`#`yA Belt with Many `RP`rouches`^ is lying here`^.~
+~
+15 64 8
+5 0 500 50 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25202
+kender walking shoes~
+`#`YB`Bright `RW`Ya`Bl`Rk`Bi`Yn`Rg `BS`Yhoes`^~
+`Ya pair of `YB`Bright `RW`Ya`Bl`Rk`Bi`Yn`Rg `BS`Yhoes are laying here`^~
+~
+9 64 8
+5 5 4 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25212
+small silvery sword~
+`#`wa small `ss`wi`Wl`sv`we`Wr`sy sword`^~
+A silvery sword has been dropped here.~
+~
+5 0 4
+3 14 24 8 0 0 0
+1 355 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25228
+vest bright blue~
+a `#`Bbright blue`^ vest~
+A silk blue vest lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 1364 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#25229
+majestic marble fountain~
+a majestic marble fountain~
+A majestic marble fountain is here, trickling water.~
+~
+25 0 16
+60000 0 0 0 0 0 0
+10 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#25200
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 25201
+S
+#25201
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 25202
+D3
+~
+~
+0 0 25200
+R M 0 25229 30 25201
+  R E 0 25200 0 25
+S
+#25202
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 25207
+D2
+~
+~
+0 0 25201
+D3
+~
+~
+0 0 25203
+S
+#25203
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction.  This road leads to 
+the tower. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 25204
+D1
+~
+~
+0 0 25202
+D3
+~
+~
+0 0 25209
+S
+#25204
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction.  This road leads to 
+the tower. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 25205
+D2
+~
+~
+0 0 25203
+S
+#25205
+Strawberry Boulevard~
+~
+The road stops abruptly in front of a large tower.  The place looks to be 
+very busy, with lots of lights in the windows.  A large marble fountain 
+stands in front of the place engraved with the names of famous gnomish 
+inventors.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25206
+D2
+~
+~
+0 0 25204
+R O 0 25229 0 25205
+S
+#25206
+Palace Courtyard~
+~
+The road dead ends into a large tower. The only way you can go is back south 
+where you came from on Strawberry Boulevard or go into the tower. The tower 
+looks impressive standing 4 or 5 levels high at least. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 25353
+D2
+~
+~
+0 0 25205
+S
+#25207
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction. 
+~
+1 33554440 1
+D1
+~
+~
+0 0 25208
+D3
+~
+~
+0 0 25202
+R M 0 25229 30 25207
+  R E 0 25200 0 25
+S
+#25208
+Strawberry Boulevard~
+~
+You are standing in the middle of a winding street.  Gnomes pass you on 
+every side, occasionally bumping into you.  Shops can be seen on either side 
+of the road.  Other roads branch off in every direction. 
+~
+1 33554440 1
+D0
+~
+~
+0 0 25227
+D2
+~
+~
+0 0 25223
+D3
+~
+~
+0 0 25207
+S
+#25209
+Dead End Lane~
+~
+You are now on Dead End Lane.  The street leads a straight path to Town 
+Hall.  These street names are confusing.  As far as you can tell, Dead End 
+Lane is the major bi-way of Camiraim.  Shops and houses branch off all down 
+the street.  At the end of it you see the wonderous Town Hall.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25203
+D3
+~
+~
+0 0 25210
+S
+#25210
+Dead End Lane~
+~
+You are now on Dead End Lane.  The street leads a straight path to Town 
+Hall.  These street names are confusing.  As far as you can tell, Dead End 
+Lane is the major bi-way of Camiraim.  Shops and houses branch off all down 
+the street.  At the end of it you see the wonderous Town Hall.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25209
+D3
+~
+~
+0 0 25211
+S
+#25211
+Dead End Lane~
+~
+You are now on Dead End Lane.  The street leads a straight path to Town 
+Hall.  These street names are confusing.  As far as you can tell, Dead End 
+Lane is the major bi-way of Camiraim.  Shops and houses branch off all down 
+the street.  At the end of it you see the wonderous Town Hall.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25210
+D3
+~
+~
+0 0 25212
+R M 0 25229 30 25211
+  R E 0 25200 0 25
+S
+#25212
+Dead End Lane~
+~
+You are now on Dead End Lane.  The street leads a straight path to Town 
+Hall.  These street names are confusing.  As far as you can tell, Dead End 
+Lane is the major bi-way of Camiraim.  Shops and houses branch off all down 
+the street.  At the end of it you see the wonderous Town Hall.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25215
+D1
+~
+~
+0 0 25211
+D3
+~
+~
+0 0 25213
+S
+#25213
+Dead End Lane~
+~
+You are now on Dead End Lane.  The street leads a straight path to Town 
+Hall.  These street names are confusing.  As far as you can tell, Dead End 
+Lane is the major bi-way of Camiraim.  Shops and houses branch off all down 
+the street.  At the end of it you see the wonderous Town Hall.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25218
+D1
+~
+~
+0 0 25212
+D2
+~
+~
+0 0 25228
+D3
+~
+~
+0 0 25214
+R M 0 25229 30 25213
+  R E 0 25200 0 25
+S
+#25214
+In front of Camiraim Town Hall~
+~
+You now stand in front of a glorious Town Hall.  It looks to be 7 or 8 
+stories tall.  Grand, ornate doors bearing elaborately carved reliefs stand 
+in the way of you entrance.  Two guards sit lounging on the steps, rummaging 
+through their pouches, looking into their belongings.  A large ornate 
+fountain sits here with the names of all the famous gnomes from Camiraim. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 25213
+R M 0 25229 30 25214
+R O 0 25229 0 25214
+S
+#25215
+Tisletop's Weapon Shop~
+~
+You are in a shop specializing in the making and selling of weapons.  All 
+along the walls in intricate displays are various swords and weird looking 
+weapons. Behind a low sitting counter is Tisletop himself.  He smiles a big 
+smile and waves at you as you enter. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 25212
+R M 0 25212 1 25215
+  R G 0 25212 0
+S
+#25218
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25219
+D2
+~
+~
+0 0 25213
+S
+#25219
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25220
+D2
+~
+~
+0 0 25218
+S
+#25220
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25221
+D3
+~
+~
+0 0 25219
+S
+#25221
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D2
+~
+~
+0 0 25220
+D3
+~
+~
+0 0 25222
+S
+#25222
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25223
+D1
+~
+~
+0 0 25221
+S
+#25223
+Straight Street~
+~
+This is the street cleverly titled Straight Street.  Along it are a couple 
+of shops and a few houses, but it is not as populated as Dead End Lane.  
+Young gnomes run up and down the street playing.  Back to the way you came 
+is Dead End Lane.  The road winds off to the north.  
+~
+1 33554440 1
+D0
+~
+~
+0 0 25208
+D1
+~
+~
+0 0 25224
+D2
+~
+~
+0 0 25222
+S
+#25224
+Direct Route Drive~
+~
+This is Direct Route Drive.  For once the name seems to be farely
+relative.  The road stretches in out straight in front of you.  Maybe it
+will take you somewhere important.  This road seems to be residential.  You
+don't see any shops, just houses.  None of them look to be locked.  Makes
+sense because in this town locks are futile.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25225
+D3
+~
+~
+0 0 25223
+S
+#25225
+Direct Route Drive~
+~
+This is Direct Route Drive.  For once the name seems to be farely
+relative.  The road stretches in out straight in front of you.  Maybe it
+will take you somewhere important.  This road seems to be residential.  You
+don't see any shops, just houses.  None of them look to be locked.  Makes
+sense because in this town locks are futile.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25226
+D3
+~
+~
+0 0 25224
+S
+#25226
+Direct Route Drive~
+~
+This is Direct Route Drive.  For once the name seems to be farely
+relative.  The road stretches in out straight in front of you.  Maybe it
+will take you somewhere important.  This road seems to be residential.  You
+don't see any shops, just houses.  None of them look to be locked.  Makes
+sense because in this town locks are futile.  
+~
+1 33554440 1
+D1
+~
+~
+0 0 25227
+D3
+~
+~
+0 0 25225
+R M 0 25229 30 25226
+  R E 0 25200 0 25
+S
+#25227
+Direct Route Drive~
+~
+This is Direct Route Drive.  For once the name seems to be farely relative.  
+The road stretches in out straight in front of you.  Maybe it will take you 
+somewhere important.  This road seems to be residential.  You don't see any 
+shops, just houses.  None of them look to be locked.  Makes sense because in 
+this town locks are futile. 
+~
+1 33554440 1
+D2
+~
+~
+0 0 25208
+D3
+~
+~
+0 0 25226
+R M 0 25229 30 25227
+  R E 0 25200 0 25
+S
+#25228
+Gnomish Clothing Shop~
+~
+This is the shop where gnomes can come to buy clothes.  All the displays 
+show clothes fit for gnomes but a sign on the wall reads, "We cater to the 
+extra-tall".  Boots, shirts, leggings, and vests of a powerfully colorful 
+nature are spread out about the room to draw attention.  A steady flow of 
+gnomes enter this room. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 25213
+R M 0 25228 1 25228
+  R G 0 25228 0
+  R G 0 25201 0
+  R G 0 25202 0
+S
+#0
+
+
+#SHOPS
+ 25212    5 33  8 32  0   150  35         0 23    ; tisletop
+ 25228   11 33  8 32  0   150  35         0 23    ; tumbertop
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

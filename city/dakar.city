@@ -1,0 +1,46 @@
+#CITY
+Name          Dakar City~
+Filename      dakar.city~
+Bank          dakar~
+Duke          bael~
+Allegiance    Throng~
+Defense          68
+Offense          113
+OffenseCatapult  1
+DefenseCatapult  1
+Ballista         1
+OffenseSoldiers  13
+DefenseGuards    0
+DefenseArchers   13
+OffenseArchers   13
+DefenseWarriors  13
+OffenseWarriors  13
+Arrows           1
+Platform         1
+Ram              0
+Pitch            1
+Wins             35
+Loses            221
+Recall           11210
+Siege1           27013
+Siege2           27012
+Siege3           27006
+Defend1          11206
+Defend2          11205
+Defend3          11214
+MSoldier         41038
+MArcher          41039
+MGuard           41091
+MWarrior         41092
+OCatapult        41008
+OBallista        41009
+OPitch           41010
+OPlatform        41011
+ORam             41012
+OArrow           41023
+MinHouse         57001
+MaxHouse         58000
+Hardened         0
+End
+
+#END

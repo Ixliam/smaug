@@ -1,0 +1,671 @@
+#AREA        Training Fields~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12300
+officer~
+an officer~
+An officer is here, polishing a pair of boots.
+~
+This officer wears his uniform proudly.  He is polishing his boots until the 
+shine reflects his own face.  
+~
+0
+Clanname none~
+0
+0
+65 8 600 C
+10 1 1 2d5+22 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12301
+absent minded general~
+the absent minded general~
+An absent minded general is here, trying to comprehend a map.
+~
+This general smells of old maps, and seems a little absent-minded as he 
+plots his next move on the map before him.  
+~
+0
+Clanname none~
+0
+0
+129 8 600 C
+13 1 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12302
+novice soldier~
+a novice soldier~
+A novice soldier is here, sparring with an imaginary enemy.
+~
+This soldier holds his head high with pride.  On closer inspection you 
+notice a rose tattooed on his arm.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+3 0 7 2d4+1 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12303
+veteran soldier~
+a veteran soldier~
+A veteran soldier is here, annoying the novices.
+~
+This veteran soldier appears tough, with his hair slicked back and his 
+muscular form showing through his uniform.  
+~
+0
+Clanname none~
+0
+0
+65 0 400 C
+8 1 3 2d5+12 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12304
+aide~
+an aide~
+An aide with a permanent slouch is slaving over a map.
+~
+The general's aide is here, peering at the map, and discussing plans with 
+the general.  
+~
+0
+Clanname none~
+0
+0
+129 0 400 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12300
+lucky charm~
+a lucky charm~
+Someone's lucky charm has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12300 lucky charm~
+This little charm is hanging on a thin leather string.
+~
+#12301
+navy blue coat~
+a `#`bnavy blue`^ coat~
+A `#`bnavy blue`^ coat lies here.~
+~
+9 0 8
+2 2 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12302
+navy blue trousers~
+a pair of `#`bnavy blue`^ trousers~
+A pair of `#`bnavy blue`^ trousers lie here.~
+~
+9 0 8
+5 5 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12303
+navy blue trench coat~
+a `#`bnavy blue`^ trench coat~
+A `#`bnavy blue`^ trench coat lies here~
+~
+9 0 8
+5 5 2 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12304
+steel sword~
+a steel sword~
+A steel sword lies here.~
+~
+5 0 4
+1 5 8 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12305
+long steel sword~
+a long steel sword~
+A long steel sword lies here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12306
+navy blue general's coat~
+a `#`bnavy blue`^ general's coat~
+A `#`bnavy blue`^ coat lies here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12307
+navy blue general's trousers~
+a pair of `#`bnavy blue`^ general's trousers~
+A pair of `#`bnavy blue`^ trousers lie here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12308
+navy blue cap insignia gold~
+a `#`bnavy blue`^ cap with a `#`ygold`^ insignia~
+A `#`bnavy blue`^ cap lies here.~
+~
+9 0 8
+10 10 2 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12309
+large raw emerald~
+a large, uncut `#`Gemerald`^ gemstone~
+A very large, uncut emerald lies here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12310
+a small sharp dagger~
+a small sharp dagger~
+A small sharp dagger has been left here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 222 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#12300
+Entrance to Training Fields~
+~
+Just to the east you can see the barracks and hills where you're sure many 
+young lads go to train everyday.  The beautiful landscape looks untouched 
+by the many years of wars that have plagued the surrounding nations.  You 
+may head east into the training fields or go west through the flatlands.
+~
+1 0 2
+D1
+.
+~
+~
+0 0 12301
+S
+#12301
+Pathway through Field~
+~
+You are on a path which leads straight east heading towards the barracks.  
+All around you is lush green grass and the sounds of insects happily 
+chirping can be heard.
+~
+1 0 2
+D0
+~
+~
+0 0 12304
+D3
+Entrance to Training Fields.
+~
+~
+0 0 12300
+R M 0 12302 11 12301
+  R E 0 12304 0 16
+R M 0 12303 9 12301
+R M 0 12303 9 12301
+S
+#12302
+Eastern Field of Training Grounds~
+~
+Woods of tall trees surround the training ground to the east and south of 
+here.  The ground is worn with the soldier's sparring.  The path heads 
+around to the west, and up to the north where you can glimpse a small tent 
+just to the east of the path.  
+~
+1 0 2
+D0
+~
+~
+0 0 12306
+D3
+~
+~
+0 0 12304
+R M 0 12302 11 12302
+  R E 0 12300 0 3
+S
+#12303
+Western Field of Training Grounds~
+~
+The trees to the west are very majestic while the breeze is barely a whisper 
+here.  Crickets are chirping and birds fly by every once in a while.  A path 
+leads off to the east and north.  
+~
+1 0 2
+D0
+~
+~
+0 0 12309
+D1
+~
+~
+0 0 12304
+R M 0 12302 11 12303
+R M 0 12303 11 12303
+  R E 0 12301 0 12
+  R E 0 12302 0 7
+R M 0 12303 11 12303
+  R E 0 12305 0 16
+S
+#12304
+Path through the Training Fields~
+~
+You are moving along a well trodden dirt path.  There is tall grass to the 
+east and west of you and the path continues north into the main training 
+area.  The birds are still chirping and everything seems upbeat and happy.  
+You can head north, east or west through the training area.  
+~
+1 0 2
+D0
+Training Fields.
+~
+~
+0 0 12305
+D1
+~
+~
+0 0 12302
+D2
+~
+~
+0 0 12301
+D3
+~
+~
+0 0 12303
+S
+#12305
+Main Training Area~
+~
+You have entered the Main Training Area. You can hear the clash of swords 
+and grunts of young men as they fight to better their skills with the arms 
+of war.  The ground is padded hard from the use and the wind blows through 
+with a refreshing breeze.  You can head in every direction.
+~
+1 0 2
+D0
+Northern Field near a tent.
+~
+~
+0 0 12308
+D1
+~
+~
+0 0 12306
+D2
+A path south.
+~
+~
+0 0 12304
+D3
+~
+~
+0 0 12309
+R M 0 12302 11 12305
+  R E 0 12300 0 3
+R M 0 12302 11 12305
+R M 0 12302 11 12305
+R M 0 12303 9 12305
+  R E 0 12305 0 16
+S
+#12306
+Path through the Training Fields~
+~
+The wind is stronger here and the woods are impassable to the east, although 
+a tent has been placed in perhaps the only gap within the woods.  The ground 
+is a little softer here and you glimpse a squirrel just before it runs up a 
+tree.  
+~
+1 0 2
+D0
+.
+~
+~
+0 0 12307
+D1
+~
+~
+0 0 12313
+D2
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12305
+R M 0 12303 9 12306
+  R E 0 12302 0 7
+  R E 0 12301 0 12
+R M 0 12302 11 12306
+R M 0 12302 11 12306
+S
+#12307
+North-Eastern Field of Training Area~
+~
+You are at the most north-east area of the field.  A wind is refreshing 
+against your back and the chirping of numerous crickets can be heard.  You 
+have the urge to sit and be one with the world.  You may go south, 
+southwest or west.
+~
+1 0 2
+D2
+Eastern Field of Training Area.
+~
+~
+0 0 12306
+D3
+Training Fields.
+~
+~
+0 0 12308
+R M 0 12302 11 12307
+  R E 0 12304 0 16
+S
+#12308
+Northern Field near a Tent~
+~
+You are at the highest part of the Training fields and you pause a second 
+to catch your breath.  The view is spectacular and you think maybe you can 
+see some town in the far south.  To the north you observe a very official 
+looking tent with a flag flying overtop.  
+~
+1 0 2
+D0
+~
+~
+0 0 12312
+D1
+North-Eastern Fields.
+~
+~
+0 0 12307
+D2
+Main Training Area.
+~
+~
+0 0 12305
+D3
+North-Western Field of Training Area.
+~
+~
+0 0 12310
+R M 0 12303 11 12308
+  R E 0 12302 0 7
+  R E 0 12301 0 12
+R M 0 12303 11 12308
+  R E 0 12305 0 16
+S
+#12309
+Path through the Training Fields~
+~
+You see a forest to the west which is impassable.  The birds are chirping 
+and the ground is rather soft here.  A rusted sword is buried in the ground 
+and the handle has broken off.  Just to the west of here, a small tent has 
+been set up.  
+~
+1 0 2
+D0
+North-Western Field of Training Area.
+~
+~
+0 0 12310
+D1
+~
+~
+0 0 12305
+D2
+~
+~
+0 0 12303
+D3
+~
+~
+0 0 12311
+S
+#12310
+North-Western Field of Training Area~
+~
+The trees to the west are very majestic while the breeze is barely a whisper 
+here.  Crickets are chirping and birds fly by every once in a while.  A path 
+leads off to the east and south.  
+~
+1 0 2
+D1
+Northern Field near a tent.
+~
+~
+0 0 12308
+D2
+Western Field of Training Area.
+~
+~
+0 0 12309
+R M 0 12302 11 12310
+R M 0 12302 11 12310
+  R E 0 12304 0 16
+S
+#12311
+Inside a Small Tent~
+~
+This tent is a small tent, with barely room for the cot which is pushed 
+against one side.  There is a makeshift desk, made from an old crate, on top 
+of which lies a worn notebook and a tin mug.  A thin blanket drapes over the 
+bed.  The flap opens to the east, to the training grounds.  
+~
+1 8 0
+D1
+~
+~
+0 0 12309
+R M 0 12300 5 12311
+  R E 0 12303 0 12
+  R E 0 12310 0 16
+E
+flag~
+The flag looks rather new and the rose looks a little gay.  You wonder how 
+proud an army would have to be to use a rose as their symbol and not feel a 
+loss of masculinity.
+~
+S
+#12312
+Inside the Main Tent~
+~
+Maps, maps are everywhere.  Inside the tent is rather filthy with assorted 
+weapons along with food mixed in occasionally with the maps.  An aide 
+scurries by anxious to get away from its master for a little break or maybe 
+just for fear of you.  A flap opens to the south.  
+~
+1 8 0
+D2
+~
+~
+0 0 12308
+R M 0 12301 1 12312
+  R E 0 12306 0 12
+  R E 0 12307 0 7
+  R E 0 12308 0 6
+  R G 0 12309 0
+R M 0 12304 3 12312
+R M 0 12304 3 12312
+R M 0 12304 3 12312
+R M 0 12303 9 12312
+S
+#12313
+Inside a Small Tent~
+~
+This small tent is where one of the officers has set up camp.  There is an 
+uncomfortable cot against the lining of the tent, and a pair of worn boots 
+sit beneath the bed.  The flap of the tent opens to the west, onto the main 
+training grounds.  
+~
+1 8 0
+D3
+~
+~
+0 0 12306
+R M 0 12300 5 12313
+  R E 0 12303 0 12
+  R E 0 12310 0 16
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

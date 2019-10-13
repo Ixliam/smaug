@@ -1,0 +1,1765 @@
+#AREA        Thri-Kreen~
+
+
+
+#VERSION     11
+#AUTHOR      gemma~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1200
+scout~
+a thri-kreen scout~
+A thri-kreen scout is here
+~
+~
+0
+Clanname none~
+0
+0
+33 65536 -400 C
+75 2 -44 7d11+375 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1201
+thri-kreen footman~
+a thri-kreen footman~
+A thri-kreen footman is here
+~
+~
+0
+Clanname none~
+0
+0
+3 512 -400 C
+75 2 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1202
+footman~
+a thri-kreen footman~
+A large insect-like creature is patrolling here
+~
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+75 2 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1203
+thri-kreen assassin~
+a thri-kreen assassin~
+A tall, `#`sblack`^ insect-like creature is standing here here.
+~
+A tall, `#`sblack`^ insect-like creature stands here.
+~
+0
+Clanname none~
+0
+0
+33 65536 0 C
+90 2 -59 9d12+435 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1204
+thri-kreen chamber maid~
+a thri-kreen chamber maid~
+A thri-kreen chamber maid is here, tending to the roasting kender.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+75 2 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1205
+thri-kreen warrior~
+a thri-kreen warrior~
+A large insect warrior is here waiting for his dinner
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+85 2 -55 9d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1206
+thri-kreen warrior~
+a thri-kreen warrior~
+A huge insect warrior is patrolling the area barking orders at the footmen
+~
+~
+0
+Clanname none~
+0
+0
+1 512 0 C
+85 2 -55 9d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1207
+thri-kreen oracle~
+the thri-kreen oracle~
+The oracle is here, chanting softly
+~
+The oracle is here, chanting softly.  She has an etremely hard, `#`sblack 
+exoskeleton`^ with bright `#`Wwhite`^ painted markings on her.  She notices you and 
+stands up, quickly!  She towers over you and leans in close.  
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+90 0 -60 9d12+440 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1208
+a male drone~
+a male drone is here, startled at your intrudance!~
+A male drone is here, startled at your intrudance!
+~
+A male Thri-kreen drone is here.  The large mantis doesn't seem like he sees 
+the outside of this room much.  His carapass is brightly and richly colored 
+showing that he most likely doesn't see the sunlight too much.  
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+70 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1209
+chieftan thri-kreen~
+an immense `#`sblack`^ and `#`rred`^ thri-kreen~
+An IMMENSE `#`sblack `wand `rred`^ thri-kreen jumps at your intrudance!
+~
+Before you is an IMMENSE thri-kreen!  His carapass is `#`sblack `wand `rred`^ and 
+appears to be extremely hard.  He stands at a towering eight feet in height 
+and has huge `#`sblack`^ eyes.  He appears to be a little unnerved at your 
+intrudance.  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+100 0 -70 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1210
+queen thri-kreen~
+thri-kreen queen~
+An enormous `#`Rred`^ thri-kreen is lurking here
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+101 0 -71 10d14+485 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1211
+huge black dragon~
+a huge black dragon~
+A HUGE `#`sblack dragon`^ is dwelling here!
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+101 10 -70 10d14+480 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1212
+giant spider~
+a giant spider~
+A giant hairy spider is perched in the corner here!
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+101 10 -71 10d14+485 11d12+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1200
+black diamond~
+a `#`sblack diamond`^~
+An enormous `#`sblack diamond`^ lies here~
+~
+32 2 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1200 black diamond~
+An >>>ENORMOUS<<< black gem is lying in dirt here. It looks to be extremely rare!
+~
+#1201
+torch~
+wooden torch~
+A wooden torch is mounted on the wall here.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1202
+weaponrack~
+wooden weaponrack~
+A wooden weaponrack stands here.~
+~
+15 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1203
+hematite throne~
+hematite throne~
+A hematite throne sits here.~
+~
+12 0 8
+5000 72 50 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1204
+hematite dagger~
+a `#`sjagged-edged hematite`^ dagger~
+A `#`sjagged-edged hematite dagger`^ is lying here.~
+~
+5 0 4
+2 116 152 2048 0 0 0
+1 990 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1205
+hematite anklet~
+a `#`shematite`^ anklet~
+An anklet made from `#`shematite`^ lies here~
+~
+9 0 8
+60 60 7 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1206
+a firepit with a kender roasting on a spit~
+a firepit with a kender roasting on a spit is burning in the center of the room~
+A firepit with a kender roasting on a spit is burning in the center of the room~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1207
+iron mancatcher~
+a long `#`sIron `rMancatcher`^~
+A long iron mancatcher is here.~
+~
+5 0 4
+21 135 170 32 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+1207 mancatcher ~
+A long iron mancatcher is here.  It has a nicely carved wooden handle about 
+six feet in length.  It is topped with a forked, U- shaped iron spear end 
+with huge barbs.  
+~
+#1210
+huge fire pit~
+a huge fire pit~
+There is a HUGE fire pit with a RAGING fire burning in it here.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1211
+onyx key~
+an `#`sonyx`^ key~
+An onyx key lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1248
+love~
+a `#`spitch-black`^ dagger~
+A `#`spitch-black`^ dagger lies here~
+~
+5 256 4
+100 100 2 10448 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#1249
+hematite trident~
+a `#`shematite trident`^~
+A trident made of `#`sblack stone`^ lies here~
+~
+5 0 4
+15 108 151 40 0 0 0
+1 920 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1200
+A descending stone hallway~
+~
+The sand blows down this hallway from the desert above.  The smooth stones 
+of this small passageway descend at an angle rather than going straight 
+down.  There are some strange footprints in the sand on the floor that head 
+both in and out of the passage.  
+~
+1 67108872 0
+D5
+~
+~
+0 0 1201
+S
+#1201
+Further down the hallway.~
+~
+Torches illuminate the stone walls of the passage as the sunlight from above 
+grows weaker.  The floor is mostly clear of the sand blowing in from the 
+opening above.  You can hear very faint noises coming from wherever the 
+hallway leads to.  The large sandstone and granite slabs of the walls grow 
+cooler as you descend further into the desert floor.  
+~
+1 100663304 0
+D4
+~
+~
+0 0 1200
+D5
+~
+~
+0 0 1202
+R O 0 1201 0 1201
+S
+#1202
+Before the lair.~
+~
+You find yourself at the entranceway to a seemingly big undergroud lair.  
+There are more torches illuminating the now darkened hallway.  You can hear the 
+scuffling of feet from within the door.  Strange shrieks and cackles echo 
+off the finely cut stone walls.  You can go back the way you came or you can 
+elect to go forth, to the south.  
+~
+1 100663296 0
+D2
+~
+~
+0 0 1203
+D4
+~
+~
+0 0 1201
+R O 0 1201 0 1202
+R M 0 1201 2 1202
+  R E 0 1249 0 16
+  R E 0 1205 0 30
+S
+#1203
+Entrance to Thri-Kreen lair~
+~
+You have stumbled into a room of incredible size!  The ceiling, you figure, 
+must be at least thirty feet high.  Somewhere far in the room you can see 
+the glow from a fire.  Through the fire's dim light you can make out huge 
+pillars of granite that stretch to the ceiling.  You can see shadowy figures 
+moving around in the distance, and can hear the chatter of several beasts 
+from within.  There are exits all around you.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1202
+D1
+~
+~
+0 0 1205
+D2
+~
+~
+0 0 1207
+D3
+~
+~
+0 0 1204
+D7
+~
+~
+0 0 1208
+D8
+~
+~
+0 0 1206
+S
+#1204
+Northwest corner of grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1203
+D2
+~
+~
+0 0 1206
+D7
+~
+~
+0 0 1207
+S
+#1205
+Northeast corner of grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 1208
+D3
+~
+~
+0 0 1203
+D8
+~
+~
+0 0 1207
+S
+#1206
+Northwest grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1204
+D1
+~
+~
+0 0 1207
+D2
+~
+~
+0 0 1209
+D6
+~
+~
+0 0 1203
+D7
+~
+~
+0 0 1210
+R M 0 1202 8 1206
+  R E 0 1249 0 16
+S
+#1207
+Grand room~
+~
+The fire is getting closer and noticeibly larger.  There are shadows moving 
+all around you and you can hear them cackling and chattering between each 
+other.  The scuffling of many feet grows more frantic.  You can make out the 
+figures of very large, insect-like creatures in the shadows.  Huge granite 
+pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1203
+D1
+~
+~
+0 0 1208
+D2
+~
+~
+0 0 1210
+D3
+~
+~
+0 0 1206
+D6
+~
+~
+0 0 1205
+D7
+~
+~
+0 0 1211
+D8
+~
+~
+0 0 1209
+D9
+~
+~
+0 0 1204
+S
+#1208
+Northeast grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1205
+D2
+~
+~
+0 0 1211
+D3
+~
+~
+0 0 1207
+D8
+~
+~
+0 0 1210
+D9
+~
+~
+0 0 1203
+R M 0 1202 8 1208
+  R E 0 1249 0 16
+S
+#1209
+Western grand room~
+~
+You are in the western section of the grand room.  To the east you can see a 
+huge, roaring fire.  The light from the fire slightly illuminates some 
+primitive looking paintings on the granite pillars.  The sounds of shuffling 
+feet are getting closer.  To the west you can see a torch-lit hallway 
+leading to somewhere.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1206
+D1
+~
+~
+0 0 1210
+D2
+~
+~
+0 0 1212
+D3
+~
+~
+0 0 1232
+D6
+~
+~
+0 0 1207
+D7
+~
+~
+0 0 1213
+S
+#1210
+Center of grand room~
+~
+From the center of the grand room you can tell just how big it really is.  
+However this place could be here without being noticed, is beyond knowing.  
+There is a huge bonfire burning in a pit placed in the center of the room.  
+The smoke from the fire leaves the room through a ventilation shaft that 
+seems to go all the way back to desert floor.  From the light of the fires, 
+you can see that there are primitive paintings on them.  They depict scenes 
+of battles with preying mantis warriors and other mixed, seemingly 
+unfortuante, races of beings.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1207
+D1
+~
+~
+0 0 1211
+D2
+~
+~
+0 0 1213
+D3
+~
+~
+0 0 1209
+D6
+~
+~
+0 0 1208
+D7
+~
+~
+0 0 1214
+D8
+~
+~
+0 0 1212
+D9
+~
+~
+0 0 1206
+R O 0 1210 0 1210
+R M 0 1202 8 1210
+  R E 0 1249 0 16
+S
+#1211
+Eastern grand room~
+~
+You are in the eastern section of the grand room.  To the west you can see a 
+huge, roaring fire.  The light from the fire slightly illuminates some 
+primitive looking paintings on the granite pillars.  The sounds of shuffling 
+feet are getting closer.  To the east you can see a torch-lit hallway 
+leading to somewhere.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1208
+D1
+~
+~
+0 0 1233
+D2
+~
+~
+0 0 1214
+D3
+~
+~
+0 0 1210
+D8
+~
+~
+0 0 1213
+D9
+~
+~
+0 0 1207
+S
+#1212
+Southwest grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1209
+D1
+~
+~
+0 0 1213
+D2
+~
+~
+0 0 1215
+D6
+~
+~
+0 0 1210
+D7
+~
+~
+0 0 1216
+R M 0 1202 8 1212
+  R E 0 1249 0 16
+S
+#1213
+Grand room~
+~
+The fire is getting closer and noticeibly larger.  There are shadows moving 
+all around you and you can hear them cackling and chattering between each 
+other.  The scuffling of many feet grows more frantic.  You can make out the 
+figures of very large, insect-like creatures in the shadows.  Huge granite 
+pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1210
+D1
+~
+~
+0 0 1214
+D2
+~
+~
+0 0 1216
+D3
+~
+~
+0 0 1212
+D6
+~
+~
+0 0 1211
+D7
+~
+~
+0 0 1217
+D8
+~
+~
+0 0 1215
+D9
+~
+~
+0 0 1209
+S
+#1214
+Southeast grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1211
+D2
+~
+~
+0 0 1217
+D3
+~
+~
+0 0 1213
+D8
+~
+~
+0 0 1216
+D9
+~
+~
+0 0 1210
+R M 0 1202 8 1214
+  R E 0 1249 0 16
+S
+#1215
+Southwest corner of grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1212
+D1
+~
+~
+0 0 1216
+D6
+~
+~
+0 0 1213
+S
+#1216
+South grand room~
+~
+There are shadows moving all around you and you can't pick them out.  The 
+scuffling of many feet grows more frantic.  Off in the distance, you can see 
+a fire burning.  Huge granite pillars scale the room from the floor to the 
+ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1213
+D1
+~
+~
+0 0 1217
+D2
+~
+~
+0 0 1218
+D3
+~
+~
+0 0 1215
+D6
+~
+~
+0 0 1214
+D9
+~
+~
+0 0 1212
+S
+#1217
+Southeast corner of grand room~
+~
+The walls are cold from the depth of the lair.  There are shadows moving all 
+around you and you can't pick them out.  The scuffling of many feet grows 
+more frantic.  Off in the distance, you can see a fire burning.  Huge 
+granite pillars scale the room from the floor to the ceiling.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1214
+D3
+~
+~
+0 0 1216
+D9
+~
+~
+0 0 1213
+S
+#1218
+A torch-lit hallway~
+~
+Torches illuminate this stone hallway.  The hall is cool in temperature from 
+the depth underground.  There are noises all around you here.  Far to the 
+north, you can see the fire burning in the grand room.  The hallway 
+continues on to the south.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1216
+D2
+~
+~
+0 0 1221
+R O 0 1201 0 1218
+S
+#1219
+End of the hall~
+~
+Light flickers off the smooth granite and sandstone walls of the hallway.  
+The air is cool and damp and dew collects on the walls.  This area is much 
+quieter and seems less traveled than the other halls you've come across so 
+far.
+~
+1 33554440 0
+D1
+~
+~
+0 0 1220
+D9
+~
+~
+1 0 1248
+R O 0 1201 0 1219
+S
+#1220
+A torch-lit hallway~
+~
+Light flickers off the smooth granite and sandstone walls of the hallway.  
+The air is cool and damp and dew collects on the walls.  This area is much 
+quieter and seems less traveled than the other halls you've come across here 
+so far.  There are exits to the west, east, and to the south of here.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1221
+D2
+~
+~
+0 0 1224
+D3
+~
+~
+0 0 1219
+R O 0 1201 0 1220
+S
+#1221
+A torch-lit hallway~
+~
+Light flickers off the smooth granite and sandstone walls of the hallway.  
+The air is cool and damp and dew collects on the walls.  This area is much 
+quieter and seems less traveled than the other halls you've come across here 
+so far.  There are exits to the west, east, and back the way you came.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1218
+D1
+~
+~
+0 0 1222
+D2
+~
+~
+1 0 1225
+D3
+~
+~
+0 0 1220
+R O 0 1201 0 1221
+S
+#1222
+A torch-lit hallway~
+~
+Light flickers off the smooth granite and sandstone walls of the hallway.  
+The air is cool and damp and dew collects on the walls.  This area is much 
+quieter and seems less traveled than the other halls you've come across here 
+so far.  There are exits to the west, east, and to the south of here.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1223
+D2
+~
+~
+0 0 1226
+D3
+~
+~
+0 0 1221
+R O 0 1201 0 1222
+S
+#1223
+End of the hall~
+~
+Light flickers off the smooth granite and sandstone walls of the hallway.  
+The air is cool and damp and dew collects on the walls.  This area is much 
+quieter and seems less traveled than the other halls you've come across here 
+so far.  There appears to be an exit to the north-east and back the way you came. 
+ 
+~
+1 33554440 0
+D3
+~
+~
+0 0 1222
+D6
+~
+~
+1 0 1249
+R O 0 1201 0 1223
+S
+#1224
+The Oracle's Chambers~
+~
+This room is well lit, and you can see clearly in here.  The quarters appear 
+much nicer than the others that are here.  A well made bunk is dug into the 
+wall.  There is a nice, personal sized fire pit in the center of the room, 
+and from the looks of the room, it was made for a single occupant.  The only 
+obvious exit you can see is back the way you came.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1220
+R O 0 1201 0 1224
+R M 0 1207 1 1224
+  R E 0 1204 0 16
+S
+#1225
+Chieftan's Quarters~
+~
+This room is much bigger than the others and is lavishly furnished.  No 
+doubt from all the raids held by the Thri-Kreen horde over the years.  There 
+is a large banner hanging on the south wall, behind the throne.  The banner 
+is deep red with a picture of a trident in center of it.  The throne seems 
+to be made of a solid rock that gleams as if it were metal.  The room is 
+well lit by torches hanging on the walls.  On the floors, you can make out 
+some Kender-hide rugs.  Obvious exits are..  Back the way you came.  
+~
+1 33554440 0
+D0
+~
+~
+1 0 1221
+D2
+~
+~
+1 0 1227
+R O 0 1203 0 1225
+R O 0 1201 0 1225
+R M 0 1209 1 1225
+  R E 0 1207 0 16
+  R E 0 1211 0 17
+S
+#1226
+The Harem~
+~
+This room is well lit and nicely furnished.  There are many beds that line 
+the outside of the room and an enormous steaming bath in the center.  
+Strange thing about this harem room is that it's not filled with women..  It 
+seems to be filled with male drones from the colony.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1222
+R O 0 1201 0 1226
+R M 0 1208 5 1226
+R M 0 1208 5 1226
+R M 0 1208 5 1226
+R M 0 1208 5 1226
+R M 0 1208 5 1226
+S
+#1227
+Thri-Kreen depository~
+~
+This appears to be where the horde keeps thier stash from all thier raids.  
+The room is dimly lit from a single torch that hangs on the south wall.  The 
+room is quite colder than the others you have encountered so far.  All 
+around you, you can see unopened chests and weaponracks lining the floor.   
+In the far corner, you can see a raised section of `#`sblack stones`^ on the 
+floor. The only obvious exit is back the way you came in. 
+~
+1 33554440 0
+D0
+~
+~
+1 0 1225
+D5
+~
+~
+33 1211 1238
+R M 0 1203 3 1227
+  R E 0 1204 0 16
+  R E 0 1205 0 30
+E
+black stones floor~
+Upon further inspection, you notice there is a `#`ywooden plank`^ in the center of 
+the stones with an `#`sonyx keyhole`^ in the center of the plank. 
+~
+S
+#1228
+Warriors' Barracks~
+~
+This room is warm from the fire burning in the center of it.  There appears 
+to be a nice, plump, Kender roasting on the spit over the fire.  There are 
+some nicely constructed bunks dug into the earthen walls of the room.  You 
+can see a well made weaponrack against the wall here.  The only obvious exit 
+is back the way you came.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1230
+R O 0 1201 0 1228
+R M 0 1204 2 1228
+R M 0 1205 2 1228
+  R E 0 1249 0 16
+R M 0 1206 2 1228
+  R E 0 1249 0 16
+R O 0 1206 0 1228
+S
+#1229
+Footmans' Barracks~
+~
+As you enter through the doorway you can make out some crudely made beds 
+placed around the center of the room.  There is little light here from the 
+vent in the ceiling of the room which allows smoke from the empty fire pit 
+in the center of the room to escape.  The air in here is cool and damp.  
+Save for the nest-like beds, the room is absent of furnishings.  The only 
+obvious exit is back the way you came.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 1230
+R O 0 1201 0 1229
+S
+#1230
+A torch-lit hallway~
+~
+There are more torches on the walls here, at the end of the hallway.  The 
+primitive paintings of insect warriors are carried over to the walls of the 
+hallway depicting more battles.  The sounds of the inhabitants are all 
+around you.  There are rooms to the north, south and west here.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1229
+D1
+~
+~
+0 0 1232
+D2
+~
+~
+0 0 1231
+D3
+~
+~
+0 0 1228
+R M 0 1202 8 1230
+  R E 0 1249 0 16
+R O 0 1201 0 1230
+S
+#1231
+Footmans' Barracks~
+~
+As you enter through the doorway you can make out some crudely made beds 
+placed around the center of the room.  There is little light here from the 
+vent in the ceiling of the room which allows smoke from the empty fire pit 
+in the center of the room to escape.  The air in here is cool and damp.  
+Save for the nest-like beds, the room is absent of furnishings.  The only 
+obvious exit is back the way you came.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1230
+R O 0 1201 0 1231
+S
+#1232
+A torch-lit hallway~
+~
+Torches illuminate this stone hallway.  The hall is cool in temperature from 
+the depth underground.  There are noises all around you here.  Far to the 
+east, you can see the fire burning in the grand room.  The hallway continues 
+on to the west.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1209
+D3
+~
+~
+0 0 1230
+R O 0 1201 0 1232
+R M 0 1200 2 1232
+  R E 0 1204 0 16
+S
+#1233
+A torch-lit hallway~
+~
+Torches illuminate this stone hallway.  The hall is cool in temperature from 
+the depth underground.  There are noises all around you here.  Far to the 
+west, you can see the fire burning in the grand room.  The hallway continues 
+on to the east.  
+~
+1 33554440 0
+D1
+~
+~
+0 0 1235
+D3
+~
+~
+0 0 1211
+R M 0 1200 2 1233
+  R E 0 1204 0 16
+R O 0 1201 0 1233
+S
+#1234
+Footmans' Barracks~
+~
+As you enter through the doorway you can make out some crudely made beds 
+placed around the center of the room.  There is little light here from the 
+vent in the ceiling of the room which allows smoke from the empty fire pit 
+in the center of the room to escape.  The air in here is cool and damp.  
+Save for the nest-like beds, the room is absent of furnishings.  The only 
+obvious exit is back the way you came.  
+~
+1 33554440 0
+D2
+~
+~
+0 0 1235
+R O 0 1201 0 1234
+S
+#1235
+A torch-lit hallway~
+~
+There are more torches on the walls here, at the end of the hallway.  The 
+primitive paintings of insect warriors are carried over to the walls of the 
+hallway depicting more battles.  The sounds of the inhabitants are all 
+around you.  There are rooms to the north, south and east here.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1234
+D1
+~
+~
+0 0 1237
+D2
+~
+~
+0 0 1236
+D3
+~
+~
+0 0 1233
+R O 0 1201 0 1235
+R M 0 1202 8 1235
+  R E 0 1249 0 16
+S
+#1236
+Footmans' Barracks~
+~
+As you enter through the doorway you can make out some crudely made beds 
+placed around the center of the room.  There is little light here from the 
+vent in the ceiling of the room which allows smoke from the empty fire pit 
+in the center of the room to escape.  The air in here is cool and damp.  
+Save for the nest-like beds, the room is absent of furnishings.  The only 
+obvious exit is back the way you came.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 1235
+R O 0 1201 0 1236
+S
+#1237
+Warriors' Barracks~
+~
+This room is warm from the fire burning in the center of it.  There appears 
+to be a nice, plump, Kender roasting on the spit over the fire.  There are 
+some nicely constructed bunks dug into the earthen walls of the room.  You 
+can see a well made weaponrack against the wall here.  The only obvious exit 
+is back the way you came.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 1235
+R M 0 1204 2 1237
+R M 0 1205 2 1237
+  R E 0 1249 0 16
+R M 0 1206 2 1237
+  R E 0 1249 0 16
+R O 0 1201 0 1237
+R O 0 1206 0 1237
+S
+#1238
+A Foul Tunnel~
+~
+`#`sPitch black`^ is the way now since you've decided to venture further. The air 
+is damp and lingering with a foul stench. The walls and stairs leading down 
+are moist and slippery. All around, you can hear things moving in the 
+darkness. 
+~
+1 33554440 0
+D4
+~
+~
+33 1211 1227
+D5
+~
+~
+0 0 1239
+S
+#1239
+A Foul Tunnel~
+~
+Further down the tunnel the way is still dark and slippery. Things 
+scittering in the darkness are getting louder and seemingly closer. There's 
+no telling what the beasts that created this tunnel are planning for it. 
+~
+1 33554440 0
+D4
+~
+~
+0 0 1238
+D5
+~
+~
+0 0 1240
+S
+#1240
+A Dark Cavern~
+~
+The way down has come to a halt. Little waterfalls flow down from the stairs 
+leading into tiny crevaces at the base of the walls. There is a little light 
+leaking its way into this room, perhaps from a torch ahead. The walls are 
+earthen now, dirt and rocks mixed together. The floor is very uneven and 
+wet. The cavern seems to continue to the south. 
+~
+1 0 0
+D2
+~
+~
+0 0 1241
+D4
+~
+~
+0 0 1239
+S
+#1241
+A Dark Cavern~
+~
+The torch burns brightly in this section of the cavern. The walls are still 
+earthen, and the floor uneven. You can now see some shadows cast from 
+unknown things to the south. Perhaps you should not have come this far? 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1240
+D2
+~
+~
+0 0 1243
+R O 0 1201 0 1241
+S
+#1242
+An Immense Subterranean Cave~
+~
+The northwestern corner of the cave is quite dark. The floor is dusty and 
+smooth. Wandering around this section you find it incredibly hard to ignore 
+the huge black dragon residing here!! 
+~
+1 33554440 0
+D1
+~
+~
+0 0 1243
+D2
+~
+~
+0 0 1245
+D7
+~
+~
+0 0 1246
+R M 0 1211 1 1242
+S
+#1243
+An Immense Subterranean Cave~
+~
+There is enough light coming in from the torch to let you see the immense 
+size of the cave you've entered. The walls around the cave are covered with 
+some foreign substance... The surface of the walls is seemingly changing, 
+blowing with the wind. The floor is smooth and hard in here, getting your 
+footing is quite easy. You can make out shadows moving everywhere in the 
+cave. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1241
+D1
+~
+~
+0 0 1244
+D2
+~
+~
+0 0 1246
+D3
+~
+~
+0 0 1242
+D7
+~
+~
+0 0 1247
+D8
+~
+~
+0 0 1245
+E
+walls ~
+Looking at the walls closer you now notice that they are covered with webs! 
+The webs are huge and very sticky. Best to stay back from them! 
+~
+S
+#1244
+An Immense Subterranean Cave~
+~
+There is little light here in this corner of the room. The strange substance 
+on the walls is thick here, concentrated more than the other parts of the 
+cave. The floor is smooth, dry and dusty. Moving around you can see a huge 
+`#`Wpile of bones`^ stacked in the corner. Maybe this would be a good time to move 
+on to another part of the cave. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 1247
+D3
+~
+~
+0 0 1243
+D8
+~
+~
+0 0 1246
+R M 0 1212 1 1244
+E
+pile bones~
+An immense pile of what must be Kender bones lies here. It would seem the 
+Thri-kreen have been feeding something for quite some time now. 
+~
+S
+#1245
+An Immense Subterranean Cave~
+~
+The piles of ghostly `#`Wwhite bones`^ continue into this part of the cavern. The 
+sounds of the moving things echo from the walls. The smell of rotting flesh 
+and death is heavy in this corner. An uneasy chill comes over you; up your 
+spine. Perhaps you should continue on further. 
+~
+1 0 0
+D0
+~
+~
+0 0 1242
+D1
+~
+~
+0 0 1246
+D6
+~
+~
+0 0 1243
+S
+#1246
+An Immense Subterranean Cave~
+~
+This section of the cave is immaculately kept. This is where the Thri-kreen 
+have their queen! The piles of kender bones must be food brought to her in 
+hopes of her laying more eggs and building the colony. Best to leave here 
+lest you wish to run opon her yourself! 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1243
+D1
+~
+~
+0 0 1247
+D3
+~
+~
+0 0 1245
+D6
+~
+~
+0 0 1244
+D9
+~
+~
+0 0 1242
+R M 0 1210 1 1246
+  R E 0 1205 0 30
+  R E 0 1205 0 29
+  R E 0 1207 0 16
+S
+#1247
+An Immense Subterranean Cave~
+~
+The piles of ghostly `#`Wwhite bones`^ continue into this part of the cavern. The 
+sounds of the moving things echo from the walls. The smell of rotting flesh 
+and death is heavy in this corner. An uneasy chill comes over you; up your 
+spine. Perhaps you should continue on further. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 1244
+D3
+~
+~
+0 0 1246
+D9
+~
+~
+0 0 1243
+S
+#1248
+A musty smelling dark room~
+~
+There is only the light from the center ventilation shaft that seems to 
+stretch all the way back to the desert surface.  The air is thick with the 
+heavy stench of mildew and mold.  The room hasn't been used in some time 
+from the looks of it.  The only exit is back the way you entered.  
+~
+1 33554432 0
+D7
+~
+~
+1 0 1219
+R M 0 1203 3 1248
+  R E 0 1204 0 16
+  R E 0 1205 0 30
+R O 0 1200 0 1248
+S
+#1249
+A musty smelling dark room~
+~
+There is only the light from the center ventilation shaft that seems to 
+stretch all the way back to the desert surface.  The air is thick with the 
+heavy stench of mildew and mold.  The room hasn't been used in some time 
+from the looks of it.  The only exit is back the way you entered.  
+~
+1 33554440 0
+D8
+~
+~
+1 0 1223
+R M 0 1203 3 1249
+  R E 0 1204 0 16
+  R E 0 1205 0 30
+R O 0 1200 0 1249
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

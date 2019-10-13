@@ -1,0 +1,3102 @@
+#AREA        City of Solace~
+
+
+
+#VERSION     11
+#AUTHOR      ~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#21600
+elf female potion dealer~
+the potion dealer~
+A female elf with a cart of potions is here.
+~
+~
+0
+Clanname none~
+0
+0
+5 512 200 C
+110 5 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21601
+Theos Ironfield~
+`#Theos Ironfield`^~
+Theos Ironfield is here, forging weapons and armor for his shop.
+~
+Theos Ironfield is a large black man standing 6'7".  Ash and soot from the 
+fires of his forge over his leather apron, and he wield a large hammer in 
+his `wSilver Arm`x.  
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+60 15 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21602
+khendos shop blacksmith~
+khendos the apprentice~
+Khendos stands behind the counter, ready to serve your needs.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 20 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21603
+child mage~
+a rambunctious child mage~
+A young child in mages robes is running around the classroom.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 6 2d4+1 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21604
+student mage apprentice teacher~
+an apprentice mage~
+The masters apprentice stand here, trying to calm the class down.
+~
+~
+0
+Clanname none~
+0
+0
+65 8 0 C
+18 5 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21605
+master mage old grumpy~
+the Master Mage~
+The grumpy old Master Mage is here, and he is NOT happy to see you!
+~
+~
+0
+Clanname none~
+0
+0
+33 128 0 C
+35 12 -11 5d6+205 6d4+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21606
+banker Syrus~
+syrus the banker~
+Syrus the Banker is here, ready for your transactions.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21607
+hill dwarf~
+a `#`yhill dwarf`^~
+A resident `#`yhill dwarf`^ is standing here.
+~
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+15 4 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21608
+elf~
+an elf~
+An elf from Qualinesti is wandering through Solace.
+~
+~
+0
+Clanname none~
+0
+0
+1 512 200 C
+16 5 -2 3d5+72 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21609
+otik sandarr~
+`#`yOtik Sandarr`^~
+`#`yOtik Sandarr`^ stands behind the bar, ready to take your order.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+60 50 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21611
+kender~
+a `#`ykender`^~
+A `#`ykender`^ is standing here. Better grab your money purse!
+~
+Better hold on to your money and your belongings!
+ 
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+9 2 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21612
+Tika Majere~
+`#`CTika `CMajere`^~
+`#The beautiful `CTika `CMajere`^ is here, serving customers.
+~
+Tika's curly red hair flows down her back.  She wears a low cut top,
+showing off her..  Ummm...  Assets.  She is very attractive, and gives you a
+wink as she trots off to serve the patrons of the inn.  
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+53 20 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21613
+mistress edwina healer~
+`#Mistress Edwina`^~
+Mistress Edwina stands here, tending to your wounds.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 0 C
+100 90 -70 10d14+480 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21614
+town guard~
+a `#`ytown guard`^~
+A member of the `#`ytown guard`^ is here, keeping the peace.
+~
+~
+0
+Clanname none~
+0
+0
+129 4096 200 C
+30 5 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21615
+mayor Solace~
+the mayor of Solace~
+The Mayor of Solace is here, making his rounds.
+~
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+25 0 -7 4d5+110 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21616
+old man fizban wizard~
+wise old man~
+A wise old man is sitting here by the fire.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+100 99 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21617
+citizen~
+citizen of Solace~
+A citizen of Solace is here.
+~
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+13 3 -2 3d5+67 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21618
+rhiannon~
+`#Rhiannon of Solace`^~
+Rhiannon is here, selling her potions.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+50 20 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21619
+kosh jeweler~
+`#Kosh the jeweler`^~
+Kosh the Jeweler stand here, his fingers covered with rings.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+60 40 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#21620
+alchemist dwarven~
+a dwarven alchemist~
+A dwarven alchemist wanders, looking for things to combine.
+~
+~
+0
+Clanname none~
+0
+0
+65 128 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#21601
+boulder~
+a large `#`Sboulder`^~
+A large `#`Sboulder`^ lies just off the road.~
+~
+12 0 8
+10000 1170 110 100 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21602
+red hot forge~
+a `#`Rred-hot`^ forge~
+A `#`Rred-hot`^ forge is in the corner.~
+~
+15 1 8
+5 0 1000 0 0 0 0
+100 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21603
+silver arm strength~
+`#`SSilver Arm`^ of `#`SStrength`^~
+An arm made of silver metal is lying here.~
+~
+9 64 8
+45 45 11 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21604
+steel molten lump ore~
+lump of molten steel~
+A lump of molten steel used for forging lies here, ready to be worked.~
+~
+56 0 32
+0 1 4 0 0 0 0
+1 160 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21605
+forging hammer~
+`#`Sforging`^ hammer~
+A steel hammer used for forging armor and weapons lies here.~
+~
+5 0 4
+7 78 101 1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21606
+fine steel mace~
+fine `#`Ssteel`^ mace~
+A fine steel mace lies gleaming on the ground.~
+~
+5 0 4
+4 17 25 8 0 0 0
+1 355 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21606 mace~
+This mace was forged by Theos Ironfield.
+~
+#21607
+sword steel longsword~
+fine `#`Ssteel`^ longsword~
+A fine steel longsword lies gleaming on the ground.~
+~
+5 0 4
+7 35 50 24 0 0 0
+1 355 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21607 sword~
+This fine steel longsword was forged by Theos Ironfield.
+~
+#21608
+steel dagger~
+fine `#`Ssteel`^ dagger~
+A fine steel dagger lies gleaming on the ground.~
+~
+5 0 4
+7 7 16 8 0 0 0
+1 410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21608 dagger~
+This dagger was forged by Theos Ironfield.
+~
+#21609
+fine steel axe~
+fine `#`Ssteel`^ axe~
+A fine steel axe lies gleaming on the ground.~
+~
+5 0 4
+5 35 50 48 0 0 0
+1 355 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21610
+engraved steel breastplate plate~
+engraved `#`Ssteel`^ breastplate~
+A steel breasplate with fancy engraving is lying here.~
+~
+9 0 8
+30 30 8 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21611
+pig face bascinet steel~
+a `#`Ssteel`^ pig face bascinet~
+A fine pig-face bascinet is lying here.~
+~
+9 0 8
+30 30 7 0 0 0 0
+1 190 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21612
+engraved steel greaves~
+engraved `#`Ssteel`^ greaves~
+A fine pair of engraved steel greaves lies on the ground.~
+~
+9 0 8
+5 5 7 0 0 0 0
+1 222 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21613
+crested heater shield~
+crested `#`Sheater`^ shield~
+A steel heater shield lies on the ground.~
+~
+9 0 8
+30 30 8 0 0 0 0
+1 126 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21614
+welcome sign~
+a wooden welcome sign~
+A wooden sign is here. You might want to read it.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21614 sign~
+**************************************
+*         Welcome to Solace!         *
+*  May your stay be a pleasant one.  *
+*                                    *
+*   -- Area created by Ixliam --     *
+**************************************
+~
+#21615
+order tablet~
+work order tablet~
+An armorsmith's work order tablet is lying here, filled with orders.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21616
+key slender~
+a slender key~
+A slender key is lying here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21617
+small desk key~
+a small desk key~
+A small key lies here on the floor.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21618
+sparkling wand~
+a `#`?s`?p`?a`?r`?k`?l`?i`?n`?g`^ wand~
+A `#`?s`?p`?a`?r`?k`?l`?i`?n`?g`^ wand is lying on the ground.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#21619
+bookshelf~
+a dusty bookshelf~
+A large dusty bookshelf stand here, filled with spellbooks.~
+~
+15 0 8
+0 0 100 -50 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21620
+oak desk~
+a large oak desk~
+A large oak desk covered with papers is here.~
+~
+15 0 8
+15 21617 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21621
+scroll givk upi ssjpkr~
+scroll titled 'givk upi ssjpkr'~
+A scroll titled 'givk upi ssjpkr' is lying here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 875 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21622
+ancient book legend~
+a `#`YB`yook `cof `YL`yegends`^~
+An ancient book titled 'Legends of the World' is lying here.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+21622 book~
+You open the book and begin to read the table of contents.
+1. How I defeated the Green Dragon by Thistlenott Burrhopp
+2. Nice prisons to visit in Abanasia by Kristop Hotfoot
+3. Wanderlust - Now, where's my hoopak! by Trispringer
+4. How to make friends through stories by Chianna Flamehair
+5. Dressing in Style by Kristoff Thimblefeet
+6. Dealing with Dwarves by Alherta Kellerflop.
+ 
+You realize it is a book by kobolds and wonder what it was doing in
+a mages library. You quickly shut it before you go insane.
+~
+#21623
+feather bed nice~
+a comfortable bed~
+A nice `#`cfeather bed`^ is here, it looks quite comfortable.~
+~
+12 0 8
+5000 1168 105 105 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21624
+pine dresser wood~
+a `#`ypine dresser`^~
+A `#`ypine dresser`^ is here.~
+~
+15 0 8
+13 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21625
+gold necklace~
+a `#`Ygold`^ necklace~
+A `#`Ygold`^ necklace is lying here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21626
+platinum wedding band~
+`wa `Splatinum `wwedding band`^~
+A wedding band made of platinum is here.~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21627
+bloodstone~
+a `#`rbloodstone`^~
+A `#`rbloodstone`^ is lying here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 345 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21628
+purple potion teleport faerie fire blindness~
+a `#`mpurple potion`^~
+A `#`mpurple potion`^ in a vial is standing here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21629
+black potion protection evil~
+a `#`Sblack potion`^~
+A `#`Sblack potion`^ is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21630
+glowing white potion protection good~
+a `#`Yglowing `Wwhite`^ potion~
+A `#`Yglowing `Wwhite`^ potion is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21631
+thick blue potion refresh remove curse~
+a thick `#`Bblue potion`^~
+A thick `#`Bblue potion`^ in a large vial is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 190 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21632
+potion pass door~
+a potion of `#`ypass door`^~
+A potion is laying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21633
+smelly potion fly heal~
+a `#`Gsmelly`^ potion~
+A `#`Gsmelly`^ potion is lying here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21634
+help potion recall cure serious remove curse~
+a potion named 'Help'~
+A potion with the word 'HELP!' on it lies here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 225 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#21635
+fountain silver~
+a `#`wsilver fountain`^~
+A `#`wsilver fountain`^ is here, gurgling with water.~
+~
+25 0 16
+1000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21636
+fireplace~
+a `#`Rblazing`^ fireplace~
+A `#`Rblazing`^ fireplace is here, warming the inn.~
+~
+12 1 8
+1000 16969 -80 -50 0 0 0
+99 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21637
+round table~
+a round table~
+A round table with six chairs is here.~
+~
+12 0 8
+5000 586 120 120 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21638
+chair~
+a chair~
+A nice looking chair is here.~
+~
+12 0 8
+2000 2338 105 105 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21639
+mug mead~
+a `#`yfoaming`^ mug of mead~
+A foaming mug of mead is here.~
+~
+17 0 16
+3 20 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21640
+spiced potatoes plate~
+Otik's `#`Rs`rp`Ri`rc`Re`rd`^ potatoes~
+A plate of Otik's `#`Rs`rp`Ri`rc`Re`rd`^ potatoes is here.~
+~
+19 0 16
+50 0 0 0 0 0 0
+1 3 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21641
+ice-cold beer~
+an `#`Cice-cold`^ beer~
+An `#`Cice-cold`^ beer is sitting here.~
+~
+17 0 16
+3 1 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21642
+brightly colored kender pants~
+some `#`?b`?r`?i`?g`?h`?t`?l`?y `?c`?o`?l`?o`?r`?e`?d `?k`?e`?n`?d`?e`?r`^ pants~
+A pair of `#`?b`?r`?i`?g`?h`?t`?l`?y `?c`?o`?l`?o`?r`?e`?d `?k`?e`?n`?d`?e`?r`^ pants are lying here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21643
+turkey leg~
+a `#`yturkey leg`^~
+A delicious looking `#`yturkey leg`^ is sitting here.~
+~
+19 0 16
+40 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21644
+yummy funnel cake~
+a `#`W(`Cyummy`W)`Y funnel cake`^~
+A piece of `#`W(`Cyummy`W)`Y funnel cake`^ is sitting here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21645
+cast iron frying pan runic~
+a `#`W[`Rhot`W] `Scast iron`^ frying pan~
+A hot cast iron frying pan is sitting here.~
+~
+5 256 4
+11 70 85 9 0 0 0
+1 16 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21646
+steak stake beef~
+a `#`ysteak`^ on a `#`ystake`^~
+Some delicious `#`ysteak`^ on a `#`ystake`^ is sitting here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#21647
+hoopak~
+a `#`yhoopak`^~
+A kender hoopak is lying here.~
+~
+5 0 4
+3 7 16 32 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#21600
+Road through the Forest~
+~
+The road runs from the trail west through the forest, with trees lining the 
+road on either side.  Off in the distance, you hear the sounds and sense 
+civilization, but of what exact kind in this area, you do not know.  
+~
+1 0 15
+D1
+~
+~
+0 0 21601
+S
+#21601
+Road to Solace~
+~
+The road continues to the east and west, winding its way through the
+forest.  The town of Solace lies to the east, home of the famous vallenwood
+trees, known across the world for their enormous size and strength.  A large
+boulder sits off to the side of the path, and it appears like it would be a
+good place to rest.  
+~
+1 0 15
+D1
+~
+~
+0 0 21602
+D3
+~
+~
+0 0 21600
+R O 0 21601 0 21601
+S
+#21602
+Before Solace~
+~
+The road turns north through the forest as the town of Solace lies ahead.
+The forest begins to give way to a large clearing, and you begin to make out
+the vallenwood trees to the north.  Wisps of smoke come from the homes the
+townfolk have constructed in the trees, building around them, rather than
+cutting them down.  
+~
+1 0 15
+D0
+~
+~
+0 0 21603
+D3
+~
+~
+0 0 21601
+R M 0 21614 30 21602
+  R E 0 21610 0 5
+  R E 0 21607 0 17
+  R E 0 21607 0 16
+S
+#21603
+Entrance to Solace~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues north and south from
+here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21604
+D2
+~
+~
+0 0 21602
+R O 0 21614 0 21603
+S
+#21604
+Main Street and Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues in all directions from
+here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21605
+D1
+~
+~
+0 0 21639
+D2
+~
+~
+0 0 21603
+D3
+~
+~
+0 0 21679
+S
+#21605
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues north and south.  
+~
+1 0 1
+D0
+~
+~
+0 0 21606
+D2
+~
+~
+0 0 21604
+S
+#21606
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues north and south.  
+~
+1 0 1
+D0
+~
+~
+0 0 21607
+D2
+~
+~
+0 0 21605
+R M 0 21611 20 21606
+  R E 0 21647 0 16
+  R E 0 21642 0 7
+S
+#21607
+Main & Zivilyn Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues north, south, east and
+west from here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21608
+D1
+~
+~
+0 0 21654
+D2
+~
+~
+0 0 21606
+D3
+~
+~
+0 0 21680
+S
+#21608
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21609
+D2
+~
+~
+0 0 21607
+S
+#21609
+Center of Solace~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  Stading in the center of Solace, a large
+staircase winds its way up a vallenwood tree, into the Inn of the Last Home
+above.  
+~
+1 0 1
+D0
+~
+~
+0 0 21610
+D1
+~
+~
+0 0 21651
+D2
+~
+~
+0 0 21608
+D3
+~
+~
+0 0 21681
+D4
+~
+~
+0 0 21700
+R O 0 21635 0 21609
+R M 0 21614 30 21609
+  R E 0 21613 0 11
+  R E 0 21612 0 7
+  R E 0 21610 0 5
+  R E 0 21606 0 16
+S
+#21610
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21611
+D2
+~
+~
+0 0 21609
+R M 0 21615 1 21610
+R M 0 21617 30 21610
+R M 0 21608 10 21610
+S
+#21611
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21612
+D2
+~
+~
+0 0 21610
+S
+#21612
+Main Street & Solace Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21613
+D1
+~
+~
+0 0 21668
+D2
+~
+~
+0 0 21611
+R M 0 21600 1 21612
+  R G 0 1004 0
+  R G 0 1002 0
+  R G 0 1001 0
+  R G 0 1000 0
+S
+#21613
+Main Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  As you look up you see the back side of the
+Inn of the Last Home, and a rope descending down from the kitchen area, but
+you cannot reach it from here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21614
+D2
+~
+~
+0 0 21612
+S
+#21614
+Main & Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  The outskirts of Solace lie to the north, or
+you man continue around the edge of town to the east and west, or back south
+into town.  
+~
+1 0 1
+D0
+~
+~
+0 0 21615
+D1
+~
+~
+0 0 21621
+D2
+~
+~
+0 0 21613
+D3
+~
+~
+0 0 21616
+S
+#21615
+Outskirts of Solace~
+~
+This rough, caravan-blazed trail heads south into the town of Solace, home 
+of the famed Vallenwood trees.  From here, many homes and walkways can be 
+seen built high up upon the branches of these mighty trees.  The trail heads 
+north from here as well, making a route for trade caravans to travel upon.  
+~
+1 4 1
+D2
+~
+~
+0 0 21614
+S
+#21616
+Paladine & Sirrion Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21614
+D2
+~
+~
+0 0 21683
+D3
+~
+~
+0 0 21617
+S
+#21617
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21616
+D3
+~
+~
+0 0 21618
+S
+#21618
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A small staircase winds around a vallenwood
+tree into the branches above.  
+~
+1 0 1
+D1
+~
+~
+0 0 21617
+D3
+~
+~
+0 0 21619
+D4
+~
+~
+0 0 21692
+S
+#21619
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21618
+D3
+~
+~
+0 0 21620
+R M 0 21611 20 21619
+  R E 0 21642 0 7
+  R E 0 21647 0 16
+S
+#21620
+Paladine Street & Raistlin Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21619
+D2
+~
+~
+0 0 21671
+S
+#21621
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21622
+D3
+~
+~
+0 0 21614
+S
+#21622
+Paladine Steet and Solace Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21623
+D2
+~
+~
+0 0 21644
+D3
+~
+~
+0 0 21621
+S
+#21623
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A shop called 'Bubblies R Us' is to the
+south.  
+~
+1 0 1
+D1
+~
+~
+0 0 21624
+D2
+~
+~
+0 0 21627
+D3
+~
+~
+0 0 21622
+S
+#21624
+Paladine Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21625
+D3
+~
+~
+0 0 21623
+R M 0 21614 30 21624
+  R E 0 21612 0 7
+  R E 0 21611 0 6
+  R E 0 21610 0 5
+  R E 0 21608 0 17
+  R E 0 21607 0 16
+S
+#21625
+Paladine Street and Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D2
+~
+~
+0 0 21626
+D3
+~
+~
+0 0 21624
+R M 0 21611 20 21625
+  R E 0 21642 0 7
+  R E 0 21647 0 16
+S
+#21626
+Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A nice looking home lies to the west.  
+~
+1 0 1
+D0
+~
+~
+0 0 21625
+D2
+~
+~
+0 0 21628
+D3
+~
+~
+33 0 21647
+S
+#21627
+Bubblies R Us~
+~
+Shelves line the walls, filled with beakers and jars with various colors
+of potions to buy.  A strange smell fills the air around you.  The young
+proprietor of the shop, Rhiannon, stands ready to meet your requests.  A
+door to the north lies open to the street outside.  
+~
+1 0 0
+D0
+~
+~
+0 0 21623
+R M 0 21618 1 21627
+  R G 0 21634 0
+  R G 0 21633 0
+  R G 0 21632 0
+  R G 0 21631 0
+  R G 0 21630 0
+  R G 0 21629 0
+S
+#21628
+Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A staircase leads up into the treetops, and
+you can make out the Bank of Solace above.  
+~
+1 0 1
+D0
+~
+~
+0 0 21626
+D2
+~
+~
+0 0 21631
+D4
+~
+~
+0 0 21661
+R M 0 21617 30 21628
+R M 0 21607 20 21628
+S
+#21631
+Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21628
+D2
+~
+~
+0 0 21633
+S
+#21633
+Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21631
+D2
+~
+~
+0 0 21635
+S
+#21635
+Habbakuk Way & Mishakal Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues west and north from
+here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21633
+D3
+~
+~
+0 0 21637
+S
+#21637
+Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  To the north lies the blacksmith shop of
+Theos Ironfield, and the road continues east and west.  
+~
+1 0 1
+D0
+~
+~
+0 0 21642
+D1
+~
+~
+0 0 21635
+D3
+~
+~
+0 0 21638
+R M 0 21611 20 21637
+  R E 0 21642 0 7
+  R E 0 21647 0 16
+S
+#21638
+Habbakuk Way & Lookout Road~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  The road continues north, east and west
+from here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21641
+D1
+~
+~
+0 0 21637
+D3
+~
+~
+0 0 21639
+S
+#21639
+Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. Trunk 
+the size of dragons, reaching far into the sky.  Ladders ascend into the 
+treetops, connecting the intricate maze of buildings that are nestled in the 
+arms of the vallenwood trees.  The road continues west and east from here.  
+~
+1 0 1
+D1
+~
+~
+0 0 21638
+D3
+~
+~
+0 0 21604
+S
+#21641
+Lookout Road~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21654
+D2
+~
+~
+0 0 21638
+S
+#21642
+Theos's Arms & Armor~
+~
+Arms and armor line the walls of the Blacksmith shop.  Theos's assistant
+Khendos, stands behind a large oak counter, ready to serve your needs.  A
+slight smell of fire and ash fills the air, and you can feel the heat from
+the forge and hear the sounds of a hammer to the east.  A large oak door
+leading outside lies to the south.  
+~
+1 0 0
+D1
+~
+~
+0 0 21643
+D2
+~
+~
+0 0 21637
+R M 0 21602 1 21642
+  R E 0 21615 0 17
+  R G 0 21607 0
+  R G 0 21608 0
+  R G 0 21606 0
+  R G 0 21609 0
+  R G 0 21610 0
+  R G 0 21611 0
+  R G 0 21612 0
+  R G 0 21613 0
+S
+#21643
+At the Forge~
+~
+The open air gives way the the sound of metal on metal, fire and smoke,
+as you stand near the forge of Theos Ironfield.  A several large barrels
+filled with oil, water, and some with what looks like blood stand here,
+ready to quench the fiery steel.  A rack filled with tongs, hammers,
+chisels, and other tools of the smith stands beside the forge.  Several
+anvils mounted on treestumps stand ready to work the steel into weapons and
+armor.  
+~
+1 0 0
+D3
+~
+~
+0 0 21642
+R M 0 21601 1 21643
+  R E 0 21603 0 10
+  R E 0 21605 0 16
+R O 0 21602 0 21643
+  R P 0 21604 1 21602
+S
+#21644
+Solace Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A staircase leads up into the treetops from
+here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21622
+D2
+~
+~
+0 0 21668
+D4
+~
+~
+0 0 21645
+S
+#21645
+Along a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D1
+~
+~
+0 0 21648
+D5
+~
+~
+0 0 21644
+S
+#21646
+Kosh's Fine Jewelery~
+~
+Several cases of fine jewelry and gems line the walls of this
+establishment.  Fine carpeting covers the floor, and Kosh, the Solace
+jeweler, is wearing enough jewelery to fund a large war.  A reenforced steel
+door is to the west, leading to the outside.  
+~
+1 1024 0
+D3
+~
+~
+0 0 21648
+R M 0 21619 1 21646
+  R G 0 3040 0
+  R G 0 3066 0
+  R G 0 3068 0
+  R G 0 3077 0
+S
+#21647
+A Wealthy Home~
+~
+This home is quite extravagent.  Large tapestries and paintings hang from
+the walls.  A blazing marble fireplace is on the southern wall, with a
+picture of the owner's family above the mantle.  A large bear-skin rug
+covers the stone floor, while a feather bed is in another corner of the
+room, beside a dresser.  An oak-framed door leading to the street is to the
+east.  
+~
+1 0 0
+D1
+~
+~
+33 0 21626
+R O 0 21623 0 21647
+R O 0 21624 0 21647
+  R P 0 21630 1 21624
+  R P 0 21627 1 21624
+  R P 0 21625 1 21624
+S
+#21648
+Outside the Jeweler~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  The jeweler's shop
+lies to the east.  
+~
+1 0 1
+D1
+~
+~
+0 0 21646
+D2
+~
+~
+0 0 21649
+D3
+~
+~
+0 0 21645
+S
+#21649
+Along a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21648
+D2
+~
+~
+0 0 21650
+S
+#21650
+Along a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21649
+D1
+~
+~
+0 0 21659
+S
+#21651
+Below the Healer Cottage~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A ladder leads up a vallenwood and into a
+small building above.  
+~
+1 0 1
+D3
+~
+~
+0 0 21609
+D4
+~
+~
+0 0 21659
+S
+#21653
+Lookout Point~
+~
+High above the trees you can see the entire town of Solace.  To the far
+west lies the Mages school, the Inn of the Last Home is in the center of
+town, and just southwest of here if Theos's blacksmith shop.  Slightly
+northeast is Mistress Edwina's healing cottage and a bit further is the Bank
+of Solace.  At the edge of town to the northeast lies the Rhianon's potion &
+magic shop, and several homes are scattered both on the ground and in the
+vallenwoods.  It is quite a magnificent sight from here.  
+~
+1 0 0
+D5
+~
+~
+0 0 21654
+R M 0 21614 30 21653
+  R E 0 21609 0 16
+  R E 0 21607 0 17
+  R E 0 21610 0 5
+  R E 0 21611 0 6
+S
+#21654
+Below the Lookout Tower~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  A long flight of stairs leads up into the
+lookout tower, and the road continues to the west and south.  
+~
+1 0 1
+D2
+~
+~
+0 0 21641
+D3
+~
+~
+0 0 21607
+D4
+~
+~
+0 0 21653
+R M 0 21607 20 21654
+R M 0 21607 20 21654
+R M 0 21620 1 21654
+S
+#21655
+Path through the Woods~
+~
+~
+1 524292 3
+S
+#21656
+Walkway through the Vallenwoods~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21657
+D3
+~
+~
+0 0 21691
+S
+#21657
+Among the Vallenwoods~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  A small home lies to
+the north.  
+~
+1 0 1
+D0
+~
+~
+33 0 21658
+D1
+~
+~
+0 0 21664
+D2
+~
+~
+0 0 21656
+S
+#21658
+A Small Home~
+~
+This small home is spartan at best.  Cheap cloth curtains cover the
+windows, and a single bed lies in one coner beside a nightstand.  A small
+fireplace lies on the east corner of the home, giving warmth during the cold
+winters.  It looks like a nice, basic home, but nothing to write home about.
+~
+1 0 0
+D2
+~
+~
+33 0 21657
+R O 0 21624 0 21658
+  R P 0 21628 1 21624
+R O 0 21623 0 21658
+S
+#21659
+Healer's Cottage~
+~
+The cottage is well lit with a magical glow from several continual light
+spells placed in globes on the wall.  Cool air flows in from the open
+windows, as the fragrence of the forest fills the cottage.  You feel like
+this would be a great place to catch some rest, as several couches and
+benches line the walls.  It feels like a very safe place under the
+protection of Mistress Edwina.  
+~
+1 1024 0
+D3
+~
+~
+0 0 21650
+D5
+~
+~
+0 0 21651
+R M 0 21613 1 21659
+S
+#21660
+Bank of Solace~
+~
+Inside of the large bank, customers are making their transactions.  They
+are trading gold for silver, silver for gold, or just depositing their money
+for safekeeping.  Why don't you make a deposit or withdrawl today ?  
+~
+1 263232 0
+D1
+~
+~
+0 0 21661
+R M 0 21606 1 21660
+S
+#21661
+On a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  A large set of stairs
+lead down, and the Bank of Solace is to the west.  
+~
+1 0 1
+D2
+~
+~
+0 0 21662
+D3
+~
+~
+0 0 21660
+D5
+~
+~
+0 0 21628
+S
+#21662
+On a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21661
+D2
+~
+~
+0 0 21663
+S
+#21663
+On a Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21662
+D2
+~
+~
+0 0 21664
+S
+#21664
+Among the Vallenwoods~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21663
+D3
+~
+~
+0 0 21657
+S
+#21667
+Town Guard Headquarters~
+~
+The town guard headquarters is nice and clean, compared to others you
+have seen.  Several cells for jailing drunk and criminals lie behind the
+large desk to your south.  A clerk stands behind the desk, ready to take any
+reports of wrongdoing and dispatch the guard to 'clear up the matter'.  To
+the west, a trophy case showcasing the various awards and honors the guard
+has received over the years.  
+~
+1 0 0
+D0
+~
+~
+0 0 21668
+R M 0 21614 30 21667
+  R E 0 21611 0 6
+  R E 0 21613 0 11
+  R E 0 21607 0 16
+S
+#21668
+Solace Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  The headquaters for the town guard lies to
+the south.  
+~
+1 0 1
+D0
+~
+~
+0 0 21644
+D2
+~
+~
+0 0 21667
+D3
+~
+~
+0 0 21612
+S
+#21671
+Raistlin Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  A flight of stairs leads up and curves
+around a large vallenwood.  
+~
+1 0 1
+D0
+~
+~
+0 0 21620
+D2
+~
+~
+0 0 21672
+D4
+~
+~
+0 0 21693
+S
+#21672
+Raistlin Lane~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21671
+D2
+~
+~
+0 0 21673
+S
+#21673
+Before the Mage School~
+~
+You find yourself right outside the famous Mage's school of Solace, where
+young children and teenages come to take their first lessons on wielding
+magic.  You hear the sounds of children in the air, and the scolding voice
+of the master as he tries to calm them down, and make them behave.  The
+school lies just to the south of here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21672
+D1
+~
+~
+0 0 21676
+D2
+~
+~
+0 0 21674
+S
+#21674
+Solace Mage School~
+~
+The clamor of children in the classroom is...  Well, not exacly music to
+your ears.  20 small wooden desks fill the room, while a chalkboard and the
+teachers desk faces the students.  Paper airplanes litter the floor , and
+you wonder if all mages start their careers this way.  The school looks a
+bit underfinaced, and the paint is peeling in several places.  A large oak
+door lies to the east.  
+~
+1 0 0
+D0
+~
+~
+0 0 21673
+D1
+~
+~
+1 0 21675
+R M 0 21603 12 21674
+R M 0 21604 1 21674
+  R E 0 21616 0 17
+S
+#21675
+Master Mage's Study~
+~
+A large oaken desk covered with test papers and spellbooks dominates this
+small room.  Greenish paint is peeling off the walls, and spell component
+residue litters the floor.  Several bookshelves stand full of books, and
+dust covers the top of the bookshelf.  You hope the master doesn't come in
+and catch you in his study!  Oak doors lie to the west and south.  
+~
+1 0 0
+D2
+~
+~
+33 21616 21687
+D3
+~
+~
+1 0 21674
+R O 0 21619 0 21675
+  R P 0 21622 1 21619
+R O 0 21620 0 21675
+  R P 0 21621 1 21620
+S
+#21676
+Habbakuk Way & Zivilyn Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21686
+D1
+~
+~
+0 0 21677
+D3
+~
+~
+0 0 21673
+S
+#21677
+Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21678
+D3
+~
+~
+0 0 21676
+S
+#21678
+Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.   
+~
+1 0 1
+D1
+~
+~
+0 0 21679
+D3
+~
+~
+0 0 21677
+S
+#21679
+Habbakuk Way~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21604
+D3
+~
+~
+0 0 21678
+S
+#21680
+Zivilyn Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21607
+D3
+~
+~
+0 0 21684
+S
+#21681
+Sirrion Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21682
+D1
+~
+~
+0 0 21609
+S
+#21682
+Sirrion Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  A large staircase winds its way up into the
+treetops here.  
+~
+1 0 1
+D0
+~
+~
+0 0 21683
+D2
+~
+~
+0 0 21681
+D4
+~
+~
+0 0 21691
+S
+#21683
+Sirrion Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunks the size of dragons, reach far into the sky.  Ladders ascend into the
+treetops, connecting the intricate maze of buildings that are nestled in the
+arms of the vallenwood trees.  
+~
+1 0 1
+D0
+~
+~
+0 0 21616
+D2
+~
+~
+0 0 21682
+S
+#21684
+Zivilyn Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  A flight of stairs leads up into the
+vallenwoods.  
+~
+1 0 1
+D1
+~
+~
+0 0 21680
+D3
+~
+~
+0 0 21685
+D4
+~
+~
+0 0 21688
+S
+#21685
+Zivilyn Steet~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21684
+D3
+~
+~
+0 0 21686
+S
+#21686
+Zivilyn Street~
+~
+Below the mighty vallenwoods, you find yourself in awe of their size. 
+Trunk the size of dragons, reaching far into the sky.  Ladders ascend into
+the treetops, connecting the intricate maze of buildings that are nestled in
+the arms of the vallenwood trees.  
+~
+1 0 1
+D1
+~
+~
+0 0 21685
+D2
+~
+~
+0 0 21676
+S
+#21687
+Mages Laboratory~
+~
+Potions bubble and caldrons brew, a feeling of magic comes over you. 
+Enchantments fill the air with power, all around this special hour. 
+Blackness falls upon your eyes, as they widen in suprise!  The Master mage's
+eyes glare at you, and with his power you'll be torn in two!  
+~
+1 0 0
+D0
+~
+~
+33 21616 21675
+R M 0 21605 1 21687
+  R G 0 21617 0
+  R E 0 21618 0 17
+S
+#21688
+In the Treetops~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21689
+D5
+~
+~
+0 0 21684
+R M 0 21607 20 21688
+R M 0 21608 10 21688
+R M 0 21617 30 21688
+S
+#21689
+On the Vallenwood Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D2
+~
+~
+0 0 21688
+D3
+~
+~
+0 0 21690
+S
+#21690
+On the Vallenwood Walkway~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  
+~
+1 0 1
+D0
+~
+~
+0 0 21692
+D1
+~
+~
+0 0 21689
+D3
+~
+~
+0 0 21693
+S
+#21691
+The Landing in the Vallenwoods~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  A large staircase
+leads down to the ground from here.  
+~
+1 0 1
+D1
+~
+~
+0 0 21656
+D3
+~
+~
+0 0 21692
+D5
+~
+~
+0 0 21682
+R M 0 21614 30 21691
+  R E 0 21611 0 6
+  R E 0 21609 0 16
+S
+#21692
+Around the Vallenwood Tree~
+~
+You find yourself far above the ground in the vallenwood trees. 
+Exquisitly constructed bridges, stairs and pathways wind in and out of the
+vallenwood trees.  The view from here is magnificent.  A large staircase
+leads down to the ground from here.  
+~
+1 0 1
+D1
+~
+~
+0 0 21691
+D2
+~
+~
+0 0 21690
+D5
+~
+~
+0 0 21618
+S
+#21693
+On the Vallenwood Walkway~
+~
+The flight of stairs curves around a mighty vallenwood tree.  You are
+just above the ground in the vallenwood trees.  Exquisitly constructed
+bridges, stairs and pathways wind in and out of the vallenwood trees.  The
+view from here is magnificent.  
+~
+1 0 1
+D1
+~
+~
+0 0 21690
+D5
+~
+~
+0 0 21671
+S
+#21700
+Inn of the Last Home~
+~
+Here at the entrance to the Inn of the Last Home, you are awestruck by
+its size.  Smoke rises from two chimneys, one on each side of the inn. 
+Light and the noise of the crowd, along with the smell of spiced potatoes
+pours from the entrance.  The inn stands two stories tall, and has been the
+home of many adventures, both famous and not-so famous.  Perhaps it can be
+your new home as well.  
+~
+1 0 0
+D0
+~
+~
+0 0 21701
+D5
+~
+~
+0 0 21609
+S
+#21701
+Inn of the Last Home~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar dominates the inn, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  
+~
+1 0 0
+D0
+~
+~
+0 0 21702
+D1
+~
+~
+0 0 21703
+D2
+~
+~
+0 0 21700
+R O 0 21638 0 21701
+R O 0 21637 0 21701
+S
+#21702
+Near the Kitchen~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar dominates the inn, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  A set of swinging doors is to the north, leading
+into the kitchen.  
+~
+1 0 0
+D0
+~
+~
+0 0 21707
+D1
+~
+~
+0 0 21704
+D2
+~
+~
+0 0 21701
+R O 0 21637 0 21702
+R O 0 21638 0 21702
+S
+#21703
+Inn of the Last Home~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar dominates the inn, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  
+~
+1 0 0
+D0
+~
+~
+0 0 21704
+D1
+~
+~
+0 0 21705
+D3
+~
+~
+0 0 21701
+R O 0 21638 0 21703
+R O 0 21637 0 21703
+R M 0 21612 1 21703
+  R E 0 21645 0 16
+S
+#21704
+At the Bar~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar stands before you, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  
+~
+1 0 0
+D1
+~
+~
+0 0 21706
+D2
+~
+~
+0 0 21703
+D3
+~
+~
+0 0 21702
+R O 0 21638 0 21704
+R O 0 21637 0 21704
+R M 0 21609 1 21704
+  R G 0 21646 0
+  R G 0 21644 0
+  R G 0 21643 0
+  R G 0 21640 0
+  R G 0 21641 0
+  R G 0 21639 0
+S
+#21705
+By the Fireplace~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar dominates the inn, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  
+~
+1 0 0
+D0
+~
+~
+0 0 21706
+D3
+~
+~
+0 0 21703
+R M 0 21616 1 21705
+R M 0 21607 20 21705
+R O 0 21636 0 21705
+R O 0 21637 0 21705
+R O 0 21638 0 21705
+S
+#21706
+Inn of the Last Home~
+~
+The sights and smells of this famous inn fill your senses.  Wifts of
+delicious food, including Otik's spiced potatoes, make your mouth water in
+anticipation.  A well-worn bar dominates the inn, polished to a warm glow. 
+Patrons wander in and out of the inn, some meeting with friends, some
+meeting with enemies.  But all come here to enjoy good companionship, great
+food, and ice cold mead.  
+~
+1 0 0
+D2
+~
+~
+0 0 21705
+D3
+~
+~
+0 0 21704
+R M 0 21611 20 21706
+  R E 0 21647 0 16
+  R E 0 21642 0 7
+R O 0 21637 0 21706
+R O 0 21638 0 21706
+S
+#21707
+Kitchen of the Inn~
+~
+The smell of spicy potatoes and ice cold brew fills the kitchen.  The
+heat from the stove washes over you, as seveal cooks prepare food and drink
+for the patrons of the Inn.  Several gully dwarves can be seen washing
+dishes, some with washcloths, others with their tongues.  You hope that the
+plate you got wasn't washed that way!  At the very back of the kitchen is a
+small opening in the floor, with a rope ladder leading to the ground below. 
+It looks like a nice escape route.  
+~
+1 0 0
+D2
+~
+~
+0 0 21702
+D5
+~
+~
+0 0 21613
+S
+#0
+
+
+#SHOPS
+ 21600   10  2  0  0  0   110  70         0 23    ; the potion dealer
+ 21602    5  9  0  0  0   103  60         0 23    ; khendos the apprentice
+ 21609   19 17  0  0  0   100   0         0 23    ; `#`yOtik Sandarr`^
+ 21618   10  2  3  0  0    90  40         0 23    ; `#Rhiannon of Solace`^
+ 21619   32 33  8  0  0   101  90         0 23    ; `#Kosh the jeweler`^
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

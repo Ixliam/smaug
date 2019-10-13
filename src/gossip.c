@@ -25,9 +25,9 @@
 #include <string.h>
 #include <errno.h>
 #include <wsclient/wsclient.h>
-#include <jansson.h>
-#include "mud.h"
-#include "gossip.h"
+
+#include "h/mud.h"
+#include "h/gossip.h"
 
 /*
  * Globals

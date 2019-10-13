@@ -1,0 +1,212 @@
+#AREA        Immortal Perfumes~
+
+
+
+#VERSION     11
+#AUTHOR      delandria ixliam~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#2360
+incense scent perfume~
+some incense~
+Some incense is laying here.~
+~
+36 0 32
+50 50 237 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2361
+cinnamon scent perfume~
+some `#`ycinnamon`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+10 10 69 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2362
+jasmine scent perfume~
+some `#`mjasmine`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+10 10 244 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2363
+rose scent perfume~
+some `#`rrose`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+10 10 351 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2364
+bath soap scent perfume~
+some `#`wb`Wa`wt`Wh`^ soap~
+A bar of soap is laying here.~
+~
+36 0 32
+50 50 389 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2365
+lavender perfume scent~
+some `#`mlavender`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+50 50 -1 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2366
+cherry blossom scent perfume~
+some `#`mc`Mh`merryb`Ml`moss`Mo`mm`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+50 50 -1 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2367
+wild flower scent perfume~
+some `#`Yw`yi`wl`Wd `Yf`yl`wo`Ww`Ye`Yr`^ scented perfume~
+A puddle of something smelling strongly of wild flowers is here~
+~
+36 0 32
+50 50 0 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2368
+citrus scent perfume~
+some `#`Yc`yi`Yt`yr`Yu`ys`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+50 50 0 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2369
+pine scented perfume~
+some `#`gpine`^ scented perfume~
+A bottle of perfume is here.~
+~
+36 0 32
+50 50 0 0 0 0 0
+1 100 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2360
+~
+~
+~
+1 4 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

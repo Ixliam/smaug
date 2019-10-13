@@ -1,0 +1,707 @@
+#AREA        The Crypt Coven Clan Hall~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#1400
+ancient vampire~
+the ancient vampire~
+An ancient vampire stands ready to train you in combat.
+~
+This ancient creature is as evil as they get.  The look of absolute
+malice in its eyes is beyond description.  The vampire is dressed in dark
+clothing, and has pale white skin with black hair and eyes.  
+~
+0
+clanname none~
+0
+0
+65 512 -600 C
+120 4 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1402
+mistress pandora healer~
+`#Pandora~
+Pandora stands here, tending to your wounds.
+~
+~
+0
+clanname none~
+0
+0
+3 4096 0 C
+100 90 -70 10d14+480 10d13+54
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1403
+young boy~
+a young boy~
+A young boy with bite marks on his neck and arms is here.
+~
+~
+0
+clanname none~
+0
+0
+65 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#1404
+ancient vampire banker~
+the vampire banker~
+A vampire banker is here, awaiting your transaction.
+~
+This ancient creature is as evil as they get.  The look of absolute
+malice in its eyes is beyond description.  The vampire is dressed in dark
+clothing, and has pale white skin with black hair and eyes.  
+~
+0
+clanname none~
+0
+0
+65 512 -600 C
+120 4 -90 12d15+580 12d16+75
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1400
+Vault sarcophagus coffin~
+`#`wa large `sStone `wSarcophagus`^~
+A`#`w large `sStone `wSarcophagus`^ is here~
+~
+12 16 8
+1000 2336 130 130 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1401
+vampire coven light ball glowing vampiric~
+a glowing ball of light~
+A glowing ball of vampiric light is here.~
+~
+1 1 1
+0 999 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1402
+dark marble statue slim drowish woman honour~
+a `#`sdark marble`^ statue of a slim drowish woman~
+A dark marble statue of a slim drowish woman stands here in honour.~
+~
+12 0 8
+50000 65608 120 120 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+1402 dark marble statue slim drowish woman~
+The dark marble of this statue depicts the image of Luhka Erarath, one of 
+the Elders to The Coven.  Carved in her honour, the likeness is striking, 
+each line chisled expertly.  
+~
+#1404
+enormous stone table~
+an enormous stone table~
+An enormous stone table with many chairs around it is here.~
+~
+12 0 8
+20000 8266 130 130 0 0 0
+100 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+1404 enormous stone table~
+This table is large enough to seat an entire army of men, but there are only 
+about thirty seats around it.  The table is made out of a slate-like stone.  
+
+~
+#1405
+scroll journal book parchment~
+an ancient scroll~
+An ancient scroll sealed with a vampiric seal.~
+~
+8 16 8
+0 0 0 0 0 0 0
+1 1 1
+0
+0
+0
+0
+0
+0
+S 0 0
+E
+1405 scroll journal parchment book~
+From the Journal of Lecroix Desdicardo of the 3rd Generation.  `+
+`+
+"For to darkness I was born, and in darkness I will remain.  We shall be as 
+a mere shadow upon the world, a figment of their dreams, but a reality worse 
+than their nightmares."  - Lecroix Desdicardo`+
+`+
+Where shall I begin my friend, to tell of what you have become, or rather 
+what has been awakened inside of you.  I have walked the paths of night for 
+many millennia now, I have seen many kingdoms rise and fall, and wars the 
+threatened to destroy the entire knowne world.  Yet I have not seen a 
+sunrise or the light of day for so long, I have forgotten what it even 
+appears like.  I only see it now in flickers of dreams and in paintings of 
+great masters.  `+
+`+
+Over the many cycles of my existance, both my power and strength have grown 
+beyond measure, but also has my solitude.  I shun the world and keep to my 
+studies, attempting to put into words for those who are new to the unlife 
+that which they must know to survive.  For though our powers and abilities 
+are great, in other ways we are weaker than normal man.  `+
+`+
+Holy items and weapons can severly hurt us, and the sunlight will kill us in 
+a very short time.  As we grow older and stronger, or the closer we are to 
+the original source of all of us, the more powerfull we will become.  We can 
+transform at will into an invisible cloud of mist, a large wolf, or a bat.  
+We can restore our energy through the blood inside of us.  We can hypnotize 
+and stun our prey.  Some very ancient and powerfull vampires are even 
+rumored to be able to incinerate lesser vampires and are able to walk in the 
+sunlight.  In my lifetime of 1200 years, I have never encountered one of 
+these, but only heard the whispers of rumors.  `+
+`+
+What you must know, and always remember, is that you must not reveal your 
+true nature to those who are not of our kind.  If the world knew of our true 
+power and existance, they would hunt us down and wipe us out.  So, we 
+maintain the illusion of life.  We dare not hint of our true nature to 
+others, save those we choose to give the Dark Gift to.  So, over the 
+centuries, the Coven of the Blood has arisen to teach and instruct, and to 
+protect our interests.  Thus, were these laws laid down.  Those who disobey 
+are usually destroyed.  `+
+`+
+`RMasquerade`x - Never reveal our true nature to those not of the blood.  `+
+`+
+`RDomain`x - Elders are the guiding force among vampires.  All owe them respect 
+and admiration.  `+
+`+
+`RProgeny`x - Only Sire another with the permission of an Elder or Regent.  `+
+`+
+`RAccounting`x - Until Progeny are released, their sins are the Sire's to 
+endure.  `+
+`+
+`RDestruction`x - The right of destruction belongs only to the Elders.  To kill
+another vampire means your own destruction.  `+
+
+`RMotto`x - To will, to know, to dare, to keep silent.  To only give the Dark 
+Gift to those who are worthy to receive it.  `+
+`+
+I have seen those who have not joined or submitted to the will of the Coven. 
+ To my knoledge, they did not exist in this world for very long.  If your 
+Sire did not tell you these things, then now you know and have been made 
+aware of them.  Protect our secrets at all costs, as the world must not know 
+what we know.  If they did, we would cease to exist.  `+
+`+
+`BSigned - `cLecroix Desdicardo`+
+`x
+~
+#1406
+wooden stake~
+a wooden stake~
+A very sharp wooden stake lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 50 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#1407
+blood fountain~
+a fountain of `#`Rb`rloo`Rd`^~
+A fountain of blood is here.~
+~
+25 16 16
+-1 13 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#1400
+A damp and smelly crypt~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33555469 11
+D0
+~
+~
+0 0 1401
+D4
+~
+~
+0 0 2916
+S
+#1401
+A damp and smelly crypt~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D0
+~
+~
+0 0 1402
+D1
+~
+~
+0 0 1407
+D2
+~
+~
+0 0 1400
+D3
+~
+~
+0 0 1406
+S
+#1402
+A damp and smelly crypt~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D0
+~
+~
+0 0 1403
+D1
+~
+~
+0 0 1404
+D2
+~
+~
+0 0 1401
+D3
+~
+~
+0 0 1405
+R O 0 1407 0 1402
+R O 0 1407 0 1402
+S
+#1403
+A damp and smelly crypt~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D0
+~
+~
+0 0 1410
+D1
+~
+~
+0 0 1408
+D2
+~
+~
+0 0 1402
+D3
+~
+~
+0 0 1409
+S
+#1404
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D3
+~
+~
+0 0 1402
+R O 0 1400 0 1404
+S
+#1405
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D1
+~
+~
+0 0 1402
+R O 0 1400 0 1405
+S
+#1406
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D1
+~
+~
+0 0 1401
+R O 0 1400 0 1406
+S
+#1407
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D3
+~
+~
+0 0 1401
+R O 0 1400 0 1407
+S
+#1408
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D3
+~
+~
+0 0 1403
+R O 0 1400 0 1408
+S
+#1409
+Tomb~
+~
+The tomb walls are carved from stone and there are several torches on the 
+walls lighting the way.  The air is damp and filled with the smell of decay. 
+ Dust covers the floor and it appears no living being has been here in ages. 
+ 
+~
+1 33554440 11
+D1
+~
+~
+0 0 1403
+R O 0 1400 0 1409
+S
+#1410
+Coven of the Blood Entrance~
+~
+An evil presence fills the room as before you lies the entrance to the Coven 
+stronghold, the dark and mysterious Coven of Vampires.  A large stone 
+passageway runs north and south, covered with mystical runes preventing 
+those who are not members of the Coven from entering.  
+~
+1 134217737 11
+D0
+~
+~
+0 0 1411
+D2
+~
+~
+0 0 1403
+R O 0 7500 0 1410
+S
+#1411
+Hall of the Dead~
+~
+The hall runs north and south through the darkness.  Rooms lie to the east 
+and west, and the air in the hall is still as the dead.  A large blood-red 
+carpet runs the length of the hall, spilling into the darkness ahead.  
+~
+1 37748744 0
+D0
+~
+~
+0 0 1415
+D1
+~
+~
+0 0 1413
+D2
+~
+~
+0 0 1410
+D3
+~
+~
+0 0 1412
+S
+#1412
+Room of Traditions~
+~
+Cut right from solid stone, the room is stark and bare save for the writing 
+on the walls.  The writing contains the rules of the Coven, and a dire 
+warning to those who would choose to disobey.  `+
+`+
+These are the traditions of the `RCoven of the Blood.  `x `+
+`+
+Without them, all kindred might have perished.  Remember them.  Honor them.  
+`+
+`RMasquerade`x - Never reveal our true nature to those not of the blood.  `+
+`RDomain`x - Elders are the guiding force among vampires.  All owe them respect 
+and admiration`+
+`RProgeny`x - Only Sire another with the permission of an Elder or Regent.`+
+`RAccounting`x - Until Progeny are released, their sins are the Sire's to 
+endure.  `+
+`RDestruction`x - The right of destruction belongs only to the Elders.  To kill 
+another vampire means your own destruction.  `+
+`RMotto`x - To will, to know, to dare, to keep silent.  To only give the Dark 
+Gift to those who are worthy to receive it.  `+
+ 
+~
+1 306184200 0
+D1
+~
+~
+0 0 1411
+D9
+~
+~
+0 0 1419
+S
+#1413
+Training Room~
+~
+Various weapons line the walls of this round room.  Large polearms are 
+suspended from hooks in the walls, swords lie in racks mounted along the 
+edges of the room.  Several shields, axes, maces and other weapons and armor 
+hang from the walls.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 1411
+R M 0 1400 1 1413
+S
+#1414
+~
+~
+~
+1 0 0
+D2
+~
+~
+0 0 1411
+S
+#1415
+Hall of the Dead~
+~
+The hall runs north and south through the darkness.  Rooms lie to the east 
+and west, and the air in the hall is still as the dead.  A large blood-red 
+carpet runs the length of the hall, spilling into the darkness ahead.  
+~
+1 37748744 0
+D0
+~
+~
+0 0 1418
+D1
+~
+~
+0 0 1417
+D2
+~
+~
+0 0 1411
+D3
+~
+~
+0 0 1416
+R M 0 1403 1 1415
+S
+#1416
+Coven Storage Room~
+~
+The walls of this room are lined with multiple shelves and cases used to 
+display the wares which are available for purchase.  There are many odd 
+objects, the purposes of which are not readily evident by appearances alone. 
+ 
+~
+1 37748744 0
+D1
+~
+~
+0 0 1415
+S
+#1417
+Chamber of Healing~
+~
+Warm healing powers fill the room, allowing you to rest and recover from the 
+world of the living.  Six stone pillars line the walls, and between them are 
+slabs of solid marble for you to rest upon.  
+~
+1 37748744 0
+D3
+~
+~
+0 0 1415
+R M 0 1402 1 1417
+  R G 0 3199 0
+  R G 0 3087 0
+  R G 0 3088 0
+S
+#1418
+The Inner Circle~
+~
+This immense room is the meeting place for the Inner Circle of the Coven.  
+Several magical globes of light are along the walls, and a rich carpet with 
+a map of the world lies on the floor.  Several statues of ancient vampires 
+are in small alcoves in the walls, and the ceiling is covered with ancient 
+vampiric runes.  
+~
+1 171967496 0
+D2
+~
+~
+0 0 1415
+D4
+~
+~
+0 0 55570
+R O 0 1402 0 1418
+R O 0 1404 0 1418
+R O 0 1407 0 1418
+S
+#1419
+Bank and Storage~
+~
+Fifty large steel vaults line the walls of this otherwise bland room.  The 
+first vault belongs to the Coven itself (address as locker1), while the rest 
+are available to its members for personal storage.  Behind a large counter 
+is the banker, providing transactions for members of the clan into their 
+personal accounts.  
+~
+1 38274120 0
+D7
+~
+~
+0 0 1412
+R M 0 1404 1 1419
+S
+#0
+
+
+#SHOPS
+ 1402    0  0  0  0  0   105 100         0 23    ; `#Pandora
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

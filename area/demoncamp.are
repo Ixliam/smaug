@@ -1,0 +1,2616 @@
+#AREA        Demon Encampment~
+
+
+
+#VERSION     11
+#AUTHOR      ardayne rashka~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#64520
+cambion soldier~
+a `#`RC`ra`Smbi`ro`Rn `rS`Xo`Sldi`Xe`rr`^~
+A `#`RC`ra`Smbi`ro`Rn `rS`Xo`Sldi`Xe`rr`^ is here, standing proudly.
+~
+This cambion soldier stands proudly. He appears highly trained and very 
+nimble. His armor is in top condition. He gleams as if he were on fire by 
+the colors of his equipment and cloth robes. Do you dare to fight him? 
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+98 0 -63 9d13+450 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64521
+zombie death knight~
+a `#`SDeath `WK`Xn`Sig`Xh`Wt`^~
+A `#`SDeath `WK`Xn`Sig`Xh`Wt`^ stands here proudly riding a rotting horse.
+~
+Astride a rather large undead steed, this death knight appears quite 
+formidable. His armor is thick, appearing unpierceable. From within his helm 
+are two glowing eyes. He seems to have no form underneath his armor, he's 
+kept together by some dark unholy will.. Dare you fight him? 
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64522
+demon general succubi~
+the `#`rD`Re`rm`Ro`rn `XG`Seneral`^~
+The `#`rD`Re`rm`Ro`rn `XG`Seneral`^ stands here seductively as she plans her next offensive.
+~
+This demon woman has very seductive features. Glossy black wings sprout from 
+her shoulders. Brandished on her fingers are huge nails that have a better 
+likeness to talons then claws. She has a sensual smile as she glances up at 
+you. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+118 0 -83 11d15+550 12d14+68
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64523
+dark wizard~
+the `#`SDark `WW`Xi`Sza`Xr`Wd`^~
+The `#`SDark `WW`Xi`Sza`Xr`Wd`^ stands here doing conjurations for the war.
+~
+Towering above you is a rather huge lich adorned in regal robes of an 
+archmage. He glowers down in your direction and his bones curl and crack as 
+rotting sinews snap and pop while he creates but the most simplest of 
+guestures.. a smile. 
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64524
+demon soldier~
+a `#`rD`Re`rm`Ro`rn `SS`Xo`rldi`Xe`Sr`^~
+A `#`rD`Re`rm`Ro`rn `SS`Xo`rldi`Xe`Sr`^ flexes his talons and smirks at you.
+~
+Standing tall and fearesome is a large demon soldier. He towers above you 
+ominously. Twin horns curve out toward you and back from his forehead. His 
+skin is a fiery red, almost as if he were made of magma. His tail ends with 
+a trident point, wisping off into three tips. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+98 0 -68 10d13+475 10d13+53
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64525
+infernal demoness commander obsidian bat like wings~
+an `#`rI`Rn`rf`Rer`rn`Ra`rl `yC`Som`Xm`Wa`Xn`Sde`yr`^~
+A `#`rd`Re`rm`Ro`rn`Re`rs`Rs`^ with `#`Sobs`Xi`Sd`Xi`San bat-like`^ wings is standing here.
+~
+Standing here is a beautiful woman.. if you are into those dark tastes 
+anyway. Her skin is a creamy pale white. Her lips are a blood red tone. Her 
+fangs gleam brilliantly as do her talonous fingernails. A long slender tail 
+trails behind her following two large bat-like obsidian-toned wings. Her 
+long black hair flows beautifully down her back. You could almost ignore the 
+two small devil horns on her forehead.. or the devilish smirk. 
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+110 0 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64526
+unicorn black winged stallion~
+a `#`SU`Xn`Sico`Xr`Sn S`Xta`Sll`Xio`Sn`^~
+A winged `#`SU`Xn`Sico`Xr`Sn S`Xta`Sll`Xio`Sn`^ is here pawing the ground with his golden hooves.
+~
+This is a Massively huge black unicorn stallion. His obsidian mane and tail 
+are long, flowing in a spectral manner. His fur is as black as the pitch of 
+night. He crushes the ground beneath his sharp golden hooves. Sprouting from 
+his back are two, enormous bat-like wings. Crowned upon this Unicorn's head 
+is a deranged razor horn. When snorting and snarling, this ghostly mount 
+reveals his sharp fanged teeth. Within his eyes are two glowing red embers. 
+His form doesn't appear solid, it is very ethereal, as if you could pass 
+right through him. Solid though, he is. For an ungodly being, this steed 
+would make the perfect companion... if you dare to try and tame the savage 
+beast. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+91 90 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#64520
+red trimmed black warlock robes~
+a `#`Rr`red`S-`Xt`Sr`ri`Smm`re`Sd b`rl`Sack`^ warlock robe~
+A heavy black cloak trimmed in red is here.~
+~
+9 16 8
+60 60 27 0 0 0 0
+2 5240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64521
+kilt red trimmed warlock black~
+a `#`Rr`red`S-`Xt`Sr`ri`Smm`re`Sd b`rl`Sack`^ warlock kilt~
+A heavy black kilt trimmed in red is here.~
+~
+9 16 8
+60 60 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64522
+red trimmed black warlock boots~
+a `#`Rr`red`S-`Xt`Sr`ri`Smm`re`Sd b`rl`Sack`^ warlock boots~
+A pair of heavy black boots trimmed in red are here.~
+~
+9 16 8
+60 60 14 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64523
+red trimmed black warlock gloves~
+a `#`Rr`red`S-`Xt`Sr`ri`Smm`re`Sd b`rl`Sack`^ warlock gloves~
+A pair of black gloves trimmed in red are here.~
+~
+9 16 8
+60 60 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64524
+cot centaur skin~
+a `#`ycot`^ made from `#`Sc`Xe`Sn`Xta`Sur`^ skin~
+A `#`ycot`^ made from `#`Sc`Xe`Sn`Xta`Sur`^ skin stands here.~
+~
+12 0 8
+5000 66705 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64525
+red trimmed black warlock girdle~
+a `#`Rr`red`S-`Xt`Sr`ri`Smm`re`Sd b`rl`Sack`^ warlock girdle~
+A heavy black girdle trimmed in red is here.~
+~
+9 16 8
+60 60 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64526
+steel arm engraved runes~
+a `#`Sst`Xee`Sl arm e`rn`Rg`rra`Sv`re`Sd`^ with `#`Rr`runes`^~
+A complete steel arm built specifically for the loss of a limb is here.~
+~
+9 16 8
+60 60 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64527
+antlered circlet~
+an `#`Xa`yn`Xtler`ye`Xd `Scirclet`^~
+A circlet crested with two large antlers is here.~
+~
+9 16 8
+60 60 16 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64528
+red flowing cloak~
+a long, `#`Rf`rlowing `Rc`rloak`^~
+A flowing red silk cloak trimmed in gold is crumpled here.~
+~
+9 16 8
+60 60 18 0 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64529
+flail eight serpent headed tendrils~
+a `#`Sflail`^ with `#`Xe`Sigh`Xt `gs`Ge`yr`gp`ye`Gn`gt`S-`gh`ye`ga`Gd`ye`gd `Xt`Sendril`Xs`^~
+A `#`Sflail`^ with `#`Xe`Sigh`Xt `gs`Ge`yr`gp`ye`Gn`gt`S-`gh`ye`ga`Gd`ye`gd `Xt`Sendril`Xs`^ is here hissing quietly.~
+~
+5 16 4
+22 135 170 2432 0 0 0
+1 1209 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64530
+black steel plated breastplate~
+a `#`Sb`Xl`Sack-`Sst`Xee`Sl`^ plated `#`Sbr`Xe`Sa`Xs`Stpl`Xa`St`Xe`^~
+A protective breastplate made from plates of black-steel is here.~
+~
+9 16 8
+60 60 27 0 0 0 0
+2 2300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64531
+belt leather steel black~
+a `#`Sb`Xe`Slt`^ of `#`Sb`Xl`Sack-`Sst`Xee`Sl`^ and `#`yl`Sea`yth`Se`yr`^~
+A belt made of black-steel and dark leather is here.~
+~
+9 16 8
+60 60 15 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64532
+black steel gauntlets~
+a pair of `#`Sb`Xl`Sack-`Sst`Xee`Sl `Sg`Xa`Suntl`Xe`Sts`^~
+A pair of gauntlets made from black-steel are here.~
+~
+9 16 8
+60 60 18 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64533
+black steel plated boots~
+a pair of `#`Sb`Xl`Sack-`Sst`Xee`Sl`^ plated `#`Sb`Xoo`Sts`^~
+A pair of boots plated with black-steel are here.~
+~
+9 16 8
+60 60 15 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64534
+black steel plated greaves~
+a pair of `#`Sb`Xl`Sack-`Sst`Xee`Sl`^ plated `#`Sgr`Xea`Sves`^~
+A pair of greaves made with plates of black-steel are here.~
+~
+9 16 8
+60 60 17 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64535
+black steel plated shoulder guards~
+a pair of `#`Sb`Xl`Sack-`Sst`Xee`Sl`^ plated `#`Ssh`Xou`Sd`Xe`Sr-gu`Xa`Srds`^~
+A pair of shoulder-guards made with plates of black-steel are here.~
+~
+9 16 8
+60 60 20 0 0 0 0
+1 2610 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64536
+black steel horned helm~
+a `#`Sh`ro`Rrn`re`Sd `Sb`Xl`Sack-`Sst`Xee`Sl helm`^~
+A black-steel helm donned with two curved horns is here.~
+~
+9 16 8
+60 60 16 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64537
+flail three spiked heads~
+a `#`Sflail`^ with `#`Sthree `Rs`rp`Sik`re`Rd `Sheads`^~
+A `#`Sflail`^ with `#`Sthree `Rs`rp`Sik`re`Rd `Sheads`^ is here.~
+~
+5 16 4
+13 135 170 6272 0 0 0
+1 3000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64538
+metal steel claw~
+a `#`Xs`Steel c`Xl`ra`Sw`^~
+A `#`Xs`Steel c`Xl`ra`Sw`^ that extends from one's arm gleams here.~
+~
+5 16 4
+3 127 169 2128 0 0 0
+1 2500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64539
+ring silver blackfire black fire~
+a `#`Xs`Si`Wlv`Se`Xr r`Sin`Xg`^ of `#`SBlack`X-`SF`Xir`Se`^~
+A silver ring gleams here engulfed in chaotic black flames.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64540
+amulet knowledge eye third~
+an `#`rA`Smulet`^ of `#`rK`Sno`rw`Rl`re`Sdg`re`^~
+A dark amulet in the shape of a the third eye is here.~
+~
+9 16 8
+60 60 10 2 0 0 0
+1 2550 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64541
+emblem silent hunter~
+an `#`XE`Smblem`^ of the `#`XS`Silent `SH`Sunter`^~
+The emblem of the silent hunter is here.~
+~
+32 256 32
+0 0 0 0 0 0 0
+1 909 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64542
+painted runes~
+some `#`?Pa`Gin`Yte`yd `?R`Gu`Yn`ye`gs`^~
+The warpaint that lies here leaps at you as you reach for it!~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64543
+small silver pentagram~
+a small `#`Ws`Xi`Slv`Xe`Wr `Xp`Sentagra`Xm`^~
+A tiny silver pentagram gleams here.~
+~
+33 256 32
+0 0 0 0 0 0 0
+1 780 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64544
+demonic foot brace~
+a `#`rd`Re`rm`Ro`rn`Ri`rc `Sfoot-brace`^~
+A demonic fashioned foot-brace is here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 1215 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64545
+demonic face guard~
+a `#`rd`Re`rm`Ro`rn`Ri`rc `Sface-guard`^~
+A face-guard that looks like a demon's face is here.~
+~
+9 16 8
+60 60 18 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64546
+unicorn spiral horn~
+a `#`SS`Xp`bir`Xa`Sl `XH`Sor`Xn`^~
+The long `#`SS`Xp`bir`Xa`Sl `XH`Sor`Xn`^ of a `#`SU`Xn`Sico`Xr`Sn`^ glows here with `#`SUnHoly`^ power~
+~
+8 16 8
+0 0 0 0 0 0 0
+2 100000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64547
+vial unicorn blood~
+a `#`WV`Xial`^ of `#`WU`Xn`Wico`Xr`Wn`S'`Ws `XB`Sl`Xoo`Sd`^~
+A vial containing a precious silver fluid is here.~
+~
+10 256 8
+0 -1 -1 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64548
+gargoyle mouth~
+the gargoyle's mouth~
+~
+~
+15 0 8
+5 0 100 0 0 0 0
+50 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64548 gargoyle massive stone ~
+Towering above you is a massive stone gargoyle. It gleams with a rather odd 
+flicker, seemingly cursing you with the wrath of beasts. It's claws are 
+sharp, wickedly long as bear claws. Within it's closed mouth are serpent 
+fangs. As the wind passes through or by the statue, the grinding sound of a 
+lion's growl emerges. It's base is made up out of stone carvings of people 
+suffering the black death. 
+~
+#64549
+piece tattered flesh~
+a piece of `#`St`ya`Stt`yere`Sd`^ flesh~
+A piece of `#`St`ya`Stt`yere`Sd`^ flesh is here empowered with the wrath of beasts.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 1290 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#64550
+barbed bone ankus~
+a `#`SB`Xa`Wrb`Xe`Sd `WB`Xo`Wn`Xe`^ Ankus~
+A `#`SB`Xa`Wrb`Xe`Sd `WB`Xo`Wn`Xe`^ Ankus beckons to you.~
+~
+5 16 4
+17 14 24 1029 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64550 barbed bone ankus~
+The weapon gleaming here starts off with the shape of a small pike, sizeable 
+to use with one hand. Branching off the center of the sharpened tip, before 
+the handle is a scythe-like extention that curves in a deadly manner. On the 
+end of the handle, opposite the sharpened point, is a carved image of a 
+sneering skull. It really doesn't look like you wanna tick off the wielder.. 
+
+~
+#64551
+small ceremonial chest~
+a small `#`Yc`Xer`ye`Ymo`yn`Xia`Yl`^ chest~
+A small `#`Yc`Xer`ye`Ymo`yn`Xia`Yl`^ chest shows visibly here.~
+~
+15 0 8
+13 64554 20 100 0 0 0
+1 26 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64552
+huge glittering diamond~
+a huge `#`Wg`wl`si`Wt`wt`se`Wr`wi`sn`Wg `Wd`wi`Wa`wm`Wo`wn`Wd`^~
+A huge `#`Wg`wl`si`Wt`wt`se`Wr`wi`sn`Wg `Wd`wi`Wa`wm`Wo`wn`Wd`^ is laying here.~
+~
+32 0 32
+0 0 0 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64553
+ethereal battlesword mystical holy sword~
+`#an `Ce`ct`Sh`Xer`Se`ca`Cl `Sbattlesword`^~
+A mystical sword lies here glowing with a holy aura.~
+~
+5 256 4
+11 7 16 2320 0 0 0
+1 2980 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64554
+ethereal key~
+an `#`Ce`ct`Sh`Xer`Se`ca`Cl`^ key~
+An ethereal key lays here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#64520
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D0
+~
+~
+0 0 64521
+D2
+~
+~
+0 0 15421
+R M 0 64520 10 64520
+  R E 0 64531 0 13
+  R E 0 64530 0 5
+  R E 0 64538 0 16
+S
+#64521
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D0
+~
+~
+0 0 64522
+D1
+~
+~
+1 0 64540
+D2
+~
+~
+0 0 64520
+D3
+~
+~
+1 0 64541
+S
+#64522
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D0
+~
+~
+1 0 64525
+D2
+~
+~
+0 0 64521
+D6
+~
+~
+0 0 64523
+D9
+~
+~
+0 0 64524
+R M 0 64520 10 64522
+  R E 0 64530 0 5
+  R E 0 64531 0 13
+  R E 0 64538 0 16
+S
+#64523
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D1
+~
+~
+1 0 64531
+D6
+~
+~
+0 0 64526
+D8
+~
+~
+0 0 64522
+S
+#64524
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D3
+~
+~
+1 0 64528
+D7
+~
+~
+0 0 64522
+D9
+~
+~
+0 0 64529
+S
+#64525
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest northward. 
+~
+1 0 15
+D0
+~
+~
+0 0 64535
+D2
+~
+~
+1 0 64522
+D5
+~
+~
+1 0 64549
+S
+#64526
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D0
+~
+~
+0 0 64527
+D1
+~
+~
+1 0 64538
+D3
+~
+~
+1 0 64539
+D8
+~
+~
+0 0 64523
+R M 0 64520 10 64526
+  R E 0 64530 0 5
+  R E 0 64531 0 13
+  R E 0 64538 0 16
+S
+#64527
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest northward. 
+~
+1 0 15
+D0
+~
+~
+0 0 64542
+D2
+~
+~
+0 0 64526
+S
+#64528
+the Commander's Tent~
+~
+Inside the commander's tent, you find yourself engulfed by the maps hanging 
+off the walls and ceilings. Rolled up maps are stuffed in barrels within 
+each corner of the tent, as well as piled atop a large table. It's not a 
+very tidy room. 
+~
+1 0 0
+D1
+~
+~
+1 0 64524
+R O 0 64524 0 64528
+R M 0 64525 3 64528
+  R E 0 64543 0 27
+  R E 0 64539 0 2
+  R E 0 64543 0 26
+  R E 0 64539 0 1
+  R E 0 64541 0 17
+S
+#64529
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest elsewhere. 
+~
+1 0 15
+D0
+~
+~
+0 0 64530
+D1
+~
+~
+1 0 64536
+D3
+~
+~
+1 0 64537
+D7
+~
+~
+0 0 64524
+R M 0 64520 10 64529
+  R E 0 64530 0 5
+  R E 0 64531 0 13
+  R E 0 64538 0 16
+S
+#64530
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest northward. 
+~
+1 0 15
+D0
+~
+~
+0 0 64547
+D2
+~
+~
+0 0 64529
+S
+#64531
+The Commander's Tent~
+~
+Inside the commander's tent, you find yourself engulfed by the maps hanging 
+off the walls and ceilings. Rolled up maps are stuffed in barrels within 
+each corner of the tent, as well as piled atop a large table. It's not a 
+very tidy room. 
+~
+1 0 0
+D3
+~
+~
+1 0 64523
+R O 0 64524 0 64531
+R M 0 64525 3 64531
+  R E 0 64543 0 27
+  R E 0 64543 0 26
+  R E 0 64539 0 1
+  R E 0 64539 0 2
+  R E 0 64541 0 17
+S
+#64532
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest westward. Between the 
+two areas is a massive gargoyle. 
+~
+1 0 15
+D1
+~
+~
+0 0 64533
+D2
+~
+~
+0 0 64535
+D3
+~
+~
+0 0 64534
+R O 0 64548 0 64532
+  R P 0 64549 1 64548
+S
+#64533
+the general's tent~
+~
+Within the general's tent.. artifacts, weapons and all sorts of tormenting 
+implements reside. There is a table centering the room holding all sorts of 
+small figurines atop what appears to be a map of the entire plains and 
+forest. The figures depict the ongoing battle, and move accordingly to those 
+they represent. The General commandingly sends orders as the pieces move. 
+~
+1 33554440 11
+D3
+~
+~
+0 0 64532
+R M 0 64522 1 64533
+  R E 0 64545 0 28
+  R E 0 64540 0 3
+  R E 0 64528 0 12
+  R E 0 64537 0 16
+  R E 0 64554 0 17
+S
+#64534
+the conjuration circle~
+~
+Centered here on the ground is a large arcane circle made of human and elven 
+blood. The ground is sparse of life, dead and withered away. Dark energies 
+writhe and squirm with life here as conjurations are begun and completed 
+with expert care. 
+~
+1 33554440 11
+D1
+~
+~
+0 0 64532
+R M 0 64523 1 64534
+  R E 0 64529 0 16
+  R E 0 64527 0 6
+  R E 0 64526 0 10
+  R E 0 64525 0 13
+  R E 0 64523 0 9
+  R E 0 64522 0 8
+  R E 0 64521 0 7
+  R E 0 64520 0 5
+S
+#64535
+a worn road~
+~
+You find yourself here on the road within the demon encampment. The ground 
+is worn and well trodden. There's a hint of blood in the air as the sound of 
+weapons and fists clashing are heard nearby. Chantings of unholy sages hum 
+in the back of your mind as the dark energies manifest northward. 
+~
+1 0 15
+D0
+~
+~
+0 0 64532
+D2
+~
+~
+0 0 64525
+S
+#64536
+the soldier barracks~
+~
+The tent is dull and torn in small places. It's made from the flesh of 
+humans and elves alike, sewn together tightly. Bloodstained and filled with 
+a rancid stench, the tent at least holds the wind at bay. 
+~
+1 0 0
+D3
+~
+~
+1 0 64529
+R O 0 64524 0 64536
+S
+#64537
+the soldier barracks~
+~
+The tent is dull and torn in small places. It's made from the flesh of 
+humans and elves alike, sewn together tightly. Bloodstained and filled with 
+a rancid stench, the tent at least holds the wind at bay. 
+~
+1 0 0
+D1
+~
+~
+1 0 64529
+R O 0 64524 0 64537
+S
+#64538
+the soldier barracks~
+~
+The tent is dull and torn in small places. It's made from the flesh of 
+humans and elves alike, sewn together tightly. Bloodstained and filled with 
+a rancid stench, the tent at least holds the wind at bay. 
+~
+1 0 0
+D3
+~
+~
+1 0 64526
+R O 0 64524 0 64538
+S
+#64539
+the soldier barracks~
+~
+The tent is dull and torn in small places. It's made from the flesh of 
+humans and elves alike, sewn together tightly. Bloodstained and filled with 
+a rancid stench, the tent at least holds the wind at bay. 
+~
+1 0 0
+D1
+~
+~
+1 0 64526
+R O 0 64524 0 64539
+S
+#64540
+the guard barracks~
+~
+You're standing within the barraks of the gate guards. It's sure nothing 
+fancy, kinda unkept. It actually just appears to look like someone pitched 
+the tent and left it to the mercy of the wind. 
+~
+1 0 0
+D3
+~
+~
+1 0 64521
+R O 0 64524 0 64540
+S
+#64541
+the guard barracks~
+~
+You're standing within the barraks of the gate guards. It's sure nothing 
+fancy, kinda unkept. It actually just appears to look like someone pitched 
+the tent and left it to the mercy of the wind. 
+~
+1 0 0
+D1
+~
+~
+1 0 64521
+R O 0 64524 0 64541
+S
+#64542
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64556
+D1
+~
+~
+0 0 64543
+D2
+~
+~
+0 0 64527
+D3
+~
+~
+0 0 64544
+S
+#64543
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64557
+D3
+~
+~
+0 0 64542
+S
+#64544
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64555
+D1
+~
+~
+0 0 64542
+D3
+~
+~
+0 0 64545
+S
+#64545
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64554
+D1
+~
+~
+0 0 64544
+D3
+~
+~
+0 0 64546
+R M 0 64524 13 64545
+  R E 0 64544 0 30
+  R E 0 64544 0 29
+  R E 0 64545 0 28
+S
+#64546
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64553
+D1
+~
+~
+0 0 64545
+D3
+~
+~
+0 0 64547
+S
+#64547
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64552
+D1
+~
+~
+0 0 64546
+D2
+~
+~
+0 0 64530
+D3
+~
+~
+0 0 64548
+S
+#64548
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64551
+D1
+~
+~
+0 0 64547
+S
+#64549
+An underground tunnel~
+~
+This is a dimly light tunnel. It looks like the general stashed various 
+things down here. Skeletons lean against the walls and gold coins lay 
+scattered about the floor. 
+~
+1 0 0
+D0
+~
+~
+0 0 64550
+D4
+~
+~
+1 0 64525
+S
+#64550
+An underground tunnel~
+~
+This is a dimly light tunnel. It looks like the general stashed various 
+things down here. Skeletons lean against the walls and gold coins lay 
+scattered about the floor. 
+~
+1 0 0
+D2
+~
+~
+0 0 64549
+R O 0 64551 0 64550
+  R P 0 64553 1 64551
+  R P 0 64552 1 64551
+S
+#64551
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64564
+D1
+~
+~
+0 0 64552
+D2
+~
+~
+0 0 64548
+S
+#64552
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64563
+D1
+~
+~
+0 0 64553
+D2
+~
+~
+0 0 64547
+D3
+~
+~
+0 0 64551
+R M 0 64521 10 64552
+  R E 0 64532 0 9
+  R E 0 64533 0 8
+  R E 0 64534 0 7
+  R E 0 64535 0 10
+  R E 0 64536 0 6
+  R E 0 64537 0 16
+S
+#64553
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64562
+D1
+~
+~
+0 0 64554
+D2
+~
+~
+0 0 64546
+D3
+~
+~
+0 0 64552
+S
+#64554
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64561
+D1
+~
+~
+0 0 64555
+D2
+~
+~
+0 0 64545
+D3
+~
+~
+0 0 64553
+S
+#64555
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64560
+D1
+~
+~
+0 0 64556
+D2
+~
+~
+0 0 64544
+D3
+~
+~
+0 0 64554
+S
+#64556
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64559
+D1
+~
+~
+0 0 64557
+D2
+~
+~
+0 0 64542
+D3
+~
+~
+0 0 64555
+R M 0 64521 10 64556
+  R E 0 64532 0 9
+  R E 0 64533 0 8
+  R E 0 64534 0 7
+  R E 0 64535 0 10
+  R E 0 64536 0 6
+  R E 0 64537 0 16
+S
+#64557
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64558
+D2
+~
+~
+0 0 64543
+D3
+~
+~
+0 0 64556
+S
+#64558
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64571
+D2
+~
+~
+0 0 64557
+D3
+~
+~
+0 0 64559
+S
+#64559
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64570
+D1
+~
+~
+0 0 64558
+D2
+~
+~
+0 0 64556
+D3
+~
+~
+0 0 64560
+S
+#64560
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64569
+D1
+~
+~
+0 0 64559
+D2
+~
+~
+0 0 64555
+D3
+~
+~
+0 0 64561
+S
+#64561
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64568
+D1
+~
+~
+0 0 64560
+D2
+~
+~
+0 0 64554
+D3
+~
+~
+0 0 64562
+R M 0 64524 13 64561
+  R E 0 64544 0 30
+  R E 0 64544 0 29
+  R E 0 64545 0 28
+R M 0 64521 10 64561
+  R E 0 64532 0 9
+  R E 0 64533 0 8
+  R E 0 64534 0 7
+  R E 0 64535 0 10
+  R E 0 64537 0 16
+  R E 0 64536 0 6
+S
+#64562
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64567
+D1
+~
+~
+0 0 64561
+D2
+~
+~
+0 0 64553
+D3
+~
+~
+0 0 64563
+S
+#64563
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64566
+D1
+~
+~
+0 0 64562
+D2
+~
+~
+0 0 64552
+D3
+~
+~
+0 0 64564
+S
+#64564
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64565
+D1
+~
+~
+0 0 64563
+D2
+~
+~
+0 0 64551
+S
+#64565
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64572
+D1
+~
+~
+0 0 64566
+D2
+~
+~
+0 0 64564
+S
+#64566
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64573
+D1
+~
+~
+0 0 64567
+D2
+~
+~
+0 0 64563
+D3
+~
+~
+0 0 64565
+S
+#64567
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64574
+D1
+~
+~
+0 0 64568
+D2
+~
+~
+0 0 64562
+D3
+~
+~
+0 0 64566
+S
+#64568
+A Conjuror's Circle~
+~
+Centered here on the ground is a large arcane circle made of human and elven 
+blood. The ground is sparse of life, dead and withered away. Dark energies 
+writhe and squirm with life here as conjurations are begun and completed 
+with expert care. 
+~
+1 0 2
+D0
+~
+~
+0 0 64575
+D1
+~
+~
+0 0 64569
+D2
+~
+~
+0 0 64561
+D3
+~
+~
+0 0 64567
+R M 0 64526 1 64568
+  R G 0 64547 0
+  R E 0 64546 0 6
+R O 0 64550 0 64568
+S
+#64569
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64576
+D1
+~
+~
+0 0 64570
+D2
+~
+~
+0 0 64560
+D3
+~
+~
+0 0 64568
+S
+#64570
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64577
+D1
+~
+~
+0 0 64571
+D2
+~
+~
+0 0 64559
+D3
+~
+~
+0 0 64569
+S
+#64571
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64578
+D2
+~
+~
+0 0 64558
+D3
+~
+~
+0 0 64570
+S
+#64572
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64579
+D1
+~
+~
+0 0 64573
+D2
+~
+~
+0 0 64565
+S
+#64573
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64580
+D1
+~
+~
+0 0 64574
+D2
+~
+~
+0 0 64566
+D3
+~
+~
+0 0 64572
+R M 0 64521 10 64573
+  R E 0 64532 0 9
+  R E 0 64533 0 8
+  R E 0 64534 0 7
+  R E 0 64535 0 10
+  R E 0 64536 0 6
+  R E 0 64537 0 16
+S
+#64574
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64581
+D1
+~
+~
+0 0 64575
+D2
+~
+~
+0 0 64567
+D3
+~
+~
+0 0 64573
+S
+#64575
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64582
+D1
+~
+~
+0 0 64576
+D2
+~
+~
+0 0 64568
+D3
+~
+~
+0 0 64574
+R M 0 64524 13 64575
+  R E 0 64544 0 29
+  R E 0 64544 0 30
+  R E 0 64545 0 28
+S
+#64576
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64583
+D1
+~
+~
+0 0 64577
+D2
+~
+~
+0 0 64569
+D3
+~
+~
+0 0 64575
+S
+#64577
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. Standing here, the ground is 
+well trodden and bloodstained. The sound of demonic soldiers and undead, 
+ghostly steeds echo the area. The air is heavy with humidity, giving the 
+area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64584
+D1
+~
+~
+0 0 64578
+D2
+~
+~
+0 0 64570
+D3
+~
+~
+0 0 64576
+R M 0 64521 10 64577
+  R E 0 64532 0 9
+  R E 0 64533 0 8
+  R E 0 64534 0 7
+  R E 0 64535 0 10
+  R E 0 64536 0 6
+  R E 0 64537 0 16
+S
+#64578
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64585
+D2
+~
+~
+0 0 64571
+D3
+~
+~
+0 0 64577
+S
+#64579
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64586
+D1
+~
+~
+0 0 64580
+D2
+~
+~
+0 0 64572
+S
+#64580
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64587
+D1
+~
+~
+0 0 64581
+D2
+~
+~
+0 0 64573
+D3
+~
+~
+0 0 64579
+S
+#64581
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64588
+D1
+~
+~
+0 0 64582
+D2
+~
+~
+0 0 64574
+D3
+~
+~
+0 0 64580
+S
+#64582
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64589
+D1
+~
+~
+0 0 64583
+D2
+~
+~
+0 0 64575
+D3
+~
+~
+0 0 64581
+S
+#64583
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64590
+D1
+~
+~
+0 0 64584
+D2
+~
+~
+0 0 64576
+D3
+~
+~
+0 0 64582
+S
+#64584
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64591
+D1
+~
+~
+0 0 64585
+D2
+~
+~
+0 0 64577
+D3
+~
+~
+0 0 64583
+S
+#64585
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64592
+D2
+~
+~
+0 0 64578
+D3
+~
+~
+0 0 64584
+S
+#64586
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64593
+D1
+~
+~
+0 0 64587
+D2
+~
+~
+0 0 64579
+S
+#64587
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64594
+D1
+~
+~
+0 0 64588
+D2
+~
+~
+0 0 64580
+D3
+~
+~
+0 0 64586
+S
+#64588
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64595
+D1
+~
+~
+0 0 64589
+D2
+~
+~
+0 0 64581
+D3
+~
+~
+0 0 64587
+S
+#64589
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64596
+D1
+~
+~
+0 0 64590
+D2
+~
+~
+0 0 64582
+D3
+~
+~
+0 0 64588
+R M 0 64524 13 64589
+  R E 0 64544 0 29
+  R E 0 64544 0 30
+  R E 0 64545 0 28
+S
+#64590
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64597
+D1
+~
+~
+0 0 64591
+D2
+~
+~
+0 0 64583
+D3
+~
+~
+0 0 64589
+S
+#64591
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64598
+D1
+~
+~
+0 0 64592
+D2
+~
+~
+0 0 64584
+D3
+~
+~
+0 0 64590
+S
+#64592
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D0
+~
+~
+0 0 64599
+D2
+~
+~
+0 0 64585
+D3
+~
+~
+0 0 64591
+S
+#64593
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64594
+D2
+~
+~
+0 0 64586
+S
+#64594
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64595
+D2
+~
+~
+0 0 64587
+D3
+~
+~
+0 0 64593
+S
+#64595
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64596
+D2
+~
+~
+0 0 64588
+D3
+~
+~
+0 0 64594
+R M 0 64524 13 64595
+  R E 0 64544 0 29
+  R E 0 64544 0 30
+  R E 0 64545 0 28
+S
+#64596
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64597
+D2
+~
+~
+0 0 64589
+D3
+~
+~
+0 0 64595
+R M 0 64525 3 64596
+  R E 0 64543 0 27
+  R E 0 64539 0 2
+  R E 0 64539 0 1
+  R E 0 64543 0 26
+  R E 0 64541 0 17
+S
+#64597
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64598
+D2
+~
+~
+0 0 64590
+D3
+~
+~
+0 0 64596
+R M 0 64524 13 64597
+  R E 0 64545 0 28
+  R E 0 64544 0 30
+  R E 0 64544 0 29
+S
+#64598
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D1
+~
+~
+0 0 64599
+D2
+~
+~
+0 0 64591
+D3
+~
+~
+0 0 64597
+S
+#64599
+a bloody field~
+~
+Standing here, the ground is well trodden and bloodstained. The sound of 
+demonic soldiers and undead, ghostly steeds echo the area. The air is heavy 
+with humidity, giving the area an unruly fog. 
+~
+1 0 2
+D2
+~
+~
+0 0 64592
+D3
+~
+~
+0 0 64598
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

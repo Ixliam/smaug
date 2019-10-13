@@ -1,0 +1,223 @@
+#AREA        Delandria's Christmas Playland~
+
+
+
+#VERSION     11
+#AUTHOR      delandria~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#2350
+gate guardian~
+a large guard~
+A large guard is here, protecting the gate.
+~
+This guard looks very powerful and well-trained. He is wearing the insignia 
+of his master on his tunic. 
+~
+0
+clanname none~
+0
+0
+65 512 600 C
+95 2 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2351
+brightly wrapped christmas present green~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Gw`gr`Ga`gp`Gp`ge`Gd `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Gw`gr`Ga`gp`Gp`ge`Gd `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2352
+brightly wrapped christmas present blue~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Bw`br`Ba`bp`Bp`be`Bd `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Bw`br`Ba`bp`Bp`be`Bd `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2353
+brightly wrapped christmas present yellow~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Yw`yr`Ya`yp`Yp`ye`Yd `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Yw`yr`Ya`yp`Yp`ye`Yd `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2354
+brightly wrapped christmas present multi~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `?w`?r`?a`?p`?p`?e`?d `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `?w`?r`?a`?p`?p`?e`?d `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2355
+brightly wrapped christmas present purple~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Mw`mr`Ma`mp`Mp`me`Md `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Mw`mr`Ma`mp`Mp`me`Md `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2356
+brightly wrapped christmas present cyan~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Cw`cr`Ca`cp`Cp`ce`Cd `Rchristmas `wpresent from the Immortals.`^~
+`#`wa `Wb`wr`Wi`wg`Wh`wt`Wl`wy `Cw`cr`Ca`cp`Cp`ce`Cd `Rchristmas `wpresent from the Immortals.`^~
+~
+15 2 8
+1 0 500 100 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2357
+banner throtyl army~
+a `#`sBanner `wfor the `gThrotyl A`Gr`gm`Gy`^~
+A `#`sBanner `wfor the `gThrotyl A`Gr`gm`Gy `is laying here.`^~
+~
+1 0 1
+0 999 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#2358
+banner tulgard army~
+a `#`sBanner `wfor the `BTulgard A`br`Bm`by`^~
+A `#`sBanner `wfor the `BTulgard A`br`Bm`by `wis laying here.`^~
+~
+1 0 1
+0 999 0 0 0 0 0
+1 0 1
+0
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#2350
+Bedroom~
+~
+The floor is covered in a soft beige carpet.  There is a window on the west 
+wall letting you look out into the deep forests.  There is a gas run lantern 
+hanging from the ceiling to light the room.  A comfortable twinbed is set in 
+the northwest corner.  A desk and chair sits in the southeast corner.  On 
+the north wall is a teak dresser.  The walls have been painted with an 
+oceanic view, ships sailing, casting up their sails, a battle of pirates on 
+the horizon and dragons flying up in the sky.  
+~
+1 33554444 0
+S
+#2357
+Bedroom~
+~
+The floor is covered in a soft beige carpet.  There is a window on the west 
+wall letting you look out into the deep forests.  There is a gas run lantern 
+hanging from the ceiling to light the room.  A comfortable twinbed is set in 
+the northwest corner.  A desk and chair sits in the southeast corner.  On 
+the north wall is a teak dresser.  The walls have been painted with an 
+oceanic view, ships sailing, casting up their sails, a battle of pirates on 
+the horizon and dragons flying up in the sky.  
+~
+1 33554444 0
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

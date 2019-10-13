@@ -1,0 +1,3682 @@
+#AREA        Endomer~
+
+
+
+#VERSION     11
+#AUTHOR      reath mahinae bree~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#64100
+bejeng beggar intori child~
+a small intori begger child~
+A small intori beggar child shakes his cup at you.
+~
+This dirty beggar sits with his cup and collects spare change in it. His 
+cloths are torn and filthy, he is very thin and he really just looks sad. 
+When you look at him you just notice the look of sadness in his vaccant 
+black eyes. 
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64101
+kanishi swordsmith intori~
+an aging male intori~
+An elderly male intori kneels here.
+~
+This intori gentleman has been clothed in simple but expensive cloth. His 
+Kimono is short and utilitarian and his callused palms have been laid one 
+atop the other in his lap. Soft white cloth covers his broad but sunken 
+shoulders and a simple silver ponytail has been tied back efficently so as 
+not to fall into the way of his blunt black eyes. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 100 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64102
+makiyu intori woman~
+a swarthy intori woman~
+A swarthy intori woman shifts in her seat impatiently.
+~
+This swarthy intori woman shifts in her seat. Wearing a simple tatami made 
+of coarse work cloth she fans her flushed face against the heat. Plastered 
+to her brow are dark brown curls that trail down sweatily between a set of 
+voluptous breasts and a large paunch. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64103
+graceful swan~
+a graceful white swan~
+A graceful white swan paddles in the water.
+~
+This long-necked white swan has sleek, beautiful feathers. He dips his beak 
+daintly into the water for a sip before he calmly paddles on about the lake. 
+
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#64104
+chancellor bsulai~
+chancellor Bsulai~
+Chancellor Bsulai stands here.
+~
+Chancellor Bsulai stands here. Royal blue robes dwarf the wizened old man. 
+Deep wrinkles line his kindly face.  His eyes are a vibrant blue and are 
+filled with kindness and intelligence. 
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#64100
+cured cherrywood log~
+a cured cherrywood log~
+A cured cherrywood log lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64101
+cured oak log~
+a cured oak log~
+A cured oak log lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64102
+cured willow log~
+a cured willow log~
+A cured willow log lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64103
+bundle cured bamboo poles~
+a bundle of cured bamboo poles~
+A bundle of cured bamboo poles lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64104
+cured pine log~
+a cured pine log~
+A cured pine log lies here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64105
+pine staff~
+a slender pine staff~
+A slender pine staff lies on the ground.~
+~
+5 0 4
+2 7 16 32 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64106
+cherrywood tanto~
+a tanto made of cherrywood~
+A tanto made of cherrywood has been left here.~
+~
+5 0 4
+2 4 2 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64107
+willow wakizashi~
+a willow wakizashi~
+A willow wakizashi has been left.~
+~
+5 0 4
+2 5 1 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64108
+wooden bookshelf~
+a wooden bookshelf~
+A wooden bookshelf is here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64109
+thick blood-red book~
+a `#`Rb`rl`Ro`ro`Rd`r-`Rr`re`Rd`^ book~
+A `#`Rb`rl`Ro`ro`Rd`r-`Rr`re`Rd`^ book has been left here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64109 blood-red book~
+This thick blood-red book has been simply inscribed `#`rArdion.`^  No author has 
+signed his name.  Flipping to the inside, you see only one tale is in this 
+book - the History of Ardion. 
+~
+E
+64109 page6 ~
+Eventually Ardion found one of them, resting upon the top of the lich's 
+bedroom desk, Ardion grabbed it and carried it in his hands to make sure it 
+didn't break in his rucksack. Running down the steps of the lich's tower 
+with the phylactery in both hands gripped at his chest, Ardion was in joy. 
+He had found some power and he was going to control it. As Ardion got to the 
+last few steps near the front doors his foot slipped, Ardion attempted to 
+correct his fall however it was fruitless as he fell face forward onto the 
+cold dusty floor, shattering the phylactery. Ardion screamed in anguish as 
+he realized what he had just done, he then screamed in agony as his already 
+withered body tightened and bits of his skin drop off as if it was being 
+burned. Ardion lay upon that floor, screaming from the pain as if his 
+vampiric blood was being driven from his body. Eventually the pain ebbed 
+away and Ardion could force himself to stand, he looked at the mirror in 
+horror as he saw his withered form note even sicklier with rotted skin and 
+bits of bone showing. "What have I done, I am a LICH" whispered Ardion. 
+~
+E
+64109 page5 ~
+Ardion couldn't believe it, if he had a lich under his control he could 
+surely get back the coven from that snide little backstabber that took his 
+power, he was still a powerful vampire but this this would make him 
+unstoppable against all the vampires. `1 `1Ardion then noticed another coded message below it: my spiteful wife seeks 
+not to be eternal with me, in my hatred I have cursed the other phylactery, 
+he who takes hers and breaks it shall become in time what I am. `1 `1"Bah!" spat Ardion as he reread the coded message. He read and reread 
+looking for a clue as to what phylactery was his and what one was hers but 
+there were no hints and Ardion knew if he were to do something like this it 
+would be a one time one chance. Although seeing the big disadvantages Ardion 
+decided he had nothing else to lose, his coven whom he had controlled with 
+an iron fist was lost to him but now with this information he could get it 
+back. `1 `1And this time he would control more than the coven! `1 `1Ardion scoured through the lich's tower searching for his chambers, room by 
+room he upturned everything and killed anything that was in his way, madness 
+appeared to consume him for this artifact. `1 `1 See Page6 
+~
+E
+64109 page4 ~
+As time past Ardion grew in power as a Nosferatu within the coven, so 
+grotesque were his features that his mere presence sent many turning away in 
+disgust. Ardion raised through the ranks of the Coven fast eventually 
+landing himself as elder and strongest vampire. His reign that lasted for 
+400 years was slowly diminishing, a new Assamite was gaining power quickly. 
+Ardion had lost the support of the new coven, its younger bloodlines now 
+despised him, Ardion had no choice but to hand over leadership of the coven 
+to the younger more powerful Assamite. Ardion was angry at how easy his 
+leadership was relinquished and so went in search of more power that would 
+shift the balance and give him leadership of the coven again `1 `1As Ardion looked around the lich's library he found himself amazed by the 
+array of books, he had seen many things in his vampiric nature but never a 
+room with so much books, they aligned the walls and many seemed dusty and 
+covered with cobwebs. A large black book was left open upon a pedestal, 
+Ardion inspected it. The book told the tale of the lich's love, a love he 
+had when he was mortal and how the heart was missing when he tried to live 
+forever. `1Ardion then let a gasp out and sucked his breathe in, the page although 
+seeming like a story was actually etched with a secret message. `1 `1The coded message read: within my chambers lay two phylacteries, one to 
+hold my power and the second to hold my elven wife's power, whomever takes 
+either phylactery shall have control over one of us. `1 `1 See Page5 
+~
+E
+64109 page3 ~
+"You are a gutless piece of meat Jorima may the buzzards let your carcass 
+rot for you will never be fitting for cthul blood!" snarled Ardion. Ardion 
+knew he was going to be executed, two noble words against a bastards words 
+would never give him justice. "You will not have the satisfaction of killing 
+me Garious!" yelled Ardion. With that Ardion turned and jumped out of the 
+shattered window at full pelt. He waited to feel the crunching thud as he 
+hit the ground but to his surprise he found a haystack was piled under the 
+window. He cursed himself for not dying then and there but knew that it was 
+Harpan's sign that his death was not yet he had another purpose. With that 
+thought in mind Ardion ran from town to town keeping clear of other cthuls. 
+From that day on Ardion spent most of his time within Tulgard, hoping no one 
+of importance would notice him and if they did he would kill them if he 
+could however most often this was impossible. So he often did the next best 
+thing and hid out in the Underdark at least until he thought enough time had 
+passed for the cthul that had seen him to forget about him and move town. 
+However after some time Ardion realized he could not continue hiding from 
+fellow cthuls and so he set out to get his cursed V removed he knew if 
+anyone could remove a tattoo it would have to be a goddess. And so it was 
+that Ardion snuck into the elven lands and stole two children, he took them 
+to Harpan's altar where he begged Harpan to remove his scar and keep his 
+face pure. He knew a favor like this did not require any children and so he 
+made sure the children were those of an elven lord. As he sacrificed both 
+the children upon the altar, Harpan's granted Ardion his favor painlessly. 
+Ardion felt her power through his blood as the V was removed, his blood 
+pulsed and adrenaline passed through his body like never before. Children 
+are not enough for such favor Ardion, you are mine to command from this day 
+fourth, your honor, respect and love is too me young mortal Stated the voice 
+in Ardion's head, he knew it was Harpan, Ardion retorted with a shout "I 
+swear that I am only yours and my service is to you!" The voice chuckled 
+quietly then silence befell the room. Ardion got up and felt his forehead, 
+he then looked at a mirror to notice that he had a black hook tattooed into 
+his forehead. The favor was done, now he must repay it. `1 `1 See Page4 
+~
+E
+64109 page2 ~
+"Suit yourself, stupid hermit." Stated Jorima as he kept munching away. At 
+that point a faint clank was heard, Ardion looked about and stated, "This 
+hall is restricted only those of sufficient rank may continue lest you have 
+to deal with me." `1 `1"Oh relax Ardion it's probably just a mouse, your way too into all this 
+guarding crap, I'm going to take a snooze," stated Jorima. Ardion bit his 
+lip, he knew he could say nothing to Jorima because Jorima was a noble.  
+Ardion decided to walk a few steps down the hallway to see if he could see 
+anything. As Ardion reached his fifth step he heard a window shatter from 
+the princes chambers. Jorima was also awoken. Ardion rushed to the chamber 
+doors. "Open the doors Ardion! The prince is in trouble!" snarled Jorima, 
+"I'm trying to, its damn locked!" Yelled Ardion. "Let's bash through it, my 
+lord we are coming." Yelled Ardion. As they tried to smash the large oaken 
+doors they heard a scream, they both knew it was their prince. Finally they 
+smashed the door open after four attempts. Ardion rushed to his prince's 
+mutilated corpse. Ardion looked down at the corps angry that he had failed 
+in his duty and his task. Ardion tried to cover the body by rolling the bed 
+sheets over him just in case the queen would come to these chambers to 
+witness the damage done by an assassin. "Give me a hand Jorima" stated 
+Ardion. "No Ardion, my son will not help you dispose of the princes body you 
+murderer!" snarled Garious. Ardion looked up to see Garious standing there 
+with five other guards. Ardion cursed himself for being so stupid, he was 
+just a pawn for the assassination so that Garious could have no one to rival 
+his son. I did nothing Jorima will tell you!" yelled Ardion as he drew his 
+sword. Jorima looked at his father then back at Ardion and stated "I tried 
+to stop him but he locked the chamber doors! " `1 `1 See Page3 
+~
+E
+64109 history Ardion~
+Thunder and lightning filled the clouds as Ardion was keeping guard over his 
+Lord's chambers. His lord was the prince of the Cthul and as so was spoilt 
+and often stirred up problems whenever he was on his travels. Ardion stood 
+straight and kept silent. Ardion was raised amongst the royal cthul ranks, 
+not by how he talked with others but by his skill in learning the required 
+tasks. He was often considered an outsider by other cthuls. The lords 
+watching over the army could not deny that Ardion kept his word and was very 
+honorable with everything he did. The lords of the cthul argued for many 
+days as to the allowance of a bastard cthul to be held in such a high honor 
+as that of protecting the prince. One of the lords Garious hated Ardion, 
+hated him with a passion and always made sure Ardion new where he stood when 
+he was around. Garious hated that a fatherless cthul was doing better than 
+his own son. His son Jorima was suppose to be the princes right hand man, 
+his blood is of higher class than this bastard, Garious would argue when the 
+decision was made. `1 `1"Psst! Hey Ardion, want some of my chicken leg? I managed to sneak some 
+from dinner," stated the slimmer guard as he looked at Ardion standing only 
+a few feet away guarding the door. Ardion didn't even bother to look but 
+rather stated in an ominous tone "It is not honorable to be eating after 
+telling the prince you would stand his guard wile he sleeps." `1 `1"You and your honor Ardion, no wonder you are hated by most of the guards 
+you show no fellowship to your fellow guards." stated the guard, while 
+munching on a piece of chicken. "Jorima I care little for what you or my 
+fellow guards think of me, my honor and duty is to my lord and at this time 
+it is my prince," stated Ardion. `1 `1 See Page2 
+~
+#64132
+chairs~
+a few wooden chairs~
+A few wooden chairs have been left here.~
+~
+12 0 8
+10000 1168 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64133
+swing~
+a swing~
+(no description 64133)~
+~
+12 0 8
+300 144 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64133 swing ~
+A single bench swing is here. It looks sturdy enough to support the weight 
+of two people. Its simple supporting ropes have been decorated with daisies. 
+
+~
+#64134
+bubbling water fountain~
+a `#`Cb`Wu`Cb`Wb`Cl`Wi`Cn`Wg`^ water fountain~
+A `#`Cb`Wu`Cb`Wb`Cl`Wi`Cn`Wg`^ water fountain is here.~
+~
+25 0 16
+9999999 52 0 0 0 0 0
+40 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64134 bubbling water fountain~
+Clear, cool water comes forth from this fountain. Carefully painted scenes 
+of mermaids and underwater creatures adorn the base of the fountain. The 
+water pours forth from a shape of a fish's mouth. 
+~
+#64135
+clawfoot bathtub~
+a clawfoot bathtub~
+A clawfoot bathtub is here.~
+~
+12 0 8
+400 264480 150 150 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64135 clawfoot bathtub~
+Tendrils of steam rise up from the water filling the tub. Pouches filled 
+with rose petals and lavender have been dropped into the water, and the 
+fragrance fills your nostrils. A soft cloth has been laid over the side of 
+the tub. 
+~
+#64136
+altar~
+an elegant carved altar~
+An elegant carved altar is here.~
+~
+12 1 8
+1000 65536 125 125 0 0 0
+5 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64137
+old stove~
+an ancient iron stove~
+An ancient iron stove cluttered with pots and pans containing food~
+~
+15 0 8
+1 0 10 0 0 0 0
+40 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64138
+brown library book~
+a `#`ybrown`^ library book~
+A `#`ybrown`^ library book is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64138 page4 ~
+That is a general overview of the thri-kreen lifestyle in its native 
+habitat, but when a thri-kreen individual or tribe finds itself in nondesert 
+conditions, odd behaviors surface. `1 `1Because of the high respect for water, when a thri-kreen first finds him or 
+herself in a large thunderstorm, the insect might find itself lying on the 
+ground, convulsing.  After a few months, the thri-kreen has grown used to 
+the strange episodes, but the awe at the unimaginable huge amount of water 
+will never disappear.  Although the desert gets rain, it usually is not a 
+downpour. `1 `1The thri-kreen is a packrat when it comes to food.  When in the desert, 
+food was scarce enough for the tribe to need to collect any food available 
+just to survive.  In the city, when a thri-kreen wanders past a butcher shop 
+or supply store, it might instinctively enter the store and a few minutes 
+later exit with twenty pounds of meat. 
+~
+E
+64138 page3 ~
+There are several more points to the thri-kreen society because the species 
+has evolved from insects.  First of all, the thri-kreen is a protostome.  In 
+other words, their digestive tract uses the same opening for food intake and 
+waste removal.  Like flies leaving specs, the thri-kreen leaves feces on or 
+near the food as the insect eats it.  This leads to even further lack of 
+squeamishness towards low-quality food. `1 `1Next, the insect is cold blooded.  During the night, the desert becomes 
+quite cold, leaving the insects particularly vulnerable due to their 
+metabolism slowing.  At dusk, the thri-kreen tribe usually stops and settles 
+down, burying half-way into the sand in order to avoid being seen and 
+attacked.  Again due to the lack of burnable wood, no fires are made.  If 
+they were, they would only attract attention, and they would not be warm 
+enough to keep the thri-kreens' metabolic rate high.  This also reinforces 
+their hatred towards humans and warm-blooded humanoids.  There have been 
+many tribes of thri-kreen wiped out at night after raiding a settlement. `1 `1An interesting quirk about the thri-kreen is that their ancestors were 
+mate-eaters.  Although this is not the case anymore, the male thri-kreen 
+warrior will only mate once he has achieved some great honor for the tribe 
+or all of his life's goals have been reached.  Like birds with bright 
+feathers, the thri-kreen males make sure their carapace is glossy, appearing 
+almost wet.  This leads males to have a slight aggressive tendency towards 
+reflective surfaces and females to have a slight attraction towards them. 
+~
+E
+64138 page2 ~
+Because there is only a limited supply of food and water, the young 
+thri-kreen who are deformed in some way, physically weak, or unwilling to 
+cooperate with the tribe are left, and the food and water is given to 
+members who better serve the clan. `1 `1If any of these thri-kreen survive on their own, they begin searching for 
+another clan immediately.  This is because the odds of survival for a single 
+thri-kreen are nearly zero.  Eventually their search might end up with them 
+joining a group they would normally despise, but the instinct to have 
+company is very high.  After a little while of training and a few hard 
+lessons about the existence of laws, the thri-kreen may actually learn to 
+fit in. `1 `1Most thri-kreen cannot grasp the concept of others.  As rare as it is, 
+there have been cases where a thri-kreen was assimilated into a city or 
+village, and the insect considered a group of people there, or even the 
+entire city, its clan.  Occasionally the thri-kreen would make a comment 
+about consuming a person, and this often leads nearby people to try to teach 
+the insect about other people having minds that work in a way similar to its 
+own.  The thri-kreen can imagine itself being attacked and eaten by another 
+person, and it usually does not like this idea, but often it cannot make a 
+connection between this and the other person disliking what it said.  Like 
+most observations listed in this essay, this does not happen with every 
+thri-kreen.  Some may be taught to understand, while on the rare occasion, 
+one is raised in an environment where it understands the concept on its own. 
+
+~
+E
+64138 page1 ~
+At first glance, the thri-kreen society may look savage and chaotic, but it 
+is actually structured due to strict evolutionary guidelines.  Because the 
+harsh desert environment the species evolved in, there are a few main points 
+that lead to the thri-kreen society seen today. `1 `1First of all, because food and supplies are rare, the thri-kreen has 
+evolved to fit into more of a scavenger/predator role.  Thus, the thri-kreen 
+has less respect for the departed, and the corpses, thri-kreen bodies 
+included, are another supply of food and water.  The thri-kreen is also 
+resistant to various diseases or toxins contracted from eating uncooked 
+food, because there is no wood to burn to cook over in the desert.  Also 
+because food and water are rare, any other living organisms not of the tribe 
+are considered to be a good source and usually attacked on sight. `1 `1The tribe is one of the most important aspects of the thri-kreen.  Food is 
+communal  if one tribesman is hungry, food is shared from those with extra, 
+much like in some human societies.  However, this originates from the lack 
+of food, because the tribe would not exist due to members dying off if food 
+was horded amongst individuals.  This then leads to the individuals having a 
+strong loyalty to the rest of the tribe, also bolstering the hostile 
+attitude towards foreign organisms.  Without the tribe, the thri-kreen would 
+die off almost immediately, since one thri-kreen cannot raid a caravan by 
+itself. 
+~
+E
+64138 brown library book~
+The book lies open to the title page. `#`SAn Analytical Essay on the Mainstream 
+Thri-kreen Society by Zatzkleen`^ is written in broad strokes across the top. 
+The book is short with only 4 pages. `1 `1You can READ page1, page2, page3, or page4. 
+~
+#64139
+tall pine bookshelves~
+a tall pine bookshelf~
+Tall pine bookshelves are here.~
+~
+15 0 8
+0 0 100 0 0 0 0
+30 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#64140
+slim dark blue novel~
+a slim `#`b dark blue`^ novel~
+A slim `#`b dark blue`^ novel lies here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64140 slim dark blue novel~
+The golden inscription on this novel reads `#`YA Tale of Lenara`^.  Small, precise 
+handwriting fills four pages to entirety. You can read page1, page2, page3, 
+and page4. 
+~
+E
+64140 page4 ~
+Having been raised by a society of killers and the man who ended her 
+blood-kin, Leo never quite found it in herself to believe in any of the 
+"powers that be." Humanity is the be all and end all of what matters, she 
+once told her father, much to his dismay. Evidence of various gods may be 
+incontrovertible, but their mere existence does not entitle them to her 
+adulation and worship. Though never acting in a forthright and oppressive 
+manner with her beliefs on the subject, Leo does not waver in her thoughts, 
+either. In a fashion, this aided her in her early travels up and into her 
+seventeenth year, as he beliefs were never directly in conflict with those 
+of the other cultures she met. From goblins to her fellow humans, those that 
+she could meet on limited hostile terms, she managed to get by without 
+causing a great deal of strife. `1 `1Not long before reaching her eighteenth year, Leo, well on her way toward 
+becoming a skillful killer and a far better songstress, told her surrogate 
+father of her intentions to go and discover who she is meant to be in this 
+life. Thus, her journey to make her own home began, leaving Nathanial behind 
+to contemplate his position, now nearly to his fiftieth year with nothing to 
+show for it but an admirable kill count and endless memories of despair.  
+~
+E
+64140 page3 ~
+Learning the ways of death dealing did not halt her passions, of course. By 
+age fifteen the young woman was making solo performances in variety shows 
+for clan assemblies in the swamps, entertaining the hardened slayers while 
+they discussed politics and business. She showed herself all too eager and 
+keen in this arena as well, joining in on the conversations whenever allowed 
+and presenting herself in a surprisingly adept and mature manner for one of 
+such few years. Though she was hardly a master strategist to match wits with 
+these around her, she did on occasion offer suggestions that, in the manner 
+of a child, gave plainfaced improvements upon original plans of action or 
+routes of entry in the like. `1 `1Her sixteenth birthday was punctuated by a bouquet of perfumes presented to 
+her by the veteran killers she'd so enlightened in the past year, and she 
+returned the favor by performing her newest piece in the hall of one of the 
+less used stone temples they so often took as their meeting points. At the 
+end of the dance, Nathanial gave his daughter a black python nearly a foot 
+longer than her body and far heavier, holding it as her prize for her 
+efforts. Leo accepted the gift with a small smile and a nod, and little 
+more. She named the serpent "Simeon" and still refers to him as the brother 
+she never had. 
+~
+E
+64140 page2 ~
+Time passed. Lenara learned to speak, read, and run. She learned to laugh. 
+Nathanial invested in her artistic talents as they began to show through, 
+teaching her what rudimentary skills he knew of song and dance and 
+instrumentation and leaving her to investigate the rest on her own, which 
+she did with relish. Of course, even in a community built on work in the 
+dark and black secrets, it is difficult to keep a child out of touch with 
+her own past. A nagging feeling of discord kept Lenara searching for her 
+mother, whom Nathan had only told her died in childbirth (a threadbare 
+truth, at best). The youth discovered her heritage at age thirteen, in all 
+its gruesome detail. Nathanial, tracking her progress, braced himself for 
+the fallout. `1 `1...of which there was surprisingly little, or at least not the sort he'd 
+anticipated. Rather than lashing out in a rage or trying to exact some 
+manner of vengeance, Lenara asked for two things: training in the skills 
+he'd used to kill her father, and that she be called "Leo" thenceforth. He 
+acceded to the demands, and so began her training in combat and the old art 
+of assassination. Though this was a part of his goal for the child, he could 
+not help feeling somehow guilty about the means by which he reached this 
+end: she had been such a vivacious young girl up to that point, but the 
+revelation of her origin seemed to quash that youthful demeanor. She became 
+encapsulated, self-contained, no longer sharing her exuberance with him when 
+she made new breakthroughs in an instrument or changed the arrangement of a 
+bar. She remade herself into this inscrutable "Leo" and he no longer felt he 
+knew his stolen daughter. 
+~
+E
+64140 page1 ~
+Conceived to a small couple of assassins, Lenara was not a particularly 
+desired creation in her pre-birth life. For her mother, it meant 
+vulnerability and an absence from her craft, and her father felt a child 
+would be more of a liability than anything. However, killing the child would 
+mean no good to them, either, and so she remained. In her final month, 
+Lenara's mother was forced to flee their home when a rival finally struck 
+for them, killing her husband as he slept. The stress of fleeing was too 
+much - the woman collapsed in the mire not far from her home, death stealing 
+her away before her pursuer could have the satisfaction of a more personal 
+touch...but what of the babe? The man took the child, struggling to escape 
+her corpulent progenitor now, and freed her of a fatal predicament, 
+absconding with the nearly dead child and returning to his own abode. `1 `1Nathanial, single his thirty years of life, finally had a child upon whom 
+he might lay his legacy as a dealer of death. The irony of making this, his 
+enemy's own daughter, into his successor amused the dark individual to no 
+end - even if she failed the attempt would have been worthwhile, he felt. He 
+retired within the month, making himself less a target for others among his 
+kind who would hope to make a name for themselves with his downfall, and 
+supported the budding babe with poor scriptwork, mediocre sculpting, and, 
+his more proficient skill, smithery. 
+~
+#64141
+sheaf of poetry~
+a sheaf of poetry~
+A sheaf of poetry is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64141 rose in Bloom~
+`1How stands your memory to a rose in bloom? `1It were to do injustice on my part `1For roses wither strewn about a tomb, `1But in your grave lives still my beating heart. `1Sweet blossoms waft to me a bitter scent, `1Upon the rose my flesh finds ev'ry thorn. `1When from my soul my better self was sent, `1Untimely from my side my heart was torn. `1So perish, petals, wither into dust, `1Let nectar sweet stagnate to bitter gall  `1What use to me the life wherein I'd trust `1My hope, my heart, that love which was my all. `1Yet still my flower appears, alive and true, `1While I have words that may remember you. 
+~
+E
+64141 amaryllis' Flower~
+`1Shall I compare thee to Amaryllis' flower? `1Frail petals perish in the harshest frost. `1Thou are more pure, more sweet to me your bower, `1For grasped by gales the bloom is swiftly lost. `1Often cruel chills will blight the fragile bud, `1And iridescent ice may spin its shroud  `1The sweetest sap is shed as oft as blood, `1By malice or the careless crushing crowd. `1But thy full flow'ring never shall be lost `1Nor cease to be the centre of lifes glade  `1Thy soul will neer join Harpans host `1While of immortal verse you're made. `1For all the time that songs are sung, `1For all that time thy flower is young. 
+~
+E
+64141 sheaf poetry~
+A small packet of curled papers is here.  The writing is filled with loops 
+and flourishes, and the poet has taken care not to dribble ink over the 
+prized papers.  A small signature at the bottom of the pages denotes the 
+author as `#`gLeonidas.`^ `1 You can read the poem Amaryllis' Flower or the poem Rose in Bloom 
+~
+#64142
+fat yellow book~
+a fat `#`Yyellow`^ book~
+A fat `#`Yyellow`^ book is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64142 page4 ~
+4. `1Leaghe's penchant for debate got him into trouble, eventually. A messenger 
+from the gods arrived with a commission for him, but Leaghe took the 
+opportunity to get into a discussion about the nature of neutrality. As the 
+culmination of his rhetoric, he flatly refused to accept the commission 
+given him. Rather than being impressed with his oration and logic, the 
+divine envoy chose to be offended and stripped Leaghe of all his priestly 
+powers. Undaunted, Leaghe entered into the more militant priesthood of 
+Seandac. `1 `1Spurred on by two of his closest friends, Drux and Selbon, Leaghe abandoned 
+the Knights of the Grey Moon and left it in the hands of another. The trio 
+then formed a new secret society with a more aggressive bent, the Alliance 
+of the Divine Flame. In short order, the secret society found itself 
+embroiled in a covert war with opposed orders. The Divine Flame did 
+reasonably well in these conflicts, though Leaghe found himself increasingly 
+unhappy with the role of the war-monger. Once again retiring from a position 
+of leadership in a secret society, he eventually drifted back to his old 
+comrades in the Knights of the Grey Moon. `1 `15. `1Having become something of a prominent figure in Tulgard, Leaghe was 
+elected as Mayor by popular vote when he was 27 years old. His tenure was 
+immediately marked by controversy when he enacted the 'dragon law', 
+prohibiting the great reptiles from walking the streets of Tulgard. Time 
+will reveal whether he is a man of genius and vision, or just another 
+power-hungry dictator. 
+~
+E
+64142 page3 ~
+`1 `1Joining a secret society also entailed inheriting its enemies. Early in his 
+career, he met a short, shady lady from a rival order. Enamored, he tried to 
+develop a more serious relationship with the girl. However, his early 
+attempts to woo Imari seemed to be punctuated by public beatings and death 
+threats from the offended object of his affection. `1 `1As a member of the Grey Moon, Leaghe made his first foray into politics, 
+lobbying successfully for the edicts banning werewolves and vampires from 
+the streets of Tulgard. As time passed, it was increasingly obvious that 
+Leaghe and his mentor, Voronda, would never see eye to eye. Despite their 
+sometimes vehement debates, Leaghe grew in influence through the Order until 
+he was nominated as a co-leader of the group. `1 `1Apparently impressed with Leaghe's witticisms, scholarly nature, and dogged 
+persistence, Imari finally admitted her feelings for Leaghe. The pair was 
+married shortly after Leaghe's 21st birthday. The wedding was a public event 
+marked by celebration and much feasting. Within a year, the bridegroom 
+undertook the restoration of an abandoned library as his estate, and to his 
+embarrassment, was awarded a minor title for the feat. `1 `1 See PAGE4 
+~
+E
+64142 page2 ~
+Whatever the case, Leaghe continued to grow, ignorant of his father's fate. 
+His mother, Stija, was thrust into the role as breadwinner. It was not a 
+position she was well suited for (having only marginal sewing skills), and 
+the pair sank into poverty. A teen at the time, an unhappy Leaghe began 
+spending time with troublesome urchins. This led to his experimentation with 
+petty criminal acts like shoplifting and vandalism. However, the matter took 
+a more serious turn when the youths decided to break into the shop of a 
+local alchemist. The protective magics in place caused the death of one of 
+the young thieves, and a number of them were seized by the guards. Leaghe 
+was arrested and sentenced to community service. The entire experience left 
+him plagued by guilt. `1 `13. `1About this time, Stija was being paid court by a scholar named Anzon. It 
+was generally reckoned that Stija was a widow, though eventually it would be 
+found that her husband was still alive. The suitor took an interest in 
+Leaghe's welfare, and eventually became a surrogate father figure in 
+Leaghe's life. He cultivated a love for learning in the lad, as well as a 
+strong respect for the gods. He never became Leaghe's father in any legal 
+sense, however. Although he wished to marry Leaghe's mother, various 
+divinations revealed that Leaghe's father was still alive. Stija could not 
+put her marriage vow so easily behind her. `1 `14. `1Upon becoming an adult, Leaghe undertook priestly service. As a novice, he 
+was noted for his strong opinions and penchant for philosophical debate. 
+Within a few weeks of his initiation, he came to the attention of Voronda. 
+As a respected figure in Tulgard, and the leader of a secret society known 
+as the Knights of the Grey Moon, she offered to tutor Leaghe and induct him 
+into her order. After ascertaining that the Grey Moon was generally 
+benevolent, he accepted. `1 `1 See PAGE3 
+~
+E
+64142 his biography~
+The History of Leaghe Selayre, Mayor of Tulgard `1as recorded by Alston the Scrivener `1(Editor's note: Published while Leaghe held office) `1 `11. `1Since the Mayor was unwilling to discuss his history in detail, much of 
+this letter was compiled from the testimony of those who knew him well. In 
+researching his life I drew upon the recollections of Anzon, Lord Drux, Lady 
+Imari (spouse), Lord Selbon, and Stija (mother). Please note that this 
+account is entirely factual (Imari threatened to kill me if I wrote anything 
+untrue). `1 `12. `1Leaghe's father was Lygen Selayre, who may have come from a fishing village 
+far to the northwest of Tulgard. While visiting Tulgard, he met Stija, who 
+was one of several daughters of a local tailor. The two met and married, and 
+took up residence outside of Tulgard. Lygen was a fisher by profession, and 
+he plied his trade in the lakes and rivers near the city. After his son, 
+Leaghe, was born, the boy picked up some rudiments of fishing from his 
+father. However, Lygen disappeared before the boy's education was complete. `1 `1The nature of Lygen's disappearance is subject to speculation, but reliable 
+testimony indicates that he was a philanderer. There is some evidence to 
+suggest he may have engaged in a dalliance with a water nymph, and was 
+prevented from returning to his family. `1 `1 See PAGE2 
+~
+E
+64142 fat yellow book~
+This fat yellow book contains the life story of Leaghe Selayre, former Mayor 
+of Tulgard and husband to the infamous Imari. Two of Leaghe's poems have 
+also been included by the author. Leaghe has been recognized throughout the 
+lands as a noted scholar and friend. `1You can read his Biography or one of the poems Soultaker or Sonnet for 
+Imari. 
+~
+E
+64142 soultaker ~
+Soultaker, Soultaker, Where do you hide?
+The castle of Istai is where I reside
+I wait with one deranged and insane
+I wait for my true owner to claim
+I wait for the chance to injure and maim
+ 
+Soultaker, Soultaker, Where do you go?
+Wherever I might bring anguish and woe
+Through Tulgard and Throtyl Ill wander, I think
+Searching for lives upon which I might drink
+Searching for souls upon which I shall drink
+ 
+Soultaker, Soultaker, Who guides your blade?
+I will serve in the hands of a dangerous maid
+The Lady Imari lays hand to my hilt
+She hesitates not when theres blood to be spilt
+And she feels no guilt  Again, I say, Nay 
+She hesitates not when it comes time to slay
+And thus Soultaker is brought to the fray
+~
+E
+64142 sonnet for imari~
+Despite the sharp thorns, I treasure the rose
+Its beauty more poignant for the threat it bears
+Fairer my woman in armor than in bows
+Her threats are caresses, showing she cares 
+ 
+My god is stern, demanding devotion
+While Imari is radiant, shady
+I strive to serve but find my emotion
+Captured completely by one short lady
+ 
+She snuggles, cuddles, and pokes without shame
+Vindictive, jealous, but caring and kind
+Endlessly loyal yet ready to maim
+Those who dont love her are heartless and blind
+ 
+Entranced or bespelled, my heart is held fast
+My rose is Imari til I breathe my last
+~
+#64143
+dog-earred book~
+a dog-earred book~
+A dog-earred book is here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+64143 dog-earred book~
+This book is a collection of tunes by the bard Barris "Bass" Finn.  The book 
+smells faintly of ale and smoke as if it has been passed round many a 
+tavern. `1You can read the Travelling Song, Ardion's Song, Drinking Song, Harpan's 
+Song, or Bless You. 
+~
+E
+64143 travelling song~
+Bass Finn's Travelling Song
+ 
+Far from jokes of honest folks
+I find that I now roam
+I call to mind girls left behind
+And beer mugs capped by foam
+A blushing maid with whom I laid
+And pale ale capped by foam
+ 
+Through forests wild with weather mild
+Lands distant I must see
+I miss the breasts and sweet caress
+Of female company
+It seems at least an untamed beast
+Will keep me company
+~
+E
+64143 ardion's song~
+Ardions Song 
+ 
+Misjudge him, if you be a fool
+Ardion  this withered cthul
+Has the aspect of a ghoul
+But only bows to Harpans rule
+ 
+Dont pity him, he wants it not
+Though his body suffers rot
+A deathless lich he once fought
+A priceless treasure he once sought
+ 
+A phylactery, purest gold
+Ancient secrets it did hold
+A dire curse on him took hold
+Ardion felt his flesh grow cold
+ 
+The endless screaming in his head
+A shrieking he has come to dread
+His mind unravels like a thread
+Therell be no peace until hes dead
+ 
+He never claimed to serve the Light
+He never said, Ill do whats right
+He only claimed to be a Knight
+In service under Harpans might
+ 
+His sanity they almost stole
+Dragged him in that murky hole
+Be wary of that aged soul
+For how long can he keep control?
+~
+E
+64143 drinking song~
+The Drinking Song (Dwarven Ale)
+ 
+My friend you look so bitter
+Your face is drawn and pale
+Take a seat, seek relief
+with DWARVEN ALE!
+ 
+The wife has been a-carping?
+It happens without fail
+Take a flight from your plight
+with DWARVEN ALE!
+ 
+Short grumpy hairy little men
+Though dwarves are strong and hale
+A bearded jest is taken best
+with DWARVEN ALE!
+ 
+The guards are looking for you?
+To haul you off to jail?
+What the hell, go to the cell
+with DWARVEN ALE!
+ 
+This sullen brutes a hero,
+While this guys weak and frail
+This guys cup is filling up
+with DWARVEN ALE!
+ 
+That wench is rather ugly
+But its time to lift the veil
+Shell look hot with a spot
+of DWARVEN ALE!
+ 
+I could have been a seaman
+But when it was time to sail
+I told the lass to fill a glass
+with DWARVEN ALE!
+ 
+I guess we have our problems
+But well fight them tooth and nail
+Another sip to start the trip
+with DWARVEN ALE!
+~
+E
+64143 harpan's song~
+Harpan's Song (Why We're Nice to Harpan)
+ 
+The world was young
+And all was pretty
+The gods were born,
+And theres a pity
+Each took their role
+And chose a city
+Except the last  Alas!
+That young goddess said
+Hey! You all have jobs, 
+But wholl collect the dead?
+ 
+They gave the lass a Soul Hook
+Told her go ahead
+They dressed her all in black
+And sent her out to get the dead.
+ 
+An ugly job for Harpan
+A goddess born and bred
+Its not what she had hoped for
+But shell see us when were dead!
+ 
+Wars and plagues are hard
+But they keep the vultures fed
+Its a busy time for Harpan
+Cause shell see us when were dead!
+ 
+Mother to the vampires
+Who would love it if we bled
+Cursed spawn of Hell
+But shell see us when were dead!
+ 
+Harpans not a pretty lass
+Youd want to bring to bed
+But were always nice to Harpan
+Cause shell see us when were dead!
+ 
+Raise your glass! Make a toast!
+Bring wine, the good stuff, red 
+We drink a toast to Harpan
+Cause shell see us when were dead!
+~
+E
+64143 bless you~
+Bless you! (the Armor song)
+ 
+We pray the gods we might be blest
+In the cities Anacor knows best
+Seandac must avenge a slight
+But Graal thinks politics is might
+Wine and song makes Jivanor smile
+In groves Dorenne may rest a while
+Venalena guards our homes and wives
+With her soul-hook Harpan takes our lives
+May Kreav guide those lost or cursed
+Gods grant us strength to face the worst
+~
+#64144
+plump cushions~
+plump `#`?cushions`^~
+Plump `#`?cushion`^ have been placed here.~
+~
+12 0 8
+200 132242 100 100 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#64100
+Before the Palace~
+~
+To the north the majestic stone gates to the palace lay open. More symbolic 
+than utilitarian, the sheer mass of the gates would easily take a small army 
+of men to close much less open. To the south, a miniature replica of the 
+palace gates opens to the temple of Venalena. To the east and west of this 
+cobbled area the districts of Laughter and Hearth meet the district of the 
+Beacon. 
+~
+1 262144 1
+D0
+~
+~
+0 0 64159
+D1
+~
+~
+0 0 64101
+D2
+~
+~
+0 0 64184
+D3
+~
+~
+0 0 64111
+S
+#64101
+A District Intersection~
+~
+Cobblestones continue unabated in multiple directions from here. To the west 
+of this intersection the southern entrance to the Palace is visible and the 
+area here is visibly muted for it. To the north, gardens and stalls of 
+flowers dominate the path. To the south, the faint sound of hymns being sung 
+echoes through the area. 
+~
+1 262144 1
+D0
+~
+~
+0 0 64154
+D1
+~
+~
+0 0 64215
+D2
+~
+~
+0 0 64152
+D3
+~
+~
+0 0 64100
+D7
+~
+~
+0 0 64102
+S
+#64102
+Along the District of Laughter~
+~
+This section of the roadway is a mixture of singers and performers. 
+Songsheets and blankets litter the cobblestones providing no clear path 
+through and the sound of singing seems almost to come from everywhere at 
+once. 
+~
+1 0 1
+D7
+~
+~
+0 0 64103
+D9
+~
+~
+0 0 64101
+S
+#64103
+A District Intersection~
+~
+This busy little intersection is bustling with peddlers trying to hawk their 
+wares and priests denouncing them. To the east comely women beckon while to 
+the south temple chimes whistle gently in the wind. To the northwest and 
+west roads curve away with the celestial sound of voices in song echoing 
+down them and into the heavens. 
+~
+1 0 1
+D1
+~
+~
+0 0 64134
+D2
+~
+~
+0 0 64104
+D3
+~
+~
+0 0 64151
+D9
+~
+~
+0 0 64102
+S
+#64104
+Along the District of Laughter~
+~
+This section of the road connects the district intersections of flames and 
+silk with the pathway to Anshio exit gate. Cobbled road leads north and 
+southwest in a gentle curve outlined with great walls on either side.  
+~
+1 0 1
+D0
+~
+~
+0 0 64103
+D3
+~
+~
+0 0 64209
+D7
+~
+~
+0 0 64231
+D8
+~
+~
+0 0 64122
+S
+#64105
+Endomer Exit Gate~
+~
+To the south droves of people scramble to be the first out of a small 
+doublewide gate. Craftsmen with barren carts and full carts alike squabble 
+over who will be first for what reason as children rush around them. The 
+gate in question is a large one with heavy black oak door and porticullis 
+set into the large stone wall that seperates the city from outsiders. 
+~
+1 0 1
+D0
+~
+~
+0 0 64229
+D2
+~
+~
+1 0 64191
+D3
+~
+~
+0 0 64106
+D6
+~
+~
+0 0 64122
+S
+#64106
+Endomer Entrance~
+~
+To the south a large gate for those who are entering the city has been set 
+up. Wagons travel through this area at high speeds over the soft white 
+cobbles. Heavy fluted columns form the outside of a large wooden gate. To 
+the east and west the district of flames curves away. 
+~
+1 0 1
+D1
+~
+~
+0 0 64105
+D3
+~
+~
+0 0 64210
+D9
+~
+~
+0 0 64107
+R M 0 64100 1 64106
+S
+#64107
+Along the District of Laughter~
+~
+Soft stone cobbles pave this road leading away from Anshio entrance gate. To 
+the southeast the gate looms while to the northwest the road curves away 
+towards the district intersection of flames and metal. The large stone walls 
+protecting this city enclose the road securely. 
+~
+1 0 1
+D3
+~
+~
+0 0 64189
+D7
+~
+~
+0 0 64106
+D9
+~
+~
+0 0 64108
+S
+#64108
+Along the District of Laughter~
+~
+This curving road leads north to a large intersection and southeast towards 
+the Anshio entrance gate. To the west the looming stone walls that seperate 
+the court from the outside world line the roadway. Caravans bustle through 
+at a steady rate. 
+~
+1 0 1
+D0
+~
+~
+0 0 64109
+D3
+~
+~
+0 0 64190
+D7
+~
+~
+0 0 64107
+S
+#64109
+A District Intersection~
+~
+This wide courtyard is the intersection of two of the districts of the Petal 
+Court. To the east and west curving paths lead to the district of metal. To 
+the northeast and south more winding lanes lead into the district of flames. 
+While the south has much of the commotion of life, towards the northeast and 
+east the sounds of daily life are much less. 
+~
+1 0 1
+D1
+~
+~
+0 0 64113
+D2
+~
+~
+0 0 64108
+D3
+~
+~
+0 0 64114
+D6
+~
+~
+0 0 64110
+S
+#64110
+Along the District of Laughter~
+~
+This winding road connects two intersections of the districts of flames and 
+metal. White cobblestones pave the way northeast and southwest. Soft scents 
+drift from flora lining the way to the palace far in to the northeast. 
+~
+1 0 1
+D1
+~
+~
+0 0 64188
+D3
+~
+~
+0 0 64187
+D6
+~
+~
+0 0 64111
+D8
+~
+~
+0 0 64109
+S
+#64111
+A District Intersection~
+~
+This intersection of the districts is curiously quiet. To the west, the 
+southern entrance to the palace spreads open opulently. To the north and 
+south the district of metal echoes with the sounds of swords clashing. 
+Southwest and east open to the district of flames with the sound of chanting 
+and sacred songs of joy and sorrow. 
+~
+1 33816576 1
+D0
+~
+~
+0 0 64121
+D1
+~
+~
+0 0 64100
+D2
+~
+~
+0 0 64112
+D3
+~
+~
+0 0 64202
+D8
+~
+~
+0 0 64110
+S
+#64112
+Along the District of the Hearth~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64111
+D8
+~
+~
+0 0 64113
+S
+#64113
+Along the District of the Hearth~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64109
+D6
+~
+~
+0 0 64112
+D9
+~
+~
+0 0 64155
+S
+#64114
+Along the District of the Hearth~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64109
+D9
+~
+~
+0 0 64115
+S
+#64115
+Along the District of the Hearth~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64116
+D7
+~
+~
+0 0 64114
+S
+#64116
+Along the District of the Hearth~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64117
+D1
+~
+~
+0 0 64237
+D2
+~
+~
+0 0 64115
+S
+#64117
+Along the District of the Hearth~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64238
+D2
+~
+~
+0 0 64116
+D6
+~
+~
+0 0 64118
+S
+#64118
+Along the District of the Hearth~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64119
+D8
+~
+~
+0 0 64117
+S
+#64119
+A District Intersection~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64120
+D3
+~
+~
+0 0 64118
+D7
+~
+~
+0 0 64131
+D9
+~
+~
+0 0 64130
+S
+#64120
+Along the District of the Hearth~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64119
+D7
+~
+~
+0 0 64132
+S
+#64121
+A District Intersection~
+~
+~
+1 262144 1
+D1
+~
+~
+0 0 64240
+D2
+~
+~
+0 0 64111
+D3
+~
+~
+0 0 64239
+D9
+~
+~
+0 0 64132
+S
+#64122
+Along the District of Laughter~
+~
+This curve in the road is paved in soft white cobbles. The path continues to 
+the southwest towards Anshio exit gate and to the northwest nearer to the 
+intersection of flames and silk. To the southeast, the large stone walls 
+that encircle this great city tower above. 
+~
+1 0 1
+D3
+~
+~
+0 0 64208
+D6
+~
+~
+0 0 64104
+D8
+~
+~
+0 0 64105
+S
+#64123
+Along the District of the Beacon~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64124
+D8
+~
+~
+0 0 64136
+S
+#64124
+Along the District of the Beacon~
+~
+~
+1 0 1
+D2
+~
+~
+0 0 64123
+D9
+~
+~
+0 0 64125
+S
+#64125
+A District Intersection~
+~
+~
+1 0 1
+D6
+~
+~
+0 0 64137
+D7
+~
+~
+0 0 64124
+D8
+~
+~
+0 0 64135
+D9
+~
+~
+0 0 64126
+S
+#64126
+Along the District of the Beacon~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64127
+D7
+~
+~
+0 0 64125
+S
+#64127
+Along the District of the Beacon~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64126
+D8
+~
+~
+0 0 64128
+S
+#64128
+Along the District of the Beacon~
+~
+~
+1 0 1
+D6
+~
+~
+0 0 64127
+D8
+~
+~
+0 0 64129
+S
+#64129
+Along the District of the Beacon~
+~
+~
+1 0 1
+D2
+~
+~
+0 0 64130
+D6
+~
+~
+0 0 64128
+S
+#64130
+Along the District of the Beacon~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64129
+D1
+~
+~
+0 0 64156
+D7
+~
+~
+0 0 64119
+S
+#64131
+Along the District of the Beacon~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64132
+D9
+~
+~
+0 0 64119
+S
+#64132
+Along the District of the Beacon~
+~
+~
+1 262144 1
+D1
+~
+~
+0 0 64133
+D3
+~
+~
+0 0 64131
+D6
+~
+~
+0 0 64136
+D7
+~
+~
+0 0 64121
+D9
+~
+~
+0 0 64120
+S
+#64133
+A District Intersection~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64142
+D3
+~
+~
+0 0 64132
+D6
+~
+~
+0 0 64153
+D8
+~
+~
+0 0 64154
+D9
+~
+~
+0 0 64136
+S
+#64134
+Along the District of Harmony~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64103
+D6
+~
+~
+0 0 64149
+S
+#64135
+Along the District of Water~
+~
+~
+1 0 1
+D2
+~
+~
+0 0 64143
+D6
+~
+~
+0 0 64125
+S
+#64136
+A District Intersection~
+~
+~
+1 0 1
+D6
+~
+~
+0 0 64123
+D7
+~
+~
+0 0 64133
+D8
+~
+~
+0 0 64132
+D9
+~
+~
+0 0 64143
+S
+#64137
+Along the District of Water~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64138
+D8
+~
+~
+0 0 64125
+S
+#64138
+Endomer Beach~
+~
+The gate to the north lays open, providing a clear view of the vast ocean. 
+Sailors and beach lovers alike pass as you look out onto the view. Couples 
+walk hand in hand and children fly kites and build sand castles. A small 
+group of children throw a ball to each other. A large breed dog frolics in 
+the shallow waters with his owner. 
+~
+1 0 1
+D0
+~
+~
+0 0 64242
+D3
+~
+~
+0 0 64137
+D7
+~
+~
+0 0 64145
+S
+#64139
+Endomer Northern Gates~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64230
+D1
+~
+~
+0 0 64225
+D2
+~
+~
+0 0 64140
+D3
+~
+~
+0 0 64226
+D9
+~
+~
+0 0 64145
+S
+#64140
+A District Intersection~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64139
+D1
+~
+~
+0 0 64228
+D3
+~
+~
+0 0 64227
+D8
+~
+~
+0 0 64141
+S
+#64141
+A District Intersection~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64146
+D3
+~
+~
+0 0 64153
+D6
+~
+~
+0 0 64140
+D8
+~
+~
+0 0 64142
+S
+#64142
+Along the District of Water~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64133
+D6
+~
+~
+0 0 64141
+S
+#64143
+Along the District of Water~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64135
+D7
+~
+~
+0 0 64136
+S
+#64144
+A District Intersection~
+~
+~
+1 4 1
+S
+#64145
+Along the District of Water~
+~
+~
+1 0 1
+D7
+~
+~
+0 0 64139
+D9
+~
+~
+0 0 64138
+S
+#64146
+Along the District of Harmony~
+~
+~
+1 0 1
+D3
+~
+~
+0 0 64141
+D7
+~
+~
+0 0 64147
+S
+#64147
+Along the District of Harmony~
+~
+~
+1 0 1
+D2
+~
+~
+0 0 64148
+D3
+~
+~
+0 0 64241
+D9
+~
+~
+0 0 64146
+S
+#64148
+Along the District of Harmony~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64147
+D2
+~
+~
+0 0 64149
+D3
+~
+~
+0 0 64219
+S
+#64149
+Along the District of Harmony~
+~
+~
+1 0 1
+D0
+~
+~
+0 0 64148
+D3
+~
+~
+0 0 64218
+D8
+~
+~
+0 0 64134
+S
+#64150
+Along the District of Harmony~
+~
+~
+1 4 1
+S
+#64151
+Along the District of Harmony~
+~
+This small courtyard lies before a large building to the sound from which 
+thunderous singing echoes out. Various trees provide some shade and people 
+make their way through the area slowly, languoring in the sounds that issue 
+from the structure. The smell of incense floats lightly in the air here. 
+~
+1 0 1
+D1
+~
+~
+0 0 64103
+D2
+~
+~
+0 0 64157
+D9
+~
+~
+0 0 64152
+S
+#64152
+Along the District of Harmony~
+~
+All around the sound of music, divine and common, echoes through the area. 
+The path curves north and towards the southeast smoothly. Cobblestones have 
+been meticulously cleaned by the soft slippers of the many singers who carol 
+their way through the district of silk. 
+~
+1 0 1
+D0
+~
+~
+0 0 64101
+D7
+~
+~
+0 0 64151
+S
+#64153
+Along the District of Harmony~
+~
+~
+1 0 1
+D1
+~
+~
+0 0 64141
+D8
+~
+~
+0 0 64133
+S
+#64154
+Along the District of Harmony~
+~
+Everything along this road has been placed for the most artful effect. 
+Flowers bloom in full colors, trees bear almost overabundant amounts of ripe 
+fruit and people passing by are beautiful almost to a fault. Subtle smells 
+of jasmine and nightblooming roses waft across the air and windchimes echo 
+like the tinkling of bells. 
+~
+1 262144 1
+D1
+~
+~
+0 0 64214
+D2
+~
+~
+0 0 64101
+D3
+~
+~
+0 0 64213
+D6
+~
+~
+0 0 64133
+S
+#64155
+A Small Pagoda~
+~
+Small and neatly packed, the owner seems to have a nostalgic touch for old 
+and disused things. An antique cabinet basks in the glow of the sun while a 
+once-beautiful houseplant withers in a corner. Soft cotton mats create a 
+warm and inviting floor to kneel upon. 
+~
+1 0 0
+D7
+~
+~
+0 0 64113
+R M 0 64101 1 64155
+S
+#64156
+A Busy Office~
+~
+~
+1 0 0
+D3
+~
+~
+0 0 64130
+R M 0 64102 1 64156
+S
+#64157
+A Reception Area~
+~
+Stout brown brick lies unadorned but spotless. Along the southern wall a set 
+of stairs curves upwards. To the north, a door opens back out upon the 
+street. The smell of incense hovers in the air just short of stifling. To 
+the west is the Magistrate's Chamber. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64151
+D1
+~
+~
+0 0 64201
+D3
+~
+~
+0 0 64200
+D4
+~
+~
+0 0 64158
+S
+#64158
+A Small Brick Room~
+~
+This austere room has few adornments. A few chairs and a large chart of odd 
+symbols are all that fill the bare space. A few slits along the northern 
+wall have been made for air currents to flow in and out of the room and the 
+east and west walls have been covered in cork.   note :Pigeon carrier 
+~
+1 33554440 0
+D5
+~
+~
+0 0 64157
+R O 0 64132 0 64158
+S
+#64159
+Palace Terrace~
+~
+A large terrace with marble columns and over-hang provides a resting spot 
+from the sun. Planted trees sit along the railing, and various flowers grow 
+in hanging pots. Two enourmous enclosures hold song birds. Two gentle 
+looking knights are posted at the entrance, they do look capable of not 
+being so gentle if the Palace were threatened however. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64160
+D2
+~
+~
+0 0 64100
+S
+#64160
+Palace Lobby~
+~
+The walls in the lobby are a pale blue.  Golden edged portraits of past 
+rulers line the walls.  The figures displayed in the pictures all bear airs 
+of competence and absolute confidence in themselves. Small plaques under the 
+portraits identify the painted figures. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64166
+D1
+~
+~
+0 0 64167
+D2
+~
+~
+0 0 64159
+D3
+~
+~
+0 0 64165
+S
+#64161
+The Princess Tower~
+~
+To the north, you can see the bed chambers of the pride and joy of Endomer, 
+their Princess. To the west, is the glorious dressing room with garments and 
+jewelry that seems to have no end. The east holds the hand maids beds and 
+the south is where the Princess learns all of her wisdom. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64163
+D1
+~
+~
+0 0 64182
+D2
+~
+~
+0 0 64164
+D3
+~
+~
+0 0 64181
+D5
+~
+~
+0 0 64176
+S
+#64162
+~
+~
+~
+1 4 0
+S
+#64163
+Princess Chambers~
+~
+Soft pinks and yellows cover the walls, while the bed is entirely made of 
+white satin. Soft pinks and yellows cover the walls, while the bedding and 
+floor is entirely made of white satin. Muriels seem to cover the Princess' 
+life from birth til present. There is one depicting her at the age of five, 
+wearing a white dress and her jeweled tiara in the center of a dance floor 
+with many royals around her. Another, more recent in her late teen years, 
+shows the Princess upon a lovely arabian stallion in full attire, the 
+Princess has a glorious smile across her face that seems to make you want to 
+smile, despite yourself. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64183
+D2
+~
+~
+0 0 64161
+S
+#64164
+Princess Classroom~
+~
+Being above learning at the institute with other children, the Princess has 
+a classroom of her own in her towers. This is the room she learns everything 
+from musical lessons to book reading and history lectures from the tutor. A 
+large fireplace softly crackles as it warms your skin. The mantle above it 
+holds many prized posessions and memories. A map of the realm is painted 
+onto the west wall, while the ceiling has a paintings of the sky, and the 
+stars for learning the names of such places. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64161
+S
+#64165
+Palace Gallery~
+~
+An artist's dream come to life, as the walls and even the ceiling and floor 
+in this room are painted. The murals depict many scenes from the early times 
+of Endomer to the recent era. An open window to the west is the only spot 
+unpainted. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64160
+S
+#64166
+Palace Hallway~
+~
+Huge planted trees along the hallway provide a tropical feeling to the 
+hallway. Aristocrats walk the hallway, and members of the royal court gossip 
+amongst each other along the walls. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64170
+D1
+~
+~
+0 0 64172
+D2
+~
+~
+0 0 64160
+D3
+~
+~
+0 0 64171
+D4
+~
+~
+0 0 64176
+D5
+~
+~
+0 0 64185
+S
+#64167
+Palace Library~
+~
+A luxurious library covered with walls of tomes, scrolls and books of many 
+various subjects. The temperature is warm from the fireplace. Two windows on 
+either side of the fireplace present an open feeling, and when open a soft 
+breeze, complete with the scent of the flower garden which is set on the 
+other side of the windows. The floors are made of hardwood, however there 
+are elegant rugs throughout the area. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64160
+R O 0 64108 0 64167
+  R P 0 64109 1 64108
+  R P 0 4983 1 64108
+  R P 0 4984 1 64108
+E
+fireplace ~
+A breath-taking fireplace stands here with smoke billowing up through the 
+chimney. 
+~
+E
+fireplace ~
+A breath-taking fireplace stands here with smoke billowing up through the 
+chimeney. 
+~
+S
+#64168
+~
+~
+~
+1 4 0
+S
+#64169
+~
+~
+~
+1 4 0
+S
+#64170
+Palace Hallway~
+~
+Huge planted trees along the hallway provide a tropical feeling to the 
+hallway. Aristocrats walk the hallway, and members of the royal court gossip 
+amongst each other along the walls. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64175
+D1
+~
+~
+0 0 64174
+D2
+~
+~
+0 0 64166
+D3
+~
+~
+0 0 64173
+S
+#64171
+Palace Kitchen~
+~
+The Gods must have created this kitchen, as none other could possibly 
+compare. Wood-burning stoves line the northern wall, all containing pots and 
+pans full of an assortment of foods. A large island is in the middle of the 
+room, where young girls are cutting vegetables and fruits. Along the eastern 
+wall, a baker is working on a few desserts. You can hear the noise from the 
+door to the southwest, where animals are kept and meet their doom before 
+being brought in her for preparation. 
+~
+1 33816584 0
+D1
+~
+~
+0 0 64166
+D8
+~
+~
+0 0 64236
+R O 0 64137 0 64171
+S
+#64172
+Palace Museum~
+~
+Historical statues, documents, and monuments clutter the walls of this room 
+in every direction. Two Palace knights stand on either side of the door. The 
+items residing in here are quite priceless in their worth. One could enjoy 
+many hours studying in here and learning the history of Endomer. 
+~
+1 33816584 0
+D3
+~
+~
+0 0 64166
+S
+#64173
+Chess Room~
+~
+A large room with many tables providing various games to the occupants. Many 
+small tables have chess boards made of marble. The walls are painted a soft 
+sandy color, as a background for the many muriels depicting folks playing 
+assorted games, some quite legendary in their origins. One shows the game of 
+chess that the King himself played against the former ruler of Endomer. 
+~
+1 33816584 0
+D1
+~
+~
+0 0 64170
+S
+#64174
+Palace Chapel~
+~
+The primary source of spirituality for the royal family. Each morning they 
+come here to worship their Gods and pray for the folks of Endomer. The walls 
+are a bright golden color, and holy in aura. A large open window to the east 
+gives a view of the grounds and peasants working. 
+~
+1 33817608 0
+D3
+~
+~
+0 0 64170
+R O 0 64136 0 64174
+S
+#64175
+The Palace Throne Room~
+~
+The first things that catch your eye, are of course the two glorious thrones 
+upon a raised section of flooring directly before you. Seated on these 
+thrones made of gems and magic are the rulers of Endomer, the King and 
+Queen. The room is quite large, and the ceiling beyond reach of a mortal 
+being. Knights stand on either side of the thrones, looking rather bored. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64193
+D2
+~
+~
+0 0 64170
+D3
+~
+~
+0 0 64192
+S
+#64176
+Chamber Hallway~
+~
+The second floor of the Palace consists solely for the royal couple. Bed 
+Chambers are to the east and south, while the dressing rooms are to the 
+west. A large Oriel window is to the north, where the keepers of the peace 
+stand guard. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64177
+D1
+~
+~
+1 0 64179
+D2
+~
+~
+0 0 64178
+D3
+~
+~
+0 0 64180
+D4
+~
+~
+0 0 64161
+D5
+~
+~
+0 0 64166
+S
+#64177
+Oriel Window~
+~
+This is a projecting room, similar to a large bay window. Many guards and 
+archers stand along the walls. One can see the outside walls of the Palace 
+well from this point of view, and the wild plantlife that has grown with 
+abandonment. 
+~
+1 33816584 0
+D2
+~
+~
+0 0 64176
+S
+#64178
+The King's Chambers~
+~
+Reds and golds are the colors in this room. The floors are stripped carpets, 
+leading to the bed on the raised flooring. Huge columns surround the bed, 
+with velvet canopies hanging off of the top. Two gentlemen stand at 
+attendance here, awaiting a moment to assist their King. A large desk sits 
+near the open window, with many piles of papers upon it and a quill pen set 
+in oil. 
+~
+1 33816584 0
+D0
+~
+~
+0 0 64176
+D6
+~
+~
+1 0 64179
+S
+#64179
+The Queen's Chamber~
+~
+A beautiful lady in waiting sits on a cushioned stool sewing the hem of a 
+rather breath-taking gown. The floor is entirely made of a violet velvet, so 
+soft it caresses the bare feet of the many ladies tending to the room. The 
+bed is enormous, the silken cover is a soft green in color. Countless 
+pillows of various color are piled at the head of this bed, making it quite 
+inviting. 
+~
+1 33816584 0
+D3
+~
+~
+1 0 64176
+D8
+~
+~
+1 0 64178
+S
+#64180
+Garderobe~
+~
+A lavish latrine area complete with a spa and dressing tables for the lady 
+of the castle and her attendants. Many fresh flowers adorn the vanity tables 
+and surround the ancient clawfoot bathtub. An open window to the west 
+provides a soft breeze and a delightful aroma. 
+~
+1 33816584 0
+D1
+~
+~
+0 0 64176
+R O 0 64135 0 64180
+S
+#64181
+Dressing room~
+~
+A finely furnished room, with a delicate vanity table against the far wall. 
+On either side between the door and there, are clothes from one end to the 
+other. The only artwork, is of course paintings of the Princess in all her 
+glory. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64161
+S
+#64182
+Hand-Maid Chambers~
+~
+A half dozen ladies in fine clothing scatter the room, some resting on 
+chairs while others sit on the edge of one of the many large beds. A small 
+table has plates of fruits and breads on it. The color of the walls is a 
+soft peach tone, while the floors are carpetted in beige. Large open windows 
+give a view of the palace grounds and the streets and shops throughout 
+Endomer. Curtains softly blow with a gentle breeze that brings in the aroma 
+of the city. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64161
+S
+#64183
+Balcony~
+~
+A lovely terrace for the Princess and her maids. Many young and beautiful 
+ladies sit around the railing, on comfortable chairs. Some braid each others 
+hair, while others eat from the fruit basket upon the small wicker table. A 
+tall railing overlooks the city, you can see folks strolling along the roads 
+and doves flying around the air, singing happily. who and doves flying 
+throughout the air, singing happily. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 64163
+S
+#64184
+Temple of Venalena~
+~
+Each wall of this temple contains a mural painted by enthusiastic artists. A 
+mother holding a newborn child in her arms, with a glorious smile upon her 
+face is above the altar to the west. On the eastern wall, you see a child 
+wearing an amulet of Venalena as she prays over an injured peasant. 
+~
+1 33817608 0
+D0
+~
+~
+0 0 64100
+D2
+~
+~
+0 0 64194
+S
+#64185
+Oubliette~
+~
+A secret dungeon for those unworthy of this city or are found to be 
+unlawful. The guards are kind to the occupants, however one should not 
+aspire to be a resident. To the west is the single cell this city contains 
+for those that break the laws. Even such a glorious city as this has need 
+for such a place, yet most dislike knowing of it. Therefore, it is kept 
+hidden from view of the law abiding citizens. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64186
+D4
+~
+~
+0 0 64166
+S
+#64186
+Oubliette Cell~
+~
+A rather large room, with many people around. Guards roam the room, making 
+sure the prisoners are not doing anything they shouldn't. A few of those 
+held here seem to have resided in the cell for many years...or decades as 
+you look on the face of an elderly man with quite a long beard and hair. A 
+huge cauldron of what looks like oatmeal sits in the middle of the room. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64185
+S
+#64187
+The Medicine Shop~
+~
+Shelves full of potions and salves are along the walls which are painted a 
+light yellow. A huge cauldron sits behind a velvet curtain that leads to the 
+back of the shop. It seems shrouded in mystery and you can hear faint voices 
+trailing in from the back. The aroma is intense, but not overbearing. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64110
+S
+#64188
+Sandwich Shop~
+~
+A lively place with many friendly faces and voices around the room, many of 
+which smile at you upon entering. Two open windows sit on either side of the 
+door you just entered through, giving a wide view of the street and folks 
+strolling. A few booths and small tables give a spot to relax and enjoy the 
+many sancwiches offered for sale here. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64110
+S
+#64189
+Aristocrat Apparel~
+~
+Rows of gowns on hangers that seem to have been sprinkled with faerie dust 
+are along the western wall, which appears to be the ladies section of this 
+boutique. A man that must'a worked as a gentleman's gentleman most of his 
+life attends to a male customer near the back of the boutique, where ruffled 
+shirts and various artistocratic apparel clutters shelves. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64107
+S
+#64190
+Athames and Sabres~
+~
+The walls are decorated with...well they are weapons, but truly beautiful 
+ones. Athames adorned with scenery on the sheathes. The blade itself on 
+these weapons even have intricate details, making these weapons a piece of 
+artwork, not merely a weapon of destruction. Whips and Sabres among 
+countless other such weapons clutter the walsl and display cases. The 
+weaponsmith is an artist. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64108
+S
+#64191
+Entrance to the City~
+~
+~
+1 0 0
+D0
+~
+gate~
+1 0 64105
+S
+#64192
+Dining hall~
+~
+An enormous table reaches from one end of this room to the other. 
+Entertainers roam the floor providing a show for the royal court. Belly 
+dancers, jesters and even faeries give a constant source of entertainment 
+while folks enjoy their meal and wines. Servers flow between the chairs, 
+refilling plates and chalices. 
+~
+1 33816584 0
+D1
+~
+~
+0 0 64175
+S
+#64193
+The Waiting Room~
+~
+Comfortable chairs are seated neatly along the southern wall. Tiny, colorful 
+faeries dance and sing upon a small stage underneath the northern window, 
+making the waiting time to have an audience with the King and Queen fly 
+swifter. 
+~
+1 33816584 0
+D3
+~
+~
+0 0 64175
+S
+#64194
+Garden Bailey~
+~
+Time spent with  an ancient tree can be humbling and inspiring. Majestic, 
+aged, noble, and seemingly knowing. They are a symbol of stability in an 
+ever-changing realm. A piece of living history woven into the character of a 
+place and a link to key events of the past. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 64184
+D1
+~
+~
+0 0 64212
+D2
+~
+~
+0 0 64197
+D3
+~
+~
+0 0 64211
+D6
+~
+~
+0 0 64196
+D9
+~
+~
+0 0 64195
+S
+#64195
+Garden Aboretums~
+~
+In this place, various woody plants are grown for studying, for scientific, 
+educational and ornamental purposes. 
+~
+1 0 0
+D7
+~
+~
+0 0 64194
+S
+#64196
+Garden Vineyards~
+~
+Endless rows of grapes greet your eyes. This is where the magical wines of 
+Endomer are created from small seeds. Yellows and muted greens come alive 
+with the setting sun. The landscape is hilly which gives a wonderful sunset 
+view. 
+~
+1 0 0
+D8
+~
+~
+0 0 64194
+S
+#64197
+Garden Bailey~
+~
+Time spent with an ancient tree can be both humbling and inspiring. 
+Majestic, aged, noble and seemingly knowing. They are a symbol of stability 
+in an ever-changing realm. A piece of living history woven into the 
+character of a place and a link to the key events of the past. 
+~
+1 0 0
+D0
+~
+~
+0 0 64194
+D1
+~
+~
+0 0 64207
+D2
+~
+~
+0 0 64198
+D3
+~
+~
+0 0 64206
+S
+#64198
+Garden pathway~
+~
+Archways all along this pathway from the south to the temple give a place 
+for the wildly growing vines to reach for the sun. Flowers seem to dance on 
+the ground, various colors, shapes and sizes along the edges of the pathway. 
+The grass is a sweet green color, clover mixes with the blades and blends 
+the sight into a marriaqe of green. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 64197
+D1
+~
+~
+0 0 64217
+D2
+~
+~
+0 0 64199
+D3
+~
+~
+0 0 64216
+S
+#64199
+Garden Cynosure~
+~
+Large sweeping tents cover this gathering place from the elements.  The 
+interlocking tent walls made of a queer silken material glimmer in the 
+light.  Scents of the garden drift in on the warm breezes. Enchanted lights 
+dance overhead and keep the area brightly lit. Small wards that secure 
+safety have been placed along the borders of the tents. 
+~
+1 1032 0
+D0
+~
+~
+0 0 64198
+R O 0 64134 0 64199
+S
+#64200
+The Magistrates Chambers~
+~
+A desk and chair sit along the western wall, with the back to a high open 
+window. Potted plants hang from the ceiling and sit along the walls. Piles 
+of papers sit on top of the oak desk, most look like marriage licenses and 
+such awaiting approval from the Magistrate. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64157
+S
+#64201
+Commander of The Endomer Knight's Chambers~
+~
+A spacious room that the Commander occupies during the day. An understated 
+desk sits in a corner, while a sofa rests across from it. A large bookcase 
+is full of important papers and items collected. An open window to the north 
+provides a view of the street and peasants walking along. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64157
+S
+#64202
+Endomer Institute of Education~
+~
+You enter into a large open foyer of the school.  Small round tables and 
+chairs have been clustered together to allow the students a place to study, 
+work, and interact with one another. A desk bearing the nameplate of 
+Chancellor Bsulai is in the corner. Apples and other various gifts from 
+students are piled on top of it. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64203
+D1
+~
+~
+0 0 64111
+D2
+~
+~
+0 0 64204
+D3
+~
+~
+0 0 64205
+D4
+~
+~
+0 0 64220
+R M 0 64104 1 64202
+S
+#64203
+Endomer Institute of Education : Classroom~
+~
+Velvet covered couches and large soft pillows serve as the seating in this 
+classroom. The single desk is covered with dozens of apples and picked 
+flowers in a clear vase. Poetry, short stories, and drawings, contributions 
+from the happy students, are tacked up all over the wall. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 64202
+R O 0 64108 0 64203
+  R P 0 64143 1 64108
+  R P 0 64142 1 64108
+S
+#64204
+History Classroom~
+~
+~
+1 33554440 0
+D0
+~
+~
+0 0 64202
+S
+#64205
+Endomer Institute of Education : Library~
+~
+This library is anything but stuffy.  Constant enchanted sunlight pours in 
+from the windows and bathes the room in warmth.  Tin-cut stars, moons, and 
+suns have been hung at various lengths from the high ceilings. Plump 
+cushions and chairs have been placed throughout the area. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64202
+R O 0 64139 0 64205
+  R P 0 64138 1 64139
+  R P 0 64140 1 64139
+  R P 0 64141 1 64139
+R O 0 64144 0 64205
+S
+#64206
+Garden Lake~
+~
+The gentle lapping of the lake at the shore compliments the soft calls of 
+swans and other animals in this area. An aged oak tree leans far out over 
+the lake. A single swing hangs off of one of its branches. Butterflies dance 
+over the flowers that dot the landscape around the shoreline. 
+~
+1 33554432 0
+D1
+~
+~
+0 0 64197
+R M 0 64103 2 64206
+R O 0 64133 0 64206
+S
+#64207
+Garden Gazebo~
+~
+A charming spot for a picnic or perhaps a proposal. Along the sides of the 
+gazebo are planted foilage as well as rose vines and ivy. The inside is not 
+visible from the outer walls, as nature has embraced it with abandon. 
+~
+1 33554432 0
+D3
+~
+~
+0 0 64197
+S
+#64208
+Endomer Jewelry Boutique~
+~
+Showcases along each wall covered with a see-through glass, provide a lovely 
+setting for the many necklaces, bracelets and rings that are available here. 
+In the rear, a raised portion of of the floor has a tiny showcase that holds 
+the prized possessions of this boutique, a few highly priced amulets and 
+antique items. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64122
+S
+#64209
+Endomer General Supply Shop~
+~
+The walls and floor are made of dark wood, making the shop appear smaller 
+than it truly is. It's quite simple and apparently the owner doesn't wish 
+for folks to spend more time than is needed to purchase the item they come 
+for. You are greeted with a reluctant smile and feel a bit rushed through 
+your selection. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64104
+S
+#64210
+Endomer Deli~
+~
+As you enter the deli, the scent of breads and oatmeal gently touch your 
+nose. It is a busy shop, many citizens of Endomer meet here for a snack and 
+conversation. This appears to be a prime gossip spot for the city. Many 
+booths line the walls, and a couple of small tables are placed on the 
+hardwood floor. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64106
+S
+#64211
+Garden Orchard~
+~
+Acres upon acres of trees greet your eyes here, as well as the plentiful 
+aray of colors. Small birds peck at the foods near the top of the trees, 
+still leaving more than enough untouched for the pickers to gather. 
+~
+1 0 0
+D1
+~
+~
+0 0 64194
+R O 0 3908 0 64211
+  R P 0 3910 1 3908
+  R P 0 3910 1 3908
+R O 0 3907 0 64211
+  R P 0 39295 1 3907
+  R P 0 39295 1 3907
+  R P 0 39295 1 3907
+S
+#64212
+Herb Gardens~
+~
+Herbs are essential ingredients for spicing up recipes. Without them, eating 
+would be pretty bland. Herbs add character, flavor and uniqueness to the 
+food you eat daily. There are a wide variety of them at your disposal here. 
+Nearly sixty different herbs grow here, making it quite the scent to your 
+senses. They range in uses from culinary, aromatic to medicinal. 
+~
+1 0 0
+D3
+~
+~
+0 0 64194
+R O 0 50009 0 64212
+R O 0 61004 0 64212
+S
+#64213
+Endomer Equine Stables~
+~
+This hallway seems nearly endless, with the hay laying on the hallway floor, 
+making a crunching noise with every step you take. Soft neighs and nickers 
+come from the stalls on either side of you. The stall doorways are cut in 
+the middle, letting the horses hang their heads over as you approach, and 
+also allows them to be social with each other. Each stall opens to an 
+outside paddock, so they are never restricted to live indoors alone. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64154
+S
+#64214
+Endomer Dairy Farm and Creamery~
+~
+A high ceiling with open windows along the walls is the setting for this 
+dairy. An open back door leads out into a huge pasture where you can see 
+many breeds of cattle, ranging from jersey, to holsteins. On the western 
+wall, a dozen hefers are tethered as young workers milk them by hand. Each 
+one has a feed bucket to keep them content while being milked. Along the 
+eastern wall, large containers are being filled with the milk and either 
+turned into butter, cream, or drinking milk. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64154
+S
+#64215
+Endomer Poultry Farm~
+~
+Unlike most poultry farms, this one is quite unique in that the hens are not 
+caged, but rather roam the huge barn and meadows freely. There are 
+individual nests made of hay along the walls and up on shelves, which the 
+hens nestle in. A young girl walks up and down the aisles collecting the 
+eggs in a bucket. You can hear the happy cackles of hens all around 
+yourself. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64101
+S
+#64216
+Vegatable Gardens~
+~
+A serene garden spot, with a variety of vegatables growing in neatly planted 
+rows. A few tress give them the shade required and a spot to rest 
+underneath. Critters dash or fly by as you walk along. A small creek runs 
+through to quinch the thirst of the plants. 
+~
+1 0 0
+D1
+~
+~
+0 0 64198
+S
+#64217
+Fruit Gardens~
+~
+Colors strike your eyes, from the red apples to the ripe purple grapes. 
+Trees seem to go on forever in every direction. There is no limit to 
+fulfilling one's appetite here. The fruits seem to be magical in their 
+beauty. A soft clover patch is here for anyone wishing to rest. 
+~
+1 0 0
+D3
+~
+~
+0 0 64198
+S
+#64218
+Cherished Companions~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 64149
+S
+#64219
+Endomer Footwear~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 64148
+S
+#64220
+Hallway~
+~
+~
+1 33554440 0
+D0
+~
+~
+0 0 64221
+D1
+~
+~
+0 0 64224
+D2
+~
+~
+0 0 64223
+D3
+~
+~
+0 0 64222
+D5
+~
+~
+0 0 64202
+S
+#64221
+Chancellor's Chambers~
+~
+~
+1 33554440 0
+D2
+~
+~
+0 0 64220
+S
+#64222
+~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 64220
+S
+#64223
+~
+~
+~
+1 33554440 0
+D0
+~
+~
+0 0 64220
+S
+#64224
+~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 64220
+S
+#64225
+Home~
+~
+~
+1 33554440 0
+D3
+~
+~
+0 0 64139
+S
+#64226
+Home~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 64139
+S
+#64227
+Shop~
+~
+~
+1 0 0
+D1
+~
+~
+0 0 64140
+S
+#64228
+shop~
+~
+~
+1 0 0
+D3
+~
+~
+0 0 64140
+S
+#64229
+Temple of Jivanor~
+~
+Where most temples have priests only, this one seems like it is the scene of 
+a small party. A bard roams the room carrying his flute, while a priest 
+dances in the middle of the room. The floor is made of marble, but there are 
+several spots along the walls with piles of cushions for resting. Of course, 
+even here there are planted trees and plants all around the room. 
+~
+1 0 0
+D2
+~
+~
+0 0 64105
+S
+#64230
+Temple of Kreav~
+~
+~
+1 33554440 0
+D2
+~
+~
+0 0 64139
+S
+#64231
+Odeum~
+~
+Entering this large saloon, you notice the massive candles along each wall 
+and a candelier in the middle of the room which gives a light that is nearly 
+holy in it's aura and brightness. Many areas for sitting are around, however 
+most of the voice seem to echo from ajoining rooms. Folks come in here to 
+gain refreshments for the shows. Open windows provide a view of the citizens 
+on the road outside. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64232
+D1
+~
+~
+0 0 64233
+D2
+~
+~
+0 0 64234
+D9
+~
+~
+0 0 64104
+S
+#64232
+Delicatessen~
+~
+An enchanting setting for a restaurant. Small tables offer a relaxing spot 
+to enjoy your meal. Atop each table is a different painting under the glass, 
+mostly historical in origin. The seats are cushioned with velvet cloth. A 
+bard soflty sings to your enjoyment and a server is at your disposal. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 64231
+S
+#64233
+Lodging House~
+~
+This lodging house reception area has wooden walls, that still have the 
+scent to them. A comfortable and inviting room while waiting for your key. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64231
+D4
+~
+~
+0 0 64235
+S
+#64234
+Burlesque~
+~
+Lovely servers walk the room, offering to take your order. The stage 
+provides a place for the countless shows that take place in here. Muriels on 
+the walls depict various settings, from a romantic waterfall to a great 
+battle. In the center of the room, a small tree stands, growing from the 
+earth itself off of this tree hangs the candlesticks that provide the 
+lighting. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 64231
+S
+#64235
+Lodging House rooms~
+~
+~
+1 33554440 0
+D5
+~
+~
+0 0 64233
+S
+#64236
+Kitchen Storage~
+~
+Tethered along the southern wall are a few sheep and pigs. In cages along 
+the western wall are hens and ducks. A huge stone freezer is to the east and 
+boxes of produce clutter the north wall on either side of the doorway. A 
+table is set in the center of the room, upon which is quite a bloody mess, 
+along with the butcher knife next to the cutting board. 
+~
+1 33816584 0
+D6
+~
+~
+0 0 64171
+S
+#64237
+Endomer Graveyard and Memorial~
+~
+Those that find themselves resting here for eternity may be grateful, as it 
+is a glorious place to spend all time. Each grave has quite a bit of room, 
+and a grand headstone, saying much more than the dates of birth and death 
+for the person. Most are also given a story of their life as well upon the 
+markers. Many acorn trees grow between the graves. In the second section, 
+are the memorial monuments where statues have been built in honor of person 
+of the past. 
+~
+1 0 0
+D3
+~
+~
+0 0 64116
+S
+#64238
+Endomer Convent~
+~
+Unquestionably a holy building, the nuns and nuns-in-training seem to glow 
+from within as you walk into the convent.. The walls are made of strong 
+stone and bricks, yet seem to be soft at the same time. Plants are all 
+around, and birds fly throughout the courtyard of the Convent, singing their 
+soft songs of joy. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64117
+S
+#64239
+Cafe' Cottage~
+~
+A quaint and delightful place to relax and enjoy a cup of mocha or espresso. 
+Dark walls and plants provide a moody atmosphere, many of the patrons are 
+the artists of Endomer, painters poets and such. The backs on the booths 
+reach the ceiling, giving privacy. Two lovely servers move through the room 
+with trays of steaming coffee and teas. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 64121
+S
+#64240
+Tomes and Scrolls~
+~
+Books, tomes and scrolls, oh my! Many deep secrets seem to be stored here in 
+pages of the past. Students from the institute flip through pages of school 
+books undoubtedly looking for helpful notes past students left in the used 
+books. An elderly looking man with a wise face reads a scroll in a corner, 
+looking up as you walk in. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 64121
+S
+#64241
+Hampers and Knapsacks~
+~
+~
+1 33554440 0
+D1
+~
+~
+0 0 64147
+S
+#64242
+On the beach~
+~
+~
+1 0 0
+D2
+~
+~
+0 0 64138
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

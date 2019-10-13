@@ -1,0 +1,16130 @@
+#AREA        The Wilderness~
+
+
+
+#VERSION     11
+#AUTHOR      none~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#52000
+woodchuck~
+a woodchuck~
+A woodchuck is sitting on its hind legs looking at you.
+~
+This small fat creature is covered with short brown fur.  It has a short 
+black tail.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52001
+rabbit~
+a rabbit~
+A rabbit is here, eating some leaves.
+~
+This small rabbit is covered with fluffy brown hair.  Its teeth look pretty 
+sharp.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52002
+pheasant~
+a pheasant~
+A pheasant blends in with the background here.
+~
+This large bird has brown and black feathers, and blends in with the forest 
+very nicely.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52003
+grey squirrel~
+a grey squirrel~
+A grey squirrel is searching for nuts.
+~
+This big squirrel has short grey fur, and is searching around for
+some nuts.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52004
+lady-bug~
+a lady-bug~
+A lady-bug is flying here.
+~
+This bug is ronded and has black-spotted red wings. Its tiny and has six short 
+legs. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52005
+blue bat~
+a blue bat~
+A blue bat is hanging upside-down here.
+~
+This bat is blue and each wing is twice the size of the body. Its a small bat 
+with dark blue eyes.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+4 0 6 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52006
+grey monkey golden mane~
+a grey monkey with a golden mane~
+A grey monkey with a golden mane is making tricks here.
+~
+You see a grey monkey with a long tail. On its head, the fur grows longer, 
+forming a golden mane.
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52007
+dark skunk white strips~
+a dark skunk with two white stripes~
+A dark skunk with two white stripes is stinking here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52008
+silver-green dragonfly~
+a silver-green dragonfly~
+A silver-green dragonfly is flying noisily here.
+~
+This inssect has a long body and four long transparent wings. Its colour 
+varies, depending on the light, between silver and green.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52009
+silver fish~
+a silver fish~
+A silver fish is swimming wildly here.
+~
+You see a silver fish with big round eyes. It is a big fish, yet very fast.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 4 2d5+5 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52010
+yellow firefly~
+a yellow firefly~
+`#`Y(Glowing)`^ A yellow firefly is shining here.
+~
+This is a yellow-coloured firefly. It is glowing in the dark of the night, 
+looking like a star, which came down from the sky.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52011
+grey wolf~
+a grey wolf~
+A grey wolf is hunting around here.
+~
+You see a `#`Sgrey`^ wolf with a long tail.  This wolf is not huge, nor small, but 
+its legs seem too long for his body.  His snout is small, but his ears are 
+big.  A funny wolf, indeed.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+27 0 -8 4d5+120 5d4+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52012
+green-striped blue snake~
+a green-striped blue snake~
+A green-striped blue snake is moving slowly here.
+~
+This is a big snake, with triangular head and thick tail, which gets thinner 
+quickly at the end. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+9 0 2 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52013
+big brown spider~
+a big brown spider~
+A big brown spider is looking for a place to make its web.
+~
+This is a big spider, with furry long legs. Its eight legs move slowly, as the spider 
+walks aroung, searching for a safe place.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52014
+white badger red stripes~
+a white badger with red stripes~
+A white badger with red stripes is sniffing the air here.
+~
+You see a white badger with red stripes. It is small for a badger, but not 
+that small. Its eyes are dark green, and its claws are dark grey. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+13 1 -1 2d5+50 2d5+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52015
+dark cougar~
+a dark cougar~
+A dark cougar is sneaking around you.
+~
+This is a dark cougar. Its eyes are red and it has a huge mouth, filled with sharp 
+teeth. Its long tail keeps on waving, while its ears move backwards.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+38 0 -13 5d6+225 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52016
+red fox~
+a red fox~
+A red fox is running around here
+~
+You see a red fox with a huge furry tail. It has a small mouth, but its teeth 
+are very sharp. Its eyes are dark blue and its paws are small and delicate.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+16 0 -2 3d5+67 2d6+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52017
+white eagle~
+an eagle~
+A white feathered eagle is flying here.
+~
+You see a white feathered eagle. Its wing tips are black and there are several 
+black spots on its breast. This eagle has a big beak and some respectable claws.
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+15 0 4 3d5+60 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52018
+dark brown elk~
+a dark brown elk~
+A dark brown elk is moving its ears back and forward here.
+~
+This is a dark elk with huge and pointy horns. Its ears are a little too big for 
+its head, but they can only make the elk look charming. Its hoofs are grey and 
+shiny, just like its eyes.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52019
+white mole~
+a white mole~
+A white mole is moving its nose here.
+~
+You see a very small and white mole, with white eyes. When you look at its paws, 
+you are able to see some sharp claws. This mole has a small pink snout, which is 
+kept up, to sniff the air.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+7 0 4 2d5+5 1d8+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52020
+small mole~
+a small mole~
+A small mole is digging the ground around here.
+~
+This is a small mole. You can see its eyes are soft grey, while its fur is dark 
+grey. It has some big claws, which much be very useful to dig the ground.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+9 0 2 2d5+12 1d8+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52021
+deer buck~
+a white-tailed buck~
+A white-tailed buck is startled by your approach.
+~
+This buck is a majestic creature, curiously unafraid of you.  It has an 
+impressive rack of at least 20 points.  
+~
+0
+Clanname none~
+0
+0
+129 0 0 C
+13 0 -2 1d1+90 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52022
+were-wolf wolf werewolf~
+a were-wolf~
+A fearsome were-wolf is prowling around.
+~
+The were-wolf stands six foot tall, humanoid in shape but fearsome in 
+appearance.  The snout extends out from his face, and long razor-sharp teeth 
+can be seen.  He appears to be an evil cross between a human and a wolf.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52023
+noisy seagull~
+a seagull~
+A noisy seagull is hopping about looking for food.
+~
+This white feathered bird is found over or near large bodies of water. 
+This one is hopping about on the beach, perhaps looking for food.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 0 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52024
+land turtle big~
+a big land turtle~
+A big land turtle is walking around slowly, looking for food.
+~
+This is a very big turtle. Its paws are thick and the shell it carries is 
+large and dirty with moss. Slowly and patiently, the turtle walks around, 
+looking for food.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+5 0 2 2d5+2 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52025
+dark vulture~
+a dark vulture~
+A dark vulture is flying in circles here.
+~
+An ugly bird it is. Dark, with some grey feathers on the wings; its head is 
+featherless and its eyes are yellow. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 0 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52026
+brown-feathered pigeon~
+a brown-feathered pigeon~
+A brown-feathered pigeon is looking stupid here.
+~
+This is a stupid-looking pigeon and it looks even more stupid when it walks, 
+waving its head back and forth. Its feathers are in different shades of brown.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52027
+multi-coloured butterfly~
+a `#`?m`?u`?l`?t`?i`?-`?c`?o`?l`?o`?u`?r`?e`?d`^ butterfly~
+A `#`?m`?u`?l`?t`?i`?-`?c`?o`?l`?o`?u`?r`?e`?d`^ butterfly flies happily around here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52028
+owl white feathers~
+an owl with white feathers~
+An owl with white feathers is looking for food here.
+~
+This bird has large and round eyes, which are darker than a moonless night. 
+It is very small, but calls attention for being so white. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+3 1 7 15d3+70 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52029
+huge brown-furred bear~
+a huge brown-furred bear~
+A huge brown-furred bear is rambling around here.
+~
+You are looking at a very large bear. It is brown-furred and its eyes are 
+yellow. This bear is not frightening, though, on the contrary, it's quite 
+a fluffy picture.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+39 0 -15 5d7+250 8d6+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52030
+yellow nightingale red feathers wings~
+a `#`Yyellow`^ nightingale with `#`Rred`^ feathers on the wings~
+A `#`Yyellow`^ nightingale with `#`Rred`^ feathers on the wings is singing beautifully here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52031
+black yellow bee~
+a black and yellow bee~
+A black and yellow bee is working here.
+~
+Its body is all striped with black and yellow. This bee has transparent wings, 
+which don't stop working, making a soft bzzzz...
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52032
+diseased rat~
+a diseased rat~
+A diseased rat is here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+6 0 4 2d5+4 1d7+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52033
+polar bear~
+a `#`Wwhite polar bear`^~
+A large `#`Wwhite polar bear`^ is scrounging for food here.
+~
+~
+0
+Clanname none~
+0
+0
+1 32768 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#52034
+were-tiger tiger weretiger~
+a were-tiger~
+A large were-tiger is here.
+~
+This were-tiger stands well over six foot tall, humanoid in shape but 
+fearsome in appearance.  A short snout extends out from his face, and long 
+razor-sharp teeth can be seen.  He appears to be an evil cross between a 
+human and a tiger. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#55121
+giant frog lord~
+`#the `GLord `gof the `GFrogs`^~
+A very large frog is sitting here, looking for a meal.
+~
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+53 0 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#55216
+mage enchanter~
+the Enchanter~
+A cloaked mage is searching the forest for spell components.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 0 -13 5d6+230 3d10+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#56194
+dark figure master thief~
+the `#`YMaster `YThief`^~
+A dark figure stands here, and he is not happy to see you.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#56195
+feral black bear were~
+a feral black were-bear~
+A feral black were-bear sniffs the ground
+~
+A large black bear looms before you.  Its fur is matted with dirt, small 
+twigs, and other substances.  Saliva drips from its long teeth as it scents 
+the air for its next meal.  Its red eyes roll wildly and take in everything. 
+
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#52000
+salmon~
+a salmon~
+A freshly caught salmon lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52001
+rock bass~
+a rock bass~
+A freshly caught rock bass lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52002
+largemouth bass~
+a largemouth bass~
+A freshly caught largemouth bass lies here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52003
+smallmouth bass~
+a smallmouth bass~
+A freshly caught smallmouth bass is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52004
+black crappie~
+a black crappie~
+A freshly caught black crappie is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52005
+white crappie~
+a white crappie~
+A freshly caught white crappie is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52006
+striped bass~
+a striped bass~
+A freshly caught striped bass is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52007
+channel catfish~
+a channel catfish~
+A freshly caught channel catfish is here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52008
+grey catfish~
+a huge grey catfish~
+A freshly caught grey catfish is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52009
+rainbow trout~
+a `#`?r`?a`?i`?n`?b`?o`?w `^trout~
+A freshly caught `#`?r`?a`?i`?n`?b`?o`?w `^trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52010
+spotted bass~
+a `#`Ss`wp`So`wt`St`we`Sd `wbass`^~
+A freshly caught spotted bass is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52011
+spotted sunfish~
+a `#`Ss`wp`So`wt`St`we`Sd `Ysunfish`^~
+A freshly caught spotted sunfish is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52012
+bluegill~
+a `#`cblue`bgill`^~
+A freshly caught bluegill is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 24 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52013
+minnow~
+a small minnow~
+A freshly caught minnow is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52014
+brook trout~
+a `#`cbrook trout`^~
+A freshly caught brook trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52015
+brown trout~
+a `#`ybrown trout`^~
+A freshly caught brown trout is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52016
+walleye~
+a walleye~
+A freshly caught walleye is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52017
+sauger~
+a large sauger~
+A freshly caught large sauger is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 43 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52018
+goldfish fish~
+a `#`Ygoldfish`^~
+A freshly caught `#`Ygoldfish`^ is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52019
+redbreasted bream~
+a `#`Rredbreasted bream`^~
+A freshly caught `#`Rredbreasted bream`^ is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52020
+warmouth bream~
+a `#`rwarmouth bream`^~
+A freshly caught warmouth bream is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 18 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52021
+grass pickerel~
+a grass pickerel~
+A freshly caught grass pickerel is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52022
+rusted mug~
+an old rusted mug~
+An old rusted mug filled with mud is here.~
+~
+17 0 16
+2 9 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52023
+white bass~
+a `#`Wwhite bass`^~
+A freshly caught white bass is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52024
+hybrid bass~
+a `#`Wh`Sy`Wb`Sr`Wi`Sd `Wb`Sa`Ws`Ss`^~
+A freshly caught `#`Wh`Sy`Wb`Sr`Wi`Sd `Wb`Sa`Ws`Ss`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 27 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52025
+smelly carp~
+a smelly carp~
+A freshly caught carp is here.~
+~
+19 0 16
+10 0 0 0 0 0 0
+1 4 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52026
+clump gold coin~
+a clump of `#`Ygold coins`^ from a shipwreck~
+A clump of `#`Ygold coins`^ pulled from a shipwreck are here.~
+~
+20 0 16
+3 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+52026 clump gold coin~
+The coins glisten in the large clump.  Maybe if you drop them and pick them 
+up again, they will fall apart and you can get the gold coins from it.  
+~
+#52027
+lantern beat old~
+a beat-up old lantern~
+A beat-up old lantern is here.~
+~
+1 0 1
+0 5 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52028
+bamboo fishing pole fishingpole~
+a bamboo fishing pole~
+A bamboo fishing pole lies here.~
+~
+43 0 32
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52029
+old boot mud~
+an old boot full of mud~
+An old boot full of mud is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52030
+dead fish corpse~
+a rotten dead fish~
+A rotting dead fish is here.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52031
+oyster~
+a large `#`Woyster`^~
+A freshly caught oyster is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52032
+clam~
+a small clam~
+A freshly caught clam is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52033
+triggerfish~
+a `#`Mtriggerfish`^~
+A freshly caught triggerfish is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52034
+snowcrab crab~
+a `#`Wsnowcrab`^~
+A freshly caught snow crab is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52035
+black reef shark~
+a `#`Sblack-tipped reef shark`^~
+A freshly caught black-tipped reef shark is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 75 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52036
+tiger shark~
+a `#`yt`ri`yg`ye`rr `ys`rh`ya`rr`yk`^~
+A freshly caught `#`yt`ri`yg`ye`rr `ys`rh`ya`rr`yk`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 65 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52037
+amberjack~
+an `#`camberjack`^~
+A freshly caught `#`camberjack`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52038
+black sea bass~
+a `#`Sblack `wsea `Sbass`^~
+A freshly caught `#`Sblack `wsea `Sbass`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52039
+barracuda~
+a `#`Wsharp-toothed`^ barracuda~
+A freshly caught barracuda is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52040
+bluefish~
+a `#`Bbluefish`^~
+A freshly caught `#`Bbluefish`^ is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52041
+cobia~
+a cobia~
+A freshly caught cobia is here.~
+~
+19 0 16
+26 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52042
+croaker~
+a croaker~
+A freshly caught croaker is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52043
+dolphinfish~
+a `#`cdolphinfish`^~
+A freshly caught dolphinfish is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 28 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52044
+black drum~
+a `#`Sblack drum`^~
+A freshly caught black drum is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52045
+flounder~
+a `#`gflounder`^~
+A freshly caught flounder is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 35 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52046
+grouper~
+a grouper~
+A freshly caught grouper is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52047
+ladyfish~
+a `#`Rladyfish`^~
+A freshly caught ladyfish is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 45 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52048
+king mackeral~
+a king mackeral~
+A freshly caught king mackeral is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52049
+yellowfin tuna~
+a `#`Yyellowfin tuna`^~
+A freshly caught `#`Yyellowfin tuna`^ is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52050
+blue marlin~
+a `#`Bblue marlin`^~
+A freshly caught `#`^blue marlin`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52051
+sailfish~
+a `#`Csailfish`^~
+A freshly caught sailfish is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52052
+red snapper~
+a `#`Rred snapper`^~
+A freshly caught `#`Rred snapper`^ is here.~
+~
+19 0 16
+30 0 0 0 0 0 0
+1 32 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52053
+swordfish~
+a `#`bswordfish`^~
+A freshly caught `#`bswordfish`^ is here.~
+~
+19 0 16
+32 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52054
+tarpon~
+a tarpon~
+A freshly caught tarpon is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52055
+blackfin tuna~
+a `#`Sblackfin tuna`^~
+A freshly caught blackfin tuna is here.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 56 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52056
+wahoo~
+a `#`Mwahoo`^~
+A freshly caught wahoo is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#52057
+clump gold coin~
+a clump of `#`Ygold coins`^ from a shipwreck~
+A clump of `#`Ygold coins`^ pulled from a shipwreck are here.~
+~
+20 0 16
+3 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+52057 clump gold coin~
+The coins glisten in the large clump.  Maybe if you drop them and pick them 
+up again, they will fall apart and you can get the gold coins from it.  
+~
+#52058
+lantern beat old~
+a beat-up old lantern~
+A beat-up old lantern is here.~
+~
+1 0 1
+0 5 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52059
+old boot mud~
+an old boot full of mud~
+An old boot full of mud is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52060
+dead fish corpse~
+a rotten dead fish~
+A rotting dead fish is here.~
+~
+19 0 16
+1 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52061
+rack antlers~
+a rack of antlers~
+A rack of antlers lies here.~
+~
+9 0 8
+2 2 2 0 0 0 0
+1 2310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#52062
+oak tree root~
+a root of of an oak tree~
+An ageless oak tree looms here with roots branching out of the ground.~
+~
+12 0 8
+50000 1170 150 150 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+52062 root tree oak~
+A magnificent oak tree rises here into the sky.  It looks ageless in it's 
+rough bark and wide trunk and branches stretching high into the sky.  It's 
+roots protrude from the ground here and there, forming natural seats.  
+~
+#52965
+warning sign~
+a warning sign~
+A `#`Rlarge warning sign`^ is here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+52965 warning sign~
+`#`RDANGER: AGGRESSIVE AREA NORTH`^
+`#`R  HERO LEVEL PC's ONLY!!!
+`^
+~
+#54305
+gatestone runestone gateway~
+a `#`CM`Wys`Sti`Wca`Cl `CG`Wat`Ses`Wton`Ce`^~
+A `#`CM`Wys`Sti`Wca`Cl `CG`Wat`Ses`Wton`Ce`^ is on the ground here.~
+~
+29 64 16
+9216 32 1110 0 0 0 0
+200 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#54900
+small sign~
+a small sign~
+A small sign.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+54900 sign small~
+*********************************
+* Thievery and Killing Will Not *
+*    Be Tolerated in Tulgard    *
+*     The Penalty is DEATH!     *
+*********************************
+              **
+              **
+              **
+~
+#55121
+frog eye eyeball~
+a `#`Gfrog eyeball`^~
+A large black eyeball lies here, looking up at you.~
+~
+13 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#55160
+a roadsign~
+a weathered roadsign~
+A weathered roadsign is fastened to a tree growing on the side of the road.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+55160 sign ~
+`#`sWest to Blackmoor`^
+`#`sNorth-East to Khalaman`^
+`#`sSouth to Tulgard`^
+~
+E
+55160 roadsign ~
+`#`sWest to Blackmoor`^
+`#`sNorth-East to Khalaman`^
+`#`sSouth to Tulgard`^
+~
+#55215
+cauldron boiling~
+a boiling cauldron~
+A boiling cauldron is here with a strange liquid in it.~
+~
+38 0 32
+0 0 1000 1 0 0 0
+40 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#55216
+fire flame scroll~
+a `#`Rflame-covered`^ scroll~
+An ancient scroll with `#`Rred flames`^ lies here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 887 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#55342
+animal pelt heap~
+a heap of animal pelts~
+The pelts of many animals lie in a big heap here.~
+~
+12 0 8
+1000 66706 200 200 0 0 0
+10 9900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#55343
+fire firepit~
+a small fire~
+A small pit contains a brightly burning fire here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+55343 fire ~
+There is a good-sized spit set up over the firepit.  It looks heavily used.  
+
+~
+#55344
+bone pile~
+a pile of bones~
+A large pile of bones lies here.~
+~
+15 0 8
+0 0 1000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+55344 pile ~
+This pile is very large.  Many of the bones still have scraps of rotting 
+meat and flesh clinging onto them.  Thier origins look to be quite varied.  
+~
+E
+55344 bones ~
+This pile is very large.  Many of the bones still have scraps of rotting 
+meat and flesh clinging onto them.  Thier origins look to be quite varied.  
+~
+#55808
+road marker~
+a `#`sstone`^ road marker~
+A `#`sstone`^ marker stands at the side of the road.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+55808 stone ~
+`#`sNorth to Tulgard`^
+`#`sEast to Training Fields`^
+`#`sWest to the Gnome Tower`^
+`#`sSouth to Azarad`^
+~
+E
+55808 marker ~
+`#`sNorth to Tulgard`^
+`#`sEast to Training Fields`^
+`#`sWest to the Gnome Tower`^
+`#`sSouth to Azarad`^
+~
+#56696
+carriage black iron~
+a black iron carriage~
+A large `#`Sblack iron`^ carriage pulled by four gigantic hellhounds is here.~
+~
+47 0 32
+1060 1 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#56847
+wooden sign roodsign~
+a wooden sign~
+A heavily worn `#`ywooden sign`^ stands here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+56847 sign ~
+`#`SNorth to Azarad`1South to Kenderville`^ 
+~
+#59039
+red wanderer ship~
+a ship called `#`RT`rhe `RR`red `RW`randerer`^~
+A ship called `#`RT`rhe `RR`red `RW`randerer`^ is floating here in the waves.~
+~
+47 0 32
+1000 2 0 0 0 0 0
+200 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#59040
+pile of straw~
+a pile of straw~
+A pile of straw thrown about the floor~
+~
+12 0 8
+3000 1170 130 130 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#59041
+rusty old key~
+a rusty old key~
+A rusty old key~
+~
+31 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#59042
+wooden dock~
+the dock~
+`#`yA long wooden dock is here overlooking the lake.`^~
+~
+12 0 8
+6000 132240 100 100 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#59392
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D1
+~
+~
+0 -1 59393
+D2
+~
+~
+0 0 59472
+S
+#59393
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59394
+D2
+~
+~
+0 0 59473
+D3
+~
+~
+0 -1 59392
+S
+#59394
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59395
+D2
+~
+~
+0 0 59474
+D3
+~
+~
+0 -1 59393
+S
+#59395
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59396
+D2
+~
+~
+0 0 59475
+D3
+~
+~
+0 -1 59394
+S
+#59396
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59397
+D2
+~
+~
+0 0 59476
+D3
+~
+~
+0 -1 59395
+S
+#59397
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59398
+D2
+~
+~
+0 0 59477
+D3
+~
+~
+0 -1 59396
+S
+#59398
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59399
+D2
+~
+~
+0 0 59478
+D3
+~
+~
+0 -1 59397
+S
+#59399
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59400
+D2
+~
+~
+0 0 59479
+D3
+~
+~
+0 -1 59398
+S
+#59400
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59401
+D2
+~
+~
+0 0 59480
+D3
+~
+~
+0 -1 59399
+S
+#59401
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 15
+D1
+~
+~
+0 -1 59402
+D2
+~
+~
+0 0 59481
+D3
+~
+~
+0 -1 59400
+S
+#59402
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 3801
+D1
+~
+~
+0 -1 59403
+D2
+~
+~
+0 0 59482
+D3
+~
+~
+0 -1 59401
+S
+#59403
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59404
+D2
+~
+~
+0 0 59483
+D3
+~
+~
+0 -1 59402
+S
+#59404
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59405
+D2
+~
+~
+0 0 59484
+D3
+~
+~
+0 -1 59403
+S
+#59405
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59406
+D2
+~
+~
+0 0 59485
+D3
+~
+~
+0 -1 59404
+S
+#59406
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59407
+D2
+~
+~
+0 0 59486
+D3
+~
+~
+0 -1 59405
+S
+#59407
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59408
+D2
+~
+~
+0 0 59487
+D3
+~
+~
+0 -1 59406
+S
+#59408
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59409
+D2
+~
+~
+0 0 59488
+D3
+~
+~
+0 -1 59407
+S
+#59409
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59410
+D2
+~
+~
+0 0 59489
+D3
+~
+~
+0 -1 59408
+S
+#59410
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D1
+~
+~
+0 -1 59411
+D2
+~
+~
+0 0 59490
+D3
+~
+~
+0 -1 59409
+S
+#59411
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59412
+D2
+~
+~
+0 0 59491
+D3
+~
+~
+0 -1 59410
+S
+#59412
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59413
+D2
+~
+~
+0 0 59492
+D3
+~
+~
+0 -1 59411
+S
+#59413
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59414
+D2
+~
+~
+0 0 59493
+D3
+~
+~
+0 -1 59412
+S
+#59414
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59415
+D2
+~
+~
+0 0 59494
+D3
+~
+~
+0 -1 59413
+S
+#59415
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59416
+D2
+~
+~
+0 0 59495
+D3
+~
+~
+0 -1 59414
+S
+#59416
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59417
+D2
+~
+~
+0 0 59496
+D3
+~
+~
+0 -1 59415
+S
+#59417
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59418
+D2
+~
+~
+0 0 59497
+D3
+~
+~
+0 -1 59416
+S
+#59418
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59419
+D2
+~
+~
+0 0 59498
+D3
+~
+~
+0 -1 59417
+S
+#59419
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59420
+D2
+~
+~
+0 0 59499
+D3
+~
+~
+0 -1 59418
+S
+#59420
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59421
+D2
+~
+~
+0 0 59500
+D3
+~
+~
+0 -1 59419
+S
+#59421
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59422
+D2
+~
+~
+0 0 59501
+D3
+~
+~
+0 -1 59420
+S
+#59422
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59423
+D2
+~
+~
+0 0 59502
+D3
+~
+~
+0 -1 59421
+S
+#59423
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59424
+D2
+~
+~
+0 0 59503
+D3
+~
+~
+0 -1 59422
+S
+#59424
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59425
+D2
+~
+~
+0 0 59504
+D3
+~
+~
+0 -1 59423
+S
+#59425
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59426
+D2
+~
+~
+0 0 59505
+D3
+~
+~
+0 -1 59424
+S
+#59426
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 0 26412
+D2
+~
+~
+0 0 59506
+D3
+~
+~
+0 -1 59425
+S
+#59429
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59430
+D2
+~
+~
+0 0 59509
+S
+#59430
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59431
+D2
+~
+~
+0 0 59510
+D3
+~
+~
+0 -1 59429
+S
+#59431
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59432
+D2
+~
+~
+0 0 59511
+D3
+~
+~
+0 -1 59430
+S
+#59432
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59433
+D2
+~
+~
+0 0 59512
+D3
+~
+~
+0 -1 59431
+S
+#59433
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59434
+D2
+~
+~
+0 0 59513
+D3
+~
+~
+0 -1 59432
+S
+#59434
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59435
+D2
+~
+~
+0 0 59514
+D3
+~
+~
+0 -1 59433
+S
+#59435
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59436
+D2
+~
+~
+0 0 59515
+D3
+~
+~
+0 -1 59434
+S
+#59436
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59437
+D2
+~
+~
+0 0 59516
+D3
+~
+~
+0 -1 59435
+S
+#59437
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59438
+D2
+~
+~
+0 0 59517
+D3
+~
+~
+0 -1 59436
+S
+#59438
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59439
+D2
+~
+~
+0 0 59518
+D3
+~
+~
+0 -1 59437
+S
+#59439
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D2
+~
+~
+0 0 59519
+D3
+~
+~
+0 -1 59438
+S
+#59440
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59441
+D2
+~
+~
+0 0 59520
+D3
+~
+~
+0 0 59519
+S
+#59441
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59442
+D2
+~
+~
+0 0 59521
+D3
+~
+~
+0 -1 59440
+S
+#59442
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59443
+D2
+~
+~
+0 0 59522
+D3
+~
+~
+0 -1 59441
+S
+#59443
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59444
+D2
+~
+~
+0 0 59523
+D3
+~
+~
+0 -1 59442
+S
+#59444
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59445
+D2
+~
+~
+0 0 59524
+D3
+~
+~
+0 -1 59443
+S
+#59445
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59446
+D2
+~
+~
+0 0 59525
+D3
+~
+~
+0 -1 59444
+S
+#59446
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59447
+D2
+~
+~
+0 0 59526
+D3
+~
+~
+0 -1 59445
+S
+#59447
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59448
+D2
+~
+~
+0 0 59527
+D3
+~
+~
+0 -1 59446
+S
+#59448
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59449
+D2
+~
+~
+0 0 59528
+D3
+~
+~
+0 -1 59447
+S
+#59449
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59450
+D2
+~
+~
+0 0 59529
+D3
+~
+~
+0 -1 59448
+S
+#59450
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59451
+D2
+~
+~
+0 0 59530
+D3
+~
+~
+0 -1 59449
+S
+#59451
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59452
+D2
+~
+~
+0 0 59531
+D3
+~
+~
+0 -1 59450
+S
+#59452
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59453
+D2
+~
+~
+0 0 59532
+D3
+~
+~
+0 -1 59451
+S
+#59453
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59454
+D2
+~
+~
+0 0 59533
+D3
+~
+~
+0 -1 59452
+S
+#59454
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59455
+D2
+~
+~
+0 0 59534
+D3
+~
+~
+0 -1 59453
+S
+#59455
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59456
+D2
+~
+~
+0 0 59535
+D3
+~
+~
+0 -1 59454
+S
+#59456
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59457
+D2
+~
+~
+0 0 59536
+D3
+~
+~
+0 -1 59455
+S
+#59457
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59458
+D2
+~
+~
+0 0 59537
+D3
+~
+~
+0 -1 59456
+S
+#59458
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59459
+D2
+~
+~
+0 0 59538
+D3
+~
+~
+0 -1 59457
+S
+#59459
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59460
+D2
+~
+~
+0 0 59539
+D3
+~
+~
+0 -1 59458
+S
+#59460
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59461
+D2
+~
+~
+0 0 59540
+D3
+~
+~
+0 -1 59459
+S
+#59461
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D1
+~
+~
+0 -1 59462
+D2
+~
+~
+0 0 59541
+D3
+~
+~
+0 -1 59460
+S
+#59462
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59463
+D2
+~
+~
+0 0 59542
+D3
+~
+~
+0 -1 59461
+S
+#59463
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59464
+D2
+~
+~
+0 0 59543
+D3
+~
+~
+0 -1 59462
+S
+#59464
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59465
+D2
+~
+~
+0 0 59544
+D3
+~
+~
+0 -1 59463
+S
+#59465
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59466
+D2
+~
+~
+0 0 59545
+D3
+~
+~
+0 -1 59464
+S
+#59466
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59467
+D2
+~
+~
+0 0 59546
+D3
+~
+~
+0 -1 59465
+S
+#59467
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59468
+D2
+~
+~
+0 0 59547
+D3
+~
+~
+0 -1 59466
+S
+#59468
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D1
+~
+~
+0 -1 59469
+D2
+~
+~
+0 0 59548
+D3
+~
+~
+0 -1 59467
+S
+#59469
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 15
+D1
+~
+~
+0 -1 59470
+D2
+~
+~
+0 0 59549
+D3
+~
+~
+0 -1 59468
+S
+#59470
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D1
+~
+~
+0 -1 59471
+D2
+~
+~
+0 0 59550
+D3
+~
+~
+0 -1 59469
+S
+#59471
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D1
+~
+~
+0 -1 59472
+D2
+~
+~
+0 0 59551
+D3
+~
+~
+0 -1 59470
+S
+#59472
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59392
+D1
+~
+~
+0 -1 59473
+D2
+~
+~
+0 0 59552
+D3
+~
+~
+0 -1 59471
+S
+#59473
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59393
+D1
+~
+~
+0 -1 59474
+D2
+~
+~
+0 0 59553
+D3
+~
+~
+0 -1 59472
+S
+#59474
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59394
+D1
+~
+~
+0 -1 59475
+D2
+~
+~
+0 0 59554
+D3
+~
+~
+0 -1 59473
+S
+#59475
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59395
+D1
+~
+~
+0 -1 59476
+D2
+~
+~
+0 0 59555
+D3
+~
+~
+0 -1 59474
+S
+#59476
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59396
+D1
+~
+~
+0 -1 59477
+D2
+~
+~
+0 0 59556
+D3
+~
+~
+0 -1 59475
+S
+#59477
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59397
+D1
+~
+~
+0 -1 59478
+D2
+~
+~
+0 0 59557
+D3
+~
+~
+0 -1 59476
+S
+#59478
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59398
+D1
+~
+~
+0 -1 59479
+D2
+~
+~
+0 0 59558
+D3
+~
+~
+0 -1 59477
+S
+#59479
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59399
+D1
+~
+~
+0 -1 59480
+D2
+~
+~
+0 0 59559
+D3
+~
+~
+0 -1 59478
+S
+#59480
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59400
+D1
+~
+~
+0 -1 59481
+D2
+~
+~
+0 0 59560
+D3
+~
+~
+0 -1 59479
+S
+#59481
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59401
+D1
+~
+~
+0 -1 59482
+D2
+~
+~
+0 0 59561
+D3
+~
+~
+0 -1 59480
+S
+#59482
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59402
+D1
+~
+~
+0 -1 59483
+D2
+~
+~
+0 0 59562
+D3
+~
+~
+0 -1 59481
+S
+#59483
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59403
+D1
+~
+~
+0 -1 59484
+D2
+~
+~
+0 0 59563
+D3
+~
+~
+0 -1 59482
+S
+#59484
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59404
+D1
+~
+~
+0 -1 59485
+D2
+~
+~
+0 0 59564
+D3
+~
+~
+0 -1 59483
+S
+#59485
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59405
+D1
+~
+~
+0 -1 59486
+D2
+~
+~
+0 0 59565
+D3
+~
+~
+0 -1 59484
+S
+#59486
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59406
+D1
+~
+~
+0 -1 59487
+D2
+~
+~
+0 0 59566
+D3
+~
+~
+0 -1 59485
+S
+#59487
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59407
+D1
+~
+~
+0 -1 59488
+D2
+~
+~
+0 0 59567
+D3
+~
+~
+0 -1 59486
+S
+#59488
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59408
+D1
+~
+~
+0 -1 59489
+D2
+~
+~
+0 0 59568
+D3
+~
+~
+0 -1 59487
+S
+#59489
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59409
+D1
+~
+~
+0 -1 59490
+D2
+~
+~
+0 0 59569
+D3
+~
+~
+0 -1 59488
+S
+#59490
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59410
+D1
+~
+~
+0 -1 59491
+D2
+~
+~
+0 0 59570
+D3
+~
+~
+0 -1 59489
+S
+#59491
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59411
+D1
+~
+~
+0 -1 59492
+D2
+~
+~
+0 0 59571
+D3
+~
+~
+0 -1 59490
+S
+#59492
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59412
+D1
+~
+~
+0 -1 59493
+D2
+~
+~
+0 0 59572
+D3
+~
+~
+0 -1 59491
+S
+#59493
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59413
+D1
+~
+~
+0 -1 59494
+D2
+~
+~
+0 0 59573
+D3
+~
+~
+0 -1 59492
+S
+#59494
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59414
+D1
+~
+~
+0 -1 59495
+D2
+~
+~
+0 0 59574
+D3
+~
+~
+0 -1 59493
+S
+#59495
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59415
+D1
+~
+~
+0 -1 59496
+D2
+~
+~
+0 0 59575
+D3
+~
+~
+0 -1 59494
+S
+#59496
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59416
+D1
+~
+~
+0 -1 59497
+D2
+~
+~
+0 0 59576
+D3
+~
+~
+0 -1 59495
+S
+#59497
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59417
+D1
+~
+~
+0 -1 59498
+D2
+~
+~
+0 0 59577
+D3
+~
+~
+0 -1 59496
+S
+#59498
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59418
+D1
+~
+~
+0 -1 59499
+D2
+~
+~
+0 0 59578
+D3
+~
+~
+0 -1 59497
+S
+#59499
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59419
+D1
+~
+~
+0 -1 59500
+D2
+~
+~
+0 0 59579
+D3
+~
+~
+0 -1 59498
+S
+#59500
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59420
+D1
+~
+~
+0 -1 59501
+D2
+~
+~
+0 0 59580
+D3
+~
+~
+0 -1 59499
+S
+#59501
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59421
+D1
+~
+~
+0 -1 59502
+D2
+~
+~
+0 0 59581
+D3
+~
+~
+0 -1 59500
+S
+#59502
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59422
+D1
+~
+~
+0 -1 59503
+D2
+~
+~
+0 0 59582
+D3
+~
+~
+0 -1 59501
+R O 0 50014 0 59502
+S
+#59503
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59423
+D1
+~
+~
+0 -1 59504
+D2
+~
+~
+0 0 59583
+D3
+~
+~
+0 -1 59502
+S
+#59504
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59424
+D1
+~
+~
+0 -1 59505
+D2
+~
+~
+0 0 59584
+D3
+~
+~
+0 -1 59503
+S
+#59505
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59425
+D1
+~
+~
+0 -1 59506
+D2
+~
+~
+0 0 59585
+D3
+~
+~
+0 -1 59504
+S
+#59506
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59426
+D1
+~
+~
+0 -1 59507
+D2
+~
+~
+0 0 59586
+D3
+~
+~
+0 -1 59505
+S
+#59507
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D1
+~
+~
+0 -1 59508
+D2
+~
+~
+0 0 59587
+D3
+~
+~
+0 -1 59506
+S
+#59508
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D1
+~
+~
+0 -1 59509
+D2
+~
+~
+0 0 59588
+D3
+~
+~
+0 -1 59507
+S
+#59509
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59429
+D1
+~
+~
+0 -1 59510
+D2
+~
+~
+0 0 59589
+D3
+~
+~
+0 -1 59508
+S
+#59510
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59430
+D1
+~
+~
+0 -1 59511
+D2
+~
+~
+0 0 59590
+D3
+~
+~
+0 -1 59509
+S
+#59511
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59431
+D1
+~
+~
+0 -1 59512
+D2
+~
+~
+0 0 59591
+D3
+~
+~
+0 -1 59510
+S
+#59512
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59432
+D1
+~
+~
+0 -1 59513
+D2
+~
+~
+0 0 59592
+D3
+~
+~
+0 -1 59511
+S
+#59513
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59433
+D1
+~
+~
+0 -1 59514
+D2
+~
+~
+0 0 59593
+D3
+~
+~
+0 -1 59512
+S
+#59514
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59434
+D1
+~
+~
+0 -1 59515
+D2
+~
+~
+0 0 59594
+D3
+~
+~
+0 -1 59513
+S
+#59515
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59435
+D1
+~
+~
+0 -1 59516
+D2
+~
+~
+0 0 59595
+D3
+~
+~
+0 -1 59514
+S
+#59516
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59436
+D1
+~
+~
+0 -1 59517
+D2
+~
+~
+0 0 59596
+D3
+~
+~
+0 -1 59515
+S
+#59517
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59437
+D1
+~
+~
+0 -1 59518
+D2
+~
+~
+0 0 59597
+D3
+~
+~
+0 -1 59516
+S
+#59518
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59438
+D1
+~
+~
+0 -1 59519
+D2
+~
+~
+0 0 59598
+D3
+~
+~
+0 -1 59517
+S
+#59519
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59439
+D1
+~
+~
+0 0 59440
+D2
+~
+~
+0 0 59599
+D3
+~
+~
+0 -1 59518
+S
+#59520
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59440
+D1
+~
+~
+0 -1 59521
+D2
+~
+~
+0 0 59600
+D3
+~
+~
+0 0 59599
+S
+#59521
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59441
+D1
+~
+~
+0 -1 59522
+D2
+~
+~
+0 0 59601
+D3
+~
+~
+0 -1 59520
+S
+#59522
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59442
+D1
+~
+~
+0 -1 59523
+D2
+~
+~
+0 0 59602
+D3
+~
+~
+0 -1 59521
+S
+#59523
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59443
+D1
+~
+~
+0 -1 59524
+D2
+~
+~
+0 0 59603
+D3
+~
+~
+0 -1 59522
+S
+#59524
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59444
+D1
+~
+~
+0 -1 59525
+D2
+~
+~
+0 0 59604
+D3
+~
+~
+0 -1 59523
+S
+#59525
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59445
+D1
+~
+~
+0 -1 59526
+D2
+~
+~
+0 0 59605
+D3
+~
+~
+0 -1 59524
+S
+#59526
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59446
+D1
+~
+~
+0 -1 59527
+D2
+~
+~
+0 0 59606
+D3
+~
+~
+0 -1 59525
+S
+#59527
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59447
+D1
+~
+~
+0 -1 59528
+D2
+~
+~
+0 0 59607
+D3
+~
+~
+0 -1 59526
+S
+#59528
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59448
+D1
+~
+~
+0 -1 59529
+D2
+~
+~
+0 0 59608
+D3
+~
+~
+0 -1 59527
+S
+#59529
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59449
+D1
+~
+~
+0 -1 59530
+D2
+~
+~
+0 0 59609
+D3
+~
+~
+0 -1 59528
+S
+#59530
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59450
+D1
+~
+~
+0 -1 59531
+D2
+~
+~
+0 0 59610
+D3
+~
+~
+0 -1 59529
+S
+#59531
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59451
+D1
+~
+~
+0 -1 59532
+D2
+~
+~
+0 0 59611
+D3
+~
+~
+0 -1 59530
+S
+#59532
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59452
+D1
+~
+~
+0 -1 59533
+D2
+~
+~
+0 0 59612
+D3
+~
+~
+0 -1 59531
+S
+#59533
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59453
+D1
+~
+~
+0 -1 59534
+D2
+~
+~
+0 0 59613
+D3
+~
+~
+0 -1 59532
+S
+#59534
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59454
+D1
+~
+~
+0 -1 59535
+D2
+~
+~
+0 0 59614
+D3
+~
+~
+0 -1 59533
+S
+#59535
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59455
+D1
+~
+~
+0 -1 59536
+D2
+~
+~
+0 0 59615
+D3
+~
+~
+0 -1 59534
+S
+#59536
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59456
+D1
+~
+~
+0 -1 59537
+D2
+~
+~
+0 0 59616
+D3
+~
+~
+0 -1 59535
+S
+#59537
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59457
+D1
+~
+~
+0 -1 59538
+D2
+~
+~
+0 0 59617
+D3
+~
+~
+0 -1 59536
+S
+#59538
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59458
+D1
+~
+~
+0 -1 59539
+D2
+~
+~
+0 0 59618
+D3
+~
+~
+0 -1 59537
+S
+#59539
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59459
+D1
+~
+~
+0 -1 59540
+D2
+~
+~
+0 0 59619
+D3
+~
+~
+0 -1 59538
+S
+#59540
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59460
+D1
+~
+~
+0 -1 59541
+D2
+~
+~
+0 0 59620
+D3
+~
+~
+0 -1 59539
+S
+#59541
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59461
+D1
+~
+~
+0 -1 59542
+D2
+~
+~
+0 0 59621
+D3
+~
+~
+0 -1 59540
+S
+#59542
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59462
+D1
+~
+~
+0 -1 59543
+D2
+~
+~
+0 0 59622
+D3
+~
+~
+0 -1 59541
+S
+#59543
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59463
+D1
+~
+~
+0 -1 59544
+D2
+~
+~
+0 0 59623
+D3
+~
+~
+0 -1 59542
+S
+#59544
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59464
+D1
+~
+~
+0 -1 59545
+D2
+~
+~
+0 0 59624
+D3
+~
+~
+0 -1 59543
+S
+#59545
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59465
+D1
+~
+~
+0 -1 59546
+D2
+~
+~
+0 0 59625
+D3
+~
+~
+0 -1 59544
+S
+#59546
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59466
+D1
+~
+~
+0 -1 59547
+D2
+~
+~
+0 0 59626
+D3
+~
+~
+0 -1 59545
+S
+#59547
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59467
+D1
+~
+~
+0 -1 59548
+D2
+~
+~
+0 0 59627
+D3
+~
+~
+0 -1 59546
+S
+#59548
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59468
+D1
+~
+~
+0 -1 59549
+D2
+~
+~
+0 0 59628
+D3
+~
+~
+0 -1 59547
+S
+#59549
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 15
+D0
+~
+~
+0 0 59469
+D1
+~
+~
+0 -1 59550
+D2
+~
+~
+0 0 59629
+D3
+~
+~
+0 -1 59548
+S
+#59550
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59470
+D1
+~
+~
+0 -1 59551
+D2
+~
+~
+0 0 59630
+D3
+~
+~
+0 -1 59549
+S
+#59551
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59471
+D1
+~
+~
+0 -1 59552
+D2
+~
+~
+0 0 59631
+D3
+~
+~
+0 -1 59550
+S
+#59552
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59472
+D1
+~
+~
+0 -1 59553
+D2
+~
+~
+0 0 59632
+D3
+~
+~
+0 -1 59551
+S
+#59553
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59473
+D1
+~
+~
+0 -1 59554
+D2
+~
+~
+0 0 59633
+D3
+~
+~
+0 -1 59552
+S
+#59554
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59474
+D1
+~
+~
+0 -1 59555
+D2
+~
+~
+0 0 59634
+D3
+~
+~
+0 -1 59553
+S
+#59555
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59475
+D1
+~
+~
+0 -1 59556
+D2
+~
+~
+0 0 59635
+D3
+~
+~
+0 -1 59554
+S
+#59556
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59476
+D1
+~
+~
+0 -1 59557
+D2
+~
+~
+0 0 59636
+D3
+~
+~
+0 -1 59555
+R O 0 50009 0 59556
+S
+#59557
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59477
+D1
+~
+~
+0 -1 59558
+D2
+~
+~
+0 0 59637
+D3
+~
+~
+0 -1 59556
+S
+#59558
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59478
+D1
+~
+~
+0 -1 59559
+D2
+~
+~
+0 0 59638
+D3
+~
+~
+0 -1 59557
+S
+#59559
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59479
+D1
+~
+~
+0 -1 59560
+D2
+~
+~
+0 0 59639
+D3
+~
+~
+0 -1 59558
+S
+#59560
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59480
+D1
+~
+~
+0 -1 59561
+D2
+~
+~
+0 0 59640
+D3
+~
+~
+0 -1 59559
+S
+#59561
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59481
+D1
+~
+~
+0 -1 59562
+D2
+~
+~
+0 0 59641
+D3
+~
+~
+0 -1 59560
+S
+#59562
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59482
+D1
+~
+~
+0 -1 59563
+D2
+~
+~
+0 0 59642
+D3
+~
+~
+0 -1 59561
+S
+#59563
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59483
+D1
+~
+~
+0 -1 59564
+D2
+~
+~
+0 0 59643
+D3
+~
+~
+0 -1 59562
+S
+#59564
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59484
+D1
+~
+~
+0 -1 59565
+D2
+~
+~
+0 0 59644
+D3
+~
+~
+0 -1 59563
+S
+#59565
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59485
+D1
+~
+~
+0 -1 59566
+D2
+~
+~
+0 0 59645
+D3
+~
+~
+0 -1 59564
+S
+#59566
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59486
+D1
+~
+~
+0 -1 59567
+D2
+~
+~
+0 0 59646
+D3
+~
+~
+0 -1 59565
+S
+#59567
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59487
+D1
+~
+~
+0 -1 59568
+D2
+~
+~
+0 0 59647
+D3
+~
+~
+0 -1 59566
+S
+#59568
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59488
+D1
+~
+~
+0 -1 59569
+D2
+~
+~
+0 0 59648
+D3
+~
+~
+0 -1 59567
+S
+#59569
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59489
+D1
+~
+~
+0 -1 59570
+D2
+~
+~
+0 0 59649
+D3
+~
+~
+0 -1 59568
+S
+#59570
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59490
+D1
+~
+~
+0 -1 59571
+D2
+~
+~
+0 0 59650
+D3
+~
+~
+0 -1 59569
+S
+#59571
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59491
+D1
+~
+~
+0 -1 59572
+D2
+~
+~
+0 0 59651
+D3
+~
+~
+0 -1 59570
+S
+#59572
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59492
+D1
+~
+~
+0 -1 59573
+D2
+~
+~
+0 0 59652
+D3
+~
+~
+0 -1 59571
+S
+#59573
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59493
+D1
+~
+~
+0 -1 59574
+D2
+~
+~
+0 0 59653
+D3
+~
+~
+0 -1 59572
+S
+#59574
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59494
+D1
+~
+~
+0 -1 59575
+D2
+~
+~
+0 0 59654
+D3
+~
+~
+0 -1 59573
+S
+#59575
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59495
+D1
+~
+~
+0 -1 59576
+D2
+~
+~
+0 0 59655
+D3
+~
+~
+0 -1 59574
+S
+#59576
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59496
+D1
+~
+~
+0 -1 59577
+D2
+~
+~
+0 0 59656
+D3
+~
+~
+0 -1 59575
+S
+#59577
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59497
+D1
+~
+~
+0 -1 59578
+D2
+~
+~
+0 0 59657
+D3
+~
+~
+0 -1 59576
+S
+#59578
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59498
+D1
+~
+~
+0 -1 59579
+D2
+~
+~
+0 0 59658
+D3
+~
+~
+0 -1 59577
+S
+#59579
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59499
+D1
+~
+~
+0 -1 59580
+D2
+~
+~
+0 0 59659
+D3
+~
+~
+0 -1 59578
+S
+#59580
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59500
+D1
+~
+~
+0 -1 59581
+D2
+~
+~
+0 0 59660
+D3
+~
+~
+0 -1 59579
+S
+#59581
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59501
+D1
+~
+~
+0 -1 59582
+D2
+~
+~
+0 0 59661
+D3
+~
+~
+0 -1 59580
+S
+#59582
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59502
+D1
+~
+~
+0 -1 59583
+D2
+~
+~
+0 0 59662
+D3
+~
+~
+0 -1 59581
+S
+#59583
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59503
+D1
+~
+~
+0 -1 59584
+D2
+~
+~
+0 0 59663
+D3
+~
+~
+0 -1 59582
+S
+#59584
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59504
+D1
+~
+~
+0 -1 59585
+D2
+~
+~
+0 0 59664
+D3
+~
+~
+0 -1 59583
+S
+#59585
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59505
+D1
+~
+~
+0 -1 59586
+D2
+~
+~
+0 0 59665
+D3
+~
+~
+0 -1 59584
+S
+#59586
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59506
+D1
+~
+~
+0 -1 59587
+D2
+~
+~
+0 0 59666
+D3
+~
+~
+0 -1 59585
+S
+#59587
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59507
+D1
+~
+~
+0 -1 59588
+D2
+~
+~
+0 0 59667
+D3
+~
+~
+0 -1 59586
+S
+#59588
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59508
+D1
+~
+~
+0 -1 59589
+D2
+~
+~
+0 0 59668
+D3
+~
+~
+0 -1 59587
+S
+#59589
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59509
+D1
+~
+~
+0 -1 59590
+D2
+~
+~
+0 0 59669
+D3
+~
+~
+0 -1 59588
+S
+#59590
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59510
+D1
+~
+~
+0 -1 59591
+D2
+~
+~
+0 0 59670
+D3
+~
+~
+0 -1 59589
+S
+#59591
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59511
+D1
+~
+~
+0 -1 59592
+D2
+~
+~
+0 0 59671
+D3
+~
+~
+0 -1 59590
+S
+#59592
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59512
+D1
+~
+~
+0 -1 59593
+D2
+~
+~
+0 0 59672
+D3
+~
+~
+0 -1 59591
+S
+#59593
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59513
+D1
+~
+~
+0 -1 59594
+D2
+~
+~
+0 0 59673
+D3
+~
+~
+0 -1 59592
+S
+#59594
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59514
+D1
+~
+~
+0 -1 59595
+D2
+~
+~
+0 0 59674
+D3
+~
+~
+0 -1 59593
+S
+#59595
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59515
+D1
+~
+~
+0 -1 59596
+D2
+~
+~
+0 0 59675
+D3
+~
+~
+0 -1 59594
+S
+#59596
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59516
+D1
+~
+~
+0 -1 59597
+D2
+~
+~
+0 0 59676
+D3
+~
+~
+0 -1 59595
+S
+#59597
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59517
+D1
+~
+~
+0 -1 59598
+D2
+~
+~
+0 0 59677
+D3
+~
+~
+0 -1 59596
+S
+#59598
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59518
+D1
+~
+~
+0 -1 59599
+D2
+~
+~
+0 0 59678
+D3
+~
+~
+0 -1 59597
+S
+#59599
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59519
+D1
+~
+~
+0 0 59520
+D2
+~
+~
+0 0 59679
+D3
+~
+~
+0 -1 59598
+S
+#59600
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59520
+D1
+~
+~
+0 -1 59601
+D2
+~
+~
+0 0 59680
+D3
+~
+~
+0 0 59679
+S
+#59601
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59521
+D1
+~
+~
+0 -1 59602
+D2
+~
+~
+0 0 59681
+D3
+~
+~
+0 -1 59600
+S
+#59602
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59522
+D1
+~
+~
+0 -1 59603
+D2
+~
+~
+0 0 59682
+D3
+~
+~
+0 -1 59601
+S
+#59603
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59523
+D1
+~
+~
+0 -1 59604
+D2
+~
+~
+0 0 59683
+D3
+~
+~
+0 -1 59602
+S
+#59604
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59524
+D1
+~
+~
+0 -1 59605
+D2
+~
+~
+0 0 59684
+D3
+~
+~
+0 -1 59603
+S
+#59605
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59525
+D1
+~
+~
+0 -1 59606
+D2
+~
+~
+0 0 59685
+D3
+~
+~
+0 -1 59604
+S
+#59606
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59526
+D1
+~
+~
+0 -1 59607
+D2
+~
+~
+0 0 59686
+D3
+~
+~
+0 -1 59605
+S
+#59607
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59527
+D1
+~
+~
+0 -1 59608
+D2
+~
+~
+0 0 59687
+D3
+~
+~
+0 -1 59606
+S
+#59608
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59528
+D1
+~
+~
+0 -1 59609
+D2
+~
+~
+0 0 59688
+D3
+~
+~
+0 -1 59607
+S
+#59609
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59529
+D1
+~
+~
+0 -1 59610
+D2
+~
+~
+0 0 59689
+D3
+~
+~
+0 -1 59608
+S
+#59610
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59530
+D1
+~
+~
+0 -1 59611
+D2
+~
+~
+0 0 59690
+D3
+~
+~
+0 -1 59609
+S
+#59611
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59531
+D1
+~
+~
+0 -1 59612
+D2
+~
+~
+0 0 59691
+D3
+~
+~
+0 -1 59610
+S
+#59612
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59532
+D1
+~
+~
+0 -1 59613
+D2
+~
+~
+0 0 59692
+D3
+~
+~
+0 -1 59611
+S
+#59613
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59533
+D1
+~
+~
+0 -1 59614
+D2
+~
+~
+0 0 59693
+D3
+~
+~
+0 -1 59612
+S
+#59614
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59534
+D1
+~
+~
+0 -1 59615
+D2
+~
+~
+0 0 59694
+D3
+~
+~
+0 -1 59613
+S
+#59615
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59535
+D1
+~
+~
+0 -1 59616
+D2
+~
+~
+0 0 59695
+D3
+~
+~
+0 -1 59614
+S
+#59616
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59536
+D1
+~
+~
+0 -1 59617
+D2
+~
+~
+0 0 59696
+D3
+~
+~
+0 -1 59615
+S
+#59617
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59537
+D1
+~
+~
+0 -1 59618
+D2
+~
+~
+0 0 59697
+D3
+~
+~
+0 -1 59616
+S
+#59618
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59538
+D1
+~
+~
+0 -1 59619
+D2
+~
+~
+0 0 59698
+D3
+~
+~
+0 -1 59617
+S
+#59619
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59539
+D1
+~
+~
+0 -1 59620
+D2
+~
+~
+0 0 59699
+D3
+~
+~
+0 -1 59618
+S
+#59620
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59540
+D1
+~
+~
+0 0 59621
+D2
+~
+~
+0 0 59700
+D3
+~
+~
+0 -1 59619
+S
+#59621
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59541
+D1
+~
+~
+0 -1 59622
+D2
+~
+~
+0 0 59701
+D3
+~
+~
+0 0 59620
+S
+#59622
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59542
+D1
+~
+~
+0 -1 59623
+D2
+~
+~
+0 0 59702
+D3
+~
+~
+0 -1 59621
+S
+#59623
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59543
+D1
+~
+~
+0 -1 59624
+D2
+~
+~
+0 0 59703
+D3
+~
+~
+0 -1 59622
+S
+#59624
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59544
+D1
+~
+~
+0 -1 59625
+D2
+~
+~
+0 0 59704
+D3
+~
+~
+0 -1 59623
+S
+#59625
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59545
+D1
+~
+~
+0 -1 59626
+D2
+~
+~
+0 0 59705
+D3
+~
+~
+0 -1 59624
+S
+#59626
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59546
+D1
+~
+~
+0 -1 59627
+D2
+~
+~
+0 0 59706
+D3
+~
+~
+0 -1 59625
+S
+#59627
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59547
+D1
+~
+~
+0 -1 59628
+D2
+~
+~
+0 0 59707
+D3
+~
+~
+0 -1 59626
+S
+#59628
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59548
+D1
+~
+~
+0 -1 59629
+D2
+~
+~
+0 0 59708
+D3
+~
+~
+0 -1 59627
+S
+#59629
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 15
+D0
+~
+~
+0 0 59549
+D1
+~
+~
+0 -1 59630
+D2
+~
+~
+0 0 59709
+D3
+~
+~
+0 -1 59628
+S
+#59630
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59550
+D1
+~
+~
+0 -1 59631
+D2
+~
+~
+0 0 59710
+D3
+~
+~
+0 -1 59629
+S
+#59631
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59551
+D1
+~
+~
+0 -1 59632
+D2
+~
+~
+0 0 59711
+D3
+~
+~
+0 -1 59630
+S
+#59632
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59552
+D1
+~
+~
+0 -1 59633
+D2
+~
+~
+0 0 59712
+D3
+~
+~
+0 -1 59631
+S
+#59633
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59553
+D1
+~
+~
+0 -1 59634
+D2
+~
+~
+0 0 59713
+D3
+~
+~
+0 -1 59632
+S
+#59634
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59554
+D1
+~
+~
+0 -1 59635
+D2
+~
+~
+0 0 59714
+D3
+~
+~
+0 -1 59633
+S
+#59635
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59555
+D1
+~
+~
+0 -1 59636
+D2
+~
+~
+0 0 59715
+D3
+~
+~
+0 -1 59634
+S
+#59636
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59556
+D1
+~
+~
+0 -1 59637
+D2
+~
+~
+0 0 59716
+D3
+~
+~
+0 -1 59635
+S
+#59637
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59557
+D1
+~
+~
+0 -1 59638
+D2
+~
+~
+0 0 59717
+D3
+~
+~
+0 -1 59636
+S
+#59638
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59558
+D1
+~
+~
+0 -1 59639
+D2
+~
+~
+0 0 59718
+D3
+~
+~
+0 -1 59637
+S
+#59639
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59559
+D1
+~
+~
+0 -1 59640
+D2
+~
+~
+0 0 59719
+D3
+~
+~
+0 -1 59638
+S
+#59640
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59560
+D1
+~
+~
+0 -1 59641
+D2
+~
+~
+0 0 59720
+D3
+~
+~
+0 -1 59639
+S
+#59641
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59561
+D1
+~
+~
+0 -1 59642
+D2
+~
+~
+0 0 59721
+D3
+~
+~
+0 -1 59640
+S
+#59642
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59562
+D1
+~
+~
+0 -1 59643
+D2
+~
+~
+0 0 59722
+D3
+~
+~
+0 -1 59641
+S
+#59643
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59563
+D1
+~
+~
+0 -1 59644
+D2
+~
+~
+0 0 59723
+D3
+~
+~
+0 -1 59642
+S
+#59644
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59564
+D1
+~
+~
+0 -1 59645
+D2
+~
+~
+0 0 59724
+D3
+~
+~
+0 -1 59643
+S
+#59645
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59565
+D1
+~
+~
+0 -1 59646
+D2
+~
+~
+0 0 59725
+D3
+~
+~
+0 -1 59644
+S
+#59646
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59566
+D1
+~
+~
+0 -1 59647
+D2
+~
+~
+0 0 59726
+D3
+~
+~
+0 -1 59645
+S
+#59647
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59567
+D1
+~
+~
+0 -1 59648
+D2
+~
+~
+0 0 59727
+D3
+~
+~
+0 -1 59646
+S
+#59648
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59568
+D1
+~
+~
+0 -1 59649
+D2
+~
+~
+0 0 59728
+D3
+~
+~
+0 -1 59647
+S
+#59649
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59569
+D1
+~
+~
+0 -1 59650
+D2
+~
+~
+0 0 59729
+D3
+~
+~
+0 -1 59648
+S
+#59650
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59570
+D1
+~
+~
+0 -1 59651
+D2
+~
+~
+0 0 59730
+D3
+~
+~
+0 -1 59649
+S
+#59651
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59571
+D1
+~
+~
+0 -1 59652
+D2
+~
+~
+0 0 59731
+D3
+~
+~
+0 -1 59650
+S
+#59652
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59572
+D1
+~
+~
+0 -1 59653
+D2
+~
+~
+0 0 59732
+D3
+~
+~
+0 -1 59651
+S
+#59653
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59573
+D1
+~
+~
+0 -1 59654
+D2
+~
+~
+0 0 59733
+D3
+~
+~
+0 -1 59652
+S
+#59654
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59574
+D1
+~
+~
+0 -1 59655
+D2
+~
+~
+0 0 59734
+D3
+~
+~
+0 -1 59653
+S
+#59655
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59575
+D1
+~
+~
+0 -1 59656
+D2
+~
+~
+0 0 59735
+D3
+~
+~
+0 -1 59654
+S
+#59656
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59576
+D1
+~
+~
+0 -1 59657
+D2
+~
+~
+0 0 59736
+D3
+~
+~
+0 -1 59655
+S
+#59657
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59577
+D1
+~
+~
+0 -1 59658
+D2
+~
+~
+0 0 59737
+D3
+~
+~
+0 -1 59656
+S
+#59658
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59578
+D1
+~
+~
+0 -1 59659
+D2
+~
+~
+0 0 59738
+D3
+~
+~
+0 -1 59657
+S
+#59659
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59579
+D1
+~
+~
+0 -1 59660
+D2
+~
+~
+0 0 59739
+D3
+~
+~
+0 -1 59658
+S
+#59660
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59580
+D1
+~
+~
+0 -1 59661
+D2
+~
+~
+0 0 59740
+D3
+~
+~
+0 -1 59659
+S
+#59661
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59581
+D1
+~
+~
+0 -1 59662
+D2
+~
+~
+0 0 59741
+D3
+~
+~
+0 -1 59660
+S
+#59662
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59582
+D1
+~
+~
+0 -1 59663
+D2
+~
+~
+0 0 59742
+D3
+~
+~
+0 -1 59661
+S
+#59663
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59583
+D1
+~
+~
+0 -1 59664
+D2
+~
+~
+0 0 59743
+D3
+~
+~
+0 -1 59662
+S
+#59664
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59584
+D1
+~
+~
+0 -1 59665
+D2
+~
+~
+0 0 59744
+D3
+~
+~
+0 -1 59663
+S
+#59665
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59585
+D1
+~
+~
+0 -1 59666
+D2
+~
+~
+0 0 59745
+D3
+~
+~
+0 -1 59664
+S
+#59666
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59586
+D1
+~
+~
+0 -1 59667
+D2
+~
+~
+0 0 59746
+D3
+~
+~
+0 -1 59665
+S
+#59667
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59587
+D1
+~
+~
+0 -1 59668
+D2
+~
+~
+0 0 59747
+D3
+~
+~
+0 -1 59666
+S
+#59668
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59588
+D1
+~
+~
+0 -1 59669
+D2
+~
+~
+0 0 59748
+D3
+~
+~
+0 -1 59667
+S
+#59669
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59589
+D1
+~
+~
+0 -1 59670
+D2
+~
+~
+0 0 59749
+D3
+~
+~
+0 -1 59668
+S
+#59670
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59590
+D1
+~
+~
+0 -1 59671
+D2
+~
+~
+0 0 59750
+D3
+~
+~
+0 -1 59669
+S
+#59671
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59591
+D1
+~
+~
+0 -1 59672
+D2
+~
+~
+0 0 59751
+D3
+~
+~
+0 -1 59670
+S
+#59672
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59592
+D1
+~
+~
+0 -1 59673
+D2
+~
+~
+0 0 59752
+D3
+~
+~
+0 -1 59671
+S
+#59673
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59593
+D1
+~
+~
+0 -1 59674
+D2
+~
+~
+0 0 59753
+D3
+~
+~
+0 -1 59672
+S
+#59674
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59594
+D1
+~
+~
+0 -1 59675
+D2
+~
+~
+0 0 59754
+D3
+~
+~
+0 -1 59673
+S
+#59675
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59595
+D1
+~
+~
+0 -1 59676
+D2
+~
+~
+0 0 59755
+D3
+~
+~
+0 -1 59674
+S
+#59676
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59596
+D1
+~
+~
+0 -1 59677
+D2
+~
+~
+0 0 59756
+D3
+~
+~
+0 -1 59675
+S
+#59677
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59597
+D1
+~
+~
+0 -1 59678
+D2
+~
+~
+0 0 59757
+D3
+~
+~
+0 -1 59676
+S
+#59678
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59598
+D1
+~
+~
+0 -1 59679
+D2
+~
+~
+0 0 59758
+D3
+~
+~
+0 -1 59677
+S
+#59679
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59599
+D1
+~
+~
+0 0 59600
+D2
+~
+~
+0 0 59759
+D3
+~
+~
+0 -1 59678
+S
+#59680
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59600
+D1
+~
+~
+0 -1 59681
+D2
+~
+~
+0 0 59760
+D3
+~
+~
+0 0 59759
+S
+#59681
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59601
+D1
+~
+~
+0 -1 59682
+D2
+~
+~
+0 0 59761
+D3
+~
+~
+0 -1 59680
+S
+#59682
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59602
+D1
+~
+~
+0 -1 59683
+D2
+~
+~
+0 0 59762
+D3
+~
+~
+0 -1 59681
+S
+#59683
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59603
+D1
+~
+~
+0 -1 59684
+D2
+~
+~
+0 0 59763
+D3
+~
+~
+0 -1 59682
+S
+#59684
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59604
+D1
+~
+~
+0 -1 59685
+D2
+~
+~
+0 0 59764
+D3
+~
+~
+0 -1 59683
+S
+#59685
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59605
+D1
+~
+~
+0 -1 59686
+D2
+~
+~
+0 0 59765
+D3
+~
+~
+0 -1 59684
+S
+#59686
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59606
+D1
+~
+~
+0 -1 59687
+D2
+~
+~
+0 0 59766
+D3
+~
+~
+0 -1 59685
+S
+#59687
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59607
+D1
+~
+~
+0 -1 59688
+D2
+~
+~
+0 0 59767
+D3
+~
+~
+0 -1 59686
+S
+#59688
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59608
+D1
+~
+~
+0 -1 59689
+D2
+~
+~
+0 0 59768
+D3
+~
+~
+0 -1 59687
+S
+#59689
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59609
+D1
+~
+~
+0 -1 59690
+D2
+~
+~
+0 0 59769
+D3
+~
+~
+0 -1 59688
+S
+#59690
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59610
+D1
+~
+~
+0 -1 59691
+D2
+~
+~
+0 0 59770
+D3
+~
+~
+0 -1 59689
+S
+#59691
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59611
+D1
+~
+~
+0 -1 59692
+D2
+~
+~
+0 0 59771
+D3
+~
+~
+0 -1 59690
+S
+#59692
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59612
+D1
+~
+~
+0 -1 59693
+D2
+~
+~
+0 0 59772
+D3
+~
+~
+0 -1 59691
+S
+#59693
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59613
+D1
+~
+~
+0 -1 59694
+D2
+~
+~
+0 0 59773
+D3
+~
+~
+0 -1 59692
+S
+#59694
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59614
+D1
+~
+~
+0 -1 59695
+D2
+~
+~
+0 0 59774
+D3
+~
+~
+0 -1 59693
+S
+#59695
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59615
+D1
+~
+~
+0 -1 59696
+D2
+~
+~
+0 0 59775
+D3
+~
+~
+0 -1 59694
+S
+#59696
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59616
+D1
+~
+~
+0 -1 59697
+D2
+~
+~
+0 0 59776
+D3
+~
+~
+0 -1 59695
+S
+#59697
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59617
+D1
+~
+~
+0 -1 59698
+D2
+~
+~
+0 0 59777
+D3
+~
+~
+0 -1 59696
+S
+#59698
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59618
+D1
+~
+~
+0 -1 59699
+D2
+~
+~
+0 0 59778
+D3
+~
+~
+0 -1 59697
+S
+#59699
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59619
+D1
+~
+~
+0 -1 59700
+D2
+~
+~
+0 0 59779
+D3
+~
+~
+0 -1 59698
+S
+#59700
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59620
+D1
+~
+~
+0 -1 59701
+D2
+~
+~
+0 0 59780
+D3
+~
+~
+0 -1 59699
+S
+#59701
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59621
+D1
+~
+~
+0 -1 59702
+D2
+~
+~
+0 0 59781
+D3
+~
+~
+0 -1 59700
+S
+#59702
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59622
+D1
+~
+~
+0 0 59703
+D2
+~
+~
+0 0 59782
+D3
+~
+~
+0 -1 59701
+S
+#59703
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59623
+D1
+~
+~
+0 -1 59704
+D2
+~
+~
+0 0 59783
+D3
+~
+~
+0 0 59702
+S
+#59704
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59624
+D1
+~
+~
+0 -1 59705
+D2
+~
+~
+0 0 59784
+D3
+~
+~
+0 -1 59703
+S
+#59705
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59625
+D1
+~
+~
+0 -1 59706
+D2
+~
+~
+0 0 59785
+D3
+~
+~
+0 -1 59704
+S
+#59706
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59626
+D1
+~
+~
+0 -1 59707
+D2
+~
+~
+0 0 59786
+D3
+~
+~
+0 -1 59705
+S
+#59707
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 15
+D0
+~
+~
+0 0 59627
+D1
+~
+~
+0 -1 59708
+D2
+~
+~
+0 0 59787
+D3
+~
+~
+0 -1 59706
+S
+#59708
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 15
+D0
+~
+~
+0 0 59628
+D1
+~
+~
+0 -1 59709
+D2
+~
+~
+0 0 59788
+D3
+~
+~
+0 -1 59707
+R O 0 50027 0 59708
+S
+#59709
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 15
+D0
+~
+~
+0 0 59629
+D1
+~
+~
+0 -1 59710
+D2
+~
+~
+0 0 59789
+D3
+~
+~
+0 -1 59708
+S
+#59710
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 15
+D0
+~
+~
+0 0 59630
+D1
+~
+~
+0 -1 59711
+D2
+~
+~
+0 0 59790
+D3
+~
+~
+0 -1 59709
+S
+#59711
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 15
+D0
+~
+~
+0 0 59631
+D1
+~
+~
+0 -1 59712
+D2
+~
+~
+0 0 59791
+D3
+~
+~
+0 -1 59710
+S
+#59712
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59632
+D1
+~
+~
+0 -1 59713
+D2
+~
+~
+0 0 59792
+D3
+~
+~
+0 -1 59711
+S
+#59713
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59633
+D1
+~
+~
+0 -1 59714
+D2
+~
+~
+0 0 59793
+D3
+~
+~
+0 -1 59712
+S
+#59714
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59634
+D1
+~
+~
+0 -1 59715
+D2
+~
+~
+0 0 59794
+D3
+~
+~
+0 -1 59713
+S
+#59715
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59635
+D1
+~
+~
+0 -1 59716
+D2
+~
+~
+0 0 59795
+D3
+~
+~
+0 -1 59714
+S
+#59716
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59636
+D1
+~
+~
+0 -1 59717
+D2
+~
+~
+0 0 59796
+D3
+~
+~
+0 -1 59715
+S
+#59717
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59637
+D1
+~
+~
+0 -1 59718
+D2
+~
+~
+0 0 59797
+D3
+~
+~
+0 -1 59716
+S
+#59718
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59638
+D1
+~
+~
+0 -1 59719
+D2
+~
+~
+0 0 59798
+D3
+~
+~
+0 -1 59717
+S
+#59719
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59639
+D1
+~
+~
+0 -1 59720
+D2
+~
+~
+0 0 59799
+D3
+~
+~
+0 -1 59718
+S
+#59720
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59640
+D1
+~
+~
+0 -1 59721
+D2
+~
+~
+0 0 59800
+D3
+~
+~
+0 -1 59719
+S
+#59721
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59641
+D1
+~
+~
+0 -1 59722
+D2
+~
+~
+0 0 59801
+D3
+~
+~
+0 -1 59720
+S
+#59722
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59642
+D1
+~
+~
+0 -1 59723
+D2
+~
+~
+0 0 59802
+D3
+~
+~
+0 -1 59721
+S
+#59723
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59643
+D1
+~
+~
+0 -1 59724
+D2
+~
+~
+0 0 59803
+D3
+~
+~
+0 -1 59722
+S
+#59724
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59644
+D1
+~
+~
+0 -1 59725
+D2
+~
+~
+0 0 59804
+D3
+~
+~
+0 -1 59723
+S
+#59725
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59645
+D1
+~
+~
+0 -1 59726
+D2
+~
+~
+0 0 59805
+D3
+~
+~
+0 -1 59724
+S
+#59726
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59646
+D1
+~
+~
+0 -1 59727
+D2
+~
+~
+0 0 59806
+D3
+~
+~
+0 -1 59725
+S
+#59727
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59647
+D1
+~
+~
+0 -1 59728
+D2
+~
+~
+0 0 59807
+D3
+~
+~
+0 -1 59726
+S
+#59728
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59648
+D1
+~
+~
+0 -1 59729
+D2
+~
+~
+0 0 59808
+D3
+~
+~
+0 -1 59727
+S
+#59729
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59649
+D1
+~
+~
+0 -1 59730
+D2
+~
+~
+0 0 59809
+D3
+~
+~
+0 -1 59728
+S
+#59730
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59650
+D1
+~
+~
+0 0 8701
+D2
+~
+~
+0 0 59810
+D3
+~
+~
+0 -1 59729
+S
+#59731
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59651
+D2
+~
+~
+0 0 59811
+S
+#59732
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59652
+D1
+~
+~
+0 -1 59733
+D2
+~
+~
+0 0 59812
+D3
+~
+~
+0 0 8701
+S
+#59733
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59653
+D1
+~
+~
+0 -1 59734
+D2
+~
+~
+0 0 59813
+D3
+~
+~
+0 -1 59732
+S
+#59734
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59654
+D1
+~
+~
+0 -1 59735
+D2
+~
+~
+0 0 59814
+D3
+~
+~
+0 -1 59733
+S
+#59735
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59655
+D1
+~
+~
+0 -1 59736
+D2
+~
+~
+0 0 59815
+D3
+~
+~
+0 -1 59734
+S
+#59736
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59656
+D1
+~
+~
+0 -1 59737
+D2
+~
+~
+0 0 59816
+D3
+~
+~
+0 -1 59735
+S
+#59737
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59657
+D1
+~
+~
+0 -1 59738
+D2
+~
+~
+0 0 59817
+D3
+~
+~
+0 -1 59736
+S
+#59738
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59658
+D1
+~
+~
+0 -1 59739
+D2
+~
+~
+0 0 59818
+D3
+~
+~
+0 -1 59737
+S
+#59739
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59659
+D1
+~
+~
+0 -1 59740
+D2
+~
+~
+0 0 59819
+D3
+~
+~
+0 -1 59738
+S
+#59740
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59660
+D1
+~
+~
+0 -1 59741
+D2
+~
+~
+0 0 59820
+D3
+~
+~
+0 -1 59739
+S
+#59741
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59661
+D1
+~
+~
+0 -1 59742
+D2
+~
+~
+0 0 59821
+D3
+~
+~
+0 -1 59740
+S
+#59742
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59662
+D1
+~
+~
+0 -1 59743
+D2
+~
+~
+0 0 59822
+D3
+~
+~
+0 -1 59741
+S
+#59743
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59663
+D1
+~
+~
+0 -1 59744
+D2
+~
+~
+0 0 59823
+D3
+~
+~
+0 -1 59742
+S
+#59744
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59664
+D1
+~
+~
+0 -1 59745
+D2
+~
+~
+0 0 59824
+D3
+~
+~
+0 -1 59743
+S
+#59745
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59665
+D1
+~
+~
+0 -1 59746
+D2
+~
+~
+0 0 59825
+D3
+~
+~
+0 -1 59744
+S
+#59746
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59666
+D1
+~
+~
+0 -1 59747
+D2
+~
+~
+0 0 59826
+D3
+~
+~
+0 -1 59745
+S
+#59747
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59667
+D1
+~
+~
+0 -1 59748
+D2
+~
+~
+0 0 59827
+D3
+~
+~
+0 -1 59746
+S
+#59748
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59668
+D1
+~
+~
+0 -1 59749
+D2
+~
+~
+0 0 59828
+D3
+~
+~
+0 -1 59747
+S
+#59749
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59669
+D1
+~
+~
+0 -1 59750
+D2
+~
+~
+0 0 59829
+D3
+~
+~
+0 -1 59748
+S
+#59750
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59670
+D1
+~
+~
+0 -1 59751
+D2
+~
+~
+0 0 59830
+D3
+~
+~
+0 -1 59749
+S
+#59751
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59671
+D1
+~
+~
+0 -1 59752
+D2
+~
+~
+0 0 59831
+D3
+~
+~
+0 -1 59750
+S
+#59752
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59672
+D1
+~
+~
+0 -1 59753
+D2
+~
+~
+0 0 59832
+D3
+~
+~
+0 -1 59751
+S
+#59753
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59673
+D1
+~
+~
+0 -1 59754
+D2
+~
+~
+0 0 59833
+D3
+~
+~
+0 -1 59752
+S
+#59754
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59674
+D1
+~
+~
+0 -1 59755
+D2
+~
+~
+0 0 59834
+D3
+~
+~
+0 -1 59753
+S
+#59755
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59675
+D1
+~
+~
+0 -1 59756
+D2
+~
+~
+0 0 59835
+D3
+~
+~
+0 -1 59754
+S
+#59756
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59676
+D1
+~
+~
+0 -1 59757
+D2
+~
+~
+0 0 59836
+D3
+~
+~
+0 -1 59755
+S
+#59757
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59677
+D1
+~
+~
+0 -1 59758
+D2
+~
+~
+0 0 59837
+D3
+~
+~
+0 -1 59756
+S
+#59758
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59678
+D1
+~
+~
+0 -1 59759
+D2
+~
+~
+0 0 59838
+D3
+~
+~
+0 -1 59757
+S
+#59759
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59679
+D1
+~
+~
+0 0 59680
+D2
+~
+~
+0 0 59839
+D3
+~
+~
+0 -1 59758
+S
+#59760
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59680
+D1
+~
+~
+0 -1 59761
+D2
+~
+~
+0 0 59840
+D3
+~
+~
+0 0 59839
+S
+#59761
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59681
+D1
+~
+~
+0 -1 59762
+D2
+~
+~
+0 0 59841
+D3
+~
+~
+0 -1 59760
+S
+#59762
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59682
+D1
+~
+~
+0 -1 59763
+D2
+~
+~
+0 0 59842
+D3
+~
+~
+0 -1 59761
+S
+#59763
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59683
+D1
+~
+~
+0 -1 59764
+D2
+~
+~
+0 0 59843
+D3
+~
+~
+0 -1 59762
+S
+#59764
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59684
+D1
+~
+~
+0 -1 59765
+D2
+~
+~
+0 0 59844
+D3
+~
+~
+0 -1 59763
+S
+#59765
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59685
+D1
+~
+~
+0 -1 59766
+D2
+~
+~
+0 0 59845
+D3
+~
+~
+0 -1 59764
+S
+#59766
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59686
+D1
+~
+~
+0 -1 59767
+D2
+~
+~
+0 0 59846
+D3
+~
+~
+0 -1 59765
+S
+#59767
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59687
+D1
+~
+~
+0 -1 59768
+D2
+~
+~
+0 0 59847
+D3
+~
+~
+0 -1 59766
+S
+#59768
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59688
+D1
+~
+~
+0 -1 59769
+D2
+~
+~
+0 0 59848
+D3
+~
+~
+0 -1 59767
+S
+#59769
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59689
+D1
+~
+~
+0 -1 59770
+D2
+~
+~
+0 0 59849
+D3
+~
+~
+0 -1 59768
+S
+#59770
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59690
+D1
+~
+~
+0 -1 59771
+D2
+~
+~
+0 0 59850
+D3
+~
+~
+0 -1 59769
+S
+#59771
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59691
+D1
+~
+~
+0 -1 59772
+D2
+~
+~
+0 0 59851
+D3
+~
+~
+0 -1 59770
+S
+#59772
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59692
+D1
+~
+~
+0 -1 59773
+D2
+~
+~
+0 0 59852
+D3
+~
+~
+0 -1 59771
+S
+#59773
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59693
+D1
+~
+~
+0 -1 59774
+D2
+~
+~
+0 0 59853
+D3
+~
+~
+0 -1 59772
+S
+#59774
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59694
+D1
+~
+~
+0 -1 59775
+D2
+~
+~
+0 0 59854
+D3
+~
+~
+0 -1 59773
+S
+#59775
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59695
+D1
+~
+~
+0 -1 59776
+D2
+~
+~
+0 0 59855
+D3
+~
+~
+0 -1 59774
+S
+#59776
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59696
+D1
+~
+~
+0 -1 59777
+D2
+~
+~
+0 0 59856
+D3
+~
+~
+0 -1 59775
+S
+#59777
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59697
+D1
+~
+~
+0 -1 59778
+D2
+~
+~
+0 0 59857
+D3
+~
+~
+0 -1 59776
+S
+#59778
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59698
+D1
+~
+~
+0 -1 59779
+D2
+~
+~
+0 0 59858
+D3
+~
+~
+0 -1 59777
+S
+#59779
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59699
+D1
+~
+~
+0 -1 59780
+D2
+~
+~
+0 0 59859
+D3
+~
+~
+0 -1 59778
+S
+#59780
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59700
+D1
+~
+~
+0 -1 59781
+D2
+~
+~
+0 0 59860
+D3
+~
+~
+0 -1 59779
+S
+#59781
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59701
+D1
+~
+~
+0 -1 59782
+D2
+~
+~
+0 0 59861
+D3
+~
+~
+0 -1 59780
+S
+#59782
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59702
+D1
+~
+~
+0 -1 59783
+D2
+~
+~
+0 0 59862
+D3
+~
+~
+0 -1 59781
+S
+#59783
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59703
+D1
+~
+~
+0 -1 59784
+D2
+~
+~
+0 0 59863
+D3
+~
+~
+0 -1 59782
+S
+#59784
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59704
+D1
+~
+~
+0 -1 59785
+D2
+~
+~
+0 0 59864
+D3
+~
+~
+0 -1 59783
+S
+#59785
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59705
+D1
+~
+~
+0 -1 59786
+D2
+~
+~
+0 0 59865
+D3
+~
+~
+0 -1 59784
+S
+#59786
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59706
+D1
+~
+~
+0 -1 59787
+D2
+~
+~
+0 0 59866
+D3
+~
+~
+0 -1 59785
+S
+#59787
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59707
+D1
+~
+~
+0 -1 59788
+D2
+~
+~
+0 0 59867
+D3
+~
+~
+0 -1 59786
+S
+#59788
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59708
+D1
+~
+~
+0 -1 59789
+D2
+~
+~
+0 0 59868
+D3
+~
+~
+0 -1 59787
+S
+#59789
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59709
+D1
+~
+~
+0 -1 59790
+D2
+~
+~
+0 0 59869
+D3
+~
+~
+0 -1 59788
+S
+#59790
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59710
+D1
+~
+~
+0 -1 59791
+D2
+~
+~
+0 0 59870
+D3
+~
+~
+0 -1 59789
+S
+#59791
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59711
+D1
+~
+~
+0 -1 59792
+D3
+~
+~
+0 -1 59790
+S
+#59792
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 15
+D0
+~
+~
+0 0 59712
+D1
+~
+~
+0 -1 59793
+D2
+~
+~
+0 0 59872
+D3
+~
+~
+0 -1 59791
+S
+#59793
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59713
+D1
+~
+~
+0 -1 59794
+D2
+~
+~
+0 0 59873
+D3
+~
+~
+0 -1 59792
+S
+#59794
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59714
+D1
+~
+~
+0 -1 59795
+D2
+~
+~
+0 0 59874
+D3
+~
+~
+0 -1 59793
+S
+#59795
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59715
+D1
+~
+~
+0 -1 59796
+D2
+~
+~
+0 0 59875
+D3
+~
+~
+0 -1 59794
+S
+#59796
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59716
+D1
+~
+~
+0 -1 59797
+D2
+~
+~
+0 0 59876
+D3
+~
+~
+0 -1 59795
+S
+#59797
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59717
+D1
+~
+~
+0 -1 59798
+D2
+~
+~
+0 0 59877
+D3
+~
+~
+0 -1 59796
+S
+#59798
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59718
+D1
+~
+~
+0 -1 59799
+D2
+~
+~
+0 0 59878
+D3
+~
+~
+0 -1 59797
+S
+#59799
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59719
+D1
+~
+~
+0 -1 59800
+D2
+~
+~
+0 0 59879
+D3
+~
+~
+0 -1 59798
+S
+#59800
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59720
+D1
+~
+~
+0 -1 59801
+D2
+~
+~
+0 0 59880
+D3
+~
+~
+0 -1 59799
+S
+#59801
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59721
+D1
+~
+~
+0 -1 59802
+D2
+~
+~
+0 0 59881
+D3
+~
+~
+0 -1 59800
+S
+#59802
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59722
+D1
+~
+~
+0 -1 59803
+D2
+~
+~
+0 0 59882
+D3
+~
+~
+0 -1 59801
+S
+#59803
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59723
+D1
+~
+~
+0 -1 59804
+D2
+~
+~
+0 0 59883
+D3
+~
+~
+0 -1 59802
+S
+#59804
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59724
+D1
+~
+~
+0 -1 59805
+D2
+~
+~
+0 0 59884
+D3
+~
+~
+0 -1 59803
+S
+#59805
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59725
+D1
+~
+~
+0 -1 59806
+D2
+~
+~
+0 0 59885
+D3
+~
+~
+0 -1 59804
+S
+#59806
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59726
+D1
+~
+~
+0 -1 59807
+D2
+~
+~
+0 0 59886
+D3
+~
+~
+0 -1 59805
+S
+#59807
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59727
+D1
+~
+~
+0 -1 59808
+D2
+~
+~
+0 0 59887
+D3
+~
+~
+0 -1 59806
+S
+#59808
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59728
+D1
+~
+~
+0 -1 59809
+D2
+~
+~
+0 0 59888
+D3
+~
+~
+0 -1 59807
+S
+#59809
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59729
+D1
+~
+~
+0 -1 59810
+D2
+~
+~
+0 0 59889
+D3
+~
+~
+0 -1 59808
+S
+#59810
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59730
+D1
+~
+~
+0 -1 59811
+D2
+~
+~
+0 0 59890
+D3
+~
+~
+0 -1 59809
+S
+#59811
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59731
+D1
+~
+~
+0 -1 59812
+D2
+~
+~
+0 0 59891
+D3
+~
+~
+0 -1 59810
+S
+#59812
+In the Desert~
+~
+The sands of a vast desert surround you.  A large pyramid lies to the north. 
+ 
+~
+1 0 10
+D0
+~
+~
+0 0 59732
+D1
+~
+~
+0 -1 59813
+D2
+~
+~
+0 0 59892
+D3
+~
+~
+0 -1 59811
+S
+#59813
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59733
+D1
+~
+~
+0 -1 59814
+D2
+~
+~
+0 0 59893
+D3
+~
+~
+0 -1 59812
+S
+#59814
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59734
+D1
+~
+~
+0 -1 59815
+D2
+~
+~
+0 0 59894
+D3
+~
+~
+0 -1 59813
+S
+#59815
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59735
+D1
+~
+~
+0 -1 59816
+D2
+~
+~
+0 0 59895
+D3
+~
+~
+0 -1 59814
+S
+#59816
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59736
+D1
+~
+~
+0 -1 59817
+D2
+~
+~
+0 0 59896
+D3
+~
+~
+0 -1 59815
+S
+#59817
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59737
+D1
+~
+~
+0 -1 59818
+D2
+~
+~
+0 0 59897
+D3
+~
+~
+0 -1 59816
+S
+#59818
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59738
+D1
+~
+~
+0 -1 59819
+D2
+~
+~
+0 0 59898
+D3
+~
+~
+0 -1 59817
+S
+#59819
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59739
+D1
+~
+~
+0 -1 59820
+D2
+~
+~
+0 0 59899
+D3
+~
+~
+0 -1 59818
+S
+#59820
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59740
+D1
+~
+~
+0 -1 59821
+D3
+~
+~
+0 -1 59819
+S
+#59821
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59741
+D1
+~
+~
+0 -1 59822
+D2
+~
+~
+0 0 59901
+D3
+~
+~
+0 -1 59820
+S
+#59822
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59742
+D1
+~
+~
+0 -1 59823
+D2
+~
+~
+0 0 59902
+D3
+~
+~
+0 -1 59821
+S
+#59823
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59743
+D1
+~
+~
+0 -1 59824
+D2
+~
+~
+0 0 59903
+D3
+~
+~
+0 -1 59822
+S
+#59824
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59744
+D1
+~
+~
+0 -1 59825
+D2
+~
+~
+0 0 59904
+D3
+~
+~
+0 -1 59823
+S
+#59825
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59745
+D1
+~
+~
+0 -1 59826
+D2
+~
+~
+0 0 59905
+D3
+~
+~
+0 -1 59824
+S
+#59826
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59746
+D1
+~
+~
+0 -1 59827
+D2
+~
+~
+0 0 59906
+D3
+~
+~
+0 -1 59825
+S
+#59827
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59747
+D1
+~
+~
+0 -1 59828
+D2
+~
+~
+0 0 59907
+D3
+~
+~
+0 -1 59826
+S
+#59828
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59748
+D1
+~
+~
+0 -1 59829
+D2
+~
+~
+0 0 59908
+D3
+~
+~
+0 -1 59827
+S
+#59829
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59749
+D1
+~
+~
+0 -1 59830
+D2
+~
+~
+0 0 59909
+D3
+~
+~
+0 -1 59828
+S
+#59830
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59750
+D1
+~
+~
+0 -1 59831
+D2
+~
+~
+0 0 59910
+D3
+~
+~
+0 -1 59829
+S
+#59831
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59751
+D1
+~
+~
+0 -1 59832
+D2
+~
+~
+0 0 59911
+D3
+~
+~
+0 -1 59830
+S
+#59832
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59752
+D1
+~
+~
+0 -1 59833
+D2
+~
+~
+0 0 59912
+D3
+~
+~
+0 -1 59831
+S
+#59833
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59753
+D1
+~
+~
+0 -1 59834
+D2
+~
+~
+0 0 59913
+D3
+~
+~
+0 -1 59832
+S
+#59834
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59754
+D1
+~
+~
+0 -1 59835
+D2
+~
+~
+0 0 59914
+D3
+~
+~
+0 -1 59833
+S
+#59835
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59755
+D1
+~
+~
+0 -1 59836
+D2
+~
+~
+0 0 59915
+D3
+~
+~
+0 -1 59834
+S
+#59836
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59756
+D1
+~
+~
+0 -1 59837
+D2
+~
+~
+0 0 59916
+D3
+~
+~
+0 -1 59835
+S
+#59837
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59757
+D1
+~
+~
+0 -1 59838
+D2
+~
+~
+0 0 59917
+D3
+~
+~
+0 -1 59836
+S
+#59838
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59758
+D1
+~
+~
+0 -1 59839
+D2
+~
+~
+0 0 59918
+D3
+~
+~
+0 -1 59837
+S
+#59839
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59759
+D1
+~
+~
+0 0 59760
+D2
+~
+~
+0 0 59919
+D3
+~
+~
+0 -1 59838
+S
+#59840
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59760
+D1
+~
+~
+0 -1 59841
+D2
+~
+~
+0 0 59920
+D3
+~
+~
+0 0 59919
+S
+#59841
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59761
+D1
+~
+~
+0 -1 59842
+D2
+~
+~
+0 0 59921
+D3
+~
+~
+0 -1 59840
+S
+#59842
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59762
+D1
+~
+~
+0 -1 59843
+D2
+~
+~
+0 0 59922
+D3
+~
+~
+0 -1 59841
+S
+#59843
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59763
+D1
+~
+~
+0 -1 59844
+D2
+~
+~
+0 0 59923
+D3
+~
+~
+0 -1 59842
+S
+#59844
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59764
+D1
+~
+~
+0 -1 59845
+D2
+~
+~
+0 0 59924
+D3
+~
+~
+0 -1 59843
+S
+#59845
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59765
+D1
+~
+~
+0 -1 59846
+D2
+~
+~
+0 0 59925
+D3
+~
+~
+0 -1 59844
+S
+#59846
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59766
+D1
+~
+~
+0 -1 59847
+D2
+~
+~
+0 0 59926
+D3
+~
+~
+0 -1 59845
+S
+#59847
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59767
+D1
+~
+~
+0 -1 59848
+D2
+~
+~
+0 0 59927
+D3
+~
+~
+0 -1 59846
+S
+#59848
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59768
+D1
+~
+~
+0 -1 59849
+D2
+~
+~
+0 0 59928
+D3
+~
+~
+0 -1 59847
+S
+#59849
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59769
+D1
+~
+~
+0 -1 59850
+D2
+~
+~
+0 0 59929
+D3
+~
+~
+0 -1 59848
+S
+#59850
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59770
+D1
+~
+~
+0 -1 59851
+D2
+~
+~
+0 0 59930
+D3
+~
+~
+0 -1 59849
+S
+#59851
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59771
+D1
+~
+~
+0 -1 59852
+D2
+~
+~
+0 0 59931
+D3
+~
+~
+0 -1 59850
+S
+#59852
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59772
+D1
+~
+~
+0 -1 59853
+D2
+~
+~
+0 0 59932
+D3
+~
+~
+0 -1 59851
+S
+#59853
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59773
+D1
+~
+~
+0 -1 59854
+D2
+~
+~
+0 0 59933
+D3
+~
+~
+0 -1 59852
+S
+#59854
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59774
+D1
+~
+~
+0 -1 59855
+D2
+~
+~
+0 0 59934
+D3
+~
+~
+0 -1 59853
+S
+#59855
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59775
+D1
+~
+~
+0 -1 59856
+D2
+~
+~
+0 0 59935
+D3
+~
+~
+0 -1 59854
+S
+#59856
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59776
+D1
+~
+~
+0 -1 59857
+D2
+~
+~
+0 0 59936
+D3
+~
+~
+0 -1 59855
+S
+#59857
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59777
+D1
+~
+~
+0 -1 59858
+D2
+~
+~
+0 0 59937
+D3
+~
+~
+0 -1 59856
+S
+#59858
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59778
+D1
+~
+~
+0 -1 59859
+D2
+~
+~
+0 0 59938
+D3
+~
+~
+0 -1 59857
+S
+#59859
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59779
+D1
+~
+~
+0 -1 59860
+D2
+~
+~
+0 0 59939
+D3
+~
+~
+0 -1 59858
+S
+#59860
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59780
+D1
+~
+~
+0 -1 59861
+D2
+~
+~
+0 0 59940
+D3
+~
+~
+0 -1 59859
+S
+#59861
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59781
+D1
+~
+~
+0 -1 59862
+D2
+~
+~
+0 0 59941
+D3
+~
+~
+0 -1 59860
+S
+#59862
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59782
+D1
+~
+~
+0 -1 59863
+D2
+~
+~
+0 0 59942
+D3
+~
+~
+0 -1 59861
+S
+#59863
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59783
+D1
+~
+~
+0 -1 59864
+D2
+~
+~
+0 0 59943
+D3
+~
+~
+0 -1 59862
+S
+#59864
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59784
+D1
+~
+~
+0 -1 59865
+D2
+~
+~
+0 0 59944
+D3
+~
+~
+0 -1 59863
+S
+#59865
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59785
+D1
+~
+~
+0 -1 59866
+D2
+~
+~
+0 0 59945
+D3
+~
+~
+0 -1 59864
+S
+#59866
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59786
+D1
+~
+~
+0 -1 59867
+D2
+~
+~
+0 0 59946
+D3
+~
+~
+0 -1 59865
+S
+#59867
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59787
+D1
+~
+~
+0 -1 59868
+D2
+~
+~
+0 0 59947
+D3
+~
+~
+0 -1 59866
+S
+#59868
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59788
+D1
+~
+~
+0 -1 59869
+D2
+~
+~
+0 0 59948
+D3
+~
+~
+0 -1 59867
+S
+#59869
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59789
+D1
+~
+~
+0 -1 59870
+D2
+~
+~
+0 0 59949
+D3
+~
+~
+0 -1 59868
+S
+#59870
+In the Desert~
+~
+The sands of a vast desert surround you.  A large tomb can be seen to the 
+east, partially buried in the sand.  
+~
+1 0 10
+D0
+~
+~
+0 0 59790
+D1
+~
+~
+0 0 9900
+D2
+~
+~
+0 0 59950
+D3
+~
+~
+0 -1 59869
+S
+#59872
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59792
+D1
+~
+~
+0 -1 59873
+D2
+~
+~
+0 0 59952
+D3
+~
+~
+0 0 9900
+S
+#59873
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59793
+D1
+~
+~
+0 -1 59874
+D2
+~
+~
+0 0 59953
+D3
+~
+~
+0 -1 59872
+S
+#59874
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59794
+D1
+~
+~
+0 -1 59875
+D2
+~
+~
+0 0 59954
+D3
+~
+~
+0 -1 59873
+S
+#59875
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59795
+D1
+~
+~
+0 -1 59876
+D2
+~
+~
+0 0 59955
+D3
+~
+~
+0 -1 59874
+S
+#59876
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59796
+D1
+~
+~
+0 -1 59877
+D2
+~
+~
+0 0 59956
+D3
+~
+~
+0 -1 59875
+S
+#59877
+In the Forest~
+~
+You find yourself inside a large, wooded forest. You are deep among the 
+tightly growing trees.  Leaves and branches scratch at you as you move 
+through this section of thick forest.  The sounds of wildlife are all 
+around.
+~
+1 0 3
+D0
+~
+~
+0 0 59797
+D1
+~
+~
+0 -1 59878
+D2
+~
+~
+0 0 59957
+D3
+~
+~
+0 -1 59876
+S
+#59878
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59798
+D1
+~
+~
+0 -1 59879
+D2
+~
+~
+0 0 59958
+D3
+~
+~
+0 -1 59877
+S
+#59879
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59799
+D1
+~
+~
+0 -1 59880
+D2
+~
+~
+0 0 59959
+D3
+~
+~
+0 -1 59878
+S
+#59880
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59800
+D1
+~
+~
+0 -1 59881
+D2
+~
+~
+0 0 59960
+D3
+~
+~
+0 -1 59879
+S
+#59881
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59801
+D1
+~
+~
+0 -1 59882
+D2
+~
+~
+0 0 59961
+D3
+~
+~
+0 -1 59880
+S
+#59882
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59802
+D1
+~
+~
+0 -1 59883
+D2
+~
+~
+0 0 59962
+D3
+~
+~
+0 -1 59881
+S
+#59883
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59803
+D1
+~
+~
+0 -1 59884
+D2
+~
+~
+0 0 59963
+D3
+~
+~
+0 -1 59882
+S
+#59884
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59804
+D1
+~
+~
+0 -1 59885
+D2
+~
+~
+0 0 59964
+D3
+~
+~
+0 -1 59883
+S
+#59885
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59805
+D1
+~
+~
+0 -1 59886
+D2
+~
+~
+0 0 59965
+D3
+~
+~
+0 -1 59884
+S
+#59886
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59806
+D1
+~
+~
+0 -1 59887
+D2
+~
+~
+0 0 59966
+D3
+~
+~
+0 -1 59885
+S
+#59887
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59807
+D1
+~
+~
+0 -1 59888
+D2
+~
+~
+0 0 59967
+D3
+~
+~
+0 -1 59886
+S
+#59888
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59808
+D1
+~
+~
+0 -1 59889
+D2
+~
+~
+0 0 59968
+D3
+~
+~
+0 -1 59887
+S
+#59889
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59809
+D1
+~
+~
+0 -1 59890
+D2
+~
+~
+0 0 59969
+D3
+~
+~
+0 -1 59888
+S
+#59890
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59810
+D1
+~
+~
+0 -1 59891
+D2
+~
+~
+0 0 59970
+D3
+~
+~
+0 -1 59889
+S
+#59891
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59811
+D1
+~
+~
+0 -1 59892
+D2
+~
+~
+0 0 59971
+D3
+~
+~
+0 -1 59890
+S
+#59892
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59812
+D1
+~
+~
+0 -1 59893
+D2
+~
+~
+0 0 59972
+D3
+~
+~
+0 -1 59891
+S
+#59893
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59813
+D1
+~
+~
+0 -1 59894
+D2
+~
+~
+0 0 59973
+D3
+~
+~
+0 -1 59892
+S
+#59894
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59814
+D1
+~
+~
+0 -1 59895
+D2
+~
+~
+0 0 59974
+D3
+~
+~
+0 -1 59893
+S
+#59895
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59815
+D1
+~
+~
+0 -1 59896
+D2
+~
+~
+0 0 59975
+D3
+~
+~
+0 -1 59894
+S
+#59896
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59816
+D1
+~
+~
+0 -1 59897
+D2
+~
+~
+0 0 59976
+D3
+~
+~
+0 -1 59895
+S
+#59897
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59817
+D1
+~
+~
+0 -1 59898
+D2
+~
+~
+0 0 59977
+D3
+~
+~
+0 -1 59896
+S
+#59898
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59818
+D1
+~
+~
+0 -1 59899
+D2
+~
+~
+0 0 59978
+D3
+~
+~
+0 -1 59897
+S
+#59899
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59819
+D1
+~
+~
+0 0 10128
+D2
+~
+~
+0 0 59979
+D3
+~
+~
+0 -1 59898
+S
+#59901
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59821
+D1
+~
+~
+0 -1 59902
+D2
+~
+~
+0 0 59981
+D3
+~
+~
+0 0 10175
+S
+#59902
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59822
+D1
+~
+~
+0 -1 59903
+D2
+~
+~
+0 0 59982
+D3
+~
+~
+0 -1 59901
+S
+#59903
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59823
+D1
+~
+~
+0 -1 59904
+D2
+~
+~
+0 0 59983
+D3
+~
+~
+0 -1 59902
+S
+#59904
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59824
+D1
+~
+~
+0 -1 59905
+D2
+~
+~
+0 0 59984
+D3
+~
+~
+0 -1 59903
+S
+#59905
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59825
+D1
+~
+~
+0 -1 59906
+D2
+~
+~
+0 0 59985
+D3
+~
+~
+0 -1 59904
+S
+#59906
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59826
+D1
+~
+~
+0 -1 59907
+D2
+~
+~
+0 0 59986
+D3
+~
+~
+0 -1 59905
+S
+#59907
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59827
+D1
+~
+~
+0 -1 59908
+D2
+~
+~
+0 0 59987
+D3
+~
+~
+0 -1 59906
+S
+#59908
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59828
+D1
+~
+~
+0 -1 59909
+D2
+~
+~
+0 0 59988
+D3
+~
+~
+0 -1 59907
+S
+#59909
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59829
+D1
+~
+~
+0 -1 59910
+D2
+~
+~
+0 0 59989
+D3
+~
+~
+0 -1 59908
+S
+#59910
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59830
+D1
+~
+~
+0 -1 59911
+D2
+~
+~
+0 0 59990
+D3
+~
+~
+0 -1 59909
+S
+#59911
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59831
+D1
+~
+~
+0 -1 59912
+D2
+~
+~
+0 0 59991
+D3
+~
+~
+0 -1 59910
+S
+#59912
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59832
+D1
+~
+~
+0 -1 59913
+D2
+~
+~
+0 0 59992
+D3
+~
+~
+0 -1 59911
+S
+#59913
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59833
+D1
+~
+~
+0 -1 59914
+D2
+~
+~
+0 0 59993
+D3
+~
+~
+0 -1 59912
+S
+#59914
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59834
+D1
+~
+~
+0 -1 59915
+D2
+~
+~
+0 0 59994
+D3
+~
+~
+0 -1 59913
+S
+#59915
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59835
+D1
+~
+~
+0 -1 59916
+D2
+~
+~
+0 0 59995
+D3
+~
+~
+0 -1 59914
+S
+#59916
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59836
+D1
+~
+~
+0 -1 59917
+D2
+~
+~
+0 0 59996
+D3
+~
+~
+0 -1 59915
+S
+#59917
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59837
+D1
+~
+~
+0 -1 59918
+D2
+~
+~
+0 0 59997
+D3
+~
+~
+0 -1 59916
+S
+#59918
+On the Ocean~
+~
+You are surrounded by a vast ocean. The smell of salt is in the air,
+and the water looks very deep here.
+~
+1 0 7
+D0
+~
+~
+0 0 59838
+D1
+~
+~
+0 -1 59919
+D2
+~
+~
+0 0 59998
+D3
+~
+~
+0 -1 59917
+S
+#59919
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59839
+D1
+~
+~
+0 0 59840
+D2
+~
+~
+0 0 59999
+D3
+~
+~
+0 -1 59918
+S
+#59920
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59840
+D1
+~
+~
+0 -1 59921
+S
+#59921
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59841
+D1
+~
+~
+0 -1 59922
+D3
+~
+~
+0 -1 59920
+S
+#59922
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59842
+D1
+~
+~
+0 -1 59923
+D3
+~
+~
+0 -1 59921
+S
+#59923
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59843
+D1
+~
+~
+0 -1 59924
+D3
+~
+~
+0 -1 59922
+S
+#59924
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59844
+D1
+~
+~
+0 -1 59925
+D3
+~
+~
+0 -1 59923
+S
+#59925
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59845
+D1
+~
+~
+0 -1 59926
+D3
+~
+~
+0 -1 59924
+S
+#59926
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59846
+D1
+~
+~
+0 -1 59927
+D3
+~
+~
+0 -1 59925
+S
+#59927
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59847
+D1
+~
+~
+0 -1 59928
+D3
+~
+~
+0 -1 59926
+S
+#59928
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59848
+D1
+~
+~
+0 -1 59929
+D3
+~
+~
+0 -1 59927
+S
+#59929
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59849
+D1
+~
+~
+0 -1 59930
+D3
+~
+~
+0 -1 59928
+S
+#59930
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59850
+D1
+~
+~
+0 -1 59931
+D3
+~
+~
+0 -1 59929
+S
+#59931
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59851
+D1
+~
+~
+0 -1 59932
+D3
+~
+~
+0 -1 59930
+S
+#59932
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59852
+D1
+~
+~
+0 -1 59933
+D3
+~
+~
+0 -1 59931
+S
+#59933
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59853
+D1
+~
+~
+0 -1 59934
+D3
+~
+~
+0 -1 59932
+S
+#59934
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59854
+D1
+~
+~
+0 -1 59935
+D3
+~
+~
+0 -1 59933
+S
+#59935
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59855
+D1
+~
+~
+0 -1 59936
+D3
+~
+~
+0 -1 59934
+S
+#59936
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59856
+D1
+~
+~
+0 -1 59937
+D3
+~
+~
+0 -1 59935
+S
+#59937
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59857
+D1
+~
+~
+0 -1 59938
+D3
+~
+~
+0 -1 59936
+S
+#59938
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59858
+D1
+~
+~
+0 -1 59939
+D3
+~
+~
+0 -1 59937
+S
+#59939
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59859
+D1
+~
+~
+0 -1 59940
+D3
+~
+~
+0 -1 59938
+S
+#59940
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59860
+D1
+~
+~
+0 -1 59941
+D3
+~
+~
+0 -1 59939
+S
+#59941
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59861
+D1
+~
+~
+0 -1 59942
+D3
+~
+~
+0 -1 59940
+S
+#59942
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59862
+D1
+~
+~
+0 -1 59943
+D3
+~
+~
+0 -1 59941
+S
+#59943
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59863
+D1
+~
+~
+0 -1 59944
+D3
+~
+~
+0 -1 59942
+S
+#59944
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59864
+D1
+~
+~
+0 -1 59945
+D3
+~
+~
+0 -1 59943
+S
+#59945
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59865
+D1
+~
+~
+0 -1 59946
+D3
+~
+~
+0 -1 59944
+S
+#59946
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59866
+D1
+~
+~
+0 -1 59947
+D3
+~
+~
+0 -1 59945
+S
+#59947
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59867
+D1
+~
+~
+0 -1 59948
+D3
+~
+~
+0 -1 59946
+S
+#59948
+On the Grassy Plains~
+~
+You are traveling through a grassy field.
+~
+1 0 2
+D0
+~
+~
+0 0 59868
+D1
+~
+~
+0 -1 59949
+D3
+~
+~
+0 -1 59947
+S
+#59949
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59869
+D1
+~
+~
+0 -1 59950
+D3
+~
+~
+0 -1 59948
+S
+#59950
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59870
+D1
+~
+~
+0 -1 59951
+D3
+~
+~
+0 -1 59949
+S
+#59951
+In the Desert~
+~
+The sands of a vast desert surround you.  A large tomb can be seen to the 
+northeast, partially buried in the sand.  
+~
+1 0 10
+D0
+~
+~
+0 0 9900
+D1
+~
+~
+0 -1 59952
+D3
+~
+~
+0 -1 59950
+S
+#59952
+In the Desert~
+~
+The sands of a vast desert surround you.  A large tomb can be seen to the 
+north, partially buried in the sand.  
+~
+1 0 10
+D0
+~
+~
+0 0 59872
+D1
+~
+~
+0 -1 59953
+D3
+~
+~
+0 -1 59951
+S
+#59953
+In the Desert~
+~
+The sands of a vast desert surround you.  A large tomb can be seen to the 
+northwest, partially buried in the sand.  
+~
+1 0 10
+D0
+~
+~
+0 0 59873
+D1
+~
+~
+0 -1 59954
+D3
+~
+~
+0 -1 59952
+S
+#59954
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59874
+D1
+~
+~
+0 -1 59955
+D3
+~
+~
+0 -1 59953
+S
+#59955
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59875
+D1
+~
+~
+0 -1 59956
+D3
+~
+~
+0 -1 59954
+S
+#59956
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59876
+D1
+~
+~
+0 -1 59957
+D3
+~
+~
+0 -1 59955
+S
+#59957
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59877
+D1
+~
+~
+0 -1 59958
+D3
+~
+~
+0 -1 59956
+S
+#59958
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59878
+D1
+~
+~
+0 -1 59959
+D3
+~
+~
+0 -1 59957
+S
+#59959
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59879
+D1
+~
+~
+0 -1 59960
+D3
+~
+~
+0 -1 59958
+S
+#59960
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59880
+D1
+~
+~
+0 -1 59961
+D3
+~
+~
+0 -1 59959
+S
+#59961
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59881
+D1
+~
+~
+0 -1 59962
+D3
+~
+~
+0 -1 59960
+S
+#59962
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59882
+D1
+~
+~
+0 -1 59963
+D3
+~
+~
+0 -1 59961
+S
+#59963
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59883
+D1
+~
+~
+0 -1 59964
+D3
+~
+~
+0 -1 59962
+S
+#59964
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59884
+D1
+~
+~
+0 -1 59965
+D3
+~
+~
+0 -1 59963
+S
+#59965
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59885
+D1
+~
+~
+0 -1 59966
+D3
+~
+~
+0 -1 59964
+S
+#59966
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59886
+D1
+~
+~
+0 -1 59967
+D3
+~
+~
+0 -1 59965
+S
+#59967
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59887
+D1
+~
+~
+0 -1 59968
+D3
+~
+~
+0 -1 59966
+S
+#59968
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59888
+D1
+~
+~
+0 -1 59969
+D3
+~
+~
+0 -1 59967
+S
+#59969
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59889
+D1
+~
+~
+0 -1 59970
+D3
+~
+~
+0 -1 59968
+S
+#59970
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59890
+D1
+~
+~
+0 -1 59971
+D3
+~
+~
+0 -1 59969
+S
+#59971
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59891
+D1
+~
+~
+0 -1 59972
+D3
+~
+~
+0 -1 59970
+S
+#59972
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59892
+D1
+~
+~
+0 -1 59973
+D3
+~
+~
+0 -1 59971
+S
+#59973
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59893
+D1
+~
+~
+0 -1 59974
+D3
+~
+~
+0 -1 59972
+S
+#59974
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59894
+D1
+~
+~
+0 -1 59975
+D3
+~
+~
+0 -1 59973
+S
+#59975
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59895
+D1
+~
+~
+0 -1 59976
+D3
+~
+~
+0 -1 59974
+S
+#59976
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59896
+D1
+~
+~
+0 -1 59977
+D3
+~
+~
+0 -1 59975
+S
+#59977
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59897
+D1
+~
+~
+0 -1 59978
+D3
+~
+~
+0 -1 59976
+S
+#59978
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59898
+D1
+~
+~
+0 -1 59979
+D3
+~
+~
+0 -1 59977
+S
+#59979
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59899
+D1
+~
+~
+0 -1 59980
+D3
+~
+~
+0 -1 59978
+S
+#59980
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D1
+~
+~
+0 -1 59981
+D3
+~
+~
+0 -1 59979
+S
+#59981
+In the Desert~
+~
+The sands of a vast desert surround you.
+~
+1 0 10
+D0
+~
+~
+0 0 59901
+D1
+~
+~
+0 -1 59982
+D3
+~
+~
+0 -1 59980
+S
+#59982
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59902
+D1
+~
+~
+0 -1 59983
+D3
+~
+~
+0 -1 59981
+S
+#59983
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59903
+D1
+~
+~
+0 -1 59984
+D3
+~
+~
+0 -1 59982
+S
+#59984
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59904
+D1
+~
+~
+0 -1 59985
+D3
+~
+~
+0 -1 59983
+S
+#59985
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59905
+D1
+~
+~
+0 -1 59986
+D3
+~
+~
+0 -1 59984
+S
+#59986
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59906
+D1
+~
+~
+0 -1 59987
+D3
+~
+~
+0 -1 59985
+S
+#59987
+The Desert~
+~
+Sand stretches out in all directions.  Graceful hills rising and
+falling like waves in the ocean, except there is no water to be seen.  It is
+dry beyond belief, and just as hot.  Breathing in the sizzling air requires
+great effort.   
+~
+1 0 10
+D0
+~
+~
+0 0 59907
+D1
+~
+~
+0 -1 59988
+D3
+~
+~
+0 -1 59986
+S
+#59988
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59908
+D1
+~
+~
+0 -1 59989
+D3
+~
+~
+0 -1 59987
+S
+#59989
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59909
+D1
+~
+~
+0 -1 59990
+D3
+~
+~
+0 -1 59988
+S
+#59990
+Through the Hills~
+~
+You are traveling through rocky hills.
+~
+1 0 4
+D0
+~
+~
+0 0 59910
+D1
+~
+~
+0 -1 59991
+D3
+~
+~
+0 -1 59989
+S
+#59991
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59911
+D1
+~
+~
+0 -1 59992
+D3
+~
+~
+0 -1 59990
+S
+#59992
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59912
+D1
+~
+~
+0 -1 59993
+D3
+~
+~
+0 -1 59991
+S
+#59993
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59913
+D1
+~
+~
+0 -1 59994
+D3
+~
+~
+0 -1 59992
+S
+#59994
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59914
+D1
+~
+~
+0 -1 59995
+D3
+~
+~
+0 -1 59993
+S
+#59995
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59915
+D1
+~
+~
+0 -1 59996
+D3
+~
+~
+0 -1 59994
+S
+#59996
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59916
+D1
+~
+~
+0 -1 59997
+D3
+~
+~
+0 -1 59995
+S
+#59997
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59917
+D1
+~
+~
+0 -1 59998
+D3
+~
+~
+0 -1 59996
+S
+#59998
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59918
+D1
+~
+~
+0 -1 59999
+D3
+~
+~
+0 -1 59997
+S
+#59999
+On the Ocean~
+~
+You are surrounded by a vast ocean.  The smell of salt is in the air, and 
+the water looks very deep here.  
+~
+1 0 7
+D0
+~
+~
+0 0 59919
+D3
+~
+~
+0 -1 59998
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

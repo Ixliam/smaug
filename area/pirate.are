@@ -1,0 +1,3280 @@
+#AREA        Khalaman Port~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#12000
+Captain Amos Trask~
+the Captain~
+Captain Amos Trask is here yelling orders to his crew.
+~
+The captain is a man in his fifties.  What's left of his hair is 
+slicked and tied at the back of his head.  He has had much experience
+in commanding rowdy pirate crews.  He has a tough, weather-worn face 
+and a stern complextion.  He must have been BAD to get into such a 
+command so don't mess with him!
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+58 20 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12001
+Navigator~
+the Navigator~
+The ship's navigator is trying to figure out which sea route to take.
+~
+The navigator looks rather busy.  He has a pencil stuck on his ear.
+He is a rather young scholar with some minor experience in navigation.
+He looks like he has been missing some sleep because of working on all
+those maps.  Yet, he still seems ready to react to anything quickly
+and defend himself if necessary.  He tells you to leave his equipment
+alone!
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 9 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12002
+First Mate~
+the First Mate~
+The First Mate is taking a break from the Captain's sharp tongue.
+~
+The first mate looks rather stressed.  He has been doing things for
+the captain all day and is now relieved to have his break.  He seems
+to have an air of command around him which must explain why he got
+his position on the ship as a First Mate.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 15 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12003
+Cook chef~
+the Ship's Cook~
+The ship's Cook is preparing Gak for the crew to eat.
+~
+The cook is rather sloppy.  His hands are as dirty as his clothing.  
+He is running around the room preparing one thing after the next.  
+He constantly keeps an eye on the big cauldron in the center of the 
+room. It looks like he mixes whatever leftovers he has into the 
+cauldron and calls it food.  For some strange reason, you loose 
+your appetite.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+45 7 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12004
+Hired Assassin Guard~
+the Hired Assassin Guard~
+The hired assassin is standing here guarding the's pirates' plunder.
+~
+You barely notice him in the dim light.  He is very lithe and subtle in
+his movements.  He looks trained to kill in a single blow, so don't get
+on his bad side!
+~
+0
+Clanname none~
+0
+0
+65 65536 -600 C
+55 10 -25 6d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12005
+sleeping pirate~
+the sleepy pirate~
+A raggedy pirate is sleeping here.
+~
+The pirate looks quite at peace.  The harsh lines of trouble are 
+gone from his face, taken away by the sandman.  I bet he would be 
+VERY upset if you woke him up, so step lightly.
+~
+0
+Clanname none~
+0
+0
+65 131072 -600 C
+38 3 -13 5d6+230 5d6+12
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12006
+Pirate~
+the pirate~
+A pirate is standing here talking to his parrot.
+~
+The pirate looks quite frustrated.  He doesn't seem to be going 
+anywhere in his argument with his parrot.  You wonder who has 
+higher intellect ... the bird or the pirate?
+~
+0
+Clanname none~
+0
+0
+129 512 -600 C
+45 3 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12007
+angry pirate~
+the angry pirate~
+An angry pirate is standing here cursing at you!
+~
+His face is red and his ears almost seem to be blowing steam!  What did
+you do to make him so mad?
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+41 5 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12008
+drunk pirate~
+the drunk pirate~
+A very drunk pirate is singing his troubles away!
+~
+He sways left and right as he walks.  The pirate is constantly plugging
+his mouth with a bottle of beer.  As he sings, drool comes spitting
+out of his mouth. Yuk!
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+39 3 -15 5d8+255 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12009
+swash swashbuckler~
+the swashbuckler~
+The swashbuckler looks very bored.
+~
+He has been standing out in the sun for hours doing nothing but 
+getting a really bad tan.  He sure could use a friend to talk to.
+~
+0
+Clanname none~
+0
+0
+65 512 -200 C
+43 3 -17 5d8+265 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12010
+buccaneer~
+the buccaneer~
+A buccaneer is standing here observing you.
+~
+He looks like the quiet type.  But don't let looks decieve you, he could
+be very deadly in combat.
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+43 3 -17 5d8+265 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12011
+midshipman man~
+the midshipman~
+A midshipman is kneeling here swabbing the deck.
+~
+He looks like a very hardworking man.  His energy seems inexhaustible.
+When you try to talk to him, he gruffly says,"Work! Work! Work! That's
+all we do everyday! WORK!"
+~
+0
+Clanname none~
+0
+0
+129 512 -600 C
+33 3 -11 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12012
+sailor~
+the sailor~
+The sailor is standing here enjoying the sea breeze.
+~
+He looks like a happy-go-lucky man who takes things as they come.
+~
+0
+Clanname none~
+0
+0
+129 512 -600 C
+35 3 -11 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12013
+rat~
+the seafaring rat~
+A seafaring rat is scurrying around scavenging for food.
+~
+This is the BIGGEST rat you've ever seen!  He has razor sharp teeth!
+~
+0
+Clanname none~
+0
+0
+129 512 -600 C
+35 3 -11 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12014
+lookout~
+the Lookout~
+A lookout has been posted here to search for signs of danger.
+~
+He peers intently in all directions and keeps an eye on the weather.
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 15 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12015
+she~
+she~
+She sells seashells by the seashore.
+~
+`BShe is a pretty young girl standing behind the counter watching the shop.`x
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+91 20 -61 9d13+445 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#12099
+captain Cronos boat~
+captain Cronos~
+Captain Cronos is here, ready to book your passage on his ship.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+88 200 -60 9d13+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#12000
+amulet captain~
+the `#`Rp`rirate`^ captain's `#`Ba`bmulet`^~
+Captain Amos's precious amulet has been accidentally left here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12000 amulet captain~
+It is a small coin shaped amulet hung on a thin gold chain.  On the
+face of the amulet is a picture of a dagger pointing down at a set
+of skull and crossbones.
+~
+#12001
+key long wooden~
+a long wooden key~
+A long wooden key has been dropped here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12002
+key small wooden~
+a small wooden key~
+A small wooden key has been dropped here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12003
+skull crossbone key~
+a skull key~
+A key with the symbol of a set of skull and crossbones lies here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12004
+log~
+the Captain's Log~
+Captain Amos's Log is lying on the table.~
+~
+15 0 8
+13 12003 100 100 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+12004 log captain~
+It is a very old book which the captain uses to keep track of his journeys.
+~
+#12005
+hat captain~
+the Pirate Captain's Hat~
+Captain Amos's hat is flipped upside down here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12006
+ring pirate~
+a `#`Rp`rirate's`^ ring~
+A pirate's ring is rolling around on the floor.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12007
+ring pearl~
+a `#`Cp`ce`Ca`cr`Cl`^ ring~
+A pearl ring is rolling around on the floor.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12008
+shellfish necklace~
+a `#`mseashell`^ necklace~
+A bunch of seashells are piled on the floor.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12009
+raggedy shirt~
+a raggedy shirt~
+Some torn cloth is piled on the floor.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12010
+vest dragonscale~
+a `#`ws`Wh`si`wn`Wy `Rd`rragon`Rs`rcale`^ vest~
+A shiny dragonscale vest has been left here.~
+~
+9 0 8
+40 40 12 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12011
+parrot~
+a `#`Yt`Ra`Bl`Yk`Ra`Bt`Yi`Rv`Be `Yp`Ra`Br`Yr`Ro`Bt`^~
+An extremely loquacious parrot is perched here.~
+~
+8 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12012
+cap sailor~
+a `#`Ws`wa`Wi`wl`Wo`wr'`Ws`^ cap~
+A blue and white cap sits here.~
+~
+9 64 8
+30 30 6 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12013
+pegleg peg~
+a pegleg~
+A short stick is leaning against the wall.~
+~
+9 64 8
+35 35 8 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12014
+baggy pants~
+a `#`spair`^ of `#`Wb`sa`Wg`sg`Wy`^ pants~
+A pair of baggy pants hangs here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12015
+sandals fishing~
+some fishing sandals~
+A pair of fishing sandals have been dropped here.~
+~
+9 64 8
+35 35 7 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12016
+boots Captain~
+captain Amos's Boots~
+Some fancy boots with a skull and crossbone design on them sits here.~
+~
+9 64 8
+45 45 8 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12017
+ringmail gloves~
+a pair of ringmail gloves~
+A pair of ringmail gloves have been dumped here.~
+~
+9 0 8
+40 40 8 0 0 0 0
+1 450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12018
+gloves Captain~
+captain Amos's gloves~
+Captain Amos's gloves have been dropped in the dust.~
+~
+9 64 8
+45 45 8 0 0 0 0
+1 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12019
+shield polished wooden~
+a polished wooden shield~
+A polished wooden shield has been dropped here.~
+~
+9 1 8
+35 35 11 0 0 0 0
+1 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12020
+net fishing~
+a fishing net~
+A fishing net is crumpled up here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12021
+pearl bracelet~
+a `#`cp`Ce`ca`Cr`cl `sb`wr`Wacel`we`st`^~
+A ring of pearl has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12022
+dagger gold~
+a `#`Yg`yo`Yl`yd `Yd`ya`Yg`yg`Ye`yr`^~
+A shiny gold dagger shines in the sun.~
+~
+5 16 4
+4 46 59 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12023
+dirk pirate~
+a pirate's dirk~
+A pirate's dirk is pulsing with evil.~
+~
+5 64 4
+2 62 76 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12024
+katana blade~
+a katana blade~
+An extremely sharp blade lies on the floor.~
+~
+5 0 4
+4 54 68 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12025
+charm good luck~
+a good luck charm~
+A good luck charm is here just waiting for someone to pick it up.~
+~
+3 256 2
+0 0 0 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+12025 charm good luck~
+On it is written :
+
+       Straighten your chin up and smile a bright smile,
+       The GODS are on your side thru each and every trial.
+       Don't worry about your troubles or even of your woes.
+       Because the GODS wish you the best of luck in everything you do!
+
+~
+#12026
+foot lucky rabbit~
+a lucky rabbit's foot~
+The dismembered paw of a rabbit is rotting away in the dirt.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#12027
+jug beer~
+a jug of beer~
+A jug of beer has been carelessly dumped here.~
+~
+17 0 16
+7 1 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12028
+flag pirate~
+a pirates' flag~
+A black flag waves in the wind.~
+~
+4 16 4
+0 0 0 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+12028 flag pirates~
+There is a picture of a dagger pointed down upon a white set of skull and 
+crossbones.  In small letters you see : Amos Trask, The Dagger of the Sea! 
+~
+#12029
+glasses spy~
+a spy-glass~
+A pair of spy-glasses sit here distorting the light.~
+~
+8 16 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12030
+cloak assassin~
+an `#`sassassin's c`wl`so`wa`sk`^~
+An assassin's cloak covers the floor.~
+~
+9 64 8
+40 40 10 0 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12031
+shroud assassin~
+an `#`sassassin's s`wh`sr`wo`su`wd`^~
+An assassin's shroud covers the floor.~
+~
+9 64 8
+40 40 7 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12032
+boots thieves~
+a `#`spair`^ of `#`Rt`rhieve's `yboots`^~
+A sneaky pair of sneakers rests here.~
+~
+9 0 8
+45 45 9 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12033
+ring assassin~
+an `#`sassassin's r`wi`sn`wg`^~
+A small sharp ring lies on the ground.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12034
+chest treasure~
+a treasure chest~
+A treasure chest sits in the corner!~
+~
+15 0 8
+13 12000 100 100 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12035
+diamond black~
+`#`wa `sb`wl`sa`wc`sk `wdiamond`^~
+A black diamond is glittering here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12036
+stone multi-colored~
+`#`wa `?m`?u`?l`?t`?i-`?c`?o`?l`?o`?r`?e`?d `wstone`^~
+A colorful stone is here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12037
+topaz stone~
+`Wa `Yg`yo`Yl`yd `Wtrimmed `ytopaz `Wstone`^~
+A gold-trimmed topaz stone lies here.~
+~
+30 0 16
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12038
+carcass rat dead~
+`#`wa `sdead `yrat `scarcass`^~
+The corpse of a dead rat is rotting here.~
+~
+8 2 8
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12039
+crate wooden~
+a wooden crate~
+A wooden crate lies here.~
+~
+15 0 8
+1 -1 150 100 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12040
+apple~
+a delicious apple~
+A delicious apple makes your mouth water.~
+~
+19 0 16
+4 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12041
+apple~
+a rotten apple~
+A rotten apple is here.~
+~
+19 0 16
+4 0 1 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12042
+barrel water~
+a water barrel~
+A barrel of water sits here.~
+~
+17 0 16
+30 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12043
+carton milk~
+a carton of milk~
+An open carton of milk is here.~
+~
+17 0 16
+10 10 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12044
+mop~
+a mop~
+A mop has been left here.~
+~
+5 0 4
+2 38 51 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12045
+pearl giant~
+`#`wa giant `Cp`ce`Ca`cr`Cl`^~
+A large ball of pearl rolls around the floor.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#12046
+guano~
+guano~
+Some guano has been deposited here by seagulls. Yuk!~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12047
+grey potion stone skin shield~
+a grey potion~
+A heavy grey potion sits on the stone.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#12048
+feather wand~
+a feather wand~
+A feather drifts in the wind.~
+~
+3 0 2
+0 0 0 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#12049
+sack~
+a traveller's sac~
+A traveller's sac is dumped on the floor.~
+~
+15 0 8
+1 1 300 80 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12050
+fish~
+a fish~
+A fish is flip-flopping around on the floor.~
+~
+19 0 16
+20 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12051
+dagger assassin~
+`#`wan `Ra`rssassin's `sdagger`^~
+An extremely sharp dagger is protruding from the ground.~
+~
+5 64 4
+4 70 85 128 0 0 0
+1 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12052
+gold bullions~
+`#`Yg`yo`Yl`yd `YB`yu`Yl`yl`Yi`yo`Yn`ys`^~
+Piles of Gold Bullion lay glittering on the floor!~
+~
+20 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12053
+katana blade~
+a katana blade~
+An extremely sharp blade lies on the floor.~
+~
+5 0 4
+4 13 3 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#12054
+katana blade~
+a katana blade~
+An extremely sharp blade lies on the floor.~
+~
+5 0 4
+11 78 101 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#12000
+Beginning of the Pier~
+~
+You stand at the beginning of a pier where ships come in and out.  
+The smells of fish being loaded on and off the ships here are 
+overwhelming.  There is a large ship docked to the east.  The pier 
+continues north and south to the dock.
+~
+1 0 1
+D0
+The pier continues north.
+~
+~
+0 -1 12001
+D1
+~
+~
+0 0 12099
+E
+ship~
+It is a huge ship belonging to the royal family.  On its side is 
+painted in big bold letters : `BTHE ROYAL EAGLE.`x
+~
+S
+#12001
+Along the Pier~
+~
+You are walking along the pier leading to the plank of the Royal Eagle.
+The pier runs north and south from here.
+~
+1 0 1
+D0
+The pier continues north.
+~
+~
+0 -1 12002
+D2
+You see the entrance to the pier.
+~
+~
+0 -1 12000
+R M 0 12012 5 12001
+  R E 0 12012 0 6
+S
+#12002
+Along the Pier~
+~
+You are walking along the pier leading to the plank of the Royal Eagle.
+The pier runs north and south from here.
+~
+1 0 1
+D0
+The pier continues north.
+~
+~
+0 -1 12003
+D2
+The pier continues south.
+~
+~
+0 -1 12001
+S
+#12003
+Along the Pier~
+~
+You are walking along the pier leading to the plank of the Royal Eagle.
+The pier runs north and south from here.
+~
+1 0 1
+D0
+The pier continues north from here and takes a turn east.
+~
+~
+0 -1 12004
+D2
+The pier continues south.
+~
+~
+0 -1 12002
+R M 0 12012 5 12003
+  R E 0 12012 0 6
+S
+#12004
+A Turn at the Pier~
+~
+You are walking along the pier.  There is a turn to the east here.  
+You may go east onto the plank or south to leave. To the west, is
+a small shop.
+~
+1 0 1
+D1
+To the east is the plank where one can board the ship.
+~
+~
+0 -1 12005
+D2
+The pier continues south from here.
+~
+~
+0 -1 12003
+D3
+To the west is a small shop.
+~
+~
+0 -1 12084
+R M 0 12008 5 12004
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+  R E 0 12027 0 17
+R M 0 12012 5 12004
+  R E 0 12012 0 6
+S
+#12005
+Plankway to the Royal Eagle~
+~
+You are on the walkway to the Royal Eagle.  Men are bustling about
+running errands for the Admiral Amos and his Highness.  These men 
+looked like they have been out to sea many times judging from their 
+skin.  You may board the Royal Eagle or leave to the west.
+~
+1 0 1
+D3
+This direction leads away from the ship.
+~
+~
+0 -1 12004
+D4
+You see the entrance to the ship.
+~
+~
+0 -1 12021
+R M 0 12010 6 12005
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12006
+Southwest Corner of Aft Deck~
+~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+1 0 1
+D0
+~
+~
+0 -1 12011
+D1
+~
+~
+0 -1 12007
+R M 0 12007 5 12006
+  R E 0 12013 0 7
+  R E 0 12022 0 16
+S
+#12007
+Aft Deck South~
+~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+1 0 1
+D0
+~
+~
+0 -1 12012
+D1
+~
+~
+0 -1 12008
+D3
+~
+~
+0 -1 12006
+S
+#12008
+Aft Deck South~
+~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+1 0 1
+D0
+~
+~
+0 -1 12013
+D1
+~
+~
+0 -1 12009
+D3
+~
+~
+0 -1 12007
+S
+#12009
+Aft Deck South~
+~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+1 0 1
+D0
+~
+~
+0 -1 12014
+D1
+~
+~
+0 -1 12010
+D3
+~
+~
+0 -1 12008
+R M 0 12007 5 12009
+  R E 0 12007 0 1
+  R E 0 12013 0 7
+S
+#12010
+Southeast Corner of Aft Deck~
+~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+1 0 1
+D0
+~
+~
+0 -1 12015
+D3
+~
+~
+0 -1 12009
+R M 0 12007 5 12010
+  R E 0 12013 0 7
+  R E 0 12022 0 16
+S
+#12011
+Aft Deck - Port Side~
+~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape down to the main deck or go talk to the captain just
+east of here.
+~
+1 0 1
+D1
+~
+~
+0 -1 12012
+D2
+~
+~
+0 -1 12006
+D5
+~
+~
+0 -1 12016
+S
+#12012
+Aft Deck~
+~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape west and down to the main deck or go talk to the captain
+just east of here.
+~
+1 0 1
+D1
+~
+~
+0 -1 12013
+D2
+~
+~
+0 -1 12007
+D3
+~
+~
+0 -1 12011
+R M 0 12007 5 12012
+  R E 0 12007 0 1
+  R E 0 12013 0 7
+R M 0 12012 5 12012
+  R E 0 12012 0 6
+S
+#12013
+Center Aft Deck~
+~
+You are standing on the aft deck of the ship.  This happens to be the
+place from which the captain shouts orders to his crew to get the ship
+ready for sail.  You stomach wrenches as the ship moves over a large
+swell in the sea.
+~
+1 0 1
+D1
+~
+~
+0 -1 12014
+D2
+~
+~
+0 -1 12008
+D3
+~
+~
+0 -1 12012
+R M 0 12000 1 12013
+  R E 0 12003 0 17
+  R E 0 12005 0 6
+  R E 0 12006 0 1
+  R E 0 12007 0 2
+  R E 0 12016 0 8
+  R E 0 12018 0 9
+  R E 0 12054 0 16
+R M 0 12010 6 12013
+  R E 0 12024 0 16
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12014
+Aft Deck~
+~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape east and down to the main deck or go talk to the captain
+just west of here.
+~
+1 0 1
+D1
+~
+~
+0 -1 12015
+D2
+~
+~
+0 -1 12009
+D3
+~
+~
+0 -1 12013
+S
+#12015
+Aft Deck - Starboard Side~
+~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape down to the main deck or go talk to the captain just
+west of here.
+~
+1 0 1
+D2
+~
+~
+0 -1 12010
+D3
+~
+~
+0 -1 12014
+D5
+~
+~
+0 -1 12020
+R M 0 12007 5 12015
+  R E 0 12013 0 7
+  R E 0 12022 0 16
+S
+#12016
+Main Deck of the Royal Eagle - Port~
+~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  
+She has been out to sea many times on many voyages, some of which are 
+not completely lawful.  She has been disquised so that she could raid 
+merchant ships travelling the South Seas in order to "improve" the 
+trade.
+~
+1 0 1
+D0
+~
+~
+0 -1 12021
+D1
+~
+~
+0 -1 12017
+D4
+~
+~
+0 -1 12011
+R M 0 12006 10 12016
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12017
+Main Deck of the Royal Eagle~
+~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.
+She seems to have been out to sea many times on many voyages.  Crewmen 
+are working hard cleaning the deck and tidying up the ship in 
+preparation to set sail.  There seems to be a slight crevice in the 
+south wall, the weather must have really worn this ship out.
+~
+1 0 1
+D0
+~
+~
+0 -1 12022
+D1
+~
+~
+0 -1 12018
+D2
+You notice a crevice in the wall.  It may just have been weatherworn.
+~
+wall door~
+33 12003 12074
+D3
+~
+~
+0 -1 12016
+E
+symbol~
+This is so small, you can barely see it.  It seems to show a picture of
+a dagger pointed down at a set of skull and crossbones.
+~
+E
+crevice~
+Upon closer inspection, you see that the crevice is as high and thin 
+as a coin slot.  You also notice a small symbol carved into the wood 
+just above the slot.
+~
+S
+#12018
+Main Deck of the Royal Eagle~
+~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.  
+She seems to have been out to sea many times on many voyages.  Crewmen 
+are working hard cleaning the deck and tidying up the ship in 
+preparation to set sail.  The floorboard here seems to creak as you 
+walk across it.  You think to yourself, "Geez, this ship sure needs some 
+repairs!"
+~
+1 0 1
+D0
+~
+~
+0 -1 12023
+D1
+~
+~
+0 -1 12019
+D3
+~
+~
+0 -1 12017
+D5
+The floorboards seem to squeak.
+~
+floorboard floor~
+33 12001 12069
+R M 0 12009 6 12018
+  R E 0 12038 0 17
+  R G 0 12040 0
+E
+floorboard floor~
+It seems to squeak.  It could be a door of some kind.
+~
+S
+#12019
+Main Deck of the Royal Eagle~
+~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.  
+She seems to have been out to sea many times on many voyages.  Crewmen 
+are working hard cleaning the deck and tidying up the ship in 
+preparation to set sail.
+~
+1 0 1
+D0
+~
+~
+0 -1 12024
+D1
+~
+~
+0 -1 12020
+D3
+~
+~
+0 -1 12018
+R M 0 12011 10 12019
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12020
+Main Deck of the Royal Eagle - Starboard~
+~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  
+She has been out to sea many times on many voyages, some of which are 
+not completely lawful.  She has been disquised so that she could raid 
+merchant ships travelling the South Seas in order to "improve" the 
+trade.
+~
+1 0 1
+D0
+~
+~
+0 -1 12025
+D3
+~
+~
+0 -1 12019
+D4
+~
+~
+0 -1 12015
+S
+#12021
+Entrance to the Royal Eagle - Main Deck~
+~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  
+She has been out to sea many times on many voyages, some of which are 
+not completely lawful.  She has been disquised so that she could raid 
+merchant ships travelling the South Seas in order to "improve" the 
+trade.  You may leave the ship by going down the plank.
+~
+1 0 1
+D0
+~
+~
+0 -1 12026
+D1
+~
+~
+0 -1 12022
+D2
+~
+~
+0 -1 12016
+D5
+~
+~
+0 -1 12005
+R M 0 12009 6 12021
+  R E 0 12019 0 11
+  R G 0 12040 0
+R M 0 12011 10 12021
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12022
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12027
+D1
+~
+~
+0 -1 12023
+D2
+~
+~
+0 -1 12017
+D3
+~
+~
+0 -1 12021
+R M 0 12012 5 12022
+  R E 0 12012 0 6
+S
+#12023
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12028
+D1
+~
+~
+0 -1 12024
+D2
+~
+~
+0 -1 12018
+D3
+~
+~
+0 -1 12022
+R M 0 12008 5 12023
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+  R E 0 12027 0 17
+S
+#12024
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12029
+D1
+~
+~
+0 -1 12025
+D2
+~
+~
+0 -1 12019
+D3
+~
+~
+0 -1 12023
+S
+#12025
+Main Deck - Starboard~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12030
+D2
+~
+~
+0 -1 12020
+D3
+~
+~
+0 -1 12024
+R O 0 12020 0 12025
+R M 0 12006 10 12025
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12026
+Main Deck - Port~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12031
+D1
+~
+~
+0 -1 12027
+D2
+~
+~
+0 -1 12021
+S
+#12027
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12032
+D1
+~
+~
+0 -1 12028
+D2
+~
+~
+0 -1 12022
+D3
+~
+~
+0 -1 12026
+S
+#12028
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12033
+D1
+~
+~
+0 -1 12029
+D2
+~
+~
+0 -1 12023
+D3
+~
+~
+0 -1 12027
+R M 0 12006 10 12028
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12029
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12034
+D1
+~
+~
+0 -1 12030
+D2
+~
+~
+0 -1 12024
+D3
+~
+~
+0 -1 12028
+S
+#12030
+Main Deck - Starboard~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12035
+D2
+~
+~
+0 -1 12025
+D3
+~
+~
+0 -1 12029
+S
+#12031
+Main Deck - Port~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12036
+D1
+~
+~
+0 -1 12032
+D2
+~
+~
+0 -1 12026
+S
+#12032
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12037
+D1
+~
+~
+0 -1 12033
+D2
+~
+~
+0 -1 12027
+D3
+~
+~
+0 -1 12031
+S
+#12033
+Base of the Mast~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.  There is a mast here which 
+you could climb up, but be careful not to fall!
+~
+1 0 1
+D0
+~
+~
+0 -1 12038
+D1
+~
+~
+0 -1 12034
+D2
+~
+~
+0 -1 12028
+D3
+~
+~
+0 -1 12032
+D4
+You look up the mast of the ship.  It seems very high and you get a 
+feeling of vertigo.
+~
+~
+0 -1 12078
+R O 0 12038 0 12033
+R M 0 12009 6 12033
+  R E 0 12019 0 11
+  R E 0 12038 0 17
+  R G 0 12040 0
+R M 0 12011 10 12033
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12034
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12039
+D1
+~
+~
+0 -1 12035
+D2
+~
+~
+0 -1 12029
+D3
+~
+~
+0 -1 12033
+R M 0 12008 5 12034
+  R E 0 12009 0 5
+  R E 0 12027 0 17
+S
+#12035
+Main Deck - Starboard~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12040
+D2
+~
+~
+0 -1 12030
+D3
+~
+~
+0 -1 12034
+S
+#12036
+Main Deck - Port~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12041
+D1
+~
+~
+0 -1 12037
+D2
+~
+~
+0 -1 12031
+R M 0 12006 10 12036
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+R M 0 12006 10 12036
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12037
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12042
+D1
+~
+~
+0 -1 12038
+D2
+~
+~
+0 -1 12032
+D3
+~
+~
+0 -1 12036
+R M 0 12006 10 12037
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+R M 0 12008 5 12037
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+  R E 0 12027 0 17
+S
+#12038
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12043
+D1
+~
+~
+0 -1 12039
+D2
+~
+~
+0 -1 12033
+D3
+~
+~
+0 -1 12037
+S
+#12039
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12044
+D1
+~
+~
+0 -1 12040
+D2
+~
+~
+0 -1 12034
+D3
+~
+~
+0 -1 12038
+R M 0 12011 10 12039
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+R M 0 12011 10 12039
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12040
+Main Deck - Starboard~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12045
+D2
+~
+~
+0 -1 12035
+D3
+~
+~
+0 -1 12039
+S
+#12041
+Main Deck - Port~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D1
+~
+~
+0 -1 12042
+D2
+~
+~
+0 -1 12036
+S
+#12042
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12046
+D1
+~
+~
+0 -1 12043
+D2
+~
+~
+0 -1 12037
+D3
+~
+~
+0 -1 12041
+R M 0 12011 10 12042
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12043
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12047
+D1
+~
+~
+0 -1 12044
+D2
+~
+~
+0 -1 12038
+D3
+~
+~
+0 -1 12042
+S
+#12044
+Main Deck~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D0
+~
+~
+0 -1 12048
+D1
+~
+~
+0 -1 12045
+D2
+~
+~
+0 -1 12039
+D3
+~
+~
+0 -1 12043
+S
+#12045
+Main Deck - Starboard~
+~
+You are aboard the Royal Eagle.  She is preparing to take off on the 
+next high tide.  The crew is busy disguising her for a pirate's raid 
+planned on a ship spotted off the coast.
+~
+1 0 1
+D2
+~
+~
+0 -1 12040
+D3
+~
+~
+0 -1 12044
+R M 0 12006 10 12045
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12046
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.
+~
+1 0 1
+D0
+~
+~
+0 -1 12049
+D1
+~
+~
+0 -1 12047
+D2
+~
+~
+0 -1 12042
+S
+#12047
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.  There is 
+a hatch on the floor here.  Sailors go up and down the hatch, it must 
+lead to their sleeping quarters.
+~
+1 0 1
+D0
+~
+~
+0 -1 12050
+D1
+~
+~
+0 -1 12048
+D2
+~
+~
+0 -1 12043
+D3
+~
+~
+0 -1 12046
+D5
+~
+hatch~
+33 12002 12053
+R M 0 12006 10 12047
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+S
+#12048
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.
+~
+1 0 1
+D0
+~
+~
+0 -1 12051
+D2
+~
+~
+0 -1 12044
+D3
+~
+~
+0 -1 12047
+R M 0 12008 5 12048
+  R E 0 12009 0 5
+  R E 0 12027 0 17
+S
+#12049
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.
+~
+1 0 1
+D1
+~
+~
+0 -1 12050
+D2
+~
+~
+0 -1 12046
+R M 0 12011 10 12049
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12050
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.
+~
+1 0 1
+D0
+~
+~
+0 -1 12052
+D1
+~
+~
+0 -1 12051
+D2
+~
+~
+0 -1 12047
+D3
+~
+~
+0 -1 12049
+R M 0 12009 6 12050
+  R E 0 12019 0 11
+  R G 0 12040 0
+S
+#12051
+Bow of the Royal Eagle~
+~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  
+She is preparing to set sale at next high tide.  The crew is swabbing 
+the deck and trimming the sails in preparation for departure.
+~
+1 0 1
+D2
+~
+~
+0 -1 12048
+D3
+~
+~
+0 -1 12050
+R M 0 12011 10 12051
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+S
+#12052
+Tip of the Royal Eagle~
+~
+You are aboard the Royal Eagle which is ready to set sail soon.  You are
+standing at the tip of the ship.  From here you could look forward and
+see the vast South Seas.  As you look back, you see all the crew of the 
+ship busy at work.  The only exit is south of course.
+~
+1 0 1
+D2
+~
+~
+0 -1 12050
+R M 0 12006 10 12052
+  R E 0 12002 0 17
+  R E 0 12006 0 1
+  R G 0 12011 0
+R M 0 12006 10 12052
+  R E 0 12006 0 1
+  R E 0 12011 0 6
+R M 0 12011 10 12052
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+R M 0 12011 10 12052
+  R E 0 12044 0 16
+  R E 0 12009 0 5
+E
+blood sea~
+The sea is so vast, it covers the expanse of the horizon from east to 
+west. The water in the sea is deep blue in color.  
+~
+S
+#12053
+Stairs to the Main Deck~
+~
+You are below deck of the Royal Eagle.  It is poorly lighted down here.
+There is a hallway to the south and you also smell an odor from the 
+south. You could exit to the main deck through the hatch from here.
+~
+1 1 0
+D2
+~
+~
+0 -1 12054
+D4
+You see the main deck of the Royal Eagle above you.
+~
+hatch~
+33 12002 12047
+R M 0 12010 6 12053
+  R E 0 12024 0 16
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12054
+Below Deck~
+~
+You are in a hallway below the deck of the ship.  The hallway goes
+north and south and is very poorly lighted.  There is a faint smell
+coming from the stern of the ship.
+~
+1 1 0
+D0
+~
+~
+0 -1 12053
+D2
+~
+~
+0 -1 12057
+R M 0 12010 6 12054
+  R E 0 12024 0 16
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12056
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.  You can exit 
+through the east door or continue on south.
+~
+1 1 0
+D1
+~
+door~
+33 12002 12057
+D2
+~
+~
+0 -1 12059
+S
+#12057
+An Intersection Below Deck~
+~
+You are in a hallway below deck of the ship.  There are doors leading
+east and west from here.  The hallway continues north and south.  A
+faint odor drifts to you from the southern part of the hallway.
+~
+1 1 0
+D0
+~
+~
+0 -1 12054
+D1
+~
+door~
+33 12002 12058
+D2
+~
+~
+0 -1 12060
+D3
+~
+door~
+33 12002 12056
+S
+#12058
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.  You can exit 
+through the west door or continue on south.
+~
+1 1 0
+D2
+~
+~
+0 -1 12061
+D3
+~
+door~
+33 12002 12057
+R M 0 12005 7 12058
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+S
+#12059
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.
+~
+1 1 0
+D0
+~
+~
+0 -1 12056
+D2
+~
+~
+0 -1 12062
+R M 0 12005 7 12059
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+S
+#12060
+Below Deck~
+~
+You are in a hallway below the deck of the ship.  The hallway goes
+north and south and is very poorly lighted.  There is a strong smell
+coming from the stern of the ship.
+~
+1 1 0
+D0
+~
+~
+0 -1 12057
+D2
+~
+~
+0 -1 12063
+R M 0 12010 6 12060
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12061
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  There are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.
+~
+1 1 0
+D0
+~
+~
+0 -1 12058
+D2
+~
+~
+0 -1 12064
+R M 0 12005 7 12061
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+R M 0 12005 7 12061
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+S
+#12062
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.  The store rooms 
+are south of here.
+~
+1 1 0
+D0
+~
+~
+0 -1 12059
+D2
+~
+~
+0 -1 12065
+R M 0 12005 7 12062
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+S
+#12063
+The Kitchen~
+~
+Wheww!  This was where that odor was coming from.  The rooms stinks of
+garlic, old meat and other foods which would make a beggar's face 
+green! You feel like throwing up due to the sway of the sea and the 
+rotten food here.  You can exit north.
+~
+1 1 0
+D0
+~
+~
+0 -1 12060
+R M 0 12003 1 12063
+  R E 0 12001 0 17
+  R E 0 12015 0 8
+  R E 0 12019 0 11
+  R E 0 12020 0 12
+R M 0 12013 5 12063
+S
+#12064
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.
+~
+1 1 0
+D0
+~
+~
+0 -1 12061
+D2
+~
+~
+0 -1 12067
+S
+#12065
+Storeroom~
+~
+This room is used for storing the various supplies needed for a long
+voyage.  There are barrels and crates of food and weapons piled up 
+in the room.  You can go north or east from here.
+~
+1 1 0
+D0
+~
+~
+0 -1 12062
+D1
+~
+~
+0 -1 12066
+R O 0 12042 0 12065
+R O 0 12027 0 12065
+R M 0 12013 5 12065
+S
+#12066
+Storeroom~
+~
+This room is used for storing the various supplies needed for a long
+voyage.  There are barrels and crates of food and weapons piled up
+in the room.  There are no exits except west.
+~
+1 1 0
+D3
+~
+~
+0 -1 12065
+R O 0 12042 0 12066
+R O 0 12039 0 12066
+  R P 0 12040 3 12039
+  R P 0 12041 1 12039
+R M 0 12013 5 12066
+R M 0 12013 5 12066
+S
+#12067
+Sleeping Quarters~
+~
+You see bunkbeds lined againts the wall.  there are various items 
+scattered around the room.  The room is very dark.  Sailors come down 
+here to rest and get their sleep.  They are very grumpy if they miss 
+their naps so be very quiet in order not to wake them.  You can only 
+exit north.
+~
+1 1 0
+D0
+~
+~
+0 -1 12064
+R M 0 12005 7 12067
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+R M 0 12005 7 12067
+  R E 0 12009 0 5
+  R E 0 12014 0 7
+S
+#12068
+Below Deck - Port~
+~
+You are in a corridor below deck of the ship.  The hall is very poorly
+lighted.  The exits are east and there is a door to the south.
+~
+1 1 0
+D1
+~
+~
+0 -1 12069
+D2
+You see the door leading to the First Mate's quarters.
+~
+door~
+33 12003 12071
+R M 0 12013 5 12068
+S
+#12069
+Below Deck~
+~
+You are in a corridor below deck of the ship.  The hallway goes east 
+and west and is very poorly lighted.  There is a door to the south.
+~
+1 1 0
+D1
+~
+~
+0 -1 12070
+D2
+You see the door leading to the Captain's quarters.
+~
+door~
+33 12003 12072
+D3
+~
+~
+0 -1 12068
+D4
+~
+hatch~
+33 12001 12018
+S
+#12070
+Below Deck - Starboard~
+~
+You are in a corridor below deck of the ship.  The hall is very poorly
+lighted.  The exits are west and there is a door to the south.
+~
+1 1 0
+D2
+You see the door leading to the Navigator's quarters.
+~
+door~
+33 12003 12073
+D3
+~
+~
+0 -1 12069
+S
+#12071
+First Mate's Quarters~
+~
+This room is very messy.  There is a small table against the wall with a
+little lamp on it.  Clothing is scattered all over the floor and you see
+empty bottles of beer here and there.  Sheets on the bed are crumpled
+up as if they haven't been washed in decades.
+~
+1 1 0
+D0
+~
+door~
+33 12003 12068
+R M 0 12002 1 12071
+  R E 0 12008 0 3
+  R E 0 12021 0 14
+  R E 0 12017 0 9
+  R E 0 12023 0 16
+S
+#12072
+Captain's Quarters~
+~
+This is the Captain's room.  He seems to be very tidy for a pirate.  
+There are various articles of note in this room, most of which are 
+keepsakes from his other expeditions by the looks of it.  In the center 
+of the room is a small table, and you see his log on top of it.  The 
+Captain is rarely here. He must be outside commanding the crew, but if 
+he sees you in here, he will be VERY upset, so get out quick!
+~
+1 1 0
+D0
+~
+door~
+33 12003 12069
+R O 0 12004 0 12072
+  R P 0 12000 1 12004
+S
+#12073
+Navigator's Quarters~
+~
+This room is filled with maps from wall to wall.  There is a huge table 
+in center with a map showing the ocean currents and winds.  Navigation
+instruments have been laid all over the table.
+~
+1 1 0
+D0
+~
+~
+33 12003 12070
+R M 0 12001 1 12073
+  R E 0 12008 0 3
+  R E 0 12021 0 14
+  R E 0 12024 0 16
+  R E 0 12010 0 5
+S
+#12074
+Hidden Room~
+~
+You are in a small secret room covered with cobwebs.  It seems that no 
+one has been here in a LONG time.  The room is very cold and dark.  It 
+goes east of here and there is a door to the north.
+~
+1 1 0
+D0
+You see the main deck of the Royal Eagle.
+~
+door wall~
+33 12003 12017
+D1
+~
+~
+0 -1 12075
+S
+#12075
+Hidden Room~
+~
+You are in a small secret room covered with cobwebs.  It seems that no 
+one has been here in a LONG time.  The room is very cold and dark.  It 
+goes east and west.
+~
+1 1 0
+D1
+~
+~
+0 -1 12076
+D3
+~
+~
+0 -1 12074
+S
+#12076
+Treasure Room~
+~
+WOW!  Look at all the gold and jewelry chests here.  You could buy a
+kingdom with all these riches!  This must be the room where the Captain
+hides the pirate's plunder he has been accumulating over the years.
+You couldn't possibly carry out all this gold.  Too bad.
+~
+1 1 0
+D3
+~
+~
+0 -1 12075
+R O 0 12034 0 12076
+  R P 0 12035 1 12034
+  R P 0 12036 3 12034
+  R P 0 12037 2 12034
+  R P 0 12052 2 12034
+R M 0 12004 1 12076
+  R G 0 12026 0
+  R G 0 12030 0
+  R E 0 12031 0 28
+  R E 0 12051 0 16
+  R E 0 12032 0 8
+  R E 0 12033 0 1
+S
+#12077
+Out on the Mast~
+~
+You are hanging out on the mast of the Royal Eagle.  Literally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  You feel like Peter Pan for some strange reason.
+~
+1 0 5
+D1
+~
+~
+0 -1 12078
+S
+#12078
+The Mast~
+~
+You are climbing the mast of the Royal Eagle.  It is very windy up
+here so hang on tight!  You see all the little men scrambling around
+on the ship below.  You can go east or west, up or down.
+~
+1 0 5
+D1
+~
+~
+0 -1 12079
+D3
+~
+~
+0 -1 12077
+D4
+~
+~
+0 -1 12081
+D5
+~
+~
+0 -1 12033
+S
+#12079
+Out on the Mast~
+~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  You feel like Peter Pan for some strange reason.
+~
+1 0 5
+D3
+~
+~
+0 -1 12078
+R M 0 12009 6 12079
+  R E 0 12019 0 11
+  R G 0 12040 0
+S
+#12080
+Out on the Mast~
+~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  It is very high and windy up here, so don't
+look down if you have acrophobia.
+~
+1 0 5
+D1
+~
+~
+0 -1 12081
+R M 0 12009 6 12080
+  R E 0 12019 0 11
+  R E 0 12038 0 17
+  R G 0 12040 0
+S
+#12081
+The Mast~
+~
+You are climbing the mast of the Royal Eagle.  It is very windy up
+here so hang on tight!  You see all the little men scrambling around
+on the ship below.  As you look down, you loose your lunch, breakfast,
+and anything else that you ate.  It lands on a pirate below who must
+be furious now!  Ewwe!  You can go east or west, up or down.
+~
+1 0 5
+D1
+~
+~
+0 -1 12082
+D3
+~
+~
+0 -1 12080
+D4
+~
+~
+0 -1 12083
+D5
+~
+~
+0 -1 12078
+R M 0 12010 6 12081
+  R E 0 12024 0 16
+  R E 0 12021 0 14
+  R G 0 12036 0
+S
+#12082
+Out on the Mast~
+~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  It is very high and windy up here, so don't
+look down if you have acrophobia.
+~
+1 0 5
+D3
+~
+~
+0 -1 12081
+S
+#12083
+Crow's Nest~
+~
+You are at the highest point on the ship.  From here you can almost see
+Castle Square.  You see all the little dots scrambling around below you.
+This is where the lookout is posted.  Suddenly, the swaying of the ship
+and the height gets to you and you let loose your dinner.  Ewwe!
+~
+1 0 5
+D5
+You get dizzy and can't help but throw up again!
+~
+~
+0 -1 12081
+R O 0 12028 0 12083
+R M 0 12014 1 12083
+  R G 0 12029 0
+S
+#12084
+Seashells Galore~
+~
+This remote shop located by the seashore, sells trinkets made from 
+everything immaginable.  The walls are stacked with shelves and shelves 
+of multi-colored potions and wands.  A traveller can find all the things 
+he needs for any journeys he may plan.  Try out the delicious seafood 
+they serve here!
+~
+1 8 0
+D1
+~
+~
+0 -1 12004
+R M 0 12015 1 12084
+  R G 0 12040 0
+  R G 0 12043 0
+  R G 0 12045 0
+  R G 0 12046 0
+  R G 0 12047 0
+  R G 0 12048 0
+  R G 0 12049 0
+  R G 0 12050 0
+S
+#12099
+On the Ship "Black Diamond"~
+~
+On the ship "Black Diamond", you can speak with the Captain about booking 
+passage to the various harbors, towns, and port cities across the realm.  On 
+occasion, he can also take you to exotic locations, just don't expect him to 
+stick around to bring you back.  
+~
+1 8 0
+D3
+~
+~
+0 0 12000
+R M 0 12099 1 12099
+S
+#0
+
+
+#SHOPS
+ 12015    2  3  8  9 19   120  80         0 23    ; she
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

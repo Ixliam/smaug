@@ -1,0 +1,109 @@
+#AREA        A Small Fort~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#12891
+A Small Fort~
+~
+~
+1 33554440 0
+D0
+~
+~
+0 0 12892
+S
+#12892
+Walkway~
+~
+This area is pretty empty..dirt on the floor and a few metal carts are left 
+around. 
+~
+1 33554432 0
+D2
+~
+~
+0 0 12891
+D3
+~
+~
+0 0 12893
+S
+#12893
+A room~
+~
+This room looks like it'd be filled with armor, there's a few racks around 
+collecting a bit of dust. 
+~
+1 33554432 0
+D0
+~
+~
+0 0 12894
+D1
+~
+~
+0 0 12892
+S
+#12894
+A room~
+~
+Just another room.  
+~
+1 33554432 0
+D2
+~
+~
+0 0 12893
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

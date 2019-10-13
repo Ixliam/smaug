@@ -1,0 +1,435 @@
+#AREA        DEITY ZONE - IMM SPECIAL MOBS~
+
+
+
+#VERSION     11
+#AUTHOR      kyarra~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#80451
+seandac~
+a stern looking man~
+A stern looking man is here.
+~
+This man here obviously holds some power, as he carries his sword in hand, 
+and a grim expression on his face.  He has a trimmed black beard, with 
+piercing blue eyes, that never seem to shift from your gaze. 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80452
+harpan~
+harpan~
+A sickly pale woman surrounded in shadows
+~
+This woman before you is quite sick looking.  She's very skinny under her 
+robes, you can tell.  Her hair is all mattled and knotted with bits of dry 
+blood.  Her face and hands, all that are seen, is pale.  Her eyes are two 
+red orbs if seen. 
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+600 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80453
+jivanor~
+a `#`gs`yt`Si`Yn`yk`gy `Ss`Wm`Xel`Wl`gy`^ lich~
+A `#`gs`yt`Si`Yn`yk`gy `Ss`Wm`Xel`Wl`gy`^ rotting `#`WT`XH`Wi`XN`Wg`^ of a person is here.
+~
+This luscious being of a man is the man of your dreams, Ohhh he's so seksay! 
+Wait, Noo.. it's the woman of your dreams! All dressed in white leather and 
+see through silks... Waiiit a minute.. EWW You've been fawning over a stinky 
+dead thing!!! Girl..? Yes. wait.. Boy?? yeah.. wait... You find yourself 
+confusing yourself.. 
+~
+0
+Clanname none~
+0
+0
+65 32 -600 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80454
+dorenne~
+a graceful woman in her middle age~
+A graceful woman in her middle age stands here.
+~
+Should his eyes be open, and his hair visible, one could easily see that 
+this young man is a malkatar. His golden locks are both thick and lustrous, 
+reaching down to his shoulders. His eyes, when seen, are a deep green, 
+almost the colour of malachite. His face is certainly strong, with high 
+cheekbones, and a slightly jutting chin. Should he smile, two small dimples 
+appear, lighting his face. His body is as any other malkatarian's. He is 
+broad shouldered and well-muscled, and even in his apparent youth, he does 
+seem to be battle hardened. There are several small scars on his hands, 
+arms, and face, some more visible than others. 
+~
+0
+Clanname none~
+0
+0
+65 4096 600 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80455
+dorenne~
+a withered old hag~
+A graceful looking woman stands here before you.
+~
+A matronly woman glows with an inner light here.
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80456
+jivanor~
+a `#`Sd`ri`Rabolic`ra`Sl`^ demon man~
+A `#`Sd`ri`Rabolic`ra`Sl`^ demon man stands here with `#`YGlowing Eyes`^.
+~
+Awwww... so cute!! Fluffy white feathers and all!! Such an adorable little 
+face! She looks just like a cute chubby little baby with fluffy feathered 
+wings! Wait.. this is an Demon man.. A slim, darkening man seems to Glare at 
+you in an intimidating fashion. He's rather tall. Dark and tall. He's 
+slender with spindly fingers and a clean-shaven face. his black hair is 
+slicked back and held by a small ponytail. She's got Large leathery wings 
+and a sexy looking tail.. wait.. She..? 
+~
+0
+Clanname none~
+0
+0
+65 524288 600 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#80457
+dorenne~
+the `#`GG`go`Ydd`ges`Gs `gD`Go`Yr`ye`Yn`Gn`ge`^~
+A young huntress stands here with eerie eyes.
+~
+A lean, lithe huntress is here. Her hair is very long covered with bits of 
+leaves here and there. Her eyes gleam with the mysteries of nature.. they 
+Glare at you and your at a loss at what to do.. fearful of her wrath. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#80451
+mask~
+a mask made from the flesh of a seandacian paladin~
+A mask lies here, waiting to be restrung~
+~
+9 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80452
+seandac sword~
+the `#`sSword`^ of the `#`sLeveller`^~
+A divine sword litters the ground.~
+~
+5 256 4
+30 3 41 272 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80453
+seandac shield~
+the `#`wShield`^ of `wPowerlust`^~
+A divine shield has been left here~
+~
+9 0 8
+300 300 300 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80454
+vial unearthly power~
+`#a vial of `wU`snearthl`wy `CP`cowe`Cr`^~
+A vial of power is here.~
+~
+10 2 8
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80455
+venalena robes~
+a set of `#`ms`Mof`mt`^ robes~
+A set of robes lies here~
+~
+9 0 8
+60 60 400 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80456
+quicksilver orb~
+a quicksilver orb~
+A quicksilver orb floats here.~
+~
+5 0 4
+20 3 19 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80457
+pill newbie goodness~
+a `#`Wpill`^ of `bn`Be`bw`Bb`bi`Be `yg`Yo`Wo`wdn`We`Ys`ys`^~
+A `#`Wpill`^ of `bn`Be`bw`Bb`bi`Be `yg`Yo`Wo`wdn`We`Ys`ys`^ litters the floor?!?~
+~
+26 2 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80458
+brew pain~
+a `#`mB`Mr`me`Mw`^ of `rP`Ru`rr`Re`r P`Ra`ri`Rn`^~
+A brew that screams has been left here.~
+~
+10 16 8
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80459
+fortifying infusion~
+a `#`cF`go`Gr`Ct`wif`Cy`Gi`gn`cg`^ `YInfusion`^~
+A `#`cF`go`Gr`Ct`wif`Cy`Gi`gn`cg`^ `YInfusion`^ has been left here~
+~
+10 2 8
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80460
+crystalline soulscream~
+`#`ca crystalline shield named "`CSoulscream`c"`^~
+`#`ca crystalline shield named "`CSoulscream`c"`^~
+~
+9 2 8
+23 20 15 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80461
+scroll celestial rain~
+a scroll of celestial rain~
+A scroll of celestial rain rests here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#80462
+chameleon mark~
+the `#`gmark`^ of the `?c`?h`?a`?m`?`?e`?le`?o`?n`^~
+A colorshifting mark has been left here.~
+~
+9 256 8
+15 15 12 0 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#80463
+wavering cloak mirage cloth~
+a `#`?w`?a`?v`?e`?r`?i`?n`?g`^ piece of cloth~
+A wavering piece of cloth litters the floor.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#80451
+Start of DEITY ZONE~
+~
+80451-80475 are your vnums, Kyarra. :P Thanks, Mahi. :) 
+~
+1 4 0
+R M 0 64437 1 80451
+R M 0 80451 1 80451
+  R E 0 80455 0 12
+R M 0 80453 1 80451
+R M 0 80452 1 80451
+R M 0 80456 1 80451
+R M 0 80457 1 80451
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

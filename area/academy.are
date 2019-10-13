@@ -1,0 +1,846 @@
+#AREA        Academy Clan Hall~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#20170
+void black dragon academy~
+`#`sVoid the Black Dragon`^~
+`#`sVoid `wthe `sBlack Dragon `wis here.`^
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+90 10 -60 9d12+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20171
+theahtyn healer~
+theahtyn the Healer~
+Theahtyn stands ready to assist the scholars of the Academy.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+51 0 0 1d1+10000 0d0+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20172
+trainer~
+the trainer~
+There is a trainer walking around, ready to improve your combat skills
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#20173
+academy clerk~
+the clerk~
+The Clerk of the Academy stands ready to assist you. 
+~
+The clerk has flowing black hair and pale peach skin.  She is buxom and 
+stern looking.  
+~
+0
+Clanname none~
+0
+0
+3 32 200 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#20170
+leathery black dragon skin pants~
+`#`yLeathery `sBlack Dragon Skin `yPants`^~
+Some leather pants lie here.~
+~
+9 16 8
+20 17 20 0 0 0 0
+1 1616 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20177
+flaming axe~
+`#`Ra `slarge `Rf`rl`Ra`rm`Ri`rn`Rg `sa`wx`se`^~
+A large flaming red axe lies here.~
+~
+5 2 4
+4 89 118 1 0 0 0
+1 1255 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20179
+enchantment lesson tome~
+a recourse on item enchantment~
+A thick tome lies atop a carved marble stand here.~
+~
+13 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+20179 lacing ~
+There is an incantation which is practiced by both the daring and the 
+foolish. Useable upon certain types of armor and upon weapons as well, the 
+spell "`#`CChaoslace`^" can be either a boon or bane. Completely chaotic in 
+nature, this spell has a chance of bestowing an item with a wide variety of 
+bonuses or penalties, all of which are permanant. It is a good idea to 
+attempt this spell as the first enchantment upon an item, as it can turn 
+your masterwork into a complete disaster! Only one attempt at this spell can 
+be made for a given item, so be prepared to seek out a replacement if you 
+create something worthless. 
+~
+E
+20179 glazing ~
+An item which is wearable about your body is able to be enchanted so that it 
+provides an increase to your mana reserves. This technique is known as 
+"`#`CMithril Glaze`^," or glazing for short. Something crafted from mithril must 
+be held in your hand before you attempt the casting of this spell, as the 
+magic uses the essence of the mithril and transfers it to the target item. 
+The effects of this spell are permanant and may be attempted multiple times 
+as to provide a greater boost to your mana. Be warned! Exhausting is putting 
+it lightly, as casting this spell will drain you completely! Be prepared to 
+quickly eat and drink before you colapse from the effort required to 
+complete this incantation. 
+~
+E
+20179 instill~
+Enchanting armors to make the wearer more resistant to damage is done using 
+the "`#`CEnchant Armor`^" spell. This may be applied to a peice of armor multiple 
+times, but each attempt brings with it the chance of destroying the target. 
+The infused magics will fade over time unless made permanant using the 
+"`#`CPermanance`^" spell. 
+~
+E
+20179 bonding armor~
+This section deals with armor and the spells you can use to modify them. 
+Examine the individual sections to study the specific topic. Topics are 
+"`#`CInstill`^," "`#`CGlazing`^," "`#`CLacing`^," and "`#`CPermanance`^." 
+~
+E
+20179 permanance ~
+Enchanting weapons and armor is one feat, but making the affects last is 
+where the true skill lies. An enchanted armor shall not loose armor bonuses 
+if "`#`CPermanance`^" is used upon it sucessfully. Using the "`#`CBlade Permanance`^" 
+spell upon a weapon will cause any and all enchantments you have bestowed 
+upon it permanant. It is noted that there is a higher chance of sucess if 
+"`#`CBlade Permanance`^" is used following each individual enchantment. Also, the 
+"`#`CPermanance`^" spell may be used upon a weapon as well, but this will only 
+affect the hitting and damage bonuses given to said weapon. A final warning, 
+the use of either spell will tax you completely! Be prepared to quickly eat 
+and drink before the magical exhaustion comes upon you, for you will not be 
+able to wake up once it has. 
+~
+E
+20179 vorpal ~
+"`#`CRunic Blade`^" is a difficult incantation to perform. If sucessful, the edge 
+of any bladed weapon will be magically honed to the point where it can deal 
+far more damage than it normally could. Powerfull weapons are crafted using 
+this in conjunction with other enchantments, but will not work on a weapon 
+already under the affects of a "`#`CRune Edge`^" spell. The blade will dull over 
+time unless you apply "`#`CBlade Permanance`^" afterwards. 
+~
+E
+20179 sharp ~
+The spell known as "`#`CRune Edge`^" magically alters the edge on a bladed weapon, 
+giving it the ability to deal a little more damage than it otherwise would. 
+Combine this with other enchantments to a devastating effect! Be aware that 
+this will not work on weapons which have no edge to sharpen, nor will it 
+work with weapons affected by the "`#`CRunic Blade`^" spell. The magic will wear 
+off unless "`#`CBlade Permanance`^" is used afterwards. 
+~
+E
+20179 vampiric ~
+The spell "`#`CDrain Weapon`^" grants your weapon the ability to suck the very 
+lifeforce from your opponent, causing even more damage then they already 
+shall receive. This is used nicely in conjucntion with other enchantments, 
+but there are certain limits as to what can be enchanted, rule out using 
+this on any Holy weapons. The draining effect will dissipate after a time 
+unless you follow up with a "`#`CBlade Permanance`^" spell. 
+~
+E
+20179 shocking ~
+The "`#`CEmpower Weapon`^" spell creates a magical charge upon a weapon which will 
+jolt your target with each hit you land upon them. This enchantment is 
+easily combined with both flaming and frosted weapons. The electrical charge 
+fades after a time unless you use "`#`CBlade Permanance`^" upon the weapon 
+afterwards. 
+~
+E
+20179 freezing ~
+The "`#`CFrost Weapon`^" spell is what to use when you want your weapon to become 
+encased in a magical ice which will freeze your opponent. Certain weapons 
+will be unaffected by this spell, namely any which is already magically set 
+aflame. This enchantment wears off over time unless "`#`CBlade Permanance`^" is 
+used afterwards. 
+~
+E
+20179 flamming ~
+The "`#`CFlame Weapon`^" spell will imbue your held weapon with a magical flame. 
+There are some limitations as to which types of weapons can be enchanted by 
+this spell, and weapons already imbued with frost cannot will not be 
+affected at all. This enchantment wears off after a given period of time 
+unless "`#`CBlade Permanance`^" is used afterwards. 
+~
+E
+20179 enchanting ~
+To enchant a weapon means to effectively increase its chances of hitting an 
+opponent as well as adding a greater capacity to deal damage. Firstly, you 
+must hold the desired weapon in your hand, then you simply cast "`#`CEnchant 
+Weapon`^" upon it. Multiple attempts will improve the results, but there is a 
+limit to the number of enchantments any given weapon can withstand before 
+being destroyed. These enchantments will wear off after a certain period of 
+time unless "`#`CPermanace`^" or "`#`CBlade Permanance`^" is used. 
+~
+E
+20179 infusing weapons~
+This section covers the various ways a magi might enchant a weapon. Any 
+skillful wizard or sorceress shall find these techniques both useful and 
+profitable. Just examine the section that you wish to study further. The 
+sections are labeled "`#`CEnchanting`^," "`#`CFlamming`^," "`#`CFreezing`^," "`#`CShocking`^," 
+"`#`CVampiric`^," "`#`CSharp`^," "`#`CVorpal`^," "`#`CLacing`^," and lastly "`#`CPermanance`^." 
+~
+E
+20179 thick enchantment lesson tome~
+This tome deals with the enchanting of weapons and armor for those who wish 
+to better thier skills at the task. It begins by covering weapons in a 
+section entitled "`#`CInfusing Weapons`^," then goes on to cover armor in "`#`CBonding 
+Armor`^." Examine the appropriate section you wish to study. 
+~
+E
+20179 carved marble stand~
+This intricately carved stand is fashioned from a highly glossed, solid slab 
+of black marble. It holds quite a thick book which is open. 
+~
+#20180
+piltrim's history book ~
+The tale of `#`sPiltram Golbar`^~
+A book titled "The tale of `#`sPiltram Golbar`^" lies on a shelf here.~
+~
+7 16 4
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+20180 piltram ~
+-The History of Piltram the Grey- Thus begins a tale of a struggle between 
+powers unseen and the restraints of mortality.  Deep within the bowels of 
+the world, the race of Duergar flourish in thier eternal gloom.  Magic and 
+thievery run thick within these recluse dwarves, and it is better for the 
+above-world that most Duergar are content to live all thier days never 
+setting foot into the sunlight.  But, as with all races, there are 
+exceptions to the norm.  One such Duergar was a sickly specimen named 
+Piltram.  Born to the house of Golbar, Piltram was feared for dead upon 
+birth.  Only through a herbal poultice concocted by one of the dark dwarf 
+shamans, a baby Piltram was revived to life deep in the Underdark.  Many of
+the house of Golbar believed that this sick leper should have been allowed to 
+die, that his existance was a futile attempt to stave-off the will of the 
+Gods.  Despite his physical shortcommings, and his families ridicule, 
+Piltram remained focused upon one task.  His ability to work magic.  Upon 
+reaching his adolescence, Piltram realized that he could not obtain his full 
+potential by grounding himself in the quagmire of his home and family, and 
+left to explore a place which held the answers to all of his dreams.  The 
+above-world, the world of light AND dark.  A place where magic was more open 
+and distributed, unlike the power-mongers who had reared him in his youth.  
+A place that would come to respect and fear the powers which he would 
+obtain.  Throtyl was Piltram's first stop in the above-world, and he found 
+refuge with the many duergar who had inhabited the town.  He managed to 
+scrape together some gold by performing simple cantrips to entertain the 
+drunken masses which seemed to endlessly flow in and out of the city.  Then 
+one day, while in the middle of levitating a few small knives in the air, an 
+idea dawned upon Piltram.  He realized he could use his powers of the mind 
+for more than just simple side-show antics, that he could force the ether 
+into physical attacks and defenses.  Upon this, many of the inhabitants of 
+the above-world began to tread in fear of Piltram, for his wrath was 
+unbiased and absolute.  His search for power had been rooted, and now it 
+began to grow in an astounding rate.  Consumed by his desire for power, 
+Piltram dealth death to any who would further him towards his goal.  It was 
+about this time that he also began to construct magical objects which the 
+common folk could purchase for great costs.  Not only was his magical 
+ability increasing, his coffers began to overflow into a bottomless pit of 
+wealth.  None dared to dip thier hands into his wealth and steal a little 
+for themselves, no one would so willfully ask for the mage's wrath.  It was 
+within this blanket of confidence and pride that Piltram's undoing drew 
+nigh.  Driven by his encounter with a being called the Ancient One, Piltram 
+re-established the long lost Order of the Ancient Magi, and ushered forth 
+the fall of the Conclave.  He paid for the Ancient One's pact with his own 
+lifeforce, trading his physical strength to exponentially expand his mental 
+capacity.  Many new ideas rushed into his mind.  For a short time he became 
+overwhelmed by this, and chose to secret himself away within the new tower 
+of the Order.  And only the gods know what ideas poured through his head 
+durring this time.  Alas, only one idea was to be played out to the last.  
+He had been contemplating the nature of the magical ether, the location from 
+whence it came, and he instantly knew what must be done!  If he could turn 
+himself into the ether, it would be much easier to channel into magic, or so 
+he assumed.  From this point on, Piltram obsessed himself on transcending 
+the walking world of mortality.  After much research and with the counsel of 
+the Ancient One, Piltram attempted to step from this plane into the plane of 
+ether.  Just as he finished chanting the last of words of the days-long 
+incantation, an unexpected shift in the planes occured.  It seems as though 
+another, more powerfull mage called Fistandantalus, was attempting to open a 
+rift in the ether.  With the failure of this attempt, the planes of 
+existance buckled and tore.  Instead of Piltram entering the ethereal plane, 
+as was his objective, many ghastly beings appeared before him.  These 
+powerfull aparitions of another reality utterly destroyed Piltram's physical 
+body, and left it broken within the halls of the Ancient Order.  But, 
+perhaps, as was Piltram's quest, his spirit succeeded in crossing over into 
+the ether.  Perhaps.......  
+~
+E
+20180 tale ~
+-The History of Piltram the Grey- Thus begins a tale of a struggle between 
+powers unseen and the restraints of mortality.  Deep within the bowels of 
+the world, the race of Duergar flourish in thier eternal gloom.  Magic and 
+thievery run thick within these recluse dwarves, and it is better for the 
+above-world that most Duergar are content to live all thier days never 
+setting foot into the sunlight.  But, as with all races, there are 
+exceptions to the norm.  One such Duergar was a sickly specimen named 
+Piltram.  Born to the house of Golbar, Piltram was feared for dead upon 
+birth.  Only through a herbal poultice concocted by one of the dark dwarf 
+shamans, a baby Piltram was revived to life deep in the Underdark.  Many of
+the house of Golbar believed that this sick leper should have been allowed to 
+die, that his existance was a futile attempt to stave-off the will of the 
+Gods.  Despite his physical shortcommings, and his families ridicule, 
+Piltram remained focused upon one task.  His ability to work magic.  Upon 
+reaching his adolescence, Piltram realized that he could not obtain his full 
+potential by grounding himself in the quagmire of his home and family, and 
+left to explore a place which held the answers to all of his dreams.  The 
+above-world, the world of light AND dark.  A place where magic was more open 
+and distributed, unlike the power-mongers who had reared him in his youth.  
+A place that would come to respect and fear the powers which he would 
+obtain.  Throtyl was Piltram's first stop in the above-world, and he found 
+refuge with the many duergar who had inhabited the town.  He managed to 
+scrape together some gold by performing simple cantrips to entertain the 
+drunken masses which seemed to endlessly flow in and out of the city.  Then 
+one day, while in the middle of levitating a few small knives in the air, an 
+idea dawned upon Piltram.  He realized he could use his powers of the mind 
+for more than just simple side-show antics, that he could force the ether 
+into physical attacks and defenses.  Upon this, many of the inhabitants of 
+the above-world began to tread in fear of Piltram, for his wrath was 
+unbiased and absolute.  His search for power had been rooted, and now it 
+began to grow in an astounding rate.  Consumed by his desire for power, 
+Piltram dealth death to any who would further him towards his goal.  It was 
+about this time that he also began to construct magical objects which the 
+common folk could purchase for great costs.  Not only was his magical 
+ability increasing, his coffers began to overflow into a bottomless pit of 
+wealth.  None dared to dip thier hands into his wealth and steal a little 
+for themselves, no one would so willfully ask for the mage's wrath.  It was 
+within this blanket of confidence and pride that Piltram's undoing drew 
+nigh.  Driven by his encounter with a being called the Ancient One, Piltram 
+re-established the long lost Order of the Ancient Magi, and ushered forth 
+the fall of the Conclave.  He paid for the Ancient One's pact with his own 
+lifeforce, trading his physical strength to exponentially expand his mental 
+capacity.  Many new ideas rushed into his mind.  For a short time he became 
+overwhelmed by this, and chose to secret himself away within the new tower 
+of the Order.  And only the gods know what ideas poured through his head 
+durring this time.  Alas, only one idea was to be played out to the last.  
+He had been contemplating the nature of the magical ether, the location from 
+whence it came, and he instantly knew what must be done!  If he could turn 
+himself into the ether, it would be much easier to channel into magic, or so 
+he assumed.  From this point on, Piltram obsessed himself on transcending 
+the walking world of mortality.  After much research and with the counsel of 
+the Ancient One, Piltram attempted to step from this plane into the plane of 
+ether.  Just as he finished chanting the last of words of the days-long 
+incantation, an unexpected shift in the planes occured.  It seems as though 
+another, more powerfull mage called Fistandantalus, was attempting to open a 
+rift in the ether.  With the failure of this attempt, the planes of 
+existance buckled and tore.  Instead of Piltram entering the ethereal plane, 
+as was his objective, many ghastly beings appeared before him.  These 
+powerfull aparitions of another reality utterly destroyed Piltram's physical 
+body, and left it broken within the halls of the Ancient Order.  But, 
+perhaps, as was Piltram's quest, his spirit succeeded in crossing over into 
+the ether.  Perhaps.......  
+~
+#20181
+pale bone breastplate~
+`#`wa pale `Wbone b`wr`We`wa`Ws`wt`Wp`wl`Wa`wt`We`^~
+A breastplate made out of bone is laying here.~
+~
+9 16 8
+50 50 18 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#20189
+Road sign~
+a road sign is here.  It shows that if you follow the road north you will end up at the Academy Scholars while if you go east you will find the Academy Training Grounds.~
+A road sign is here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#20170
+Grand Hall of the Aesthetics~
+~
+As you walk through the large archway you come into a large room that looks 
+to be the Grand Hall of the Academy.  The ceiling spirals up many feet above 
+you where it peaks into a cone that is made of pure stain glass.  Drawn upon 
+the wonderfully crafted glass are three humans, in the middle the neutral 
+Correlon, on either side of him are the good Cerebain, and the evil Zardoni. 
+ Stairs ascend and descend this room going to the many levels of the 
+academy.  
+~
+1 12 0
+D1
+~
+~
+0 0 20175
+D2
+~
+~
+0 0 20172
+D3
+~
+~
+0 0 20173
+D4
+~
+~
+0 0 20174
+D5
+~
+~
+1 0 20178
+R M 0 20103 1 20170
+S
+#20171
+~
+~
+~
+1 4 0
+S
+#20172
+Entrance to the Academy~
+~
+Before you towers the Grand Academy of Learning.  Made of every stone and 
+wood known to intelligent life the school towers many feet above your head.  
+No gates or troops of any kind guard this work of the gods for it is open 
+for all to come and learn.  The only entrance to the hall that you see is a 
+large archway ahead of you that adorns no door of protection.  
+~
+1 12 0
+D0
+~
+~
+0 0 20170
+D2
+~
+~
+0 0 20189
+R M 0 20120 20 20172
+R O 0 20101 0 20172
+R O 0 20106 0 20172
+S
+#20173
+Wisdom of Life~
+~
+The walls here are made of Dwarven crafted stone which upon them are printed 
+ancient writings which look as if they come from as far back as the Age of 
+Star Birth.  The floor is blanketed with a velvet carpet covered with deep 
+browns and soft greens.  Adorned on one wall lies a massive book case where 
+brown backed books gather dust under the dim light coming from the three 
+moons.  Archways lead north and east from here.  
+~
+1 12 0
+D0
+~
+~
+1 0 20185
+D1
+~
+~
+0 0 20170
+D2
+~
+~
+1 0 20184
+R O 0 20179 0 20173
+S
+#20174
+Second floor of the Academy~
+~
+After ascending the light of stairs you have reached the second floor of
+the academy.  To either side of you high archways lead into different rooms.
+A large window at the top of the stairs over looks a vast almost endless
+forest.  The smell of fresh picked flowers comes from the room right of you
+while sweet music is playing to your left.  All of the sudden you feel a
+great warmth inside of your body that brings a smile to your face.  
+~
+1 12 0
+D1
+~
+~
+0 0 20177
+D3
+~
+~
+0 0 20176
+D5
+~
+~
+0 0 20170
+S
+#20175
+History of the Realm~
+~
+You now stand in the room dedicated to this history of WOTL..  The walls are 
+plain stone that looks fairly new.  The floor is covered with dust while 
+hanging form the ceiling are many freshly picked roses.  A single book rests 
+on a small wooden desk in the corner.  The book is brown and looks large 
+enough to crush a Kender.  You get a queer feeling that someone is watching 
+you, yet you see no signs of it anywhere.  An archway leading back to the 
+west seems to be the only exit.  
+~
+1 12 0
+D2
+~
+~
+1 0 20183
+D3
+~
+~
+0 0 20170
+S
+#20176
+Wing of Light~
+~
+After walking through the archway you find yourself in a very shiny room.
+Upon closer inspection you see that this room is made of pure platinum.  The
+room seems to be a plain square all over except for one area on the far wall
+where a very large wing comes out of the wall resting on the floor.  Behind
+it you see a small area with a window made of tarnished wood.  Here an old
+rocking chair rocks back in forth in a wind that never seems to die down
+sweeping in from the vast forests that lay beyond the academy.  
+~
+1 12 0
+D1
+~
+~
+0 0 20174
+S
+#20177
+Truth of The Realm~
+~
+As you walk through the archway you notice something odd about the room
+you stand in.  After a few seconds you realize finally that this room is
+completely white.  In all directions, except directly behind you where the
+door back to the hallways stands, the color white controls everything.  The
+room seems endless for you cannot see where it ends or even begins.  The
+only thing that seems normal and keeps your mind from losing its grip on
+reality is the soft sweet sound of music coming from all around you.  
+~
+1 12 0
+D3
+~
+~
+0 0 20174
+S
+#20178
+`DLower Levels`x of the `RAcademy`x~
+~
+As you slowly make your way to the lower level of the Academy you notice
+the air has become heavy and dark.  The beautifully crafted floor boards of
+the stair case suddenly turn to hard cold stone.  You can barely make out
+through the darkness a door leading east.  The aroma of death way into your
+nose causing you to snort.  The only light that makes it way down to this
+floor of the school is that of the candle light on the first level.  
+~
+1 8 0
+D1
+~
+~
+0 0 20180
+D3
+~
+~
+0 0 20179
+D4
+~
+~
+1 0 20170
+D5
+~
+~
+1 0 20186
+R O 0 20180 0 20178
+S
+#20179
+Lie of Life~
+~
+As you walk blind through the darkness you suddenly feel soft dirt under
+your feet.  Something catches your eye in a corner across this new found
+room.  Upon a second look you see that it is a candle that sits on a small
+little table covered in dust.  The smell of rotting flesh becomes stronger
+as you walk further into the room.  Strangely a slight mist of bitter
+tasting rain falls down upon you until your a covered in a thin coat of
+water.  The only thing you can see now is the candle flame ahead of you for
+behind you all signs of life are gone.  
+~
+1 12 0
+D1
+~
+~
+0 0 20178
+R M 0 20115 1 20179
+S
+#20180
+Evil of The Realm~
+~
+Walking through the darkness you suddenly find yourself in a large room. 
+Adorned upon the walls are long draping tapestries of various wonders.  The
+floor is blanketed with a soft velvet carpet that cushions a very
+beautifully crafted table that could hold twelve people.  A large throne
+rests upon the far wall made of a variety of different precious stones and
+fabrics.  The ceiling domes high over your head meeting at a large
+chandelier which lights the fabulous room.  A soft lovely music plays in the
+background that fills the room with a since of relaxation.  The only exit is
+the way you came in.  
+~
+1 12 0
+D3
+~
+~
+0 0 20178
+R M 0 20113 1 20180
+S
+#20183
+The Forger~
+~
+Walking south from the room of history you enter the mighty Reorxs forge.
+While it is used by the great forger it looks nothing like what a god of his
+power would want or have.  Walls made of twigs and hay stand barely around
+you while in the middle of the shack sits a sturdy forge and anvil.  The
+roof above you is constructed of a few skinny boards with some straw draped
+upon them.  Outside of an open window in the distance can be seen a very
+large oak tree, under the beautifully created branches of the tree sits a
+fat old dwarf carving on some wood with a slight smile on his face.  The
+only way out of the shack is the rickety old door in which you entered.  
+~
+1 12 0
+D0
+~
+~
+1 0 20175
+R M 0 20128 1 20183
+  R E 0 20177 0 16
+S
+#20184
+Wisdom of Nature~
+~
+Walking through the archway you start to hear the sounds of nature all 
+around.  All of the sudden plants, trees, and many different types of 
+animals appear around you.  In the distance ahead of you a large oak chair 
+sits in a clearing.  Many vines and different types of plant have taken over 
+of the well crafted chair making it seem very ancient and eerie.  The only 
+exit lies to the north.  
+~
+1 12 0
+D0
+~
+~
+1 0 20173
+R M 0 20108 1 20184
+  R E 0 20181 0 5
+S
+#20185
+Wisdom of Fire~
+~
+You find youself suddenly on the surface of the sun.  You are startled 
+momentarily then you realize that you feel no extreme heat or any change in 
+temperature at all.  Overlooking the entire solar system you see all the 
+other planets and moons all around you.  In the distance you see billions of 
+stars.  Looking over the vast area of the sun you see a few hundred feet 
+away a large throne incased in flame.  A sense of chaos overwhelms you as 
+you see countless bursts of fire leap from the face of the giant star you 
+stand on.  Behind you the archway back to the academy still stands.  
+~
+1 12 0
+D2
+~
+~
+1 0 20173
+S
+#20186
+A large cavern underneath the Academy.~
+~
+You are standing in a large open cavern.  The ceiling must be over a hundred 
+feet tall and the width at least twice as much.  The air in here is very 
+cold and there is much more wind than normal.  
+~
+1 8 0
+D4
+~
+~
+1 20186 20178
+S
+#20187
+Small Beach~
+~
+Walking through the doorway you suddenly arrive at a small beach with the
+Midgarrd river flowing right next to it.  Across the river and through a
+small path lies a few towers.  Behind you is heavy forest too thick to
+travel through.  
+~
+1 4 0
+S
+#20188
+Small Clearing~
+~
+You now stand on a small beach.  Behind you the river flows strong while
+in front of you all that can be seen is thick forest.  The line of threes
+and bushes is so tight that it would be impossible to pass.  The only exit
+is back toward the river.  
+~
+1 4 0
+S
+#20189
+Fork in the Road~
+~
+You now find yourself at a fork in the road.  The only exits are to the 
+south, north, and east, in all other directions the forest grows too thick 
+for you to even see through.  A sign is planted in front of you labeling the 
+two directions.  To the north can be seen tall white towers raising up above 
+the tree line.  While to the east a fort may be seen hiding slightly under 
+the tops of the trees.  You notice that here and there through the trees can 
+be seen a tall marble wall stand out, you then see that you are in the very 
+middle of the Academy surrounded by walls of stone and magic.  
+~
+1 12 0
+D0
+~
+~
+0 0 20172
+D1
+~
+~
+0 0 20100
+D2
+~
+~
+0 0 20106
+R M 0 20120 20 20189
+E
+sign~
+A road sign is here.  It shows that if you follow the road north you
+will end up at the Academy Scholars while if you go east you will find the
+Academy Training Grounds.  
+~
+S
+#0
+
+
+#SHOPS
+ 20173    0  0  0  0  0   100   0         0 23    ; the clerk
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

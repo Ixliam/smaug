@@ -1,0 +1,524 @@
+#AREA        Hall of Memories~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#11300
+book beginnings~
+the `YBook of Beginnings`x~
+`YThe Book of Beginnings`x is floating here.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11300 book ~
+`RWritten in 2003, so there has been alot of water under the bridge.`W
+
+In my freshman years of college in 1991 I was introduced to mudding, and in those years the Internet was just starting to pick up, but for the most part was still a text based world. I played in the mud Apocalypse II (which now is known as Apocalypse VI as of this writing). I leveled through 51 levels, and made Immortal. In those days, there was no hero class, you just made became an immortal. My PC’s name was Dalamar, a ranger, and I am still on that mud to this day. After a bit, I lost interest in mudding and went on to other things.
+
+Around 1998 my wife (Delandria) and I decided to start mudding again, and we found a Dragonlance based MUD running under ROM 2.4b6. We both heroed there, but things were very nasty there. There were cheating immortals that jacked their PC’s up and intimidated players, player killing other players just to loot their corpse of gear, and numerous other problems. So, we decided to start our own mud. We invited Shang-Ti to join us, along with a few other players as Immortals. Thus was born The 4 Kingdoms, running Ghost MUD as its mud software in late 1999 I believe. I learned to code in C, mostly from just looking at it (I already programmed in Pascal and LISP) and working with it. The mud ran on a small Pentium III-350 out of my house. There was a good bit of flack as players often played on our mud rather than the Dragonlance one, mainly due to features that I added in. After a short while, I became an immortal for the Dragonlance MUD we were on originally, and in a short time became the Coder. Several features were brought from our mud to theirs, namely a colored score sheet, automated arena combat, and several immortal commands. For a bit, this worked out, though there were hard feeling on the part of some immortals who did not like the fact that I came in with a higher level than them. It was simply a power issue with them. In time I left due to an issue with no access their shell, and spent my time working on my own mud.
+
+The Dragonlance mud started to go downhill, as several immortals were fired for cheating, but stayed on as players to cause problems. After a few months, I was asked by the head of the mud to come back, as it was on a death spiral with no coders. I did on the condition that I be put in as an equal IMP. And so, I shutdown The 4 Kingdoms in order to spend my time coding there. But things really got bad there with several players. Players would consistently break rules because they thought they were stupid, only to be punished. When the punishment ended, they would come back and do it again. Many players left because of a small handful of troublemakers.
+
+It was then I found the DOT codebase. It looked exactly like what we had been looking for in regards to a codebase. It was roleplay oriented, with lots of nice features. Code wise it is VERY organized, making my job as the coder very easy. Now I just needed to convince the other immortals that it was nice too. So, I set it up locally and had them login to look, and they were impressed. For several weeks while the main mud went straight to downhill, we worked importing the old areas into this codebase. We told the players changes were coming, then one weekend we shut the old one down, and brought the new one up. Of course, this did not allow any of the characters to hold onto their old PC’s. Everyone started off fresh. Some players stayed, some did not. Many players left flaming notes with plenty of foul language at what had been done, and I was forced to site ban many of them. One in particular tried to get people to logon and leave hundreds of nasty notes, and through the handling of them and other cheating players is where I earned my reputation as a ‘cheater buster’. This was a very hard time for all of us, and even I, at one point, stressed out beyond belief, told a player that to watch as I showed him who had the power. Then I hit the off button in the mud PC.
+
+We came back after some time off, and also meeting Shang-Ti on another DOT mud. We brought the mud back, decided we were not going to put ourselves in such a stressful situation like that again. We decided that even if we only had 5-10 players, those 5-10 folks would have the best possible mud they could have, and that we would be very hard on those problem players, so that our player base would consist of nice, friendly people. We slowly grew, until one day the Blood Moon (BM) people came on. Blood Moon was another mud that had issues, and the immortals just let it go. One BM player came on, they told their friends, and suddenly there were several of them on. Many of them became immortals, and several still play here today.
+
+It was at this point the mud changed from a Dragonlance mud to a more generic fantasy world. We decided amongst the players and the immortals to rename the mud,and redo the world. The immortals took new names, and the world was remade. Aplayer ended up naming the mud, and thus was born Whispers of Times Lost. We have come through a lot of hard times over the years, but we are still here. My wife and I love the players here, we love making this mud a fun place to come for everyone. We comehere to have a good time, and to meet with our friends. We want to keep it that way, as the everyday world is what we have to live it, but for fun we should be able to come here to get away from it, our home away from home. And I hope you will stay here and enjoy it with us.
+
+~
+#11301
+tome immortals~
+the `RTome of Immortals`x~
+`RThe Tome of Immortals`x floats in the air here, surrounded by small flames.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11301 tome ~
+`YHere list the Immortals, Past and Present of the Realm`X
+ 
+`RIxliam `W- Head administrator, coder, builder, and real life husband of Delandria.
+ 
+`RDelandria`W - Co-head of the mud, wife of Ixliam, builder, and prime person to deal with our players. Enjoys all the RP aspect of the game and just hang out on here.
+ 
+`CEchmoro `W- One of our old imms from the early days from Canada. Just vanished and we never knew what happened to him.
+ 
+`CKyarra `W- One of our favorite and most active players who rolled right into an imm role. Played here for years and we still keep in touch with her, she's family to us.
+ 
+`CMahinae/Neena `W- Another of our long term players that became an imm. During the peak of the mud, she was a great builder and dealt with alot of our players.
+ 
+`CArdayne `W- Built Abaddon along with Rashka. Hope he is doing well`x
+ 
+`CRashka `W- Built Abaddon with Ardayne. She's doing well serving with the military now.`x
+ 
+`CNakasha `W- Another builder of areas. 
+ 
+`CZinlana `W-Helped us out right towards the end. Wife of one of our most famous Vampires.`x
+ 
+`CZaroth `W-Helped out with admin details and building.`x
+ 
+`CReathe - `W He was here.`x
+ 
+`CPohjola `W- Came over from the Dragonlance mud in the early days. Busy with real life and kids these days. Brother of Rudrik.
+ 
+`CRudrik `W- Brother of Pohjola. We still keep in touch after all these years.`x
+ 
+`YIf anyone is missing from this tome, please let Ixliam or Delandria know.`x
+ 
+`CBaridoc & Gemma `W- Immortals in the early days in 2004. But I can't recall much all these years later. Found them while digging around in an old copy of the mud.
+ 
+~
+#11302
+tomb strift~
+the tomb of strift merquise~
+A large tomb made of grey granite is here, with the name Strift Merquise carved on it.~
+~
+13 256 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11302 tombstone ~
+Rest In Peace Strift.`+
+
+ Strift was one of our long time players and like many people, they stopped 
+playing over time but kept in touch with a few of our other players. In 
+2016, we found out that he had passed away at, least to me, was a young age. 
+I don't know the circumstances, but he will be missed. He played for a long 
+time on here, and many players knew and loved him here. 
+~
+#11303
+leaghe~
+a spindly male malkatar~
+A statue of a spindly male malkatar, `#`RLord`^ Leaghe Selayre the Mayor of Tulgard, is here.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11303 leaghe ~
+Leaghe's father, Lygen, was a fisherman, plying his trade along the major 
+river near Palanthus.  His son learned a little of the craft as he was 
+growing up.  However, Lygen abandoned his family for reasons 
+incomprehensible to his son.  Leaghe and his mother, Stija, moved to the 
+city.  Stija was abruptly thrust from the role of housewife to family 
+breadwinner, and was not properly prepared for her altered circustances.  
+She started to take in mending (fishing nets at first, garments later) to 
+provide an income.  She and her son lived very close to poverty.  Leaghe was 
+often unsupervised as his mother worked, and he gradually fell in with some 
+other urchins in the city.  Forming a primitive gang, they harassed citizens 
+and caused mischief.  Things took a turn for the worse, though, when they 
+decided to experiment with burglary.  Caught red-handed, one of the 'gang' 
+was accidentally killed, others were injured.  The local authorities sent 
+some of the youths to a nearby orphanage.  Leaghe was sentenced to community 
+service - he walked well-travelled areas of the city and picked up the 
+trash.  Leaghe was only 13 years old.  Leaghe's mother, still quite 
+attractive and assumed to be a widow, attracted the attentions of a kindly 
+man named Anzon.  This man was knowledgable in the areas of history, herbs, 
+and philosophy, and had some minor magics at his disposal.  In paying suit 
+to Stija, he took a fatherly interest in Leaghe.  It became known that Stija 
+was not a widow, and the adults decided not to pursue an adulterous 
+relationship.  Still, Anzon had become quite fond of Leaghe, and undertook 
+to educate him and keep him out of trouble - something he did with some 
+measure of success.  Leaghe came to be ashamed of his brief foray into 
+crime, and seemed to take well to intellectual pursuits.  The genuinely kind 
+and helpful manner of his 'uncle' Anzon impressed him deeply.  Leaghe came 
+to understand as he grew older that his father had left his family for 
+another woman, something that filled him with disgust.  Further, while his 
+mother was only middle-aged, aches in her hands indicated that she would not 
+long be able to continue sewing for a living.  Leaghe resolved to choose an 
+honorable path to follow...  Both as employment, and his life course.  Once 
+firmly set on his course, Leaghe was invited to join the Knights of the Grey 
+Moon.  He accepted, since their principles seemed to mirror his own feelings 
+quite closely.  He embarked on a tempestuous romance with a certain short, 
+shady lady who belonged to a rival clan.  He also started a number of 
+building projects and campaigns to update and reform his native city of 
+Tulgard.  Upon the restoration of a ruined library, a minor noble title was 
+conferred upon Leaghe (to his embarrassment).  Shortly afterward, he married 
+Lady Imari, bringing their unusual courtship to a happy conclusion.  He also 
+advanced rapidly in the Knights of the Grey Moon, even being appointed as a 
+co-leader with Voronda.  A disagreement with a representative of the gods 
+brought disfavor upon Leaghe, though.  As a punishment, he was stripped of 
+almost all his practical knowledge and spells, with only his personal 
+memories left intact.  Leaghe felt grateful that they overlooked his most 
+precious possession, though: his relationship with the lovely Lady Imari.  
+Though Leaghe does his best to serve the gods well, in his heart he worships 
+his wife.  
+~
+#11304
+imari~
+a statue of a short, `#`bs`mhady`^ looking female malkatar~
+A short, `#`bs`mhady`^ looking female malkatar statue is here of `#`RLady`^ Imari Soyan.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11304 imari ~
+You see a small human, with the right frame of body for her size.  When her 
+eyes are open, they are a dark shade of blue which change from time to time. 
+ Next to her left eye, but closer to her temple, are three light blue stars, 
+forming a triangular configuration, each star a different size.  Her hair is 
+short, nearly shoulder length, and somewhat flipped in the back.  The hair 
+is pitch black with a single large streak of light blue on the front of her 
+head.  From where the streak began is a part that's more over to the left 
+side than straight in the middle, sometimes causing her hair to fall infront 
+of the right side of her face. 
+~
+#11305
+statue drow strift~
+a statue of strift merquise~
+A statue of a scrawny male drow with his eyes closed and head bowed is here, standing near the tomb.~
+~
+12 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11305 statue ~
+Before you is a statue of a drow male.  He has long `Wwhite`X hair and very `SDark`X 
+skin.  His body seems to be perfect, not one single scar, mark, blemish or 
+imperfection upon it.  He looks almost eerie and rather scrawny.  His eyes 
+if they are open seem to have an odd `CIce `BBlue`X tint to them.  He stand about 
+5'9" and only seems to weigh around 110 lbs.   
+~
+#11306
+luhka~
+drowish lady pale silver braids luhka~
+A statue of a drowish lady crowned with pale silver braids, `#`mLuhka`^~
+~
+12 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11307
+myne~
+feylar snowwhite snow white fur~
+A statue of a male feylar with `#`Wsnow white`^ fur, `#`mMyne`^~
+~
+13 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+11307 snow ~
+Before you is a rather noble looking male feylar.  The snow white fur that 
+covers his whole body is silky to the touch, and glimmors in the sun light.  
+His snout is rather short, and his nose is pointy.  His eyes are large and 
+when open you can see the token neon green "cat's eye" shimmer in the light. 
+ Two fairly large and pointy cats ears extrude from the sides of his head, 
+the left with a small bite taken out of it.  His light teal shade of hair is 
+of a medium length, and comes down in spikes.  His shoulders are thin, and 
+are rather slender looking.  His long semi-muscular arms lead to his large 
+pitch black claws.  His tails hangs out behind him on display, it being long 
+and skinny, all snow white fur except for the tip where there is a tuff of 
+bright neon green fur.  His legs are rather cat like, long and agile.  His 
+feet being larger and more paw like, with pitch black claws there as well.  
+~
+E
+11307 feylar ~
+Before you is a rather noble looking male feylar.  The snow white fur that 
+covers his whole body is silky to the touch, and glimmors in the sun light.  
+His snout is rather short, and his nose is pointy.  His eyes are large and 
+when open you can see the token neon green "cat's eye" shimmer in the light. 
+ Two fairly large and pointy cats ears extrude from the sides of his head, 
+the left with a small bite taken out of it.  His light teal shade of hair is 
+of a medium length, and comes down in spikes.  His shoulders are thin, and 
+are rather slender looking.  His long semi-muscular arms lead to his large 
+pitch black claws.  His tails hangs out behind him on display, it being long 
+and skinny, all snow white fur except for the tip where there is a tuff of 
+bright neon green fur.  His legs are rather cat like, long and agile.  His 
+feet being larger and more paw like, with pitch black claws there as well.  
+~
+#11308
+roalyn~
+slim dainty half-elven roalyn~
+A statue of a slim, dainty half-elven woman, `#`rRoalyn`^~
+~
+13 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11309
+galaphile~
+tall male half-elf long silvery hair~
+A statue of a tall male half-elf with long silvery hair, `#`SGalaphile`^~
+~
+12 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#11310
+mishka~
+white feylar black markings~
+A statue of a `#`Wwhite`^ male feylar with `sblack `wm`sa`wr`sk`wi`sn`wg`ss, `#`MMishka`^~
+~
+12 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#11300
+Hall of Remembrance Entrance~
+~
+White marble stairs lead up from below to a large marble building. The 
+walkway is  flanked by round stone columns lining the walkway, and small 
+monuments dedicated to the actions of the heroes and heroines of the realm 
+can be found. To the north lies the Hall of Remembrance along with the 
+Library of Legends, where ancient stories of the past can be found along 
+with dedications to the fallen. 
+~
+1 168297480 0
+D0
+~
+~
+0 0 11301
+D5
+~
+~
+0 0 3000
+S
+#11301
+Hall of Remembrance~
+~
+You find yourself in a large lobby area constructed of the finest white 
+marble, that glows with an almost holy light. An exit lies to the south, and 
+various rooms lie in other directions out of this room. 
+~
+1 171967496 0
+D0
+~
+~
+0 0 11303
+D1
+~
+~
+0 0 11302
+D2
+~
+~
+0 0 11300
+D3
+~
+~
+0 0 11304
+R O 0 11300 0 11301
+R O 0 11301 0 11301
+S
+#11302
+Strift Memorial Garden~
+~
+A lovely green lawn is here, with rows of flowers of all varieties lining 
+the outside edges. A feeling of peace fills your soul, but also one of 
+sadness. A single tombstone stands in the center of the garden. 
+~
+1 168297484 2
+D3
+~
+~
+0 0 11301
+R O 0 11302 0 11302
+R O 0 11305 0 11302
+S
+#11303
+Hall of Heros~
+~
+You find yourself in a room constructed of the finest white marble, that 
+glows with an almost holy light. This room filled with dedications and 
+statues to the legends that formed the world we know today. May their 
+stories of bravery inspire you on your future journies in our realm. 
+~
+1 171967496 0
+D2
+~
+~
+0 0 11301
+D3
+~
+~
+0 0 11305
+R O 0 11303 0 11303
+R O 0 11304 0 11303
+S
+#11304
+Hall of Remembrance~
+~
+You find yourself in a room constructed of the finest white marble, that 
+glows with an almost holy light. This room filled with dedications and 
+statues to the legends that formed the world we know today. May their 
+stories of bravery inspire you on your future journies in our realm. 
+~
+1 171967496 0
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11301
+S
+#11305
+Hall of Remembrance~
+~
+You find yourself in a room constructed of the finest white marble, that 
+glows with an almost holy light. This room filled with dedications and 
+statues to the legends that formed the world we know today. May their 
+stories of bravery inspire you on your future journies in our realm. 
+~
+1 171967496 0
+D0
+~
+~
+0 0 11306
+D1
+~
+~
+0 0 11303
+D2
+~
+~
+0 0 11304
+R O 0 11306 0 11305
+R O 0 11307 0 11305
+R O 0 11308 0 11305
+R O 0 11310 0 11305
+R O 0 11309 0 11305
+S
+#11306
+Hall of Remembrance~
+~
+You find yourself in a room constructed of the finest white marble, that 
+glows with an almost holy light. This room filled with dedications and 
+statues to the legends that formed the world we know today. May their 
+stories of bravery inspire you on your future journies in our realm. 
+~
+1 171967496 0
+D2
+~
+~
+0 0 11305
+S
+#0
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

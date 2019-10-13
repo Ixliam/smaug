@@ -52,10 +52,13 @@
  */
 #include <stdio.h>
 #include <string.h>
-#include "mud.h"
-#include "mapper.h"
+#include "h/mud.h"
+#include "h/mapper.h"
+
+
 
 bool check_blind( CHAR_DATA * ch );
+int colorcode(const char *src, char *dst, DESCRIPTOR_DATA *d, int dstlen, int *vislen);
 
 /* The map itself */
 MAP_TYPE dmap[MAPX + 1][MAPY + 1];
@@ -162,8 +165,6 @@ char *get_exits( CHAR_DATA * ch )
                mudstrlcat( buf, "->(Window)", MAX_STRING_LENGTH );
             if( IS_SET( pexit->exit_info, EX_HIDDEN ) )
                mudstrlcat( buf, "->(Hidden)", MAX_STRING_LENGTH );
-            if( xIS_SET( pexit->to_room->room_flags, ROOM_DEATH ) )
-               mudstrlcat( buf, "->(Deathtrap)", MAX_STRING_LENGTH );
          }
       }
       else
@@ -180,8 +181,6 @@ char *get_exits( CHAR_DATA * ch )
 
             if( IS_SET( pexit->exit_info, EX_CLOSED ) )
                mudstrlcat( buf, "->(Closed)", MAX_STRING_LENGTH );
-            if( IS_AFFECTED( ch, AFF_DETECTTRAPS ) && xIS_SET( pexit->to_room->room_flags, ROOM_DEATH ) )
-               mudstrlcat( buf, "->(Deathtrap)", MAX_STRING_LENGTH );
          }
       }
    }
@@ -228,6 +227,8 @@ void clear_room( int x, int y )
    }
 }
 
+
+
 /* This function is recursive, ie it calls itself */
 void map_exits( CHAR_DATA * ch, ROOM_INDEX_DATA * pRoom, int x, int y, int depth )
 {
@@ -244,42 +245,76 @@ void map_exits( CHAR_DATA * ch, ROOM_INDEX_DATA * pRoom, int x, int y, int depth
    switch ( pRoom->sector_type )
    {
       case SECT_INSIDE:
+	case SECT_PORTALSTONE:
          dmap[x][y].tegn = 'O';
          dmap[x][y].sector = -1;
          break;
 
-      case SECT_CITY:
+        case SECT_CITY:
+	case SECT_CAMPSITE:
+	case SECT_ROAD:
+	case SECT_AREA_ENT:
+	case SECT_UNDERGROUND:
+ 	case SECT_VROAD:
+ 	case SECT_HROAD:
          dmap[x][y].tegn = ':';
          break;
 
       case SECT_FIELD:
       case SECT_FOREST:
       case SECT_HILLS:
+      case SECT_VALLEY:
+  	case SECT_JUNGLE:
+	case SECT_GRASSLAND:
+	case SECT_CROSSROAD:
+	case SECT_THICKFOREST:
          dmap[x][y].tegn = '*';
          break;
 
-      case SECT_MOUNTAIN:
+	case SECT_ORE:
+      	case SECT_MOUNTAIN:
+      	case SECT_MOUNTAINPASS:
+  	case SECT_HIGHMOUNTAIN:
          dmap[x][y].tegn = '@';
          break;
 
       case SECT_WATER_SWIM:
+      case SECT_OCEAN:
+      case SECT_OCEANFLOOR:
+	case SECT_WATERFALL:
+	case SECT_RIVER:
+	case SECT_LAKE:
+      case SECT_UNDERWATER:
       case SECT_WATER_NOSWIM:
          dmap[x][y].tegn = '=';
          break;
 
       case SECT_AIR:
+      case SECT_SKY:
+	case SECT_LAVA:
+      case SECT_CLOUD:
+	case SECT_DEEPMUD:
+	case SECT_QUICKSAND:
          dmap[x][y].tegn = '~';
          break;
 
+      case SECT_BEACH:
+	case SECT_FOG:
+	case SECT_NOCHANGE:
+ 	case SECT_SNOW:
+  	case SECT_MAX:
       case SECT_DESERT:
+      case SECT_PASTURELAND:
+	case SECT_SWAMP:
+	case SECT_ARCTIC:
+	case SECT_DOCK:
          dmap[x][y].tegn = '+';
          break;
 
       default:
          dmap[x][y].tegn = 'O';
          dmap[x][y].sector = -1;
-         bug( "%s: Bad sector type (%d) in room %d.", __func__, pRoom->sector_type, pRoom->vnum );
-         break;
+       break;
    }
 
    dmap[x][y].vnum = pRoom->vnum;
@@ -378,6 +413,7 @@ void map_exits( CHAR_DATA * ch, ROOM_INDEX_DATA * pRoom, int x, int y, int depth
       }
    }
 }
+
 
 /* Reformat room descriptions to exclude undesirable characters */
 void reformat_desc( char *desc )
@@ -565,6 +601,10 @@ void show_map( CHAR_DATA * ch, char *text )
 
       for( x = 0; x <= MAPX; ++x )
       {
+        int sect = dmap[x][y].sector;
+
+        if( sect < 0 )
+        {
          switch ( dmap[x][y].tegn )
          {
             case '-':
@@ -609,23 +649,25 @@ void show_map( CHAR_DATA * ch, char *text )
             default:   // Empty space
                snprintf( buf + strlen( buf ), ( MAX_STRING_LENGTH * 2 ) - strlen( buf ), "%c", dmap[x][y].tegn );
                break;
+           }
+         }
+         else
+         {
+            snprintf( buf + strlen( buf ), ( MAX_STRING_LENGTH * 2 ) - strlen( buf ), "%c", dmap[x][y].tegn );
          }
       }
       mudstrlcat( buf, "&z|&D ", MAX_STRING_LENGTH * 2 );
 
-      /*
-       * Add the text, if necessary 
-       */
       if( !alldesc )
       {
          pos = get_line( p, 63 );
          char col[10], c[2];
 
-         strcpy( c, whatColor( text, p ) );
-         if( c[0] == '\0' )
+       //  strcpy( c, whatColor( text, p ) ); //Bad crashing with buffer overflow here OCT 2017
+       //  if( c[0] == '\0' )
             mudstrlcpy( col, color_str( AT_RMDESC, ch ), 10 );
-         else
-            snprintf( col, 10, "%s", c );
+        // else
+        //    (snprintf)( col, 10, "%s", c );
 
          if( pos > 0 )
          {
@@ -643,6 +685,7 @@ void show_map( CHAR_DATA * ch, char *text )
       mudstrlcat( buf, "\r\n", MAX_STRING_LENGTH * 2 );
    }
 
+
    /*
     * Finish off map area 
     */
@@ -652,11 +695,11 @@ void show_map( CHAR_DATA * ch, char *text )
       char col[10], c[2];
       pos = get_line( p, 63 );
 
-      strcpy( c, whatColor( text, p ) );
-      if( c[0] == '\0' )
+ //     strcpy( c, whatColor( text, p ) ); //This crashes buffer overflow OCT 2017 
+ //     if( c[0] == '\0' )
          mudstrlcpy( col, color_str( AT_RMDESC, ch ), 10 );
-      else
-         snprintf( col, 10, "%s", c );
+//      else
+//         snprintf( col, 10, "%s", c );
 
       if( pos > 0 )
       {
@@ -687,11 +730,11 @@ void show_map( CHAR_DATA * ch, char *text )
           */
          pos = get_line( p, 78 );
 
-         strcpy( c, whatColor( text, p ) );
-         if( c[0] == '\0' )
-            mudstrlcpy( col, color_str( AT_RMDESC, ch ), 10 );
-         else
-            snprintf( col, 10, "%s", c );
+ //     strcpy( c, whatColor( text, p ) ); //This crashes buffer overflow OCT 2017 
+ //     if( c[0] == '\0' )
+         mudstrlcpy( col, color_str( AT_RMDESC, ch ), 10 );
+//      else
+//         snprintf( col, 10, "%s", c );
 
          if( pos > 0 )
          {

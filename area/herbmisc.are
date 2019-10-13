@@ -1,0 +1,100 @@
+#AREA        Herbs and Plants~
+
+
+
+#AUTHOR      majere~
+
+#RANGES
+1 90 1 90
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 6250000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#61000
+bloodroot herb~
+bloodroot herbs~
+A small patch of bloodroot is growing here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61001
+sage herb~
+sage leaves~
+Some dried leaves are lying here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61002
+thyme herb~
+thyme leaves~
+Some dried leaves are lying here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61003
+majoram herb~
+sprigs of majoram~
+Some green plant sprigs are here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61004
+basil herb~
+basil leaves~
+Some green plant sprigs are here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61005
+oregano leaves~
+oregano leaves~
+Some dried leaves are lying here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61006
+parsley green herb~
+green parsley~
+Some green plant sprigs are here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#61007
+herb nightshade belladonna wicked plant~
+some belladonna~
+A wicked plant is here.~
+~
+21 0 16
+0 0 0 0
+0 0 1
+#0
+
+#ROOMS
+#0
+
+#RESETS
+S
+
+#SHOPS
+0
+
+
+
+
+
+#$

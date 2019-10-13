@@ -1,0 +1,5011 @@
+#AREA        Gypsie Carnival~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#18100
+A pretty gypsy lady~
+a pretty young lady~
+A pretty young lady with hair the color of India ink waits for your order.
+~
+You see a pretty young gypsy lady here.  She waits patiently, her black eyes 
+twinkling as she hums quietly to herself.  She wears a bright red dress 
+which sets off her dark skin nicely.  Her hair is left uncovered in a long 
+braid down her back.  
+~
+0
+Clanname none~
+0
+0
+65 512 400 C
+120 121 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18101
+persuasive looking barker~
+a persuasive-looking barker~
+A persuasive-looking barker calls out his tempting phrases.
+~
+This barker is average looking and is congenial to the general public.  He 
+is somewhat handsome and though he is in shape, he is not overly muscular.  
+Just an average young man with a lot of charisma.  When a person shows 
+interest in his shpeel, he comes over to them and stands waiting 
+unobtrusively for the offer of money.  After the price has been met, the 
+barker gives the customer balls to throw at the target.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 20 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18102
+muscle-bound man~
+a muscle-bound man~
+A muscle-bound man lounges against a post looking bored.
+~
+You see a heavily muscled man in flared knickers and a short vest here.  He 
+is large, bald, and mean looking.  He is so tall that his head comes up to 
+the sign on the post he is leaning against.  Unless you give him reason to 
+notice you, he practically ignores your existence.  
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+120 0 -61 10d20+1020 10d11+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18103
+gnome gnomish toy man~
+a gnomish toyman~
+A gnomish toyman sits here working on a new toy.
+~
+This dark wrinkled old gnome has mischievous eyes deeply set into a kindly 
+face neatly framed with white hair.  He appears to enjoy his work and the 
+happiness and laughter his toys and gags bring to his customers.  As you 
+walk in he looks up from his task, eyes twinkling with amusement, and he 
+smiles at you encouragingly.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18104
+small dark child~
+a small dark child~
+A small child wanders aimlessly.
+~
+A small dark child wanders aimlessly.  Not appearing lost, most likely the 
+offspring of one of the gypsies.  
+~
+0
+Clanname none~
+0
+0
+129 32 0 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18105
+grand champeen~
+the "Grand Champeen"~
+The "Grand Champeen" stands here waiting for the bell to ring.
+~
+You see a tough looking fighter with bulging biceps.  There is something 
+definitely orcish about him though cant say exactly what it is as he has no 
+really tell-tale signs but it shows that he has some orc blood in him.  When 
+he sees you enter the ring he snorts and begins weaving from side to side 
+ready to knock your brains out.  Dare you accept this challenge after all?  
+~
+0
+Clanname none~
+0
+0
+65 512 -400 C
+63 1 -33 6d10+330 8d7+29
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18106
+grand keeper wiry man~
+the "Grand Keeper"~
+A wiry man with a cane stands here yelling and waving his cane with a flourish.
+~
+You see a thin wiry middle aged barker standing here gesticulating wildly 
+with his cane.  He has jet-black hair with a bit of grey at the temples and 
+sizes you up with bright black eyes.  He's wearing a white outfit with a 
+red-and-white striped vest.  A flat wide-brimmed straw hat with a 
+red-and-white striped band rests at a jaunty angle upon his head.  
+ 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18107
+madame pechoulii old gypsy woman fortune teller~
+madame Pechoulii~
+An old gypsy woman offers to tell your fortune.
+~
+This is a funny looking old gyspy lady.  She smiles often, which is 
+unfortunate since she has a few teeth missing.  Her hair is rich black and 
+drapes about her shoulders.  She has small dark-skinned hands and a slight 
+cackle to her laugh.  
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+99 0 -70 10d13+475 10d11+52
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18108
+frightened lost child crying~
+a lost, frightened child~
+A lost, frightened child is crying here.
+~
+A small seemingly well kept child in a sailor suit is here looking lost.  
+Some sticky sweets have left their mark all over its face and the child 
+clutches a stick that holds a sodden mass of goo most likely the remnants of 
+some faerie sugar.  
+~
+0
+Clanname none~
+0
+0
+129 0 600 C
+1 0 9 1d4+1 1d4+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18109
+rough-looking gypsy teenager~
+a rough looking gypsy teenager~
+A rough looking gypsy teenager stands here rolling his eyes.
+~
+A lanky dark-skinned teenage boy stands here manning the stall.  A long 
+pony-tail of fine black hair snakes down his back.  His clothes hang loosely 
+on him and you can tell he still has some filling out to do.  
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+129 0 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18110
+ticketseller ticket ticketman man~
+a ticketman~
+A ticketman sits here selling tickets
+~
+This dark skinned man has a thick crop of black hair which hangs almost to 
+his shoulders.  Dark eyes peer at the customers with indifference.  He seems 
+to have been in this job a long time as his hands seem a little stained from 
+the dye of the tickets he sells.  He speaks in a deep voice and sits here 
+wearily passing out tickets.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18111
+huge man~
+a huge sweaty man~
+A huge sweaty man is pulling on the ropes.
+~
+A huge man groans as he heaves and pulls the thick rope which turns this 
+wheel.  Sweat drips off his body and you can see his muscles are well 
+worked.  A bandanna keeps the hair off his face and he wears a thin singlet 
+to try and keep cool.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18112
+huge man~
+a huge sweaty man~
+A huge sweaty man is turning the handle.
+~
+This huge man lets out an occasional groan as he turns the sturdy handle 
+which operates this wheel.  Sweat drips off his body and you can see his 
+muscles are well worked.  A bandanna keeps the hair off his face and he 
+wears a thin singlet to try and keep cool.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18113
+scrawny man ticket collector~
+a scrawny man~
+A scrawny man stands here collecting tickets and grinning.
+~
+This scrawny, dark skinned man has a constant grin on his face.  He has dark 
+eyes overset by thick dark eyebrows.  His hair is slicked back and you 
+notice his thin fingers when he collects your ticket.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18114
+heavy set man carousel ticket collector~
+a heavy thick-set man collecting tickets for the carousel~
+A heavy thick-set man is here collecting tickets for the carousel.
+~
+A heavy thick-set man greets you as you enter.  He has a warm, friendly face 
+which makes him ideal for operating a children's ride.  When you hand him 
+your ticket you notice his nails are covered in grease.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18115
+old grey haired man~
+an old grey-haired man~
+An old grey-haired man takes your tickets for the gondola.
+~
+An elderly man stands here smiling.  Wispy grey hair frames his wrinkly face 
+and a set of tarnished teeth smile at you as you arrive.  He slouches 
+slightly and seems to enjoy operating this quieter ride as he watches the 
+gondolas float about with amusement in his eyes.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18116
+mob18116 sinister gypsy man~
+a sinister gypsy man~
+A sinister gypsy man beckons for you to enter.
+~
+A sinister looking gypsy man peers at you curiously as you arrive.  His face 
+seems even darker than the usual gypsy and his eyes are blacker than his 
+hair.  He slouches slightly as he beckons you inside.  
+~
+0
+Clanname none~
+0
+0
+129 512 200 C
+120 20 -66 10d20+999 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18117
+unshaven man~
+an unshaven dark-skinned man~
+An unshaven, dark-skinned man encourages you to play his stall game.
+~
+This tall dark-skinned man, looks unclean and unshaven.  In fact you even 
+notice a slight rancour coming from him as you enter the tent.  As soon as 
+he notices you his eyes light up and he tries every way he knows to get you 
+to play the game.  
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+120 0 -61 10d20+1020 10d11+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18118
+handsome young man~
+a handsome young man~
+A handsome young man stands here exchanging rings for tickets.
+~
+A handsome young man runs this stall.  He has a soft, somewhat charming 
+voice, which he uses to his advantage when coaxing you to play.  His dark 
+hair is slicked back off his face and his smile shows a mouth of bright 
+clean teeth.  You can't help but notice his beautiful shining eyes enticing 
+you to stay, for at least one game.  
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+120 0 -61 10d20+1020 10d11+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18119
+dark rat-faced man~
+a dark rat-faced man~
+A dark rat-faced man taunts you to play the game.
+~
+Two beady eyes and a goatee-covered pointy chin peer at you as you arrive.  
+This rat-faced man looks lean and mean.  His hands feel rough as you pass 
+him the ticket and his voice sounds coarse as he taunts you.  
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+120 0 -61 10d20+1020 10d11+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18120
+muscle-bound man~
+a muscle-bound man~
+A muscle-bound man stands here collecting tickets for the Hall of Mirrors
+~
+You see a heavily muscled man in flared knickers and a short vest here.  He 
+is large, bald, and mean looking.  He stands here scuffing his feet, waiting 
+for the next customer to volunteer for this ride.  
+~
+0
+Clanname none~
+0
+0
+65 32 -400 C
+120 0 -61 10d20+1020 10d11+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18121
+persuasive looking gypsy man~
+a persuasive-looking gypsy man~
+A persuasive looking gypsy man collects tickets for the House of Horrors.
+~
+This man is average looking and is congenial to the general public.  He is 
+somewhat handsome and though he is in shape, he is not overly muscular.  
+Just an average young man with a lot of charisma.  When he speaks he seems 
+very persuasive, which is a necessary quality when you operate a ride like 
+this one.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 20 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18122
+tall man~
+a tall dark-skinned man~
+A tall dark-skinned man smiles as he waits for your ticket.
+~
+A tall man stands here, smiling.  He has dark skin, like most gypsies and 
+his eyes twinkle with mischief.  His hair is trimmed short and his clothes 
+look clean.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 20 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18123
+brown horse~
+a brown horse~
+A brown horse stands here grazing.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+4 0 0 2d4+1 1d5+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18124
+pig~
+a pig~
+A pig is snuffling here.
+~
+This pig looks as ordinary as they come.  It has a snout, two eyes and a 
+curly tail.  
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+7 0 0 2d5+5 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18125
+cow black splotch~
+a white cow with black splotches~
+A white cow with black splotches stands here chewing its cud.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+10 0 0 3d8+8 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18126
+young gypsy girl~
+a young gypsy girl~
+A gyspy girl smiles as she collects tickets for this game.
+~
+A sweet looking face greets you as you enter this tent.  She has dark-olive 
+skin and dark brown eyes framed with long lashes.  She has a cheerful voice 
+and enjoys working at this stall.  
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+129 0 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18127
+young gypsy boy~
+a young gypsy boy~
+A young gypsy boy is pulling the ducks from the water as they get picked.
+~
+This young gypsy boy has a cheerful grin as he goes about his work.  He 
+looks very similar to the girl who works here, they are probably related.  
+He has dark-olive skin and his hair is hidden under a bandanna.  He smiles 
+with a bright set of teeth and has a happy laugh.  
+~
+0
+Clanname none~
+0
+0
+65 32 -200 C
+129 0 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18137
+door close~
+door close~
+Door close
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18138
+sliding stairs~
+stairs~
+Stairs trip
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18140
+swing bridge~
+swing bridge~
+Swing bridge
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18141
+lily pad~
+lily pad~
+Lily pad
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18142
+spooky stuff~
+spooky stuff~
+Spooky stuff
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18143
+hand grabbing~
+hand grab~
+Hand grab
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18144
+slime~
+slime~
+Slime
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18145
+IT~
+iT~
+IT
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18146
+trapdoor~
+trapdoor~
+Trapdoor
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18147
+spooks~
+spooks~
+Spooks
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18148
+spooks 2~
+spooks~
+Spooks
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18149
+whispers~
+whispers~
+Whispers
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18150
+gondola~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18151
+gondola1~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18152
+carousel music~
+carousel~
+Carousel music
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18153
+puppet show~
+puppet show~
+The Puppet Show
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18154
+freakshow~
+freaks and oddities~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18155
+gondola2~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18156
+gondola3~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18157
+gondola4~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 32 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18158
+gondola5~
+on the gondola~
+On the gondola
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18159
+freakshow1~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18160
+freakshow~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18161
+freakshow2~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18162
+freakshow3~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18163
+freakshow4~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18164
+freakshow5~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18165
+freakshow6~
+freakshow~
+Freakshow
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18166
+ferris wheel part1~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18167
+fwpart2~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18168
+fwpart3~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18169
+fwpart4~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18170
+fwpart5~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18171
+fwpart6~
+ferris wheel ride~
+On the ferris wheel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18172
+carousel part1~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18173
+carousel part 2~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18174
+carousel part 3~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18175
+carousel part 4~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18176
+carousel part 5~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18177
+carousel part 6~
+ferris wheel ride~
+On the carousel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18178
+circus~
+circus~
+At the circus
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18179
+ringmaster~
+a ringmaster~
+A ringmaster stands here welcoming the crowd.
+~
+The ringmaster stands here with a large grin on his face, announcing the 
+acts and encouraging the crowd to applaud.  He is a slim man with a slightly 
+pointy face, covered by a dark beard.  He wears a top hat and carries a 
+ringmasters stick.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+120 20 -67 10d20+1000 10d11+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18180
+windy tunnel~
+windy tunnel~
+Windy tunnel
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#18181
+slide~
+slide~
+Slide
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#18100
+stand bleachers~
+a stand of bleachers~
+Bleachers line the tent canvas in a broken ring.~
+~
+12 0 8
+10000 264484 100 100 0 0 0
+45 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18101
+faerie sugar~
+some `#`Mfaerie sugar`^ on a stick~
+Faerie sugar on a stick lies melting here.~
+~
+19 0 16
+15 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18101 faerie sugar stick~
+You see a fluffy pink substance on a stick.  It smells strangely warm and 
+sweet.  If you feel it, at first it would feel as it looks and smells--soft 
+and warm but after awhile it would melt in your hand, leaving a sticky 
+residue.  You would have to eat this treat quickly before it melted!  
+~
+#18102
+fizzy fruity mead~
+a cup of `#`Cfizzy `mfruity`^ mead~
+A paper cup is lying on its side spilling its contents.~
+~
+17 0 16
+4 30 0 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18102 fizzy fruit mead~
+This mead is different from what you are used to.  It is a blue-violet color and it fizzes and bubbles as if it were boiling though it is ice cold. It smells and tastes faintly of blueberries.
+~
+#18103
+a cone of flavored ice~
+a cone of `#`rflavoured`^ ice~
+A cone of `#`rflavoured`^ ice is melting all over the place.~
+~
+17 0 16
+4 24 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18103 a cone of flavored ice~
+This small paper cone holds a large scoop of shaved ice with red flavoring 
+poured liberally over it.  It's sweet cold and sticky.  If not eaten fast it 
+will melt all over making a horrible mess!  
+~
+#18104
+fiery hot barbecued dragon wings~
+some `#`Rfiery hot`^ barbecued dragon wings~
+Some `#`Rfiery hot`^ barbecued dragon wings are attracting flies here.~
+~
+19 0 16
+24 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18104 fiery hot barbecued dragon wings~
+This pair of dragon wings has been barbecued using a secret sauce.  They are 
+a bright red and smell spicy.  If you are adventurous enough, taste this 
+tongue shriveling delicacy.  
+~
+#18105
+mystik-tart tart~
+a `#`Rm`ry`Ys`Gt`gi`Bk`b-`Ct`ma`Mr`Rt`^~
+A `#`Rm`ry`Ys`Gt`gi`Bk`b-`Ct`ma`Mr`Rt`^ has been dropped here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+18105 tart mystik-tart~
+This rainbow-hued treat looks sweet and smells fruity.  
+~
+#18106
+small pink pill~
+a small pink pill~
+A small pink pill has been dropped here.~
+~
+26 1 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+18106 small pink pill~
+This is a small pink pill; whether it has any value or if it is just a sweet 
+is hard to tell.  
+~
+#18107
+grand champeen belt~
+`#the `YGrand Champeen's`^ belt`^~
+A gold belt with Grand Champeen engraved on it lies here.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18107 grand champeen belt~
+This is the belt many have tried to get from the "Grand Champeen".  Many 
+have tried but few can beat the great fighter.  It is pure gold with his 
+name engraved into it.  On the inside it says "congratulations you have 
+beaten the "Grand Champeen", give this belt to the "Grand Keeper" for your 
+reward!  
+~
+#18108
+gnarled wooden cane~
+a gnarled wooden cane~
+A gnarled wooden cane has been left here.~
+~
+5 0 4
+3 108 136 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18108 gnarled wooden cane~
+This cane looks as if it was a piece of drift-wood washed up from some 
+beach.  There are many lines and whorls in the grain as well as many 
+interesting bumps.  
+~
+#18109
+ring~
+the "Grand Champeen" Ring~
+A roped in fighter's ring is here.~
+~
+29 0 16
+1024 1 18183 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18109 grand champeen ring~
+A square mat is here with ropes all around where challengers face the "Grand 
+Champeen" (and usually get their brains knocked out).  Do you dare face him? 
+ Enter the ring.  Or maybe you just want to peek inside it.  
+~
+#18110
+chaotic-surge surge~
+a `#`Rchao`rti`Rc-sur`rge`^~
+A `#`Rchao`rti`Rc-sur`rge`^ lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+18110 chaotic-surge surge~
+Here is a small round sweet.  It's red and smells like cinnamon.  
+~
+#18111
+porcelain baby doll~
+a `#`Wporcelain`^ baby doll~
+A `#`Wporcelain`^ baby doll rests here with its eyes closed.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18111 porcelain baby doll~
+This is a clever piece of work for a doll.  When it is set down its glass 
+eyes shut.  Its porcelain head has been finely painted adding realism and it 
+also has porcelain arms and legs.  Its clothes are really a part of its 
+cloth body.  
+~
+#18112
+wooden cradle~
+a wooden doll cradle~
+A wooden doll cradle stands here.~
+~
+15 0 8
+0 0 1 1 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18112 wooden doll cradle~
+You see a wooden cradle obviously made out of wood since it is to small for 
+a real baby.  It has been made out of what appears to be waxed cherry wood; 
+it is a shiny dark reddish-brown.  Its little rockers allow a child to 
+really rock their "little one" to sleep.  
+~
+#18113
+small red ball~
+`#a small `Rred`^ ball`^~
+`#a small `Rred`^ ball lies here.`^~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18113 small red ball~
+This small red ball seems to be made from many layers of soft leather sewn 
+together.  A red dye has been used on the leather to give it its colour and 
+small white threading runs across the ball stitched together.  
+~
+#18114
+map ~
+a map~
+(no description)~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18114 map ~
+.                                         
+_________________________________________
+|                                       |
+|      N^             ________          |
+|   W<    >E         /ENTRANCE\         |
+|      Sv           /__________\        |
+|                    |__|  |__|         |
+|                    |  |  |  |         |
+|                    |__|  |__|         |
+|                    |  |  |  |         |
+|                    |__|  |__|         |
+|                    |  |  |  |         |
+|      ______________|__|  |__|__       |
+|     |  |  |  |  |  |        |  |      |
+|  \__|__|__|__|__|__|   __   |__|__    |
+|     |                 |  |     |  |   |
+|   __|______________   |__|   __|__|   |
+|  /  |  |  |  |  |  |        |  |      |
+|     |__|__|__|__|__|__    __|__|      |
+|                       |  |            |
+|                     __|  |__          |
+|                    |  |  |  |         |
+|                    |__|__|__|         |
+|                       |  |            |
+|                       |__|            |
+|_______________________________________|
+~
+#18115
+glowing skull~
+a glowing skull~
+A huge glowing skull is here.~
+~
+29 0 16
+0 32 18128 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18115 huge glowing skull~
+This huge glowing skull opens its sharp-toothed jaws wide as if bidding you 
+to enter.  Dare you enter this ghastly apparition of death?  
+~
+#18116
+pink love potion elixer charm person~
+a pink sweet smelling elixer~
+A pink sweet smelling elixer rests here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#18117
+bright green satin scarf~
+a `#`Gbright green`^ satin scarf~
+A `#`Gbright green`^ satin scarf lies here.~
+~
+9 64 8
+60 60 -7 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18118
+bright red satin blouse~
+a `#`Rbright red`^ satin blouse~
+A `#`Rbright red`^ satin blouse lies here.~
+~
+9 64 8
+60 60 -7 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18119
+a wooden marionette~
+a wooden marionette on strings~
+A wooden marionette is lying here getting its strings tangled.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18119 marionette ~
+You are looking at a hand-painted marionette with brightly colored clothes 
+that is attached to a wooden cross-piece by strings.  It's use is fairly 
+obvious, lifting one arm of the cross lifts one leg and vice versa while the 
+other two arms cause the head to nod or shake and the arms are attached to 
+another piece of wood which controls one arm at a time or both.  
+~
+#18120
+red carnival stall ticket~
+a `#`Rred`^ carnival stall ticket~
+A `#`Rred`^ carnival stall ticket has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18120 red carnival stall ticket~
+This small `#`Rred`^ ticket will let you play on any of the carnival stall games.
+~
+#18121
+yellow carnival ride ticket~
+a `#`Yyellow`^ carnival ride ticket~
+A `#`Yyellow`^ carnival ride ticket has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18121 yellow carnival ride ticket~
+This small `#`Yyellow`^ ticket will let you ride on any of the carnival rides.
+~
+E
+18121 ~
+This small `#`Rred`^ ticket will let you play on any of the carnival stall games.
+~
+#18122
+lucky charm~
+a lucky charm~
+Someone's lucky charm has been left here~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18122 lucky charm~
+This little charm is hanging on a thin leather string.
+~
+#18123
+small doll~
+a small doll~
+A small doll has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18124
+toy sword~
+a toy sword~
+A toy sword has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18125
+bright pink satin blouse~
+a `#`Mbright pink`^ satin blouse~
+A `#`Mbright pink`^ satin blouse lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18126
+bright green vest~
+a `#`Gbright green`^ vest~
+A `#`Gbright green`^ vest lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18127
+bright blue flowing skirt~
+a `#`Cbright blue`^ flowing skirt~
+A `#`Cbright blue`^ flowing skirt lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18128
+bright yellow flowing skirt~
+a `#`Ybright yellow`^ flowing skirt~
+A `#`Ybright yellow`^ flowing skirt lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18129
+bright blue vest~
+a `#`Cbright blue`^ vest~
+A `#`Cbright blue`^ vest lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18130
+bright red vest~
+a `#`Rbright red`^ vest~
+A `#`Rbright red`^ vest lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18131
+bright red pants~
+some `#`Rbright red`^ pants~
+Some `#`Rbright red`^ pants lie here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18132
+bright yellow pants~
+some `#`Ybright yellow`^ pants~
+Some `#`Ybright yellow`^ pants lie here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18133
+bright purple pants~
+some `#`mbright purple`^ pants~
+Some `#`mbright purple`^ pants lie here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18134
+long black cloak~
+a long black cloak~
+A long black cloak lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18135
+bright blue pants~
+some `#`Bbright blue`^ pants~
+Some `#`Bbright blue`^ pants lie here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18136
+singlet~
+a singlet~
+A singlet lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 240 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18137
+soft toy~
+a soft toy~
+A soft toy has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18137 soft toy~
+You small soft toy has been sewn together out of `#`Cc`Mo`Rl`Bo`Gu`Yr`re`Wd`^ patches of 
+material.  Two little beads have been attached for eyes and a little nose 
+shape and whiskers have been sewn on.  
+~
+#18138
+18138 token_mermaid_tank~
+token_mermaid_tank~
+Token_mermaid_tank~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18139
+18139 token_mermaid_tank_2_or_3_balls_flag~
+token_mermaid_tank_2_or_3_balls_flag~
+Token_mermaid_tank_2_or_3_balls_flag~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18140
+candy~
+a sweet candy~
+A sweet candy is melting here~
+~
+19 0 16
+0 0 0 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18140 candy ~
+This is a little round candy slightly pink in colour and it smells of raspberries. It is hard, and made of crystalised sugar.
+~
+#18141
+rotten apple~
+a rotten apple~
+A rotten apple is here rotting away~
+~
+19 0 16
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18142
+18142 token_evil_align_1~
+token_evil_align_1~
+Token_evil_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18143
+18143 token_good_align_1~
+token_good_align_1~
+Token_good_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18144
+18144 token_neutral_align_1~
+token_neutral_align_1~
+Token_neutral_align_1~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18145
+18145 token_evil_align_2a~
+token_evil_align_2a~
+Token_evil_align_2a~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18146
+18145 token_evil_align_2b~
+token_evil_align_2b~
+Token_evil_align_2b~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18147
+18145 token_evil_align_2c~
+token_evil_align_2c~
+Token_evil_align_2c~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18148
+18148 token_good_align_2a~
+token_good_align_2a~
+Token_good_align_2a~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18149
+18149 token_good_align_2b~
+token_good_align_2b~
+Token_good_align_2b~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18150
+18150 token_good_align_2c~
+token_good_align_2c~
+Token_good_align_2c~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18151
+18151 token_neutral_align_2a~
+token_neutral_align_2a~
+Token_neutral_align_2a~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18152
+18152 token_neutral_align_2b~
+token_neutral_align_2b~
+Token_neutral_align_2b~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18153
+18152 token_neutral_align_2c~
+token_neutral_align_2c~
+Token_neutral_align_2c~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18154
+colourful dress~
+a `#`?colourful`^ dress~
+A `#`?colourful`^ dress lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18155
+sailor suit~
+a little sailor suit~
+A little sailor suit lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18156
+sailor suit~
+a little sailor suit~
+A little sailor suit lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18157
+picnic tables~
+a picnic table~
+A picnic table is here~
+~
+12 0 8
+500 1168 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18158
+picnic tables~
+a picnic table~
+A picnic table is here~
+~
+12 0 8
+500 1168 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18159
+large mat~
+a large mat~
+A large mat covers the ground here~
+~
+12 0 8
+10000 1168 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18160
+wooden puppet stand~
+a wooden puppet stand~
+A wooden puppet stand is here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18160 puppet stand~
+This wooden stand has a hole at the top where two little puppets peer out 
+from.  Two tiny velvet curtains frame are tied on either side of the puppet 
+stage.  
+~
+#18161
+small wooden table~
+a small wooden table~
+A small wooden table stands here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18162
+a wooden chair~
+a wooden chair~
+A wooden chair stands here~
+~
+12 0 8
+100 144 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18163
+a wooden chair~
+a wooden chair~
+A wooden chair stands here~
+~
+12 0 8
+100 144 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18164
+crystal ball~
+a `#`Ccrystal`^ ball~
+A `#`Ccrystal`^ ball shines here~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18164 crystal ball~
+At first you see a plain ball made of `#`Ccrystal`^, but as soon as Madame 
+Pechoulli touches it, it seems to come to life.  Colours swirl and shift 
+within and a radiant glow surrounds it.  
+~
+#18165
+carousel~
+a carousel of dancing animals~
+A carousel of dancing animals turns slowly.~
+~
+13 2 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18166
+a ferris wheel~
+a ferris wheel~
+A ferris wheel moves in a circular motion rocking its seats back and forth.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18167
+litter~
+a piece of litter~
+A piece of litter blows about here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18168
+sliding stairs~
+sliding stairs~
+Sliding stairs flip and turn every so often.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18169
+bubbles~
+some `#`Rr`Ya`Gi`Bn`mb`Mo`Rw`^ coloured bubbles~
+Some `#`Rr`Ya`Gi`Bn`mb`Mo`Rw`^ coloured bubbles float about.~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18170
+sack~
+a sack~
+A sack lies here~
+~
+12 0 8
+200 16 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18171
+sack~
+a sack~
+A sack lies here~
+~
+12 0 8
+200 16 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18172
+banana boat~
+a `#`Ybanana`^ boat~
+A `#`Ybanana`^ boat rocks here gently.~
+~
+29 0 16
+4096 1 18155 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18173
+satin shorts~
+some `#`mburgandy`^ satin shorts~
+Some `#`mburgandy`^ satin shorts have been left here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18174
+puppet red hat marionette gnome~
+a marionette of a gnome in a `#`Rred`^ hat~
+A marionette of a gnome in a `#`Rred`^ hat performs here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18174 marionette red hat gnome~
+A big fat nose is the first thing you notice about this marionette.  It has 
+carved wooden cheeks painted a rosy red, and bright eyes, it looks to be a 
+gnome.  Strings are attached to its arms, feet and head.  
+~
+#18175
+puppet yellow hat marionette gnome~
+a marionette of a gnome in a `#`Yyellow`^ hat~
+A marionette of a gnome in a `#`Yyellow`^ hat performs here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18175 marionette yellow hat gnome~
+This little marionette looks like a little gnome on strings.  He has a 
+`#`Yyellow`^ hat and brightly coloured clothes.  Strings are attached to his 
+hands, feet, and head.  
+~
+#18176
+hard wooden seats~
+hard wooden seats~
+Hard wooden seats are here to sit on.~
+~
+12 0 8
+1000 144 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18177
+18177 token_gondola_ride~
+token_gondola_ride~
+Token_gondola_ride~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18178
+18178 token_freak_show~
+token_freak_show~
+Token_freak_show~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18179
+18179 token_fight_champeen~
+token_fight_champeen~
+Token_fight_champeen~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18180
+Swan-shaped gondolas~
+swan-shaped gondolas~
+Swan-shaped gondolas are tied to a jetty here.~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18181
+18191 token_freak_show_first_person_needs_fast_forwarding_by_prog_18191~
+token_freak_show_first_person_needs_fast_forwarding_by_prog_18191~
+Token_freak_show_first_person_needs_fast_forwarding_by_prog_18191~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18182
+black pants~
+some black pants~
+Some black pants lie here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18183
+black jacket~
+a black jacket~
+A black jacket lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 520 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18184
+ringmaster's stick~
+a ringmaster's stick~
+A ringmaster's stick has been left here~
+~
+13 0 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+18184 ringmaster stick~
+This long stick is black with two white tips on either end.
+~
+#18185
+bandanna~
+a `#`Rred`^ bandanna~
+A `#`Rred`^ bandanna lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#18186
+tophat~
+a tophat~
+A tophat lies here~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#18100
+Carnival Entrance~
+~
+As soon as you enter, you find yourself immersed in music, laughter, 
+screams, and the game vendors shouting for people to come play.  The warm 
+salty-sweet smell of carnival foods fills your nostrils as sawdust crunches 
+under your feet.  Excitement fills the air as you hold yourself back trying 
+to take it all in.  
+~
+1 0 1
+D0
+~
+~
+0 0 18196
+D2
+~
+~
+0 0 18101
+S
+#18101
+Walkway~
+~
+The walkway is covered in sawdust keeping the path somewhat dry and 
+providing a little more traction than the bare dirt would give.  To the west 
+is a concession stand that boasts foods you don't see every day.  Or you 
+could go east and buy tickets for the various attractions.  
+~
+1 0 1
+D0
+~
+~
+0 0 18100
+D1
+~
+~
+0 0 18103
+D2
+~
+~
+0 0 18104
+D3
+~
+~
+0 0 18102
+S
+#18102
+Food Stall~
+~
+You stand before a counter seeing people bustle busily behind it.  The smell 
+of exotic foods and sweets assail your nostrils making your mouth water and 
+your stomach growl.  There is a price list for you to choose from.  
+~
+1 0 0
+D1
+~
+~
+0 0 18101
+R M 0 18100 1 18102
+  R E 0 18125 0 5
+  R E 0 18127 0 7
+  R G 0 18101 0
+  R G 0 18102 0
+  R G 0 18103 0
+  R G 0 18104 0
+S
+#18103
+Ticket Booth~
+~
+Here stands a small booth that has a window enclosed with bars.  There is a 
+counter that juts from beneath the window leaving a small slot for passing 
+money and tickets through.  There is a `#`?sign`^ with price listings below the 
+window.  The ticket seller waits patiently while you read it.  
+~
+1 0 0
+D3
+~
+~
+0 0 18101
+R M 0 18110 1 18103
+  R G 0 18120 0
+  R G 0 18121 0
+  R E 0 18133 0 7
+  R E 0 18126 0 5
+E
+sign ~
+`G****************************************
+*                                      *
+*    `BBuy your carnival tickets here!   `G*
+*                                      *
+*    `Y1 gold `mcoin for a `Rstall `mticket    `G*
+*    `Y2 gold `mcoin for a `Yride `mticket     `G*
+*                                      *
+*      `BRIDES:   `MFerris Wheel           `G*
+*               `CCarousel               `G*
+*               `YGondola                `G*
+*               `WHall of Mirrors        `G*
+*               `RHouse of Horrors       `G*
+*               `mFun Haus               `G*
+*                                      *
+*    `W(children must be over 1m tall    `G*
+*          `Wto go on any rides)         `G*
+*                                      *
+****************************************
+~
+S
+#18104
+Walkway~
+~
+Sawdust and straw covers the walkway and collects in the corners of the 
+tents.  You hear an angelic voice singing a sweet lullaby that draws you 
+westwards while the tent to the east is pretty quiet except for the tolling 
+of a bell that sounds off every once in awhile.  
+~
+1 0 1
+D0
+~
+~
+0 0 18101
+D1
+~
+~
+0 0 18106
+D2
+~
+~
+0 0 18107
+D3
+~
+~
+0 0 18105
+S
+#18105
+Mermaid Tank~
+~
+In this open area, there is a cage with a mermaid on a swing.  Attached to 
+the cage is a bullseye target.  Below the cage is a large tub filled with 
+water.  A rope is tied around the cage to keep people from getting to close. 
+ 
+~
+1 0 0
+D1
+~
+~
+0 0 18104
+R M 0 18101 1 18105
+  R E 0 18131 0 7
+  R E 0 18129 0 5
+S
+#18106
+Hit the Bell~
+~
+In this small tent, there is a tall board with words painted on it at 
+various numbered intervals.  At the bottom of the board is a springboard 
+with a pellet on the end touching the board.  On the top is a bell.  Leaning 
+against the board is a big soft headed mallet.  There is a sign on a post to 
+one side.  
+~
+1 0 0
+D3
+~
+~
+0 0 18104
+R M 0 18102 1 18106
+  R E 0 18130 0 5
+  R E 0 18132 0 7
+E
+sign ~
+`Y*********************************
+*                               *
+*      `RTest your strength!      `Y*     
+*                               *
+*     `BHit the bell with the     `Y*
+*     `Bmallet to win a prize!    `Y*
+*                               *
+*********************************
+~
+S
+#18107
+Walkway~
+~
+The sound of children's sweet voices to the west contend with the harsh 
+voice of a gypsy barker to the east in trying to draw your attention.  
+Turning to the children's voices, you seem to hear the faint rippling of 
+water while to the east comes a loud popping noise from time to time.  
+~
+1 0 1
+D0
+~
+~
+0 0 18104
+D1
+~
+~
+0 0 18109
+D2
+~
+~
+0 0 18110
+D3
+~
+~
+0 0 18108
+R M 0 18108 1 18107
+  R E 0 18155 0 5
+  R E 0 18156 0 7
+S
+#18108
+Lucky Ducky~
+~
+There is a small table with a miniature forest set up here.  Somehow, a 
+small stream has been made to flow around the forest.  Floating in the 
+stream are brightly painted tiny wooden ducks.  Two gypsy youths, a boy and 
+a girl, stand on either side collecting tickets for a chance to pick a duck. 
+ There is a sign hanging above the model forest.  
+~
+1 0 0
+D1
+~
+~
+0 0 18107
+R M 0 18126 1 18108
+  R E 0 18125 0 5
+  R E 0 18128 0 7
+R M 0 18127 1 18108
+  R E 0 18131 0 7
+  R E 0 18126 0 5
+  R E 0 18185 0 6
+E
+sign ~
+`M********************************
+*                              *
+*       `BTry your luck!         `M*
+*                              *
+*   `BIf you can hook a duck     `M*
+*   `Bbefore the time is up      `M*
+*    `Byou'll get a prize!       `M*
+*                              *
+*    `W(be careful, there are    `M*
+*        `Wbooby prizes!)        `M*
+*                              *
+********************************
+~
+S
+#18109
+Dart Game~
+~
+In this covered booth, there is a large cork board that makes up the back 
+wall.  Attached all over the board are inflated rodent stomachs.  A dark 
+rat-faced man with a wide brimmed hat taunts you to step up to the counter 
+and try your luck, once in awhile attaching a stomach to the sign and 
+popping it with a thrown dart.  
+~
+1 0 0
+D3
+~
+~
+0 0 18107
+R M 0 18119 1 18109
+  R E 0 18129 0 5
+  R E 0 18132 0 7
+S
+#18110
+Walkway~
+~
+The walkway vibrates to the music and noise coming from near and far.  To 
+the east and west comes the sounds of tinkling and crashing as if one object 
+were being thrown against another.  Smells of smoke and exotic foods mingle 
+with everyday smells in a pleasant way.  To the not very distant south a 
+huge tent can be seen.  
+~
+1 0 1
+D0
+~
+~
+0 0 18107
+D1
+~
+~
+0 0 18112
+D2
+~
+~
+0 0 18113
+D3
+~
+~
+0 0 18111
+S
+#18111
+Ring Toss~
+~
+In the middle of this open tent, there is a square area bordered on all four 
+sides by a low wall.  On the inside of the square, a few feet back from the 
+wall, there are rows of bottles.  A handsome young man walks between the 
+wall and the bottles exchanging rings for tickets and making sure no-one 
+steps over the wall.  
+~
+1 0 0
+D1
+~
+~
+0 0 18110
+R M 0 18118 1 18111
+  R E 0 18130 0 5
+  R E 0 18133 0 7
+S
+#18112
+Milk Bottle Toss~
+~
+In the back of this booth like tent, a small shelf holds a few small groups 
+of milk bottles.  In each group, three are placed side by side with two more 
+balanced on top and one on the top of that, making a triangle.  The low 
+partition keeps people from getting closer than two feet to the bottles.  
+~
+1 0 0
+D3
+~
+~
+0 0 18110
+R M 0 18117 1 18112
+  R E 0 18132 0 7
+  R E 0 18126 0 5
+S
+#18113
+Walkway~
+~
+You are on the walkway circling the Big Top.  To the south is the northern 
+entrance.  To the north is a line of games.  Music and yells fill the air.  
+The smell of sweet and salty treats fill the air.  
+~
+1 0 1
+D0
+~
+~
+0 0 18110
+D1
+~
+~
+0 0 18114
+D2
+~
+~
+0 0 18117
+D3
+~
+~
+0 0 18133
+R M 0 18104 20 18113
+  R E 0 18154 0 5
+E
+south big top entrance~
+Two flaps have been tied back making the northern entrance to the Big Top.  
+~
+S
+#18114
+Walkway~
+~
+The walkway faces the entrance of a group of tents that have been put 
+together to form one U-shaped tent.  There are signs decorating the outside, 
+around the opening.  One sign has a green boy; another a big lady; one has a 
+tall man standing near a tiny lady; still another is two pictures painted of 
+the same man back to back, in one he is breathing out fire and in the other 
+he has his head tossed back with the handle of a sword coming out of his 
+mouth.  
+~
+1 0 1
+D1
+~
+~
+0 0 18115
+D2
+~
+~
+0 0 18116
+D3
+~
+~
+0 0 18113
+S
+#18115
+Freaks and Oddities~
+~
+A small tent stands here with a heavy curtain blocking the entrance way.  
+You can here gasps of astonishment and horror from inside the tent.  A 
+sinister man stands near the curtain beckoning to you to enter inside to see 
+creatures you never dreamed of seeing, not even in your worst nightmares.  
+Does your curiousity get the better of you?  
+~
+1 0 0
+D3
+~
+~
+0 0 18114
+R M 0 18116 1 18115
+  R E 0 18134 0 5
+  R E 0 18133 0 7
+S
+#18116
+Walkway~
+~
+You are on the walkway circling the Big Top.  To the west you see its 
+eastern exit.  To the distant east you see a square rug in front of some 
+kind of structure.  The buzz of voices is everywhere, punctuated by some 
+advertisement.  You smell a faint sweet fragrance in the air.  
+~
+1 0 1
+D0
+~
+~
+0 0 18114
+D1
+~
+~
+0 0 18118
+D2
+~
+~
+0 0 18120
+D3
+~
+~
+0 0 18117
+E
+'western big top entrance'~
+Two flaps have been tied back making the eastern entrance to the Big Top.  
+~
+S
+#18117
+Big Top~
+~
+This is a huge tent.  In the middle are three rings where circus shows are 
+performed.  Acts such as the trapeze and tight rope as well as clown and 
+animal acts are performed here.  Bleachers for sitting on to watch the show 
+line the tent all the way around the show area in a broken circle.  
+~
+1 0 1
+D0
+~
+~
+0 0 18113
+D1
+~
+~
+0 0 18116
+D2
+~
+~
+0 0 18121
+D3
+~
+~
+0 0 18131
+R O 0 18100 0 18117
+R O 0 18100 0 18117
+R M 0 18178 1 18117
+R M 0 18179 1 18117
+  R E 0 18182 0 7
+  R E 0 18183 0 5
+  R E 0 18184 0 17
+  R E 0 18186 0 6
+S
+#18118
+Walkway~
+~
+A small distance away to the east is a large box covered with tent canvas.  
+There is a large square of carpeting set before it for people to sit on 
+while they watch what goes on inside the box.  
+~
+1 0 1
+D1
+~
+~
+0 0 18119
+D3
+~
+~
+0 0 18116
+S
+#18119
+Puppet Show~
+~
+A large mat covers the ground, and the people sitting here are peering up at 
+a large wooden box draped with tenting canvas.  Two velvet curtains frame a 
+square opening in the box, and you can see two wooden puppets play acting to 
+entertain the audience.  The little puppets have strings attached and jiggle 
+and wobble as they dance around in the box.  Dramatic expressions have been 
+painted on their faces and they are dressed in colourful clothes.  
+~
+1 0 0
+D3
+~
+~
+0 0 18118
+R M 0 18104 20 18119
+  R E 0 18136 0 5
+  R E 0 18131 0 7
+  R G 0 18106 0
+R M 0 18104 20 18119
+  R G 0 18106 0
+  R E 0 18154 0 5
+R O 0 18159 0 18119
+R O 0 18160 0 18119
+R O 0 18174 0 18119
+R O 0 18175 0 18119
+R M 0 18153 1 18119
+S
+#18120
+Walkway~
+~
+You are on the walkway circling the Big Top but there are no entrances 
+here.  The sweet fragrance of incense is noticeably stronger here and seems 
+to be coming from the small tent to the east.  There is a sign in front of 
+it.  
+~
+1 0 1
+D0
+~
+~
+0 0 18116
+D1
+~
+~
+0 0 18122
+D3
+~
+~
+0 0 18121
+E
+east tent~
+In front of this small but elaborate tent there is a sign with a crystal 
+ball, a tarot card and an open hand.  A small tendril of smoke can be seen 
+rising through the bead curtain that enhances more than conceals the tent 
+opening.  
+~
+E
+sign ~
+`b___________________________________________
+`b|                                         |
+`b|       `C____  `b                            |
+`b|      `C/ `M__`C \  `b                           |
+`b|     `C| `M/ \\`C | `b                           |
+`b|     `C| `M\/ / `C| `b                           |
+`b|      `C\`M -  `C/  `b                           |
+|     `y ------                           `b  |
+`b|     `y/      \        `w_______________     `b|
+`b|    `y----------      `w|               |    `b|
+`b|         `YMADAM      `w|     `D-----     `w|    `b|
+`b|                    `w|     `D\   /     `w|    `b|
+`b|                    `w|      `D|`rx`D|      `w|    `b|
+`b|                    `w|      `D|`rx`D|      `w|    `b|
+`b|        `y||          `w|      `D|`rx`D|      `w|    `b|
+`b|      `y||||          `w|    `C/-----\    `w|    `b|
+`b|      `y||||||        `w|     `C| | |     `w|    `b|
+`b| `y\ \  ||||||||      `w|     `C| | |     `w|    `b|
+`b|  `y\ \ ||||||||      `w|     `C| | |     `w|    `b|
+`b|   `y\    \____ )     `w|     `C| | |     `w|    `b|
+`b|   `y|   ----   \     `w|     `C| | |     `w|    `b|
+`b|   `y\   /    \ |     `w|      `C\|/      `w|    `b|
+|    `y\ /      /       `w---------------     `b|
+`b|     `y|     /               `YPECHOULII     `b|
+`b|     `y|    |                              `b|
+|_________________________________________|
+~
+S
+#18121
+Walkway~
+~
+You are on the walkway circling the Big Top.  To the north is its southern 
+entrance.  To the distant south, you see the rooftops of some trailer type 
+buildings.  To the west you hear an occasional splash.  There is a hint of 
+incense in the air that seems to be coming from the east.  
+~
+1 0 1
+D0
+~
+~
+0 0 18117
+D1
+~
+~
+0 0 18120
+D2
+~
+~
+0 0 18125
+D3
+~
+~
+0 0 18129
+E
+north big top entrance~
+Two flaps have been tied back making the southern entrance to the Big Top.  
+~
+S
+#18122
+Fortune Teller~
+~
+You are in a small dark tent.  Sweet-smelling smoke fills the air from two 
+medium-sized incense pots, one on either side of a small table.  The table 
+itself has a candle, a crystal ball, and a pack of tarot cards set upon it.  
+
+~
+1 0 0
+D3
+~
+~
+0 0 18120
+R M 0 18107 1 18122
+  R G 0 18116 0
+  R E 0 18117 0 6
+  R E 0 18118 0 5
+  R E 0 18128 0 7
+R O 0 18161 0 18122
+R O 0 18162 0 18122
+R O 0 18163 0 18122
+R O 0 18164 0 18122
+E
+'table crystal ball incense pots candle'~
+`W_                   `C__                  `W_
+`W \                 `C/  \                `W/
+`W /                `C|    |               `W\
+`W \                 `C\  /                `W/
+`W /                 `y/--\                `W\
+`W \         `y_______/____\_______    `W    /
+`W /         `y|                  |    `W    \
+`W \         `y|                  |    `W    /
+`r ---       `y|                  |   `r   ---
+`r / \       `y|                  |   `r   / \
+`r|   |      `y|                  |   `r  |   |
+`r\   /      `y|                  |   `r  \   /
+`r ---                               `r  ---
+~
+S
+#18123
+A room of mirrors~
+~
+You walk into a room entirely covered by mirrors and the door shuts behind 
+you.  Every single wall has a mirror and all you can see are dozens upon 
+dozens of reflections of yourself.  The reflections go for miles as each 
+reflection mirrors the reflection of an adjacent wall.  You feel a little 
+disoriented by it all.  
+~
+1 0 0
+D2
+~
+~
+1 0 18124
+D3
+~
+~
+1 0 18170
+D6
+~
+~
+1 0 18173
+D9
+~
+~
+1 0 18171
+R M 0 18137 10 18123
+S
+#18124
+Hall of Mirrors~
+~
+A small doorway lies to the north where people can test their directional 
+sense in the maze of mirrors for the price of a ticket or two.  The walkway 
+is to the west if someone decides not to enter the Hall of Mirrors.  
+~
+1 0 0
+D0
+~
+~
+1 0 18123
+D3
+~
+~
+0 0 18126
+R M 0 18120 1 18124
+S
+#18125
+Walkway~
+~
+Here's a quiet corner where sometimes you might see someone displaying a 
+talent for a bit of money.  It's a nice spot to catch your breath if you're 
+a bit overwhelmed by all the sights sounds and smells.  
+~
+1 0 1
+D0
+~
+~
+0 0 18121
+D2
+~
+~
+0 0 18126
+S
+#18126
+Walkway~
+~
+You stand in a corner of the carnival where tents and boards have been set 
+up as temporary buildings.  You can hear intermittent high-pitched giggles 
+coming from the south, towards the east you hear the occasional sound of 
+someone crying and to the west, an odd scream curdles towards you.  You see 
+signs in front of all three entrances.  
+~
+1 0 1
+D0
+~
+~
+0 0 18125
+D1
+~
+~
+0 0 18124
+D2
+~
+~
+0 0 18127
+D3
+~
+~
+0 0 18128
+E
+east ~
+`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*`G*`Y*`R*`B*`M*
+`R*                                        `G*
+ 
+`Y*  `CSRORRIM FO LLAH `W|`C//`W| `CHALL OF MIRRORS  `Y*
+ 
+`G*                                        `R*
+`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*`R*`Y*`G*`M*`B*
+~
+E
+south ~
+`R*`G * `Y* `R *`G * `Y* `R *`G * `Y* `R *`G * `Y* `R * `G* `Y*  `R*`G * `Y* 
+`R*        `y ___             `R_      _     `Y*  
+`R*        `y(   )            `R|\    |      `Y*  
+`R*        `Y/  `B@`y_            `R| \   |      `Y*  
+`R*        `Y/  `RO             `R|  \  |      `Y*  
+`R*       `w_UUUU_            `R|   \ |      `Y*  
+`R*                        `R_|    \|      `Y*  
+`R*           `M _        _                `Y*  
+`R*            `M |      |                 `Y*  
+`R*            `M |      |         `G_____   `Y*  
+`R*   `Y______   `M |      |        `G/     \  `Y*  
+`R*  `Y|         `M |      |        `G---`CS`G---  `Y*  
+`R*  `Y|         `M \      /            `CS    `Y*  
+`R*  `Y|___       `M  ---             `CS      `Y*  
+`R*  `Y|                              `CS    `Y*  
+`R*  `Y|                           `CS       `Y*  
+`R*  `Y|                       `CS  `R_    _   `Y*  
+`R*                             `R|    |   `Y*  
+`R*               `B_             `R|    |   `Y*  
+`R*              `B( )            `R|----|   `Y*  
+`R*          `M_         __       `R|    |   `Y*  
+`R*         `M( )       /  \      `R|    |   `Y*  
+`R*              `Y_   `M| __ |              `Y*  
+`R*             `Y( )  `M|    |              `Y*  
+`R*         `G_    _   `M|    |              `Y*  
+`R*         `G|    |   `M|    |              `Y*  
+`R*         `G|    |   `R _                  `Y*  
+`R*         `G|    |   `R( )                 `Y*  
+`R*    `B__   `G\    /           `G_           `Y*  
+`R*   `B/  \  `G ---            `G( )          `Y*  
+`R*  `B \     `G                `G             `Y*  
+`R*  `B   \   `G                `G             `Y*  
+`R*  `B/   \   `G               `G             `Y*  
+`R* `B \___/  `G                `G             `Y*  
+`R*                                      `Y*
+`R* `G* `Y*  `R* `G* `Y*  `R* `G* `Y*  `R* `G* `Y*  `R* `G* `Y*  `R* `G* `Y*
+~
+E
+west ~
+`W^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`D^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`W^^   `#`R_____        _____`^                 `^^^
+`D^^  `#`R/_`R(`Y()`R)\      /_(`Y()`R)\`^                `^^^
+`W^^                                      ^^
+`D^^  `#`wH  H   A   U  U N   N TTT EEEE DD`^   ^^
+`W^^  `#`wH  H  A A  U  U NN  N  T  E    D D`^  ^^
+`D^^  `#`wHHHH  AAA  U  U N N N  T  EEE  D  D`^ ^^
+`W^^  `#`wH  H A   A U  U N  NN  T  E    D  D`^ ^^
+`D^^  `#`wH  H A   A UUUU N   N  T  EEEE DDD`^  ^^
+`W^^       `#`G______        ______`^           `^^^
+`D^^      `#`G/ `Y____  `G\     / `Y___  `G\`^          `^^^
+`W^^     `#`G/ `Y/ `R_  `Y\  `G\   / `Y/ `R_ `Y\  `G\`^         ^^
+`D^^     `#`G\ `Y|`R--- `Y|   `G\ /  `Y|`R---`Y|  `G/`^         ^^
+`W^^     `#`G__`Y__`R-`Y__`G__     __`Y__`R-`Y__`G__`^          ^^
+~
+E
+west ~
+`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^`W^`D^
+`D<      `Y____      ____                     `D>
+`D<     `Y/_`R()`Y_\    /_`R()`Y_\                    `D>
+`D<                                         >
+<  `WH  H   A   U  U N    N TTTTT EEEE DD   `D>
+<  `WH  H  A A  U  U N N  N   T   E    D D  `D>
+<  `WHHHH AAAAA U  U N  N N   T   EEE  D  D `D>
+<  `WH  H A   A U  U N   NN   T   E    D D  `D>
+<  `WH  H A   A UUUU N    N   T   EEEE DD   `D>
+<                      `R_____      _____   `D>
+<                     `R/`Y__   `R\    /`Y__   `R\  `D>
+<                    `R/`Y(`R( `Y)`R___\  /`Y(`R(`Y )`R___\ `D>
+`D<                                         >
+<     `WH  H   OOOO   U  U   SSS   EEEE     `D>
+<     `WH  H   O  O   U  U  S   S  E        `D>
+<     `WHHHH   O  O   U  U   S     EEE      `D>
+<     `WH  H   O  O   U  U     S   E        `D>
+<     `WH  H   O  O   U  U  S    S E        `D>
+<     `WH  H   OOOO   UUUU   SSSS  EEEE     `D>
+<                                         `D>
+<    `G/\    /\                             `D>
+<   `G/  \  /  \                            `D>
+<  `G/`R_//`G/  \`R\\_`G\                           `D>
+< `G/`R/_/`G/    `G\`R\_\`G\                          `D>
+< `G\__`G/      `G\__`G/                          `D>
+<                                         `D>
+`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv`Dv`Wv
+~
+S
+#18127
+Fun Haus~
+~
+Caricatures of knights, mages, thieves and other professions adorn the 
+walls.  The artist seems to be quite a prankster.  If people who find 
+themselves here, like a little humor, they could go southeast for some fun, 
+or leave through the exit to the north.  There are other attractions to be 
+seen from the walkways and a tall man stands here collecting tickets.  
+~
+1 0 0
+D0
+~
+~
+0 0 18126
+R M 0 18122 1 18127
+S
+#18128
+House of Horrors~
+~
+Spooky sounds emanate from the southwest.  An adventurous person can test 
+their courage in this eerie Haunted House or seek the safety of the walkway 
+to the east.  
+~
+1 0 0
+D1
+~
+~
+0 0 18126
+D2
+~
+~
+1 0 18156
+R M 0 18121 1 18128
+S
+#18129
+Walkway~
+~
+You are on the walkway circling the Big Top but there are no entrances here. 
+ To the west, there is a faint sound of water and boats can be seen in the 
+distance.  It is a little quieter here but not much.  
+~
+1 0 1
+D0
+~
+~
+0 0 18131
+D1
+~
+~
+0 0 18121
+D3
+~
+~
+0 0 18130
+S
+#18130
+Gondola~
+~
+A man-made stream has been made here through great skill, or magic perhaps.  
+Here, people can enter boats that look like stylized swans big enough for 
+two people...  For the price of a ticket, of course.  
+~
+1 0 0
+D1
+~
+~
+0 0 18129
+R M 0 18115 1 18130
+  R E 0 18135 0 7
+  R E 0 18130 0 5
+R O 0 18180 0 18130
+S
+#18131
+Walkway~
+~
+You are on the walkway circling the Big Top.  To the east is the western 
+entrance.  The smell of food is strong here and the noise is almost 
+deafening.  There are tents off to the west lining the walkway and people 
+pass you if you stay too long in one place.  
+~
+1 0 1
+D0
+~
+~
+0 0 18133
+D1
+~
+~
+0 0 18117
+D2
+~
+~
+0 0 18129
+D3
+~
+~
+0 0 18132
+E
+east big top entrance~
+Two flaps have been tied back making the western entrance to the Big Top.  
+~
+S
+#18132
+Walkway~
+~
+To the north, the smells and sounds of a picnic area are evident.  It is 
+quite loud here and the walkway is a bit damp.  To the somewhat distant 
+east, a huge tent can be seen and a long row of smaller tents can be seen 
+disappearing into the distant west.  
+~
+1 0 1
+D0
+~
+~
+0 0 18134
+D1
+~
+~
+0 0 18131
+D3
+~
+~
+0 0 18135
+S
+#18133
+Walkway~
+~
+As you make your way across the sawdust strewn and straw covered walkways, 
+the sound of different musics and the buzzing of voices fill your ears in a 
+cacophony of sound.  To the west, you see a huge covered pavilion where you 
+can take a rest and perhaps eat any goodies you've bought.  Or you can 
+circle the big circus tent to the east or the south.  
+~
+1 0 1
+D1
+~
+~
+0 0 18113
+D2
+~
+~
+0 0 18131
+D3
+~
+~
+0 0 18134
+S
+#18134
+Food Court~
+~
+This area is composed of shaded picnic tables where people can bring their 
+treats they've bought from the concession stands.  Not quite a tent, rather 
+it is more of a huge piece of canvas strung between four poles.  The smell 
+of sweets and grilled meats mix together, their aromas adding excitement to 
+the already charged atmosphere.  Folk music fills the air in the distance 
+and children run all about, screaming with laughter as they chase each-other 
+around the tables.  
+~
+1 0 1
+D1
+~
+~
+0 0 18133
+D2
+~
+~
+0 0 18132
+R O 0 18157 0 18134
+R O 0 18158 0 18134
+S
+#18135
+Walkway~
+~
+To the north, a voice can be heard yelling challenges from time to time.  
+From the south the sound of calliope music can be heard once in awhile.  
+~
+1 0 1
+D0
+~
+~
+0 0 18139
+D1
+~
+~
+0 0 18132
+D2
+~
+~
+0 0 18136
+D3
+~
+~
+0 0 18137
+S
+#18136
+Carousel~
+~
+This is a strange device; it is a large round platform, sort of like a wheel 
+on its side.  On the platform are different kinds of painted wooden animals. 
+ All of the animals are big and sturdy enough to be climbed onto.  In the 
+middle of the wheel, there is a small calliope (a pedal operated pipe 
+organ).  The instrument is set up in such a way that the air produced by the 
+playing of it in turn moves the wheel in a circle.  
+~
+1 0 0
+D0
+~
+~
+0 0 18135
+R M 0 18104 20 18136
+  R E 0 18154 0 5
+  R G 0 18106 0
+R M 0 18104 20 18136
+  R E 0 18154 0 5
+  R G 0 18106 0
+R M 0 18114 1 18136
+  R E 0 18132 0 7
+  R E 0 18129 0 5
+R O 0 18165 0 18136
+R M 0 18152 1 18136
+S
+#18137
+Walkway~
+~
+Bleating sounds can be heard coming from the north, while to the south you 
+can see seats attached to a giant wheel which is circling up and down.  
+Children's squeals drift over to where you're standing.  
+~
+1 0 1
+D0
+~
+~
+0 0 18140
+D1
+~
+~
+0 0 18135
+D2
+~
+~
+0 0 18138
+D3
+~
+~
+0 0 18141
+S
+#18138
+Ferris Wheel~
+~
+A giant wheel creaks slowly as it circles up and down, swinging the seats 
+back and forth as it moves.  Two sweaty men are pulling on the ropes and 
+turning a great handle which seems to keep the whole thing moving.  Another 
+man stands nearby collecting the tickets to go on this ride.  Children 
+riding in the seats squeal with delight and wave down at the people below.  
+The occasional couple can be seen snuggling together as their seat swings 
+dreamily above the crowd.  
+~
+1 0 0
+D0
+~
+~
+0 0 18137
+R M 0 18112 1 18138
+  R E 0 18136 0 5
+  R E 0 18135 0 7
+R M 0 18111 1 18138
+  R E 0 18136 0 5
+  R E 0 18132 0 7
+R M 0 18113 1 18138
+  R E 0 18130 0 5
+  R E 0 18133 0 7
+R O 0 18166 0 18138
+S
+#18139
+Challenge the "Champeen"~
+~
+Your in small tent with a ring in the middle where you can challenge the 
+"Grand Champeen" by entering the ring.  Perhaps you should look at the ring 
+BEFORE thinking of becoming a challenger.  There is a `#`?sign`^ displaying the 
+entry fee on a post near the ring.  
+~
+1 0 0
+D2
+~
+~
+0 0 18135
+R M 0 18106 1 18139
+  R E 0 18108 0 16
+  R E 0 18132 0 7
+  R E 0 18129 0 5
+E
+sign ~
+`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*
+*                              *
+*       `W5 gold to fight        `B*
+*        the "Champeen"        `B*
+*                              *
+*  `WDo you have what it takes?  `B*
+*    `WEnter at your own risk    `B*
+*                              *
+*  `R(we take no responsibility  `B*
+*   `Rfor any injuries incurred) `B*
+*                              *
+`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*`C*`B*
+~
+S
+#18140
+Corral~
+~
+Fenced in animals munch on this grassy patch of land.  This is where the 
+gypsy folk keep their horses, pigs, and cows to graze until the gypsies move 
+on to their next place.  Fierce growls and scratchings can be heard from 
+inside a few barred wagons, obviously where they keep their less friendly 
+animals.  To the west you can see more wagons and carriages.  
+~
+1 0 2
+D2
+~
+~
+0 0 18137
+D3
+~
+~
+0 0 18143
+R M 0 18123 5 18140
+R M 0 18124 5 18140
+R M 0 18125 5 18140
+S
+#18141
+Walkway~
+~
+The walkway seems to be leading to the exit as there are few stands setup in 
+this area.  You can see caravan wagons to your north, and from the south, 
+comes the sound of someone chipping away at something.  
+~
+1 0 1
+D1
+~
+~
+0 0 18137
+D2
+~
+~
+0 0 18142
+D3
+~
+~
+0 0 18144
+R M 0 18104 20 18141
+  R E 0 18136 0 5
+  R E 0 18132 0 7
+  R G 0 18106 0
+S
+#18142
+Toy Stall~
+~
+This tent is a bit small and over-warm.  Here, you find some toys and a 
+couple of gags.  You can look at the price list if you want to buy a toy or 
+get a prank to fool a friend.  A funny gnomish man sits here working on a 
+new toy.  
+~
+1 0 0
+D0
+~
+~
+0 0 18141
+R M 0 18103 1 18142
+  R G 0 18105 0
+  R G 0 18110 0
+  R G 0 18111 0
+  R G 0 18112 0
+  R G 0 18113 0
+  R G 0 18119 0
+  R E 0 18131 0 7
+  R E 0 18126 0 5
+E
+price list sign~
+`B*`R******`Y******`B******`R*`Y*`B*`R*`B******`Y******`R*******`B*
+*                                         *
+*                 `wT o Y s                 `B*
+*                                         *
+*     `wPorcelain dolls with glass eyes     `B*
+`Y*                                         *
+*             `wMarionettes                 `Y*
+*                                         *
+*                                         *
+*                  `wG a G s                `Y*
+`R*                                         *
+*                `wMystik-tarts             `R* `R* `w(sweet dreams are made of these!) `R*
+*                 `w50 silver               `B*
+*                                         *
+`B*               `wChaotic-surge             `B* *            `w(lights out!)          `B*
+*                 `w50 silver               `B*
+*                                         *
+*`R******`Y******`B******`R*`Y*`B*`R*`B******`Y******`R*******`B*
+~
+S
+#18143
+Gypsy caravans and wagons~
+~
+You have wandered into the area where the gypsies have set up camp for the 
+duration they are here.  Tents and caravan wagons are crammed into this 
+space.  Dark skinned children run inbetween the wagons playing, while their 
+parents work in the carnival for long hours.  Every wagon broadcasts the 
+words "`#`MG`Cy`Bp`gs`ry `GC`ma`Wr`Rn`bi`Cv`ca`Sl`^" in bright gaudy colours.  
+~
+1 0 2
+D1
+~
+~
+0 0 18140
+R M 0 18104 20 18143
+  R E 0 18154 0 5
+S
+#18144
+Walkway~
+~
+Close to the exit, there is a last minute stop for specialties in the way of 
+carnival food.  The tell-tale smells of exotic foods lead the way to the 
+south.  The sounds of laughter, screaming and squealing are barely heard 
+from this end of the carnival.  A slight breeze blows a piece of litter 
+about.  
+~
+1 0 1
+D1
+~
+~
+0 0 18141
+D2
+~
+~
+0 0 18145
+D3
+~
+~
+0 0 18147
+R O 0 18167 0 18144
+S
+#18145
+Food Stall~
+~
+This food stand is set close to the exit so people can grab some goodies 
+before leaving the grounds.  The same sweet, salty, and exotic foods are for 
+sale here.  The gypsy teenager who looks after this stall stands here 
+rolling his eyes, because this is all he does..  All ..  Day..  Long.  
+~
+1 0 0
+D0
+~
+~
+0 0 18144
+R M 0 18109 1 18145
+  R G 0 18104 0
+  R G 0 18102 0
+  R G 0 18103 0
+  R G 0 18101 0
+  R E 0 18132 0 7
+  R E 0 18129 0 5
+S
+#18147
+Carnival Exit~
+~
+The noise sounds distant here, as you're leaving you can barely hear more 
+than a dull hum once in awhile.  Until the gypsies shut down and move on, 
+you can always turn around and go back.  Otherwise, read the sign.  
+~
+1 0 1
+D1
+~
+~
+0 0 18144
+E
+sign ~
+_______________________________________
+|                                     |
+|  `Y__  __  _  _  ___   __   _  __  |  `w|
+| `Y/  \|  | |\/|  |__  |  \ /_\/  \ |/ `w|
+|`Y |   |  | |  |  |    |  / | ||    |\ `w|
+|`Y \   |  | |  |  |    |  \ | |\    | |`w|
+|`Y  --  --  -  -  ---  |__/ - - --- - -`w|
+|                                     |
+|     `Y___    ___   ___    _    _      `w|
+|    `Y/   \  |   | |   |   |\   |      `w|
+|   `Y|       |   | |   |   | \  |      `w|
+|   `Y \__    |   | |   |   |  \ |      `w|
+|   `Y    \   |   | |   |   |   \|      `w|
+|   `Y     |  |   | |   |   |    |      `w|
+|   `Y\___/   |___| |___|  _|    |_     `w|
+|                                     |
+|_____________________________________|
+~
+S
+#18148
+The "Champeen" Ring~
+~
+This is a roped in canvas-covered wooden square.  This is where many have 
+have fallen to the "Great Champeen".  It is bare except for a few large dark 
+reddish-brown stains and smells strongly of sweat.  
+~
+1 0 0
+D2
+~
+~
+0 0 18139
+R O 0 18109 0 18148
+S
+#18149
+Windy Tunnel~
+~
+As soon as you enter this tunnel, you are blown up against the wall by a 
+strong gust of wind.  The force of the wind pastes your hair to your face, 
+and your mouth begins to be pushed back into a strange looking grin.  You 
+have to close your eyes as the force of the wind hurts too much to look.  
+ 
+~
+1 4 0
+R M 0 18180 1 18149
+S
+#18150
+Sliding Stairs~
+~
+The first thing you notice as you enter is that there is no wind in here 
+whatsoever.  You see before you a rising set of stairs with wide steps.  As 
+you stand and watch you see them suddenly move, the steps flip down making 
+it into a slide.  You realise that if you are ever going to make it to the 
+top you're going to have to time it just right.  
+~
+1 4 0
+R O 0 18168 0 18150
+R M 0 18138 1 18150
+S
+#18151
+Bubbles~
+~
+You finally make it to the top of the stairs and have entered a room filled 
+with delicate `#`Rr`Ya`Gi`Bn`mb`Mo`Rw`^ coloured bubbles.  The bubbles dance and float about 
+you as you slowly drift through the room.  A small hole in the floor seems 
+to be popping more bubbles into the room and a gentle breeze blows them 
+about.  
+~
+1 0 0
+D8
+~
+~
+0 0 18152
+R O 0 18169 0 18151
+S
+#18152
+Swing Bridge~
+~
+You walk onto a roughly built swing bridge which hangs between the room to 
+the northwest and the room to the northeast.  Thick rope spans the distance 
+as a hand rail for you to cling to as you walk across the bridge.  It sways 
+and rocks and you suddenly realise there are a few planks missing.  
+~
+1 0 0
+D9
+~
+~
+0 0 18153
+R M 0 18140 1 18152
+S
+#18153
+Slide~
+~
+You find yourself at the top of a giant slide.  It seems to go on for miles 
+and appears to be rather steep.  Some sacks have been placed at the top of 
+the slide for you to cushion the ride as you dare to ride down this tall 
+slide to the ground below.  
+~
+1 0 0
+D5
+~
+~
+0 0 18154
+D7
+~
+~
+0 0 18152
+R O 0 18170 0 18153
+R O 0 18171 0 18153
+R M 0 18181 1 18153
+S
+#18154
+Banana Split~
+~
+You slide down the giant slide and land with a thud.  As you get up and look 
+around, you see you are on a little jetty which has some small `#`Ybanana`^ shaped 
+boats tied to it.  In this small man-made pool of water, the `#`Ybanana`^ boats 
+rock gently waiting for you to `#`Center`^ them.  
+~
+1 4 0
+R O 0 18172 0 18154
+S
+#18155
+Lily Pads~
+~
+You climb out of the `#`Ybanana`^ boat onto another jetty.  Before you lies a 
+large specially built pool which has been made to look like a swamp with 
+giant lilypads dotting the surface.  You realise that the only way out of 
+here, will be to leap from pad to pad, and you hope you don't misjudge your 
+step.  
+~
+1 4 0
+R M 0 18141 1 18155
+S
+#18156
+Pitchblack~
+~
+You are in a pitchblack room with no obvious way out.
+~
+1 1 0
+D8
+~
+~
+1 0 18157
+R M 0 18137 10 18156
+R M 0 18142 20 18156
+S
+#18157
+Pitchblack~
+~
+You stumble about in pitch blackness, until you realise there is something 
+watching you..  all you can see are two `#`Yglowing`^ eyes!  
+~
+1 1 0
+D2
+~
+~
+1 0 18158
+D6
+~
+~
+1 0 18156
+R M 0 18137 10 18157
+R M 0 18147 10 18157
+S
+#18158
+Pitchblack~
+~
+Pitch blackness surrounds you but as you feel around for a way out you find 
+several exits.  
+~
+1 1 0
+D0
+~
+~
+1 0 18157
+D2
+~
+~
+1 0 18161
+D3
+~
+~
+1 0 18159
+R M 0 18137 10 18158
+R M 0 18142 20 18158
+S
+#18159
+Small lit room~
+~
+A small candle flickers in this room casting fearsome shadows over the 
+walls.  
+~
+1 0 0
+D0
+~
+~
+1 0 18160
+D1
+~
+~
+1 0 18158
+S
+#18160
+Darkness~
+~
+You leave the light behind and stumble once more into pitchblack.  As you 
+stumble around blindly you realise you have come to a dead end.  
+~
+1 0 0
+D2
+~
+~
+1 0 18159
+R M 0 18147 10 18160
+S
+#18161
+Pitchblack~
+~
+You find yourself surrounded by blackness..  Only you sense you are not 
+alone as you can hear eerie whispers all around you.  
+~
+1 1 0
+D0
+~
+~
+1 0 18158
+D3
+~
+~
+1 0 18162
+D8
+~
+~
+1 0 18164
+R M 0 18137 20 18161
+R M 0 18149 10 18161
+S
+#18162
+A softly lit room~
+~
+You stumble out of the blackness for a moment into a dimly lit room with a 
+candle casting eerie shadows over you.  Its soft light quivers and trembles 
+as if a gentle breeze is blowing in the room.  
+~
+1 0 0
+D1
+~
+~
+1 0 18161
+D9
+~
+~
+1 0 18163
+S
+#18163
+Darkness~
+~
+You leave the soft light behind and stumble into another place where you 
+cannot even see your own hand.  All you can hear is your own soft breathing. 
+ 
+~
+1 0 0
+D7
+~
+~
+1 0 18162
+R M 0 18148 10 18163
+R M 0 18137 20 18163
+S
+#18164
+Pitchblack~
+~
+More pitchblack surrounds only this time, you can hear a gruff snorting and 
+snarling, and its getting to closer to you!  
+~
+1 1 0
+D6
+~
+~
+1 0 18161
+D9
+~
+~
+1 0 18165
+R M 0 18137 20 18164
+R M 0 18145 1 18164
+S
+#18165
+Pitchblack~
+~
+You stumble into a void of blackness, which seems to close in on you.  You 
+can hear eerie, sinister voices taunting you.  
+~
+1 1 0
+D7
+~
+~
+1 0 18164
+D9
+~
+~
+1 0 18166
+R M 0 18142 20 18165
+R M 0 18149 10 18165
+S
+#18166
+Pitchblack~
+~
+The blackness closes in around you..  As you feel something slimy closing in 
+on you also.  Everywhere you turn, you touch..  Soft sticky slime!  
+~
+1 1 0
+D6
+~
+~
+1 0 18167
+D7
+~
+~
+1 0 18165
+R M 0 18144 1 18166
+S
+#18167
+Pitchblack~
+~
+You stumble out of the slime into more blackness. And as you fumble`1about looking for a way out of here, you feel a cold, hand grab your leg!
+~
+1 1 0
+D6
+~
+~
+1 0 18168
+D8
+~
+~
+1 0 18166
+R M 0 18143 1 18167
+S
+#18168
+Pitchblack~
+~
+You feel nothing but stillness as you wander around in this darkness.  As 
+you blindly feel the wall for a way out, you get a growing feeling that 
+maybe there is no way out!  
+~
+1 5 0
+R M 0 18146 1 18168
+S
+#18169
+Freak ands Oddities Show~
+~
+Inside the tent is a small stage with a velvet curtain tied at either side.  
+A row of hard wooden seats face the stage for the audience to watch the 
+show.  There is very little light which creates an atmosphere of mystery, 
+anticipation and fear.  
+~
+1 0 0
+D3
+~
+~
+0 0 18115
+R O 0 18176 0 18169
+R M 0 18165 1 18169
+R M 0 18164 1 18169
+R M 0 18163 1 18169
+R M 0 18162 1 18169
+R M 0 18161 1 18169
+R M 0 18160 1 18169
+R M 0 18159 1 18169
+S
+#18170
+A room of mirrors~
+~
+You open the door into another room of mirrors and the door swings shut 
+behind you.  When you look at your reflection in the mirrors of this room 
+you see you are as tall as the mirror is high, and about as skinny as a pin. 
+ When you turn side on you look to be as skinny a fine human hair.  The wall 
+of mirrors give no clue as to the way out.  
+~
+1 0 0
+D0
+~
+~
+1 0 18171
+D1
+~
+~
+1 0 18123
+R M 0 18137 10 18170
+S
+#18171
+A room of mirrors~
+~
+You stumble into another room lined with mirrors.  The door quickly shuts 
+behind you.  When you look in the mirrors a creature resembling you looks 
+back at you..  Only its missing a neck..  And knees.  You wonder where the 
+exit could be.  
+~
+1 0 0
+D2
+~
+~
+1 0 18170
+D6
+~
+~
+1 0 18172
+D7
+~
+~
+1 0 18123
+R M 0 18137 10 18171
+S
+#18172
+A room of mirrors~
+~
+The door closes behind you as you enter yet another room filled with 
+mirrors.  When you gaze at your reflection you see a hideous creature 
+staring back at you.  It looks as if when you were made, something went 
+terribly wrong.  Your head looks like a giant balloon sitting on top of a 
+tiny stump of a body.  You can't help but laugh, it looks so ridiculous.  
+How do you get out of here!  
+~
+1 0 0
+D0
+~
+~
+1 0 18176
+D1
+~
+~
+1 0 18173
+D8
+~
+~
+1 0 18171
+R M 0 18137 10 18172
+S
+#18173
+A room of mirrors~
+~
+You walk into this room and realise the door shut by itself.  Mirrors 
+surround you and when you look at the mirrors, trying to find a way out, you 
+see yourself..  Only you look as though a heavy weight had been dropped on 
+you because you see a short, fat version of yourself.  You stumble about 
+trying to find a way out.  
+~
+1 0 0
+D3
+~
+~
+1 0 18172
+D7
+~
+~
+1 0 18174
+D8
+~
+~
+1 0 18123
+R M 0 18137 10 18173
+S
+#18174
+A room of mirrors~
+~
+The door slams shut behind you and when you look around, you see you're 
+still in the Hall of Mirrors.  Your reflection looks like ripples on a lake 
+as your reflected form waves and weaves like a river as you move.  You can 
+see no obvious exits from this room.  
+~
+1 0 0
+D8
+~
+~
+1 0 18175
+D9
+~
+~
+1 0 18173
+R M 0 18137 10 18174
+S
+#18175
+A room of mirrors~
+~
+You walk into a room filled with mirrors reflecting an image of yourself.  
+When you look at the reflection you see yourself with a well-proportioned 
+and head and feet..  And then you notice your torso is as wide as a house.  
+When you go to find the way out, you now realise the door shut behind you 
+and you see only walls of mirrors.  
+~
+1 0 0
+D6
+~
+~
+1 0 18174
+R M 0 18137 10 18175
+S
+#18176
+Roughly built hallway~
+~
+This hallway looks as if its been thrown together in a hurry.  Fortunately, 
+there's not a mirror in sight.  You can even see light peeping in from the 
+door to the north.  Of course you could always turn around and go back to 
+the endless maze of mirrors.  
+~
+1 0 0
+D0
+~
+~
+0 0 18120
+D2
+~
+~
+1 0 18172
+S
+#18177
+Small tranquil lake~
+~
+The gondola drifts gently onto a small tranquil lake.  You can see forest 
+life surrounding the edges of this lake, and you sit back and dreamily soak 
+it all in.  
+~
+1 4 0
+R M 0 18150 1 18177
+S
+#18178
+Gentle River~
+~
+The gondola floats down a gentle, wavy river.  Small forest animals hop 
+about in the forest to either side of the river.  
+~
+1 4 0
+R M 0 18151 1 18178
+S
+#18179
+Under the bridge~
+~
+The gondola drifts down the river and floats underneath an old stone bridge. 
+ People crossing the bridge look down and watch as the gondola disappears 
+under the bridge, and reappears on the other side.  
+~
+1 4 0
+R M 0 18155 1 18179
+S
+#18180
+Through a park~
+~
+The gondola drifts out from under the bridge and bobs about the river which 
+now weaves through a small park.  Flowers grow in patches and children can 
+be seen climbing the trees.  
+~
+1 4 0
+R M 0 18156 1 18180
+S
+#18181
+Large lake~
+~
+The river flows down to a large lake, and the gondola bobs about on the 
+waves.  Swans and ducks float about on the water and occasionally swim up to 
+the gondola out of curiousity.  
+~
+1 4 0
+R M 0 18157 1 18181
+S
+#18182
+Jetty~
+~
+The gondola floats towards the jetty, where the old man ties the gondola to 
+it with a rope.  
+~
+1 4 0
+R M 0 18158 1 18182
+S
+#18183
+Inside the ring~
+~
+You are standing within the roped in canvas-covered wooden square.  This is 
+where many have have fallen to the "Great Champeen".  It is bare except for 
+a few large dark reddish-brown stains and smells strongly of sweat.  Before 
+you stands the grand "champeen" hopping from foot to foot, waiting for his 
+next victory.  
+~
+1 0 0
+D2
+~
+~
+0 0 18139
+R M 0 18105 1 18183
+  R E 0 18107 0 13
+  R E 0 18173 0 7
+S
+#18184
+Ferris Wheel~
+~
+The ferris wheel slowly begins moving again.  
+ 
+~
+1 4 0
+R M 0 18166 1 18184
+S
+#18185
+Ferris Wheel on its way up~
+~
+As the ferris wheel turns, you get lifted towards the sky.  
+~
+1 4 0
+R M 0 18167 1 18185
+S
+#18186
+Ferris Wheel almost at the top~
+~
+Your seat is high above the crowd almost at the top.
+~
+1 4 0
+R M 0 18168 1 18186
+S
+#18187
+Ferris Wheel at the top~
+~
+You reach the top of the circular motion of the wheel.  
+~
+1 4 0
+R M 0 18169 1 18187
+S
+#18188
+Ferris Wheel on its way down~
+~
+The wheel turns as your seat slowly comes down to the ground again.
+~
+1 4 0
+R M 0 18170 1 18188
+S
+#18189
+Ferris Wheel ~
+~
+The wheel stops when you are at the bottom of the full circle.
+~
+1 4 0
+R M 0 18171 1 18189
+S
+#18190
+On the carousel~
+~
+The carousel begins to grind and churn, turning slowly around.
+~
+1 4 0
+R M 0 18172 1 18190
+S
+#18191
+On the carousel~
+~
+The carousel turns full circle.
+~
+1 4 0
+R M 0 18173 1 18191
+S
+#18192
+On the carousel~
+~
+The carousel begins a second cycle.
+~
+1 4 0
+R M 0 18174 1 18192
+S
+#18193
+On the carousel~
+~
+The carousel turns slowly as it completes another circle.
+~
+1 4 0
+R M 0 18175 1 18193
+S
+#18194
+On the carousel~
+~
+The carousel turns one last time.
+~
+1 4 0
+R M 0 18176 1 18194
+S
+#18195
+End of the Carousel ride~
+~
+The music begins to die down and the carousel slows to a stop.
+~
+1 4 0
+R M 0 18177 1 18195
+S
+#18196
+A Sandy Path~
+~
+A sandy path leads south and north along this hilly path. Seagulls fly low 
+by, picking at the remains of what look like sweets other attractively 
+wrapped foods. The air is salty and taking a deep breath of it fills you 
+with a revigorating feeling. The sounds of laughter can be heard coming from 
+the south. 
+~
+1 0 1
+D2
+~
+~
+0 0 18100
+S
+#0
+
+
+#SHOPS
+ 18100   19 17  0  0  0   100   0         0 24    ; a pretty young lady
+ 18103    8 26  5  0  0   100   0         0 23    ; a gnomish toyman
+ 18107   10  0  0  0  0   100   0         0 24    ; madame Pechoulii
+ 18109   19 17  0  0  0   100   0         0 23    ; a rough looking gypsy teenager
+ 18110    8  0  0  0  0   100   0         0 24    ; a ticketman
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

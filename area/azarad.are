@@ -1,0 +1,2103 @@
+#AREA        Azarad~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#48000
+minotaur Guard~
+a minotaur guard~
+A minotaur guard of `#`cAzarad`^ stands here.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+17 0 -3 3d5+79 3d4+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48001
+minotaur guard~
+a minotaur guard~
+A minotaur guard is here trying to sleep.
+~
+A tired looking guard is here.
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48002
+mercenary guard~
+a mercenary guard~
+A `#`cAzaradian`^ guard is here watching out for troublemakers.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 -600 C
+14 0 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48003
+diltram Miypil~
+diltram miypil~
+The Shopkeeper Diltram Miypil stands here selling weapons.
+~
+He looks like a very wealthy man.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48004
+thief~
+a thief~
+A thief is here hidding in the shadows
+~
+She is hiding in the Shadows..
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+53 30 -24 5d9+295 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48005
+minotaur warrior~
+an armored minotaur~
+A heavily armored minotaur is patrolling the streets.
+~
+He is a very strong looking minotaur.
+~
+0
+Clanname none~
+0
+0
+1 4096 -600 C
+58 0 -30 6d10+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48006
+orc~
+an orc~
+A large orc walks here.
+~
+The orc drools as you look at it.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+10 0 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48007
+large minotaur~
+a large minotaur~
+A large minotaur guard is standing here.
+~
+The minotaur snorts at you in contempt.  
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+40 0 -14 5d7+245 3d12+14
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48008
+child~
+a child~
+A child is wandering around here.
+~
+A poor child stands before you wearing dirty clothing. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+2 0 8 1d4+2 1d5+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48009
+wealthy lady~
+a lady~
+A wealthy-looking lady looks about in panic here.
+~
+A very wealthy lady looks very fearful.
+~
+0
+Clanname none~
+0
+0
+65 0 600 C
+16 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48010
+agailo shopkeeper~
+`#`wAgailo`^~
+Agailo stands here waiting to take your order.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48011
+priest cleric anacor~
+`#`wa priest of `cAnacor`^~
+A priest of Anacor is here, he is chanting softly to himself.
+~
+He holds the symbol of Anacor in his hand.
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48012
+lich dravar~
+`SDravar the lich`x~
+The great lich `#`SDravar`^ is here, having taken over Azarad.
+~
+He is dressed in very fine clothing.
+~
+0
+Clanname none~
+0
+0
+3 4096 -600 C
+110 60 -80 11d15+535 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48013
+dark magi~
+a dark magi~
+A figure in dark black robes stands here.
+~
+Many glittering symbols are etched on the robes of the magi.
+~
+0
+Clanname none~
+0
+0
+3 4096 -600 C
+65 45 -34 6d10+335 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48014
+oldstyle shopkeeper~
+the shopkeeper~
+The shopkeeper stands here.
+~
+You see a woman on a stool behind her counter.
+~
+0
+Clanname none~
+0
+0
+3 8 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48015
+man old~
+an old man~
+An old man is walking slowly here.
+~
+~
+0
+Clanname none~
+0
+0
+1 0 600 C
+16 45 -3 3d5+79 2d7+4
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48016
+Merchant~
+a merchant~
+A merchant is here trying to sell his goods
+~
+He is dressed in average clothing.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+23 25 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48017
+troll~
+a large troll guard~
+A large troll guard is standing here.
+~
+A horrid stench surronds this ugly troll.
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+50 50 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48018
+thief figure~
+a thief~
+A dark figure lurks in the shadows.
+~
+You can see nothing about them.
+~
+0
+Clanname none~
+0
+0
+5 512 -600 C
+3 40 7 1d5+3 1d6+0
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48019
+orge~
+a orc woman~
+A orc woman is here.
+~
+She is clutching a large elf leg in her mouth.
+~
+0
+Clanname none~
+0
+0
+3 0 -600 C
+13 15 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48020
+elder mage~
+an elder mage~
+An elder mage is selling scrolls here.
+~
+He is wearing black robes.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48021
+shopkeeper~
+a shopkeeper~
+A shopkeeper is here selling items
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48022
+no name~
+an innkeeper~
+An innkeeper is here, renting out rooms.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+10 10 1 2d5+18 2d4+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48023
+flantilo~
+`#Flantilo`^~
+Flantilo stands behind a counter.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48024
+banker~
+the banker~
+A banker stands here waiting for your money
+~
+He looks very rich...
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48025
+talham~
+`#Talham`^~
+Talham stands behind a counter selling potions.
+~
+He wears glasses.
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48026
+rhagilo~
+`#Rhagilo`^~
+Rhagilo is sitting behind the counter.
+~
+His hands are all full of dirt.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48027
+achven~
+`#Achven`^~
+Achven stands behind the counter here.
+~
+He is very rich looking.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 1 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48028
+orc jailer~
+the orc jailer~
+The large orc jailer is here.
+~
+He has an eye patch.
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+50 60 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48029
+mayor~
+the mayor of `#Azarad~
+The mayor of `#Azarad is locked up here.
+~
+He looks pretty beat-up.  
+~
+0
+Clanname none~
+0
+0
+33 0 -600 C
+53 53 -23 5d9+290 6d7+21
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48030
+trainer~
+the trainer~
+There is a trainer walking around, ready to improve your combat skills.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48031
+cleric hiddukel~
+a cleric of `#`SHiddukel`^~
+A cleric of `#`SHiddukel`^ is here.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 -600 C
+60 1 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48032
+jeweller~
+the jeweller~
+The jeweller is standing behind the desk.
+~
+He is fat and has a content although watchful look on his face.
+~
+0
+Clanname none~
+0
+0
+3 512 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48033
+bartender~
+the bartender~
+A bartender stands behind the counter waiting to serve you.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+0
+Clanname none~
+0
+0
+3 0 400 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48034
+cleric~
+a priestess of `#`rGraal`^~
+A priestess of `#`rGraal`^ is here.
+~
+She holds the symbol of Graal in her hands.
+~
+0
+Clanname none~
+0
+0
+3 128 -600 C
+100 60 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48035
+Strong worker~
+a strong worker~
+A strong worker stands here moving boxes
+~
+He is very strong.
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+20 50 -9 5d6+150 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48036
+man~
+a man~
+A man is here, looking very nervous.
+~
+He doesn't look rich or poor.
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+13 15 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48037
+young minotaur~
+a young minotaur~
+A young minotaur stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+10 35 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48038
+elf~
+an elf~
+An elf is here, wandering around.
+~
+~
+0
+Clanname none~
+0
+0
+65 32768 600 C
+21 37 -6 4d5+105 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48039
+girl little orc~
+a little orc girl~
+A little orc girl is here playing with her doll.
+~
+She is so cute.... for an orc.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+5 5 5 2d5+1 1d6+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48040
+guard orc~
+a orc guard~
+A orc guard is here, watching you closely.
+~
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+48 50 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48041
+mercenary~
+a mercenary~
+A mercenary soldier is here, protecting the captured city.
+~
+~
+0
+Clanname none~
+0
+0
+3 4096 -600 C
+21 35 -11 5d6+215 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48042
+young warrior~
+a young warrior~
+A young warrior is here.
+~
+He looks very young.
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+10 20 -4 4d5+90 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48043
+orc guard~
+a minotaur guard~
+A minotaur guard of `#`SAzarad`^ is here watching out for trouble.
+~
+He is very strong.
+~
+0
+Clanname none~
+0
+0
+65 4096 -600 C
+48 80 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48045
+Japlion Halsawern~
+`#`GJaplion`^~
+`#`GJaplion Halsawern`^, veteran warrior, stands at attention.
+~
+He has many scars.  
+~
+0
+Clanname none~
+0
+0
+3 0 600 C
+65 65 -35 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48046
+civil instigator~
+an instigator~
+An instigator stirs up trouble here.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+40 30 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48047
+granger~
+granger~
+Granger, head of the rebellion, plots here
+~
+This man has been hardened by life. His swarthy appearance is somehow 
+violent without any motion. Eyes that have become darkened by many battles 
+rest upon the map carved into the table and occasionally his lips silently 
+form plans. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+110 50 -80 11d14+530 11d14+65
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#48119
+old lady~
+an old Lady~
+An Old Lady sits behind the counter.
+~
+She is very wrinkly.
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#48000
+sword Azaradian~
+a standard issue `#`cAzaradian`^ sword~
+A Azaradian sword lies here.~
+~
+5 0 4
+2 17 25 0 0 0 0
+1 128 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48001
+jug beer~
+a jug of beer~
+A jug of beer has been carelessly dumped here.~
+~
+17 0 16
+10 1 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48002
+silver mace~
+a `#`Wsilver`^ mace~
+A silvery mace lies here.~
+~
+5 0 4
+2 14 24 0 0 0 0
+1 154 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48003
+sharp polearm~
+a `#`Wsharp`^ polearm~
+A Sharp looking polearm lies here~
+~
+5 1 4
+4 17 25 40 0 0 0
+1 749 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48004
+battle mace~
+a `#`Sbattle`^ mace~
+A battle mace lies here gathering dust.~
+~
+5 0 4
+4 17 25 256 0 0 0
+1 310 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48005
+thieves dagger~
+the dagger of `#`Rthieves`^~
+A Dark dagger lies here~
+~
+5 64 4
+3 70 85 8 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48006
+sword harpan~
+`#`sa sword of `cH`sarpan`^~
+A blackened sword with the symbol of Harpan is laying here.~
+~
+5 2 4
+2 78 101 16 0 0 0
+1 1196 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48007
+bracer chaos~
+`#`Wbracer`w of `Schaos`^~
+A very valuable looking bracer lies here~
+~
+9 0 8
+35 35 4 0 0 0 0
+1 468 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48008
+emerald ring~
+an `#`Gemerald`^ ring~
+A valuable looking ring has been left here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1274 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48009
+oak desk~
+a large oak desk~
+A large oak desk covered with papers is here.~
+~
+15 0 8
+13 0 100 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48010
+studded leather gloves~
+a pair of `#`sstudded `yleather `sgloves`^~
+A pair of studded leather gloves lies here.~
+~
+9 0 8
+10 10 1 0 0 0 0
+1 147 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48011
+bracer leather enchanted~
+an `#`Yenchanted`^ leather bracer~
+A leather bracer with mystic symbols sits here.~
+~
+9 64 8
+10 10 1 0 0 0 0
+1 162 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+48011 bracer~
+This bracer is covered with runes of protection and luck in combat.
+~
+#48012
+leather gloves~
+some `#`yleather`^ gloves~
+Some leather gloves lie here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 490 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48013
+a scroll of {#{gearthquake{^~
+a scroll of `#`GEarthquake`^~
+A Scroll rolls around here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 690 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#48014
+lightning scroll~
+a scroll of `#`CLightning`^~
+A scroll rolls around the floor here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 588 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+48014 scroll githyanki~
+The scroll has writings on it that you cannot comprehend.
+~
+#48015
+complicated scroll~
+a complicated scroll~
+A complicated scroll lies here.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 4874 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#48016
+Azaradian robe~
+a `#`cAzaradian`^ robe~
+A robe lies here.~
+~
+9 0 8
+5 5 10 0 0 0 0
+1 421 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48017
+black shield~
+a `#`sblack`^ shield~
+A black shield lies here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 183 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48018
+steel helmet~
+a `#`ssteel`^ helmet~
+A helmet made from steel lies here.~
+~
+9 0 8
+10 10 7 0 0 0 0
+1 383 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48019
+spiced potatoes~
+an order of `#`Rs`rp`Ri`rc`Re`rd`^ potatoes~
+An order of spiced potatoes is here.~
+~
+19 0 16
+13 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+48019 spiced potatoes order~
+An order of yummy spiced potatoes.
+~
+#48020
+map Azarad ~
+a map of the great Azarad~
+A rolled up map lies here.~
+~
+28 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+48020 map~
+(null)~
+#48021
+potion recall~
+a potion of `#`yrecall`^~
+A potion is here humming~
+~
+10 2 8
+0 -1 -1 -1 0 0 0
+1 112 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#48022
+potion stealth invis see fly~
+a potion of `#`ssteal`wth`^~
+A sneaky potion rolls around.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 644 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#48023
+blood red potion giant strength~
+a `#`Rblood red`^ potion~
+A `#`Rblood red`^ potion is here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 315 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+48023 blood red potion~
+This blood red potion is in a short glass vial.  It has a few dwarven 
+runes on it.
+~
+#48024
+potion healing~
+a potion of `#`Wh`we`Wa`wl`Wi`wn`Wg`^~
+A potion of healing is here.~
+~
+10 0 8
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#48025
+Azaradian prison chains~
+`#`cAzaradian`^ prison chains~
+Some chains lie here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48027
+necklace heart~
+a `#`Ygold `Rheart-shaped `^necklace~
+A beautiful necklace lies here~
+~
+33 1 32
+0 0 0 0 0 0 0
+1 375 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+48027 necklace heart~
+A red heart hangs from the end of the gold chain, making it a perfect gift 
+for someone you love.  
+~
+#48034
+Azaradian war banner~
+a `#`sAzaradian`^ warbanner~
+A warbanner lies here~
+~
+1 1 1
+0 24 0 0 0 0 0
+1 59 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48035
+wooden doll~
+a `#`ywooden`^ doll~
+A doll lies on the ground~
+~
+8 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48036
+minotaur cloak~
+a cloak of the `#`SMinotaur`^ guard~
+A cloak lies here gathering dust~
+~
+9 0 8
+40 40 10 0 0 0 0
+1 690 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48037
+standard issue flail~
+a standard issue `#`Yf`flail`^~
+A flail lies here~
+~
+5 0 4
+3 27 34 0 0 0 0
+1 298 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48038
+steel vambrances chaos~
+`#`Ssteel`^ vambrances of `#`Schaos`^~
+A set of vambrances lie here~
+~
+9 64 8
+40 40 10 0 0 0 0
+1 898 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48039
+fountain water~
+a fountain~
+A large fountain is here, gurgling out a stream of water.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48040
+steel toe boots~
+some steel toe `#`Wboots`^~
+Some heavy boots lie here.~
+~
+9 0 8
+5 5 7 0 0 0 0
+1 572 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48041
+shield~
+a `#`SMinotaur`^ shield~
+A shield lies here~
+~
+9 0 8
+10 10 3 0 0 0 0
+1 162 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48042
+spear war~
+the `#`GSpear`^ of `#`SWar`^~
+A long spear lies on the ground.~
+~
+5 0 4
+2 81 117 16 0 0 0
+1 780 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48043
+minotaur belt~
+a `#`Sminotaur`^ belt~
+A belt of the minotaur lies here.~
+~
+15 64 8
+5 0 100 0 0 0 0
+1 274 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48044
+barbed leather whip~
+`#`wa `rb`wa`srb`re`wd `swhip`^~
+A leather whip studded with many stone barbs lies coiled here.~
+~
+5 0 4
+2 7 16 0 0 0 0
+1 348 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#48045
+gilded battle axe~
+a `#`rgilded`^ battle axe~
+A large axe with a broad, copper-gilded blade lies here.~
+~
+5 0 4
+5 14 24 32 0 0 0
+1 416 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#48128
+A Side Street~
+~
+You are on a small street that continues south or north to wall Road,
+houses are all around you.  A small patch of green grass is in front of all
+the houses, and a tree is at the end of the Street.  
+~
+1 0 0
+D1
+~
+~
+0 0 48139
+D2
+~
+~
+0 0 48129
+D3
+~
+~
+0 0 48130
+R M 0 48039 10 48128
+  R E 0 48035 0 9
+R M 0 48036 10 48128
+S
+#48129
+End of a Street~
+~
+You are at the end of a side street, you can enter 3 houses from here or
+return to wall road to the north.  A small tree is at the end of the street
+and grass is in front of each house.  
+~
+1 0 0
+D0
+~
+~
+0 0 48128
+D1
+~
+~
+0 0 48132
+D2
+~
+~
+0 0 48131
+D3
+~
+~
+0 0 48133
+R M 0 48039 10 48129
+  R E 0 48035 0 9
+R M 0 48036 10 48129
+S
+#48130
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D1
+~
+~
+0 0 48128
+R M 0 48039 10 48130
+  R E 0 48035 0 9
+R M 0 48036 10 48130
+R M 0 48019 20 48130
+S
+#48131
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D0
+~
+~
+0 0 48129
+R M 0 48019 20 48131
+S
+#48132
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D3
+~
+~
+0 0 48129
+R M 0 48036 10 48132
+S
+#48133
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D1
+~
+~
+0 0 48129
+R M 0 48036 10 48133
+S
+#48134
+A Shop~
+~
+You stand in a small shop, a young boy sits behind the counter.  A small
+number of items are on a shelf behind the counter and have prices on them. 
+A candle is burning on the counter and is nearly out.  You can leave to the
+east.  
+~
+1 4 0
+S
+#48135
+Agailo's Tavern~
+~
+You stand in a large room with tables lining the walls and two circular
+ones in the center.  A fire bruns brightly at the far wall and there is a
+note on the counter reading "Will be back in a few", Ahailo isn't here right
+now.  
+~
+1 4 0
+R M 0 48010 1 48135
+  R G 0 48001 0
+  R G 0 48019 0
+S
+#48136
+A Bank~
+~
+Before you sits a large oak desk, two guards stand on either side and a
+money changer sits behind it.  This is the Bank of Azarad and the extra
+security is needed incase someone decides to steal the money.  You can hand
+some money over to this trusty changer or you can laeve to the south.  
+~
+1 262220 0
+R M 0 48024 1 48136
+S
+#48137
+A Leather Shop~
+~
+The smell of leather surrounds you, there is no escape for it.  Leather
+hats, leather boots and every other thing you could dream of is in this
+shop.  The shopkeeper is currently making more items to sell while he waits
+for you to make a selection.  A small candle is burning on the counter,
+providing light to view the wares.  You can buy something or leave to the
+north.  
+~
+1 4 0
+R M 0 48014 1 48137
+  R G 0 48012 0
+  R G 0 48010 0
+  R G 0 48011 0
+S
+#48138
+The Jail~
+~
+You stand in the Jail of Azarad, the place where bad people end up.  A
+cell is located west of here, although it is highly advised that you do not
+enter, there may be dangerous criminals inside.  A stool is on the far side
+of the wall and some keys hang above it.  
+~
+1 0 0
+D3
+~
+~
+0 0 48140
+R M 0 48028 1 48138
+S
+#48139
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D3
+~
+~
+0 0 48128
+R M 0 48036 10 48139
+R M 0 48019 20 48139
+S
+#48140
+Inside a Jail Cell~
+~
+You are in a large, but very dirt, jail cell.  The smell of vomit lingers
+in the air and causes most in the cell to get sick.  Nothing but some large
+iron bars keep the criminals from escaping.  
+~
+1 4 0
+D1
+~
+~
+0 0 48138
+R M 0 48029 1 48140
+  R E 0 48025 0 7
+S
+#48141
+Training Room~
+~
+You stand in an old Warehouse, all around you are dumbies and punching
+bags.  A trainer in the center of the room is teaching many new skills and
+increasing their power.  A large door is east of here.  
+~
+1 4 0
+R M 0 48030 1 48141
+S
+#48142
+A Side Street~
+~
+You are on a small street that continues north or south to wall Road,
+houses are all around you.  A small patch of green grass is in front of all
+the houses, and a tree is at the end of the Street.  
+~
+1 0 1
+D0
+~
+~
+0 0 48143
+D2
+~
+~
+0 0 48144
+D3
+~
+~
+0 0 48145
+S
+#48143
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D2
+~
+~
+0 0 48142
+R M 0 48019 20 48143
+S
+#48144
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D0
+~
+~
+0 0 48142
+R M 0 48019 20 48144
+S
+#48145
+End of a Street~
+~
+You are at the end of a side street, you can enter 3 houses from here or
+return to wall road to the south.  A small tree is at the end of the street
+and grass is in front of each house.  
+~
+1 0 1
+D0
+~
+~
+0 0 48148
+D1
+~
+~
+0 0 48142
+D2
+~
+~
+0 0 48147
+D3
+~
+~
+0 0 48146
+S
+#48146
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D1
+~
+~
+0 0 48145
+S
+#48147
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D0
+~
+~
+0 0 48145
+R M 0 48019 20 48147
+S
+#48148
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 0 0
+D2
+~
+~
+0 0 48145
+R M 0 48019 20 48148
+S
+#48149
+A Bar~
+~
+You stand inside of a bar, it is in fair repair and nothing noticable
+seems to be wrong with it.  A barternder is behind the bar offering everyone
+inside drinks.  
+~
+1 4 0
+R M 0 48033 1 48149
+  R G 0 3044 0
+  R G 0 10030 0
+  R G 0 27171 0
+  R G 0 27172 0
+  R G 0 3042 0
+  R G 0 3045 0
+  R G 0 28054 0
+S
+#48150
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 4 0
+R M 0 48019 20 48150
+S
+#48151
+A House~
+~
+You are standing in a normal sized house in fair repair.  A bedroom is
+off to your left and the kitchen is just ahead of you.  Small windows are in
+each room providing some light, there are also some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 4 0
+R M 0 48019 20 48151
+S
+#48152
+A Large House~
+~
+You stand in a Large house, that of a wealthy man.  A fireplace is in the
+far room and a rather large kitchen is on the opposite side of the house. 
+Directly in front of you is a flight of stairs rising to the second floor.  
+~
+1 0 0
+D4
+~
+~
+0 0 48153
+S
+#48153
+Upstairs in a House~
+~
+You are upstairs in a large house of a wealthy family.  A window so the
+south provides a good view of the Temple.  A bed is located in the far
+corner and beside that there is a night stand.  
+~
+1 0 0
+D5
+~
+~
+0 0 48152
+S
+#48154
+A Small House~
+~
+You are standing in a small sized house in fair repair.  A bedroom is off
+to your left and the kitchen is just ahead of you.  There are no windows in
+any of the rooms to provid light, but there are some candle holders for
+visibility at night.  Only exit is back the way you came.  
+~
+1 4 0
+R M 0 48019 20 48154
+S
+#48155
+A Shabby Room~
+~
+The smell in this room is awfull, bugs are all over the walls and the bed
+smells like vomite.  There are no windows, just a candle sitting on a very
+dirty night stand.  Perhaps it would be best to leave here, exit is to the
+south.  
+~
+1 33554444 0
+S
+#48156
+A Shabby Room~
+~
+The smell in this room is awfull, bugs are all over the walls and the bed
+smells like vomite.  There are no windows, just a candle sitting on a very
+dirty night stand.  Perhaps it would be best to leave here, exit is to the
+south.  
+~
+1 33554444 0
+S
+#48157
+A Shabby Room~
+~
+The smell in this room is awfull, bugs are all over the walls and the bed
+smells like vomite.  There are no windows, just a candle sitting on a very
+dirty night stand.  Perhaps it would be best to leave here, exit is to the
+south.  
+~
+1 33554444 0
+S
+#48158
+Heart of the Rebellion~
+~
+In this small hole the last hope of the people of Azarad has been gathered. 
+Amongst the rotted boards maps of underground routes, notes of the movements 
+and plans of a people have been tacked to every surface. In the midst of 
+this chaos is a table sparsely clean with a map of the city torn into it. 
+~
+1 4 0
+R M 0 48046 1 48158
+R M 0 48047 1 48158
+S
+#48180
+A Warehouse~
+~
+You are in a large Warehouse, boxes are stacked all the way to the
+ceiling and many workers scramble about moving them.  A large door faces
+wall road and allows easy entry and exit.
+~
+1 4 0
+R M 0 48035 24 48180
+S
+#0
+
+
+#SHOPS
+ 48003    5  0  0  0  0   350 100         0 23    ; diltram miypil
+ 48010   19 17  0  0  0   100   0         0 23    ; `#`wAgailo`^
+ 48014    9  0  0  0  0   115  35         0 23    ; the shopkeeper
+ 48020    2  0  0  0  0   105 100         0 23    ; an elder mage
+ 48021    9  0  0  0  0   120  70         0 23    ; a shopkeeper
+ 48023   19  0  0  0  0   110  25         0 23    ; `#Flantilo`^
+ 48025   10  0  0  0  0   150  65         0 23    ; `#Talham`^
+ 48026   26  0  0  0  0   140  80         0 23    ; `#Rhagilo`^
+ 48027    9  0  0  0  0   200  70         0 23    ; `#Achven`^
+ 48032   33  0  0  0  0   130  50         0 23    ; the jeweller
+ 48033   19  0  0  0  0   110  25         0 23    ; the bartender
+ 48119    4  3  0  0  0   105 100         0 23    ; an old Lady
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

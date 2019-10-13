@@ -1,0 +1,8564 @@
+#AREA        Mithas~
+
+
+
+#VERSION     11
+#AUTHOR      habbakuk shang-ti mahinae~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#26800
+shipping clerk~
+a shipping clerk~
+A shipping clerk stands here.
+~
+Valerie the shipping clerk stands here with a bored expression. Her hair is 
+frizzed out from her head from the humdity rolling off the water. Her 
+fingernails are bitten down to the quick. She looks around nervously from 
+time to time, and you can see a few gold coins sticking out of her back 
+pocket. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+85 0 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26801
+ochre slime~
+a huge ochre slime~
+A huge puddle of rust-colored slime rests upon the floor here.
+~
+The slime appears to be moving with a breathing-like motion.  Many bits of 
+digesting matter are suspended within it's jelly-like body.  
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26802
+loud drunk fisherman~
+a loud, drunk fisher~
+A loud, drunk fisher chatters on and on here.
+~
+This fisherman's face is swollen and red from sun and drink. The tips of his 
+ears and nose are lobster red, but still he sits on and babbles to his 
+friends. The more he talks, the louder he gets. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26803
+minotaur shopkeeper shop~
+a minotaur shopkeeper~
+A minotaur shopkeeper is here.
+~
+A minotaur shopkeeper is here.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26804
+shadow panther~
+a shadow panther~
+A shadowy form lurks around here.
+~
+This feline is comprised of pure shadow.  It seems to draw all the 
+surrounding light into it's murky body, making it very difficult to judge 
+it's exact location.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+54 0 -26 6d9+300 10d4+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26805
+old tanned fisherman~
+an old tanned fisherman~
+An old tanned fisherman is here.
+~
+This old man has a full gray beard that grows almost all the way down to his 
+belly. Bits of his breakfast have been caught in his long beard. His pale 
+blue eyes peer out under heavy lids in his lined face. His hands are gnarled 
+and half crippled with arthritis. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26806
+diona~
+diona~
+Diona is here wiping down the counter.
+~
+Diona, the owner of the Bloody Horn, stands here with a rag in her hand. She 
+silently takes the patrons' orders and stares down any who attempt 
+conversation. Little puffs of steam escape her nostrils when a drunk annoys 
+her. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26807
+perry~
+perry~
+Perry stands here displaying various items.
+~
+Perry, Captain of the Lickety Split, stands here in his best uniform. His 
+blue suite has been neatly pressed and pocket watch is visible hanging out 
+of one pocket. Items for sale are neatly stacked around him. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26808
+nenliat harbormaster~
+nenliat~
+Nenliat, the harbormaster, sits here behind his desk.
+~
+Nenliat, the harbormaster is here. His horns that adorn his bull-like head 
+spiral out to sharp points. They are shiny, as if he polishes them daily. 
+The human part of his body is branwy and tanned. On his bare feet, he has 
+large calcium deposits from walking in the saltwater. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+85 0 -55 8d12+420 10d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26809
+seagull~
+a seagull~
+A seagull pecks here at the ground.
+~
+This seagull's feathers seem to be free of infestation. It stops from time 
+to time to preen its feathers and smooth them down. Its little beak is a 
+bright orange-red. 
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26810
+seagull~
+a seagull~
+A seagull hops along here.
+~
+This seagull looks like your average seagull. Its plump body is a creamy 
+white color, with gray wings ending in darkened tips. Its small beak is a 
+light orange color that contrasts with its unruffled white body feathers. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+25 0 -7 4d5+110 2d10+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26811
+raging minotaur~
+a raging minotaur~
+A minotaur is here and is acting rather peculiar.
+~
+This minotaur has very mangy fur and looks pretty malnourished.  It seems to 
+babble to itself quietly as it glances around the room.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26812
+drunken minotaur~
+a drunken minotaur~
+A drunken minotaur slumps against the wall.
+~
+From the amount of flies buzzing around this minotaur's head, you'd think he 
+was dead. The fur on his head is dirty and matted. His long tongue lolls 
+half out of his mouth. His clothes are stained and have a particular odor. 
+As he mumbles to himself, the words are even more coherent as they are 
+babbled out with his tongue at the odd position. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+65 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26813
+bouncer laighu fierce brawny minotaur~
+a fierce, brawny male minotaur~
+A fierce, brawny male minotaur stands here, barring the entrance.
+~
+Laighu, the bouncer for the ship Her Triumphant Majesty stands here. His 
+bull head is marked with bare patches, and hardened scars wrap around his 
+long, strong arms. He seems to have a permanent smirk on his face. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26814
+cigar girl~
+a cigar girl~
+A cigar girl stands here.
+~
+This woman's body lush. She looks at you through heavily mascaraed lashes 
+and blows a kiss to you with her red painted mouth. She gives a little 
+wiggle then shows you her wares for sale. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26815
+no name~
+a blackjack dealer~
+A blackjack dealer stands here.
+~
+This markian male has his black hair tightly pulled back in a slick 
+ponytail. His clothes are streamlined, and his sleeves are pushed back to 
+show he has no hidden cards. His expression is serious and his eyes do not 
+miss an action. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -45 7d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26816
+ship guard~
+a guard~
+A guard watches over the area here.
+~
+This guard strolls unobtrusively around the ship. The clothes on the guard 
+are run of the mill, and nothing else stands out about the guard. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+91 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26817
+moaning drunk~
+a moaning drunk~
+A loudly moaning drunk man is here.
+~
+This man has seen better days. His clothes are filthy, and he reeks of cheap 
+wine and cigars. All of his pockets are turned inside out as if he had been 
+searching them. He has a soiled spot on the front of his shirt where he has 
+been sick. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26818
+scowling pit boss~
+a scowling bit boss~
+A scowling pit boss is standing here.
+~
+This pit boss looks mean and calculating. He watches the players' and 
+dealer's hands carefully. Nothing misses his beady black eyes. He looks well 
+toned and seems to have a permanent scowl on his face. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+91 0 -71 10d14+485 11d12+56
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26819
+poker dealer~
+a poker dealer~
+A poker dealer is standing here.
+~
+This poker dealer looks very bored with her job. Her eyes are half glazed 
+over except for when a player lays down a big tip for her. Her hair is 
+pushed back with bobby pins, and her clothes are the standard uniform. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+80 0 -53 8d12+410 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26820
+shady looking hunchback~
+a shady looking hunchback~
+A shady looking hunchback stands here.
+~
+This hunchback male has greasy blonde hair that falls around his face in 
+ringlets. He wears a large, dusty black cloak that he wraps tightly around 
+his gaunt body. His pockets bulge with change and it looks like you could 
+deal with him somehow. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26821
+man curly black hair~
+a man with `#`Scurly black`^ hair`^~
+A man with `#`Scurly black`^ hair`^ lounges here.
+~
+This man flashes you a bright smile as you approach. He has draped himself 
+comfortably over a chaise lounge and looks very comfortable. His clothing is 
+the latest style, and he seems to be very profitable. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+115 0 -85 12d15+555 12d15+70
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26822
+round death spore being~
+a death spore~
+A round, one-eyed being floats mysteriously in the air here.
+~
+This being is a magical death spore, a summoned guardian who will stand 
+watch until slain.  
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26823
+heavily made up woman~
+a heavily made up woman~
+A heavily made up woman sits on the stairs.
+~
+This woman has make-up caked on her face. Her rogue is a deep, dark red, and 
+her mouth is painted a bright pink. Her clothing consists only of a faded 
+bikini and wrap skirt. Her feet are bare and her toenails are painted. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26824
+skimpily dressed woman~
+a skimpily dressed female~
+A skimpily dressed female is splayed out over the stairs.
+~
+This woman is obscenely dressed. Her hair has been teased up, and her make 
+up seems to be about an inch thick. She is extremely unattractive by any 
+race's standards. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -50 8d11+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26825
+majesty surly captain~
+the surly captain~
+The captain stands here with a cross look on his face.
+~
+This captain's face is craggy and sunblistered. Heavy lids hang down over 
+his pale blue eyes. His mouth is twisted in a permanent sneer under his 
+large white moustache. 
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+118 0 -88 12d15+570 12d15+73
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26826
+wandering ship hand~
+a wandering ship hand~
+A ship hand is wandering around here.
+~
+This ship hand looks very bored as he goes around and cleans up the trash on 
+the boat and secures the rigging. He wears the standard uniform, blue pants 
+and a white tunic. He wanders from room to room as he cleans. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+68 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26827
+bored looking nurse~
+a bored looking nurse~
+A bored looking nurse sits here and reads.
+~
+This nurse is young. She has curly red hair and a sour look on her face. The 
+odor of antiseptics has permeated her hair and clothing. She seems competent 
+as she tends to the sailors, but she does not seem to enjoy her task. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+75 0 -48 8d11+390 9d9+39
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26828
+brown whiskered mouse~
+a brown whiskered mouse~
+A brown whiskered mouse scurries around.
+~
+This little brown mouse looks sleek and plump. It seems to be well fed from 
+all of the scraps that have been dropped. Its whiskers are constantly on the 
+move, and its soft fuzzy ears twitch at the smallest noises. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+20 0 -4 3d5+88 2d8+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26829
+stowaway~
+a stowaway~
+A stowaway creeps out from behind some cargo.
+~
+A stowaway stands here in very wrinkled clothes. He squints as he emerges 
+into the light. It seems as if he has been holed up in the cargo for 
+sometime. 
+~
+0
+Clanname none~
+0
+0
+65 65536 0 C
+68 0 -38 7d10+350 7d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26830
+spectral minion~
+a spectral minion~
+The spectral form of some humanoid creature wavers before you.
+~
+The form of this spectral minion appears much like that of a dwarf, only 
+that it 'stands' the height of a human.  It fades in and out of view as you 
+look at it.  
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+60 0 -32 6d10+325 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26831
+dock hand~
+a dock hand~
+A dock hand is here.
+~
+This dock hand is covered in dirt and sweat. Shoulder and back muscles 
+ripple as he lifts various crates and shipments. His hair is slick with 
+sweat that rolls off onto his deeply tanned shoulders. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+60 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26843
+daemon spider~
+a daemon spider~
+A giant spider stands here radiating a powerful aura.
+~
+This beast resembles it's smaller brethren, except for the fact that it is 
+as large as a house.  A black, sickening aura leeches into the air around 
+it's body.  
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+60 0 -35 6d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26854
+ryxxhavl dragon lich~
+`#`?Ryxxhavl`^~
+The skeletal form of a massive undead dragon clacks to life.
+~
+Before you is the animated skeleton of an undead dragon.  It is gigantic, 
+standing well over twenty feet tall with all four feet on the ground.  A 
+hellish glow covers over it's ivory frame, giving a translucent outline of 
+the once living form it posessed.  
+~
+0
+Clanname none~
+0
+0
+33 512 0 C
+91 0 -65 9d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26857
+labyrinth master~
+the labyrinth master~
+The master of the labyrinth stands before you, snorting heavily.
+~
+Before you is the massive form of the labyrinth master, a giant minotaur 
+with golden fur and blood red horns.  He wears a set of lightly glowing mail 
+armor that looks to be in perfect condition.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+86 0 -58 9d12+435 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26859
+swamp pixie~
+a swamp pixie~
+A wicked looking pixie stands here, fidgeting restlessly.
+~
+This pixie looks to have an evil taint, unlike a forest pixie.  Just as the 
+swamp corrupts the grassland, living in the swamp has obviously changed this 
+creature.  
+~
+0
+Clanname none~
+0
+0
+65 524288 -200 C
+32 0 -10 5d6+160 6d4+9
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26860
+swamp imp~
+a swamp imp~
+A small imp is picking it's nose here.
+~
+This creature is the size of a dog and has the skin of a troll.  A pair of 
+leathery wing grow from it's back.  It smells alot like manure too.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+35 0 -11 5d6+210 4d7+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26864
+skeletal arm mimic~
+a stone mimic~
+`gA skeletal arm lies here among the stones.`=?
+~
+This appears to be just a normal arm bone.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26867
+the beast~
+the beast~
+A large hairy beast is licking blood off of the floor here.
+~
+This beast looks like a cross between an ox and a frog, with the ugly 
+features of each.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+45 0 -15 5d7+250 8d4+16
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26875
+Calmor the Violent~
+the `#`rfiend`^ Calmor~
+Calmor stands here, and is looking quite crazed.
+~
+Calmor is a giant among minotaur.  He is covered in coarse black fur and
+he wears no armor.  He fights with his bare hands, and his skill goes
+unmatched.  Many horrible scars part his fur, some large enough to have
+proved life-threatening.  
+~
+0
+Clanname none~
+0
+0
+33 512 -600 C
+55 95 -27 6d9+310 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26877
+tower door watchman~
+an unseen servant~
+Foyer doorman
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26878
+tower door watchman~
+an unseen servant~
+Inside doorman
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+0 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26882
+arcanum shopkeep~
+the shopkeeper~
+A black-cloaked figure stands behind the tables, tending to something.
+~
+The shopkeep is dressed in a thick black robe that conceals him well.  His 
+eyes and teeth are the only visible objects contained within the large hood. 
+ 
+~
+0
+Clanname none~
+0
+0
+3 512 -600 C
+90 0 0 0d0+1 0d0+1
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26891
+magman~
+the magman~
+A magman stands here radiating an intense amount of heat.
+~
+This human-sized being looks to be formed from the very lava itself.  It's 
+skin bubbles and smoulders just like the lava found in the pool it is 
+standing in.  It has no eyes where the sockets are, and runnels of smoke 
+issue forth from each empty orifice.  
+~
+0
+Clanname none~
+0
+0
+33 512 -600 C
+67 0 -37 7d10+345 7d8+33
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26898
+fire daemon~
+a fire daemon~
+A daemon with flaming skin stands within the pentagram.
+~
+This fire daemon stands as tall as a troll and is covered with a black, 
+flaming skin.  
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+60 0 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26899
+minotaur roving~
+a roving minotaur is here.~
+A minotaur wanders around the plains here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+55 0 -25 5d9+300 10d4+23
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26900
+minotaur child~
+a minotaur child~
+A very small minotaur is running around here.
+~
+This minotaur is just a child and is quite small compared to the adults.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+12 0 0 2d5+45 1d10+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26901
+goblin slave~
+an enslaved goblin~
+An enslaved goblin cowardly sulks through here.
+~
+This goblin has been enslaved by the minotaurs of Mithas, as is evidenced by 
+the brutal brand upon it's forehead.  
+~
+0
+Clanname none~
+0
+0
+129 512 -600 C
+10 0 3 2d5+8 1d7+2
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26902
+female minotaur citizen~
+a female citizen~
+A female citizen of Lacynos toils about her errands here.
+~
+This adult female is dressed like a commoner of Lacynos.  She is quite large 
+and looks like she could handle herself if pressed to fight.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+15 0 -2 3d5+60 2d6+3
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26903
+male minotaur citizen~
+a male citizen~
+A male citizen of Lacynos minds his own business here.
+~
+This large male minotaur is dressed in the clothes of a commoner of Lacynos. 
+ He has the look of one that possesses military trainning.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+19 0 -4 3d5+88 2d7+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26904
+minotaur militia guard~
+a militia guard~
+A proud member of the `#`Gmilitia guard`^ surveys the streets here.
+~
+This minotaur stands tall with pride, as do all the members of the `#`GLacynos 
+Militia Guard`^.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+24 0 -6 4d5+110 2d10+6
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26905
+minotaur militia officer~
+a militia officer~
+An officer of the `#`Gmilitia guard`^ is walking through here.
+~
+This minotaur wears the rank insignia of an officer of the `#`GLacynos Militia 
+Guard`^.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+30 0 -9 5d5+140 4d6+8
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26906
+minotaur militia lieutenant~
+a militia lieutenant~
+A well-armed minotaur stands here with a haughty grin.
+~
+This member of the `#`GLacynos Militia Guard`^ appears to be a high-ranking and 
+highly-skilled warrior.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+36 0 -12 5d6+220 3d10+11
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26907
+noble minotaur~
+a minotaur noble~
+A well-dressed minotaur strides boldly through the streets.
+~
+This minotaur comes from the upper class of Lacynos, judging from the 
+quality and adornment of clothing.  
+~
+0
+Clanname none~
+0
+0
+129 512 0 C
+22 0 -5 4d5+95 4d4+5
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26908
+gnoll laborer~
+a gnoll laborer~
+A strong gnoll is here, laboring for it's minotaur masters.
+~
+This gnoll appears to be quite looked-after, as it is clean and relatively 
+unscathed.  The minotaurs obviously take care of the more worthy slaves.  
+~
+0
+Clanname none~
+0
+0
+65 0 -600 C
+26 0 -7 4d5+115 3d7+7
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26909
+minotaur gladiator~
+a minotaur gladiator~
+A gladiator is going about some errands here.
+~
+This minotaur looks accustomed to the rigors of pit fighting, and sports 
+many greivous scars to prove it.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+34 0 -11 5d6+205 4d7+10
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26910
+minotaur highguard swordsman~
+a `#`Mh`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md `ss`ww`so`wr`sd`ws`sm`wa`sn`^~
+A `#`ss`ww`so`wr`sd`ws`sm`wa`sn`^ of the `#`YLacynos `MH`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md`^ is on patrol here.
+~
+This well-armed warrior belongs to the elite guard of Lacynos.  He seems to 
+posess masterfull skill with a sword.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 0 -13 5d7+240 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26911
+minotaur highguard footman~
+a `#`Mh`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md `sf`wo`so`wt`sm`wa`sn`^~
+A `#`sf`wo`so`wt`sm`wa`sn`^ of the `#`YLacynos `MH`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md`^ is on patrol here.
+~
+This well-armed warrior belongs to the elite guard of Lacynos.  He seems to 
+posess masterfull skill with a mace.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 0 -13 5d6+235 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26912
+minotaur highguard pikeman~
+a `#`Mh`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md `sp`wi`sk`we`sm`wa`sn`^~
+A `#`sp`wi`sk`we`sm`wa`sn`^ of the `#`YLacynos `MH`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md`^ is on patrol here.
+~
+This well-armed warrior belongs to the elite guard of Lacynos.  He seems to 
+posess masterfull skill with a polearm.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+40 0 -13 5d7+240 4d8+13
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26913
+minotaur highguard master~
+a `#`Mh`Bi`Mg`Bh`Mg`Bu`Ma`Br`Md `cm`Ca`Wst`Ce`cr`^~
+(no default description)
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26914
+minotaur blacksmith phylorn~
+the blacksmith `#`sPhylorn`^~
+A well-built minotaur stands here, ready to assist you.
+~
+Phylorn is well-built, even if he does look a bit old.  He apparently has 
+been doing this line of work for a long, long time.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26915
+the armorer saffrin~
+the `#`md`so`mm`si`mn`sa`mt`sr`mi`sx `RS`raffrin`^~
+`#`RS`raffrin`^, the `#`sleather-clad`^ armorer, stands here.
+~
+This female minotaur is much larger than the average specimen.  She is 
+dressed in very tight fitting leather strapping, which sparsely covers the 
+essentials.  Her fur contains the colors of a cloudy sunset, arranged in a 
+blotchy pattern all over her body.  
+~
+0
+Clanname none~
+0
+0
+65 512 600 C
+140 0 -110 14d17+680 14d20+95
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26916
+blue-robed cleric~
+the `#`Bb`Cl`Bu`Ce`B-`Cr`Bo`Cb`Be`Cd`^ cleric~
+A `#`Bb`Cl`Bu`Ce`B-`Cr`Bo`Cb`Be`Cd`^ cleric of `#`WTyr`^ stands quietly here.
+~
+This female minotaur has devoted her life to the god Tyr, using her time to 
+spread his faith to those who are in need of it.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+91 0 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26917
+mizoth~
+mizoth~
+`#`GM`gizoth`^ the `#`?i`?l`?l`?u`?s`?i`?o`?n`?i`?s`?t`^ rests in a rocking chair here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26918
+two-faced jacob~
+`#`cJ`sacob`^~
+Two-Faced `#`cJ`sacob`^ stands here, looking around the place.
+~
+This male half-orc looks to be a rather seedy character, as his gaze darts 
+around the room from person to person.  
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+100 0 -70 10d14+480 10d13+55
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26919
+snoring fisherman~
+a snoring fisherman~
+A fisherman has fallen asleep here.
+~
+This fisherman is clad in raggedy old overalls and a stained white shirt. A 
+fishing pole dangles in his hand. His skin is tanned darkly from sitting out 
+in the sunlight all day. Loud snores roll out of him when he dozes off. 
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+50 0 -20 5d9+275 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26920
+spunky girl belledaire~
+a spunky girl~
+A spunky girl circles with a half-destroyed rattan blade.
+~
+This spunky girl with flaming red hair darts to and fro, her feet gliding 
+effortlessly even has her face streams sweat. The edge of her rattan blade 
+darts like a viper in complicated circles before slashing a defense quickly. 
+
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+90 50 65 20d6+500 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26921
+grizzled trainer dervan~
+a grizzled trainer~
+A grizzled trainer circles with a broken shield.
+~
+Seasoned and hard, the man circles without pausing to rest. His feet make up 
+for any lack of grace with careful deliberation and an almost unconscious 
+caution. His eyes watch everything carefully looking for openings. 
+~
+0
+Clanname none~
+0
+0
+65 32768 0 C
+92 55 -62 9d13+450 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#26922
+khanesh nervous boy~
+a nervous-looking dargorst boy~
+A nervous-looking dargorst boy paces frantically.
+~
+While immaculately dressed, this boy has obviously had little sleep and it 
+shows.  Deep crimson robes cover his deep caramel skin from neck to 
+ankles, bedecked with enough jewels to start a gemsmithing business. 
+Meanwhile, his hair has seen better years and his eyes have enough baggage 
+to run away. 
+~
+0
+Clanname none~
+0
+0
+65 4096 0 C
+79 60 -49 20d10+400 9d9+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#26800
+labyrinth exit portal~
+the exit from the labyrinth~
+A magic portal rises up from the ground here.~
+~
+29 64 16
+4096 1 26800 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26800 portal ~
+Looking into the portal you can see the entrance to the Labyrinth.  
+~
+#26801
+simple fishing pole~
+a simple fishing pole~
+A simple fishing pole is here.~
+~
+43 0 32
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26802
+green labyrinth portal~
+a `#`Ggreen`^ portal~
+The `#`Ggreen`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 16 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26802 green ~
+This door-shaped `#`Ggreen`^ field of energy fades in and out of view before you.  
+
+~
+#26803
+red labyrinth portal~
+a `#`Rred`^ portal~
+The `#`Rred`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26804 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26803 red ~
+This door-shaped `#`Rred`^ field of energy fades in and out of view before you.  
+~
+#26804
+spraying water fountain~
+a spraying water fountain~
+A water fountain sprays water into the air here.~
+~
+25 0 16
+999999 52 0 0 0 0 0
+50 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26804 spray water fountain~
+Jets of clear, clean water shoot up into the sky before softly falling back 
+down into the fountain. A fine mist is constantly present around the 
+fountain as the water falls. The water is clean and cool. 
+~
+#26805
+chiseled statue~
+a chiseled statue~
+A chiseled statue sits here.~
+~
+15 0 8
+0 0 10 0 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26805 chiseled statue~
+This statue is very short due to the models for it. An abstract chiseling of 
+two dwarves blowing kisses at each other results in this unique statue. The 
+male dwarf seems to be scuffing his foot in the dirt as he holds a small 
+bundle of wildflowers behind him. 
+~
+#26806
+tarnished silver locket~
+a tarnished silver locket~
+A tarnished silver locket has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26806 tarnished silver locket~
+This locket appears to have been left out in the elements for some time. It 
+squeaks softly when the two halves are pried apart. Inside there are two 
+minute drawings of a male and female dwarf. 
+~
+#26807
+black duffle bag~
+a `#`Sblack`^ duffle bag~
+A `#`Sblack`^ duffle bag has been left here.~
+~
+15 0 8
+5 0 30 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26808
+gold labyrinth portal~
+a `#`ygold`^ portal~
+The `#`ygold`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 16 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26808 gold ~
+This door-shaped `#`ygold`^ field of energy fades in and out of view before you.  
+~
+#26809
+white labyrinth portal~
+a `#`Wwhite`^ portal~
+The `#`Wwhite`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26810 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26809 white ~
+This door-shaped `#`Wwhite`^ field of energy fades in and out of view before you.  
+
+~
+#26810
+leather arm sheath~
+a pair of arm sheathes~
+A pair of leather arm sheathes have been left here.~
+~
+15 0 8
+0 0 3 0 0 0 0
+1 560 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26810 leather ~
+A pair of simple leather sheathes with added strapping to allow for 
+attachment on the arms.  
+~
+E
+26810 sheath ~
+A pair of simple leather sheathes with added strapping to allow for 
+attachment on the arms.  
+~
+#26811
+darkly stained barstools~
+darkly stained barstools~
+Darkly stained barstools have been placed here.~
+~
+12 0 8
+400 1168 50 50 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26812
+small leather holster~
+a small leather holster~
+A small piece of leather with a strap has been left here.~
+~
+15 0 8
+0 0 3 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26812 holster ~
+This looks like it could hold a dagger nicely.
+~
+#26813
+spiked leather gauntlet~
+a set of spiked leather gauntlets~
+A set of leather gauntlets with spiked knuckles lie here.~
+~
+9 0 8
+45 45 9 0 0 0 0
+1 230 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26813 gaunt ~
+These look like they would do some extra damage in a fight.
+~
+E
+26813 spike ~
+These look like they would do some extra damage in a fight.
+~
+#26814
+short apron~
+a short apron~
+A short apron has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26815
+giant club sandwich~
+a giant club sandwich~
+A giant club sandwich is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26816
+one-pound burger~
+a one-pound burger~
+A one-pound burger with everything is here.~
+~
+19 0 16
+35 0 0 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26817
+sizzling rack of ribs~
+a sizzling rack of ribs~
+A sizzling rack of ribs is here.~
+~
+19 0 16
+25 0 0 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26818
+glass of whiskey~
+a glass of `#`ywhiskey`^~
+A glass of `#`ywhiskey`^ is here.~
+~
+17 0 16
+20 5 0 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26819
+stout glass of ale~
+a stout glass of ale~
+A stout glass of ale is here.~
+~
+17 0 16
+20 3 0 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26820
+pink labyrinth portal~
+a `#`Mpink`^ portal~
+The `#`Mpink`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 16 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26820 pink ~
+This door-shaped `#`Mpink`^ field of energy fades in and out of view before you.  
+~
+#26821
+blue labyrinth portal~
+a `#`Bblue`^ portal~
+The `#`Bblue`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26822 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26821 blue ~
+This door-shaped `#`Bblue`^ field of energy fades in and out of view before you.  
+~
+#26822
+bottle green tea~
+a bottle of `#`ggreen tea`^~
+A bottle of `#`ggreen tea`^ is here.~
+~
+17 0 16
+20 47 0 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26823
+pair ratty old overalls~
+a pair of ratty old `#`boveralls`^~
+A pair of ratty old `#`boveralls`^ has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 5 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26824
+steel bracer~
+a `#`Ssteel`^ bracer~
+A `#`Ssteel`^ bracer has been left here.~
+~
+9 0 8
+55 55 8 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26825
+beat-up desk~
+a beat-up desk~
+A beat-up wooden desk is here.~
+~
+12 0 8
+400 584 50 50 0 0 0
+5 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26826
+token_26813_majesty~
+token_26813_majesty~
+Token_26813_majesty~
+~
+35 0 32
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26827
+fragrant cigar~
+a fragrant cigar~
+A fragrant cigar has been left here.~
+~
+42 0 32
+10 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26828
+black labyrinth portal~
+a `#`sblack`^ portal~
+The `#`sblack`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 16 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26828 black ~
+This door-shaped `#`sblack`^ field of energy fades in and out of view before you.  
+
+~
+#26829
+silver labyrinth portal~
+a `#`csilver`^ portal~
+The `#`csilver`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26830 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26829 silver ~
+This door-shaped `#`csilver`^ field of energy fades in and out of view before you. 
+ 
+~
+#26830
+long black cigarette~
+a long `#`Sblack`^ cigarette~
+A long `#`Sblack`^ cigarette has been left here.~
+~
+42 0 32
+10 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26831
+metal tables chairs~
+metal tables with attached seating~
+Metal tables with attached seating are here.~
+~
+12 0 8
+300 584 50 50 0 0 0
+100 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26832
+card table~
+a card table~
+A card table has been set up here.~
+~
+12 0 8
+300 72 10 10 0 0 0
+20 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26832 card table~
+This wooden card table's top has been covered with soft green felt. Cards 
+are spread out over the table when a game is going on. Two ashtrays are 
+placed at each end of the table in hopes of keeping it clean. 
+~
+#26833
+deadly steel blade~
+a deadly `#`Ssteel`^ blade~
+A deadly `#`Ssteel`^ blade lies here.~
+~
+5 0 4
+7 124 153 68 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26833 deadly steel blade~
+The handle on this blade is made out of beautifully carved ivory. A small 
+twisted knot has been carved into underside of the hilt. On top of the hilt, 
+a four leaf clover has been carved. The blade is strong and well-balanced. 
+~
+#26834
+poker table~
+a poker table~
+A poker table has been set up here.~
+~
+12 0 8
+400 72 10 10 0 0 0
+30 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26834 poker table~
+This poker table holds nothing but the cards in play and poker chips. The 
+top is covered with clean green felt. There are no ashtrays to be found on 
+this table, and no one leans on it. 
+~
+#26835
+tiny white pill~
+a tiny `#`Wwhite`^ pill~
+A tiny `#`Wwhite`^ pill lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+26835 tiny white pill~
+This tiny white pill looks innocent enough. There are no markings other than 
+a faint C imprinted on it. It leaves a dusty substance on your hand when you 
+touch it. 
+~
+#26836
+large blue pill~
+a large `#`Bblue`^ pill~
+A large `#`Bblue`^ pill is here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26837
+striped pill~
+a `#`Cs`Yt`Cr`Yi`Cp`Ye`Cd`^ pill~
+A `#`Cs`Yt`Cr`Yi`Cp`Ye`Cd`^ pill lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 850 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26838
+pale green pill~
+a `#`gpale green`^ pill~
+A `#`gpale green`^ pill lies here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26839
+ripped black shirt~
+a ripped `#`Sblack`^ shirt~
+A ripped `#`Sblack`^ shirt has been left here.~
+~
+9 0 8
+50 50 17 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26839 ripped black shirt~
+This close fitting black shirt is beginning to fade from all of the wear. It 
+has a small hole in the shoulder and seems to have been purposely ripped off 
+at the sleeves and midriff. 
+~
+#26840
+white nurse uniform~
+a `#`Wwhite`^ nurse uniform~
+A `#`Wwhite`^ nurse uniform is here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26841
+sapphire labyrinth portal~
+a `#`Csapphire`^ portal~
+The `#`Csapphire`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 16 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26841 sapphire ~
+This door-shaped `#`Csapphire`^ field of energy fades in and out of view before 
+you.  
+~
+#26842
+purple labyrinth portal~
+a `#`mpurple`^ portal~
+The `#`mpurple`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26843 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26842 purple ~
+This door-shaped `#`mpurple`^ field of energy fades in and out of view before you. 
+ 
+~
+#26843
+daemon tusk~
+a daemon tusk~
+The black tusk of some large beast has been dropped here.~
+~
+5 16 4
+5 78 101 164 0 0 0
+2 590 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26844
+pink chaise lounge~
+a `#`Mpink`^ chaise lounge~
+A `#`Mpink`^ chaise lounge is here.~
+~
+12 0 8
+200 66704 -10 -10 0 0 0
+10 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26845
+pale yellow book~
+a `#`ypale yellow`^ book~
+A `#`ypale yellow`^ book has been left here.~
+~
+7 0 4
+0 0 0 0 0 0 0
+1 10 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26845 pale yellow book~
+This book is of average size for a paperback. It seems to have been well 
+read. As you inspect the book, it falls open to a page titled "How to better 
+yourself - getting ahead in your job and home life." 
+~
+#26846
+elegant folding fan~
+an `#`se`wl`se`wg`sa`wn`st`^ folding fan~
+An `#`se`wl`se`wg`sa`wn`st`^ folding fan has been left here.~
+~
+5 0 4
+8 17 25 128 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26846 elegant folding fan~
+This elegant folding fan opens to reveal an intricately inked drawing of a 
+nightingale. Small good fortune symbols are etched into the fan's paper. 
+When the fan is turned over you see sharp steel tines stabbing out from the 
+back. 
+~
+#26847
+throwing knife~
+a throwing knife~
+A throwing knife gleams here.~
+~
+5 0 4
+4 17 25 0 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26847 throwing knife~
+This stubby throwing knife has a deadly serrated edge to it. Its steel blade 
+has been rubbed with some sort of mineral to turn it black. A small initial 
+is carved into the hilt, signifying that JL crafted the blade. 
+~
+#26848
+carved jade necklace~
+a necklace of carved jade~
+A necklace of carved jade has been left here.~
+~
+33 0 32
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26849
+pink silk sari~
+a `#`Mpink`^ silk sari~
+A `#`Mpink`^ silk sari has been left here.~
+~
+9 0 8
+10 10 10 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26849 pink silk sari~
+This sari has been cut from raw silk. Tiny shimmering crystal beads have 
+been affixed to the bottom of the wrap. A stripe of silver runs along one 
+edge. 
+~
+#26850
+short black kimono~
+a short `#`Sblack`^ kimono~
+A short `#`Sblack`^ kimono has been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26851
+black paper spirit ward~
+a `#`Sblack`^ paper spirit ward~
+A `#`Sblack`^ paper spirit ward is rolled up here.~
+~
+5 16 4
+6 14 24 2048 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26852
+yellow labyrinth portal~
+a `#`Yyellow`^ portal~
+The `#`Yyellow`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 8 26854 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26852 yellow ~
+This door-shaped `#`Yyellow`^ field of energy fades in and out of view before you. 
+ 
+~
+#26853
+rainbow labyrinth portal~
+a `#`?r`?a`?i`?n`?b`?o`?w`^ portal~
+The `#`?r`?a`?i`?n`?b`?o`?w`^ image of a portal phases in and out here.~
+~
+29 64 16
+4096 1 26855 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26853 rainbow ~
+This door-shaped, swirling field of energy fades in and out of view before 
+you.  
+~
+#26854
+the fang of ryxxhavl~
+a fang of `#`?Ryxxhavl`^~
+A large fang lies on the floor.~
+~
+5 0 4
+5 116 152 8 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26854 fang ~
+This is a fang from the maw of the dragon lich, `#`?  Ryxxhavl`^.  How it came to 
+be parted from it's owner is a mystery.  
+~
+#26855
+mithril ringmail jacket~
+a mithril ringmail jacket~
+A lightly glowing jacket of ringmail has been dropped here.~
+~
+9 64 8
+55 55 21 0 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26856
+mithril ringmail coif~
+a mithril ringmail coif~
+A ringmail coif made from mithril has been left here.~
+~
+9 0 8
+55 55 17 0 0 0 0
+1 2200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26857
+mithril ringmail leggings~
+some mithril ringmail leggings~
+A set of ringmail leggings crafted from glowing mithril lie here.~
+~
+9 64 8
+55 55 17 0 0 0 0
+1 3400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26858
+mithril chakram~
+a `#`Cm`ci`wt`sh`wr`ci`Cl `sc`wh`Wa`Rk`Wr`wa`sm`^~
+A ring of mithril with a sharp outer edge has been forgotten here.~
+~
+5 0 4
+6 116 152 24 0 0 0
+1 4500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26859
+bloodletter sword~
+the `#`RBlood`cletter`^ sword~
+A knife sized sword lies here covered in blood.~
+~
+5 16 4
+2 35 50 40 0 0 0
+1 394 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26859 bloodletter ~
+This is a special sword, as it seems perfectly balanced but requires the use 
+of both hands for some reason.  
+~
+#26860
+pocket~
+a secret pocket in the wall~
+A ragged picture of a kender with a bulging pocket hangs here.~
+~
+15 0 8
+5 0 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26861
+white paper spirit ward~
+a `#`Wwhite`^ paper spirit ward~
+A `#`Wwhite`^ paper spirit ward is rolled up here.~
+~
+5 0 4
+6 7 16 2048 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26869
+golden dragonskin cloak~
+a `#`Ydragonskin`^ cloak~
+The `#`Ygolden skin`^ of a dragon rests here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26869 skin ~
+This cloak seems to be made of the scaled skin of a gold dragon.  
+~
+#26870
+Calmor's belt~
+the belt of Calmor~
+A thick leather belt lies rolled up here.~
+~
+9 128 8
+5 5 18 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26871
+underground spring~
+a cool spring~
+`CWater`x flows from a `Bspring`x located in the wall.~
+~
+25 0 16
+30000 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26871 spring~
+The cold water is very pure and would serve well to quench your thirst.
+~
+E
+26871 water~
+The cold water is very pure and would serve well to quench your thirst.
+~
+#26872
+gold boulions~
+a mound of gold boulions~
+Lots of small gold coins litter the floor.~
+~
+20 0 16
+30 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26873
+the ring of pilfering~
+the ring of pilfering~
+A translucent band of silver lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 1344 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26874
+mummified kender arm~
+a mummified arm~
+The mummified arm of a kender is on display here.~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26874 arm ~
+It seems that this limb left it's former owner in a violent fashion.  
+~
+#26875
+Calmor's key~
+calmor's key~
+A small brass key shaped like a minotaur horn has been dropped here.~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26876
+trapdoor~
+a small trapdoor in the floor~
+A trapdoor is set into the floor here.~
+~
+15 32 8
+13 26875 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26877
+wyvern stinger~
+a wyvern stinger~
+The stinger from the tip of a wyvern's tail lies here.~
+~
+5 0 4
+2 14 24 128 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26877 stinger ~
+The tip of this looks quite sharp.  
+~
+#26878
+tower foyer key~
+key to the foyer~
+Key to the foyer~
+~
+18 32 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26879
+luminous gem~
+a luminous gemstone~
+A spherical gemstone radiates a `#`Wbright white`^ light upon this area.~
+~
+1 64 1
+0 999 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26879 gemstone ~
+Small flecks inside of the gem sparkle as magical light pours out from it's 
+very heart.  
+~
+#26880
+tome of essence magic~
+a tome of essence magic~
+A tome of essence magic rests here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26881
+potion perception see hidden augment hearing~
+a potion of perception~
+A large glass beaker that contains a potion lies here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26882
+potion resistance fire cold acid lightning~
+a potion of resistance~
+A stone vial that contains a potion has been dropped here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26883
+potion resting induce sleep~
+a potion of resting~
+A small glass vial sitting here contains a silver potion.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26884
+inner sanctum key~
+a small key~
+(no description 26884)~
+~
+18 0 16
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26885
+silken couch~
+a silken couch~
+A large, comfortable-looking silken couch sits here.~
+~
+12 64 8
+4000 1168 50 50 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26886
+marble bookcase~
+a marble bookcase~
+A bookcase crafted from black marble stands here.~
+~
+15 0 8
+5 0 300 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26886 bookcase ~
+The bookcase seems to be set up to hold a few large tomes and many scrolls.  
+
+~
+#26887
+tome of summoning~
+a tome of summon magic~
+A thick tome containing summoning magic rests here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26888
+tome of alteration~
+a tome of alteration magic~
+A small tome containing alteration magics sits here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#26889
+tower exit portal~
+a magic portal~
+A magical portal stands in the center of the room.~
+~
+29 64 16
+4096 1 26489 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26889 portal ~
+Looking into the portal, you see a glowing plum tree and a set of stone 
+stairs leading up to something out of view.  
+~
+#26890
+green tower portal~
+a `#`Ggreen`^ portal.~
+A shimmering `#`Ggreen`^ portal rises up from the floor here.~
+~
+29 64 16
+4096 1 33002 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26891
+magma~
+a pool of lava~
+A large pool of bubbling `#`Rlava`^ fills a good portion of the room.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26892
+red tower portal~
+a `#`Rred`^ portal~
+A shimmering `#`Rred`^ portal rises up from the floor here.~
+~
+29 64 16
+4096 1 27003 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26893
+spiked bracer~
+a spiked steel bracer~
+A thick band of steel covered in spikes has been set here.~
+~
+9 64 8
+10 10 8 0 0 0 0
+1 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26894
+arm~
+a skeletal arm~
+A skeletal arm~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26895
+gilded ring~
+a gilded ring~
+A small band of hammered gold has been forgotten here.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26896
+small orifice~
+a small orifice in the wall~
+A small orifice is set into the wall here.~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26897
+white tower portal~
+a `#`Wwhite`^ portal~
+A tall `#`Wwhite`^ portal rises up from the floor here.~
+~
+29 64 16
+4096 1 3000 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26898
+yellow tower portal~
+a `#`Yyellow`^ portal~
+A `#`Yyellow`^ portal stands upon a boulder here.~
+~
+29 64 16
+4096 1 25013 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26899
+fire disc~
+a `#`Rf`ri`wr`se d`wi`rs`Rc`^~
+A shield-like disc of fire burns magically here.~
+~
+9 64 8
+45 45 15 0 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26899 disc ~
+This two foot diameter floating disc of flame crackles with an intense 
+magical energy.  
+~
+#26900
+enter garden archway~
+a skillfully carved and gilded archway~
+A skillfully carved and gilded archway leads into the gardens.~
+~
+29 0 16
+0 1 26905 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26900 archway ~
+The stonework of this massive archway has been superbly crafted and is as 
+smooth as glass.  Upon it are relief figures of a mighty minotaur army 
+marching with pikes and shields at the ready.  The figures have been gilded 
+with many different types of metals, all polished to a liquid gleam.  
+~
+#26901
+brigandine greaves~
+some brigandine greaves~
+A pair of brigandine greaves have been left behind here.~
+~
+9 0 8
+6 6 5 0 0 0 0
+1 160 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26901 greaves ~
+This set of greaves consists of some thin metal plates sewn to a thick 
+leather backing, and covered by metal studded leather.  
+~
+#26902
+stone dolphin fountain~
+a spouting dolphin fountain~
+A carved stone dolphin spouts water from its mouth.~
+~
+25 0 16
+-1 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26902 dolphin ~
+This fountain is breathtakingly lifelike, only the drab green color betrays 
+the magnificent stonework.  The dolphin is frozen in a pose like it is 
+breaking the waters surface in the begin of a great skyward leap.  Water 
+spouts endlessly from it's mouth, arching into the air, and comming to rest 
+in a large basin at the base of the dolphin's tail.  
+~
+#26903
+red ivy vine~
+some red ivy~
+A small vine of red ivy has grown here.~
+~
+26 0 16
+0 -1 -1 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+26903 ivy ~
+The red leaves are coursed with thick purple veins.  
+~
+#26904
+carved marble bench~
+a carved marble bench~
+A fine marble bench offers a place to rest here.~
+~
+12 0 8
+1000 8389778 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26904 bench ~
+The bench is made of a greyish-green marble and looks like a good place to 
+sit for a spell.  
+~
+#26905
+ivybound archway~
+a finely carved, ivy-bound archway~
+A finely carved, ivy-bound archway stands at the garden entrance.~
+~
+29 0 16
+0 1 26900 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26905 archway ~
+This archway has been carved from an ivory stone streaked with thin bands of 
+black and grey.  A red ivy has overgrown most of the pillars and crawls 
+slightly along the top of the archway.  
+~
+#26906
+brigandine vambraces~
+some brigandine vambraces~
+A set of brigandine vambraces have been left here.~
+~
+9 0 8
+6 6 5 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26906 vambraces ~
+This set of vambraces is made with thin metal plates sewn to a thick leather 
+backing and covered by a metal studded leather.  
+~
+#26907
+wooden hammer~
+a `#`ywooden`^ hammer~
+A stout hammer made completely of wood lies here.~
+~
+5 0 4
+3 10 27 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26907 hammer ~
+The head of this hammer is deeply carved, creating many pointed protrusions 
+upon it's face.  
+~
+#26908
+fur tunic~
+a `#`sfur`^ tunic~
+A tunic made from some thick `#`sgrey fur`^ lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26909
+thick wool pants~
+thick `#`wwool`^ pants~
+A pair of thick `#`wwool`^ pants have been left here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26910
+leather halter~
+a `#`yleather`^ halter~
+A halter made of `#`yleather`^ lies here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 40 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26911
+thick wool skirt~
+a thick `#`wwool`^ skirt~
+A long, thick `#`wwool`^ skirt lies in a heap here.~
+~
+11 0 8
+0 0 0 0 0 0 0
+1 30 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26912
+leather breastplate~
+a `#`yleather`^ breastplate~
+A `#`yleather`^ breastplate has been left here.~
+~
+9 0 8
+5 5 5 0 0 0 0
+1 80 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26913
+leather greaves~
+a set of `#`yleather`^ greaves~
+A set of `#`yleather`^ greaves lie here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 70 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26914
+silk toga~
+a `#`Bsilk`^ toga~
+A billowing toga made of fine `#`Bsilk`^ has been dropped here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26915
+satin gloves~
+a pair of `#`msatin`^ gloves~
+A pair of `#`msatin`^ gloves lies here.~
+~
+11 64 8
+0 0 0 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26916
+silk changepurse~
+a `#`Bsilk`^ changepurse~
+A small `#`Bsilk`^ changepurse lies here.~
+~
+15 64 8
+5 0 30 80 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26917
+brigandine vest~
+a `#`rbrigandine`^ vest~
+A vest of brigandine armor lies here.~
+~
+9 0 8
+10 10 6 0 0 0 0
+1 120 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26918
+hardened leather boots~
+hardened `#`yleather`^ boots~
+A pair of thick leather boots have been left here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26919
+scalemail jacket~
+a `#`ss`wc`sa`wl`se`wm`sa`wi`sl`^ jacket~
+A jacket of scalemail has been dropped carelessly here.~
+~
+9 0 8
+10 10 7 0 0 0 0
+4 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26920
+scalemail greaves~
+some `#`ss`wc`sa`wl`se`wm`sa`wi`sl`^ greaves~
+Some greaves made of scalemail have been left here.~
+~
+9 0 8
+7 7 7 0 0 0 0
+2 250 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26921
+scalemail vambraces~
+some `#`ss`wc`sa`wl`se`wm`sa`wi`sl`^ vambraces~
+A set of scalemail vambraces rest upon the ground here.~
+~
+9 0 8
+7 7 6 0 0 0 0
+2 200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26922
+turtleshell breastplate~
+a `#`Gt`su`Gr`st`Gl`se`Gs`sh`Ge`sl`Gl`^ breastplate~
+A thick breastplate made from a turtle shell lies here.~
+~
+9 0 8
+11 11 8 0 0 0 0
+5 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26923
+studded copper bracer~
+a `#`ss`wt`su`wd`sd`we`sd `rcopper`^ bracer~
+A copper bracer with large studs lies here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26924
+studded copper ankleguard~
+a `#`ss`wt`su`wd`sd`we`sd `rcopper`^ ankleguard~
+A studded copper ankleguard has been dropped here.~
+~
+9 0 8
+5 5 4 0 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26925
+splintmail tunic~
+a `#`Cs`cp`Cl`ci`Cn`ct`Cm`ca`Ci`cl`^ tunic~
+Some splintmail fashioned into a tunic has been forgotten here.~
+~
+9 0 8
+10 10 9 0 0 0 0
+5 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26926
+splintmail vambraces~
+some `#`Cs`cp`Cl`ci`Cn`ct`Cm`ca`Ci`cl`^ vambraces~
+A pair of splintmail vambraces have been left here.~
+~
+9 0 8
+9 9 7 0 0 0 0
+2 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26927
+splintmail greaves~
+some `#`Cs`cp`Cl`ci`Cn`ct`Cm`ca`Ci`cl`^ greaves~
+Some splintmail greaves lie here.~
+~
+9 0 8
+9 9 7 0 0 0 0
+2 260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26928
+spiked skullcap~
+a `#`rs`Rp`Mik`Re`rd`^ skullcap~
+A skullcap with many sharp spikes lies here.~
+~
+9 0 8
+10 10 7 0 0 0 0
+1 190 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26929
+engraved copper breastplate~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ breastplate~
+A fine copper breastplate has been dropped here.~
+~
+9 0 8
+13 10 0 0 0 0 0
+5 650 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26930
+engraved copper girth~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ girth~
+A fine copper girth has been left here.~
+~
+9 0 8
+8 8 5 0 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26931
+engraved copper vambraces~
+some `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ vambraces~
+A set of fine copper vambraces lies here.~
+~
+9 0 8
+10 10 8 0 0 0 0
+2 410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26932
+engraved copper greaves~
+some `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ greaves~
+A fine set of copper greaves lies here.~
+~
+9 0 8
+10 10 8 0 0 0 0
+2 410 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26933
+engraved copper helmet~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ helmet~
+An engraved copper helmet lies here.~
+~
+9 0 8
+10 10 8 0 0 0 0
+1 380 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26934
+engraved copper boots~
+some `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ boots~
+A pair of copper boots has been left here.~
+~
+9 0 8
+8 8 7 0 0 0 0
+2 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26935
+engraved copper gauntlets~
+some `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ gauntlets~
+A pair of copper gauntlets lies here.~
+~
+9 0 8
+8 8 7 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26936
+engraved copper bracer~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ bracer~
+A bracer made of copper lies here.~
+~
+9 0 8
+10 10 4 0 0 0 0
+1 260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26937
+engraved copper ankleguard~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ ankleguard~
+An ankleguard made of copper lies here.~
+~
+9 0 8
+6 6 4 0 0 0 0
+1 260 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26938
+engraved copper neckguard~
+an `#`ce`bn`cg`br`ca`bv`ce`bd `rcopper`^ neckguard~
+A neckguard made of copper lies here.~
+~
+9 0 8
+7 7 5 0 0 0 0
+1 220 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26939
+platemail breastplate~
+a `#`splatemail`^ breastplate~
+A breastplate of steel platemail lies here.~
+~
+9 0 8
+17 17 12 0 0 0 0
+6 750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26940
+steel platemail girth~
+a `#`splatemail`^ girth~
+A girth made of steel platemail lies here.~
+~
+9 0 8
+10 10 7 0 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26941
+steel platemail vambraces~
+some `#`splatemail`^ vambraces~
+A set of steel platemail vambraces lies here.~
+~
+9 0 8
+12 12 10 0 0 0 0
+3 530 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26942
+steel platemail greaves~
+some `#`splatemail`^ greaves~
+A set of steel platemail greaves have been forgotten here.~
+~
+9 0 8
+12 12 10 0 0 0 0
+3 530 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26943
+steel closed-face helmet~
+a `#`ssteel`^ closed-face helmet~
+A heavy steel helmet lies here.~
+~
+9 0 8
+12 12 10 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26944
+steel platemail boots~
+a pair of `#`splatemail`^ boots~
+An armored set of boots lies here.~
+~
+9 0 8
+10 10 7 0 0 0 0
+2 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26945
+steel platemail gauntlets~
+a pair of `#`splatemail`^ gauntlets~
+A heavy pair of gauntlets lies here.~
+~
+9 64 8
+10 10 8 0 0 0 0
+1 480 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26946
+steel platemail bracer~
+a `#`ssteel`^ bracer~
+A bracer made of thick steel lies here.~
+~
+9 0 8
+7 7 6 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26947
+steel platemail ankleguard~
+a `#`ssteel`^ ankleguard~
+An ankleguard made of thick steel lies here.~
+~
+9 64 8
+7 7 6 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26948
+steel platemail neckguard~
+a `#`ssteel`^ neckguard~
+A neckguard made of thick steel lies here.~
+~
+9 0 8
+9 9 6 0 0 0 0
+1 350 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26949
+pocket knife~
+a pocket knife~
+A small folding pocket knife has been dropped here.~
+~
+5 0 4
+2 4 2 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26950
+oak baton~
+an `#`yoak`^ baton~
+A short oak baton lies on the ground.~
+~
+5 0 4
+1 10 13 0 0 0 0
+1 85 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26951
+stout oak hammer~
+a stout `#`yoak`^ hammer~
+A heavy hammer made of solid oak lies here.~
+~
+5 0 4
+5 4 6 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26952
+gladius~
+an `#`siron`^ gladius~
+An iron gladius lies upon the floor here.~
+~
+5 0 4
+5 7 16 0 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26953
+iron rondel dagger~
+an `#`siron`^ rondel~
+A rondel-style dagger lies on the floor here.~
+~
+5 0 4
+5 3 34 0 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26954
+iron tulwar sword~
+an `#`siron`^ tulwar sword~
+A very long sword with a thin blade rests here.~
+~
+5 0 4
+6 7 16 40 0 0 0
+1 340 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26955
+cat of nine tails~
+a `#`Bcat`g-of-`mnine`g-`Rtails`^~
+A cat-of-nine-tails lies upon the ground.~
+~
+5 0 4
+3 9 37 0 0 0 0
+1 180 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26956
+corseque polearm~
+a wicked-looking `#`ccorseque`^~
+A wicked-looking corseque polearm has been left here.~
+~
+5 0 4
+10 17 25 48 0 0 0
+2 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26957
+spatha sword~
+a gladiator `#`Rspatha`^ sword~
+A gladiator's spatha sword has been left here.~
+~
+5 0 4
+3 11 3 16 0 0 0
+1 280 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26958
+chain whip~
+a length of chain~
+A good length of chain lies here.~
+~
+5 0 4
+3 10 13 8 0 0 0
+1 140 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26959
+silver double-ball flail~
+a `#`csilver`^ double-ball flail~
+A flail with two gleaming silver balls lies upon the floor.~
+~
+5 256 4
+3 17 25 272 0 0 0
+3 720 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26960
+flamberge sword~
+a `#`rf`ml`ra`mm`rb`me`rr`mg`re`^~
+A very large sword lies upon the ground.~
+~
+5 0 4
+8 5 21 48 0 0 0
+2 560 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26961
+cast iron street lamp~
+a cast iron street lamp~
+A cast iron lamp illuminates this area.~
+~
+13 1 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26962
+flanged battlemace mace~
+a `#`Rf`yl`Ra`yn`Rg`ye`Rd`^ battlemace~
+A huge flanged mace lies here.~
+~
+5 0 4
+12 3 27 48 0 0 0
+3 460 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26963
+broadleaf pike~
+a `#`Ybroadleaf-headed`^ pike~
+A pike with a broad, leaf-like head lies upon the ground.~
+~
+5 0 4
+5 9 34 48 0 0 0
+2 480 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26964
+double-broad axe~
+a `#`Rdouble-broad`^ axe~
+A huge axe with two broad blades lies here.~
+~
+5 0 4
+3 18 21 56 0 0 0
+4 680 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26965
+tome of illusions~
+a `#`ytome`^ of `#`?i`?l`?l`?u`?s`?i`?o`?n`?s`^~
+A `#`yleather-bound`^ tome of `#`?i`?l`?l`?u`?s`?i`?o`?n`^ magic floats here.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 52000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+E
+26965 tome ~
+The tome is bound in supple leather, and clasped with a small silver buckle. 
+ It is quite a thick book.  
+~
+#26966
+oak staff invis~
+an `#`yoak`^ staff~
+A tall staff hewn from `#`yoak`^ rests on the ground here.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 14000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+26966 oak ~
+This oak staff is carved with many runes which spiral around it's length.  
+It has a leather-bound grip in the center.  
+~
+E
+26966 staff ~
+This oak staff is carved with many runes which spiral around it's length.  
+It has a leather-bound grip in the center.  
+~
+#26967
+jewel vine~
+a `#`Cg`Ge`Cm`Gs`Ct`Go`Cn`Ge`^ encrusted vine~
+A `#`yvine`^ covered with numerous uncut `#`Cg`Ge`Cm`Gs`Ct`Go`Cn`Ge`Cs`^ lies here.~
+~
+3 64 2
+0 0 0 -1 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+E
+26967 gemstone ~
+This foot-long vine appears freshly cut, as it still has many green leaves 
+growing along it's length.  The whole vine is covered with uncut gemstones.  
+~
+E
+26967 vine ~
+This foot-long vine appears freshly cut, as it still has many green leaves 
+growing along it's length.  The whole vine is covered with uncut gemstones.  
+~
+#26968
+hematite earring~
+a `#`shematite`^ earring~
+A ball shaped `#`shematite`^ earring lies here.~
+~
+33 64 32
+0 0 0 0 0 0 0
+1 420 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26968 ball ~
+A short post is fixed to the small sphere of hematite, allowing it to be 
+fastened to one's ear.  
+~
+E
+26968 earring ~
+A short post is fixed to the small sphere of hematite, allowing it to be 
+fastened to one's ear.  
+~
+E
+26968 hematite ~
+A short post is fixed to the small sphere of hematite, allowing it to be 
+fastened to one's ear.  
+~
+#26969
+hollowed gourd~
+a `#`yho`wl`slo`ww`yed `Ggourd`^~
+A `#`yho`wl`slo`ww`yed `Ggourd`^ lies here.~
+~
+17 64 16
+72 52 0 0 0 0 0
+1 3500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26969 hollowed ~
+The gourd has been hollowed out and dried.  There is a hole that has a cork 
+stopper shoved into it.  Also, a leather strap has been tied to it.  
+~
+E
+26969 gourd ~
+The gourd has been hollowed out and dried.  There is a hole that has a cork 
+stopper shoved into it.  Also, a leather strap has been tied to it.  
+~
+#26970
+nightstand~
+An `#`roak`^ nightstand~
+A solid `#`roak`^ nightstand has been placed next to the bed here.~
+~
+15 0 8
+5 0 10 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26970 nightstand ~
+The nightstand appears to be made of solid wood, and has been finished in a 
+dark stain.  It has a small drawer built into it.  
+~
+#26971
+feather canopy bed~
+a canopy bed~
+The feather canopy bed here looks quite comfortable.~
+~
+12 0 8
+800 66704 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26971 bed ~
+The bed has a thick quilt and a soft feather-filled matress.  It makes you 
+want to goto sleep.  
+~
+E
+26971 canopy ~
+The bed has a thick quilt and a soft feather-filled matress.  It makes you 
+want to goto sleep.  
+~
+E
+26971 feather ~
+The bed has a thick quilt and a soft feather-filled matress.  It makes you 
+want to goto sleep.  
+~
+#26972
+skull~
+a `#`Ws`wk`Wu`wl`Wl`^~
+A skull lies here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26973
+rickety wooden folding chairs~
+rickety wooden folding chairs~
+Rickety wooden folding chairs are set here.~
+~
+12 0 8
+200 1168 50 50 0 0 0
+1 1 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26973 old rickety folding chair~
+These chairs have seen better days. The wood is scuffed and scarred. One of 
+the chairs has a small burn mark on it as if a cigarette was dropped onto 
+it. 
+~
+#26974
+leather knife pouches~
+a set of `#`yleather`^ knife pouches~
+A set of pouches connected by a long strap lies here.~
+~
+15 0 8
+0 0 1 0 0 0 0
+1 1216 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26975
+steel faceplate~
+a `#`csteel`^ faceplate~
+A steel faceplate has been left here.~
+~
+9 0 8
+60 60 12 0 0 0 0
+1 2000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26976
+rattan blade~
+a long rattan blade~
+Someone has left a long blade of wooden staves here.~
+~
+5 0 4
+11 116 152 12288 0 0 0
+1 320 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26977
+parrying blade~
+a parrying blade~
+A dull blade litters the ground.~
+~
+5 0 4
+2 116 152 16 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26978
+crystal droplet~
+a `#`Rcrimson`^ crystal droplet~
+A small red droplet earring was misplaced here.~
+~
+17 0 16
+20 13 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#26979
+small wooden box~
+a `#`ywooden`^ box adorned with a `Rred`^ ribbon~
+A small `#`ywooden`^ box adorned with a `Rred`^ ribbon sits here.~
+~
+15 0 8
+5 0 10 100 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+E
+26979 notice ~
+A gift of Sultans to Sultanas, this set of earrings carries the blood of our 
+people within it. For those who consent they allow a wonderous gift. They 
+may be used to bridge the gap of minds. To do so, all one must do is share 
+them with each other and each allow the blood of our people to touch your 
+skin. As a gift of love.. they may only be used willingly. The curse of the 
+sands upon those who'd seek to escape this edict. 
+~
+E
+26979 small wooden box~
+This small wooden box is ages old. A soft red ribbon has been wrapped around it obviously to be used to close it.
+At the nape of the ribbon, a small notice has been left on it.
+~
+#0
+
+
+#ROOMS
+#26800
+Before the Labyrinth~
+~
+All around you are the tall grasses and thickets that grow rampantly upon 
+the plains of Mithas.  A short distance west, however, there appears to be a 
+rather large rock outcropping.  Around it's base, the rock rises almost 
+completely vertical for a hundred feet before rounding off.  At the highest 
+point the hillock must reach about three hundred feet.  A small, dark cavern 
+entrance can be seen in the distance to the west.  
+~
+1 4 2
+D1
+~
+~
+0 0 26436
+D3
+~
+~
+0 0 26801
+S
+#26801
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26800
+D3
+~
+~
+0 0 26802
+R M 0 26801 4 26801
+S
+#26802
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26801
+D9
+~
+~
+0 0 26803
+R M 0 26801 4 26802
+S
+#26803
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D7
+~
+~
+0 0 26802
+R M 0 26801 4 26803
+R O 0 26803 0 26803
+R O 0 26802 0 26803
+S
+#26804
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D9
+~
+~
+0 0 26805
+R M 0 26804 3 26804
+S
+#26805
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D3
+~
+~
+0 0 26806
+D7
+~
+~
+0 0 26804
+R M 0 26804 3 26805
+S
+#26806
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26805
+D2
+~
+~
+0 0 26808
+D8
+~
+~
+0 0 26807
+R M 0 26804 3 26806
+S
+#26807
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26808
+D2
+~
+~
+0 0 26809
+D6
+~
+~
+0 0 26806
+S
+#26808
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26806
+D3
+~
+~
+0 0 26807
+D8
+~
+~
+0 0 26809
+S
+#26809
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26807
+D6
+~
+~
+0 0 26808
+R O 0 26808 0 26809
+R O 0 26809 0 26809
+S
+#26810
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D9
+~
+~
+0 0 26811
+S
+#26811
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26812
+D7
+~
+~
+0 0 26810
+R M 0 26811 1 26811
+  R E 0 26810 0 10
+  R E 0 26812 0 29
+  R E 0 26812 0 30
+  R E 0 26813 0 9
+S
+#26812
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26811
+D6
+~
+~
+0 0 26813
+S
+#26813
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26814
+D8
+~
+~
+0 0 26812
+S
+#26814
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26813
+D8
+~
+~
+0 0 26820
+D9
+~
+~
+0 0 26815
+S
+#26815
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D3
+~
+~
+0 0 26816
+D7
+~
+~
+0 0 26814
+D8
+~
+~
+0 0 26818
+S
+#26816
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26815
+D2
+~
+~
+0 0 26818
+D8
+~
+~
+0 0 26817
+S
+#26817
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26818
+D6
+~
+~
+0 0 26816
+D7
+~
+~
+0 0 26819
+S
+#26818
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26816
+D2
+~
+~
+0 0 26819
+D3
+~
+~
+0 0 26817
+D6
+~
+~
+0 0 26815
+S
+#26819
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26818
+D1
+~
+~
+0 0 26820
+D2
+~
+~
+0 0 26821
+D9
+~
+~
+0 0 26817
+S
+#26820
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D3
+~
+~
+0 0 26819
+D6
+~
+~
+0 0 26814
+D8
+~
+~
+0 0 26821
+S
+#26821
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26819
+D6
+~
+~
+0 0 26820
+R O 0 26820 0 26821
+R O 0 26821 0 26821
+S
+#26822
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D7
+~
+~
+0 0 26823
+R M 0 26822 7 26822
+S
+#26823
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26824
+D9
+~
+~
+0 0 26822
+R M 0 26822 7 26823
+S
+#26824
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26823
+D1
+~
+~
+0 0 26826
+D7
+~
+~
+0 0 26825
+R M 0 26822 7 26824
+S
+#26825
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26826
+D1
+~
+~
+0 0 26827
+D9
+~
+~
+0 0 26824
+R M 0 26822 7 26825
+S
+#26826
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26828
+D2
+~
+~
+0 0 26825
+D3
+~
+~
+0 0 26824
+D7
+~
+~
+0 0 26827
+R M 0 26822 7 26826
+S
+#26827
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26828
+D3
+~
+~
+0 0 26825
+D9
+~
+~
+0 0 26826
+R M 0 26822 7 26827
+S
+#26828
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26827
+D3
+~
+~
+0 0 26826
+D6
+~
+~
+0 0 26829
+R M 0 26822 7 26828
+S
+#26829
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D8
+~
+~
+0 0 26828
+R O 0 26829 0 26829
+R O 0 26828 0 26829
+S
+#26830
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26831
+D6
+~
+~
+0 0 26832
+S
+#26831
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26832
+D2
+~
+~
+0 0 26830
+R M 0 26830 3 26831
+S
+#26832
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D3
+~
+~
+0 0 26831
+D7
+~
+~
+0 0 26833
+D8
+~
+~
+0 0 26830
+S
+#26833
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D8
+~
+~
+0 0 26834
+D9
+~
+~
+0 0 26832
+S
+#26834
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26835
+D6
+~
+~
+0 0 26833
+R M 0 26830 3 26834
+S
+#26835
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26834
+D2
+~
+~
+0 0 26838
+D7
+~
+~
+0 0 26836
+S
+#26836
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D3
+~
+~
+0 0 26838
+D8
+~
+~
+0 0 26837
+D9
+~
+~
+0 0 26835
+S
+#26837
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26838
+D3
+~
+~
+0 0 26840
+D6
+~
+~
+0 0 26836
+S
+#26838
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26835
+D1
+~
+~
+0 0 26836
+D2
+~
+~
+0 0 26837
+D3
+~
+~
+0 0 26839
+S
+#26839
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26838
+D2
+~
+~
+0 0 26840
+D3
+~
+~
+0 0 26841
+R M 0 26830 3 26839
+S
+#26840
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26839
+D1
+~
+~
+0 0 26837
+D9
+~
+~
+0 0 26841
+S
+#26841
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26839
+D3
+~
+~
+0 0 26842
+D7
+~
+~
+0 0 26840
+S
+#26842
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26841
+R O 0 26841 0 26842
+R O 0 26842 0 26842
+S
+#26843
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D9
+~
+~
+0 0 26844
+R M 0 26843 2 26843
+  R G 0 26843 0
+S
+#26844
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26845
+D7
+~
+~
+0 0 26843
+S
+#26845
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26844
+D9
+~
+~
+0 0 26846
+S
+#26846
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26847
+D7
+~
+~
+0 0 26845
+S
+#26847
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26849
+D2
+~
+~
+0 0 26846
+D9
+~
+~
+0 0 26848
+S
+#26848
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26850
+D1
+~
+~
+0 0 26849
+D2
+~
+~
+0 0 26852
+D3
+~
+~
+0 0 26851
+D7
+~
+~
+0 0 26847
+S
+#26849
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26847
+D3
+~
+~
+0 0 26848
+D9
+~
+~
+0 0 26850
+S
+#26850
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D2
+~
+~
+0 0 26848
+D7
+~
+~
+0 0 26849
+D8
+~
+~
+0 0 26851
+R M 0 26843 2 26850
+  R G 0 26843 0
+S
+#26851
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D1
+~
+~
+0 0 26848
+D6
+~
+~
+0 0 26850
+D7
+~
+~
+0 0 26852
+S
+#26852
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26848
+D2
+~
+~
+0 0 26853
+D9
+~
+~
+0 0 26851
+S
+#26853
+The Labyrinth~
+~
+This passage is smoothly carved and very dark.  The air is stale, making you 
+feel nauseous and disoriented.  The black walls seem to absorb all light.  
+~
+1 939524105 11
+D0
+~
+~
+0 0 26852
+R O 0 26852 0 26853
+R O 0 26853 0 26853
+S
+#26854
+The Labyrinth~
+~
+This room contains hundreds of skeletons of various creatures.  Most of the 
+bones resemble humanoid races, but there are some exceptions.  The giant 
+skeletal head of a dragon stares at you with it's lower jaw dislocated and 
+hanging from only one joint.  Another pile of bones once belonged to 
+something which possessed four arms and six legs.  It seems as if this was 
+the end of the road for many who chose the wrong path.  
+~
+1 939524109 11
+R M 0 26854 1 26854
+  R G 0 26854 0
+S
+#26855
+Center of the Labyrinth~
+~
+You have made it into the center of the labyrinth.  The area is open, but a 
+magic field shimmers high above you, sealing this area from the outside 
+world.  The grass is short but quite soft.  This open field is walled in on 
+all sides by sheer cliffs rising a hundred feet into the air.  
+~
+1 532480 2
+D7
+~
+~
+0 0 26856
+D8
+~
+~
+0 0 26858
+R O 0 26800 0 26855
+S
+#26856
+Center of the Labyrinth~
+~
+You have made it into the center of the labyrinth.  The area is open, but a 
+magic field shimmers high above you, sealing this area from the outside 
+world.  The grass is short but quite soft.  This open field is walled in on 
+all sides by sheer cliffs rising a hundred feet into the air.  
+~
+1 532480 2
+D8
+~
+~
+0 0 26857
+D9
+~
+~
+0 0 26855
+S
+#26857
+Center of the Labyrinth~
+~
+You have made it into the center of the labyrinth.  The area is open, but a 
+magic field shimmers high above you, sealing this area from the outside 
+world.  The grass is short but quite soft.  This open field is walled in on 
+all sides by sheer cliffs rising a hundred feet into the air.  
+~
+1 532480 2
+D6
+~
+~
+0 0 26856
+D9
+~
+~
+0 0 26858
+R M 0 26857 1 26857
+  R E 0 26855 0 5
+  R E 0 26856 0 6
+  R E 0 26857 0 7
+  R E 0 26858 0 16
+S
+#26858
+Center of the Labyrinth~
+~
+You have made it into the center of the labyrinth.  The area is open, but a 
+magic field shimmers high above you, sealing this area from the outside 
+world.  The grass is short but quite soft.  This open field is walled in on 
+all sides by sheer cliffs rising a hundred feet into the air.  
+~
+1 532480 2
+D6
+~
+~
+0 0 26855
+D7
+~
+~
+0 0 26857
+S
+#26859
+Pixie cavern~
+~
+This small cavern look to be home to some small creature.  There are two 
+chairs made of hewn logs and padded with a thick moss.  A small table made 
+from a cleft rock sits between the chairs and has a neat cloth covering the 
+center.  A firepit lies in the middle of the cave, but the wood piled within 
+is unlit.  Many strange carvings adorn the walls, each depict a twisting 
+body frozen in an odd dance.  
+~
+1 9 11
+D1
+~
+~
+0 0 26472
+D4
+~
+~
+1 0 26490
+R M 0 26859 1 26859
+  R E 0 26859 0 16
+S
+#26860
+Dismal lair~
+~
+The stench of decaying matter fills this chamber, adding to the gloominess 
+that has been established by a shroud of darkness.  The looming shadows mesh 
+seemlessly with the arching thatch from which this abode has been 
+constructed.  Lifeless corpses of many creatures furnish this den, their 
+bones coverd by an odd, slimy substance.  The only exit out of these feeding 
+grounds is to the east.  
+~
+1 9 8
+D1
+~
+~
+0 0 26474
+R M 0 26860 1 26860
+R O 0 26860 0 26860
+  R P 0 26474 1 26860
+  R P 0 26473 1 26860
+E
+thatch~
+Close examination of the domed thatch reveals a small pocket that has
+been concealed within one of the walls.  
+~
+S
+#26861
+Dank caverns~
+~
+The small tunnel opens into a branching cavern here.  The walls here are
+very damp, as is the floor.  A few small pools of water have collected here
+as well.  The passage widens even more a short distance to the south, but
+the tunnel back up constricts sharply.  
+~
+1 9 0
+D2
+~
+~
+0 0 26862
+D4
+~
+~
+0 0 26416
+S
+#26862
+Dank caverns~
+~
+The passage is very wide and quite tall here.  The same cold, damp air
+fills this area with it's leeching sting.  A large tunnel heads to the west,
+and a roughly hewn corridor has been dug to the south.  A faint scratching
+sound can be heard every now and then.  
+~
+1 9 0
+D0
+~
+~
+0 0 26861
+D2
+~
+~
+0 0 26863
+D3
+~
+~
+0 0 26865
+S
+#26863
+Quartz tunnel~
+~
+An eerie light is given off from the walls here, a strange pale white
+glow.  The tunnel is cut from a large formation of greyish-white quartz. 
+There is no discernable source for the light, it just seems to flow slowly
+from the quartz.  The passage makes a north/east bend here, both of which
+are dark beyond this point.  
+~
+1 8 0
+D0
+~
+~
+0 0 26862
+D1
+~
+~
+0 0 26864
+E
+quartz~
+The quartz is glowing with a dim white light, and the grey flecks seem to
+flow within the white of the stone.  
+~
+S
+#26864
+Caved-in tunnel~
+~
+The ceiling of this passageway has collapsed, leaving the way east
+completely blocked off.  A skeletal arm protrudes from underneath some of
+the stones, an unfortunate end for someone.  The stones in the ceiling are
+ravaged with cracks, and the occasional scrape of shifting rock can be
+heard.  It is probably not a very safe place to stay for long.  
+~
+1 9 0
+D3
+~
+~
+0 0 26863
+R M 0 26864 1 26864
+E
+arm~
+The arm and hand are a bit large to be a human, but they are built very
+much the same way.  
+~
+S
+#26865
+Dank caverns~
+~
+The tunnel here is difficult to manuver through, as there are many jagged
+rocks jutting up from the floor.  The ceiling is quite low as well, adding
+to the hinderance of movement.  Piles of bones litter the floor between the
+rocks.  Some have large gouges taken from them, others seem to have been
+broken.  
+~
+1 9 0
+D1
+~
+~
+0 0 26862
+D3
+~
+~
+0 0 26866
+S
+#26866
+Bone pile~
+~
+The entire floor of this area is covered with the bones of all sorts of
+creatures.  Some of them look to be rather fresh, having bits of rotting
+meat clinging still.  There are a few humanoid skeletons here as well, no
+doubt some curious explorers who found the cause of this mess.  There are
+many deep claw marks in the stone walls, becoming more frequent to the
+north.  You can't quite see into the room that lies beyond, but shifting
+sounds can be heard.  
+~
+1 9 0
+D0
+~
+~
+0 0 26867
+D1
+~
+~
+0 0 26865
+S
+#26867
+Lair of the beast~
+~
+This room consists of many dark alcoves jutting into the stone walls. 
+The floor is smooth here, and a pile of rubbish in the corner serves as a
+bed of sorts.  Claw marks riddle the floor nearby to the south, and some
+bones can be seen in that direction as well.  Hopefully the beast that
+resides here is out at the moment.  
+~
+1 9 0
+D2
+~
+~
+0 0 26866
+R M 0 26867 1 26867
+E
+rubbish~
+This is a pile of straw, rotten flesh, and fur that is serving as a bed
+to some large creature.  Searching through it you find nothing of value.  
+~
+E
+alcoves~
+Searching through these many small holes reveals nothing of significance.  
+~
+S
+#26868
+`WOn the `Ylighthouse`W stairway`x~
+~
+This narrow stone stairway winds it's way steeply up the side of the
+lighthouse.  At this point you are about half way between the top and bottom
+of the tower.  The railing along the outer edge of the stairs looks to be in
+disrepair, the metal of which is broken or missing in many spots.  
+~
+1 0 0
+D4
+~
+~
+0 0 26869
+D5
+~
+~
+0 0 26411
+S
+#26869
+`WIn the beacon room`x~
+~
+The large, spinning contraption in the middle of this room shoots forth
+an intense beam of light.  A large globe of continual light is surrounded by
+a faceted mirror, which focuses the light into a concentrated beam.  Some
+form of locomotive enchantment makes the whole construct rotate slowly. 
+Also, there is a small plaque fastened to the base of the beacon.  
+~
+1 8 0
+D5
+~
+~
+0 0 26868
+E
+plaque~
+Designed by Mathiswaylandhallotimbrecyallevicarnevillejossen of Mt. 
+Nevermind.  
+~
+S
+#26870
+Source of the geyser~
+~
+You have reached the source of the vaporous plume that escapes from this
+fissure.  A stream comes into this area from the west, and a good amount of
+water steadily drains into a large hole in the floor.  A jet of warm steam
+is ejected from the geyser, shooting rapidly through the opening high above.
+Every so often a reddish glow flares up within the geyser, only to fade as
+quick as it appeared.  The caven is traversable to the west, following along
+the fast moving stream.  
+~
+1 9 0
+D3
+~
+~
+0 0 26871
+D4
+~
+~
+0 0 26477
+E
+geyser~
+From what you can make out, the geyser turns the water to steam as it
+comes in contact with a flowing lava tunnel quite some depth below.  
+~
+S
+#26871
+Underground spring~
+~
+At this point a hole in the wall pours out a perpetual flux of water. 
+The liquid collects in a trough on the floor and flows quickly to the east. 
+The water looks very clean and refreshing.  The natural look of this passage
+changes dramatically as you look to the west, it bears the marks of a
+hand-worked mine shaft.  The hissing geyser can be seen close to the east of
+here, sending it's vapors upwards.  
+~
+1 9 0
+D1
+~
+~
+0 0 26870
+D3
+~
+~
+0 0 26872
+R O 0 26871 0 26871
+S
+#26872
+Handworked tunnel~
+~
+Someone or something has dug this section of tunnel, the walls, ceiling,
+and foor have all been worked smooth.  A vertical passage has been built
+into the floor, plummeting far beyond the reach of your light.  Set into the
+side of the shaft are iron rungs that can be used to easily climb into the
+depths below.  A sigil has been engraved upon the floor, encircling the
+subterranean gullet.  The sounds of running water can be heard resonating
+from the east.  
+~
+1 9 0
+D1
+~
+~
+0 0 26871
+D5
+~
+~
+0 0 26873
+E
+sigil~
+`R"Leave now, or add to my trophies."`W -`x`DCalmor`W the `RViolent`x
+~
+S
+#26873
+Lair of Calmor the Violent~
+~
+Cold, damp air seeps into your bones down here, and you are not even sure
+how far below ground you have descended to reach this room.  Calmor must
+really enjoy seclusion to remove himself this far from any other intelligent
+beings.  The air smells quite musky and rancid due to the lack of any
+substantial ventilation.  There is a stone door set in the eastern wall, and
+a large portal opens into another room to the west.  
+~
+1 9 0
+D1
+~
+~
+0 0 26875
+D3
+~
+~
+33 26875 26874
+D4
+~
+~
+0 0 26872
+S
+#26874
+Lair of Calmor the Violent~
+~
+This grotesque room serves to display the trophies of Calmor.  There are
+mummified remains of what must represent every race of humanoid populating
+the face of Krynn.  But one of these corpses towers above the rest,
+dominating the room.  The skin of this slain dragon still shimmers with the
+golden tones that set it's place in life.  Beyond all the complete remains
+Calmor has collected are the souveniers he has acquired.  There is a
+wyvern's sting, the arm of a kender, and many other extremities litter the
+dusty shelves here.  A wide portal leads to another room east of here.  
+~
+1 9 0
+D1
+~
+~
+33 26875 26873
+R O 0 26874 0 26874
+  R P 0 26873 1 26874
+R O 0 26877 0 26874
+R O 0 26869 0 26874
+S
+#26875
+Calmor's Chambers~
+~
+You have entered the chambers of Calmor the Violent, the most
+sought-after outlaw on the island of Mithas.  The walls are covered in
+velvet tapestries, each depicting a minotaur fighting some creature with his
+bare hands.  A large pile of bug-ridden hides serves as crude bedding that
+even a goblin would abstain from laying on.  There is a small, round oak
+table with a matching chair set in the corner.  Upon the table is some
+unused parchment, a quill, and a spent candle.  Hanging on the south wall is
+a two-handed axe with a massive steel head.  
+~
+1 521 0
+D2
+~
+~
+33 26875 26876
+D3
+~
+~
+0 0 26873
+R M 0 26875 1 26875
+  R E 0 26875 0 17
+E
+table~
+The items on the table look like they have not been used in quite some
+time.  The parchment is covered with dust and the candle has long been
+spent.  
+~
+E
+parchment~
+Blowing the dust off the parchment reveals a few words, ".....  There is
+something odd about that kender's arm......"  
+~
+E
+bedding~
+This pile of animal hides reeks of urine.  There are a visible amount of
+parasites crawling around through the coarse hairs.  
+~
+E
+tapestries~
+These velvet paintings depict the tales of Calmor 's most telling
+battles.  The one of him punching a gold dragon in the snout seems rather
+far-fetched.  
+~
+E
+axe~
+As you look at the glorious axe, you notice a tiny keyhole in the wall
+below it.  
+~
+S
+#26876
+Calmor's stash~
+~
+This room holds the bounty that Calmor has acquired from his fallen
+adversaries.  Lots of the treasure looks more like useless trinkets, but
+perhaps there are more valuable items scattered in as well.  
+~
+1 524297 0
+D0
+~
+~
+33 0 26875
+R O 0 26876 0 26876
+  R P 0 26870 1 26876
+  R P 0 26872 1 26876
+E
+floor~
+Searching around the floor reveals a trapdoor hidden among the flagstones.  
+~
+E
+treasure~
+Clamor's treasure is really just a bunch of ordinary items.  There are
+stone candleholders, wooden chests full of burlap, ropes, and even a field
+plow.  You wonder why the room was so well hidden.  
+~
+S
+#26877
+Tower Foyer~
+~
+This room serves as the foyer, a place to await entrance into the tower 
+proper.  Two massive doors stand hinged into the black stone from which the 
+tower is crafted.  Carved relief upon the doors depict the death scene of a 
+might battles aftermath.  Battered and broken bodies are shown strewn about 
+and piled waist-high as a lone cloaked figure stands in their midst.  There 
+does not seem to be a way to open the doors from this side, maybe someone 
+stands watch on the other side and would open them.  
+~
+1 8 0
+D1
+~
+~
+33 26878 26878
+D5
+~
+~
+0 0 26489
+R M 0 26877 1 26877
+  R E 0 26878 0 17
+S
+#26878
+Inner Lobby~
+~
+This entry chamber of the tower is rather drab in appearance.  The walls are 
+undecorated, the floor has no rug, and there are no windows or furnishings 
+within.  Even the double doors bear a clean slate on this side of their 
+girth.  A light to the north illuminates this area dimly, adding to the 
+bleakness it already posesses.  
+~
+1 33562632 0
+D0
+~
+~
+0 0 26879
+D3
+~
+~
+33 26878 26877
+R M 0 26878 1 26878
+  R E 0 26878 0 17
+S
+#26879
+Inner Lobby~
+~
+This section of the tower lobby contains only the simplest of accoutrements. 
+ The plain woven rug which covers the cold stone flooring bears no 
+decorative markings.  Upon one wall hangs a long grey tapestry that shows 
+silver embroidered edgework and silver tassles along the bottom.  A large 
+gemstone is fastened to the wall just above this drab fabric.  
+~
+1 33562632 0
+D2
+~
+~
+0 0 26878
+D3
+~
+~
+0 0 26880
+R O 0 26879 0 26879
+S
+#26880
+Bottom of the Stairwell~
+~
+You are at the foot of a narrow spiral stairwell which leads up to the next 
+floor of the tower.  The stairs are covered with a silky red fabric which 
+stands in sharp contrast to the spartan decorations of the lobby.  Even the 
+banister looks to be made of highly polished silver and is etched with an 
+unknown manuscript along it's length.  
+~
+1 33562632 0
+D1
+~
+~
+0 0 26879
+D4
+~
+~
+0 0 26881
+S
+#26881
+Atop the Stairwell~
+~
+At the top of the spiral staircase the tower becomes more lavish than on the 
+lower floor.  Many golden sconces hold black candles that illuminate the 
+polished granite stonework which comprises the walls, ceiling, and floor.  
+Mounted to one wall is a set of metal clockwork gears which turn incessantly 
+to drive some unseen mechanism.  The contraption operates with absolute 
+silence and seems to be driven by a pulsing sphere of energy attached to the 
+end of a worm gear.  
+~
+1 33562632 0
+D2
+~
+~
+0 0 26882
+D5
+~
+~
+0 0 26880
+S
+#26882
+Arcanum and Magika~
+~
+This room contains many tables and racks which hold a myriad of items 
+offered for sale to any who possess the money to purchase them.  Almost all 
+the items seem magical in nature and purpose, and will most likely cost more 
+than your average equipment.  
+~
+1 33562632 0
+D0
+~
+~
+0 0 26881
+D1
+~
+~
+33 26884 26883
+R M 0 26882 1 26882
+  R G 0 26881 0
+  R G 0 26882 0
+  R G 0 26883 0
+  R E 0 26884 0 17
+S
+#26883
+Arcanum Library~
+~
+This comfortable room serves as the library for the tower.  It is completely 
+quiet in here and well-lit, offering the best conditions for magic research. 
+ The walls have numerous scorches, chips, and gouges marking the failed 
+attempts of some half-hearted studies.  A fine velvet tapestry completely 
+covers the northern wall.  
+~
+1 33562632 0
+D0
+~
+~
+1 0 26884
+D3
+~
+~
+33 26884 26882
+R O 0 26885 0 26883
+R O 0 26886 0 26883
+  R P 0 26880 1 26886
+  R P 0 26887 1 26886
+  R P 0 26888 1 26886
+E
+wall ~
+The scene upon the tapestry depicts a lone figure standing within a great 
+stone portal.  
+~
+E
+velvet ~
+The scene upon the tapestry depicts a lone figure standing within a great 
+stone portal.  
+~
+E
+tapestry ~
+The scene upon the tapestry depicts a lone figure standing within a great 
+stone portal.  
+~
+S
+#26884
+Portal Room~
+~
+This room houses a magic portal that will lead out from the tower.  The room 
+is rather mundane, save for the magic portal itself.  The glow of the portal 
+illuminates the blank stones this chamber is crafted from.  
+~
+1 33562632 0
+D2
+~
+~
+1 0 26883
+D4
+~
+~
+33 0 26885
+R O 0 26889 0 26884
+S
+#26885
+Green Portal Room~
+~
+The walls of this room are covered with a bright green moss that grows 
+before your eyes.  Entwined with the moss is a thin green ivy.  The ivy 
+grows in an arch upon the northern wall, and a magic field glows within it's 
+border.  A view of an ancient forest can be seen through the field.  
+~
+1 33562632 0
+D3
+~
+~
+0 0 26886
+D5
+~
+~
+33 0 26884
+R O 0 26890 0 26885
+S
+#26886
+Red Portal Room~
+~
+The walls of this room are alight with huge, hellish flames.  The room is a 
+normal temperature, so the flames are most likely illusionary From the top 
+of the western wall flows a wide sheet of molten rock.  The lava appears to 
+flow down the wall and onto the floor, but no pool of the liquid has 
+accumulated there.  The faint scene of a city square can be seen through the 
+veil of fire.  
+~
+1 33562632 0
+D1
+~
+~
+0 0 26885
+D2
+~
+~
+0 0 26887
+R O 0 26892 0 26886
+S
+#26887
+White Portal Room~
+~
+This room is starke white, it is difficult to judge the point at which the 
+floor becomes the walls, and likewise where the walls become the ceiling.  
+Nary a seam can be seen, but one item does stand out against the smooth 
+backdrop.  A tall, pulsating portal gives off a pinkish-white glow as it 
+shows the common square of a large city.  
+~
+1 33562632 0
+D0
+~
+~
+0 0 26886
+D1
+~
+~
+0 0 26888
+R O 0 26897 0 26887
+S
+#26888
+Yellow Portal Room~
+~
+In the center of this yellow stone room stands a large boulder formed from 
+the same material as the room.  The stones are a pale yellow with darker 
+yellow flecks and amber bands throughout.  Closer inspection of the boulder 
+reveals that, within an archway carved into one of it's sides, a magic 
+portal hums with an arcane energy.  
+~
+1 33562632 0
+D3
+~
+~
+0 0 26887
+R O 0 26898 0 26888
+S
+#26889
+Hot cavern~
+~
+The air inside of this mountain chamber is rather hot, and carries a
+thick scent of sulphur.  Oddly, the floor, walls, and ceiling are all smooth
+as glass, almost as if some great red dragon carved this cavern with his
+fiery breath.  Some fresher air occasionally works its way into this area,
+blowing in from up above.  A faint red glow can be seen illuminating the
+cavern to the south.  
+~
+1 9 11
+D2
+~
+~
+0 0 26890
+D4
+~
+~
+0 0 26446
+S
+#26890
+Sweltering cavern~
+~
+This section of the underground tunnel has become unbearably hot, the air
+that touches your skin feels as if it will blister horribly if you remain
+here for too long.  A hazy cloud of sulphur-laden smoke chokes up the room,
+making it hard to breath and almost impossible to see more than five feet
+away.  A bright reddish light blazes in a crevase to the west, and waves of
+heat blast from that direction as well.  The smoke seems to thin out to the
+north a ways.  
+~
+1 9 11
+D0
+~
+~
+0 0 26889
+D3
+~
+~
+0 0 26891
+S
+#26891
+Lava pool~
+~
+A blazing inferno of molten rock bubbles and boils inside of a large crack 
+which has split the floor open.  A thick cloud of smoke rolls up as gasses 
+escape from their confines deep beneath the crust of Krynn.  It is hard to 
+make out the dimensions of this room through the veil of sulphur and soot.  
+The only thing you can be sure of in here is the location of the lava.  
+~
+1 9 11
+D1
+~
+~
+0 0 26890
+R M 0 26891 1 26891
+R O 0 26891 0 26891
+E
+lava~
+The lava boils violently, spewing deadly gasses and blinding ash at an
+astounding rate.  It also gives off an infernal amount of heat, making the
+air waver and distort.  
+~
+S
+#26892
+Cooled lava tube~
+~
+This narrow cavern seems to be nothing more than a pocket that formed
+within the cooling lava of the volcano.  The walls have the look of melted
+black glass, drips and runs solidified into a hard formation.  The floor
+drops in a sharp descent and runs northward, heading deeper into this lava
+tube.  Some large handholds allow you to climb up out of here as well.  
+~
+1 9 11
+D0
+~
+~
+0 0 26893
+D4
+~
+~
+0 0 26462
+S
+#26893
+Cooled lava tube~
+~
+The pocket of hardened lava comes to a sheer dropoff here, descending
+into a large pit.  It must be rather deep since you are unable to see the
+bottom, and it takes the drop of a pebble a few seconds to plink in the
+depths.  Some jutting rocks along the walls of the pit look like they could
+serve as a crude ladder, allowing passage into the murky abyss.  A sharp
+rising shaft also heads to the south of here.  
+~
+1 9 11
+D2
+~
+~
+0 0 26892
+D5
+~
+~
+0 0 26894
+S
+#26894
+Cooled lava tube~
+~
+Sharp rocks cover the floor like quills on a cactus, making it nearly
+impossible to find footing down here.  A hissing noise originates from a
+small fissure, and a choking stench fills the chamber.  A gleam off of the
+wall catches your eye.  Entombed in the wall is a giant skeleton dressed in
+a steel breastplate, the final resting spot for some unfortunate minotaur
+explorer.  The wall looks to have a number of protrusions that will allow
+you to scale up this shaft.  
+~
+1 9 11
+D4
+~
+~
+0 0 26893
+R O 0 26894 0 26894
+  R P 0 26893 1 26894
+E
+skeleton~
+The skeleton seems to be fused with the rock in the wall, you can only
+imagine the pain this minotaur felt in his last moments.  He seems to have
+something around his arm that you should be able to work free.  
+~
+S
+#26895
+Middle of the gully hole~
+~
+By bracing your arms and legs against one wall, and pressing your back to
+the other, you can manage vertical movement through this hole.  A steady
+trickle of water rains down from above, making your grip a little slippery. 
+From the sound of the splashing below, you figure you are not far from the
+bottom at this point.  Looking up you can see the entrance to this shaft a
+short climb away.  
+~
+1 9 11
+D4
+~
+~
+0 0 26467
+D5
+~
+~
+0 0 26896
+S
+#26896
+Bottom of the gully hole~
+~
+You stand knee deep in water, which is steadily pouring down from a hole
+far above you.  Something slithers around your ankles, but the murky water
+makes it impossible to see what it was.  The walls down here are covered by
+sparkling green lichens, lending an odd visage to your surroundings.  A
+small orifice is set in the wall before you, from which a steady runnel of
+blue slime oozes forth.  From here, you can only manage to climb up the
+shaft, since there are no other exits.  
+~
+1 9 11
+D4
+~
+~
+0 0 26895
+R O 0 26896 0 26896
+  R P 0 26895 1 26896
+S
+#26897
+Inside the cleft~
+~
+This area has formed from a cleft in the rock of the crater rim.  It is very 
+hot in here, but the air seems cleaner than it was outside.  You can 
+navigate further into the cleft to the north, or climb back out here.  
+~
+1 9 11
+D0
+~
+~
+0 0 26898
+D4
+~
+~
+0 0 26482
+S
+#26898
+Inside the cleft~
+~
+The cleft has begun to constrict sharply, and you can barely squeeze your 
+way through this spot.  It seems a little cooler here than it has been, 
+which is odd considering you must be pretty close to the lava that was in 
+the crater.  You could probably manage to work your way down a bit further, 
+or you could head south where it becomes much wider.  
+~
+1 9 11
+D2
+~
+~
+0 0 26897
+D5
+~
+~
+0 0 26899
+S
+#26899
+Bottom of the cleft~
+~
+This room appears to be a lair of sorts, the likes of which are not of this 
+plane.  Flames appear to crackle wildly around you, but it is not the least 
+bit hot here.  A pentagram has been drawn upon the floor, surrounded by many 
+runic characters of some unknown script.  There are many outlines of 
+skeletal figures burned into the floor around the pentagram as well.  
+~
+1 9 0
+D4
+~
+~
+0 0 26898
+R M 0 26898 1 26899
+  R E 0 26899 0 11
+R O 0 26972 0 26899
+S
+#26900
+Champion's way~
+~
+The road comes to an intersection at this point.  To the west, a plaza that 
+is lined with ornate lanterns leads away from the capital.  To the east 
+stands an archway which heads off into the gardens of Lacynos.  To the 
+south, Champion's Way leads directly into the heart of Lacynos.  Smooth 
+cobblestones hedged in with limestone blocks provide a sturdy travelling 
+surface for this wide, main artery.  
+~
+1 33554432 15
+D2
+~
+~
+0 0 26901
+D3
+~
+~
+0 0 26961
+R O 0 26900 0 26900
+S
+#26901
+Champion's way~
+~
+This main road leads north towards the gardens and the coast of Horned Bay, 
+as well as to the south into the heart of Lacynos.  Many mud brick dwellings 
+line both sides of the street, each painted with intricate patterns done in 
+vibrant colors.  As there is not much space between the homes, it would seem 
+that the land comes at a premium within the city.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 26900
+D2
+~
+~
+0 0 26906
+S
+#26902
+Sculpture garden~
+~
+~
+1 33554432 15
+D1
+~
+~
+0 0 26903
+D6
+~
+~
+0 0 26904
+R O 0 26902 0 26902
+S
+#26903
+Sculpture garden~
+~
+~
+1 33554432 15
+D3
+~
+~
+0 0 26902
+D9
+~
+~
+0 0 26905
+R O 0 26903 0 26903
+S
+#26904
+Sculpture garden~
+~
+~
+1 33554432 15
+D3
+~
+~
+0 0 26905
+D8
+~
+~
+0 0 26902
+R O 0 26904 0 26904
+S
+#26905
+Sculpture garden~
+~
+~
+1 33554432 15
+D1
+~
+~
+0 0 26904
+D7
+~
+~
+0 0 26903
+R O 0 26905 0 26905
+S
+#26906
+Champion's way~
+~
+All around you, the bustle of the capital continues to produce an unending 
+mixture of sights, sounds, and smells.  Many of the building throughout this 
+area are made in a three-story manner, each floor having it's own outside 
+enterance serviced by a steep stairwell.  This type of construction denotes 
+most of these buildings to be homes for the lower class of Mithas.  A small, 
+one-story building located on the eastern side of the street proudly bears a 
+sign depicting a helmet and a warhammer.  
+~
+1 0 1
+D0
+~
+~
+0 0 26901
+D1
+~
+~
+0 0 26907
+D2
+~
+~
+0 0 26908
+S
+#26907
+Phylorn's Weaponry~
+~
+This small building houses a smithy who, judging by the items lining the 
+shelves, specializes in weapons.  The anvil and forge look to be well-used, 
+but all of the weapons gleam with a high polish and a strength derived from 
+the skillfull craftsmanship.  
+~
+1 33554440 0
+D3
+~
+~
+0 0 26906
+R M 0 26914 1 26907
+  R G 0 26954 0
+  R G 0 26952 0
+  R G 0 26956 0
+  R G 0 26959 0
+S
+#26908
+Champion's way~
+~
+At this point along Champion's Way, a sturdy looking building to the east 
+houses what appears to be an armor smith.  To the south, the conjested 
+street opens up into the open market square.  Heavy wear in the cobblestones 
+gives you a rough idea of the age of this minotaur capital.  
+~
+1 0 1
+D0
+~
+~
+0 0 26906
+D1
+~
+~
+0 0 26909
+D2
+~
+~
+0 0 26910
+D7
+~
+~
+0 0 26911
+S
+#26909
+Saffrin's Mighty Armors~
+~
+Upon entering, the first item to catch your eye is a large wooden sign 
+hanging from the middle of the ceiling.  The smell of burning wood and musk 
+fills the small room to an almost overpowering level.  Many well-crafted 
+armours are on display here.  
+~
+1 8 0
+D3
+~
+~
+0 0 26908
+R M 0 26915 1 26909
+  R G 0 26912 0
+  R G 0 26917 0
+  R G 0 26919 0
+  R G 0 26925 0
+  R G 0 26928 0
+  R G 0 26936 0
+E
+sign ~
+The sign reads "`#`YHome of the strongest armour in Mithas!`^"
+~
+S
+#26910
+Plaza of Lacynos~
+~
+You are in the center of the plaza square in Mithas, and there is activity 
+abound like noplace else.  Various street performers go about thier 
+silver-earning with song, dance, and acting.  Many of the city's denziens 
+stumble about in a ale-induced warmth, and many different smells waft 
+through the square.  The gleaming spires of the palace lie just a short way 
+to the southeast of here, and roads lead in all directions.  
+~
+1 33554432 1
+D0
+~
+~
+0 0 26908
+D1
+~
+~
+0 0 26911
+D8
+~
+~
+0 0 26924
+S
+#26911
+Honor road~
+~
+This well-built road is paved with polished granite flagstones that shine 
+various shades of grey.  A small temple stands to the south of here, the 
+proud banner of Tyr flying high atop it.  A short ways west is the plaza 
+square, while heading east leads to an older-looking neighborhood.  
+~
+1 0 1
+D1
+~
+~
+0 0 26913
+D2
+~
+~
+0 0 26912
+D3
+~
+~
+0 0 26910
+D9
+~
+~
+0 0 26908
+S
+#26912
+Temple of Tyr~
+~
+This chamber within the temple of Tyr is very staid in it's accoutrements, 
+with only a few flat wood benches and a stone altar in the center of the 
+room.  The walls are adorned with murals of massive battles in which the 
+avatar of Tyr stands in the center, watching all around.  The surface of the 
+altar is well-worn, as many of the citizens of Lacynos pay hommage to this 
+god of war.  
+~
+1 33554440 0
+D0
+~
+~
+0 0 26911
+R M 0 26916 1 26912
+S
+#26913
+Honor road~
+~
+Honor Road makes a bend here, running off to the west towards the plaza 
+square, and north towards some well-preserved buildings.  The buildings in 
+this section are of an older design than those of the rest of the city, many 
+of them are made of mudbrick with straw-thatch roofs.  
+~
+1 0 1
+D0
+~
+~
+0 0 26914
+D3
+~
+~
+0 0 26911
+S
+#26914
+Honor road~
+~
+This section of the city is less-traveled by it's populace.  Most of the 
+buildings are in disrepair here.  There is one notable exception though, a 
+small building to the north that is hewn from a smooth green rock.  Many 
+cracks upon it's surface pulse with a magical glow in random hues.  A plaque 
+fastened above the doorway reads "Mizoth's Arcana".  
+~
+1 0 1
+D0
+~
+~
+0 0 26915
+D2
+~
+~
+0 0 26913
+S
+#26915
+Mizoth's Arcana~
+~
+This shop is stuffy and reeks of exotic spices.  Many empty and dusty 
+shelves line the far wall.  A large bookcase stands against the opposite 
+wall, and this is also bare.  A lavishly woven rug adorns the floor, and 
+this depicts a half-invisible human smiling.  It seems that this shop has 
+been empty for quite some time now.  
+~
+1 8 0
+D2
+~
+~
+0 0 26914
+R M 0 26917 1 26915
+  R G 0 26965 0
+  R G 0 26966 0
+  R G 0 26968 0
+  R G 0 26969 0
+S
+#26916
+Honor road~
+~
+Directly to the north is the fabled Jade Diamond, the oldest established inn 
+in Lacynos.  It is a rather large building with two stories and looks about 
+as old as it is rumored to be.  There is not much else of interest, but you 
+can head west along Honor Road from here. 
+~
+1 0 1
+D0
+~
+~
+0 0 26917
+S
+#26917
+The Jade Diamond~
+~
+You are in the main room of the Jade Diamond.  It is equiped with many 
+well-worn furnishings and is lit with a large iron chandelier hanging from 
+the center of the ceiling.  A warming fire burns within a huge marble 
+fireplace.  The proprietor stands behind a counter, waiting to rent out his 
+rooms.  
+~
+1 1107296328 0
+D0
+~
+~
+1 26972 26918
+D1
+~
+~
+1 0 26919
+D2
+~
+~
+0 0 26916
+D4
+~
+~
+1 0 26999
+R M 0 26918 1 26917
+S
+#26918
+A Lavishly Appointed Room~
+~
+This is the most luxurious room available at the Jade Diamond.  Rich red 
+fabrics line the walls and are embroidered with much detail.  Thick silken 
+curtains billow over the windows from ceiling to floor.  A large, 
+comfortable bed adorns the room as well, offering you nothing but complete 
+relaxation.  
+~
+1 33554440 0
+D2
+~
+~
+0 26972 26917
+R O 0 26971 0 26918
+R O 0 26970 0 26918
+S
+#26919
+A Comfortable Room~
+~
+You are in a comfortable room in the Jade Diamond. The bed has been pushed 
+back against the southern wall to make room for a small lounge chair. 
+~
+1 33554440 0
+D3
+~
+~
+1 0 26917
+S
+#26920
+Honor road~
+~
+Honor Road comes to an end before an impressive gate to the southeast. The 
+heavy fragrance of blooming flowers drifts out over the road here. The grass 
+and shrubbery around the end of the road has been clipped neatly and tended 
+with care. The picturesque scene is spoiled by the yelling of the drunks 
+that are tumbled out of the bar back down the road. 
+~
+1 0 1
+D3
+~
+~
+0 0 26921
+D7
+~
+~
+0 0 26959
+S
+#26921
+Honor road~
+~
+The neatly cobbled road splits in two directions here. To your north, the 
+Bloody Horn Tavern lies. To your southeast, the road continues on into what 
+appears to be the palace gardens. The road here has been neatly swept and 
+maintained. There is a drunken minotaur propped up against the bar's walls. 
+He seems to be mumbling in his drunken stupor. 
+~
+1 4 1
+D0
+~
+~
+0 0 26922
+D1
+~
+~
+0 0 26920
+D3
+~
+~
+0 0 26924
+R M 0 26812 1 26921
+  R E 0 26823 0 5
+S
+#26922
+Bloody Horn Tavern~
+~
+A long, dark mahogany counter divides this spacious room in half. Behind the 
+bar, glass bottles glisten in the light. A small stove and sink sits in the 
+western counter. The counter has been carefully polished, and the barstools 
+are in a neat straight line. It looks like the owner of this bar doesn't 
+tolerate any nonsense. 
+~
+1 8 0
+D1
+~
+~
+1 0 26923
+D2
+~
+~
+0 0 26921
+R M 0 26806 1 26922
+  R E 0 26814 0 13
+  R G 0 26815 0
+  R G 0 26816 0
+  R G 0 26817 0
+  R G 0 26818 0
+  R G 0 26819 0
+  R G 0 26822 0
+R O 0 26811 0 26922
+S
+#26923
+Storeroom~
+~
+Casks of wine and barrels of beer and other drinks fill up most of the space 
+in this small storeroom. A small set of shelves line one wall and contain 
+various cheeses and breads. A hole has been dugout into the cold ground and 
+is used to store meat in. A small duffle bag sits forgotten in the farthest 
+corner. 
+~
+1 9 0
+D3
+~
+~
+1 0 26922
+R O 0 26807 0 26923
+S
+#26924
+Honor road~
+~
+This stretch of the road leads west onto the bustling docks of Mithas. To 
+your east lies the bar and the entrance to the palace gardens. Gulls fly 
+overhead as they glide on the wind that carries them around the boats. You 
+can hear the laughter and chatter from the sailors and others that travel 
+the docks. 
+~
+1 0 1
+D1
+~
+~
+0 0 26921
+D3
+~
+~
+0 0 26925
+D6
+~
+~
+0 0 26910
+S
+#26925
+Pier~
+~
+The pier seems sturdy underfoot. The boards that make it up are wide and are 
+approximately seven feet wide. They have been tightly bonded together with 
+strong nails and ropes. Underneath the dock, heavy wooden supports are 
+visible. The water laps gently against them and makes a soothing repetitive 
+noise. 
+~
+1 0 1
+D0
+~
+~
+0 0 26926
+D1
+~
+~
+0 0 26924
+D2
+~
+~
+0 0 26938
+R M 0 26810 5 26925
+S
+#26926
+Pier~
+~
+This stretch of the pier is home to seagulls begging for food. The men 
+coming off the ships toss crackers and leftover bread at the gulls, but the 
+gulls hop after them for more. Bird droppings cover sections of the old 
+wooden planks of the pier. Every once in a while a child runs after one of 
+the birds, determined to throw salt on its tail. 
+~
+1 0 1
+D0
+~
+~
+0 0 26928
+D1
+~
+~
+0 0 26927
+D2
+~
+~
+0 0 26925
+R M 0 26809 2 26926
+S
+#26927
+Harbormaster~
+~
+The cramped office of the harbormaster looks directly out over the pier and 
+docks. Clean windows line each of the walls so that no activity is hidden 
+from the harbormaster's view. An oversized, beat-up wooden desk has been 
+pushed in one of the corners for the harbormaster's use. Papers are stacked 
+high on it. 
+~
+1 33554440 0
+D3
+~
+~
+0 0 26926
+R M 0 26808 1 26927
+  R E 0 26824 0 15
+  R E 0 26824 0 14
+R O 0 26825 0 26927
+S
+#26928
+Pier~
+~
+From this vantage point you can see all of the ships that are moored in this 
+area. Large sailboats with colorful sails, container and merchant ships, 
+private vessels, and even small canoes are housed here. Crusty seadogs, 
+shiphands, and others stroll up and down the pier as they arrive from the 
+boats and the town. Seagulls fly overhead and cry loudly. 
+~
+1 0 1
+D0
+~
+~
+0 0 26935
+D2
+~
+~
+0 0 26926
+S
+#26929
+Her Triumphant Majesty~
+~
+As you reach the top of the stairs you can see a galley to your north, a 
+sick area to your east, and the captain's quarters to your northeast. There 
+is a constant low hum of noise on this upper level from the constant influx 
+of people. Wide port holes have been cut out on each of the walls. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26934
+D1
+~
+~
+0 0 26930
+D5
+~
+~
+0 0 26944
+S
+#26930
+Her Triumphant Majesty~
+~
+Low talking can be heard around the upper deck of the ship. To your east 
+lies the sick area and the captain's den. To your west lies the stairs and 
+small galley. The area is busy with an influx of traffic. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26933
+D1
+~
+~
+0 0 26931
+D3
+~
+~
+0 0 26929
+S
+#26931
+Her Triumphant Majesty~
+~
+The ship's infirmary occupies this corner of the top level. There are a few 
+sick beds bolted to the floor, and the portholes have been blacked out for 
+the sick to rest more easily during the day. A nurse sits in a nearby chair 
+and tends to the patients. 
+~
+1 33554440 0
+D0
+~
+~
+1 0 26932
+D3
+~
+~
+0 0 26930
+R M 0 26827 1 26931
+  R E 0 26845 0 17
+  R E 0 26840 0 5
+R M 0 26826 3 26931
+S
+#26932
+Her Triumphant Majesty~
+~
+This captain's private bedroom is sparsely decorated. A large bed has been 
+bolted to the floor under a wide window. A painting has been hung with rope 
+on the eastern corner of the room. The floor is polished and clean aside 
+from the dirty clothing strewn around the room. 
+~
+1 33554440 0
+D2
+~
+~
+1 0 26931
+D3
+~
+~
+1 0 26933
+R M 0 26825 1 26932
+S
+#26933
+Her Triumphant Majesty~
+~
+A large square table has been bolted into the floor here.  Compasses, 
+charts, maps, and other scraps of paper litter the table.  On the wall a 
+larger map has been hung up with Xs to mark off the different islands and 
+continents the captain has travelled to. A gleaming gold telescope has been 
+set up to look out a large porthole. 
+~
+1 33554440 0
+D1
+~
+~
+1 0 26932
+D2
+~
+~
+0 0 26930
+D3
+~
+~
+0 0 26934
+S
+#26934
+Her Triumphant Majesty~
+~
+A tiny, fully functioning galley has been set up in this corner of the ship. 
+ A wide steel sink is filled with meats and vegetables waiting to be 
+prepared for the meals. A wood burning stove has been carefully set up; it's 
+smoke has been directed to go out an open port hole. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 26933
+D2
+~
+~
+0 0 26929
+R M 0 26826 3 26934
+S
+#26935
+Pier~
+~
+The long pier has rickety wooden folding chairs set up in this stretch. The 
+chairs are occupied by grizzled old fishermen trying their luck at the sea. 
+They sit and tell tall tales about the old days in the fishing boats. Spare 
+rods litter the planks of the pier. A bucket of bait sits in the middle of 
+the chairs. Tucked safely away under the folding chairs are the men's meager 
+lunches. 
+~
+1 0 1
+D2
+~
+~
+0 0 26928
+D3
+~
+~
+0 0 26936
+R O 0 26973 0 26935
+R M 0 26919 1 26935
+  R E 0 26801 0 17
+R M 0 26802 1 26935
+R M 0 26805 1 26935
+S
+#26936
+Dock~
+~
+The dock is dry and sturdy underfoot. The wooden planks sag a bit in the 
+middle and the nails are slowly rusting, but the dock has been fortified 
+against heavy wear and tear. The water gently laps at the support posts 
+underneath the dock. Cries of seagulls can be heard as they fly overhead. 
+~
+1 0 1
+D1
+~
+~
+0 0 26935
+D3
+~
+~
+0 0 26937
+S
+#26937
+Dock~
+~
+This end of the dock is home to the ship The Lickety Split. The captain of 
+the ship stands on the dock and offers passerby his wares. They seem to be a 
+mesh of items he has gathered on his journeys. 
+~
+1 0 1
+D1
+~
+~
+0 0 26936
+R M 0 26807 1 26937
+  R G 0 26846 0
+  R G 0 26848 0
+  R G 0 26847 0
+  R G 0 26861 0
+  R G 0 26851 0
+  R G 0 26850 0
+  R G 0 26849 0
+S
+#26938
+Pier~
+~
+The pier seems sturdy underfoot. The boards that make it up are wide and are 
+approximately seven feet wide. They have been tightly bonded together with 
+strong nails and ropes. Underneath the dock, heavy wooden supports are 
+visible. The water laps gently against them and makes a soothing repetitive 
+noise. 
+~
+1 0 1
+D0
+~
+~
+0 0 26925
+D2
+~
+~
+0 0 26949
+D3
+~
+~
+0 0 26939
+S
+#26939
+Dock~
+~
+The dock seems sturdy underfoot. The boards that make it up are wide and are 
+approximately seven feet wide. They have been tightly bonded together with 
+strong nails and ropes. Underneath the dock, heavy wooden supports are 
+visible. The water laps gently against them and makes a soothing repetitive 
+noise. To your west lies the ship Her Triumphant Majesty. 
+~
+1 0 1
+D1
+~
+~
+0 0 26938
+D3
+~
+~
+0 0 26940
+S
+#26940
+Dock~
+~
+The ship Her Triumphant Majesty is docked here. The gangplank to the North 
+is barred by a fierce looking, brawny minotaur. He snarls at you as you 
+approach. Inside the ship you can hear laughter. Leaning around the 
+minotaur, you catch a glimpse of a cigar girl. Perhaps you should talk to 
+the guard before you go any further. 
+~
+1 33554432 1
+D0
+~
+~
+1 0 26941
+D1
+~
+~
+0 0 26939
+R M 0 26813 1 26940
+S
+#26941
+Her Triumphant Majesty~
+~
+As you step onto the ship, you immediately recognize that an illegal 
+gambling operation has been set up on this royal vessel. Sounds of cards 
+being dealt, winners yelling out gleefully, and the losers sobbing reaches 
+your ears. The air is smokey due to all of the cigars that are lit in the 
+area. 
+~
+1 33554444 0
+D0
+~
+~
+0 0 26946
+D1
+~
+~
+0 0 26948
+D2
+~
+~
+1 0 26940
+D3
+~
+~
+0 0 26942
+S
+#26942
+Her Triumphant Majesty~
+~
+This section of the ship has a few scattered couches and chairs. The people 
+that mill around this area have very large grins on their faces, and when 
+they leave, their pockets are obviously lighter. A man is laying back on a 
+chaise lounge. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26945
+D1
+~
+~
+0 0 26941
+D3
+~
+~
+0 0 26943
+R O 0 26844 0 26942
+R M 0 26821 1 26942
+  R G 0 26835 0
+  R G 0 26837 0
+  R G 0 26836 0
+  R G 0 26838 0
+S
+#26943
+Her Triumphant Majesty~
+~
+A poker game has been set up in this corner of the bottom level of the ship. 
+A pit boss hovers near the gamblers and watches for any cheating. The green 
+covered table has no other objects on it besides cards. Waitresses flit back 
+and forth from the table with drinks for the gamblers. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26944
+D1
+~
+~
+0 0 26942
+R O 0 26834 0 26943
+R M 0 26819 1 26943
+R M 0 26818 1 26943
+  R E 0 26833 0 16
+S
+#26944
+Her Triumphant Majesty~
+~
+A short staircase winds upward into an upper level here in the northwestern 
+corner. The staircase is a shiny brass that shows millions of dirty smudges 
+and fingerprints. Women wearing brief clothing sit on the bottom few rungs 
+of the staircase. 
+~
+1 8 0
+D1
+~
+~
+0 0 26945
+D2
+~
+~
+0 0 26943
+D4
+~
+~
+0 0 26929
+R M 0 26824 1 26944
+  R E 0 26839 0 5
+R M 0 26823 1 26944
+S
+#26945
+Her Triumphant Majesty~
+~
+A blackjack table has been set up here. The gamblers sit on the southern 
+side of the table, as the dealer stands on the northern side and watches 
+hawklike over the cards. He nods silently to a ship guard, and the guard 
+removes a cheater from the table, thus opening up a free spot for another 
+gambler. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 26946
+D2
+~
+~
+0 0 26942
+D3
+~
+~
+0 0 26944
+R M 0 26815 1 26945
+R O 0 26832 0 26945
+R M 0 26816 5 26945
+S
+#26946
+Her Triumphant Majesty~
+~
+Metal tables with attached rows of seats have been bolted here into the 
+floor. The tables are crowded with drunks slumped over the tabletops while 
+others try to eat, talk, or count their last bits of money. Some of the 
+drunks moan softly as the rocking of the boat in the water jars them. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 26947
+D2
+~
+~
+0 0 26941
+D3
+~
+~
+0 0 26945
+R M 0 26817 1 26946
+R O 0 26831 0 26946
+S
+#26947
+Her Triumphant Majesty~
+~
+The heady scent of cigars fills the area here. Smoke rolls over the patrons 
+and half blinds you. Through the thick cloud, you can spy a cigar girl. She 
+makes her way around the room as she calls out, "Cigars, cigarettes?" Tables 
+have been set up here, but ashtrays fill every space on them. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 26948
+D3
+~
+~
+0 0 26946
+R M 0 26814 1 26947
+  R G 0 26827 0
+  R G 0 26830 0
+S
+#26948
+Her Triumphant Majesty~
+~
+This corner of the ship is darkened by the entranceway. In the shadows you 
+can see the faint outline of a hunched over man. A cough racks the man's 
+body, and you step away hesitantly, but he beckons you forward. No one seems 
+to speak in this corner of the ship, and all transactions are done silently. 
+~
+1 33555528 0
+D0
+~
+~
+0 0 26947
+D3
+~
+~
+0 0 26941
+R M 0 26820 1 26948
+S
+#26949
+Pier~
+~
+The pier comes to an end here. To your east is a large warehouse. To your 
+northeast lies the ship Her Triumphant Majesty. More fisherman have set up 
+camp here and are fishing off the dock. The smell of fish and saltwater 
+wafts over you as you stand here. Loud sounds come from the warehouse to 
+your east. 
+~
+1 0 1
+D0
+~
+~
+0 0 26938
+D1
+~
+~
+0 0 26950
+R M 0 26810 5 26949
+S
+#26950
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554444 0
+D0
+~
+~
+0 0 26951
+D1
+~
+~
+0 0 26957
+D2
+~
+~
+0 0 26958
+D3
+~
+~
+0 0 26949
+S
+#26951
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 26952
+D2
+~
+~
+0 0 26950
+S
+#26952
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554440 0
+D1
+~
+~
+0 0 26953
+D2
+~
+~
+0 0 26957
+D3
+~
+~
+0 0 26951
+R M 0 26831 5 26952
+S
+#26953
+Large warehouse~
+~
+Rows and rows of wooden cargo boxes are stacked up to the ceiling of the 
+warehouse here. The rows have been spaced out enough for the brawny workers 
+to work through with very little breathing room. You can hear rustling 
+throughout the rows as if little rodents were running about. 
+~
+1 33554440 0
+D2
+~
+~
+0 0 26954
+D3
+~
+~
+0 0 26952
+R M 0 26829 1 26953
+S
+#26954
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26953
+D2
+~
+~
+0 0 26955
+D3
+~
+~
+0 0 26957
+R M 0 26828 3 26954
+S
+#26955
+Large warehouse~
+~
+This corner of the warehouse is dark and rank. Wiping away the grime on one 
+of the wooden cargo boxes you see that it is labeled produce. Another box 
+seems to be labeled meats. Along the floor seems to be rotted pieces of 
+produce and meat mashed together. It does not make for a pleasant sight as 
+maggots worm their way over it. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26954
+D3
+~
+~
+0 0 26956
+S
+#26956
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26957
+D1
+~
+~
+0 0 26955
+D3
+~
+~
+0 0 26958
+R M 0 26831 5 26956
+S
+#26957
+Large warehouse~
+~
+Boxes of shipments fill this area. The boxes are marked clearly on the 
+outside and have small packing slips firmly affixed for the shipping clerk 
+to check. The floor around the area has been neatly swept but occassionally 
+a rodent dropping is visible. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26952
+D1
+~
+~
+0 0 26954
+D2
+~
+~
+0 0 26956
+D3
+~
+~
+0 0 26950
+S
+#26958
+Large warehouse~
+~
+An office has been set up here in the corner of the warehouse. A large desk 
+is filled with papers concerning incoming and outgoing cargo and persons. A 
+clerk stands nearby and checks over the cargo, trying to make sure every 
+item is accounted for. 
+~
+1 33554440 0
+D0
+~
+~
+0 0 26950
+D1
+~
+~
+0 0 26956
+R M 0 26800 1 26958
+R M 0 26828 3 26958
+S
+#26959
+Path to the palace~
+~
+You are before a black wrought iron gate. The iron has been twisted into 
+intricate curls and designs. The gate seems to lead into the palace gardens. 
+No guards stand at attention here at the gate, and it seems the gate is 
+unlocked. To your northwest, the road leads back to the docks. 
+~
+1 0 1
+D2
+~
+~
+1 0 26960
+D9
+~
+~
+0 0 26920
+S
+#26960
+Path to the palace~
+~
+This path leads directly into the palace through the gardens. The smell of 
+flowers and fragrant herbs reaches your nose. Mint mixes with the rosemary 
+in the air for a curious smell. You can hear the sounds of bubbling water 
+and gates opening and closing to the east. 
+~
+1 0 1
+D0
+~
+~
+1 0 26959
+D1
+~
+~
+0 0 26962
+S
+#26961
+Road to Lacynos~
+~
+You are travelling upon the road that leads to the great city of Lacynos, 
+capital of the island of Mithas.  The gleaming spires of the royal palace 
+can be seen reaching up from within the city walls.  A majestic row of 
+ornate hanging oil lamps provides light to this plaza as it continues on 
+its path towards the city.  The scent of the salty sea air wafts in gently 
+from the west.  
+~
+1 33554432 15
+D1
+~
+~
+0 0 26900
+D3
+~
+~
+0 0 26401
+R O 0 26961 0 26961
+S
+#26962
+Palace Garden~
+~
+Breath-taking beauty is the only way to describe the garden that surrounds 
+you. Various exotic plants and flowers are the home to butterflies and other 
+small animals. Hummingbirds and bluebirds flitter happily back and forth 
+over the garden. 
+~
+1 0 2
+D1
+~
+~
+0 0 26963
+D3
+~
+~
+0 0 26960
+D6
+~
+~
+0 0 26964
+D7
+~
+~
+0 0 26968
+S
+#26963
+Palace Garden~
+~
+Roses, pansies, daisies and other colorful flowers adorn the ground in this 
+part of the garden. A sweet smell greets you as a soft wind gently blows 
+through, giving the area a serene, quiet feel. Right in the center of the 
+flowers stands a large fountain, spraying water into the air. 
+~
+1 0 2
+D0
+~
+~
+0 0 26964
+D2
+~
+~
+0 0 26968
+D3
+~
+~
+0 0 26962
+R O 0 26804 0 26963
+S
+#26964
+Palace Garden~
+~
+The grass grows quite long in this area, showing perhaps a slight lack of 
+concern for this area. A fence stands at the back part of the garden. Even 
+it seems to be adorned as vines creep in and out of the holes between fence 
+pieces. Various statues seem to guard the fence, each small and intricately 
+crafted. A gate lies to the east of here. 
+~
+1 0 2
+D0
+~
+~
+0 0 26974
+D1
+~
+~
+1 0 26965
+D2
+~
+~
+0 0 26963
+D8
+~
+~
+0 0 26962
+R O 0 26805 0 26964
+  R P 0 26806 1 26805
+S
+#26965
+North gate~
+~
+Forming a large entranceway, this foyer opens towards the north to a 
+grandiose hallway and towards the south to an even larger lobby. Deep azure 
+carpeting muffles the natural acoustics of this room granting it a more 
+relaxed and personal atmosphere. On the east wall, a large banner 
+proclaiming the house crest is on display. 
+~
+1 8 0
+D0
+~
+~
+0 0 26979
+D2
+~
+~
+0 0 26966
+D3
+~
+~
+1 0 26964
+E
+banner crest~
+Trimmed in gold, a stark white field with an apple blossom centered upon it 
+dominates this banner. 
+~
+S
+#26966
+Palace lobby~
+~
+A large lobby between the greater and lesser gates, this room has been 
+prepared for both larger and smaller parties. Large chandeliers circle above 
+the room to provide light during the night while glass panes above them 
+provide more natural light during the daylight. Austere white stones form 
+the walls, pristine and untarnished by time. 
+~
+1 8 0
+D0
+~
+~
+0 0 26965
+D2
+~
+~
+0 0 26967
+S
+#26967
+South gate~
+~
+This small foyer opens north towards a large lobby and south to a grandiose 
+hallway. Small candlestubs surround the foyer providing light in even the 
+darkest corners. Richly carpetted in a gold-on-crimson plush, the natural 
+echoing quality of the stone walls has been dampened considerably. 
+~
+1 8 0
+D0
+~
+~
+0 0 26966
+D2
+~
+~
+0 0 26969
+D3
+~
+~
+1 0 26968
+S
+#26968
+Palace Garden~
+~
+A small herb garden has been planted here in the corner. Basil, cloves, 
+mint, thyme, rosemary, and more are seen growing in the garden. Wandering 
+pink roses entwine themselves around the wrought iron fence around the 
+garden. A small bricked trail leads east into the palace. A place for the 
+gatherers' muddied boots is placed inconspicuously next to the door. 
+~
+1 0 2
+D0
+~
+~
+0 0 26963
+D1
+~
+~
+1 0 26967
+D9
+~
+~
+0 0 26962
+S
+#26969
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east the hallway continues and towards the north a 
+small foyer can be seen. 
+~
+1 8 0
+D0
+~
+~
+0 0 26967
+D1
+~
+~
+0 0 26970
+S
+#26970
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east, west and south the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26971
+D2
+~
+~
+0 0 26998
+D3
+~
+~
+0 0 26969
+S
+#26971
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the north and west the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26972
+D3
+~
+~
+0 0 26970
+S
+#26972
+A Bend In The Hall~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and south the hallway continues. 
+~
+1 0 0
+D1
+~
+~
+0 0 26991
+D2
+~
+~
+0 0 26971
+S
+#26973
+A Large Suite~
+~
+A fourpost bed grown moldy with misuse covers the room without difficulty. 
+Dust covers everything and little in this room has been moved recently. Rich 
+red tapestries have faded to indigo and golden thread through much of the 
+cloth is beginning to look brass. 
+~
+1 0 0
+D5
+~
+~
+1 0 26988
+S
+#26974
+Sparring Grounds~
+~
+A rough circle of white stones outlines freshly-turned dirt with wood chips 
+spread over it. Larger wooden chunks have been carefully brushed to the 
+edges and a multitude of tracks muddle the ground in dizzying patterns. 
+Beyond the stone enclosure the grass continues unhindered. 
+~
+1 0 15
+D2
+~
+~
+0 0 26964
+R M 0 26920 1 26974
+  R E 0 26976 0 16
+  R E 0 26974 0 31
+R M 0 26921 1 26974
+  R E 0 26976 0 16
+  R E 0 26977 0 19
+  R E 0 26975 0 28
+S
+#26975
+A Sumptous Guest Suite~
+~
+Divided by carefully carved paper screens into sections, this room has been 
+lovingly whitewashed and painted with various soft tones that blend from one 
+to the next. The effect is quite dazzling and only makes the stark white 
+wooden bed and furniture seem somehow more royal and pristine. The bed has 
+been mussed recently and a set of bronze scales from something removed 
+litters floor around a screen. 
+~
+1 0 0
+D6
+~
+~
+1 0 26976
+R M 0 26922 1 26975
+  R E 0 26979 0 17
+    R P 0 26978 1 26979
+S
+#26976
+A Bend In The Hall~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and north the hallway continues. 
+~
+1 0 0
+D0
+~
+~
+0 0 26977
+D1
+~
+~
+0 0 26986
+D8
+~
+~
+1 0 26975
+S
+#26977
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the west and south the hallway continues. 
+~
+1 8 0
+D2
+~
+~
+0 0 26976
+D3
+~
+~
+0 0 26978
+S
+#26978
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east, west and north the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26980
+D1
+~
+~
+0 0 26977
+D3
+~
+~
+0 0 26979
+S
+#26979
+Grand Hallway~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east the hallway continues and towards the south a 
+large foyer can be seen. 
+~
+1 8 0
+D1
+~
+~
+0 0 26978
+D2
+~
+~
+0 0 26965
+S
+#26980
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and south the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26981
+D2
+~
+~
+0 0 26978
+S
+#26981
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26982
+D3
+~
+~
+0 0 26980
+S
+#26982
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26983
+D3
+~
+~
+0 0 26981
+S
+#26983
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the west and south the hallway continues. 
+~
+1 8 0
+D2
+~
+~
+0 0 26984
+D3
+~
+~
+0 0 26982
+S
+#26984
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the north and south the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26983
+D2
+~
+~
+0 0 26985
+S
+#26985
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the north and west the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26984
+D3
+~
+~
+0 0 26986
+S
+#26986
+Before a Glass Door~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues and towards the 
+north a glass door beckons. 
+~
+1 0 0
+D0
+~
+glass door~
+1 0 26987
+D1
+~
+~
+0 0 26985
+D2
+~
+~
+0 0 26988
+D3
+~
+~
+0 0 26976
+S
+#26987
+A Simple Solar~
+~
+This tidy sitting room for ladies has been roofed glass panelling. Above, 
+light is refracted and reflected from a series of mirrors and chandeliers 
+while being supported by a greenhouse-like skylight. Soft wood has been used 
+on the floor and sprinkled with fresh blossoms to create a sedate and 
+muffled atmosphere. 
+~
+1 0 0
+D2
+~
+~
+1 0 26986
+S
+#26988
+A Hallway Intersection~
+~
+This intersection of routes forms a large meeting hall with a staircase 
+ascending from the center. To the west a delicate but sturdy door is mounted 
+deep into the wall. To the east lies a enormous set of double doors. The 
+hallway continues north and south. 
+~
+1 0 0
+D0
+~
+~
+0 0 26986
+D1
+~
+~
+1 0 26990
+D2
+~
+~
+0 0 26991
+D3
+~
+~
+1 0 26989
+D4
+~
+~
+1 0 26973
+S
+#26989
+An Unclean Bedroom~
+~
+What once might have been a beautiful and airy bedroom has been cluttered 
+with various weapons, diagrams and clothing to the point where the floor's 
+composition is suspect. Charts have been drawn on almost every available 
+wall including the ceiling and either crossed out or circled. In the midst 
+of this maelstrom, a bed little more than a few wooden plants nailed 
+together with a sheet over it stands valiantly against the chaos. 
+~
+1 0 0
+D1
+~
+~
+1 0 26988
+S
+#26990
+A Formal Receiving Room~
+~
+Here one can find the accomodations expected for royalty. Here mahogany has 
+been used without a care for cost. There lorken has been fashioned into a 
+heavy and austere table. On one end a set of throne-like chairs covered in 
+light dust have been set up. Around the rest of the table little more than 
+stoles exist. 
+~
+1 0 0
+D3
+~
+~
+1 0 26988
+S
+#26991
+Before a Simple Door~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues and towards the 
+south a simple door beckons. 
+~
+1 0 0
+D0
+~
+~
+0 0 26988
+D1
+~
+~
+0 0 26993
+D2
+~
+~
+1 0 26992
+D3
+~
+~
+0 0 26972
+S
+#26992
+A Simple Study~
+~
+Homey and understated, the study possesses all the signs of repeated use. 
+Worn chairs surround a large table with scribbles made directly on it. 
+Towards the back of the room a desk directly attached to the wall has been 
+repaired and re-repaired so many times little of the original material is 
+apparent. Most noticably, little in this room exists to elicit awe or 
+reverence. 
+~
+1 0 0
+D0
+~
+~
+1 0 26991
+S
+#26993
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and south the hallway continues. 
+~
+1 8 0
+D2
+~
+~
+0 0 26994
+D3
+~
+~
+0 0 26991
+S
+#26994
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the north and south the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26993
+D2
+~
+~
+0 0 26995
+S
+#26995
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the west and north the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26994
+D3
+~
+~
+0 0 26996
+S
+#26996
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26995
+D3
+~
+~
+0 0 26997
+S
+#26997
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and west the hallway continues. 
+~
+1 8 0
+D1
+~
+~
+0 0 26996
+D3
+~
+~
+0 0 26998
+S
+#26998
+Ornate corridor~
+~
+An ornate hallway, not a single spot can be seen that is in need of 
+cleaning. A faint smell of apples comes from the wooden floor and violet 
+carpetting. Towards the east and north the hallway continues. 
+~
+1 8 0
+D0
+~
+~
+0 0 26970
+D1
+~
+~
+0 0 26997
+S
+#26999
+The Hostel Room~
+~
+You are in the hostel room of the Jade Diamond. The curtains and other 
+furnishings are a bit shabby but clean. The bed has been neatly pulled back 
+for the night's visitor. A small crackling fire burns in the hearth. A tiny 
+window looks out over the busy street. 
+~
+1 33554440 0
+D5
+~
+~
+1 0 26917
+S
+#0
+
+
+#SHOPS
+ 26803    5  0  0  0  0   150 100         0 23    ; a minotaur shopkeeper
+ 26806    0  0  0  0  0   100  75         0 23    ; diona
+ 26807    0  0  0  0  0   100  75         0 23    ; perry
+ 26814    0  0  0  0  0   100  75         0 23    ; a cigar girl
+ 26821    0  0  0  0  0   100  75         0 23    ; a man with `#`Scurly black`^ hair`^
+ 26882    3  4 10  2 21   120  65         0 23    ; the shopkeeper
+ 26914    5  0  0  0  0   150  85         4 18    ; the blacksmith `#`sPhylorn`^
+ 26915    9 33 32  8  0   160  80         6 22    ; the `#`md`so`mm`si`mn`sa`mt`sr`mi`sx `RS`raffrin`^
+ 26917    2  3  4 10 33   160  80         9 21    ; mizoth
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

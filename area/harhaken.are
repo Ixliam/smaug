@@ -1,0 +1,2018 @@
+#AREA        Harhaken~
+
+
+
+#VERSION     11
+#AUTHOR      None~
+#DERIVATIVES ~
+#COLOR       11
+#HTOWN       ~
+#DESC        ~
+
+#RANGES
+1 90 1 90
+$
+
+#SPELLLIMIT 0
+#RESETMSG ~
+
+#FLAGS
+0
+
+#CURRENCY 0
+
+#HIGHECONOMY 0 0 0 0 0 -1
+
+#LOWECONOMY 0 6250000 0 0 0 -1
+
+#CLANNAME none~
+
+#INFLUENCE 0
+
+#MOBILES
+#29600
+A Demonic Servant~
+a demonic servant~
+A servant stands here, concealed in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+50 160 -20 5d9+280 5d8+19
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29601
+A Demonic Commoner~
+a demonic commoner~
+A commoner stands here, glaring at you with glowing red eyes.
+~
+~
+0
+Clanname none~
+0
+0
+1 524288 0 C
+54 170 -24 5d9+295 7d6+22
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29602
+A Demonic Guard~
+a demonic guard~
+A demon stands here, guarding Harhaken.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+55 180 -27 6d9+310 6d8+24
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29603
+A Nightmare~
+a nightmare~
+A demonic horse stands here, its fiery mane glowing brightly.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+58 170 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29604
+chaos~
+chaos~
+A demon stands here, sharpening a large battle axe.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29605
+rift~
+rift~
+A demon stands here, polishing a black breastplate.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29606
+nemesis~
+nemesis~
+A demon stands here, cleaning a large tankard.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29607
+sakar~
+sakar~
+A demon stands here, slicing some meat.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29608
+hasan~
+hasan~
+A demon stands here, scribing a scroll.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29609
+bahael~
+ba'hael~
+A demon stands here, mixing a potion.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+130 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29610
+hayir~
+hayir~
+A demon stands here, checking over a list.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+86 260 -56 9d12+425 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29611
+A fire bat~
+a fire bat~
+A bat flies around the room here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+62 170 -32 6d10+325 8d7+28
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29612
+demon lord~
+a demon lord~
+A demonic lord stands here, surrounded by an aura of power.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+92 200 -57 9d12+430 10d10+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29613
+demon lady~
+a demon lady~
+A demonic lady stands here, surrounded by an aura of power.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+88 200 -53 8d12+415 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29614
+bodyguard~
+a bodyguard~
+A demon stands here, protecting his master.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+75 230 -40 7d11+360 8d8+34
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29615
+demon master~
+the Demon Master~
+The Demon Master stands here, wielding a large sword.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+96 1300 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29616
+Hellhound~
+a `#`rhell`Rhound`^~
+A dog stands here, engulfed in flames.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+66 190 -36 7d10+340 7d8+32
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29617
+thane demon~
+thane~
+A demon sits here, hidden in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+93 340 -63 9d13+455 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29618
+kahn demon~
+kahn~
+A demon sits here, hidden in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+93 340 -63 9d13+455 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29619
+kayan demon~
+kayan~
+A demon sits here, hidden in the shadows.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 -600 C
+93 340 -63 9d13+455 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29620
+demonic knight~
+a demonic knight~
+A knight stands here, clad in the demonic platemail of Harhaken.
+~
+~
+0
+Clanname none~
+0
+0
+1 524288 -600 C
+88 190 -58 9d12+435 10d10+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29621
+demonic priest~
+a demonic priest~
+A priest stands here, wearing the black robes of evil.
+~
+~
+0
+Clanname none~
+0
+0
+1 524288 -600 C
+83 184 -53 8d12+410 9d10+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29622
+demonic enchanter~
+a demonic enchanter~
+A mage stands here, wielding a half-eaten blade.
+~
+~
+0
+Clanname none~
+0
+0
+1 524288 -600 C
+77 190 -46 8d11+380 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29623
+schleim~
+schleim~
+A demon stands here, watching over the portal.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 -600 C
+95 340 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29624
+royal guard~
+a royal guard~
+A guard stands here, guarding the entrace to his master's chamber.
+~
+~
+0
+Clanname none~
+0
+0
+3 524288 0 C
+94 450 -59 9d12+440 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29650
+kharas~
+kharas~
+A human stands here, waiting.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+95 2040 -65 10d13+460 10d12+50
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29651
+dark goblin~
+a dark goblin~
+An exiled goblin stands here, scavenging for items.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+48 260 -30 6d9+320 8d6+27
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29652
+apophis~
+an apophis~
+A giant snake rests here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+76 260 -41 7d11+360 8d8+35
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29653
+cockatrice~
+a cockatrice~
+A giant bird hovers here, looking for its next meal.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+77 260 -42 7d11+365 8d8+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29654
+ursag~
+an ursag~
+A mutated bear stands here.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+78 260 -43 7d11+370 8d9+36
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29655
+scavenger~
+a scavenger~
+A bizarre creature stands here, scavening for food.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 0 C
+79 260 -44 7d11+380 8d9+37
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29656
+lizard cave~
+a cave lizard~
+A large green lizard stands here.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+80 1560 -45 8d11+380 8d9+38
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29657
+fire lizard~
+a fire lizard~
+A red lizard stands here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+90 260 -54 8d12+415 9d10+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29658
+dark knight~
+a dark knight~
+A knight stands here, dressed in black chainmail.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+85 260 -50 8d12+400 9d9+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29659
+crusader~
+a crusader~
+A knight stands here, dressed in regal armor.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 600 C
+86 260 -51 8d12+405 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29660
+cuisinart~
+a cuisinart~
+A knight stands here, dressed in a shining breastplate.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+87 260 -52 8d12+410 9d10+41
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29661
+cave bat~
+a cave bat~
+A bat flies around the room here.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+50 260 -19 5d8+270 6d6+17
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29662
+lizardman~
+a lizardman~
+A tall, lizard-like being stands here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+65 0 0 C
+91 450 -56 9d12+425 10d10+43
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29663
+slith warrior~
+a slith warrior~
+A Slith stands here, wielding a large spear.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+95 500 -60 9d13+440 10d11+45
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29664
+slith shaman~
+a slith shaman~
+A slith stands here, chanting words of wisdom.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+95 500 -60 9d12+440 10d11+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29665
+slith khazi~
+a slith khazi~
+A slith stands here, chanting arcane words.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+95 350 -59 9d12+435 10d10+44
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29666
+emerald slime~
+an `#`Gemerald slime`^~
+A pile of `#`Gemerald`^ colored slime rests here.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+88 400 -53 8d12+410 9d10+42
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29667
+amber slime~
+an `#`yamber slime`^~
+A pile of `#`yamber`^ colored slime rests here.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+89 300 -53 8d12+410 9d10+40
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29668
+slith lord~
+a slith lord~
+A Slithzerekai stands here.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+97 500 -62 9d13+450 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29669
+giant lizard~
+a giant fire lizard~
+A giant fire lizard stands here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+65 512 -600 C
+96 500 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29670
+giant lizard~
+a giant cave lizard~
+A giant cave lizard stands here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+3 512 0 C
+96 430 -61 9d13+440 10d11+46
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29671
+alien slime~
+an alien slime~
+A large slime rests here.
+~
+~
+0
+Clanname none~
+0
+0
+3 0 0 C
+99 350 -64 9d13+455 10d12+49
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29672
+cuisinart lord~
+a cuisinart lord~
+A cuisinart stands here, watching you.
+~
+~
+0
+Clanname none~
+0
+0
+3 128 0 C
+98 550 -63 9d13+455 10d12+48
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#29697
+sakar~
+sakar~
+A demon stands here, next to some meat.
+~
+~
+0
+Clanname none~
+0
+0
+65 524288 0 C
+97 400 -62 9d13+445 10d11+47
+0 0 0 0 0 
+13
+113 113 13
+13 13 13 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#29600
+Death Axe~
+the Axe of Death~
+An axe lies here, radiating an aura of death.~
+~
+5 16 4
+3 127 169 16 0 0 0
+1 4500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29601
+Death Flail~
+the Flail of Death~
+A flail lies here, radiating an aura of death.~
+~
+5 16 4
+14 14 24 2 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29602
+Death Sword~
+the Sword of Death~
+A long sword lies here, radiating an aura of death.~
+~
+5 16 4
+9 7 16 9 0 0 0
+1 4750 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29603
+Death Mace~
+the Mace of Death~
+A mace lies here, radiating an aura of death.~
+~
+5 16 4
+3 17 25 129 0 0 0
+1 4800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29604
+Demonsword Illygrith~
+the Illygrith Demonsword~
+A sword lies here, radiating an aura of power and strength.~
+~
+5 16 4
+3 7 16 4 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29605
+Demonic Platemail~
+demonic Platemail~
+A suit of platemail lies here, radiating a red aura of death.~
+~
+9 16 8
+10 10 22 0 0 0 0
+1 6500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29606
+Demonic Wristguard~
+a Demonic Wristguard~
+A bracer lies here, radiating a red aura of death.~
+~
+9 16 8
+5 5 10 0 0 0 0
+1 4050 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29607
+Demonic Gauntlets~
+demonic Gauntlets~
+A pair of gauntlets lie here, radiating a red aura of death.~
+~
+9 16 8
+10 10 15 0 0 0 0
+1 5055 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29608
+demonic legwear~
+a set of Demonic legwear~
+A set of legwear lies here, radiating a red aura of Death.~
+~
+9 16 8
+10 10 18 0 0 0 0
+1 4950 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29609
+Demonic Visor~
+a Demonic Visor~
+A visor lies here, radiating a red aura of death.~
+~
+9 16 8
+5 5 18 0 0 0 0
+1 4200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29610
+Mug of Blood~
+an earthenware mug~
+A mug lies here, filled with a dark red liquid.~
+~
+17 0 16
+1 13 1 0 0 0 0
+1 15 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29611
+Shot of Whiskey~
+a shot of whiskey~
+A shot glass lies here, filled with a golden liquid.~
+~
+17 0 16
+1 5 0 0 0 0 0
+1 17 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29612
+Glass of Water~
+a glass of water~
+A glass lies here, filled with a clear liquid.~
+~
+17 0 16
+3 0 0 0 0 0 0
+1 2 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29613
+Leg of Beef~
+a leg of beef~
+A burnt and blackened leg lies here, gathering dust.~
+~
+19 0 16
+8 0 0 0 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29614
+Side of Lamb~
+a side of lamb~
+A chunk of meat lies on a plate here, gathering dust.~
+~
+19 0 16
+13 0 0 0 0 0 0
+1 22 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29615
+Rack of Ribs~
+a rack of ribs~
+A rack of ribs lies here, gathering dust.~
+~
+19 0 16
+6 0 0 0 0 0 0
+1 25 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29616
+Blood Demons~
+demons blood~
+A vial of blood lies here.~
+~
+10 16 8
+0 -1 -1 -1 0 0 0
+1 700 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29617
+potion illusion detect invis ~
+a potion of illusion~
+A translucent potion lies here.~
+~
+10 64 8
+0 -1 -1 -1 0 0 0
+1 460 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29618
+potion defense shield armor stone skin~
+a potion of defense~
+A glass vial lies here, filled with a strange liquid.~
+~
+10 16 8
+0 -1 -1 -1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29619
+Scroll ID~
+a scroll of identify~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 150 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29620
+scroll dispel~
+a scroll of dispel~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 40000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29621
+scroll dirty~
+a dirty scroll~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 50000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29622
+Scroll Manna~
+a scroll of Manna~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 5600 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29623
+scroll spring~
+a scroll of creation~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 0 2
+0 -1 -1 -1 0 0 0
+1 900 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29624
+Skin Flayer~
+`#`r-<`WThe Flayer of Skins`r>-`^~
+A blade rests here, the hilt wrapped in a human hide.~
+~
+5 16 4
+11 127 169 17 0 0 0
+1 4300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29625
+ring hell-fire hellfire hell fire~
+a ring of `#`RH`re`sl`rl`R-`rF`si`rr`Re`^~
+A ring lies here, engulfed in black and red flames.~
+~
+33 16 32
+0 0 0 0 0 0 0
+1 3100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29626
+Soul Tormented~
+a `#`R<`r<`R< `sTormented Soul `R>`r>`R>`^~
+A soul floats here, trapped for eternity.~
+~
+8 128 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29627
+rotting skull~
+a rotting skull~
+A skull rests here, looking at you with its empty eye sockets.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29628
+bloody sword~
+a `#`rbloody`^ sword~
+A sword lies here, it's blade stained with blood.~
+~
+5 16 4
+9 7 21 60 0 0 0
+1 8500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29629
+bloody shield~
+a `#`rbloody`^ shield~
+A shield lies here, stained with blood.~
+~
+9 16 8
+29 29 22 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29630
+bloody wristguard~
+a `#`rbloody`^ wristguard~
+A wristguard lies here, stained with blood.~
+~
+9 16 8
+12 12 9 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29631
+bloody greaves~
+a set of `#`rbloody`^ greaves~
+Some greaves lie here, stained with blood.~
+~
+9 16 8
+21 21 17 0 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29632
+Flail Noble~
+a noble's flail~
+A flail lies here, radiating an aura of power and death.~
+~
+5 16 4
+5 15 18 2 0 0 0
+2 6500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29633
+commoner shortsword~
+a commoner's shortsword~
+A shortsword lies here.~
+~
+5 16 4
+6 12 34 8 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29634
+bloody talons~
+a set of `#`rbloody`^ talons~
+A set of talons lies here, the tips stained with blood.~
+~
+5 16 4
+7 8 5 144 0 0 0
+1 7500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29635
+half eaten blade~
+a half-eaten blade~
+A blade lies here, half eaten.~
+~
+5 16 4
+10 5 2 144 0 0 0
+1 4500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29636
+staff power~
+a staff of `#`Cpower`^~
+A staff rests here, radiating an aura of power.~
+~
+5 64 4
+7 8 36 64 0 0 0
+1 7500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29637
+odd scroll~
+an odd scroll~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 6000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29638
+vial strange potion plague blind sleep teleport~
+a `#`?strange`^ potion~
+A vial lies here, filled with a `#`?strange`^ dark liquid.~
+~
+10 1 8
+0 -1 -1 -1 0 0 0
+1 4000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29639
+Staff Runed~
+a `#`br`su`bn`se`bd`^ staff~
+A staff rests against a wall here, covered with spidery runes.~
+~
+4 64 4
+0 0 0 -1 0 0 0
+1 10000 1
+1
+0
+0
+0
+0
+0
+'NONE'
+S 0 0
+#29650
+titanium breastplate~
+a `#`Wt`wi`Wt`wa`Wn`wi`Wu`wm `Wb`wr`We`wa`Ws`wt`Wp`wl`Wa`wt`We`^~
+A finely crafted breastplate lies here.~
+~
+9 0 8
+60 60 23 0 0 0 0
+2 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29651
+breastplate regal platemail~
+a `#`Br`Ye`Bg`Ya`Bl`^ breastplate~
+A platemail breastplate lies here.~
+~
+9 256 8
+55 55 23 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29652
+black chainmail tunic~
+a `#`sblack chainmail`^ tunic~
+A tunic made of small black metal rings lies here.~
+~
+9 64 8
+55 55 21 0 0 0 0
+1 1800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29653
+titanium claymore sword~
+a `#`Wt`wi`Wt`wa`Wn`wi`Wu`wm`^ claymore~
+A large claymore lies here, glistening in the light.~
+~
+5 0 4
+7 108 151 48 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29654
+regal broadsword~
+a `#`Br`Ye`Bg`Ya`Bl`^ broadsword~
+A broadsword lies here, glistening in the light.~
+~
+5 256 4
+11 116 152 2 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29655
+black shortsword sword~
+a `#`sblack`^ shortsword~
+A black shortsword lies here, radiating a dark aura.~
+~
+5 16 4
+9 108 151 128 0 0 0
+1 1200 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29656
+Spear Slithzerekai~
+a slithzerekai spear~
+A spear lies here, gathering dust.~
+~
+5 64 4
+8 127 169 48 0 0 0
+2 1500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29657
+Hide Slithzerekai~
+slithzerekai hide~
+A strange hide rests here.~
+~
+9 0 8
+60 60 26 0 0 0 0
+3 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29658
+dragonscale tunic~
+a `#`Rd`rr`Ra`rg`Ro`rn`Rs`rc`Ra`rl`Re`^ tunic~
+A tunic made of dragonscales rests here.~
+~
+9 64 8
+60 60 22 0 0 0 0
+1 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29659
+knights shield~
+the `#`cshield`^ of `#`cKnights`^~
+A shield lies here, gathering dust.~
+~
+9 256 8
+60 60 23 0 0 0 0
+1 1400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29660
+Dagger Slithzerekai~
+a slithzerekai dagger~
+A dagger lies here, gathering dust.~
+~
+5 64 4
+13 124 168 82 0 0 0
+1 1000 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29661
+berserker sword~
+the sword named `#`MBerserker`^~
+A large sword lies here, gathering dust.~
+~
+5 0 4
+5 127 169 56 0 0 0
+2 1450 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29662
+Claws Bloody~
+a set of `#`rbloody`^ claws~
+A set of sharp claws lies here, stained with blood.~
+~
+5 16 4
+4 124 168 0 0 0 0
+1 500 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29663
+Cave Lizard Claws~
+a set of cave lizard claws~
+A set of claws lies here, gathering dust.~
+~
+5 64 4
+6 105 135 128 0 0 0
+1 300 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29664
+Talons Scorched~
+some `#`ws`sc`ro`Rrc`rh`se`wd`^ talons~
+A set of burnt talons lies here.~
+~
+5 64 4
+11 124 168 1 0 0 0
+1 400 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29665
+Fire Lizard Claws~
+some `#`Rf`ri`Rr`re `Rl`ri`Rz`ra`Rr`rd`^ claws~
+A set of red claws lie on the ground here.~
+~
+5 64 4
+19 116 152 9 0 0 0
+1 600 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29666
+Hide Ursag~
+an `#`Gursag`^ hide~
+A smooth hide rests here.~
+~
+9 0 8
+55 55 23 0 0 0 0
+3 1100 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29667
+Ursag Rear Claws~
+the rear claws of an `#`Gursag`^~
+A strange set of claws rests here.~
+~
+9 16 8
+55 55 15 0 0 0 0
+1 800 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29668
+Farseeing Scroll~
+a scroll of farsight~
+A scroll rests here, waiting to be picked up.~
+~
+2 64 2
+0 -1 -1 -1 0 0 0
+1 5000 1
+1
+0
+0
+0
+0
+0
+'NONE' 'NONE' 'NONE'
+S 0 0
+#29669
+giant cockatrice feather~
+a giant `#`?cockatrice`^ feather~
+A feather from a giant cockatrice rests here.~
+~
+8 64 8
+0 0 0 0 0 0 0
+1 0 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29670
+three horned skull~
+a three-horned `#`wskull`^~
+The skull of an Apophis lies here.~
+~
+9 16 8
+60 60 23 0 0 0 0
+1 50 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#29671
+curved tooth dragon~
+a `#`mwicked`^ curved `#`Rd`rr`Ra`rg`Ro`rn`Rt`ro`Ro`rt`Rh`^~
+A tooth lies here, gathering dust.~
+~
+5 64 4
+16 62 76 2 0 0 0
+1 20 1
+1
+0
+0
+0
+0
+0
+S 0 0
+#0
+
+
+#ROOMS
+#29696
+A large tunnel~
+~
+You find yourself in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go east or west, both ways lead
+deeper into the tunnel.  
+~
+1 8 0
+D1
+~
+~
+0 0 29697
+R M 0 29658 1 29696
+  R E 0 29652 0 5
+  R E 0 29655 0 16
+S
+#29697
+A large tunnel~
+~
+You find yourself in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go east or west, both ways lead
+deeper into the tunnel.  
+~
+1 8 0
+D1
+~
+~
+0 0 29698
+D3
+~
+~
+0 0 29696
+R M 0 29659 1 29697
+  R E 0 29654 0 16
+  R E 0 29651 0 5
+R M 0 29652 8 29697
+S
+#29698
+A large tunnel~
+~
+You find yourself in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go north, into a large cavern, or
+west, back down the tunnel.  
+~
+1 8 0
+D0
+~
+~
+0 0 29699
+D3
+~
+~
+0 0 29697
+R M 0 29651 8 29698
+  R E 0 29671 0 16
+R M 0 29660 1 29698
+  R E 0 29650 0 5
+  R E 0 29653 0 16
+S
+#29699
+The Cuisinart Meeting Chamber~
+~
+You find yourself in a large cavern.  Along the walls are placed weapons
+of all sorts, amid pieces of armor.  There are several different human
+footprints, suggesting this is a meeting room for the humans residing in
+these tunnels.  Corpses and bones pile up on the ground, almost blocking the
+southern exit.  To the south lies your only exit, and possibly safety.  
+~
+1 8 0
+D2
+~
+~
+0 0 29698
+R M 0 29654 6 29699
+  R E 0 29667 0 8
+  R E 0 29666 0 12
+R M 0 29672 1 29699
+  R E 0 29659 0 5
+  R E 0 29661 0 16
+S
+#0
+
+
+#SHOPS
+ 29604    5  0  0  0  0   110  90         0 23    ; chaos
+ 29605    9  0  0  0  0   110  90         0 23    ; rift
+ 29606   19  0  0  0  0   110  90         0 23    ; nemesis
+ 29607   17  0  0  0  0   110  90         0 23    ; sakar
+ 29608    2  0  0  0  0   110  90         0 23    ; hasan
+ 29609   10  0  0  0  0   110  90         0 23    ; ba'hael
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$
