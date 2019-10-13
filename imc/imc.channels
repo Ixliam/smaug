@@ -1,0 +1,1270 @@
+#IMCCHAN
+ChanName   *dalet:4Liberty
+ChanLocal  4Liberty
+ChanRegF   ~R[~Y4Liberty~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y4Liberty~R] ~c%s %s
+ChanSocF   ~R[~Y4Liberty~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:yblah
+ChanLocal  yblah
+ChanRegF   ~R[~Yyblah~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yyblah~R] ~c%s %s
+ChanSocF   ~R[~Yyblah~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ROME_CHAT
+ChanLocal  ROME_CHAT
+ChanRegF   ~R[~YROME_CHAT~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YROME_CHAT~R] ~c%s %s
+ChanSocF   ~R[~YROME_CHAT~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:newbie
+ChanLocal  newbie
+ChanRegF   ~R[~Ynewbie~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ynewbie~R] ~c%s %s
+ChanSocF   ~R[~Ynewbie~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:skylib
+ChanLocal  skylib
+ChanRegF   ~R[~Yskylib~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yskylib~R] ~c%s %s
+ChanSocF   ~R[~Yskylib~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ea
+ChanLocal  ea
+ChanRegF   ~R[~Yea~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yea~R] ~c%s %s
+ChanSocF   ~R[~Yea~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:roleplaying
+ChanLocal  roleplaying
+ChanRegF   ~R[~Yroleplaying~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yroleplaying~R] ~c%s %s
+ChanSocF   ~R[~Yroleplaying~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:narrator
+ChanLocal  narrator
+ChanRegF   ~R[~Ynarrator~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ynarrator~R] ~c%s %s
+ChanSocF   ~R[~Ynarrator~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:I3testers2
+ChanLocal  I3testers2
+ChanRegF   ~R[~YI3testers2~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YI3testers2~R] ~c%s %s
+ChanSocF   ~R[~YI3testers2~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:DaysofDragons
+ChanLocal  DaysofDragons
+ChanRegF   ~R[~YDaysofDragons~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YDaysofDragons~R] ~c%s %s
+ChanSocF   ~R[~YDaysofDragons~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:sport
+ChanLocal  sport
+ChanRegF   ~R[~Ysport~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ysport~R] ~c%s %s
+ChanSocF   ~R[~Ysport~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:trivia_games
+ChanLocal  trivia_games
+ChanRegF   ~R[~Ytrivia_games~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ytrivia_games~R] ~c%s %s
+ChanSocF   ~R[~Ytrivia_games~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:Arch
+ChanLocal  Arch
+ChanRegF   ~R[~YArch~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YArch~R] ~c%s %s
+ChanSocF   ~R[~YArch~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:TestMud
+ChanLocal  TestMud
+ChanRegF   ~R[~YTestMud~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YTestMud~R] ~c%s %s
+ChanSocF   ~R[~YTestMud~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:coffemud
+ChanLocal  coffemud
+ChanRegF   ~R[~Ycoffemud~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycoffemud~R] ~c%s %s
+ChanSocF   ~R[~Ycoffemud~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:imud_imud_sgz
+ChanLocal  imud_imud_sgz
+ChanRegF   ~R[~Yimud_imud_sgz~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yimud_imud_sgz~R] ~c%s %s
+ChanSocF   ~R[~Yimud_imud_sgz~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:CoffeeMud_Universe
+ChanLocal  coffeemud_universe
+ChanRegF   ~R[~Ycoffeemud_universe~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycoffeemud_universe~R] ~c%s %s
+ChanSocF   ~R[~Ycoffeemud_universe~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mlp
+ChanLocal  mlp
+ChanRegF   ~R[~Ymlp~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymlp~R] ~c%s %s
+ChanSocF   ~R[~Ymlp~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ichat
+ChanLocal  ichat
+ChanRegF   ~R[~Yichat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yichat~R] ~c%s %s
+ChanSocF   ~R[~Yichat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:foo
+ChanLocal  foo
+ChanRegF   ~R[~Yfoo~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfoo~R] ~c%s %s
+ChanSocF   ~R[~Yfoo~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:4l
+ChanLocal  4l
+ChanRegF   ~R[~Y4l~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y4l~R] ~c%s %s
+ChanSocF   ~R[~Y4l~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:pvp
+ChanLocal  pvp
+ChanRegF   ~R[~Ypvp~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypvp~R] ~c%s %s
+ChanSocF   ~R[~Ypvp~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:cleric
+ChanLocal  cleric
+ChanRegF   ~R[~Ycleric~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycleric~R] ~c%s %s
+ChanSocF   ~R[~Ycleric~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:spyro
+ChanLocal  spyro
+ChanRegF   ~R[~Yspyro~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yspyro~R] ~c%s %s
+ChanSocF   ~R[~Yspyro~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:zblah
+ChanLocal  zblah
+ChanRegF   ~R[~Yzblah~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yzblah~R] ~c%s %s
+ChanSocF   ~R[~Yzblah~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:wolimm
+ChanLocal  wolimm
+ChanRegF   ~R[~Ywolimm~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ywolimm~R] ~c%s %s
+ChanSocF   ~R[~Ywolimm~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:3d-space
+ChanLocal  3d-space
+ChanRegF   ~R[~Y3d-space~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y3d-space~R] ~c%s %s
+ChanSocF   ~R[~Y3d-space~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:gw_imm
+ChanLocal  gw_imm
+ChanRegF   ~R[~Ygw_imm~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ygw_imm~R] ~c%s %s
+ChanSocF   ~R[~Ygw_imm~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ad
+ChanLocal  ad
+ChanRegF   ~R[~Yad~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yad~R] ~c%s %s
+ChanSocF   ~R[~Yad~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:nschat
+ChanLocal  nschat
+ChanRegF   ~R[~Ynschat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ynschat~R] ~c%s %s
+ChanSocF   ~R[~Ynschat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:gwimm
+ChanLocal  gwimm
+ChanRegF   ~R[~Ygwimm~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ygwimm~R] ~c%s %s
+ChanSocF   ~R[~Ygwimm~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ravenloft
+ChanLocal  ravenloft
+ChanRegF   ~R[~Yravenloft~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yravenloft~R] ~c%s %s
+ChanSocF   ~R[~Yravenloft~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:lima
+ChanLocal  lima
+ChanRegF   ~R[~Ylima~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ylima~R] ~c%s %s
+ChanSocF   ~R[~Ylima~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:smblah
+ChanLocal  smblah
+ChanRegF   ~R[~Ysmblah~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ysmblah~R] ~c%s %s
+ChanSocF   ~R[~Ysmblah~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:Days_of_Dragons
+ChanLocal  Days_of_Dragons
+ChanRegF   ~R[~YDays_of_Dragons~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YDays_of_Dragons~R] ~c%s %s
+ChanSocF   ~R[~YDays_of_Dragons~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:nakki
+ChanLocal  nakki
+ChanRegF   ~R[~Ynakki~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ynakki~R] ~c%s %s
+ChanSocF   ~R[~Ynakki~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dreamverse_gossip
+ChanLocal  dreamverse_gossip
+ChanRegF   ~R[~Ydreamverse_gossip~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydreamverse_gossip~R] ~c%s %s
+ChanSocF   ~R[~Ydreamverse_gossip~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:lpuni
+ChanLocal  lpuni
+ChanRegF   ~R[~Ylpuni~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ylpuni~R] ~c%s %s
+ChanSocF   ~R[~Ylpuni~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:imud
+ChanLocal  imud
+ChanRegF   ~R[~Yimud~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yimud~R] ~c%s %s
+ChanSocF   ~R[~Yimud~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bofh
+ChanLocal  bofh
+ChanRegF   ~R[~Ybofh~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybofh~R] ~c%s %s
+ChanSocF   ~R[~Ybofh~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:talkie
+ChanLocal  talkie
+ChanRegF   ~R[~Ytalkie~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ytalkie~R] ~c%s %s
+ChanSocF   ~R[~Ytalkie~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:french
+ChanLocal  french
+ChanRegF   ~R[~Yfrench~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfrench~R] ~c%s %s
+ChanSocF   ~R[~Yfrench~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:vore
+ChanLocal  vore
+ChanRegF   ~R[~Yvore~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yvore~R] ~c%s %s
+ChanSocF   ~R[~Yvore~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:test
+ChanLocal  test
+ChanRegF   ~R[~Ytest~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ytest~R] ~c%s %s
+ChanSocF   ~R[~Ytest~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:avatar
+ChanLocal  avatar
+ChanRegF   ~R[~Yavatar~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yavatar~R] ~c%s %s
+ChanSocF   ~R[~Yavatar~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:coffeemud
+ChanLocal  CoffeeMud
+ChanRegF   ~R[~YCoffeeMud~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YCoffeeMud~R] ~c%s %s
+ChanSocF   ~R[~YCoffeeMud~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mychannel6
+ChanLocal  mychannel6
+ChanRegF   ~R[~Ymychannel6~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymychannel6~R] ~c%s %s
+ChanSocF   ~R[~Ymychannel6~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:pray
+ChanLocal  pray
+ChanRegF   ~R[~Ypray~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypray~R] ~c%s %s
+ChanSocF   ~R[~Ypray~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ROMECHAT
+ChanLocal  ROMECHAT
+ChanRegF   ~R[~YROMECHAT~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YROMECHAT~R] ~c%s %s
+ChanSocF   ~R[~YROMECHAT~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:battlenet
+ChanLocal  battlenet
+ChanRegF   ~R[~Ybattlenet~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybattlenet~R] ~c%s %s
+ChanSocF   ~R[~Ybattlenet~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mychannel4
+ChanLocal  mychannel4
+ChanRegF   ~R[~Ymychannel4~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymychannel4~R] ~c%s %s
+ChanSocF   ~R[~Ymychannel4~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mychannel3
+ChanLocal  mychannel3
+ChanRegF   ~R[~Ymychannel3~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymychannel3~R] ~c%s %s
+ChanSocF   ~R[~Ymychannel3~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:I3testers
+ChanLocal  I3testers
+ChanRegF   ~R[~YI3testers~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YI3testers~R] ~c%s %s
+ChanSocF   ~R[~YI3testers~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mychannel2
+ChanLocal  mychannel2
+ChanRegF   ~R[~Ymychannel2~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymychannel2~R] ~c%s %s
+ChanSocF   ~R[~Ymychannel2~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mudnews
+ChanLocal  mudnews
+ChanRegF   ~R[~Ymudnews~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymudnews~R] ~c%s %s
+ChanSocF   ~R[~Ymudnews~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mystic_dev
+ChanLocal  mystic_dev
+ChanRegF   ~R[~Ymystic_dev~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymystic_dev~R] ~c%s %s
+ChanSocF   ~R[~Ymystic_dev~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:game
+ChanLocal  game
+ChanRegF   ~R[~Ygame~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ygame~R] ~c%s %s
+ChanSocF   ~R[~Ygame~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:serenity
+ChanLocal  serenity
+ChanRegF   ~R[~Yserenity~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yserenity~R] ~c%s %s
+ChanSocF   ~R[~Yserenity~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:havenlib
+ChanLocal  havenlib
+ChanRegF   ~R[~Yhavenlib~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yhavenlib~R] ~c%s %s
+ChanSocF   ~R[~Yhavenlib~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:wizard
+ChanLocal  wizard
+ChanRegF   ~R[~Ywizard~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ywizard~R] ~c%s %s
+ChanSocF   ~R[~Ywizard~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bestiality
+ChanLocal  bestiality
+ChanRegF   ~R[~Ybestiality~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybestiality~R] ~c%s %s
+ChanSocF   ~R[~Ybestiality~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:FelixFelicis
+ChanLocal  felixfelicis
+ChanRegF   ~R[~Yfelixfelicis~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfelixfelicis~R] ~c%s %s
+ChanSocF   ~R[~Yfelixfelicis~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:coffeemud_university
+ChanLocal  coffeemud_university
+ChanRegF   ~R[~Ycoffeemud_university~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycoffeemud_university~R] ~c%s %s
+ChanSocF   ~R[~Ycoffeemud_university~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:imud_sgz
+ChanLocal  imud_sgz
+ChanRegF   ~R[~Yimud_sgz~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yimud_sgz~R] ~c%s %s
+ChanSocF   ~R[~Yimud_sgz~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:otg
+ChanLocal  otg
+ChanRegF   ~R[~Yotg~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yotg~R] ~c%s %s
+ChanSocF   ~R[~Yotg~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:godwars
+ChanLocal  godwars
+ChanRegF   ~R[~Ygodwars~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ygodwars~R] ~c%s %s
+ChanSocF   ~R[~Ygodwars~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mychannel
+ChanLocal  mychannel
+ChanRegF   ~R[~Ymychannel~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymychannel~R] ~c%s %s
+ChanSocF   ~R[~Ymychannel~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ADR
+ChanLocal  ADR
+ChanRegF   ~R[~YADR~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YADR~R] ~c%s %s
+ChanSocF   ~R[~YADR~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:troll
+ChanLocal  troll
+ChanRegF   ~R[~Ytroll~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ytroll~R] ~c%s %s
+ChanSocF   ~R[~Ytroll~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dchat
+ChanLocal  dchat
+ChanRegF   ~R[~Ydchat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydchat~R] ~c%s %s
+ChanSocF   ~R[~Ydchat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:kotaka
+ChanLocal  kotaka
+ChanRegF   ~R[~Ykotaka~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ykotaka~R] ~c%s %s
+ChanSocF   ~R[~Ykotaka~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:diskworld-cre
+ChanLocal  diskworld-cre
+ChanRegF   ~R[~Ydiskworld-cre~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydiskworld-cre~R] ~c%s %s
+ChanSocF   ~R[~Ydiskworld-cre~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:pyom
+ChanLocal  pyom
+ChanRegF   ~R[~Ypyom~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypyom~R] ~c%s %s
+ChanSocF   ~R[~Ypyom~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:imud_code
+ChanLocal  imud_code
+ChanRegF   ~R[~Yimud_code~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yimud_code~R] ~c%s %s
+ChanSocF   ~R[~Yimud_code~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:foobar
+ChanLocal  foobar
+ChanRegF   ~R[~Yfoobar~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfoobar~R] ~c%s %s
+ChanSocF   ~R[~Yfoobar~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:plea
+ChanLocal  plea
+ChanRegF   ~R[~Yplea~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yplea~R] ~c%s %s
+ChanSocF   ~R[~Yplea~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:CoffeeMudESP
+ChanLocal  coffeemudesp
+ChanRegF   ~R[~Ycoffeemudesp~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycoffeemudesp~R] ~c%s %s
+ChanSocF   ~R[~Ycoffeemudesp~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:JammsTest
+ChanLocal  JammsTest
+ChanRegF   ~R[~YJammsTest~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YJammsTest~R] ~c%s %s
+ChanSocF   ~R[~YJammsTest~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:insomnia-chat
+ChanLocal  insomnia-chat
+ChanRegF   ~R[~Yinsomnia-chat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yinsomnia-chat~R] ~c%s %s
+ChanSocF   ~R[~Yinsomnia-chat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dod
+ChanLocal  dod
+ChanRegF   ~R[~Ydod~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydod~R] ~c%s %s
+ChanSocF   ~R[~Ydod~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ascii_video
+ChanLocal  ascii_video
+ChanRegF   ~R[~Yascii_video~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yascii_video~R] ~c%s %s
+ChanSocF   ~R[~Yascii_video~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ascii_art
+ChanLocal  ascii_art
+ChanRegF   ~R[~Yascii_art~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yascii_art~R] ~c%s %s
+ChanSocF   ~R[~Yascii_art~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:6d
+ChanLocal  6d
+ChanRegF   ~R[~Y6d~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y6d~R] ~c%s %s
+ChanSocF   ~R[~Y6d~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:1
+ChanLocal  1
+ChanRegF   ~R[~Y1~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y1~R] ~c%s %s
+ChanSocF   ~R[~Y1~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dutch
+ChanLocal  dutch
+ChanRegF   ~R[~Ydutch~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydutch~R] ~c%s %s
+ChanSocF   ~R[~Ydutch~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:intergossip
+ChanLocal  intergossip
+ChanRegF   ~R[~Yintergossip~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yintergossip~R] ~c%s %s
+ChanSocF   ~R[~Yintergossip~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:corinium
+ChanLocal  corinium
+ChanRegF   ~R[~Ycorinium~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycorinium~R] ~c%s %s
+ChanSocF   ~R[~Ycorinium~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:crat
+ChanLocal  crat
+ChanRegF   ~R[~Ycrat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ycrat~R] ~c%s %s
+ChanSocF   ~R[~Ycrat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bsg2
+ChanLocal  bsg2
+ChanRegF   ~R[~Ybsg2~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybsg2~R] ~c%s %s
+ChanSocF   ~R[~Ybsg2~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bd_devtalk
+ChanLocal  bd_devtalk
+ChanRegF   ~R[~Ybd_devtalk~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybd_devtalk~R] ~c%s %s
+ChanSocF   ~R[~Ybd_devtalk~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:animechat
+ChanLocal  animechat
+ChanRegF   ~R[~Yanimechat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yanimechat~R] ~c%s %s
+ChanSocF   ~R[~Yanimechat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:pkiller
+ChanLocal  pkiller
+ChanRegF   ~R[~Ypkiller~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypkiller~R] ~c%s %s
+ChanSocF   ~R[~Ypkiller~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:pants
+ChanLocal  pants
+ChanRegF   ~R[~Ypants~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ypants~R] ~c%s %s
+ChanSocF   ~R[~Ypants~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:church
+ChanLocal  church
+ChanRegF   ~R[~Ychurch~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ychurch~R] ~c%s %s
+ChanSocF   ~R[~Ychurch~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:CrossMUD
+ChanLocal  CrossMUD
+ChanRegF   ~R[~YCrossMUD~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YCrossMUD~R] ~c%s %s
+ChanSocF   ~R[~YCrossMUD~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:foofoo
+ChanLocal  foofoo
+ChanRegF   ~R[~Yfoofoo~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfoofoo~R] ~c%s %s
+ChanSocF   ~R[~Yfoofoo~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:nscre
+ChanLocal  nscre
+ChanRegF   ~R[~Ynscre~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ynscre~R] ~c%s %s
+ChanSocF   ~R[~Ynscre~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:3dspace
+ChanLocal  3dspace
+ChanRegF   ~R[~Y3dspace~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y3dspace~R] ~c%s %s
+ChanSocF   ~R[~Y3dspace~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dreamverse-gossip
+ChanLocal  dreamverse-gossip
+ChanRegF   ~R[~Ydreamverse-gossip~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydreamverse-gossip~R] ~c%s %s
+ChanSocF   ~R[~Ydreamverse-gossip~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:furry
+ChanLocal  furry
+ChanRegF   ~R[~Yfurry~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfurry~R] ~c%s %s
+ChanSocF   ~R[~Yfurry~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:mage
+ChanLocal  mage
+ChanRegF   ~R[~Ymage~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymage~R] ~c%s %s
+ChanSocF   ~R[~Ymage~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:yiff
+ChanLocal  yiff
+ChanRegF   ~R[~Yyiff~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yyiff~R] ~c%s %s
+ChanSocF   ~R[~Yyiff~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:6d_ToF
+ChanLocal  6d_ToF
+ChanRegF   ~R[~Y6d_ToF~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Y6d_ToF~R] ~c%s %s
+ChanSocF   ~R[~Y6d_ToF~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:fluffos
+ChanLocal  fluffos
+ChanRegF   ~R[~Yfluffos~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfluffos~R] ~c%s %s
+ChanSocF   ~R[~Yfluffos~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bsg
+ChanLocal  bsg
+ChanRegF   ~R[~Ybsg~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybsg~R] ~c%s %s
+ChanSocF   ~R[~Ybsg~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:lords&legends
+ChanLocal  lords&legends
+ChanRegF   ~R[~Ylords&legends~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ylords&legends~R] ~c%s %s
+ChanSocF   ~R[~Ylords&legends~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:wileymud
+ChanLocal  wileymud
+ChanRegF   ~R[~Ywileymud~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ywileymud~R] ~c%s %s
+ChanSocF   ~R[~Ywileymud~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:url
+ChanLocal  url
+ChanRegF   ~R[~Yurl~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yurl~R] ~c%s %s
+ChanSocF   ~R[~Yurl~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:imud_gossip
+ChanLocal  imud_gossip
+ChanRegF   ~R[~Yimud_gossip~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yimud_gossip~R] ~c%s %s
+ChanSocF   ~R[~Yimud_gossip~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:blah
+ChanLocal  blah
+ChanRegF   ~R[~Yblah~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yblah~R] ~c%s %s
+ChanSocF   ~R[~Yblah~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:Iberia
+ChanLocal  Iberia
+ChanRegF   ~R[~YIberia~R] ~C%s: ~c%s
+ChanEmoF   ~R[~YIberia~R] ~c%s %s
+ChanSocF   ~R[~YIberia~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:inews
+ChanLocal  inews
+ChanRegF   ~R[~Yinews~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yinews~R] ~c%s %s
+ChanSocF   ~R[~Yinews~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:discworld-cre
+ChanLocal  discworld-cre
+ChanRegF   ~R[~Ydiscworld-cre~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydiscworld-cre~R] ~c%s %s
+ChanSocF   ~R[~Ydiscworld-cre~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:discworld_chat
+ChanLocal  discworld_chat
+ChanRegF   ~R[~Ydiscworld_chat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydiscworld_chat~R] ~c%s %s
+ChanSocF   ~R[~Ydiscworld_chat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:elephant_link
+ChanLocal  elephant_link
+ChanRegF   ~R[~Yelephant_link~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yelephant_link~R] ~c%s %s
+ChanSocF   ~R[~Yelephant_link~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:minecraft
+ChanLocal  minecraft
+ChanRegF   ~R[~Yminecraft~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yminecraft~R] ~c%s %s
+ChanSocF   ~R[~Yminecraft~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:free_speech
+ChanLocal  free_speech
+ChanRegF   ~R[~Yfree_speech~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfree_speech~R] ~c%s %s
+ChanSocF   ~R[~Yfree_speech~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bot
+ChanLocal  bot
+ChanRegF   ~R[~Ybot~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybot~R] ~c%s %s
+ChanSocF   ~R[~Ybot~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:discord
+ChanLocal  discord
+ChanRegF   ~R[~Ydiscord~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydiscord~R] ~c%s %s
+ChanSocF   ~R[~Ydiscord~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:vest
+ChanLocal  vest
+ChanRegF   ~R[~Yvest~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yvest~R] ~c%s %s
+ChanSocF   ~R[~Yvest~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:wolchat
+ChanLocal  wolchat
+ChanRegF   ~R[~Ywolchat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ywolchat~R] ~c%s %s
+ChanSocF   ~R[~Ywolchat~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dead_test4
+ChanLocal  dead_test4
+ChanRegF   ~R[~Ydead_test4~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydead_test4~R] ~c%s %s
+ChanSocF   ~R[~Ydead_test4~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dgd
+ChanLocal  dgd
+ChanRegF   ~R[~Ydgd~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydgd~R] ~c%s %s
+ChanSocF   ~R[~Ydgd~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:icoff
+ChanLocal  icoff
+ChanRegF   ~R[~Yicoff~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yicoff~R] ~c%s %s
+ChanSocF   ~R[~Yicoff~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dragon
+ChanLocal  dragon
+ChanRegF   ~R[~Ydragon~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydragon~R] ~c%s %s
+ChanSocF   ~R[~Ydragon~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:xblah
+ChanLocal  xblah
+ChanRegF   ~R[~Yxblah~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yxblah~R] ~c%s %s
+ChanSocF   ~R[~Yxblah~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:avalar
+ChanLocal  avalar
+ChanRegF   ~R[~Yavalar~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yavalar~R] ~c%s %s
+ChanSocF   ~R[~Yavalar~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:german
+ChanLocal  german
+ChanRegF   ~R[~Ygerman~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ygerman~R] ~c%s %s
+ChanSocF   ~R[~Ygerman~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:dead_souls
+ChanLocal  dead_souls
+ChanRegF   ~R[~Ydead_souls~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydead_souls~R] ~c%s %s
+ChanSocF   ~R[~Ydead_souls~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:tinyurl
+ChanLocal  tinyurl
+ChanRegF   ~R[~Ytinyurl~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ytinyurl~R] ~c%s %s
+ChanSocF   ~R[~Ytinyurl~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ifree
+ChanLocal  ifree
+ChanRegF   ~R[~Yifree~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yifree~R] ~c%s %s
+ChanSocF   ~R[~Yifree~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:rp-pve
+ChanLocal  rp-pve
+ChanRegF   ~R[~Yrp-pve~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yrp-pve~R] ~c%s %s
+ChanSocF   ~R[~Yrp-pve~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:ooc
+ChanLocal  ooc
+ChanRegF   ~R[~Yooc~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yooc~R] ~c%s %s
+ChanSocF   ~R[~Yooc~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:another_channel
+ChanLocal  another_channel
+ChanRegF   ~R[~Yanother_channel~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yanother_channel~R] ~c%s %s
+ChanSocF   ~R[~Yanother_channel~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:asdfasdf
+ChanLocal  asdfasdf
+ChanRegF   ~R[~Yasdfasdf~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yasdfasdf~R] ~c%s %s
+ChanSocF   ~R[~Yasdfasdf~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:bd_dev
+ChanLocal  bd_dev
+ChanRegF   ~R[~Ybd_dev~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ybd_dev~R] ~c%s %s
+ChanSocF   ~R[~Ybd_dev~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:igossip
+ChanLocal  igossip
+ChanRegF   ~R[~Yigossip~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yigossip~R] ~c%s %s
+ChanSocF   ~R[~Yigossip~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:jengatest
+ChanLocal  jengatest
+ChanRegF   ~R[~Yjengatest~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yjengatest~R] ~c%s %s
+ChanSocF   ~R[~Yjengatest~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:monk
+ChanLocal  monk
+ChanRegF   ~R[~Ymonk~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ymonk~R] ~c%s %s
+ChanSocF   ~R[~Ymonk~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:firefly
+ChanLocal  firefly
+ChanRegF   ~R[~Yfirefly~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Yfirefly~R] ~c%s %s
+ChanSocF   ~R[~Yfirefly~R] ~c%s
+ChanLevel  3
+End
+
+#IMCCHAN
+ChanName   *dalet:discworld-chat
+ChanLocal  discworld-chat
+ChanRegF   ~R[~Ydiscworld-chat~R] ~C%s: ~c%s
+ChanEmoF   ~R[~Ydiscworld-chat~R] ~c%s %s
+ChanSocF   ~R[~Ydiscworld-chat~R] ~c%s
+ChanLevel  3
+End
+
+#END
